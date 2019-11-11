@@ -1,2 +1,2 @@
-# learning
-everything about the learning superpower
+# Initial page
+

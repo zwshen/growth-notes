@@ -5,7 +5,7 @@ Reading Listing
 
 * 古典 - [超級個體](chao-ji-ge-ti.md)
 
-* Scott Young - Ultralearning
+* Scott Young - [Ultralearning](ultralearning-scott-young.md)
 
 * 成甲 - 好好學習
 

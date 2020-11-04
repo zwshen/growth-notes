@@ -11,11 +11,11 @@ hahow 線上課課 https://hahow.in/courses/5f14aeabcad0d0afe5ea3898/main
 
 ### Clear Up the Basics
 
-* A B C D E
-* F G H I J 
-* K L M N O 
-* P Q R S T 
-* U V W X Y Z
+* A[e] B[bi] C[si] D[di] E[i]
+* F[ɛf] G[dʒi] H[etʃ] I[aɪ] J[dʒe]
+* K[ke] L[ɛl] M[ɛm] N[ɛn] O[o]
+* P[pi] Q[kju] R[ɑr] S[ɛs] T[ti]
+* U[ju] V[vi] W[ˋdʌblju] X[ɛks] Y[waɪ] Z[zi]
 
 
 

@@ -2,6 +2,8 @@
 
 https://www.jianshu.com/p/f58d8dced08d
 
+* 如何應用 ultraleanring principles 在學圍棋上？
+
 ## 1. 引言
 
 引言

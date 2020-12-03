@@ -19,6 +19,13 @@ hahow 線上課課 https://hahow.in/courses/5f14aeabcad0d0afe5ea3898/main
   * 默背下一句之前，把以往所學背默一遍，遇到卡頓錯漏，重複背誦。
   * 直到這些文章成為自已身體的一部份，隨意調遣使用。
 
+* 康奈爾筆記法
+  * 記錄(Record)：在聽講或閱讀過程中，在主欄盡量多記
+  * 簡化(Reduce)：課後、及早將歸納、提鍊記錄在副欄
+  * 背誦(Recite)：把主欄遮住，只用回憶欄復現所學
+  * 思考(Reflect)：記錄各種問題，感悟體會。
+  * 複習(Review)：每週花十分鐘左右，快速複習筆記。
+
 ## Begineer
 
 ### Unit 1 Tip Before Learning

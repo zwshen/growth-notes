@@ -1,8 +1,8 @@
 
 # notes
 ## 2020
-* 12/07 從evernote上把資料搬到github上，原來之前整理過life principels全文就405句。
-
+* 12/07 從evernote上把資料搬到github上，Life principel 第一大條全文就405句，但我大概只有背到1.3也就28+5+30 = 73句而已。相比核聚訂21天23篇文章共211句，我連34%的目標都比不上。
+* 12/07 打算改成來背誦和精讀life principels 的第2大條“5-Step Process"，想說這5步似乎滿貼近生活，會比較方便從生活中找案例來驗證原則內容。
 
 ## 2018
 
@@ -15,9 +15,9 @@
 * 10/24 每天大概只有花30分鐘在默寫舊句子和背新的句子，還沒有到1天背10句的程度。
 * 10/25 1.1.a 未段的 work hard 一句的介系詞很難背...
 
-## Project Plan
+## Life Principles
 
-## Embrace Reality and deal with it
+## 1. Embrace Reality and deal with it
 
 Total: 405句
 
@@ -95,20 +95,151 @@ Total: 405句
 
 ### 1.10 Look at the machine from the higher level.
 
-  a. Think of yourself as a machine operating within a machine and know that you have the ability to alter your machines to produce better outcomes.
+    a. Think of yourself as a machine operating within a machine and know that you have the ability to alter your machines to produce better outcomes.
+    [θɪŋk]  [jʊɚˋsɛlf]   [məˋʃin] [ˋɑpəretɪŋ] [wɪˋðɪn]  [məˋʃin] [ænd] [no] [ðæt] [ju] [hæv] [ðə] [əˋbɪlətɪ]  [ˋɔltɚ] [jʊɚ]   [prəˋdjus] [ˋbɛtɚ] [ˋaʊt͵kʌm]
 
-  b. By comparing your outcomes with your goals, you can determine how to modify your machine.
+    b. By comparing your outcomes with your goals, you can determine how to modify your machine.
+    [jʊɚ] [ˋaʊt͵kʌm] [wɪð] [jʊɚ]  [ju] [kæn] [dɪˋtɝmɪn] [haʊ]  [ˋmɑdə͵faɪ] [jʊɚ] [məˋʃin]
 
-  c. Distinguish between you as the designer of your machine and you as a worker with your machine.
+    c. Distinguish between you as the designer of your machine and you as a worker with your machine.
+    [dɪˋstɪŋgwɪʃ] [bɪˋtwin] [ju]  [ðə] [dɪˋzaɪnɚ]  [jʊɚ] [məˋʃin] [ænd] [ju]   [ˋwɝkɚ] [wɪð] [jʊɚ] [məˋʃin]
 
-  d. The biggest mistake most people make is to not see themselves and others objectively, which leads them to bump into their own and others’ weaknesses again and again.
+    d. The biggest mistake most people make is to not see themselves and others objectively, which leads them to bump into their own and others' weaknesses again and again.
+    [ðə]  [mɪˋstek] [most] [ˋpip!] [mek]   [nɑt] [si] [ðəmˋsɛlvz] [ænd]  [əbˋdʒɛktɪvlɪ] [hwɪtʃ]  [ðɛm]  [bʌmp] [ˋɪntu] [ðɛr] [on] [ænd]   [əˋgɛn] [ænd] [əˋgɛn]
 
-  e. Successful people are those who can go above themselves to see things objectively and manage those things to shape change.
+    e. Successful people are those who can go above themselves to see things objectively and manage those things to shape change.
+    [səkˋsɛsfəl] [ˋpip!] [ɑr] [ðoz] [hu] [kæn]  [əˋbʌv] [ðəmˋsɛlvz]  [si]  [əbˋdʒɛktɪvlɪ] [ænd] [ˋmænɪdʒ] [ðoz]    [tʃendʒ]
 
-  f. Asking others who are strong in areas where you are weak to help you is a great skill that you should develop no matter what, as it will help you develop guardrails that will prevent you from doing what you shouldn’t be doing.
+    f. Asking others who are strong in areas where you are weak to help you is a great skill that you should develop no matter what, as it will help you develop guardrails that will prevent you from doing what you shouldn't be doing.
+    [ˋæskɪŋ]  [hu] [ɑr] [strɔŋ]   [hwɛr] [ju] [ɑr] [wik]  [hɛlp] [ju]   [gret]  [ðæt] [ju]  [dɪˋvɛləp]  [ˋmætɚ] [hwɑt]   [wɪl] [hɛlp] [ju] [dɪˋvɛləp] [ˋgɑrd͵rel] [ðæt] [wɪl] [prɪˋvɛnt] [ju] [frɑm] [ˋduɪŋ] [hwɑt] [ju]   [ˋduɪŋ]
 
-  g. Because it is difficult to see oneself objectively, you need to rely on the input of others and the whole body of evidence.
+    g. Because it is difficult to see oneself objectively, you need to rely on the input of others and the whole body of evidence.
+    [bɪˋkɔz]   [ˋdɪfə͵kəlt]  [si] [wʌnˋsɛlf] [əbˋdʒɛktɪvlɪ] [ju] [nid]  [rɪˋlaɪ]  [ðə] [ˋɪn͵pʊt]   [ænd] [ðə] [hol] [ˋbɑdɪ]  [ˋɛvədəns]
 
-  h. If you are open-minded enough and determined, you can get virtually anything you want.
+    h. If you are open-minded enough and determined, you can get virtually anything you want.
+    [ju] [ɑr]  [əˋnʌf] [ænd] [dɪˋtɝmɪnd] [ju] [kæn] [gɛt] [ˋvɝtʃʊəlɪ] [ˋɛnɪ͵θɪŋ] [ju] [wɑnt]
 
 76
+
+## 2. Use the 5-Step Process to Get What You Want Out of Life
+
+    Use the 5-Step Process to Get What You Want Out of Life
+    [jus] [ðə]  [ˋprɑsɛs]  [gɛt] [hwɑt] [ju] [wɑnt] [aʊt]  [laɪf]
+
+### 2.1 Have clear goals.
+
+   Have clear goals.
+   [hæv] [klɪr]
+
+   a. Prioritize While you can have virtually anything you want, you can't have everything you want.
+   [praɪˋɔrə͵taɪz] [hwaɪl] [ju] [kæn] [hæv] [ˋvɝtʃʊəlɪ] [ˋɛnɪ͵θɪŋ] [ju] [wɑnt] [ju]  [hæv] [ˋɛvrɪ͵θɪŋ] [ju] [wɑnt]
+
+   b. Don't confuse goals with desires.
+   [kənˋfjuz]  [wɪð]
+
+   c. Decide what you really want in life by reconciling your goals and your desires.
+   [dɪˋsaɪd] [hwɑt] [ju] [ˋrɪəlɪ] [wɑnt]  [laɪf]   [jʊɚ]  [ænd] [jʊɚ]
+
+    d. Don't mistake the trappings of success for success itself.
+   [mɪˋstek] [ðə] [ˋtræpɪŋz]  [səkˋsɛs] [fɔr] [səkˋsɛs] [ɪtˋsɛlf]
+
+   e. Never rule out a goal because you think it's unattainable.
+   [ˋnɛvɚ] [rul] [aʊt]  [gol] [bɪˋkɔz] [ju] [θɪŋk]  [͵ʌnəˋtenəb!]
+
+   f. Remember that great expectations create great capabilities.
+   [rɪˋmɛmbɚ] [ðæt] [gret] [͵ɛkspɛkˋteʃən] [krɪˋet] [gret]
+
+   g. Almost nothing can stop you from succeeding if you have (a) flexibility and (b) self-accountability.
+   [ˋɔl͵most] [ˋnʌθɪŋ] [kæn] [stɑp] [ju] [frɑm] [səkˋsidɪŋ]  [ju] [hæv]  [͵flɛksəˋbɪlətɪ] [ænd]
+
+   h. Knowing how to deal well with your setbacks is as important as knowing how to move forward.
+   [noɪŋ] [haʊ]  [dil] [wɛl] [wɪð] [jʊɚ]    [ɪmˋpɔrtnt]  [noɪŋ] [haʊ]  [muv] [ˋfɔrwɚd]
+
+### 2.2 Identify and don't tolerate problems.
+
+   2.2 Identify and don't tolerate problems.
+   [aɪˋdɛntə͵faɪ] [ænd]  [ˋtɑlə͵ret]
+
+   a. View painful problems as potential improvements that are screaming at you.
+   [vju] [ˋpenfəl]   [pəˋtɛnʃəl]  [ðæt] [ɑr] [ˋskrimɪŋ]  [ju]
+
+   b. Don't avoid confronting problems because they are rooted in harsh realities that are unpleasant to look at.
+   [əˋvɔɪd]   [bɪˋkɔz] [ðe] [ɑr] [ˋrutɪd]  [hɑrʃ]  [ðæt] [ɑr] [ʌnˋplɛznt]  [lʊk]
+
+   c. Be specific in identifying your problems.
+   [spɪˋsɪfɪk]   [jʊɚ]
+
+   d. Don't mistake a cause of a problem with the real problem.
+   [mɪˋstek]  [kɔz]   [ˋprɑbləm] [wɪð] [ðə] [ˋriəl] [ˋprɑbləm]
+
+   e. Distinguish big problems from small ones.
+   [dɪˋstɪŋgwɪʃ] [bɪg]  [frɑm]
+
+   f. Once you identify a problem, don't tolerate it.
+   [wʌns] [ju] [aɪˋdɛntə͵faɪ]  [ˋprɑbləm]  [ˋtɑlə͵ret]
+
+### 2.3 Diagnose problems to get at their root causes.
+
+   2.3 Diagnose problems to get at their root causes.
+   [ˋdaɪəgnoz]   [gɛt]  [ðɛr] [rut]
+
+   a. Focus on the "what is" before deciding "what to do about it."
+   [ˋfokəs]  [ðə] [hwɑt]  [bɪˋfor] [dɪˋsaɪdɪŋ] [hwɑt]   [əˋbaʊt]
+
+   b. Distinguish proximate causes from root causes.
+   [dɪˋstɪŋgwɪʃ] [ˋprɑksə͵mɪt]  [frɑm] [rut]
+
+   c. Recognize that knowing what someone (including you) is like will tell you what you can expect from them.
+   [ˋrɛkəg͵naɪz] [ðæt] [noɪŋ] [hwɑt]     [laɪk] [wɪl] [tɛl] [ju] [hwɑt] [ju] [kæn] [ɪkˋspɛkt] [frɑm] [ðɛm]
+
+### 2.4 Design a plan.
+
+    Design a plan.
+    [dɪˋzaɪn]  [plæn]
+
+    a. Go back before you go forward.
+    [bæk] [bɪˋfor] [ju]  [ˋfɔrwɚd]
+
+    b. Think about your problem as a set of outcomes produced by a machine.
+    [θɪŋk] [əˋbaʊt] [jʊɚ] [ˋprɑbləm]     [ˋaʊt͵kʌm]    [məˋʃin]
+
+
+    c. Remember that there are typically many paths to achieving your goals.
+    [rɪˋmɛmbɚ] [ðæt] [ðɛr] [ɑr] [ˋtɪpɪklɪ] [ˋmɛnɪ]    [jʊɚ]
+
+    d. Think of your plan as being like a movie script in that you visualize who will do what through time.
+    [θɪŋk]  [jʊɚ] [plæn]  [ˋbiɪŋ] [laɪk]  [ˋmuvɪ] [skrɪpt]  [ðæt] [ju] [ˋvɪʒʊə͵laɪz] [hu] [wɪl]  [hwɑt] [θru] [taɪm]
+
+    e. Write down your plan for everyone to see and to measure your progress against.
+    [raɪt] [daʊn] [jʊɚ] [plæn] [fɔr] [ˋɛvrɪ͵wʌn]  [si] [ænd]  [ˋmɛʒɚ] [jʊɚ] [prəˋgrɛs] [əˋgɛnst]
+
+    f. Recognize that it doesn't take a lot of time to design a good plan.
+    [ˋrɛkəg͵naɪz] [ðæt]   [tek]  [lɑt]  [taɪm]  [dɪˋzaɪn]  [gʊd] [plæn]
+
+### 2.5 Push through to completion.
+
+    Push through to completion.
+    [pʊʃ] [θru]  [kəmˋpliʃən]
+
+    a. Great planners who don't execute their plans go nowhere.
+    [gret] [ˋplænɚ] [hu]  [ˋɛksɪ͵kjut] [ðɛr]   [ˋno͵hwɛr]
+
+    b. Good work habits are vastly underrated.
+    [gʊd] [wɝk]  [ɑr] [ˋvæstlɪ]
+
+    c. Establish clear metrics to make certain that you are following your plan.
+    [əˋstæblɪʃ] [klɪr] [ˋmɛtrɪks]  [mek] [ˋsɝtən] [ðæt] [ju] [ɑr] [ˋfɑləwɪŋ] [jʊɚ] [plæn]
+
+### 2.6 Remember that weaknesses don't matter if you find solutions.
+
+    Remember that weaknesses don't matter if you find solutions.
+    [rɪˋmɛmbɚ] [ðæt]   [ˋmætɚ]  [ju] [faɪnd]
+
+    a. Look at the patterns of your mistakes and identify at which step in the 5-Step Process you typically fail.
+    [lʊk]  [ðə]   [jʊɚ]  [ænd] [aɪˋdɛntə͵faɪ]  [hwɪtʃ] [stɛp]  [ðə]  [ˋprɑsɛs] [ju] [ˋtɪpɪklɪ] [fel]
+
+    b. Everyone has at least one big thing that stands in the way of their success; find yours and deal with it.
+    [ˋɛvrɪ͵wʌn] [hæz]  [list] [wʌn] [bɪg] [θɪŋ] [ðæt]   [ðə] [we]  [ðɛr] [səkˋsɛs] [faɪnd] [jʊrz] [ænd] [dil] [wɪð]
+
+    2.7 Understand your own and others' mental maps and humility.
+    [͵ʌndɚˋstænd] [jʊɚ] [on] [ænd]  [ˋmɛnt!]  [ænd] [hjuˋmɪlətɪ]

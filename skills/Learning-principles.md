@@ -343,3 +343,24 @@ https://www.kuaixueshe.com/8368.html
 ## 14、人如此沉醉於自以為是
 
 人如此沉醉於正確。他們開啟了交流，產生了一些滿足，交流結束後，他們仍在討論的起點。那麼這些交流毫無意義，因為在這個過程中沒有任何學習。在這個過程中，自我扮演著重要的角色。如果感到，“我還不錯，我已經搞定了”將一無所獲。如果你已經搞定了，你將不會學習。所以你必須擺脫自我障礙，擺脫“我搞定了”的感覺。每個人都有弱點，如我所說，這需要辯證的看。
+
+# REFERENCE: Cornell Notes
+
+https://silvertonhigh.silverfallsschools.org/wp-content/uploads/sites/2/2014/08/Cornell-Notes-PowerPoint.pdf
+
+* 3 sections of paper
+  * 1. Note Taking Area
+  * 2. Cue Column
+  * 3. Summaries
+
+* Record
+  * Meaningful Facts and Ideas
+* Reduce
+  * Key Words in Cue Column
+* Recite
+  * Cover facts
+  * In Note Taking Area - Say the Fact or Idea
+* Reflect
+  * Create a short summary
+* Review
+  * Study your notes frequently to better retain the information

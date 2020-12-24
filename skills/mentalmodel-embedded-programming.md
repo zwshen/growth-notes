@@ -10,15 +10,12 @@
   * Applying UML and Patterns 3rd Edition
   * Steve McConnell - Rapid Development - Taming Wild Software Schedules
   * Software Requirements 3
-* Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e) http://csapp.cs.cmu.edu/
-  * CMU 兩位教授 Randal E. Bryant 和 David R. O’Hallaron 巧妙地把程式設計及效能最佳化、數位電路基礎、指令集架構、組合語言、儲存裝置、連結器與載入器、行程、虛擬記憶體等等自各不同的學科的核心知識點攪和在一起，並以程式開發者的視角呈現，所以這本書的書名叫 “A Programmer’s Perspective”。
 * Structure And Interpretation Of Computer Programs
 * Operating Systems - Three Easy Pieces (OSTEP)
 * 電子電路
   * 微電子學 Vol 1
   * The art of electronics (3rd) https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
   * Fundamentals of Electric Circuits
-
 
 ## meta learning
 

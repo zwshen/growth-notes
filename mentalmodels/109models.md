@@ -20,7 +20,8 @@ Let’s explore the following:
   * Human Nature and Judgment
 
 
-# What Are Mental Models?
+## What Are Mental Models?
+
 Mental models are how we understand the world. Not only do they shape what we think and how we understand but they shape the connections and opportunities that we see. Mental models are how we simplify complexity, why we consider some things more relevant than others, and how we reason.
 
 A mental model is simply a representation of how something works. We cannot keep all of the details of the world in our brains, so we use models to simplify the complex into understandable and organizable chunks.
@@ -34,15 +35,15 @@ Here’s another way to think about it. When a botanist looks at a forest they m
 
 In a famous speech in the 1990s, Charlie Munger summed up the approach to practical wisdom through understanding mental models by saying: “Well, the first rule is that you can’t really know anything if you just remember isolated facts and try and bang ’em back. If the facts don’t hang together on a latticework of theory, you don’t have them in a usable form. You’ve got to have models in your head. And you’ve got to array your experience both vicarious and direct on this latticework of models. You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life. You’ve got to hang experience on a latticework of models in your head.”
 
-# Mental Model Toolbox
+## Mental Model Toolbox
 
-## A Latticework of Mental Models
+### A Latticework of Mental Models
 
 To help you build your latticework of mental models so you can make better decisions, we’ve collected and summarized the ones we’ve found the most useful.
 
 And remember: Building your latticework is a lifelong project. Stick with it, and you’ll find that your ability to understand reality, make consistently good decisions, and help those you love will always be improving.
 
-## General Thinking Concepts
+### General Thinking Concepts
 
 1. The Map is not the Territory
 The map of reality is not reality. Even the best maps are imperfect. That’s because they are reductions of what they represent. If a map were to represent the territory with perfect fidelity, it would no longer be a reduction and thus would no longer be useful to us. A map can also be a snapshot of a point in time, representing something that no longer exists. This is important to keep in mind as we think through problems and make better decisions.
@@ -64,22 +65,24 @@ Probabilistic thinking is essentially trying to estimate, using some tools of ma
 
 This includes Fat-Tailed Processes
 
-A process can often look like a normal distribution but have a large “tail” – meaning that seemingly outlier events are far more likely than they are in an actual normal distribution. A strategy or process may be far more risky than a normal distribution is capable of describing if the fat tail is on the negative side, or far more profitable if the fat tail is on the positive side. Much of the human social world is said to be fat-tailed rather than normally distributed.
+  A process can often look like a normal distribution but have a large “tail” – meaning that seemingly outlier events are far more likely than they are in an actual normal distribution. A strategy or process may be far more risky than a normal distribution is capable of describing if the fat tail is on the negative side, or far more profitable if the fat tail is on the positive side. Much of the human social world is said to be fat-tailed rather than normally distributed.
 
-and Bayesian Updating
+  and Bayesian Updating
 
-The Bayesian method is a method of thought (named for Thomas Bayes) whereby one takes into account all prior relevant probabilities and then incrementally updates them as newer information arrives. This method is especially productive given the fundamentally non-deterministic world we experience: We must use prior odds and new information in combination to arrive at our best decisions. This is not necessarily our intuitive decision-making engine.
+  The Bayesian method is a method of thought (named for Thomas Bayes) whereby one takes into account all prior relevant probabilities and then incrementally updates them as newer information arrives. This method is especially productive given the fundamentally non-deterministic world we experience: We must use prior odds and new information in combination to arrive at our best decisions. This is not necessarily our intuitive decision-making engine.
 
 7. Inversion
+
 Inversion is a powerful tool to improve your thinking because it helps you identify and remove obstacles to success. The root of inversion is “invert,” which means to upend or turn upside down. As a thinking tool it means approaching a situation from the opposite end of the natural starting point. Most of us tend to think one way about a problem: forward. Inversion allows us to flip the problem around and think backward. Sometimes it’s good to start at the beginning, but it can be more useful to start at the end.
 
 8. Occam’s Razor
+
 Simpler explanations are more likely to be true than complicated ones. This is the essence of Occam’s Razor, a classic principle of logic and problem-solving. Instead of wasting your time trying to disprove complex scenarios, you can make decisions more confidently by basing them on the explanation that has the fewest moving parts.
 
-9. Hanlon’s Razor
+1. Hanlon’s Razor
 Hard to trace in its origin, Hanlon’s Razor states that we should not attribute to malice that which is more easily explained by stupidity. In a complex world, using this model helps us avoid paranoia and ideology. By not generally assuming that bad results are the fault of a bad actor, we look for options instead of missing opportunities. This model reminds us that people do make mistakes. It demands that we ask if there is another reasonable explanation for the events that have occurred. The explanation most likely to be right is the one that contains the least amount of intent.
 
-## Physics and Chemistry
+### Physics and Chemistry
 
 1. Relativity
 Relativity has been used in several contexts in the world of physics, but the important aspect to study is the idea that an observer cannot truly understand a system of which he himself is a part. For example, a man inside an airplane does not feel like he is experiencing movement, but an outside observer can see that movement is occurring. This form of relativity tends to affect social systems in a similar way.
@@ -111,7 +114,7 @@ A catalyst either kick-starts or maintains a chemical reaction, but isn’t itse
 10. Alloying
 When we combine various elements, we create new substances. This is no great surprise, but what can be surprising in the alloying process is that 2+2 can equal not 4 but 6 – the alloy can be far stronger than the simple addition of the underlying elements would lead us to believe. This process leads us to engineer great physical objects, but we understand many intangibles in the same way; a combination of the right elements in social systems or even individuals can create a 2+2=6 effect similar to alloying.
 
-## Biology
+### Biology
 
 1. Evolution Part One: Natural Selection and Extinction
 Evolution by natural selection was once called “the greatest idea anyone ever had.” In the 19th century, Charles Darwin and Alfred Russel Wallace simultaneously realized that species evolve through random mutation and differential survival rates. If we call human intervention in animal-breeding an example of “artificial selection,” we can call Mother Nature deciding the success or failure of a particular mutation “natural selection.” Those best suited for survival tend to be preserved. But of course, conditions change.
@@ -177,7 +180,7 @@ Insurance companies and subscription services are well aware of the concept of c
 
 A preferential attachment situation occurs when the current leader is given more of the reward than the laggards, thereby tending to preserve or enhance the status of the leader. A strong network effect is a good example of preferential attachment; a market with 10x more buyers and sellers than the next largest market will tend to have a preferential attachment dynamic.
 
-###  8. Irreducibility
+### 8. Irreducibility
 
 We find that in most systems there are irreducible quantitative properties, such as complexity, minimums, time, and length. Below the irreducible level, the desired result simply does not occur. One cannot get several women pregnant to reduce the amount of time needed to have one child, and one cannot reduce a successfully built automobile to a single part. These results are, to a defined point, irreducible.
 
@@ -288,64 +291,67 @@ Somewhat paradoxically, the stronger two opponents become, the less likely they 
 
 ## Human Nature and Judgment
 
-1. Trust
+### 1. Trust
 Fundamentally, the modern world operates on trust. Familial trust is generally a given (otherwise we’d have a hell of a time surviving), but we also choose to trust chefs, clerks, drivers, factory workers, executives, and many others. A trusting system is one that tends to work most efficiently; the rewards of trust are extremely high.
 
-2. Bias from Incentives
+### 2. Bias from Incentives
 Highly responsive to incentives, humans have perhaps the most varied and hardest to understand set of incentives in the animal kingdom. This causes us to distort our thinking when it is in our own interest to do so. A wonderful example is a salesman truly believing that his product will improve the lives of its users. It’s not merely convenient that he sells the product; the fact of his selling the product causes a very real bias in his own thinking.
 
-3. Pavlovian Association
+###  3. Pavlovian Association
 Ivan Pavlov very effectively demonstrated that animals can respond not just to direct incentives but also to associated objects; remember the famous dogs salivating at the ring of a bell. Human beings are much the same and can feel positive and negative emotion towards intangible objects, with the emotion coming from past associations rather than direct effects.
 
-4. Tendency to Feel Envy & Jealousy
+### 4. Tendency to Feel Envy & Jealousy
 Humans have a tendency to feel envious of those receiving more than they are, and a desire “get what is theirs” in due course. The tendency towards envy is strong enough to drive otherwise irrational behavior, but is as old as humanity itself. Any system ignorant of envy effects will tend to self-immolate over time.
 
-5. Tendency to Distort Due to Liking/Loving or Disliking/Hating
+### 5. Tendency to Distort Due to Liking/Loving or Disliking/Hating
 Based on past association, stereotyping, ideology, genetic influence, or direct experience, humans have a tendency to distort their thinking in favor of people or things that they like and against people or things they dislike. This tendency leads to overrating the things we like and underrating or broadly categorizing things we dislike, often missing crucial nuances in the process.
 
-6. Denial
+### 6. Denial
 Anyone who has been alive long enough realizes that, as the saying goes, “denial is not just a river in Africa.” This is powerfully demonstrated in situations like war or drug abuse, where denial has powerful destructive effects but allows for behavioral inertia. Denying reality can be a coping mechanism, a survival mechanism, or a purposeful tactic.
 
-7. Availability Heuristic
+### 7. Availability Heuristic
 One of the most useful findings of modern psychology is what Daniel Kahneman calls the Availability Bias or Heuristic: We tend to most easily recall what is salient, important, frequent, and recent. The brain has its own energy-saving and inertial tendencies that we have little control over – the availability heuristic is likely one of them. Having a truly comprehensive memory would be debilitating. Some sub-examples of the availability heuristic include the Anchoring and Sunk Cost Tendencies.
 
-8. Representativeness Heuristic
+### 8. Representativeness Heuristic
 The three major psychological findings that fall under Representativeness, also defined by Kahneman and his partner Tversky, are:
 
-a. Failure to Account for Base Rates
-An unconscious failure to look at past odds in determining current or future behavior.
+  a. Failure to Account for Base Rates
 
-b. Tendency to Stereotype
-The tendency to broadly generalize and categorize rather than look for specific nuance. Like availability, this is generally a necessary trait for energy-saving in the brain.
+  An unconscious failure to look at past odds in determining current or future behavior.
 
-c. Failure to See False Conjunctions
-Most famously demonstrated by the Linda Test, the same two psychologists showed that students chose more vividly described individuals as more likely to fit into a predefined category than individuals with broader, more inclusive, but less vivid descriptions, even if the vivid example was a mere subset of the more inclusive set. These specific examples are seen as more representative of the category than those with the broader but vaguer descriptions, in violation of logic and probability.
+  b. Tendency to Stereotype
 
-9. Social Proof (Safety in Numbers)
+  The tendency to broadly generalize and categorize rather than look for specific nuance. Like availability, this is generally a necessary trait for energy-saving in the brain.
+
+  c. Failure to See False Conjunctions
+
+  Most famously demonstrated by the Linda Test, the same two psychologists showed that students chose more vividly described individuals as more likely to fit into a predefined category than individuals with broader, more inclusive, but less vivid descriptions, even if the vivid example was a mere subset of the more inclusive set. These specific examples are seen as more representative of the category than those with the broader but vaguer descriptions, in violation of logic and probability.
+
+### 9. Social Proof (Safety in Numbers)
 Human beings are one of many social species, along with bees, ants, and chimps, among many more. We have a DNA-level instinct to seek safety in numbers and will look for social guidance of our behavior. This instinct creates a cohesive sense of cooperation and culture which would not otherwise be possible but also leads us to do foolish things if our group is doing them as well.
 
-10. Narrative Instinct
+### 10. Narrative Instinct
 Human beings have been appropriately called “the storytelling animal” because of our instinct to construct and seek meaning in narrative. It’s likely that long before we developed the ability to write or to create objects, we were telling stories and thinking in stories. Nearly all social organizations, from religious institutions to corporations to nation-states, run on constructions of the narrative instinct.
 
-11. Curiosity Instinct
+### 11. Curiosity Instinct
 We like to call other species curious, but we are the most curious of all, an instinct which led us out of the savanna and led us to learn a great deal about the world around us, using that information to create the world in our collective minds. The curiosity instinct leads to unique human behavior and forms of organization like the scientific enterprise. Even before there were direct incentives to innovate, humans innovated out of curiosity.
 
-12. Language Instinct
+### 12. Language Instinct
 The psychologist Steven Pinker calls our DNA-level instinct to learn grammatically constructed language the Language Instinct. The idea that grammatical language is not a simple cultural artifact was first popularized by the linguist Noam Chomsky. As we saw with the narrative instinct, we use these instincts to create shared stories, as well as to gossip, solve problems, and fight, among other things. Grammatically ordered language theoretically carries infinite varying meaning.
 
-13. First-Conclusion Bias
+### 13. First-Conclusion Bias
 As Charlie Munger famously pointed out, the mind works a bit like a sperm and egg: the first idea gets in and then the mind shuts. Like many other tendencies, this is probably an energy-saving device. Our tendency to settle on first conclusions leads us to accept many erroneous results and cease asking questions; it can be countered with some simple and useful mental routines.
 
-14. Tendency to Overgeneralize from Small Samples
+### 14. Tendency to Overgeneralize from Small Samples
 It’s important for human beings to generalize; we need not see every instance to understand the general rule, and this works to our advantage. With generalizing, however, comes a subset of errors when we forget about the Law of Large Numbers and act as if it does not exist. We take a small number of instances and create a general category, even if we have no statistically sound basis for the conclusion.
 
-15. Relative Satisfaction/Misery Tendencies
+### 15. Relative Satisfaction/Misery Tendencies
 The envy tendency is probably the most obvious manifestation of the relative satisfaction tendency, but nearly all studies of human happiness show that it is related to the state of the person relative to either their past or their peers, not absolute. These relative tendencies cause us great misery or happiness in a very wide variety of objectively different situations and make us poor predictors of our own behavior and feelings.
 
-16. Commitment & Consistency Bias
+### 16. Commitment & Consistency Bias
 As psychologists have frequently and famously demonstrated, humans are subject to a bias towards keeping their prior commitments and staying consistent with our prior selves when possible. This trait is necessary for social cohesion: people who often change their conclusions and habits are often distrusted. Yet our bias towards staying consistent can become, as one wag put it, a “hobgoblin of foolish minds” – when it is combined with the first-conclusion bias, we end up landing on poor answers and standing pat in the face of great evidence.
 
-17. Hindsight Bias
+### 17. Hindsight Bias
 Once we know the outcome, it’s nearly impossible to turn back the clock mentally. Our narrative instinct leads us to reason that we knew it all along (whatever “it” is), when in fact we are often simply reasoning post-hoc with information not available to us before the event. The hindsight bias explains why it’s wise to keep a journal of important decisions for an unaltered record and to re-examine our beliefs when we convince ourselves that we knew it all along.
 
 18. Sensitivity to Fairness
@@ -357,13 +363,13 @@ We tend to over-ascribe the behavior of others to their innate traits rather tha
 20. Influence of Stress (Including Breaking Points)
 Stress causes both mental and physiological responses and tends to amplify the other biases. Almost all human mental biases become worse in the face of stress as the body goes into a fight-or-flight response, relying purely on instinct without the emergency brake of Daniel Kahneman’s “System 2” type of reasoning. Stress causes hasty decisions, immediacy, and a fallback to habit, thus giving rise to the elite soldiers’ motto: “In the thick of battle, you will not rise to the level of your expectations, but fall to the level of your training.”
 
-21. Survivorship Bias
+### 21. Survivorship Bias
 A major problem with historiography – our interpretation of the past – is that history is famously written by the victors. We do not see what Nassim Taleb calls the “silent grave” – the lottery ticket holders who did not win. Thus, we over-attribute success to things done by the successful agent rather than to randomness or luck, and we often learn false lessons by exclusively studying victors without seeing all of the accompanying losers who acted in the same way but were not lucky enough to succeed.
 
-22. Tendency to Want to Do Something (Fight/Flight, Intervention, Demonstration of Value, etc.)
+### 22. Tendency to Want to Do Something (Fight/Flight, Intervention, Demonstration of Value, etc.)
 We might term this Boredom Syndrome: Most humans have the tendency to need to act, even when their actions are not needed. We also tend to offer solutions even when we do not have knowledge to solve the problem.
 
-23. Falsification / Confirmation Bias
+### 23. Falsification / Confirmation Bias
 What a man wishes, he also believes. Similarly, what we believe is what we choose to see. This is commonly referred to as the confirmation bias. It is a deeply ingrained mental habit, both energy-conserving and comfortable, to look for confirmations of long-held wisdom rather than violations. Yet the scientific process – including hypothesis generation, blind testing when needed, and objective statistical rigor – is designed to root out precisely the opposite, which is why it works so well when followed.
 
 The modern scientific enterprise operates under the principle of falsification: A method is termed scientific if it can be stated in such a way that a certain defined result would cause it to be proved false. Pseudo-knowledge and pseudo-science operate and propagate by being unfalsifiable – as with astrology, we are unable to prove them either correct or incorrect because the conditions under which they would be shown false are never stated.

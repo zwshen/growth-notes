@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "taocp/Reference-reflections-on-a-year-of-reading-knuth.md",
+            "file": "taking-notes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "taocp/Reference-reflections-on-a-year-of-reading-knuth.md",
+                "file": "taking-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,12 @@
   },
   "active": "07585d09ff8c7123",
   "lastOpenFiles": [
+    "未命名.md",
+    "readme.md",
+    "notes/how-to-take-smart-notes.md",
     "taocp/Reference-reflections-on-a-year-of-reading-knuth.md",
     "reference/how-to-take-smart-notes.md",
     "mentalmodels/dedao/books_list.md",
-    "readme.md",
     "Notes-book-Lost-in-Thought.md",
     "booknote-ultralearning-scott-young.md",
     "submodule/Donald-Knuth-Books/DEK(1).pdf"

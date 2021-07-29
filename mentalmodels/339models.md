@@ -1427,7 +1427,7 @@ AUTOCATALYSIS
 A chemical reaction in which an end product acts as a catalyst for the reaction. The continuous formation of this catalyst accelerates the reaction as long as sufficient starting materials are still available. It’s a positive feedback loop.
 
 RECURSION
-When something is defined in terms of itself. Recursion is used in a variety of disciplines, from linguistics to logic. The most common application is in mathematics and computer science, where a function is defined as applied to itself. Although this clearly defines an infinite number of instances (function values), it is often done in such a way that no loop or infinite chain of references can occur.
+When something is defined in terms of itself. Recursion is used in a variety of disciplines, from linguistics to logic. The most common application is in mathematics and [[Computer Science]], where a function is defined as applied to itself. Although this clearly defines an infinite number of instances (function values), it is often done in such a way that no loop or infinite chain of references can occur.
 
 ELECTROMAGNETISM
 Electromagnetic force gives rise to most everyday phenomena, such as induction, friction, normal force (the force that prevents objects from flowing into each other), chemical reactions, and so on.

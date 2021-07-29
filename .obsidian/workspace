@@ -11,20 +11,9 @@
           "type": "markdown",
           "state": {
             "file": "readme.md",
-            "mode": "source"
+            "mode": "preview"
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "a579df3399f52b42",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "readme.md",
-            "mode": "source"
-          }
         }
       }
     ],
@@ -88,7 +77,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -101,14 +90,14 @@
   "active": "07585d09ff8c7123",
   "lastOpenFiles": [
     "readme.md",
+    "submodule/The-Art-of-Computer-Programming-Books/README.md",
+    "ComputerScience/Computer Science.md",
+    "mentalmodels/339models.md",
+    "Computer Science.md",
+    "mentalmodels/Charlie Munger.md",
+    "Charlie Munger.md",
     "taking-notes.md",
     "未命名.md",
-    "notes/how-to-take-smart-notes.md",
-    "taocp/Reference-reflections-on-a-year-of-reading-knuth.md",
-    "reference/how-to-take-smart-notes.md",
-    "mentalmodels/dedao/books_list.md",
-    "Notes-book-Lost-in-Thought.md",
-    "booknote-ultralearning-scott-young.md",
-    "submodule/Donald-Knuth-Books/DEK(1).pdf"
+    "notes/how-to-take-smart-notes.md"
   ]
 }

@@ -6,10 +6,23 @@
       {
         "id": "07585d09ff8c7123",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "taking-notes.md",
+            "file": "readme.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "a579df3399f52b42",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "readme.md",
             "mode": "source"
           }
         }
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "taking-notes.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,13 +96,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "07585d09ff8c7123",
   "lastOpenFiles": [
-    "未命名.md",
     "readme.md",
+    "taking-notes.md",
+    "未命名.md",
     "notes/how-to-take-smart-notes.md",
     "taocp/Reference-reflections-on-a-year-of-reading-knuth.md",
     "reference/how-to-take-smart-notes.md",

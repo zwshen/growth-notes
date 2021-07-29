@@ -1,26 +1,21 @@
-學習雜記。
+Notes of:
 
-* **Computer Science - for embeddedd system development**
-  * Programming
-  * Algorithm
-  * Computer Architecture
-  * Math for CS
-  * Operating System
-  * Computer Networking
-  * Database
-  * Languages and Compilers
-  * Distributed System
-  * Software Development
+* [[taking-notes]] 10 principles
+* Computer Science
+	* embeddedd system development
+	* Programming
+	* Algorithm
+	* Computer Architecture
+	* Math for CS
+	* Operating System
+	* Computer Networking
+	* Database
+	* Languages and Compilers
+	* Distributed System
+	* Software Development
 
-* **Use English** 學會用英語
+* Use English
   * https://github.com/xiaolai/everyone-can-use-english
-
-    What──它究竟是什麼？
-
-    Why──為什麼它是那個樣子？
-
-    How──要掌握它、應用它，必須得遵循什麼樣的步驟？
-
   * 口語
   * 語音
   * 朗讀
@@ -28,7 +23,7 @@
   * 文法
   * 精讀
 
-* **Charlie Munger**
+* [[Charlie Munger]]
   * 窮查理寶典
     * 第一講在哈佛學校畢業典禮上的演講
     * 第二講論基本的、普世的智慧，及其與投資管理和商業的關係

@@ -1,4 +1,6 @@
 {
   "showUnsupportedFiles": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
 }

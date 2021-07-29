@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "6f41db2982632314",
+    "type": "split",
+    "children": [
+      {
+        "id": "07585d09ff8c7123",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "taocp/Reference-reflections-on-a-year-of-reading-knuth.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b656563e4efa081d",
+    "type": "split",
+    "children": [
+      {
+        "id": "57f4b4d2d154942e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f29642df2f89457f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a523311a47a990e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7bb3bfe109e06d90",
+    "type": "split",
+    "children": [
+      {
+        "id": "81034bc317952816",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5494766e649db6bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "taocp/Reference-reflections-on-a-year-of-reading-knuth.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "07585d09ff8c7123",
+  "lastOpenFiles": [
+    "taocp/Reference-reflections-on-a-year-of-reading-knuth.md",
+    "reference/how-to-take-smart-notes.md",
+    "mentalmodels/dedao/books_list.md",
+    "readme.md",
+    "Notes-book-Lost-in-Thought.md",
+    "booknote-ultralearning-scott-young.md",
+    "submodule/Donald-Knuth-Books/DEK(1).pdf"
+  ]
+}

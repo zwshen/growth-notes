@@ -2,5 +2,6 @@
   "showUnsupportedFiles": true,
   "fileSortOrder": "alphabetical",
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true
 }

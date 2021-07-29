@@ -1,4 +1,4 @@
-![[fig/zettel.jpg]]
+![[zettel.jpg]]
 
 * Principle #1: Writing is not the outcome of thinking; it is the medium in which thinking takes place
 * Principle #2: Do your work as if writing is the only thing that matters
@@ -11,4 +11,4 @@
 * Principle #9: Always follow the most interesting path
 * Principle #10: Save contradictory ideas
 
-![[fig/unnamed-1-1.png]]
+![[unnamed-1-1.png]]

@@ -1,5 +1,5 @@
 {
-  "commitMessage": "auto-backup: {{date}}",
+  "commitMessage": "Update: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 30,
   "autoPullInterval": 0,

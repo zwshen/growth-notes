@@ -4,16 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "07585d09ff8c7123",
+        "id": "2dd1b650f211a824",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
-            "mode": "preview"
-          },
-          "pinned": true
+            "file": "Learning/進步本.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Learning/進步本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +85,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "07585d09ff8c7123",
+  "active": "2dd1b650f211a824",
   "lastOpenFiles": [
+    "Learning/進步本.md",
+    "Learning/知識點.md",
+    "Learning/未命名.md",
+    "notes/deliberate-practice-patterns.md",
+    "notes/Notes-book-Lost-in-Thought.md",
     "readme.md",
-    "submodule/The-Art-of-Computer-Programming-Books/README.md",
-    "ComputerScience/Computer Science.md",
-    "mentalmodels/339models.md",
-    "Computer Science.md",
-    "mentalmodels/Charlie Munger.md",
-    "Charlie Munger.md",
+    "notes/taking-notes.md",
     "taking-notes.md",
-    "未命名.md",
-    "notes/how-to-take-smart-notes.md"
+    "notes/how-to-take-smart-notes.md",
+    "fig/unnamed-1-1.png"
   ]
 }

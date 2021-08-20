@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7291857be1f3f9aa",
+        "id": "f6673b91f085bf85",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cards/Principles.md",
+            "file": "notes-misc/deliberate-practice-patterns.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cards/Principles.md",
+                "file": "notes-misc/deliberate-practice-patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +85,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7291857be1f3f9aa",
+  "active": "f6673b91f085bf85",
   "lastOpenFiles": [
-    "cards/Principles.md",
-    "cards/pain+refelection=progress.md",
-    "cards/臨界知識.md",
-    "cards/進步本.md",
+    "notes-misc/deliberate-practice-patterns.md",
     "cards/知識點.md",
+    "cards/進步本.md",
+    "cards/pain+refelection=progress.md",
+    "cards/Principles.md",
+    "cards/臨界知識.md",
+    "dedao/books_list.md",
     "mentalmodels/Charlie Munger.md",
     "Learning/知識點.md",
-    "Learning/pain+refelection=progress.md",
-    "Learning/Principles.md",
-    "Learning/臨界知識.md"
+    "Learning/pain+refelection=progress.md"
   ]
 }

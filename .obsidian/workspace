@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f6673b91f085bf85",
+        "id": "430811720fd5a514",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes-misc/deliberate-practice-patterns.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes-misc/deliberate-practice-patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,8 +81,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f6673b91f085bf85",
+  "active": "430811720fd5a514",
   "lastOpenFiles": [
+    "cards-projects/萬能寫作法.md",
+    "cards-fleeting/Untitled.md",
     "notes-misc/deliberate-practice-patterns.md",
     "cards/知識點.md",
     "cards/進步本.md",
@@ -94,8 +92,6 @@
     "cards/Principles.md",
     "cards/臨界知識.md",
     "dedao/books_list.md",
-    "mentalmodels/Charlie Munger.md",
-    "Learning/知識點.md",
-    "Learning/pain+refelection=progress.md"
+    "mentalmodels/Charlie Munger.md"
   ]
 }

@@ -1,5 +1,0 @@
-- [[Principles]] 原則之一
-- Pain 痛苦 - 自已的不足處、做錯的決定、不理解的地方
-	- = problems
-- Reflection 反思 - 理性分析pain 的來源、以及如何解決
-- Progress 取得進步 - 做出design plan和執行

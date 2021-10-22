@@ -1,0 +1,776 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="g_files/filelist.xml">
+<link rel=Edit-Time-Data href="g_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem G - Dynamic Summation </title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="State"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>shahriar</o:LastAuthor>
+  <o:Revision>146</o:Revision>
+  <o:TotalTime>994</o:TotalTime>
+  <o:Created>2004-05-14T06:35:00Z</o:Created>
+  <o:LastSaved>2009-09-10T02:41:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>441</o:Words>
+  <o:Characters>2515</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>20</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2951</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>120</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-alt:"\FF2D\FF33 \660E\671D";
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:Vrinda;
+	panose-1:1 1 6 0 1 1 1 1 1 1;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:65539 0 0 0 1 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
+@font-face
+	{font-family:"DejaVu Sans";
+	mso-font-alt:"Times New Roman";
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"Courier 10 Pitch";
+	mso-font-alt:"MS Mincho";
+	mso-font-charset:128;
+	mso-generic-font-family:auto;
+	mso-font-pitch:auto;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:OpenSymbol;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483473 268561642 0 0 1 0;}
+@font-face
+	{font-family:"Nimbus Roman No9 L";
+	mso-font-alt:"Times New Roman";
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Courier 10 Pitch";
+	mso-font-charset:128;
+	mso-generic-font-family:auto;
+	mso-font-pitch:auto;
+	mso-font-signature:0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+h3
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:13.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:18.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"MS Mincho";
+	mso-bidi-font-family:"Times New Roman";
+	mso-ansi-language:EN-GB;
+	mso-fareast-language:SV;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:black;
+	mso-bidi-font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:#009999;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+tt
+	{font-family:"Courier New";
+	mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+p.preformatted, li.preformatted, div.preformatted
+	{mso-style-name:preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.paragraph, li.paragraph, div.paragraph
+	{mso-style-name:paragraph;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.text, li.text, div.text
+	{mso-style-name:text;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.TableContents, li.TableContents, div.TableContents
+	{mso-style-name:"Table Contents";
+	mso-style-parent:"Body Text";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:no-line-numbers;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Nimbus Roman No9 L";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-bidi-font-family:Vrinda;
+	mso-font-kerning:1.0pt;}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.8in .8in 67.7pt .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:2;
+	mso-list-template-ids:2;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ascii-font-family:Symbol;
+	mso-hansi-font-family:Symbol;
+	mso-bidi-font-family:OpenSymbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\25E6;
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	mso-ascii-font-family:OpenSymbol;
+	mso-hansi-font-family:OpenSymbol;
+	mso-bidi-font-family:OpenSymbol;}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\25AA;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-.25in;
+	mso-ascii-font-family:OpenSymbol;
+	mso-hansi-font-family:OpenSymbol;
+	mso-bidi-font-family:OpenSymbol;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;
+	mso-ascii-font-family:Symbol;
+	mso-hansi-font-family:Symbol;
+	mso-bidi-font-family:OpenSymbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25E6;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	margin-left:1.5in;
+	text-indent:-.25in;
+	mso-ascii-font-family:OpenSymbol;
+	mso-hansi-font-family:OpenSymbol;
+	mso-bidi-font-family:OpenSymbol;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\25AA;
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;
+	mso-ascii-font-family:OpenSymbol;
+	mso-hansi-font-family:OpenSymbol;
+	mso-bidi-font-family:OpenSymbol;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	margin-left:2.0in;
+	text-indent:-.25in;
+	mso-ascii-font-family:Symbol;
+	mso-hansi-font-family:Symbol;
+	mso-bidi-font-family:OpenSymbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\25E6;
+	mso-level-tab-stop:2.25in;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;
+	mso-ascii-font-family:OpenSymbol;
+	mso-hansi-font-family:OpenSymbol;
+	mso-bidi-font-family:OpenSymbol;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\25AA;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	margin-left:2.5in;
+	text-indent:-.25in;
+	mso-ascii-font-family:OpenSymbol;
+	mso-hansi-font-family:OpenSymbol;
+	mso-bidi-font-family:OpenSymbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="3074"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#009999" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:28.0pt;mso-bidi-font-size:10.0pt;font-family:
+Arial'>Problem G</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>Dynamic <span class=GramE>Summation<span
+style='mso-spacerun:yes'>  </span></span></span></b><span style='font-family:
+Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input: </b>S<span style='mso-bidi-font-weight:
+bold'>tandard Input<o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output </span><span
+style='mso-bidi-font-size:12.0pt;color:windowtext'><o:p></o:p></span></p>
+
+<p class=MsoPlainText><o:p>&nbsp;</o:p></p>
+
+<p class=MsoBodyText><span lang=EN-GB>Given an array of integers <span
+class=GramE>A</span>, you are to process C commands. Each command can be one of
+three types:</span></p>
+
+<p class=MsoBodyText align=left style='margin-top:0in;margin-right:0in;
+margin-bottom:6.0pt;margin-left:.5in;text-align:left;text-indent:-.25in;
+mso-pagination:none;mso-list:l0 level1 lfo2;mso-hyphenate:none;tab-stops:list .5in'><![if !supportLists]><span
+lang=EN-GB style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=EN-GB>“</span><span lang=EN-GB
+style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>sum <span class=SpellE>i</span> j</span><span
+lang=EN-GB>”: output the summation of all integers in the array with indices
+between </span><span class=SpellE><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>i</span></span><span
+lang=EN-GB> to </span><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>j</span><span
+lang=EN-GB>, inclusive</span></p>
+
+<p class=MsoBodyText align=left style='margin-top:0in;margin-right:0in;
+margin-bottom:6.0pt;margin-left:.5in;text-align:left;text-indent:-.25in;
+mso-pagination:none;mso-list:l0 level1 lfo2;mso-hyphenate:none;tab-stops:list .5in'><![if !supportLists]><span
+lang=EN-GB style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=EN-GB>“</span><span class=GramE><span
+lang=EN-GB style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>insert</span></span><span lang=EN-GB
+style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'> <span class=SpellE>i</span> </span><span
+lang=EN-GB>&lt;description of B&gt;”: insert a new array B into array A at the
+position immediately preceding A[<span class=SpellE>i</span>]. The exact format
+of the description of B in the input is provided below.</span></p>
+
+<p class=MsoBodyText align=left style='margin-top:0in;margin-right:0in;
+margin-bottom:6.0pt;margin-left:.5in;text-align:left;text-indent:-.25in;
+mso-pagination:none;mso-list:l0 level1 lfo2;mso-hyphenate:none;tab-stops:list .5in'><![if !supportLists]><span
+lang=EN-GB style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=EN-GB>“</span><span class=GramE><span
+lang=EN-GB style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>delete</span></span><span lang=EN-GB
+style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'> <span class=SpellE>i</span> j</span><span
+lang=EN-GB>”: delete the part of the given array between </span><span
+class=SpellE><span lang=EN-GB style='font-family:"Courier 10 Pitch";mso-fareast-font-family:
+"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>i</span></span><span
+lang=EN-GB> and </span><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>j</span><span
+lang=EN-GB>, inclusive.</span></p>
+
+<p class=MsoBodyText><span lang=EN-GB>All indices in the input will be 0-based.
+For each scenario, the starting array is always an empty array of size 0, since
+the first command will always be an insert command at position 0 (meaning start
+of array).</span></p>
+
+<p class=MsoBodyText><span lang=EN-GB>Every insert command will describe an
+array of size </span><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>n</span><span
+lang=EN-GB> with </span><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>r</span><span
+lang=EN-GB>+5 space-separated integers all on the same line of input. The first
+five of these integers are </span><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>n</span><span
+lang=EN-GB>, </span><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>r</span><span
+lang=EN-GB>, </span><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>m</span><span
+lang=EN-GB>, </span><span class=GramE><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>a</span><span
+lang=EN-GB> and</span></span><span lang=EN-GB> </span><span lang=EN-GB
+style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>c</span><span lang=EN-GB>, in that
+order. The rest of the line will contain </span><span lang=EN-GB
+style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>r</span><span lang=EN-GB> more
+integers: </span><span class=GramE><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>b[</span></span><span
+lang=EN-GB style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>0]</span><span lang=EN-GB>, </span><span
+lang=EN-GB style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>b[1]</span><span lang=EN-GB>, …, </span><span
+lang=EN-GB style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>b[r-1]</span><span lang=EN-GB>. These
+are the first </span><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>r</span><span
+lang=EN-GB> elements of the array B. The rest can be obtained by using the
+following scheme:</span></p>
+
+<p class=MsoBodyText align=left style='text-align:left'><span class=GramE><span
+lang=EN-GB style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>for</span></span><span lang=EN-GB
+style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'> each <span class=SpellE>i</span>
+from r to n-1, inclusive:<br>
+<span style='mso-tab-count:1'>      </span>b[<span class=SpellE>i</span>] = (b[<span
+class=SpellE>i</span>-r]*<span class=SpellE>a+c</span>) mod m<br>
+<span style='mso-tab-count:1'>      </span>c = ((b[<span class=SpellE>i</span>-r]*<span
+class=SpellE>a+c</span>) div m) mod m<o:p></o:p></span></p>
+
+<p class=MsoBodyText><span class=GramE><span lang=EN-GB>where</span></span><span
+lang=EN-GB> </span><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>a
+mod m</span><span lang=EN-GB> is the remainder after dividing </span><span
+lang=EN-GB style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>a</span><span lang=EN-GB> by </span><span
+lang=EN-GB style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>m</span><span lang=EN-GB>, while </span><span
+lang=EN-GB style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>a div m</span><span lang=EN-GB> is
+the quotient.</span></p>
+
+<h2 style='margin-top:12.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+0in;mso-pagination:none;mso-hyphenate:none'>Input</h2>
+
+<p class=MsoBodyText><span lang=EN-GB>The input consists of <span class=SpellE>upto</span>
+25 scenarios. Each scenario starts with an integer C, followed by C lines of
+input, each specifying a command. Each command will be formatted in one of the
+tree ways described above. For each </span><span lang=EN-GB style='font-family:
+"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:
+"Courier 10 Pitch"'>sum</span><span lang=EN-GB> and </span><span lang=EN-GB
+style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>delete</span><span lang=EN-GB>
+command, the indices </span><span class=SpellE><span lang=EN-GB
+style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>i</span></span><span lang=EN-GB> and </span><span
+lang=EN-GB style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>j</span><span lang=EN-GB> will
+satisfy the condition 0&lt;=</span><span class=SpellE><span lang=EN-GB
+style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>i</span></span><span lang=EN-GB>&lt;=</span><span
+lang=EN-GB style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>j</span><span lang=EN-GB>&lt;N, where
+N is the array size before that command is executed. For each </span><span
+lang=EN-GB style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>insert</span><span lang=EN-GB>
+command, the index </span><span class=SpellE><span lang=EN-GB style='font-family:
+"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:
+"Courier 10 Pitch"'>i</span></span><span lang=EN-GB> will be between 0 and N
+inclusive, where position N refers to the end of the array. Every other integer
+in an insert command will be positive and small enough to fit in a signed
+32-bit integer; </span><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>r</span><span
+lang=EN-GB> will be &lt;=<span class=GramE>min(</span></span><span lang=EN-GB
+style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>n</span><span lang=EN-GB>,100). You
+also may assume that C&lt;=500, and that the sum of the size (or <span
+class=GramE>the '<span style='font-family:"Courier 10 Pitch";mso-fareast-font-family:
+"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>n</span>'</span> value)
+of all inserts together will not exceed 2000000. The input ends with a 0 on a
+line by itself, which should not be processed.</span></p>
+
+<h2 style='margin-top:12.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+0in;mso-pagination:none;mso-hyphenate:none'>Output</h2>
+
+<p class=MsoBodyText><span lang=EN-GB>For each scenario, the output should
+begin with a single line of the form “</span><span lang=EN-GB style='font-family:
+"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:
+"Courier 10 Pitch"'>Scenario k:</span><span class=GramE><span lang=EN-GB>”,</span></span><span
+lang=EN-GB> where </span><span lang=EN-GB style='font-family:"Courier 10 Pitch";
+mso-fareast-font-family:"MS Mincho";mso-hansi-font-family:"Courier 10 Pitch"'>k</span><span
+lang=EN-GB> is the scenario serial number, starting with 1 for the 1<sup>st</sup>
+scenario, 2 for the 2<sup>nd</sup> scenario, and so on. This line should be
+followed by one line of output for each “</span><span lang=EN-GB
+style='font-family:"Courier 10 Pitch";mso-fareast-font-family:"MS Mincho";
+mso-hansi-font-family:"Courier 10 Pitch"'>sum</span><span lang=EN-GB>” command,
+with just the sum on the line by itself. The output for every scenario should
+be followed by a blank line.</span></p>
+
+<p class=MsoPlainText style='text-align:justify'><span lang=EN-GB
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman";
+color:black;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText style='text-align:justify'><span lang=EN-GB
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman";
+color:black;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText style='text-align:justify'><span lang=EN-GB
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman";
+color:black;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+
+<h1><span style='font-size:18.0pt;font-family:Arial;mso-bidi-font-weight:normal;
+mso-bidi-font-style:italic'>Sample Input<span
+style='mso-spacerun:yes'>                           </span>Output for Sample
+Input</span><span style='font-size:18.0pt'><o:p></o:p></span></h1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=675
+ style='width:506.15pt;background:#CCCCCC;border-collapse:collapse;mso-padding-alt:
+ 0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=523 valign=top style='width:5.45in;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>11
+  <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>insert
+  0 10 <span class=SpellE>10</span> 100 <span class=SpellE>100</span> <span
+  class=SpellE>100</span> 1 2 3 4 5 6 7 8 9 10 <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>sum
+  0 9 <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>sum
+  3 8 <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>insert
+  3 10 <span class=SpellE>10</span> 100 <span class=SpellE>100</span> <span
+  class=SpellE>100</span> 10 20 30 40 50 60 70 80 90 100 <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>sum
+  2 9 <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>sum
+  2 15 <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>sum
+  0 19 <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>delete
+  2 15 <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>sum
+  0 5 <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>sum
+  1 5 <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>sum
+  0 3 <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>2
+  <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>insert
+  0 50 5 1000 91 7 1 2 3 4 5 <o:p></o:p></span></p>
+  <p class=TableContents><span style='font-size:11.0pt;font-family:"Courier New"'>sum
+  0 49 <o:p></o:p></span></p>
+  <pre><span style='font-size:11.0pt'>0<o:p></o:p></span></pre></td>
+  <td width=152 valign=top style='width:113.75pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=TableContents style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>Scenario 1:<o:p></o:p></span></p>
+  <p class=TableContents style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>55<o:p></o:p></span></p>
+  <p class=TableContents style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>39<o:p></o:p></span></p>
+  <p class=TableContents style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>283<o:p></o:p></span></p>
+  <p class=TableContents style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>568<o:p></o:p></span></p>
+  <p class=TableContents style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>605<o:p></o:p></span></p>
+  <p class=TableContents style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>37<o:p></o:p></span></p>
+  <p class=TableContents style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>36<o:p></o:p></span></p>
+  <p class=TableContents style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>18<o:p></o:p></span></p>
+  <p class=TableContents style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+  style='font-size:11.0pt;font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+  <p class=TableContents style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>Scenario 2:<o:p></o:p></span></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>21356<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=3 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-family:Verdana;mso-bidi-font-family:Arial'>Problem-setter: <span
+class=SpellE>Samee</span> <span class=SpellE>Zahur</span><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-family:Verdana;mso-bidi-font-family:Arial'>Special Thanks: <st1:State
+w:st="on"><st1:place w:st="on">Md.</st1:place></st1:State> <span class=SpellE>Arifuzzaman</span>
+<span class=SpellE>Arif</span><o:p></o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>

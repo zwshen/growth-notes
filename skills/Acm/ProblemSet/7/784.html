@@ -1,0 +1,177 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Maze Exploration</TITLE>
+<META NAME="description" CONTENT="Maze Exploration">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Maze Exploration</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A  maze  of  rectangular  rooms  is  represented  on  a  two
+dimensional  grid as illustrated in figure 1a. Each point of  the
+grid is represented by a character. The points of room walls  are
+marked by the same character which can be any printable character
+different  than `<TT>*</TT>', `<TT>_</TT>'  and space. In figure 1 this character is
+`<TT>X</TT>'. All the other points of the grid are  marked
+by spaces.
+
+<P>
+<PRE>
+               XXXXXXXXXXXXXXXXXXXXX             XXXXXXXXXXXXXXXXXXXXX
+               X   X   X   X   X   X             X###X###X###X   X   X
+               X           X   X   X             X###########X   X   X
+               X   X   X   X   X   X             X###X###X###X   X   X
+               XXXXXX XXX XXXXXXXXXX             XXXXXX#XXX#XXXXXXXXXX
+               X   X   X   X   X   X             X   X###X###X###X###X
+               X   X     *         X             X   X###############X
+               X   X   X   X   X   X             X   X###X###X###X###X
+               XXXXXXXXXXXXXXXXXXXXX             XXXXXXXXXXXXXXXXXXXXX
+</PRE>
+<DIV ALIGN="CENTER">
+a) Initial maze      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         b) Painted maze
+
+<P>
+Figure 1. Mazes of rectangular rooms
+</DIV>
+
+<P>
+All  rooms  of  the maze are equal sized with  all  walls  3
+points  wide  and 1 point thick as illustrated in  figure  2.  In
+addition,  a wall is shared on its full length by  the  separated
+rooms.  The  rooms  can  communicate  through  doors,  which  are
+positioned in the middle of walls. There are no outdoor doors.
+
+<P>
+<PRE>
+                     door
+                       |
+                     XX XX
+                     X . X   measured from within the room
+               door - ...--  walls are 3 points wide
+                     X . X__
+                     XXXXX  |
+                       |___  walls are one point thick
+</PRE>
+<DIV ALIGN="CENTER">
+Figure 2. A room with 3 doors
+</DIV>
+
+<P>
+Your  problem is to paint all rooms of a maze which  can  be
+visited  starting from a given room, called the `start room' which
+is  marked by a star (`<TT>*</TT>') positioned in the middle of the
+room. A room  can be visited from another room if there is a door
+on the wall which separates the rooms. By convention, a room is
+painted if  its  entire surface, including the doors, is  marked
+by  the character `<TT>#</TT>' as shown in figure 1b.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The program input is a text file structured as follows:
+
+<P>
+<DL COMPACT>
+<DT>1.
+<DD>The first line contains a positive integer which shows  the
+number of mazes to be painted.
+<DT>2.
+<DD>The rest of the file contains the mazes.
+</DL>
+
+<P>
+The lines of the input file can be of different length.  The
+text  which represents a maze is terminated by a separation  line
+full  of underscores (`<TT>_</TT>'). There are at most 30 lines and
+at most 80 characters in a line for each maze
+
+<P>
+The program reads the mazes from the input file, paints them
+and writes the painted mazes on the standard output.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The  output  text of a painted maze has the same format  as  that
+which  has  been  read for that maze,  including  the  separation
+lines. The example below illustrates a simple input  which
+contains a single maze and the corresponding output.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2
+XXXXXXXXX
+X   X   X
+X *     X
+X   X   X
+XXXXXXXXX
+X   X
+X   X
+X   X
+XXXXX
+_____
+XXXXX
+X   X
+X * X
+X   X
+XXXXX
+_____
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+XXXXXXXXX
+X###X###X
+X#######X
+X###X###X
+XXXXXXXXX
+X   X
+X   X
+X   X
+XXXXX
+_____
+XXXXX
+X###X
+X###X
+X###X
+XXXXX
+_____
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2001-01-05</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

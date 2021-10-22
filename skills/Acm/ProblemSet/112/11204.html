@@ -1,0 +1,80 @@
+<html>
+
+<head>
+<title>Musical Instruments</title>
+</head>
+
+<body>
+<div align="center"><center>
+
+<table BORDER="0" CELLPADDING="2" CELLSPACING="2" BGCOLOR="#0060f0"
+STYLE="page-break-before: always">
+  <tr>
+    <td><font COLOR="#c0ffff">&nbsp;</font><b><font size="5" color="#c0ffff">Musical
+    Instruments</font>&nbsp;</b></td>
+  </tr>
+</table>
+</center></div>
+
+<h2 CLASS="western"><font color="#0070e8">The Problem</font></h2>
+
+<p><span lang="EN" style="mso-ansi-language: EN">Julio is a musician who teaches classical
+music at secondary school. Julio has <em>N</em> musical instruments to distribute among
+his <em>M</em> students, <em>N</em> &ge; <em>M</em>. To make an adequate distribution,
+Julio asked each student to list the <em>N</em> musical instruments in order of priority.
+Julio wants to make a distribution in which the biggest <span class="GramE">number of
+students have</span> their favourite musical instrument, but
+there may be several possibilities. He wants to know how many possible arrangements
+--maximizing the assignment of the first priority-- can be obtained.<o:p></o:p></span></p>
+
+<p><span lang="EN" style="mso-ansi-language: EN">You must write a program which computes
+how many different distributions are possible, supposing the biggest number of students
+have their <span class="SpellE">favourite</span> musical instrument.<o:p></o:p></span></p>
+
+<h2 CLASS="western"><font color="#0070e8">The Input</font></h2>
+
+<p><span lang="EN" style="mso-ansi-language: EN">The first line of the input contains the
+number of test cases. For each test case, there is a line with two numbers, <i>N</i>
+indicating the number of musical instruments, and <em>M</em> indicating the number of
+students, 32 &ge; <em>N</em> &ge; <em>M</em>. Subsequently, <i>M</i> lines are listed,
+one for each student; each line contains, separated by one space, <em>N</em> numbers
+between 1 and <em>N</em> which determine the priority of the corresponding student. The
+first number is the priority of the first musical <span class="GramE">instrument,</span>
+the second number is the priority of the second musical instrument, and so on. </span></p>
+
+<h2 CLASS="western"><font color="#0070e8">The Output</font></h2>
+
+<p><span lang="EN" style="mso-ansi-language: EN">For every test case you are to print a
+line containing a number which represents how many possible distributions can be obtained.</span></p>
+
+<h2 CLASS="western"><font color="#0070e8">Sample Input</font></h2>
+
+<pre>4
+10 6
+1 2 3 4 5 6 7 8 9 10
+4 5 6 7 8 9 10 1 2 3
+6 7 8 9 10 1 2 3 4 5
+7 8 9 10 1 2 3 4 5 6
+9 10 1 2 3 4 5 6 7 8
+9 10 3 4 5 6 7 8 1 2
+12 4
+3 4 5 6 7 8 9 10 1 2 11 12
+7 8 9 10 1 2 6 11 12 3 4 5
+4 5 6 7 8 9 10 12 1 2 3 11
+12 5 6 7 8 9 10 1 2 3 4 11
+6 4
+2 3 1 4 5 6
+2 3 1 4 5 6
+6 1 2 3 4 5
+5 1 2 3 4 6
+2 1
+1 2</pre>
+
+<h2 CLASS="western"><font color="#0070e8">Sample Output</font></h2>
+
+<pre>1
+2
+4
+1</pre>
+</body>
+</html>

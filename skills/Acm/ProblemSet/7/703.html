@@ -1,0 +1,143 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Triple Ties: The Organizer's Nightmare</TITLE>
+<META NAME="description" CONTENT="Triple Ties: The Organizer's Nightmare">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Triple Ties: The Organizer's Nightmare</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+<I>N</I> participants compete in a chess tournament, every player
+competing against each other one single time. The results are registered 
+in a square matrix in the following way:
+
+<P>
+<UL>
+<LI>If player <I>i</I> beats player <I>j</I>, the digit 1 must be written at the position (<I>i</I>,<I>j</I>), where <I>i</I> denotes the row and <I>j</I> de column, and the digit 0 at the place (<I>j</I>,<I>i</I>).
+
+<P>
+<LI>If the game ends in a draw, both numbers are zero.
+
+<P>
+<LI>The digits at the main diagonal are also zero.
+</UL>
+
+<P>
+To establish the final clasification the organizer must face the problem of
+possible ties. The general criterion is that ties should be solved by counting
+the points obtained in the matches between the tied players, but sometimes
+this does not solve the problem. This happens for two players if they reached
+a draw in their respective match; for three tied players, there exist two
+different undecidable situations:
+
+<P>
+<UL>
+<LI>If the three matches were draws.
+
+<P>
+<LI>If there is a cyclic chain of victories, such as 1 beats 2, 2 beats 3, 3
+beats 1.
+</UL>
+
+<P>
+Since the organizer wishes to establish different classifications according to
+age groups, nationality, etc. of the participants, it has been decided to
+elaborate a table containing all the triple ties. If all three matches end in
+draws, the three numbers must be annotated in increasing order, and if there
+is a cycle of victories, in the following order: the first in the line beats
+the second, and the second beats the third one. Among the three possibilities
+of expressing this fact, the line must be written in increasing or decreasing
+order. These three-number chains must themselves be listed in lexicographical
+order.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Unlimited number of tests. Each test consists in a line with a positive
+integer <I>N</I> representing the number of players and <I>N</I> lines containing the
+results matrix of the tournament with consecutive digits separated by a blank
+space (
+<!-- MATH: $3 \le N \le 100$ -->
+<IMG
+ WIDTH="102" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="703img2.gif"
+ ALT="$3 \le N \le 100$">).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For every input a line containing the total amount <I>M</I> of undecidable triple
+ties; and, if <I>M</I>&gt;0, <I>M</I> lines, each of them with the three numbers of the
+involved players separated by a blank space and satisfying the order
+requirements, both within the line and in the set of lines.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+0 0 1
+1 0 0
+0 1 0
+3
+0 1 0
+0 0 0
+0 0 0
+3
+0 0 0
+0 0 0
+0 0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+3 2 1
+0
+1
+1 2 3
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

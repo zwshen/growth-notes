@@ -1,0 +1,138 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Straightest Paths</TITLE>
+<META NAME="description" CONTENT="Straightest Paths">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Straightest Paths</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A digitized map is represented on a two dimensional grid as a set
+of points enclosed within a contour. The closed contour of the map
+(which can be of any rectangular shape) and  the obstacles on  the
+map (inside  the contour) are marked using the character `<TT>X</TT>'.
+The free points on the map are designated by
+spaces. There are exactly  two start-stop points on  the map which
+are marked using  the character `<TT>@</TT>'. The
+start-stop points cannot appear outside the map or on the contour
+of the map. There are no other  points  on  the  map  except  free
+points  (spaces),  obstacles (<TT>X</TT>) and
+start-stop  points (<TT>@</TT>).
+
+<P>
+
+<P>
+<BR>
+A path between two map points
+runs vertically and/or horizontally through the free points on the
+map (inside the map contour). The <EM>length</EM> of the path is the number
+of points the path runs through,  including the start-stop points.
+The <EM>turns</EM> of the path are the direction changes while traversing
+the path.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input and Output</A>&nbsp;</FONT>
+</H2>
+Write a program that, for each map read from a text
+file, finds all possible shortest paths with the minimum number
+of  turns  between  the  start-stop  points  on  the  map  and
+marks  the  points  of  these  paths  using  the character `<TT>#</TT>'.
+All paths are marked on  the same map. The
+start-stop points preserve their  initial markings. For example,
+the  first  map  in sample below has 6 shortest paths of 32 points
+long and with 3 turns each.
+
+<P>
+
+<P>
+<BR>
+Each map is terminated by a line full of
+underscores `<TT>_</TT>'. There are at most 40 lines and at most 80
+characters in a line for each map, including the termination line.
+The lines can be of different length. Input data are correct.
+
+<P>
+
+<P>
+<BR>
+The standard output file contains the maps with the marked paths. Each
+map is output in the same format it is read from the input file,
+including the termination line, and is preceded by a line which
+specifies the number of shortest paths, their length and turns as
+shown in the sample output.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X           X             @  X
+X                   X        X
+X                            X
+XXXXXX          X            X
+X               X            X
+X        X              XXXXXX
+X@       X              X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+______________________________
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            X
+X        @@             XXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+______________________________
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+6 paths, 32 points, 3 turns
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X           X#############@  X
+X            ###    X     #  X
+X     #####################  X
+XXXXXX###    ###X            X
+X###############X            X
+X#    ###X              XXXXXX
+X@#######X              X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+______________________________
+1 paths, 2 points, 0 turns
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            X
+X        @@             XXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+______________________________
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2001-01-05</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

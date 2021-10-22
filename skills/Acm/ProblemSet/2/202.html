@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Repeating Decimals</TITLE>
+<META NAME="description" CONTENT="Repeating Decimals">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Repeating Decimals</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The decimal expansion of the fraction 1/33 is  <IMG WIDTH=31 HEIGHT=15 ALIGN=BOTTOM ALT="tex2html_wrap_inline43" SRC="202img1.gif"  > , where
+the  <IMG WIDTH=18 HEIGHT=15 ALIGN=BOTTOM ALT="tex2html_wrap_inline45" SRC="202img2.gif"  >  is used to indicate that the cycle 03 repeats
+indefinitely with no intervening digits.  In fact, the decimal expansion of
+every rational number (fraction) has a
+repeating cycle as opposed to decimal expansions of irrational numbers,
+which have no such repeating cycles.
+<P>
+<P>
+Examples of decimal expansions of rational numbers and their repeating cycles
+are shown below.  Here, we use
+parentheses to enclose the repeating cycle rather than place a bar over
+the cycle.
+<P>
+<P> <IMG WIDTH=607 HEIGHT=125 ALIGN=BOTTOM ALT="tabular23" SRC="202img3.gif"  > <P>
+<P>
+Write a program that reads numerators and denominators of fractions and
+determines their repeating cycles.
+<P>
+<P>
+For
+the purposes of this problem, define a repeating cycle of a fraction to be
+the first minimal length string of digits to
+the right of the decimal that repeats indefinitely with no intervening digits.
+Thus for example, the repeating cycle of
+the fraction 1/250 is 0, which begins at position 4 (as opposed to 0 which
+begins at positions 1 or 2 and as opposed
+to 00 which begins at positions 1 or 4).
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Each line of the input file consists of an integer numerator, which is
+nonnegative, followed by an integer
+denominator, which is positive.  None of the input integers exceeds 3000.
+End-of-file indicates the end of input.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each line of input, print the fraction, its decimal expansion through the
+first occurrence of the cycle to the right
+of the decimal or 50 decimal places (whichever comes first), and the length
+of the entire repeating cycle.
+<P>
+In writing
+the decimal expansion, enclose the repeating cycle in parentheses when possible.
+If the entire repeating cycle does
+not occur within the first 50 places, place a left parenthesis where the
+cycle begins - it will begin within the first 50
+places - and place ``<TT>...)</TT>&quot; after the 50th digit.
+<P>
+Print a blank line after every test case.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>76 25
+5 43
+1 397</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>76/25 = 3.04(0)
+   1 = number of digits in repeating cycle
+
+5/43 = 0.(116279069767441860465)
+   21 = number of digits in repeating cycle
+
+1/397 = 0.(00251889168765743073047858942065491183879093198992...)
+   99 = number of digits in repeating cycle
+
+</PRE>
+<P>
+</BODY>
+</HTML>

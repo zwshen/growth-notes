@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Bit Maps</TITLE>
+<META NAME="description" CONTENT="Bit Maps">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Bit Maps</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The bitmap is a data structure that arises in many areas of computing.
+In the area of graphics, for example, a bitmap can represent an image
+by having a 1 represent a black pixel and a 0 represent a white pixel.
+<P>
+<P>
+Consider the following two ways of representing a rectangular bit map.
+In the first, it is simply represented as a two dimensional array of
+<TT>1</TT>s and <TT>0</TT>s. The second is based on a decomposition technique. First,
+the entire bit map is considered. If all bits within it are 1, a <TT>1</TT> is
+output. If all bits within it are 0, a <TT>0</TT> is output. Otherwise, a <TT>D</TT> is
+output, the bit map is divided into quarters (as described below), and
+each of those is processed in the same way as the original bit map.
+The quarters are processed in top left, top right, bottom left, bottom
+right order. Where a bit map being divided has an even number of rows
+and an even number of columns, all quarters have the same dimensions.
+Where the number of columns is odd, the left quarters have one more
+column than the right. Where the number of rows is odd the top
+quarters have one more row than the bottom. Note that if a region
+having only one row or one column is divided then two halves result,
+with the top half processed before the bottom where a single column is
+divided, and the left half before the right if a single row is
+divided.
+<P>
+<P>
+Write a program that will read in bitmaps of either form and transform
+them to the other form.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Input will consist of a series of bit maps. Each bit map begins with a
+line giving its format (``<TT>B</TT>'' or ``<TT>D</TT>'') and its dimensions (rows and
+columns). Neither dimension will be greater than 200. There will be at
+least one space between each of the items of information. Following
+this line will be one or more lines containing the sequence of ``<TT>1</TT>'',
+``<TT>0</TT>'' and ``<TT>D</TT>'' characters that represent the bit map, with no intervening
+spaces. Each line (except the last, which may be shorter) will contain
+50 characters. A ``<TT>B</TT>'' type bitmap will be written left to right, top to
+bottom. The file will be terminated by a line consisting of a single
+<TT>#</TT>.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+Output will consist of a series of bitmaps, one for each bit map of the input. Output of each bit map begins on a new line and will be in the same format as the input. The width and height are to be output right justified in fields of width four.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>B 3  4
+001000011011
+D  2   3
+DD10111
+#</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>D   3   4
+D0D1001D101
+B   2   3
+101111</PRE>
+<P>
+</BODY>
+</HTML>

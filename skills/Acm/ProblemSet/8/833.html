@@ -1,0 +1,167 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Water Falls</TITLE>
+<META NAME="description" CONTENT="Water Falls">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Water Falls</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Consider the set of line segments <SPAN CLASS="MATH"><I>P</I>1</SPAN>, <SPAN CLASS="MATH"><I>P</I>2</SPAN> and <SPAN CLASS="MATH"><I>P</I>3</SPAN> of figure 1,
+representing the side view of a set of planes. What happens if
+some water falls (in the vertical direction and ignoring
+horizontal deviations created by kinetics) from source point <SPAN CLASS="MATH"><I>Sa</I></SPAN>?
+It flows over the plane <SPAN CLASS="MATH"><I>P</I>3</SPAN>, to <SPAN CLASS="MATH"><I>P</I>1</SPAN>, finally falling on the ground
+at the point <SPAN CLASS="MATH"><I>Ga</I></SPAN>. It is easy to see that, if the water is falling
+from source point <SPAN CLASS="MATH"><I>Sb</I></SPAN>, then it hits the ground at the point <SPAN CLASS="MATH"><I>Gb</I></SPAN>.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p833a.eps}$
+ -->
+<IMG
+ SRC="p833a.gif"
+ ALT="\epsfbox{p833a.eps}">
+</DIV>
+
+<P>
+Given a list of lines segments and a list of source points, the
+proposed problem is to determine the corresponding falling points
+on the ground. To simplify the problem, it is assumed that neither
+horizontal lines nor crossing lines are given. Also no
+coincidences exist in the vertical projection of all points (the x
+coordinates of the end points and of the source points are all
+different).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+<B>The input begins with a single positive integer on a line by itself indicating
+the number of the cases following, each of them as described below.
+This line is followed by a blank line, and there is also a blank line between
+two consecutive inputs.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+The input is a text file, containing several lines as follows.
+
+<P>
+The
+first line of the input contains the number <SPAN CLASS="MATH"><I>NP</I></SPAN> (integer format) of
+line segments. It is followed by <SPAN CLASS="MATH"><I>NP</I></SPAN> lines containing, each one,
+the coordinates of the two end points of a segment, in the
+sequence <!-- MATH
+ $x_1 \ y_1 \ x_2 \ y_2$
+ -->
+<SPAN CLASS="MATH"><I>x</I><SUB>1</SUB>&nbsp;<I>y</I><SUB>1</SUB>&nbsp;<I>x</I><SUB>2</SUB>&nbsp;<I>y</I><SUB>2</SUB></SPAN>, separated by single spaces. No order is
+supposed, for this case, between point 1 and point 2 and numbers
+are written in the integer format.
+
+<P>
+The next line is the number <SPAN CLASS="MATH"><I>NS</I></SPAN>
+(integer format) of source points. It is followed by <SPAN CLASS="MATH"><I>NS</I></SPAN> lines
+containing, each one, a pair of integer values <SPAN CLASS="MATH"><I>x</I>&nbsp;<I>y</I></SPAN>, separated by a
+single space, which are the coordinates of the corresponding
+source point.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+<B>For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+<SPAN CLASS="MATH"><I>NS</I></SPAN> lines of text containing, each one, the coordinate <SPAN CLASS="MATH"><I>x</I></SPAN> (integer
+format) of the corresponding falling point <SPAN CLASS="MATH"><I>G</I></SPAN>. The output values
+must keep the input order.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1
+
+4
+14 7 3 4
+11 13 16 11
+1 10 6 7
+2 1 4 3
+3
+10 4
+14 14
+2 13
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+10
+16
+2
+</PRE>
+
+<P>
+
+<P><P>
+<BR>
+
+<B>Note:</B> The picture below corresponds to the sample input.
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p833b.eps}$
+ -->
+<IMG
+ SRC="p833b.gif"
+ ALT="\epsfbox{p833b.eps}">
+</DIV>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+A. Augusto Sousa, ACM-UP'2001
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,403 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./c_files/filelist.xml">
+<link rel=Edit-Time-Data href="./c_files/editdata.mso">
+<link rel=OLE-Object-Data href="./c_files/oledata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem C - The Stern-Brocot Number System</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Rezaul Alam Chowdhury</o:Author>
+  <o:LastAuthor>Administrator</o:LastAuthor>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>70</o:TotalTime>
+  <o:LastPrinted>1999-05-07T21:27:00Z</o:LastPrinted>
+  <o:Created>2001-01-10T15:49:00Z</o:Created>
+  <o:LastSaved>2001-01-10T16:02:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>375</o:Words>
+  <o:Characters>2138</o:Characters>
+  <o:Company>CSE, BUET</o:Company>
+  <o:Lines>17</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2625</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+em
+	{mso-bidi-font-style:normal;}
+p.Preformatted, li.Preformatted, div.Preformatted
+	{mso-style-name:Preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:0in 47.95pt 95.9pt 143.85pt 191.8pt 239.75pt 287.7pt 335.65pt 383.6pt 431.55pt 479.5pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	layout-grid-mode:line;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=5>Problem C</font></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=6>The Stern-Brocot Number System</font></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Input: </b><span style='mso-bidi-font-weight:bold'>standard input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Output: </b>standard output</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>The <i style='mso-bidi-font-style:
+normal'>Stern-Brocot tree</i> is a beautiful way for constructing the set of
+all nonnegative fractions <i style='mso-bidi-font-style:normal'>m</i> / <i
+style='mso-bidi-font-style:normal'>n</i> where <i style='mso-bidi-font-style:
+normal'>m</i> and <i style='mso-bidi-font-style:normal'>n</i> are relatively
+prime. The idea is to start with two fractions <span style='mso-text-raise:
+-7.0pt'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1110" type="#_x0000_t75" style='width:27.75pt;
+ height:20.25pt' o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image001.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=37 height=27
+src="p10077a.gif" v:shapes="_x0000_i1110"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1110"
+  DrawAspect="Content" ObjectID="_1040669320">
+ </o:OLEObject>
+</xml><![endif]--><span style="mso-spacerun: yes"> </span>and then repeat the
+following operations as many times as desired:</p>
+
+<p class=MsoNormal align=center style='text-align:center'>Insert <span
+style='mso-text-raise:-12.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1109"
+ type="#_x0000_t75" style='width:38.25pt;height:30.75pt' o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image003.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=51 height=41
+src="p10077b.gif" v:shapes="_x0000_i1109"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1109"
+  DrawAspect="Content" ObjectID="_1040669321">
+ </o:OLEObject>
+</xml><![endif]--><span style="mso-spacerun: yes"> </span>between two adjacent
+fractions <span style='mso-text-raise:-12.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1111" type="#_x0000_t75" style='width:15pt;height:30.75pt' o:ole=""
+ fillcolor="window">
+ <v:imagedata src="./c_files/image005.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=20 height=41
+src="p10077c.gif" v:shapes="_x0000_i1111"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1111"
+  DrawAspect="Content" ObjectID="_1040669322">
+ </o:OLEObject>
+</xml><![endif]--><span style="mso-spacerun: yes"> </span>and <span
+style='mso-text-raise:-12.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1112"
+ type="#_x0000_t75" style='width:18pt;height:30.75pt' o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image007.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=24 height=41
+src="p10077d.gif" v:shapes="_x0000_i1112"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1112"
+  DrawAspect="Content" ObjectID="_1040669323">
+ </o:OLEObject>
+</xml><![endif]-->.</p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'>For example, the
+first step gives us one new entry between <span style='mso-text-raise:-7.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1113" type="#_x0000_t75" style='width:9.75pt;height:20.25pt'
+ o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image009.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=13 height=27
+src="p10077e.gif" v:shapes="_x0000_i1113"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1113"
+  DrawAspect="Content" ObjectID="_1040669324">
+ </o:OLEObject>
+</xml><![endif]--><span style="mso-spacerun: yes"> </span>and <span
+style='mso-text-raise:-7.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1114"
+ type="#_x0000_t75" style='width:9.75pt;height:20.25pt' o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image011.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=13 height=27
+src="p10077f.gif" v:shapes="_x0000_i1114"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1114"
+  DrawAspect="Content" ObjectID="_1040669325">
+ </o:OLEObject>
+</xml><![endif]-->,</p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='mso-text-raise:-12.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1115"
+ type="#_x0000_t75" style='width:39.75pt;height:30.75pt' o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image013.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=53 height=41
+src="p10077g.gif" v:shapes="_x0000_i1115"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1115"
+  DrawAspect="Content" ObjectID="_1040669326">
+ </o:OLEObject>
+</xml><![endif]--></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'>and the next
+gives two more:</p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='mso-text-raise:-12.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1116"
+ type="#_x0000_t75" style='width:66.75pt;height:30.75pt' o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image015.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=89 height=41
+src="p10077h.gif" v:shapes="_x0000_i1116"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1116"
+  DrawAspect="Content" ObjectID="_1040669327">
+ </o:OLEObject>
+</xml><![endif]--></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'>The next gives
+four more,</p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='mso-text-raise:-12.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1117"
+ type="#_x0000_t75" style='width:120.75pt;height:30.75pt' o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image017.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=161 height=41
+src="p10077i.gif" v:shapes="_x0000_i1117"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1117"
+  DrawAspect="Content" ObjectID="_1040669328">
+ </o:OLEObject>
+</xml><![endif]--></p>
+
+<p class=MsoNormal align=center style='text-align:center'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'>and then we will
+get 8, 16, and so on. The entire array can be regarded as an infinite binary
+tree structure whose top levels look like this:</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><!--[if gte vml 1]><v:shape id="_x0000_i1118"
+ type="#_x0000_t75" style='width:442.5pt;height:229.5pt' o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image019.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=590 height=306
+src="p10077j.gif" v:shapes="_x0000_i1118"><![endif]><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Visio.Drawing.4" ShapeID="_x0000_i1118"
+  DrawAspect="Content" ObjectID="_1040669329">
+ </o:OLEObject>
+</xml><![endif]--></p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'>The construction
+preserves order, and we couldn't possibly get the same fraction in two
+different places. </p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'>We can, in fact,
+regard the <i style='mso-bidi-font-style:normal'>Stern-Brocot tree</i> as a <i
+style='mso-bidi-font-style:normal'>number system</i> for representing rational
+numbers, because each positive, reduced fraction occurs exactly once. Let's use
+the letters <i style='mso-bidi-font-style:normal'>L</i> and <i
+style='mso-bidi-font-style:normal'>R</i> to stand for going down to the left or
+right branch as we proceed from the root of the tree to a particular fraction;
+then a string of <i style='mso-bidi-font-style:normal'>L</i>'s and <i
+style='mso-bidi-font-style:normal'>R</i>'s uniquely identifies a place in the
+tree. For example, <i style='mso-bidi-font-style:normal'>LRRL</i> means that we
+go left from <span style='mso-text-raise:-7.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1119" type="#_x0000_t75" style='width:8.25pt;height:20.25pt'
+ o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image021.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=11 height=27
+src="p10077k.gif" v:shapes="_x0000_i1119"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1119"
+  DrawAspect="Content" ObjectID="_1040669330">
+ </o:OLEObject>
+</xml><![endif]--><span style="mso-spacerun: yes"> </span>down to <span
+style='mso-text-raise:-7.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1120"
+ type="#_x0000_t75" style='width:9.75pt;height:20.25pt' o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image023.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=13 height=27
+src="p10077l.gif" v:shapes="_x0000_i1120"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1120"
+  DrawAspect="Content" ObjectID="_1040669331">
+ </o:OLEObject>
+</xml><![endif]-->, then right to <span style='mso-text-raise:-7.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1121" type="#_x0000_t75" style='width:9.75pt;height:20.25pt'
+ o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image025.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=13 height=27
+src="p10077m.gif" v:shapes="_x0000_i1121"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1121"
+  DrawAspect="Content" ObjectID="_1040669332">
+ </o:OLEObject>
+</xml><![endif]-->, then right to <span style='mso-text-raise:-7.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1122" type="#_x0000_t75" style='width:9.75pt;height:20.25pt'
+ o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image027.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=13 height=27
+src="p10077n.gif" v:shapes="_x0000_i1122"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1122"
+  DrawAspect="Content" ObjectID="_1040669333">
+ </o:OLEObject>
+</xml><![endif]-->, then left to <span style='mso-text-raise:-7.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1123" type="#_x0000_t75" style='width:9.75pt;height:20.25pt'
+ o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image029.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=13 height=27
+src="p10077o.gif" v:shapes="_x0000_i1123"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1123"
+  DrawAspect="Content" ObjectID="_1040669334">
+ </o:OLEObject>
+</xml><![endif]-->. We can consider <i style='mso-bidi-font-style:normal'>LRRL</i>
+to be a representation of <span style='mso-text-raise:-7.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1124" type="#_x0000_t75" style='width:9.75pt;height:20.25pt'
+ o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image031.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=13 height=27
+src="p10077p.gif" v:shapes="_x0000_i1124"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1124"
+  DrawAspect="Content" ObjectID="_1040669335">
+ </o:OLEObject>
+</xml><![endif]-->. Every positive fraction gets represented in this way as a
+unique string of <i style='mso-bidi-font-style:normal'>L</i>'s and <i
+style='mso-bidi-font-style:normal'>R</i>'s. </p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'>Well, actually
+there's a slight problem: The fraction <span style='mso-text-raise:-7.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1125" type="#_x0000_t75" style='width:8.25pt;height:20.25pt'
+ o:ole="" fillcolor="window">
+ <v:imagedata src="./c_files/image021.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=11 height=27
+src="p10077q.gif" v:shapes="_x0000_i1125"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1125"
+  DrawAspect="Content" ObjectID="_1040669336">
+ </o:OLEObject>
+</xml><![endif]--><span style="mso-spacerun: yes"> </span>corresponds to the <i
+style='mso-bidi-font-style:normal'>empty</i> string, and we need a notation for
+that. Let's agree to call it <i style='mso-bidi-font-style:normal'>I</i>,
+because that looks something like 1 and it stands for &quot;identity&quot;.</p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'>In this problem,
+given a positive rational fraction, you are expected to represent it in <i
+style='mso-bidi-font-style:normal'>Stern-Brocot number system</i>. </p>
+
+<br>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Input</font></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>The input file contains multiple
+test cases. Each test case consists of a line contains two positive integers <i
+style='mso-bidi-font-style:normal'>m</i> and <i style='mso-bidi-font-style:
+normal'>n</i> where <i style='mso-bidi-font-style:normal'>m</i> and <i
+style='mso-bidi-font-style:normal'>n</i> are relatively prime. The input
+terminates with a test case containing two 1's for <i style='mso-bidi-font-style:
+normal'>m</i> and <i style='mso-bidi-font-style:normal'>n</i>, and this case
+must not be processed. </p>
+
+<br>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Output</font></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>For each test case in the input
+file output a line containing the representation of the given fraction in the <i
+style='mso-bidi-font-style:normal'>Stern-Brocot number system</i>. <b
+style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-size:
+10.0pt'><o:p></o:p></span></b></p>
+
+<br>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Input</font></span></b></p>
+<font face="Courier" size=3>
+5 7<br>
+
+878 323<br>
+
+1 1<br>
+</font>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;mso-bidi-font-size:10.0pt;font-family:
+"Courier New";mso-bidi-font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Output</font></span></b></p>
+<font face="Courier" size=3>
+LRRL<br>
+
+RRLRRLRLLLLRLRRR<br>
+</font>
+</div>
+<font face="Times New Roman" size=3>
+______________________________________________________________________________________
+<br>Rezaul Alam Chowdhury
+</font>
+</body>
+
+</html>

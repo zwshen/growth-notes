@@ -1,0 +1,638 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="h_files/filelist.xml">
+<link rel=Edit-Time-Data href="h_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem H - Prime Suspect</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>23</o:Revision>
+  <o:TotalTime>95</o:TotalTime>
+  <o:LastPrinted>2005-10-29T07:40:00Z</o:LastPrinted>
+  <o:Created>2004-10-01T02:53:00Z</o:Created>
+  <o:LastSaved>2005-10-29T07:41:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>699</o:Words>
+  <o:Characters>3988</o:Characters>
+  <o:Company>CSE, BUET</o:Company>
+  <o:Lines>33</o:Lines>
+  <o:Paragraphs>9</o:Paragraphs>
+  <o:CharactersWithSpaces>4678</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	tab-stops:143.25pt;
+	font-size:18.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+h3
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Arial Unicode MS";
+	font-weight:bold;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:24.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	mso-bidi-font-weight:bold;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:#6633CC;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+em
+	{mso-bidi-font-style:normal;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+address
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-style:italic;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+p.Preformatted, li.Preformatted, div.Preformatted
+	{mso-style-name:Preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:0in 47.95pt 95.9pt 143.85pt 191.8pt 239.75pt 287.7pt 335.65pt 383.6pt 431.55pt 479.5pt;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.8in .8in 67.7pt .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:631326458;
+	mso-list-template-ids:1229733652;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:947154583;
+	mso-list-template-ids:-574196804;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="6146"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#6633CC" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:28.0pt;mso-bidi-font-size:10.0pt;font-family:
+Arial'>Problem H</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>Prime Suspect<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Input: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><span style='mso-bidi-font-size:12.0pt;color:windowtext'>Let's
+define the function <span class=GramE><i>Suspect(</i></span><i>b, n)</i>, where
+<i>b</i> is an integer that is called the base, and <i>n</i> is an odd integer.
+It returns one of the <span class=SpellE><span class=GramE>boolean</span></span>
+values TRUE or FALSE. <o:p></o:p></span></p>
+
+<ul type=disc>
+ <li class=MsoNormal style='color:windowtext;mso-margin-top-alt:auto;
+     mso-margin-bottom-alt:auto;text-align:justify;mso-list:l1 level1 lfo3;
+     tab-stops:list .5in'><span style='mso-bidi-font-size:12.0pt'>Let <i>t</i>
+     be the highest power of 2 so that 2<i><sup>t</sup></i> <span class=SpellE>devides</span>
+     <i>n</i>-1 and <i>u</i> <span class=GramE>be</span> the biggest odd
+     integer that <span class=SpellE>devides</span> <i>n</i>-1.<br>
+     This means we can write <i>n</i>-1 = 2<i><sup>t</sup>u</i>. <o:p></o:p></span></li>
+ <li class=MsoNormal style='color:windowtext;mso-margin-top-alt:auto;
+     mso-margin-bottom-alt:auto;text-align:justify;mso-list:l1 level1 lfo3;
+     tab-stops:list .5in'><span style='mso-bidi-font-size:12.0pt'>Let <i>x</i><sub>0</sub>
+     be <span class=SpellE><i>b<sup>u</sup></i></span> mod <i>n</i>. <o:p></o:p></span></li>
+ <li class=MsoNormal style='color:windowtext;mso-margin-top-alt:auto;
+     mso-margin-bottom-alt:auto;text-align:justify;mso-list:l1 level1 lfo3;
+     tab-stops:list .5in'><span style='mso-bidi-font-size:12.0pt'>For all <span
+     class=SpellE><i>i</i></span> from 1 to <i>t</i>, let <i>x<sub>i</sub></i>
+     be (<i>x<sub>i</sub></i><sub>-1</sub>)<sup>2</sup> mod <i>n</i>. <o:p></o:p></span></li>
+ <li class=MsoNormal style='color:windowtext;mso-margin-top-alt:auto;
+     mso-margin-bottom-alt:auto;text-align:justify;mso-list:l1 level1 lfo3;
+     tab-stops:list .5in'><span style='mso-bidi-font-size:12.0pt'>If, for any <span
+     class=SpellE><i>i</i></span> from 1 to <i>t</i>, <i>x<sub>i</sub></i> = 1
+     and <i>x<sub>i</sub></i><sub>-1</sub> &lt;&gt; 1 and <i>x<sub>i</sub></i><sub>-1</sub>
+     &lt;&gt; <i>n</i>-1, then return FALSE. <o:p></o:p></span></li>
+ <li class=MsoNormal style='color:windowtext;mso-margin-top-alt:auto;
+     mso-margin-bottom-alt:auto;text-align:justify;mso-list:l1 level1 lfo3;
+     tab-stops:list .5in'><span class=GramE><span style='mso-bidi-font-size:
+     12.0pt'>else</span></span><span style='mso-bidi-font-size:12.0pt'>, if <span
+     class=SpellE><i>x<sub>t</sub></i></span> &lt;&gt; 1, then return FALSE. <o:p></o:p></span></li>
+ <li class=MsoNormal style='color:windowtext;mso-margin-top-alt:auto;
+     mso-margin-bottom-alt:auto;text-align:justify;mso-list:l1 level1 lfo3;
+     tab-stops:list .5in'><span class=GramE><span style='mso-bidi-font-size:
+     12.0pt'>else</span></span><span style='mso-bidi-font-size:12.0pt'> return
+     TRUE. <o:p></o:p></span></li>
+</ul>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><span style='mso-bidi-font-size:12.0pt;color:windowtext'>The
+<span class=SpellE>connaisseur</span> will recognize this function as the
+essential part of the Miller-Rabin <span class=SpellE>primality</span> test,
+although it can appear in different forms throughout the literature. In <span
+class=SpellE><i>Cormen</i></span><i> <span class=GramE>et</span>. <span
+class=GramE>al</span>.</i> Ch. 31 this function is called <i>Witness</i> and
+returns the opposite <span class=SpellE>boolean</span> value.<br>
+We will call the odd number <i>n</i> <b>suspect in base <i>b</i></b> if the above
+function returns TRUE. At the end of this description three examples are given.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><span style='mso-bidi-font-size:12.0pt;color:windowtext'>It
+can be proved that whenever the function <span class=GramE><i>Suspect(</i></span><i>b,
+n)</i> returns FALSE for some base <i>b</i> and an odd number <i>n</i> it is <b>sure</b>
+that <i>n</i> is not a prime number. The reverse, however, is not the case:
+whenever <span class=GramE><i>Suspect(</i></span><i>b, n)</i> returns TRUE,
+there is a high probability that <i>n</i> is a prime number, but we can't be
+sure. We say that <span class=GramE><i>Suspect(</i></span><i>b, n)</i> <b>fails</b>
+if it returns TRUE for an <i>n</i> that is not a prime number.<br>
+<span class=SpellE>Upto</span> 1000000 there <span class=GramE>are</span> only
+46 failures in base 2, the first three being 2047, 3277 and 4033. In base 3
+there are 73 <span class=SpellE>falures</span>, but all of them are different
+from the base 2 failures, so for every odd number <i>n</i> &lt; 1000000 we have
+that if <i>Suspect(2, n)</i> and <i>Suspect(3, n)</i> we can be sure that <i>n</i>
+is a prime number.<br>
+<span class=SpellE>Upto</span> 2<sup>32</sup> we only need to <span
+class=SpellE>calulate</span> three bases: <span class=GramE><i>Suspect(</i></span><i>2,
+n)</i>, <i>Suspect(7, n)</i> and <i>Suspect(61, n)</i>. If all three function
+calls return TRUE, it's sure that <i>n</i> is a prime number. This gives us a
+very quick <span class=SpellE>primality</span> test for all numbers within the range
+of current day integers. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><span style='mso-bidi-font-size:12.0pt;color:windowtext'>In
+this problem we want you to calculate the failures of the function <span
+class=GramE><i>Suspect(</i></span><i>b, n)</i> in a certain base and for a
+certain range of numbers <i>n. </i><o:p></o:p></span></p>
+
+<h5 style='text-align:justify'><span class=StyleArial16pt><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt;mso-bidi-font-family:"Times New Roman"'>Input</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+mso-fareast-font-family:"Arial Unicode MS"'><o:p></o:p></span></span></h5>
+
+<p class=MsoNormal style='text-align:justify'>The input consists of several
+lines, each containing three integers: <i>Base</i>, <i>Min</i> and <i>Max</i>. <i>Base</i>
+is an integer between 2 and 1024 (inclusive)<span class=GramE>,</span> <i>Min</i>
+and <i>Max</i> will be between 3 and 4294967295 (inclusive). <i>Max</i> will
+not be smaller than <i>Min</i>. <i>Max</i> will be at most 100000 bigger than <i>Min</i>.<br>
+A line with three zeroes marks the end of the input; this line should not be
+processed.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<h4 style='text-align:justify'><span class=StyleArial16pt><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt;mso-bidi-font-family:"Times New Roman"'>Output
+</span></span><span class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;
+font-family:"Times New Roman"'><o:p></o:p></span></span></h4>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'>For each line
+of input, one line of output: &quot;There are NUMBER1 odd non-prime numbers
+between NUMBER2 and NUMBER3.<span class=GramE>&quot;.</span></p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'>If there are
+odd numbers within this range that fail as suspects in the given base, output an
+other line: &quot;NUMBER4 suspects fail in base NUMBER5:<span class=GramE>&quot;,</span>
+followed by all failures, in ascending order, each on a line by itself. Use the
+plural form, even if there is only one failure. <br>
+If there are no failures in this range, output the line: &quot;There are no
+failures in base NUMBER5.<span class=GramE>&quot;.</span><br>
+<span class=GramE>NUMBER1 ..</span> NUMBER5 are to be replaced by the
+appropriate values.<br>
+Separate the cases by a blank line.</p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'><o:p>&nbsp;</o:p></p>
+
+<h1><b><span style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:
+Arial;font-style:normal'>Sample Input<span
+style='mso-spacerun:yes'>                               </span>Output for
+Sample Input<o:p></o:p></span></b></h1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=834
+ style='width:6.95in;background:#CCCCCC;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=234 valign=top style='width:1.95in;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>186 800000 900000<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>2 4000000000 4000001000<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>3 121 <span class=SpellE>121</span><o:p></o:p></span></b></p>
+  <pre style='text-align:justify'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:8.0pt;mso-fareast-font-family:"Times New Roman"'>0 <span
+  class=SpellE>0</span> <span class=SpellE>0</span></span></b><b><span
+  style='font-size:8.0pt'><o:p></o:p></span></b></pre></td>
+  <td width=600 valign=top style='width:5.0in;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>There are 42677 odd non-prime numbers between
+  800000 and 900000.<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>4 suspects fail in base 186:<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>821059<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>840781<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>873181<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>876961<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>There are 457 odd non-prime numbers between
+  4000000000 and 4000001000.<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>There are no failures in base 2.<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>There are 1 odd non-prime numbers between 121
+  and 121.<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>1 suspects fail in base 3:<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:8.0pt;font-family:
+  "Courier New";color:windowtext'>121<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:8.0pt;font-family:"Courier New"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='mso-bidi-font-size:
+12.0pt;font-family:Arial;color:windowtext'>Problem setter: Little Joey
+(Joachim)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='mso-bidi-font-size:
+12.0pt;font-family:Arial;color:windowtext'>Be Ware! This problem has no
+alternate solution<o:p></o:p></span></b></p>
+
+<p><i>Suspect(2, 121)</i>:<br>
+<i>n</i>-1 = 120 = 8 * 15 = 2<sup>3</sup> * 15, therefore <i>t</i>=3, <i>u</i>=15<br>
+<i>x</i><sub>0</sub> = 2<sup>15</sup> mod 121 = 32768 mod 121 = 98<br>
+<i>x</i><sub>1</sub> = 98<sup>2</sup> mod 121 = 9604 mod 121 = 45<br>
+<i>x</i><sub>2</sub> = 45<sup>2</sup> mod 121 = 2025 mod 121 = 89<br>
+<i>x</i><sub>3</sub> = 89<sup>2</sup> mod 121 = 7921 mod 121 = 56<br>
+None of the <i>x<sub>i</sub></i> is 1, so the loop test continues until the
+end. Since <span class=SpellE><i>x<sub>t</sub></i></span> is not 1, the
+function will return FALSE. This is a correct result, since 121 = 11*11 is
+composite. </p>
+
+<p><i>Suspect(3, 121)</i>:<br>
+<i>n</i>-1 = 120 = 8 * 15 = 2<sup>3</sup> * 15, therefore <i>t</i>=3, <i>u</i>=15<br>
+<i>x</i><sub>0</sub> = 3<sup>15</sup> mod 121 = 14348907 mod 121 = 1<br>
+<i>x</i><sub>1</sub> = 1<sup>2</sup> mod 121 = 1 mod 121 = 1<br>
+<i>x</i><sub>2</sub> = 1<sup>2</sup> mod 121 = 1 mod 121 = 1<br>
+<i>x</i><sub>3</sub> = 1<sup>2</sup> mod 121 = 1 mod 121 = 1<br>
+All of the <i>x<sub>i</sub></i> are 1, so the loop test continues until the
+end. Since <span class=SpellE><i>x<sub>t</sub></i></span> is 1, the function
+will return TRUE. This is a failure<span class=GramE>!.</span> </p>
+
+<p><i>Suspect(3, 89)</i>:<br>
+<i>n</i>-1 = 88 = 8 * 11 = 2<sup>3</sup> * 11, therefore <i>t</i>=3, <i>u</i>=11<br>
+<i>x</i><sub>0</sub> = 3<sup>11</sup> mod 89 = 177147 mod 89 = 37<br>
+<i>x</i><sub>1</sub> = 37<sup>2</sup> mod 89 = 1369 mod 89 = 34<br>
+<i>x</i><sub>2</sub> = 34<sup>2</sup> mod 89 = 1156 mod 89 = 88<br>
+<i>x</i><sub>3</sub> = 88<sup>2</sup> mod 89 = 1 mod 89 = 1<br>
+Here we see the loop test again continue to the end. Since <span class=SpellE><i>x<sub>t</sub></i></span>
+is 1, the function will return TRUE. This is correct, because 89 is a prime
+number. </p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+12.0pt;font-family:Arial;color:windowtext'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

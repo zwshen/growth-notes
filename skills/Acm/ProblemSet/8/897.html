@@ -1,0 +1,93 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Anagrammatic Primes</TITLE>
+<META NAME="description" CONTENT="Anagrammatic Primes">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Anagrammatic Primes</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A number greater than one is <EM>prime</EM> if it has no divisors other than itself and 1 (note that 1 is not prime).
+For example, 23 is prime and 35 is not prime because 35 = 7 <SPAN CLASS="MATH">&#215;</SPAN> 5.  When the digits of a number are rearranged,
+its primeness may change - for example, 35 is not prime but 53 is.  For this problem, you have to find numbers
+which are prime no matter how you rearrange their digits.  For example, all of the numbers 113, 131 and 311 are
+prime, so we say that 113 is an <EM>anagrammatic prime</EM> (also 131 and 311 are anagrammatic primes).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Each line of input will contain a
+single positive number <SPAN CLASS="MATH"><I>n</I></SPAN>, less than 10,000,000.  You must find the first anagrammatic prime which is larger
+than <SPAN CLASS="MATH"><I>n</I></SPAN> and less than the next power of 10 greater than <SPAN CLASS="MATH"><I>n</I></SPAN>.  The input will be terminated by a line consisting
+of a single `<TT>0</TT>'.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each number in the input, one line of output must
+be produced.  This output line should contain either the next anagrammatic prime, as described above, or `<TT>0</TT>' if
+there is no anagrammatic prime in the range defined.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+10
+16
+900
+113
+8000000
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+11
+17
+919
+131
+0
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Miguel Revilla
+2004-07-08
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,54 @@
+body {
+  width: 634px;
+  margin: auto;
+}
+
+img {
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
+
+img.figure {
+  float: none;
+}
+
+p {
+  text-align: justify;
+}
+
+h1 {
+  text-align: center;
+  font-size: 25pt;
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+h3 {
+  text-align: center;
+  font-size: 13pt;
+  font-family: verdana, arial, helvetica, sans-serif;
+  padding-bottom: 15px;
+  border-bottom: 1px solid black;
+  margin-bottom: 0;
+  font-weight: normal;
+}
+
+h2 {
+  color: #9c112e;
+  font-size: 15pt;
+  font-weight: normal;
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+.sample {
+  width: 50%;
+  float: left;
+}
+
+.source {
+  border-top: 1px solid black;
+  clear: left;
+  font-size: 12px;
+  text-align: right;
+  margin-bottom: 10px;
+}

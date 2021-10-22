@@ -1,0 +1,82 @@
+<title>Problem F: Fabled Rooks </title>
+
+<h2>Problem F: Fabled Rooks </h2>
+
+<img src=p11134.jpg vspace=20 hspace=20 align=right>
+
+We would like to place <em>n</em> rooks,
+1&nbsp;&le;&nbsp;<em>n</em>&nbsp;&le;&nbsp;5000, on a <em>n&times;n</em>
+board subject to the following restrictions <ul> <li> The
+<em>i</em>-th rook can only be placed within the rectangle given by
+its left-upper corner (<em>xl<sub>i</sub></em>,
+<em>yl<sub>i</sub></em>) and its right-lower corner
+(<em>xr<sub>i</sub></em>, <em>yr<sub>i</sub></em>), 
+where 1&nbsp;&le;&nbsp;<em>i</em>&nbsp;&le;&nbsp;<em>n</em>,
+1&nbsp;&le;&nbsp;<em>xl<sub>i</sub></em>&nbsp;&le;&nbsp;<em>xr<sub>i</sub></em>&nbsp;&le;&nbsp;<em>n</em>,
+1&nbsp;&le;&nbsp;<em>yl<sub>i</sub></em>&nbsp;&le;&nbsp;<em>yr<sub>i</sub></em>&nbsp;&le;&nbsp;<em>n</em>.
+<li>
+No two rooks can attack each other, that is no two rooks can occupy the
+same column or the same row.
+
+</ul>
+<p>
+The input consists of several test cases.
+The first line of each of them contains one integer number, <em>n</em>, the
+side of the board. <em>n</em>&nbsp;lines follow giving the rectangles where
+the rooks can be placed as described above.  The <em>i</em>-th line
+among them gives <em>xl<sub>i</sub></em>, <em>yl<sub>i</sub></em>,
+<em>xr<sub>i</sub></em>, and <em>yr<sub>i</sub></em>. The input file is terminated with the integer `<TT>0</TT>' on a line by itself.
+<p>
+Your task is to find such a placing of rooks that the above conditions
+are satisfied and then output <em>n</em>&nbsp;lines each giving the position
+of a rook in order in which their rectangles appeared in the input. If
+there are multiple solutions, any one will do.  Output
+<tt>IMPOSSIBLE</tt> if there is no such placing of the rooks.
+
+<h3>Sample input</h3>
+<pre>
+8
+1 1 2 2
+5 7 8 8
+2 2 5 5
+2 2 5 5
+6 3 8 6
+6 3 8 5
+6 3 8 8
+3 6 7 8
+8
+1 1 2 2
+5 7 8 8
+2 2 5 5
+2 2 5 5
+6 3 8 6
+6 3 8 5
+6 3 8 8
+3 6 7 8
+0
+</pre>
+
+
+<h3>Output for sample input</h3>
+<pre>
+1 1
+5 8
+2 4
+4 2
+7 3
+8 5
+6 6
+3 7
+1 1
+5 8
+2 4
+4 2
+7 3
+8 5
+6 6
+3 7
+</pre>
+
+<hr>
+<em>K. Diks, adapted by P. Rudnicki</em>
+

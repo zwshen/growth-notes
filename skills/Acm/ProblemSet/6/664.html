@@ -1,0 +1,167 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Single-Player Games</TITLE>
+<META NAME="description" CONTENT="Single-Player Games">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Single-Player Games</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Playing games is the most fun if other people take part. But other players are not always available
+if you need them, which led to the invention of single-player games. One of the most well-known
+examples is the infamous ``Solitaire'' packaged with Windows, probably responsible for more wasted
+hours in offices around the world than any other game.
+
+<P>
+The goal of a single-player game is usually to make ``moves'' until one reaches a final state of
+the game, which results in a win or loss, or a score assigned to that final state. Most players try to
+optimize the result of the game by employing good strategies. In this problem we are interested in
+what happens if one plays randomly. After all, these games are mostly used to waste time, and playing
+randomly achieves this goal as well as any other strategy.
+
+<P>
+Games can very compactly represented as (possibly infinite) trees. Every node of the tree repre-
+sents a possible game state. The root of the tree corresponds to the starting position of the game. For
+an inner node, its children are the game states to which one can move in a single move. The leaf nodes
+are the final states, and every one of them is assigned a number, which is the score one receives when
+ending up at that leaf.
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p664.gif>
+</DIV>
+
+<P>
+Trees are defined using the following grammar.
+
+<P>
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<IMG
+ WIDTH="406" HEIGHT="137"
+ SRC="664img1.gif"
+ ALT="\begin{eqnarray*}Definition & ::= & Identifier \lq\lq ='' RealTree \\
+RealTree & ::=...
+...} \\
+Integer & \in & \{ \dots, -3, -2, -1, 0, 1, 2, 3, \dots,\}
+\end{eqnarray*}">
+</DIV><P></P>
+<BR CLEAR="ALL">
+
+<P>
+By using a <EM>Definition</EM>, the <EM>RealTree</EM> on the right-hand side of the
+equation is assigned to the <EM>Identifier</EM> on the left. A <EM>RealTree</EM>
+consists of a root node and one or more children, given as a sequence enclosed
+in brackets. And a <EM>Tree</EM> is either
+
+<P>
+<UL>
+<LI>the tree represented by a given <EM>Identifier</EM>, or
+
+<P>
+<LI>a leaf node, represented by a single <EM>Integer</EM>, or
+
+<P>
+<LI>an inner node, represented by a sequence of one or more <EM>Trees</EM> (its
+children), enclosed in brackets.
+</UL>
+
+<P>
+Your goal is to compute the expected score, if one plays randomly, i.e. at each inner node selects
+one of the children uniformly at random. This expected score is well-defined even for the infinite trees
+definable in our framework as long as the probability that the game ends (playing randomly) is 1.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains several gametree descriptions. Each description starts with a line containing
+the number <I>n</I> of identifiers used in the description. The identifiers used will be the first <I>n</I> lowercase
+letters of the alphabet. The following <I>n</I> lines contain the definitions of these identifiers (in the order
+<TT>a</TT>, <TT>b</TT>, ...). Each definition may contain arbitrary whitespace
+(but of course there will be no spaces within a single integer). The right
+hand side of a definition will contain only identifiers from the first <I>n</I>
+lowercase letters.
+The inputs ends with a test case starting with <I>n</I> = 0. This test case should
+not be processed.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each gametree description in the input, first output the number of the
+game. Then, for all <I>n</I> identifiers in the order <TT>a</TT>, <TT>b</TT>, ...,
+output the following. If an identifier represents a gametree for which the
+probability of finishing the game is 1, print the expected score (when playing
+randomly). This value should be exact to three digits to the right of the
+decimal point.
+
+<P>
+If the game described by the variable does not end with probability 1, print
+``<TT>Expected score of id undefined</TT>'' instead.
+Output a blank line after each test case.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+a = ((1 7) 6 ((8 3) 4))
+2
+a = (1 b)
+b = (4 a)
+1
+a = (a a a)
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+Game 1
+Expected score for a = 4.917
+
+Game 2
+Expected score for a = 2.000
+Expected score for b = 3.000
+
+Game 3
+Expected score for a undefined
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-05-22</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

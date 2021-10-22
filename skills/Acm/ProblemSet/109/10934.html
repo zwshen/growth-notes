@@ -1,0 +1,61 @@
+<title>Problem A: Dropping water balloons</title>
+
+<img src=p10934.jpg vspace=20 hspace=20 align=right>
+
+<h2>Problem A: Dropping water balloons</h2>
+
+It's frosh week, and this year your friends have decided that they would 
+initiate the new computer science students by dropping water balloons on them.  
+They've filled up a large crate of identical water balloons, ready for the event.  
+But as fate would have it, the balloons turned out to be rather tough, and can 
+be dropped from a height of several stories without bursting!
+<p>
+So your friends have sought you out for help.  They plan to drop the balloons 
+from a tall building on campus, but would like to spend as little effort as 
+possible hauling their balloons up the stairs, so they would like to know the 
+lowest floor from which they can drop the balloons so that they do burst.
+<p>
+You know the building has <em>n</em> floors, and your friends have given you 
+<em>k</em> identical balloons which you may use (and break) during your trials to find their answer.  Since 
+you are also lazy, you would like to determine the minimum number of trials you 
+must conduct in order to determine with absolute certainty the lowest floor 
+from which you can drop a balloon so that it bursts (or in the worst case, that the 
+balloons will not burst even when dropped from the top floor).  A trial consists 
+of dropping a balloon from a certain floor.  If a balloon fails to burst for a 
+trial, you can fetch it and use it again for another trial.
+<p>
+The input consists of a number of test cases, one case per line.  The data
+for one test case consists of two numbers <em>k</em> and <em>n</em>,
+1&le;<em>k</em>&le;100 and a positive <em>n</em> that fits into a 64 bit
+integer (yes, it's a <em>very</em> tall building).  The last case has 
+<em>k</em>=0 and should not be processed.
+<p>
+For each case of the input, print one line of output giving the minimum
+number of trials needed to solve the problem.  If more than 63 trials
+are needed then print <tt>More than 63 trials needed.</tt> instead of the
+number.
+
+<h3>Sample input</h3> 
+<pre> 
+2 100
+10 786599
+4 786599
+60 1844674407370955161
+63 9223372036854775807
+0 0
+</pre>
+
+
+<h3>Output for sample input</h3>
+
+<pre>
+14
+21
+More than 63 trials needed.
+61
+63
+</pre>
+
+<hr>
+
+<em>Piotr Rudnicki </em>

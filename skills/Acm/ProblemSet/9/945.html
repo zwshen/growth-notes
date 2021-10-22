@@ -1,0 +1,191 @@
+<html>
+
+<!-- ====================================================================== -->
+
+<head>
+<meta http-equiv="content-language" content="en-us">
+<title>Loading a Cargo Ship</title>
+</head>
+
+<!-- ====================================================================== -->
+
+<body>
+
+<h1 align="center">Loading a Cargo Ship</h1>
+
+<hr/>
+
+<!-- ====================================================================== -->
+
+<h1>Description</h1>
+
+<p>Ahoy there, software sailors! Your ship is in need of repairs! Last night a
+big wave swallowed the cargo routing computer (CRC) which is essential for
+logistic operations. Fortunately there is a replacement computer in the lower
+deck; however, there is no backup of the cargo routing software! Your mission
+is to reprogram the CRC assuming the following ship characteristics:</p>
+
+<ul>
+  <li>The ship has up to <code>9</code> cargo containers (of different sizes) 
+  available for storing packages;</li>
+  <li>The containers are numbered <code>1</code> to <code>9</code>;</li>
+  <li>Each cargo container has a specific maximum weight capacity, up 
+  to <code>999</code> tons;</li>
+  <li>Each package weights at most <code>9</code> tons;</li>
+  <li>The ship can only be loaded with no more than <code>999</code> packages 
+  (for good luck, the crew says).</li>
+</ul>
+
+<p>The packages are loaded into the ship via a conveyor belt which is
+connected to a cargo router (controlled by the CRC). The cargo router then
+forwards each package to one of the available cargo containers, according to
+the following algorithm:</p>
+
+<ol>
+  <li>First, select only the cargo containers that carry the lowest
+  number of packages;</li>
+  <li>Then, reduce the selection by choosing only the containers that have the
+  greatest available weight capacity;</li>
+  <li>Further reduce the selection by picking the container with the lowest
+  number;</li>
+  <li>If the selected cargo container cannot carry the package then the ship's
+  loading ends.</li>
+</ol>
+
+<p>To illustrate the cargo routing algorithm, consider a ship with 3 cargo
+containers (numbered 1, 2, and 3), respectively with 5, 10, and 5 tons of maximum weight
+capacity. Assume now there are 8 packages to be loaded, in sequence, into the
+ship, weighting 4, 3, 2, 1, 1, 2, 3, and 4
+tons. In this scenario, the cargo routing algorithm should produce the
+following activity:</p>
+
+<pre>(first package) 4  3  2  1  1  2  3  4 (last package)
+                |  |  |  |  |  |  |  x
+                |  |  |  |  |  |  +------------------------+
+                |  |  |  |  |  +-------------+             |
+                |  |  |  |  +-----------+    |             |
+  +-------------+  |  |  +---+          |    |             |
+  |      +---------+  |      |          |    |             v
+  |      |            |      v          v    v             
+  v      v            v                                  : 3 :
+                           : 1 :    : 1 1    2 1 1       2 1 1   (final contents
+: 4 :    3 4 :    3 4 2    3 4 2    3 4 2    3 4 2       3 4 2    of the ship's
+===== -> ===== -> ===== -> ===== -> ===== -> ===== ->    =====    cargo containers)
+1 2 3    1 2 3    1 2 3    1 2 3    1 2 3    1 2 3       1 2 3</pre>
+
+<p>(note: the colon symbol <code>:</code> is used to avoid presentation
+errors; see also the sample output)</p>
+
+<p>When the first package arrives (weighting 4 tons) all containers are empty, so rule 1 of the algorithm selects
+containers 1, 2, and 3. In step 2, because container 2 has the greatest
+available capacity (10 maximum tons - 0 used tons = 10 available tons), only
+container 2 remains selected. Rule 3 again selects container 2. In rule 4 the package 
+is loaded into container 2 because its available capacity (10 tons) is greater 
+than the 4 tons of the package.</p>
+
+<p>The second package ends up in container 1: in rule 1, containers 1 and 3
+are selected because both have the lowest number of packages (zero, in this
+case); rule 2 still selects the same containers since they have the same 5
+tons of available weight capacity; rule 3 reduces the selection to just
+container 1; finally, rule 4 loads the package, weighting 3 tons, into
+container 1.</p>
+
+<p>And so on, until all packages have been loaded into the ship, or, as in this 
+scenario, until no cargo container can carry the current package, which 
+prematurely ends the ship's loading (check the situation of the last package, 
+weighting 4 tons).</p>
+
+<p>Hurry! (and remember to backup the cargo routing software)</p>
+
+<hr>
+
+<!-- ====================================================================== -->
+
+<h1>Input</h1>
+
+<p>Input contains several test cases, separated by a blank line. Each test case describes the cargo containers and the packages to be loaded into
+the ship:</p>
+
+<ul>
+  <li>The first line indicates the number <code>c</code> of cargo containers
+  in the ship (<code>1 <= c <= 9</code>);</li>
+  <li>The following <code>c</code> lines describe the maximum weight
+  <code>cw<sub>i</sub></code> each container can carry (<code>1 <=
+  cw<sub>i</sub> <= 999</code>);</li>
+  <li>Then comes an empty line;</li>
+  <li>The next line indicates the number <code>p</code> of packages to be
+  loaded into the ship (<code>1 <= p <= 999</code>);</li>
+  <li>The following <code>p</code> lines describe the weight
+  <code>pw<sub>i</sub></code> of each package (<code>1 <= pw<sub>i</sub>
+  <= 9</code>).</li>
+</ul>
+
+<p>It is guaranteed that the weight of all packages is always lower or equal
+to the ship's maximum weight capacity (<code>sum(pw<sub>i</sub>) <=
+sum(cw<sub>i</sub>)</code>).</p>
+
+<hr/>
+
+<!-- ====================================================================== -->
+
+<h1>Output</h1>
+
+<p>The output for each test case displays the final contents of the ship's cargo containers and 
+presents a summary of total weights:</p>
+
+<ul>
+  <li>The first lines represent the final contents of the cargo containers;</li>
+  <li>Then comes an empty line;</li>
+  <li>The next line displays the weight of all packages loaded into the
+  ship;</li>
+  <li>The following line shows the total unused weight the ship would still be
+  able to carry;</li>
+  <li>The last line indicates the total weight of the packages that could not
+  be loaded into the ship.</li>
+</ul>
+
+<p>Examine carefully the sample output to prevent presentation errors. Print a blank line between datasets.</p>
+
+<hr/>
+
+<!-- ====================================================================== -->
+
+<h1>Sample Input</h1>
+
+<pre>3
+5
+10
+5
+
+8
+4
+3
+2
+1
+1
+2
+3
+4</pre>
+
+<hr/>
+
+<!-- ====================================================================== -->
+
+<h1>Sample Output</h1>
+
+<pre>: 3 :
+2 1 1
+3 4 2
+=====
+1 2 3
+
+cargo weight: 16
+unused weight: 4
+unloaded weight: 4</pre>
+
+<hr/>
+
+<!-- ====================================================================== -->
+
+</body>
+</html>

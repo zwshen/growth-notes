@@ -1,0 +1,273 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+           "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<meta name="GENERATOR" content="TtH 3.80">
+ <style type="text/css"> div.p { margin-top: 7pt;}</style>
+ <style type="text/css"><!--
+ td div.comp { margin-top: -0.6ex; margin-bottom: -1ex;}
+ td div.comb { margin-top: -0.6ex; margin-bottom: -.6ex;}
+ td div.hrcomp { line-height: 0.9; margin-top: -0.8ex; margin-bottom: -1ex;}
+ td div.norm {line-height:normal;}
+ span.roman {font-family: serif; font-style: normal; font-weight: normal;}
+ span.overacc2 {position: relative;  left: .8em; top: -1.2ex;}
+ span.overacc1 {position: relative;  left: .6em; top: -1.2ex;} --></style>
+ <style type="text/css"><!--
+ div.tiny {font-size:30%;}
+ div.scriptsize {font-size:xx-small;}
+ div.footnotesize {font-size:x-small;}
+ div.small {font-size:small;}
+ div.normalsize {font-size:medium;}
+ div.large {font-size:large;}
+ div.larger {font-size:x-large;}
+ div.largerstill {font-size:xx-large;}
+ div.huge {font-size:300%;}
+ span.smaller {font-size:smaller;}
+ --></style>
+
+
+<title> SPAM! (or not)</title>
+
+
+<div align="center"><center>
+<table border="0" bgcolor="#0060F0" summary="Table used for layout (ugh)">
+<tbody>
+  <tr>
+    <td><b>&nbsp;<font color="#C0FFFF" size="5">F. SPAM! (or not)</font>&nbsp;</b></td>
+  </tr>
+</tbody>
+</table>
+</center></div>
+
+<h2><font color="#0070E8">Context</font></h2>
+
+<div class="p"><!----></div>
+Since Paul Graham wrote his famous article "A Plan for Spam," people
+started to use Bayesian filters to classify incoming mail as spam or
+ham. This form of classification relies on previous learning from
+known spam or ham (non-spam) messages.
+
+<h2><font color="#0070E8">The Problem</font></h2>
+
+<div class="p"><!----></div>
+The learning algorithm assigns
+probabilities to words appearing in messages that are already
+classified by the user.
+
+<div class="p"><!----></div>
+Thus, using the Bayes theorem, we can say that the probability of a
+message being spam when we know that this message contains the word
+<i>w</i> is:
+
+<br clear="all" /><table border="0" width="100%"><tr><td>
+<table align="center" cellspacing="0"  cellpadding="2"><tr><td nowrap="nowrap" align="center">
+<i>P</i>(<i>S</i>&#124;<i>w</i>) = </td><td nowrap="nowrap" align="center">
+<i>P</i>(<i>w</i>&#124;<i>S</i>) &times;<i>P</i>(<i>S</i>)
+<div class="hrcomp"><hr noshade="noshade" size="1"/></div><i>P</i>(<i>w</i>&#124;<i>S</i>) &times;<i>P</i>(<i>S</i>) + <i>P</i>(<i>w</i>&#124;<i>H</i>) &times; <i>P</i>(<i>H</i>)<br /></td><td nowrap="nowrap" align="center">
+</td></tr></table>
+</td></tr></table>
+
+
+<div class="p"><!----></div>
+ where the probabilities <i>P</i>(<i>w</i>&#124;<i>S</i>) and <i>P</i>(<i>w</i>&#124;<i>H</i>) are calculated
+by the previous learning phase of the algorithm. If we suppose that
+there is equal possibility of being spam and ham (50%), then the
+formula gets simplified as:
+
+
+<br clear="all" /><table border="0" width="100%"><tr><td>
+<table align="center" cellspacing="0"  cellpadding="2"><tr><td nowrap="nowrap" align="center">
+<i>P</i>(<i>S</i>&#124;<i>w</i>) = </td><td nowrap="nowrap" align="center">
+<i>P</i>(<i>w</i>&#124;<i>S</i>)
+<div class="hrcomp"><hr noshade="noshade" size="1"/></div><i>P</i>(<i>w</i>&#124;<i>S</i>) + <i>P</i>(<i>w</i>&#124;<i>H</i>)<br /></td><td nowrap="nowrap" align="center">
+</td></tr></table>
+</td></tr></table>
+
+
+
+<div class="p"><!----></div>
+However, as we have a small learning set, we are going to limit a
+little bit the range of probabilities (also to make the algorithm a
+little bit more fuzzy), so instead of <i>P</i>(<i>S</i>&#124;<i>w</i>) we will use <i>P</i>&#8242;(<i>S</i>&#124;<i>w</i>),
+defined as:
+
+
+<br clear="all" /><table border="0" width="100%"><tr><td>
+<table align="center" cellspacing="0"  cellpadding="2"><tr><td nowrap="nowrap" align="center">
+<i>P</i>&#8242;(<i>S</i>&#124;<i>w</i>) = {</td><td nowrap="nowrap" align="center">
+<table>
+<tr><td><table border="0" cellspacing="0" cellpadding="0"><tr><td nowrap="nowrap" align="center">
+0.01 </td></tr></table></td><td><table border="0" cellspacing="0" cellpadding="0"><tr><td nowrap="nowrap" align="center">
+&nbsp;&nbsp;&nbsp; <b>if</b>&nbsp;<i>P</i>(<i>S</i>&#124;<i>w</i>)  &lt;  0.01 </td></tr></table></td></tr>
+<tr><td><table border="0" cellspacing="0" cellpadding="0"><tr><td nowrap="nowrap" align="center">
+0.99 </td></tr></table></td><td><table border="0" cellspacing="0" cellpadding="0"><tr><td nowrap="nowrap" align="center">
+&nbsp;&nbsp;&nbsp; <b>if</b>&nbsp;<i>P</i>(<i>S</i>&#124;<i>w</i>)  &gt;  0.99 </td></tr></table></td></tr>
+<tr><td><table border="0" cellspacing="0" cellpadding="0"><tr><td nowrap="nowrap" align="center">
+<i>P</i>(<i>S</i>&#124;<i>w</i>) </td></tr></table></td><td><table border="0" cellspacing="0" cellpadding="0"><tr><td nowrap="nowrap" align="center">
+&nbsp;&nbsp;&nbsp; <b>otherwise</b></td></tr></table></td></tr></table>
+</td><td nowrap="nowrap" align="center">
+</td></tr></table>
+</td></tr></table>
+
+
+
+<div class="p"><!----></div>
+A message can be seen as composed as a series of words. If we consider
+each word independent, we can obtain a function to calculate the
+probability (called <i>p</i>) of a message to be spam:
+
+
+<br clear="all" /><table border="0" width="100%"><tr><td>
+<table align="center" cellspacing="0"  cellpadding="2"><tr><td nowrap="nowrap" align="center">
+<i>p</i> = </td><td nowrap="nowrap" align="center">
+<table border="0" cellspacing="0" cellpadding="0"><tr><td nowrap="nowrap" align="center">
+<span class="smaller"></span><!--sup
+--><br /><font size="+3">&#8719;<br />
+</font><span class="smaller"><i>w</i>  &#8712; <span class="roman">message</span></span>&nbsp;<br /></td><td nowrap="nowrap" align="center">
+<i>P</i>&#8242;(<i>S</i>&#124;<i>w</i>)</td></tr></table>
+<div class="hrcomp"><hr noshade="noshade" size="1"/></div><table border="0" cellspacing="0" cellpadding="0"><tr><td nowrap="nowrap" align="center">
+<span class="smaller"></span><!--sup
+--><br /><font size="+3">&#8719;<br />
+</font><span class="smaller"><i>w</i>  &#8712;  <span class="roman">message</span></span>&nbsp;<br /></td><td nowrap="nowrap" align="center">
+<i>P</i>&#8242;(<i>S</i>&#124;<i>w</i>) + </td><td nowrap="nowrap" align="center">
+<span class="smaller"></span><!--sup
+--><br /><font size="+3">&#8719;<br />
+</font><span class="smaller"><i>w</i>  &#8712; <span class="roman">message</span></span>&nbsp;<br /></td><td nowrap="nowrap" align="center">
+(1 &#8722; <i>P</i>&#8242;(<i>S</i>&#124;<i>w</i>))</td></tr></table></td><td nowrap="nowrap" align="center">
+</td></tr></table>
+</td></tr></table>
+
+
+
+<div class="p"><!----></div>
+where <i>w</i> represents each word in the message.
+
+<div class="p"><!----></div>
+Finally, there is only one special case when calculating <i>P</i>(<i>S</i>&#124;<i>w</i>):
+when <i>w</i> has not been seen either in spam or ham. Then, as Graham
+estimates, a probability of 40% (0.4) is given, that is:
+
+
+<br clear="all" /><table border="0" width="100%"><tr><td>
+<table align="center" cellspacing="0"  cellpadding="2"><tr><td nowrap="nowrap" align="center">
+<i>P</i>(<i>S</i>&#124;<i>w</i>) = 0.4 &nbsp;&nbsp;&nbsp; &#8704;&nbsp;<i>w</i> &nbsp;&#124;&nbsp;<i>w</i>  &#8713; <span class="roman">spamwords</span> &#8743;<i>w</i>  &#8713; <span class="roman">hamwords</span></td></tr></table>
+</td></tr></table>
+
+
+<div class="p"><!----></div>
+where <span class="roman">spamwords</span> and <span class="roman">hamwords</span> are the
+set of spam and ham words found in spam and ham messages
+respectively.
+
+<div class="p"><!----></div>
+As an assignment, you have to write a program that is able to
+learn from known messages being either spam or ham, and also to
+classify other messages given as input based on their probability to
+be spam.
+
+<div class="p"><!----></div>
+<h2><font color="#0070E8">The Input</font></h2>
+
+<div class="p"><!----></div>
+The input will be composed of a series of messages.  Each message has
+a first line (a header), then several lines with a series of words each
+(separated by one or more spaces), and ends with a line containing
+"<tt>==</tt>" by itself. The words will be composed of letters, that
+may be in mixed case. You have to convert them all to lower case.
+
+<div class="p"><!----></div>
+As for the header, it can have three possible values:
+
+<div class="p"><!----></div>
+
+<ol type="1">
+<li> <tt>MESSAGE SPAM</tt> (a message known to be spam.)
+<div class="p"><!----></div>
+</li>
+
+<li> <tt>MESSAGE HAM</tt> (a message known to be non-spam or ham.)
+<div class="p"><!----></div>
+</li>
+
+<li> <tt>MESSAGE CLASSIFY</tt> (the message has to be classified as spam
+  or ham.)
+<div class="p"><!----></div>
+</li>
+</ol>
+
+<div class="p"><!----></div>
+Types 1 and 2 represent the learning process for the algorithm, while
+type&nbsp;3 requires the program to produce an output classifying the
+message as either spam or ham. The types of messages can be intermixed
+in the input.
+
+<div class="p"><!----></div>
+<h2><font color="#0070E8">The Output</font></h2>
+
+
+<div class="p"><!----></div>
+For each message with the header "<tt>MESSAGE&nbsp;CLASSIFY</tt>", the
+program will produce a line with three possible values depending on
+the probability (<i>p</i>) of the message being spam:
+
+<div class="p"><!----></div>
+
+<ul>
+<li> <tt>Spam</tt> if <i>p</i>  &#8805; 0.6.
+<div class="p"><!----></div>
+</li>
+
+<li> <tt>Ham</tt> if <i>p</i>  &#8804; 0.4.
+<div class="p"><!----></div>
+</li>
+
+<li> <tt>Unsure</tt> if <i>p</i>  &#8712; (0.4, 0.6).
+<div class="p"><!----></div>
+</li>
+</ul>
+
+<div class="p"><!----></div>
+<h2><font color="#0070E8">Sample Input</font></h2>
+
+
+<div class="p"><!----></div>
+
+<pre>MESSAGE&nbsp;SPAM
+replica&nbsp;rolex
+==
+MESSAGE&nbsp;SPAM
+replica&nbsp;rolex
+==
+MESSAGE&nbsp;HAM
+Hello&nbsp;all
+==
+MESSAGE&nbsp;CLASSIFY
+Hello&nbsp;replica
+==
+MESSAGE&nbsp;CLASSIFY
+replica&nbsp;rolex&nbsp;and&nbsp;some&nbsp;other&nbsp;things
+==
+MESSAGE&nbsp;CLASSIFY
+abc&nbsp;def&nbsp;ghi&nbsp;jkl&nbsp;all
+==
+</pre>
+
+<div class="p"><!----></div>
+<h2><font color="#0070E8">Sample Output</font></h2>
+
+
+<div class="p"><!----></div>
+
+<pre>Unsure
+Spam
+Ham
+</pre>
+
+<hr>
+
+<p align="right"><font color="#000040"><small><small><a href="http://dis.um.es/contest"
+target="_blank">OMP'09</a><br>
+<a href="http://www.um.es/informatica" target="_blank">Facultad de Informatica<br>
+</a><a href="http://www.um.es" target="_blank">Universidad de Murcia (SPAIN)</a></small></small></p>
+</font>
+</body>
+</html>

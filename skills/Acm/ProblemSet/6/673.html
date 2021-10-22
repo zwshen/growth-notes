@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Parentheses Balance</TITLE>
+<META NAME="description" CONTENT="Parentheses Balance">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Parentheses Balance</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+You are given a string consisting of parentheses <TT>()</TT> and <TT>[]</TT>.    A
+string of this type is said to be <EM>correct</EM>:
+<DL COMPACT>
+<DT>(a)
+<DD>if it is the empty string
+<DT>(b)
+<DD>if A and B are correct, AB is correct,
+<DT>(c)
+<DD>if A is correct, <TT>(</TT>A<TT>)</TT> and <TT>[</TT>A<TT>]</TT> is correct.
+</DL>
+
+<P>
+Write a program that takes a sequence of strings of this type and check
+their correctness. Your program can assume that the maximum string
+length is 128.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The file contains a positive integer <I>n</I> and a sequence of <I>n</I> strings of
+parentheses <TT>()</TT> and <TT>[]</TT>, one string a line.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+A sequence of <TT>Yes</TT> or <TT>No</TT> on the output file.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+([])
+(([()])))
+([()[]()])()
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+Yes
+No
+Yes
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-14</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

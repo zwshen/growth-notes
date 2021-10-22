@@ -1,0 +1,166 @@
+
+<!--Converted with LaTeX2HTML 2008 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Deadly Atack</TITLE>
+<META NAME="description" CONTENT="Deadly Atack">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Deadly Atack</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+Since the King of Nlogonia built, decades earlier, an enormous protecting wall around the whole kingdom, its inhabitants have lived safely. The wall is massive, extremely reinforced, and has the format of a circle, enclosing all the King's domains. 
+
+<P>
+However, in recent weeks inhabitants of Nlogonia are upset. There are rumors that scientists from Quadradonia, a barbaric nation in Nlogonia's neighborhood, have developed a lethal weapon, capable of blowing away anything on its reach. 
+
+<P>
+The new weapon is a cannon that emits a beam of protons that spread with an angle  from the cannon's mouth. The beam's direction is determined by an angle , measured counterclockwise from the x axis. The figure below illustrates (a) an example of an atack, (b) what would remain from Nlogonia and (c) the area that would be destroyed.
+
+<P>
+<DIV ALIGN="CENTER">
+
+<!-- MATH
+ $\epsfbox{p11676.eps}$
+ -->
+<IMG
+ WIDTH="727" HEIGHT="250" ALIGN="BOTTOM" BORDER="0"
+ SRC="p11676.png"
+ ALT="\epsfbox{p11676.eps}">
+</DIV>
+
+<P>
+Given the cannon's coordinates, the beam's direction and spread angle, as well as the coordinate of the wall's center and radius, you must write a program to calculate the area of Nlogonia that will be destroyed.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input contains several test cases. Each test case is composed by two lines. The first line contains three integers <SPAN CLASS="MATH"><I>X</I></SPAN>, <SPAN CLASS="MATH"><I>Y</I></SPAN>, <SPAN CLASS="MATH"><I>R</I></SPAN>, with <SPAN CLASS="MATH">(<I>X</I>, <I>Y</I>)</SPAN> representing the coordinates of the protection wall's center (<!-- MATH
+ $0 \le X \le 1000$
+ -->
+<SPAN CLASS="MATH">0<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11676img2.png"
+ ALT="$ \le$"><I>X</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11676img2.png"
+ ALT="$ \le$">1000</SPAN> and <!-- MATH
+ $0 \le Y \le 1000$
+ -->
+<SPAN CLASS="MATH">0<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11676img2.png"
+ ALT="$ \le$"><I>Y</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11676img2.png"
+ ALT="$ \le$">1000</SPAN>), and radius (<!-- MATH
+ $1 \le R \le 100$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11676img2.png"
+ ALT="$ \le$"><I>R</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11676img2.png"
+ ALT="$ \le$">100</SPAN>). The second line contains four integers <SPAN CLASS="MATH"><I>P</I></SPAN>, <SPAN CLASS="MATH"><I>Q</I></SPAN>, <SPAN CLASS="MATH"><I>A</I></SPAN> and <SPAN CLASS="MATH"><I>T</I></SPAN>, with <SPAN CLASS="MATH">(<I>P</I>, <I>Q</I>)</SPAN> representing the cannon's coordinates (<!-- MATH
+ $0 \le P \le 1000$
+ -->
+<SPAN CLASS="MATH">0<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11676img2.png"
+ ALT="$ \le$"><I>P</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11676img2.png"
+ ALT="$ \le$">1000</SPAN> and <!-- MATH
+ $0 \le Q \le 1000$
+ -->
+<SPAN CLASS="MATH">0<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11676img2.png"
+ ALT="$ \le$"><I>Q</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11676img2.png"
+ ALT="$ \le$">1000</SPAN>), <SPAN CLASS="MATH"><I>A</I></SPAN> representing the beam's direction, in degrees (<!-- MATH
+ $0 \le A  359$
+ -->
+<SPAN CLASS="MATH">0<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11676img2.png"
+ ALT="$ \le$"><I>A</I><IMG
+  WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+   SRC="11676img2.png"
+    ALT="$ \le$">359</SPAN>), and <SPAN CLASS="MATH"><I>T</I></SPAN> representing the spread angle, also in degrees (<!-- MATH
+ $1 \le T \le 179$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11676img2.png"
+ ALT="$ \le$"><I>T</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11676img2.png"
+ ALT="$ \le$">179</SPAN>). The angle A is measured counter-clockwise from the <SPAN CLASS="MATH"><I>x</I></SPAN> axis, and the cannon is always outside the protecting wall. 
+
+<P>
+The end of input is indicated by a line which contains three zeros, separated by single spaces.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each test case in the input your program should print a single line, containing a real number, written with a precision of one decimal place, indicating the area of Nlogonia that would be destroyed by the atack.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1 1 1
+3 1 180 90
+4 4 3
+8 4 90 90
+4 4 3
+8 4 180 179
+0 0 0 0
+</PRE> 
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+3.1
+0.2
+28.3
+</PRE> 
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

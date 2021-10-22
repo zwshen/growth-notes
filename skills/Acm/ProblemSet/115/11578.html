@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+
+
+	<title>Problem B: Situp Benches</title>
+	<meta name="author" content="Kevin Waugh">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head><body>
+
+<h2>Problem B: Situp Benches</h2>
+
+<font color="white"><img src="p11578.png" alt="Joe Six-Pack" width="400" align="right" border="5"></font>
+<p>The gym at the University of Alberta has two identical sit up benches
+that are side by side.  Each of these benches can be inclined in 10
+degree increments between 10 degrees and 50 degrees inclusive
+depending on the level of difficulty the user desires.  At the
+end of each day the gym staff adjust the incline of each machine to be
+10 degrees.  This means at the start of each day both machines have a
+10 degree incline.
+
+</p><p>Every time someone uses a bench it incurs some wear and tear that
+amounts to 15 cents in maintenance costs.  Additionally, every time a
+bench has its incline changed it incurs wear and tear that amounts to
+the number of degrees the bench was adjusted, in cents.
+For example, if someone moves the bench from a 40 degree
+incline to a 20 degree incline then 20 cents of maintenance must be
+done.
+
+</p><p>The gym staff have recently required students to sign up for the situp
+benches the day before.  When a student signs up they give the time at
+which they would like to use the machine and the incline they will use
+it at.  No more than two students can sign up to use a bench at the
+same time.
+
+</p><p>Prior to opening the gym for the day, the gym staff would like to have
+a list assigning students to each of the situp benches and they would
+like the assignment to minimize the total maintenance cost for the
+day.  They have asked you to write a program to make this list.
+
+</p><p>Input begins with the number of test cases on its own line.
+Each test case begins with the number <em>n</em> (1 ≤ <em>n</em> ≤ 10000), the
+number of students who have signed up to use the benches on the
+following day.  Following are <em>n</em> lines, each consisting of two
+numbers: <em>time_slot</em> and <em>incline</em>.
+<em>time_slot</em> is a number that specifies when a student will arrive
+at the machine, while <em>incline</em> specifies the angle to which they
+will adjust the situp bench.  Two students in the same <em>time_slot</em> arrive at the
+benches at the same time, and lower <em>time_slot</em>s occur before
+higher <em>time_slot</em>s.  <em>time_slot</em>s are numbered between 0 and 20000, and
+<i>incline</i> is one of 10, 20, 30, 40 or 50 depending on the
+student's preference.
+
+</p><p>For each test case, output a line containing the total maintenance cost (in cents) for the day
+followed by <em>n</em> lines (one for each student, in the order given on input) containing
+either a 1 or a 2 depending on which bench you have assigned them
+to.  Any assignment that minimizes the total maintenance cost for the
+day is acceptable.
+
+</p><h3>Sample Input</h3>
+<pre>1
+3
+2 40
+2 50
+1 40
+</pre>
+
+<h3>Sample Output</h3>
+<pre>185
+1
+2
+1
+</pre>
+
+<hr>
+<em>Kevin Waugh</em>
+
+</body></html>

@@ -1,0 +1,121 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Working with Relations</TITLE>
+<META NAME="description" CONTENT="Working with Relations">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Working with Relations</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The wages of the employees of a company are computed on the basis of a set of
+relative rankings of the form <I>x</I><TT> R </TT><I>y</I>, where <I>x</I> and <I>y</I> are names and/or numbers,
+and <TT>R</TT> is a relational operator from the set {<TT>&lt;, &lt;=, &gt;, &gt;=, =</TT>}.
+The meaning of <I>x</I><TT> R </TT><I>y</I> is:
+
+<P>
+<DIV ALIGN="CENTER">
+<TABLE CELLPADDING=3 BORDER="1">
+<TR><TD ALIGN="RIGHT">the salary of <I>x</I></TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="LEFT">the salary of <I>y</I></TD>
+</TR>
+<TR><TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="CENTER">must be in relation <TT> R</TT> with</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">number <I>x</I></TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="LEFT">number <I>y</I></TD>
+</TR>
+</TABLE></DIV>
+
+<P>
+The problem is to compute the minimum and the maximum wage which each of the
+employees can get according to a given set of relations. It is known that: the
+name of an employee is at most 8 characters long; the wages are integers
+from 1 to 99999; only integer numbers appear in relations; the number of
+employees cannot exceed 100 and the number of relations is at most 1000.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The program input is from a file which contains several sets of relations as
+shown in the sample input below. The relations of a set are one on a line and their elements
+are separated by spaces. Each set of relations ends with a line which contains
+a minus sign only. The format of input data is correct.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The result of the program is on standard output. For each consistent set of
+relations the result is the message `<TT>OK</TT>' followed by the list of employees (if
+any), in alphabetical order, together with their minimum and maximum wages as
+shown in the sample output. If a set of relations is inconsistent then the message
+`<TT>No solution</TT>' is printed for that set. Notice that for a set of relations which
+contains only numbers the result can be either the message `<TT>OK</TT>' or `<TT>No solution</TT>'. Print a blank line between two consecutive test cases.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Fido &lt; 20
+Bibo &lt;= Fido
+Fred &lt; Bibo
+20 &gt; Fred
+-
+1 &lt;= 3
+1 = 1
+-
+Fido &lt; 20
+Bibo &lt; Fido
+20 &lt; Fido
+-
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+OK
+Bibo         2    19
+Fido         2    19
+Fred         1    18
+
+OK
+
+No solution
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2001-01-05</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,175 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./p5_files/filelist.xml">
+<title>Problem F - 2001 Regionals Warmup Contest</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Administrator</o:Author>
+  <o:LastAuthor>Administrator</o:LastAuthor>
+  <o:Revision>24</o:Revision>
+  <o:TotalTime>37</o:TotalTime>
+  <o:Created>2001-08-02T03:19:00Z</o:Created>
+  <o:LastSaved>2001-08-24T14:48:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>159</o:Words>
+  <o:Characters>911</o:Characters>
+  <o:Company>BUET</o:Company>
+  <o:Lines>7</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>1118</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+tt
+	{mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1028"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:18.0pt'>Problem F<span style='color:black'><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:24.0pt'>Smallest Bounding Rectangle</span> </b><b
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-size:10.0pt;
+color:black'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='mso-bidi-font-size:13.5pt'>Input: </span></b><span style='mso-bidi-font-size:
+13.5pt;mso-bidi-font-weight:bold'>standard input<span style='color:black'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='mso-bidi-font-size:13.5pt'>Output: </span></b><span style='mso-bidi-font-size:
+13.5pt'>standard output<span style='color:black'> <o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='mso-bidi-font-size:13.5pt'>Time Limit:</span></b><span style='mso-bidi-font-size:
+13.5pt'> 3 seconds</span><span style='font-size:13.5pt'><o:p></o:p></span></p>
+
+<p style='text-align:justify'>Given the Cartesian coordinates of <em>n</em>
+(&gt; 0) 2-dimensional points, write a program that computes the area of their smallest
+bounding rectangle (smallest rectangle containing all the given points).</p>
+
+<p style='text-align:justify'><b><span style='font-size:18.0pt;mso-bidi-font-size:
+12.0pt'>Input </span></b><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></p>
+
+<p style='text-align:justify'>The input file may contain multiple test cases.
+Each test case begins with a line containing&nbsp;a positive integer <em>n</em>
+(&lt; 1001) indicating the number of points in this test case. Then follows <em>n</em>
+lines each containing two real numbers giving respectively the <em>x-</em> and <em>y-</em>coordinates
+of a point.&nbsp;The input terminates with a test case containing&nbsp;a value
+0 for <em>n </em>which must not be processed<em>.</em> &nbsp; <span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></p>
+
+<p style='text-align:justify'><b><span style='font-size:18.0pt;mso-bidi-font-size:
+12.0pt'>Output</span></b></p>
+
+<p style='text-align:justify'>For each&nbsp;test case in the input print a line
+containing the area of the smallest bounding rectangle rounded to the 4th digit
+after the decimal point. </p>
+
+<p style='text-align:justify'><b><span style='font-size:18.0pt;mso-bidi-font-size:
+12.0pt'>Sample Input</span></b></p>
+<font size=3 face="Courier, Times New Roman, Arial, Helvetica">
+3<br>
+-3.000 5.000<br>
+7.000 9.000<br>
+17.000 5.000<br>
+4<br>
+10.000 10.000<br>
+10.000 20.000<br>
+20.000 20.000<br>
+20.000 10.000<br>
+0
+</font>
+<br>
+<p style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>Sample Output</span></b></p>
+<font size=3 face="Courier, Times New Roman, Arial, Helvetica">
+80.0000<br>
+100.0000<br>
+</font>
+<hr>
+<b>Rezaul Alam Chowdhury</b>
+<pre
+style='text-align:justify'><b><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></pre><pre
+style='text-align:justify'><b><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></pre>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='mso-bidi-font-size:13.5pt'>“The art of mathematics, as of life, is
+knowing which truths are useless.”</span></p>
+
+<pre style='text-align:justify'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></pre></div>
+
+</body>
+
+</html>

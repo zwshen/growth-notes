@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Crosswords</TITLE>
+<META NAME="description" CONTENT="Crosswords">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1>
+<CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF><A NAME="SECTION0001000000000000000000">Crosswords</A></FONT></B></TABLE></CENTER></H1>
+<P>
+This problem deals with crosswords, as they are known from every newspaper. A cross-word is words arranged horizontally and vertically in a rectangle. Two words can share
+one character where they are crossing. The problem is to decide whether the crossword
+is solved correctly or not.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Input file contains several test cases. Each test has any number of lines of the format:
+<TT><b>word</b> <b>x</b> <b>y</b> <b>d</b></TT>.<br>
+<TT><b>word</b>, <b>x</b>, <b>y</b></TT> and <TT><b>d</b></TT> are
+in standard text
+format. <TT><b>x</b></TT> and <TT><b>y</b></TT> mean the coordinate of the starting point of
+the <tt><b>word</b></tt> and <TT><b>d</b></TT> is the
+direction in which the <tt><b>word</b></tt> is written. <tt><b>x</b></tt> and <tt><b>y</b></tt> are positive integers less than 100. The length the <tt><b>word</b></tt> is less than 10. Between <tt><b>word</b> <b>x</b> <b>y</b> <b>d</b></tt> there is exactly one space and <tt><b>word</b></tt> begins from the first column. The coordinate system starts at
+the upper
+left of the rectangle with the coordinates <i>(1,1)</i>. The direction is given
+by a single
+character where <TT><b>u</b></TT> means upwards, <TT><b>r</b></TT> means right, <TT><b>d</b></TT> means down and <TT><b>l</b></TT> means left.
+Given crossword will always be correct.
+<P>These lines are follwed by a <tt>#</tt> symbol, and then the test contains the ``solution&quot; in the following format:
+The first line of the ``solution&quot; is the
+minimal width <i>(minimal right edge coordinate)</i> of the crossword, and the second line is the minimal height <i>(minimal bottom coordinate)</i> of the crossword needed to make crossword.
+The third line is all the
+characters of the ``solution&quot; <i>(only lower case characters - a ... z)</i> listed from left to right, from top to bottom at the end of which stands single <tt>$</tt> symbol <i>(<tt>$</tt> is not a part of the ``solution&quot; and just indicates the end of the ``solution&quot; line)</i>. The <b>EOF</b> indicates the end of input file.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each test case output must be one of the following sentences:
+<P>
+<UL>
+<LI> <TT>The solution is correct.</TT>
+</UL>
+<P>
+or
+<UL>
+<LI> <TT>The solution is incorrect.</TT>
+</UL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>second 1 1 r
+vis 1 3 r
+file 2 4 u
+castle 3 1 d
+end 6 3 u
+#
+6
+6
+second la  nvis  e ft  l  e   $
+sample 1 4 r
+output 1 7 r
+for 3 3 u
+crossword 1 1 d
+is 2 5 l
+correct 1 1 r
+#
+7
+9
+correctr o    o f    sample  si     w      output r      d      $</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>The solution is correct.
+The solution is correct.</PRE>
+<P>
+</BODY>
+</HTML>

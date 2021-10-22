@@ -1,0 +1,253 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Problem D: Hartals</TITLE>
+<META NAME="description" CONTENT="Problem D: Hartals">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Problem D: Hartals</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+ 
+A social research organization has determined a simple set of parameters to simulate 
+the behavior of the political parties of our country. One of the parameters is a positive integer
+<I>h</I> (called the <EM>hartal parameter</EM>) that denotes the average number of days
+between two successive <EM>hartals</EM> (strikes) called by the corresponding
+party. Though the parameter is far too simple to be flawless, it can still be
+used to forecast the damages caused by <EM>hartals</EM>. The following example
+will give you a clear idea: 
+
+<P>
+
+<P>
+<BR>
+Consider three political parties. Assume <I>h</I><SUB>1</SUB> = 3,
+<I>h</I><SUB>2</SUB> = 4 and <I>h</I><SUB>3</SUB> = 8 where <I>h</I><SUB><I>i</I></SUB> is the <EM>hartal parameter</EM> for party <I>i</I>
+(
+<!-- MATH: $i = 1, 2, 3$ -->
+<I>i</I> = 1, 2, 3). Now, we will simulate the behavior of these three parties
+for <I>N</I> = 14 days. One must always start the simulation on a Sunday and assume
+that there will be no <EM>hartals</EM> on weekly holidays (on Fridays and
+Saturdays).   
+
+<P>
+
+<P>
+<BR>
+<DIV ALIGN="CENTER"><TABLE CELLPADDING=3 BORDER="1">
+<TR><TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">1</TD>
+<TD ALIGN="CENTER">2</TD>
+<TD ALIGN="CENTER">3</TD>
+<TD ALIGN="CENTER">4</TD>
+<TD ALIGN="CENTER">5</TD>
+<TD ALIGN="CENTER">6</TD>
+<TD ALIGN="CENTER">7</TD>
+<TD ALIGN="CENTER">8</TD>
+<TD ALIGN="CENTER">9</TD>
+<TD ALIGN="CENTER">10</TD>
+<TD ALIGN="CENTER">11</TD>
+<TD ALIGN="CENTER">12</TD>
+<TD ALIGN="CENTER">13</TD>
+<TD ALIGN="CENTER">14</TD>
+</TR>
+<TR><TD ALIGN="CENTER">Days</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">Su</TD>
+<TD ALIGN="CENTER">Mo</TD>
+<TD ALIGN="CENTER">Tu</TD>
+<TD ALIGN="CENTER">We</TD>
+<TD ALIGN="CENTER">Th</TD>
+<TD ALIGN="CENTER">Fr</TD>
+<TD ALIGN="CENTER">Sa</TD>
+<TD ALIGN="CENTER">Su</TD>
+<TD ALIGN="CENTER">Mo</TD>
+<TD ALIGN="CENTER">Tu</TD>
+<TD ALIGN="CENTER">We</TD>
+<TD ALIGN="CENTER">Th</TD>
+<TD ALIGN="CENTER">Fr</TD>
+<TD ALIGN="CENTER">Sa</TD>
+</TR>
+<TR><TD ALIGN="CENTER">Party 1</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">x</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">x</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">x</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">x</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="CENTER">Party 2</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">x</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">x</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">x</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="CENTER">Party 3</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">x</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="CENTER">Hartals</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">1</TD>
+<TD ALIGN="CENTER">2</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">3</TD>
+<TD ALIGN="CENTER">4</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">5</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+</TR>
+</TABLE></DIV>
+
+<P>
+<BR>
+The simulation above shows that there will be exactly 5 <EM>hartals</EM> (on days
+3, 4, 8, 9 and 12) in 14 days. There will be no <EM>hartal</EM> on day 6 since it
+is a Friday. Hence we lose 5 working days in 2 weeks. 
+
+<P>
+In this problem, given
+the hartal parameters for several political parties and the value of <I>N</I>, your
+job is to determine the number of working days we lose in those <I>N</I> days.  
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of the input consists of a single integer <I>T</I> giving the number
+of test cases to follow.
+
+<P>
+The first line of each test case contains an integer
+<I>N</I> (
+<!-- MATH: $7 \le N \le 3650$ -->
+<IMG
+ WIDTH="110" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10050img1.gif"
+ ALT="$7 \le N \le 3650$">)
+giving the number of days over which the simulation
+must be run. The next line contains another integer <I>P</I> (
+<!-- MATH: $1 \le P \le 100$ -->
+<IMG
+ WIDTH="100" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10050img2.gif"
+ ALT="$1 \le P \le 100$">)
+representing the number of political parties in this case. The <I>i</I>­th of the
+next <I>P</I> lines contains a positive integer <I>h</I><SUB><I>i</I></SUB> (which will never be a
+multiple of 7) giving the <EM>hartal parameter</EM> for party <I>i</I> (
+<!-- MATH: $1 \le i \le
+P$ -->
+<IMG
+ WIDTH="79" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10050img3.gif"
+ ALT="$1 \le i \le
+P$">).   
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case in the input output the number of working days we lose.
+Each output must be on a separate line.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2
+14
+3
+3
+4
+8
+100
+4
+12
+15
+25
+40
+</PRE>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+5
+15
+</PRE>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-12-26</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

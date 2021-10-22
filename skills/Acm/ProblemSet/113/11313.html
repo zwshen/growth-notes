@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>Problem G: Gourmet Games</title>
+</head>
+<body>
+
+<center>
+<h1>Problem G</h1>
+<h1>GOURMET GAMES</h1>
+</center>
+
+<p>Wolfgang Puck is opening a new exclusive restaurant in Las Vegas and is
+looking for a chef. His nephew Hansel caught him thinking of posting an ad in
+newspapers. (Note: Wolfgang has heard of "this Internet thingy", but didn't find
+it interesting because one could not spread some Internet on a piece of bread,
+which is the mere minimum that has to be satisfied for something to be
+interesting, according to Mr. Puck.)</p>
+
+<p>Hansel knows what the advantages of the Internet job postings are,
+but he came up with an even better idea - given the success of various reality
+TV shows and given the fact that the restaurant is opening in Las Vegas,
+why not organize a sort of a cook-off tournament that will decide who Mr. Puck
+will hire?</p>
+
+<img align=right src=p11313.png>
+
+<p>The idea basically combines the Iron Chef&trade; show with the World Series
+Of Poker&trade;:
+Every show <em>m</em> cooks prepare a five-course meal for judges and the best one
+(according to the said judges) advances to the next round.
+All candidates are ranked based on the previous experience so, even if the number
+of the candidates is not divisible by <em>m</em>, some of them can get a "bye"
+and compete in later rounds.
+The winner of the final show gets the honour of being the chef in the best
+Wolfgang Puck's restaurant ever.</p>
+
+<p>Hansel realized that even with the byes it might not be possible to hold
+a tournament with <em>m</em> chefs per show, so he is trying to find out what
+the best <em>m</em> for the given number of candidates is. If you can just help
+him by letting him know if he can run a tournament as described with <em>n</em>
+candidates and <em>m</em> chefs per show and, in the case he can,
+how many shows he needs, he will be so grateful that he might even
+convince Mr. Puck to share the Secret Cheesecake Base Recipe with you.</p>
+
+<h2>Input</h2>
+<p>Input file starts with the line containing a single integer <em>t</em>,
+the number of test cases. Next <em>t</em> lines each contain two integers
+separated by spaces, <em>n</em> and <em>m</em> 
+(2 &le; <em>n</em> &le; 10000, 2 &le; <em>m</em> &le; <em>n</em>), where <em>n</em>
+is the total number of candidates and <em>m</em> is the number of chefs
+participating in a single TV show.</p>
+
+<h2>Output</h2>
+<p>For each test case print the number of shows that need to be run to get the new chef.
+In the case that the tournament cannot be run with given <em>n</em> and <em>m</em>,
+print "cannot do this".</p>
+
+<h2>Sample Input</h2>
+<pre>
+3
+3 2
+4 3
+4 4
+</pre>
+
+<h2>Output for the Sample Input</h2>
+<pre>
+2
+cannot do this
+1
+</pre>
+
+<hr>
+<i>Darko Aleksic</i><br>
+<i>Calgary Collegiate Programming Contest 2007</i><br />
+</body>
+</html>

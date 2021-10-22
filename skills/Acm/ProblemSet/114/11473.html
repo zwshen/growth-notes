@@ -1,0 +1,159 @@
+<title>C :: Campus Roads</title>
+<style type="text/css">
+<!--
+.style1 {
+	font-family: Garamond;
+	font-weight: bold;
+	font-size: 28px;
+	color: #FFFFFF;
+}
+.style3 {
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+	font-size:15px
+}
+.style4 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 18px;
+	color: #0000FF;
+}
+.style10 {font-family: "Courier New", Courier, monospace; font-weight: bold; font-size: 13px; }
+.style12 {font-family: Garamond; font-weight: bold; font-size: 16px; color: #FFFFFF; }
+.style11 {color: #0000FF}
+-->
+</style>
+<body>
+<table width="100%" border="0">
+  <tr>
+    <td width="4%" height="38">&nbsp;</td>
+    <td  width="27%" bgcolor="#0000FF"><div align="center" class="style1">Problem C </div></td>
+    <td bgcolor="#0000FF" width="33%"><div align="center"><span class="style1">
+      Campus Roads </span></div></td>
+    <td width="24%"  bgcolor="#0000FF"><div align="center"><span class="style12">Time 
+    Limit : 2 seconds</span></div></td>
+    <td width="12%"><div align="center"></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3"><p>&nbsp;</p>
+    <p align="justify">NGU 
+    has a beautiful campus. The authority of NGU has decided to take some more 
+    steps about beautification of this campus. One of these steps is <b>tree plantation</b> 
+    in some roads. To complete this project they will select some roads, and for 
+    any road they will also select a number that how many tree will be planted 
+    on that road. To make this campus 
+    more beautiful they decided in a single road, the gap between any two 
+    adjacent tree will be fixed, and this gap will be as large as possible. So If 
+    you walk through the road in a constant speed, you will reach a tree after 
+    constant intervals.</p>
+
+    <p align="justify">A road can be described by <b>K</b> points <b>P<sub>1</sub>, P<sub>2</sub>, 
+    ...... , P<sub>K</sub></b>. <b>P<sub>i</sub></b> and <b>P<sub>i+1</sub></b> are connected by a 
+    straight line.&nbsp;So, it is clear that a road consists of some contiguous 
+    straight lines. <sub>&nbsp;</sub></p>
+
+	<p align="justify">
+ In this problem you have to find all the points, where to plant a tree. For the 
+ sake of simplicity, we will consider that roads will not have any width. </p>
+    <p align="justify">&nbsp;</p></td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2"><span class="style4">Input</span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3" align="justify">The first line of input is an integer
+    <span class="style3">N</span> (<span class="style3">N&lt;100</span>) that 
+    indicates the number of roads under this beautification project. From next 
+    line <b>N</b> roads is described one by one. Description of each road starts with a 
+    line containing two integers <span class="style3">K</span> (<span class="style3">2&#8804;K&#8804;100</span>) 
+    and <span class="style3">T</span> (<span class="style3">2&#8804;T&#8804;100</span>).&nbsp; 
+    Here <b>K</b> represents number of points that represents the road, and <b>T</b> represents 
+    the number of trees to be planted. This line is 
+    followed by <b>K</b> lines having <b>2</b> integers <b>x, 
+    y(-1000.00&lt;=x&lt;=1000.00 and -1000.00&lt;=y&lt;=1000.00)</b> each, <i><b>i<sub>th</sub></b></i> line 
+    of these <b>K</b> lines is the co-ordinate of&nbsp; <b>Pi</b>.  
+     
+    <p>  <span class="style3">&nbsp;</span>  </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3"><span class="style4">Output</span></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3" align="justify">You have to give your output for every roads 
+    one by one. Output of each road starts with a line &quot;<b>Road #n:</b>&quot; 
+    (without quotes), here <b>n</b> is the 
+    road number. Next <b>T</b> lines will give the co-ordinates of&nbsp; trees 
+    to be planted. x, y 
+    co-ordinate will be separated by a single space and having two decimal 
+    points. You have to represent the points sequentially in the order in which 
+    order you will find those trees when you walk through the road <b>P<sub>1</sub></b> 
+    to <b>P<sub>K</sub></b>. Print a blank line after describing each road.</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><span class="style4">Sample Input</span></td>
+    <td><span class="style4">Sample Output </span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+
+    <td valign="top"><span class="style10">1<br>
+    5 6<br>
+    10.00 10.00<br>
+    20.00 20.00<br>
+    30.00 10.00<br>
+    10.00 0.00<br>
+    9.00 9.00<br />
+</span></td>
+
+    <td valign="top"><span class="style10">Road #1:<br>
+    10.00 10.00<br>
+    18.44 18.44<br>
+    26.89 13.11<br>
+    23.26 6.63<br>
+    12.58 1.29<br>
+    9.00 9.00<br>
+    <br />
+</span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td class="style10" colspan="3">Hint: <span style="font-weight: 400">You 
+    have to maximize the distance between two adjacent trees in a road. So it is 
+    sure that first and last tree will be on the first and last point, i.e. in P<sub>1</sub> 
+    and P<sub>k</sub>.</span><hr />
+      Problem Setter: Md. Arifuzzaman Arif<br /> 
+      Special Thanks: Shamim Hafiz<br>
+      <span class="style11">Next Generation Contest 5</span></td>
+    <td valign="top">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>

@@ -1,0 +1,134 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+<title>Problem F: Security By Ambiguity</title>
+<style type="text/css">
+<!--
+.inout       { font-family: "Courier New", Courier, monospace; font-size: 12pt;  }
+.cbfont      { font-size: 13pt; font-family: "Times New Roman", serif; text-align: center }
+.psetter     { font-family: Tahoma, sans-serif; font-size: 10pt; font-weight: bold }
+.jbfont    	 { font-family: "Times New Roman", serif; font-size: 13pt; text-align:justify }
+.bigfont     { font-family: "Times New Roman", serif; font-size: 18pt; font-weight: bold }
+.cname 		 { font-family: Arial, sans-serif; font-size: 16pt; font-weight: bold; 
+					text-align:center; line-height:100%;   }
+.pno         { font-family: Arial, sans-serif; font-size: 14pt; font-weight: bold; text-align:center }
+.pname       { font-family: Arial, sans-serif; font-size: 24pt; vertical-align: baseline; font-weight: bold; text-align:center }
+-->
+</style>
+</head>
+
+<body>
+
+<table border="2" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="20%" rowspan="3">
+				<p class="cbfont">Input: Standard In<br>
+				Output: Standard Out</td>
+				<!--contest name-->
+				<td width="60%" bgcolor="#C0C0C0" class="cname">Next Generation 
+				Contest 1&nbsp;</td>
+				<td width="20%" rowspan="3">
+				<p class="cbfont"><b>Time Limit: 1 second</b></td>
+			</tr>
+			<tr>
+				<!--problem no-->
+				<td width="60%" bgcolor="#C0C0C0" class="pno">Problem &nbsp;F</td>
+			</tr>
+			<tr>
+				<!--problem name-->
+				<td width="60%" bgcolor="#C0C0C0" class="pname">Security By 
+				Ambiguity&nbsp;</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<p class="jbfont">Many of you have probably had some contact with cryptography 
+(don't worry if you haven't, though, no deep knowledge of cryptography is needed 
+here). In this problem, we will concern ourselves with an encryption scheme 
+consisting of a composition of two different ciphers, a so called <i>permutation 
+cipher</i>, and a so called <i>substitution cipher</i>.<br>
+<br>
+In a permutation cipher of block length <b>n</b>, we choose as a secret key a 
+permutation <b>&#960; = &#960;<sub>1</sub>&#960;<sub>2</sub> . . . &#960;<sub>n</sub></b> of the 
+integers 1 to <b>n</b>. We then encrypt a block of <b>n</b> symbols by permuting them 
+according to <b>&#960;</b>, i.e. the encryption of<br>
+<b>a = a<sub>1</sub>a<sub>2</sub> . . . a<sub>n</sub></b> would be <b>a<sub>&#960;1</sub> 
+a<sub>&#960;2</sub> . . . a<sub>&#960;n</sub></b> .<br>
+<br>
+The substitution cipher, on the other hand, concerns itself with the alphabet of 
+the symbols we use to encode a message. Let the size of the alphabet be <b>m</b>, 
+and assume without loss of generality that the <b>m</b> symbols of the alphabet 
+are the integers 1 to <b>m</b>. We then choose a permutation <b>&#964; = &#964;<sub>1</sub>&#964;<sub>2</sub> 
+. . . &#964;<sub>m</sub></b> of the alphabet, and simply encrypt a symbol <b>a<sub>i</sub></b> 
+by <b>&#964;<sub>ai</sub></b> , i.e. we substitute each symbol according to the 
+permutation <b>&#964;</b>.<br>
+<br>
+Composing these two ciphers is straight-forward; simply do both the permutation 
+of the symbols according to <b>&#960;</b>, and the substitution of the symbols 
+according to<b> &#964;</b>. Breaking this combined cipher is usually (slightly) more 
+difficult than breaking either one of the two simpler ciphers.<br>
+<br>
+Peter is a clever kid with a very limited memory, and he would like to have the 
+combined strength of these two ciphers while only having to remember one 
+permutation as his secret key, rather than two. He has realised that the two 
+different steps are (in some vague sense) independent, and has thus gotten the 
+idea to consider the special case of the above scheme where <b>n = m</b>, and <b>
+&#964; = &#960;<sup>-1</sup></b> (the inverse of <b>&#960;</b>; simply choosing <b>&#964; = &#960;</b> 
+seems too risky, even for Peter). This way, he only has one permutation to 
+remember, while still getting both the permutation step and the substitution 
+step.<br>
+<br>
+As an example, consider using <b>n = m = </b>5, and the permutation <b>&#960; </b>= 4 
+2 1 3 5. The inverse <b>&#964;</b> of <b>&#960;</b> is 3 2 4 1 5. Take the message block 2 
+5 3 4 2. Applying the permutation cipher (with secret key <b>&#960;</b>) transforms 
+the message to 4 5 2 3 2, and applying the substitution cipher (with secret key
+<b>&#964;</b>) gives 1 5 2 4 2, which is the encryption of the message 2 5 3 4 2 
+using Peter’s scheme (with secret key <b>&#960;</b> = 4 2 1 3 5).<br>
+<br>
+However, you, being an even more clever kid than Peter, doubt the security of 
+Peter’s new scheme, and as a step in investigating this, you should write a 
+program which, given an encrypted block, determines the number of possible 
+inputs which could have been encrypted to that block (assuming that any key is 
+possible).</p>
+<p class="bigfont">Input</p>
+<p class="jbfont">Input consists of several test cases. Each test case begins 
+with an integer 1 &#8804; <b>n </b>&#8804; 50, denoting both the length of an input block 
+and the size of the alphabet. Then follows a line containing <b>n</b> integers 
+between 1 and <b>n</b>, representing the encryption of some input block.<br>
+<br>
+Input is terminated by a case where <b>n</b> = 0.</p>
+<p class="bigfont">Output</p>
+<p class="jbfont">For each test case, output a line containing the number of 
+different inputs that could have been used. You may assume that the answer will 
+fit in a 64-bit signed integer.</p>
+<p class="bigfont">Sample Input</p>
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td class="inout">5<br>
+		1 2 3 4 5<br>
+		5<br>
+		2 2 2 2 2<br>
+		5<br>
+		3 2 5 2 2<br>
+		0</td>
+	</tr>
+</table>
+<p class="bigfont">Sample Output</p>
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td class="inout">1<br>
+		5<br>
+		120</td>
+	</tr>
+</table>
+<hr>
+<p class="psetter">Problem Setter: Per Austrin</p>
+
+</body>
+
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Problem J: Summing Digits</title>
+	<meta name="author" content="Martin M&uuml;ller">
+	<meta name="generator" content="WebDesign">
+</head>
+<body>
+
+<h2>Problem J: Summing Digits</h2>
+<img src="p11332.png" align=right>
+
+<p>
+For a positive integer <code>n</code>, let <code>f(n)</code> denote the sum of the digits
+of <code>n</code> when represented in base 10.  It is easy to see that the sequence of
+numbers <code>n, f(n), f(f(n)), f(f(f(n))), ...</code> eventually becomes a single digit
+number that repeats forever.  Let this single digit be denoted <code>g(n)</code>.
+
+<p>
+For example, consider <code>n = 1234567892</code>.  Then:
+<pre>
+f(n) = 1+2+3+4+5+6+7+8+9+2 = 47
+f(f(n)) = 4+7 = 11
+f(f(f(n))) = 1+1 = 2
+</pre>
+
+<p>
+Therefore, <code>g(1234567892) = 2</code>.
+
+<p>
+Each line of input contains a single positive integer <code>n</code> at most 2,000,000,000.
+For each such integer, you are to output a single line containing <code>g(n)</code>.
+Input is terminated by <code>n = 0</code> which should not be processed.
+
+
+<h3>Sample input</h3>
+<pre>
+2
+11
+47
+1234567892
+0
+</pre>
+
+<h3>Output for sample input</h3>
+<pre>
+2
+2
+2
+2
+</pre>
+
+<hr>
+
+<em>Zachary Friggstad</em>
+
+</body>
+</html>

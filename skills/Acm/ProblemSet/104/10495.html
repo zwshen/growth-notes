@@ -1,0 +1,165 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./d_files/filelist.xml">
+<link rel=Edit-Time-Data href="./d_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem D: Conic distance</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>11</o:Revision>
+  <o:TotalTime>10</o:TotalTime>
+  <o:Created>2003-05-15T10:16:00Z</o:Created>
+  <o:LastSaved>2003-05-15T10:29:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>198</o:Words>
+  <o:Characters>1132</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>9</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1390</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129023 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:16792199 151977984 16 0 4129023 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+address
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Arial Unicode MS";
+	font-style:italic;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<h3 align=center style='text-align:center'><span style='font-size:18.0pt'>Problem
+D</span><br>
+<span style='font-size:24.0pt'>Conic Distance</span><br>
+<span style='font-size:12.0pt;mso-bidi-font-size:13.5pt'>Input: </span><span
+style='font-size:12.0pt;mso-bidi-font-size:13.5pt;font-weight:normal'>standard
+input<br>
+</span><span style='font-size:12.0pt;mso-bidi-font-size:13.5pt'>Output: </span><span
+style='font-size:12.0pt;mso-bidi-font-size:13.5pt;font-weight:normal'>standard
+output</span><span style='font-size:12.0pt;mso-bidi-font-size:13.5pt'><br>
+Time Limit: </span><span style='font-size:12.0pt;mso-bidi-font-size:13.5pt;
+font-weight:normal'>2 seconds</span></h3>
+
+<p class=MsoNormal style='text-align:justify'>A cone is located in 3D such that
+its base of radius <i>r</i> is in the <i>z</i> = 0 plane with the center at
+(0,0,0). The tip of the cone is located at (0, 0, <i>h</i>). Two points are
+given on the cone surface in conic coordinates. The conic coordinates of a
+point <i>p</i> lying on the surface of the cone are two numbers: the first, <i>d</i>,
+is the distance from the tip of the cone to <i>p</i> and the second, <i>A</i>
+&lt; 360, is the angle in degrees between the plane <i>y</i> = 0 and the plane
+through points (0,0,0), (0,0,<i>h</i>) and <i>p</i>, measured counterclockwise
+from the direction of the x axis. </p>
+
+<p class=MsoNormal align=center style='text-align:center'><img width=289
+height=317 id="_x0000_i1025" src="p10495.gif"></p>
+
+<p style='text-align:justify'>Given are two points <i>p<sub>1</sub></i> = (<i>d<sub>1</sub>,
+A<sub>1</sub></i>) and <i>p<sub>2</sub></i> = (<i>d<sub>2</sub>, A<sub>2</sub></i>)
+in the conic coordinates. What is the (shortest) distance between <i>p<sub>1</sub></i>
+and <i>p<sub>2</sub></i> measured on the surface of the cone? </p>
+
+<p style='text-align:justify'>The input is a sequence of lines. Each line
+contains 6 floating point numbers giving values of: <i>r</i>, <i>h</i>, <i>d<sub>1</sub></i>,
+<i>A<sub>1</sub></i>, <i>d<sub>2</sub></i>, and <i>A<sub>2</sub></i> </p>
+
+<p style='text-align:justify'>For each line of input, output the (shortest)
+distance between points <i>p<sub>1</sub></i> and <i>p<sub>2</sub></i> on the
+surface of the cone with the fraction rounded to 2 decimal places. </p>
+
+<h3><span style='font-size:18.0pt;mso-bidi-font-size:13.5pt'>Sample Input<o:p></o:p></span></h3>
+
+<pre>3.0 4.0 2.0 0.0 4.0 0.0</pre><pre>3.0 4.0 2.0 90.0 4.0 0.0</pre><pre>6.0 8.0 2.14 75.2 9.58 114.3</pre><pre>3.0 4.0 5.0 0.0 5.0 90.0</pre>
+
+<h3><span style='font-size:18.0pt;mso-bidi-font-size:13.5pt'>Sample Output<o:p></o:p></span></h3>
+
+<pre>2.00</pre><pre>3.26</pre><pre>7.66</pre><pre>4.54</pre>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<address><b><span style='font-family:"Times New Roman";font-style:normal'>Problemsetter: Piotr Rudnicki, University of Alberta<o:p></o:p></span></b></address>
+
+<pre><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></pre></div>
+
+</body>
+
+</html>

@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>Problem J: Jewel Magnetizer</title>
+<link rel="stylesheet" href="problem.css">
+</head>
+<body>
+
+<center>
+<h1>Problem J</h1>
+<h2>Jewel Magnetizer</h2>
+</center>
+
+<p>The block world is divided into <i>n</i> rows <i>n</i> columns of blocks. Rows are numbered 1 to <i>n</i> from top to bottom, 
+and columns are numbered 1 to <i>n</i> from left to right. You start from a square, follow a strictly height-decreasing path 
+until no legal moves are possible. During your trip, you can use a jewel magnetizer to get jewels not too far away. To be precise, 
+you can get a jewel in square (<i>r</i><sub>1</sub>, <i>c</i><sub>1</sub>) if and only if there is a square (<i>r</i><sub>2</sub>, <i>c</i><sub>2</sub>) 
+on your path such that max{|<i>r</i><sub>1</sub>-<i>r</i><sub>2</sub>|,|<i>c</i><sub>1</sub>-<i>c</i><sub>2</sub>|} <= <i>r</i>. </p>
+
+<p>There is one thing you should be aware of: your bag capacity is limited, so you can only get at most <i>m</i> jewels. 
+There is at most one jewel on each block.</p>
+
+<p align="center"><img src="p11217.png" /></p>
+
+<p>The picture above shows an example. The numbers in the left picture describes the heights in each block, 
+where the numbers in the right picture describes the jewel values in each block. An optimal solution for <i>m</i>=5 and <i>r</i>=1 is 
+shown in the figures. The arrows denote the path, gray squares corresponds to jewels you should get. The total value is 4+3+2+2+1=12.</p>
+
+<p>Write a program to get the highest total value of jewels.</p>
+
+<h2>Input</h2>
+The input consists of at most 30 test cases. Each case begins with a line containing three non-negative integers 
+<i>n</i>, <i>m</i> and <i>r</i> (1 < <i>n</i> < 21, 0 < <i>m</i> < 101, <i>r</i> < 6), where <i>n</i> is the size of the block world, 
+<i>m</i> is the bag capacity, <i>r</i> is the range of jewel magnetizer. The second line contains two integers r0, c0 (1<=r0,c0<=n), the row number and column number of the initial position. The next <i>n</i> lines each contain <i>n</i> non-negative 
+integers not greater than 8000, the heights of each block. The next <i>n</i> lines each contain <i>n</i> non-negative integers not greater 
+than 1000, the value of jewel at each block (zero means there is no jewel). The last case is followed by a single zero, which should not be processed.
+
+<h2>Output</h2>
+For each test case, print the case number and the highest value.
+
+<h2>Sample Input</h2>
+<pre>
+5 5 1
+3 3
+1 1 1 1 1
+1 6 9 5 1
+1 3 10 3 1
+1 2 1 2 1
+1 1 1 1 1
+4 1 1 1 2
+1 1 1 1 1
+1 2 3 1 2
+1 2 1 1 1
+1 1 1 1 1
+4 2 1
+1 3
+4 5 6 9
+3 9 9 9
+2 1 1 9
+9 9 9 9
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 1 5
+0
+</pre>
+
+<h2>Output for the Sample Input</h2>
+<pre>
+Case 1: 12
+Case 2: 2
+</pre>
+
+<hr />
+<i>Rujia Liu's Present 2: A Big Contest of Brute Force</i><br />
+<i>Adapted from Hunan Team Selection Contest for Chinese National Olympiad in Informatics 2002, with test data enhanced.</i><br />
+</body>
+</html>

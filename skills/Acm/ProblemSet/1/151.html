@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Power Crisis</TITLE>
+<META NAME="description" CONTENT="Power Crisis">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Power Crisis</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+During the power crisis in New Zealand this winter (caused by a
+shortage of rain and hence low levels in the hydro dams), a
+contingency scheme was developed to turn off the power to areas of the
+country in a systematic, totally fair, manner. The country was divided
+up into <I>N</I> regions (Auckland was region number 1, and Wellington number
+13). A number, <I>m</I>, would be picked `at random', and the power would
+first be turned off in region 1 (clearly the fairest starting point)
+and then in every m'th region after that, wrapping around to 1 after
+<I>N</I>, and ignoring regions already turned off. For example, if <I>N</I> = 17 and
+<I>m</I> = 5, power would be turned off to the regions in the
+order:1,6,11,16,5,12,2,9,17,10,4,15,14,3,8,13,7.
+<P>
+<P>
+The problem is that it is clearly fairest to turn off Wellington last
+(after all, that is where the Electricity headquarters are), so for a
+given <I>N</I>, the `random' number <I>m</I> needs to be carefully chosen so that
+region 13 is the last region selected.
+<P>
+<P>
+Write a program that will read in the number of regions and then
+determine the smallest number <I>m</I> that will ensure that Wellington
+(region 13) can function while the rest of the country is blacked out.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+Input will consist of a
+series of lines, each line containing the number of regions (<I>N</I>) with
+ <IMG WIDTH=104 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline42" SRC="151img1.gif"  > . The file will be terminated by a line consisting of
+a single 0.
+<P>
+<P>
+Output will consist of a series of lines, one for each line of the
+input. Each line will consist of the number <I>m</I> according to the above
+scheme.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>17
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>7</PRE>
+<P>
+</BODY>
+</HTML>

@@ -1,0 +1,93 @@
+<html><head><title>Novosibirsk SU contest 1</title>
+<!-- Converted by lt2ht 1.0 (c) Semyon Dyatlov -->
+<link rel="stylesheet" type="text/css" href="contest.css"></head>
+<body>
+<h1>Journey</h1>
+<div class="constraints">Time limit: ? seconds</div>
+<div class="constraints">Memory limit: 64 megabytes</div>
+
+<p>
+Recent inquiries of the Ministry of Transport of Flatland
+proved that when a flatmobile travels through the land, it
+spends energy not only for moving, but also for turning.
+More exactly, if a flatmobile's path is a polyline, the
+total amount of energy spent is the sum of the total length
+of the polyline and the energy losses at the turn points,
+excluding the starting and the ending point. The energy loss
+at a turn point is the angle by which the polyline turns at
+the point multiplied by a factor <span class="math">k</span>. Angles are counted in
+degrees.
+<p>
+Flatland has <span class="math">N</span> cities connected by <span class="math">M</span> one-way roads.
+Each road is a straight line. You decided to make a journey
+from one city to another. Your flatmobile can travel only
+using the roads. You want to find a path with minimal energy
+consumption.
+<p>
+<h2>Input</h2>
+
+<p>
+The first line of the input contains the number of the
+test cases, which is at most 15. The descriptions of the test
+cases follow.
+The first line of a test case description contains four integers <span class="math">N</span>,
+<span class="math">M</span>, <span class="math">S</span>, and&nbsp;<span class="math">F</span> (<span class="math"><span class="number">1</span> &#8804;  N &#8804;  <span class="number">1</span><span class="number">0</span><span class="number">0</span><span class="number">0</span></span>, <span class="math"><span class="number">0</span> &#8804;  M &#8804;  <span class="number">1</span><span class="number">0</span><span class="number">0</span><span class="number">0</span><span class="number">0</span></span>,
+<span class="math"><span class="number">1</span> &#8804;  S<span class="number">,</span> F &#8804;  N</span>) and a number <span class="math">k</span> (<span class="math"><span class="number">0</span><span class="number">.</span><span class="number">0</span><span class="number">0</span><span class="number">0</span><span class="number">0</span><span class="number">1</span> &#8804;  k &#8804; 
+<span class="number">1</span><span class="number">0</span></span>) separated by spaces. <span class="math">S</span> and&nbsp;<span class="math">F</span> are your start and
+finish cities respectively; <span class="math">S &#8800;  F</span>. Each of the next <span class="math">N</span>
+lines contains two integers <span class="math">X</span> and <span class="math">Y</span> (<span class="math"><span class="number">-</span><span class="number">1</span><span class="number">0</span><span class="number">0</span><span class="number">0</span><span class="number">0</span> &#8804;  X<span class="number">,</span>
+Y &#8804;  <span class="number">1</span><span class="number">0</span><span class="number">0</span><span class="number">0</span><span class="number">0</span></span>) separated by space, being the coordinates of a
+city. The <span class="math">i<span class="number">+</span><span class="number">1</span></span>-st line contains the coordinates of city
+<span class="math">i</span>. No two cities are in the same point. Each of the next
+<span class="math">M</span> lines contains two integers, <span class="math">A</span> and&nbsp;<span class="math">B</span> (<span class="math"><span class="number">1</span> &#8804;  A<span class="number">,</span>
+B &#8804;  N</span>, <span class="math">A &#8800;  B</span>) separated by a space, representing a
+road from city&nbsp;<span class="math">A</span> to city&nbsp;<span class="math">B</span>. For any two cities, there is
+at most one road going from one city to the other. Each city
+has at most ten roads going from it. The cities are numbered
+starting from <span class="math"><span class="number">1</span></span>. The test cases are separated by blank lines.
+<p>
+<h2>Output</h2>
+
+<p>
+For each test case in the input, output the minimal
+possible energy consumption with at least three digits after
+the decimal point, or `<code>Impossible</code>' (without quotes),
+if there is no way from <span class="math">S</span> to <span class="math">F</span> over the roads. If there
+is a way, the second line of the output file must contain
+the numbers of the cities on the optimal path starting from
+<span class="math">S</span> and finishing at <span class="math">F</span>. If there are several optimal
+solutions, output any of them. Print a blank line between test cases.
+<p>
+<h2>Examples</h2>
+<table class="examples" cellspacing="0">
+<tr><td class="iofiles">Input</td><td class="iofiles">Output</td>
+
+<p>
+<tr><td class="examples"><pre>
+2
+
+5 5 1 3 0.01
+0 0
+4 -4
+8 0
+4 1
+4 -1
+1 2
+1 4
+2 3
+5 3
+4 5
+
+2 0 1 2 1
+0 0
+1 1
+</pre></td><td class="examples"><pre>
+12.214
+1 2 3
+
+Impossible
+</pre></td></tr>
+</table>
+
+<p>
+        </body></html>

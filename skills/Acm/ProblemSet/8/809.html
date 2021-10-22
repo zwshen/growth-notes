@@ -1,0 +1,165 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Bullet Hole</TITLE>
+<META NAME="description" CONTENT="Bullet Hole">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Bullet Hole</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p809.eps}$
+ -->
+<IMG
+ SRC="p809.gif"
+ ALT="\epsfbox{p809.eps}">
+</DIV>
+
+<P>
+A cube is suspended in space. A Cartesian coordinate system is defined with
+its origin at one of the bottom corners of the
+cube, as shown in the figure. The cube has side dimension <SPAN CLASS="MATH"><I>d</I></SPAN>, so its
+opposite corners are at coordinates (<SPAN CLASS="MATH">0, 0, 0</SPAN>) and
+(<SPAN CLASS="MATH"><I>d</I>, <I>d</I>, <I>d</I></SPAN>). The positive <SPAN CLASS="MATH"><I>z</I></SPAN>-direction of the coordinate system
+is ``up'' with respect to gravity.
+
+<P>
+
+<P>
+<BR>
+The interior of the cube contains partitions with uniform spacing in each
+dimension, so that the cube is partitioned into <SPAN CLASS="MATH"><I>n</I><SUP>3</SUP></SPAN>
+mini-cubes of equal size. The partitions are thin and watertight, and
+each mini-cube is filled with water. The total volume
+of water in all the minicubes is <SPAN CLASS="MATH"><I>d</I><SUP>3</SUP></SPAN> .
+
+<P>
+
+<P>
+<BR>
+A gun fires a bullet which may hit the cube. The muzzle of the gun
+is at the point (<!-- MATH
+ $x_1, y_1, z_1$
+ -->
+<SPAN CLASS="MATH"><I>x</I><SUB>1</SUB>, <I>y</I><SUB>1</SUB>, <I>z</I><SUB>1</SUB></SPAN>). The point (<!-- MATH
+ $x_2, y_2, z_2$
+ -->
+<SPAN CLASS="MATH"><I>x</I><SUB>2</SUB>, <I>y</I><SUB>2</SUB>, <I>z</I><SUB>2</SUB></SPAN>) is a
+point on the bullet's path that defines the direction of the bullet.
+The bullet does not shatter the cube, but wherever the
+bullet touches a side or interior partition of the cube, it makes a
+small hole. Bullet holes may be made in the sides, edges,
+or corners of the interior mini-cubes. Water, influenced by gravity,
+may leak through these small holes. All the water that
+leaks out of the large cube is collected and measured.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input data set consists of several trials. Each trial is described by
+eight integers. The first integer is <SPAN CLASS="MATH"><I>n</I></SPAN> (<SPAN CLASS="MATH"><I>n</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="809img2.png"
+ ALT="$ \le$">50</SPAN>), as
+described above. The second integer is <SPAN CLASS="MATH"><I>d</I></SPAN> (<SPAN CLASS="MATH"><I>d</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="809img2.png"
+ ALT="$ \le$">100</SPAN>). The remaining
+six integers--<!-- MATH
+ $x_1, y_1, z_1, x_2, y_2, z_2$
+ -->
+<SPAN CLASS="MATH"><I>x</I><SUB>1</SUB>, <I>y</I><SUB>1</SUB>, <I>z</I><SUB>1</SUB>, <I>x</I><SUB>2</SUB>, <I>y</I><SUB>2</SUB>, <I>z</I><SUB>2</SUB></SPAN>--represent the origin
+and a point on the path of the bullet (<!-- MATH
+ $-100 \le x_1, y_1, z_1, x_2, y_2, z_2 \le 100$
+ -->
+<SPAN CLASS="MATH">-100<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="809img2.png"
+ ALT="$ \le$"><I>x</I><SUB>1</SUB>, <I>y</I><SUB>1</SUB>, <I>z</I><SUB>1</SUB>, <I>x</I><SUB>2</SUB>, <I>y</I><SUB>2</SUB>, <I>z</I><SUB>2</SUB><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="809img2.png"
+ ALT="$ \le$">100</SPAN>).
+The origin and the point on the path of the bullet
+are not the same. The origin may be inside the cube. After the last trial, the integer `<TT>0</TT>' terminates the data set.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Your program must compute the total volume of water that leaks out of
+the large cube. For each trial, print the trial
+number, the notation `<TT>Volume =</TT>', and the total volume of water accurate
+to two digits to the right of the decimal point.
+
+<P>
+Print a blank line between trials.
+
+<P>
+
+<P>
+<BR>
+
+<B>Note:</B> In this problem, two real numbers are considered equal if they are less
+than <SPAN CLASS="MATH">10<SUP>-6</SUP></SPAN> apart.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+ 5   25     5  15   0     5  15 100
+ 3   30     0 -35   0     3 -25   3
+10   16     8  17  11    12  19   6
+ 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Trial 1, Volume = 2500.00
+
+Trial 2, Volume = 1950.00
+
+Trial 3, Volume = 0.00
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Miguel Revilla
+2002-06-25
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

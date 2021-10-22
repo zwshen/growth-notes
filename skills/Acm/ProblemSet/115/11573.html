@@ -1,0 +1,74 @@
+<html>
+<h2>Problem B: Ocean Currents</h2>
+
+For a boat on a large body of water, strong currents can be dangerous,
+but with careful planning, they can be harnessed to help the boat
+reach its destination. Your job is to help in that planning.
+<p>
+At each location, the current flows in some direction. The captain
+can choose to either go with the flow of the current, using no energy,
+or to move one square in any other direction, at the cost of one energy unit.
+The boat always moves in one of the following eight directions:
+north, south, east, west, northeast, northwest, southeast, southwest.
+The boat cannot leave the boundary of the lake.
+You are to help him devise a strategy to reach the destination with
+the minimum energy consumption.
+
+<h3>Input Specification</h3>
+
+The lake is represented as a rectangular grid. The first line
+of input contains two integers <i>r</i> and <i>c</i>, the
+number of rows and columns in the grid. The grid has no more than
+1000 rows and no more than 1000 columns. Each of the following
+<i>r</i> lines contains exactly <i>c</i> characters,
+each a digit from 0 to 7 inclusive. The character 0 means the
+current flows north (i.e. up in the grid, in the direction of decreasing
+row number), 1 means it flows
+northeast, 2 means east (i.e. in the direction of increasing column number), 3 means southeast, and so on in a clockwise
+manner:
+<pre>
+7 0 1
+ \|/
+6-*-2
+ /|\
+5 4 3
+</pre>
+
+The line after the grid contains a single integer <i>n</i>,
+the number of trips to be made, which is at most 50. Each of the following
+<i>n</i> lines describes a trip using four integers
+<i>rs</i>, <i>cs</i>, <i>rd</i>, <i>cd</i>, giving
+the row and column of the starting point and the destination
+of the trip. Rows and columns are numbered starting with 1.
+
+<h3>Sample Input</h3>
+
+<pre>
+5 5
+04125
+03355
+64734
+72377
+02062
+3
+4 2 4 2
+4 5 1 4
+5 3 3 4
+</pre>
+
+<h3>Output Specification</h3>
+
+For each trip, output a line containing a single integer,
+the minimum number of energy units needed to get from the
+starting point to the destination.
+
+<h3>Output for Sample Input</h3>
+
+<pre>
+0
+2
+1
+</pre>
+<hr>
+<i>Ond&#345;ej Lhot&aacute;k, Richard Peng</i>
+</html>

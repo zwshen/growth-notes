@@ -1,0 +1,120 @@
+<html>
+<head>
+	<title>Always Late</title>
+</head>
+
+<body>
+<div align="center">
+<h1>Always Late</h1>
+</div>
+
+<table>
+
+<tr><td valign="top">Ajmat:</td><td align="justify" valign="top">
+Have you noticed one member of team 13 comes late in almost every contest?
+</td></tr>
+
+<tr><td valign="top">Nejhum:&nbsp;&nbsp;</td><td align="justify" valign="top">
+You mean the team of Mahbub, Moazzem and Yeamin? What's the problem with them?
+</td></tr>
+
+<tr><td valign="top">Ajmat:</td><td align="justify" valign="top">
+All of them lives far away from BUET, and they always avoid the shortest path to BUET.
+</td></tr>
+
+<tr><td valign="top">Nejhum:</td><td align="justify" valign="top">
+Are you kidding? Why would they do so? A computer science student won't ever do that.
+</td></tr>
+
+<tr><td valign="top">Ajmat:</td><td align="justify" valign="top">
+They <i>always</i> avoids the shortest path. They believe that they always face the worst traffic jam on their shortest way to BUET.
+</td></tr>
+
+<tr><td valign="top">Nejhum:</td><td align="justify" valign="top">
+That sounds crazy!
+</td></tr>
+
+<tr><td valign="top">Ajmat:</td><td align="justify" valign="top">
+They are more crazy than you think they are. They always try to use the path whose length is smaller than or equal to that of any path to BUET except the shortest one. And for that, they sometimes visit the same junction more than once.
+</td></tr>
+
+<tr><td valign="top">Nejhum:</td><td align="justify" valign="top">
+But they are not using the longest path. Then why are they late almost everyday?
+</td></tr>
+
+<tr><td valign="top">Ajmat:</td><td align="justify" valign="top">
+That's because they have to spend a lot of time to find out which of the paths meet their criteria. Perhaps they don't know how to find out the second-shortest path.
+</td></tr>
+
+<tr><td valign="top">Nejhum:</td><td align="justify" valign="top">
+I think we should solve this <i>real</i> problem in today's contest, instead of solving imaginary ones.
+</td></tr>
+
+<tr><td valign="top">Ajmat:</td><td align="justify" valign="top">
+Let's try.
+</td></tr>
+
+</table>
+
+<h3>Input</h3>
+
+<div align="justify">
+The first line of each test case contains two integers: <i>n</i> (the number of junctions, 1 &lt; <i>n</i> &lt; 100) and <i>r</i> (the number of bi-directional roads connecting these junctions). The junctions are numbered with 0, 1, ..., <i>n</i>-1. Each of the next <i>r</i> lines (one for each road) contains three integers: two junction-numbers that the corresponding road connects and the length of the road in kilometers. The next line contains an integer <i>q</i>, the number of queries. Each of the next <i>q</i> lines contains two junction-numbers. There is a blank line after the <i>q</i> queries. There is at most 1 road between each junction pair. A road always connects two different junctions. Length of a road is not less than 1km and not more than 100km.<br>
+&nbsp;<br>
+</div>
+
+<div align="justify">
+Input is terminated by EOF.<br>
+&nbsp;<br>
+</div>
+
+
+<h3>Output</h3>
+
+<div align="justify">
+For each set of output, print the set # (1, 2, … ) followed by <i>q</i> lines, one for each query, each containing the length of the second-shortest path between the corresponding junctions. However, for the unsolvable queries, print a '?'.<br>
+&nbsp;<br>
+</div>
+
+<div align="center">
+<table width="60%"><tr>
+<td valign="top">
+<h3>Sample Input</h3>
+<pre>
+4 3
+0 1 12
+0 2 20
+1 2 15
+3
+0 1
+0 2
+0 3
+
+4 3
+0 1 11
+0 2 20
+1 2 15
+3
+0 1
+0 2
+0 3</pre>
+</td>
+<td valign="top">
+<h3>Sample Output</h3>
+<pre>
+Set #1
+35
+27
+?
+Set #2
+33
+26
+?</pre></td>
+</tr>
+</table>
+</div>
+
+<hr>
+<i>Mustaq Ahmed. 12-07-2002.</i>
+</body>
+</html>

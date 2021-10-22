@@ -1,0 +1,158 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Wormholes</TITLE>
+<META NAME="description" CONTENT="Wormholes">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Wormholes</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+In the year 2163, wormholes  were discovered. A wormhole is a subspace tunnel
+through space and time connecting two star systems. Wormholes have a few
+peculiar properties:
+
+<P>
+<UL>
+<LI>Wormholes are <EM>one-way</EM>  only.
+
+<P>
+<LI>The time it takes to travel through a wormhole is negligible.
+
+<P>
+<LI>A wormhole has two end points, each situated in a star system.
+
+<P>
+<LI>A star system may have more than one wormhole end point within its boundaries.
+
+<P>
+<LI>For some unknown reason, starting from our solar system, it is always possible to end up in any star system by following a sequence of wormholes (maybe Earth is  the centre of the universe).
+
+<P>
+<LI>Between any pair of star systems, there is at most one wormhole in either direction.
+
+<P>
+<LI>There are no wormholes with both end points in the same star system.
+</UL>
+
+<P>
+All wormholes have a constant time difference between their end points. For
+example, a specific wormhole may cause the person travelling through it to
+end up 15 years in the future. Another wormhole may cause the person to end
+up 42 years in the past.
+
+<P>
+
+<P>
+<BR>
+A brilliant physicist, living on earth, wants to use wormholes to study the
+Big Bang. Since warp drive has not been invented yet, it is not possible for
+her to travel from one star system to another one directly. This <EM>can</EM>  be done using wormholes, of course.
+
+<P>
+
+<P>
+<BR>
+The scientist wants to reach a cycle of wormholes somewhere in the universe
+that causes her to end up in the past. By travelling along this cycle a lot
+of times, the scientist is able to go back as far in time as necessary to
+reach the beginning of the universe and see the Big Bang with her
+own eyes. Write a program to find out whether such a cycle exists.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file starts with a line containing the number of cases <I>c</I> to be
+analysed. Each case starts with a line with two numbers <I>n</I> and <I>m</I> . These
+indicate the number of star systems (
+<!-- MATH: $1 \le n \le 1000$ -->
+<IMG
+ WIDTH="105" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="558img2.gif"
+ ALT="$1 \le n \le 1000$">)
+and the number of
+wormholes (
+<!-- MATH: $0 \le m \le 2000$ -->
+<IMG
+ WIDTH="110" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="558img3.gif"
+ ALT="$0 \le m \le 2000$">)
+. The star systems are numbered from 0  (our solar
+system) through <I>n</I>-1 . For each wormhole a line containing three integer
+numbers <I>x</I>, <I>y</I> and <I>t</I> is given. These numbers indicate that this wormhole
+allows someone to travel from the star system numbered <I>x</I> to the star system
+numbered <I>y</I>, thereby ending up <I>t</I> (
+<!-- MATH: $-1000 \le t \le 1000$ -->
+<IMG
+ WIDTH="141" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="558img4.gif"
+ ALT="$-1000 \le t \le 1000$">)
+years in the future.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The output consists of <I>c</I> lines, one line for each case, containing the word
+<TT>possible</TT> if it is indeed possible to go back in time indefinitely, or <TT>not possible</TT> if this is not possible with the given set of star systems and
+wormholes.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2
+3 3
+0 1 1000
+1 2 15
+2 1 -42
+4 4
+0 1 10
+1 2 20
+2 3 30
+3 0 -60
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+possible
+not possible
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1998-03-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

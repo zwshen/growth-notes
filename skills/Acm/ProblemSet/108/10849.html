@@ -1,0 +1,98 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="description" content="Move the bishop">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<title>Move the bishop</title>
+</head>
+
+<body bgcolor="#FFFFFF" lang="EN">
+<div align="center"><center>
+
+<table border="0" bgcolor="#0060F0">
+    
+    <tr>
+        <td><font color="#C0FFFF" size="5"><b>&nbsp;Move the
+        bishop</b></font><b>&nbsp;</b></td>
+    </tr>
+    
+</table>
+</center></div>
+
+<p class="MsoBodyText">&nbsp;</p>
+
+<p class="MsoBodyText">Consider you have a chess board with <i>NxN</i>
+squares, 1 &le; <i>N</i> &le; 100.000.000. There is only a
+piece on the board: the bishop. The position of the bishop is
+given by a pair of numbers 1 &le; <i>r,c </i>&le; <i>N</i>; <i>r</i>
+is the row and <i>c</i> is the column. Position <i>(1,1)</i>
+refers to the bottom-left square of the board, while position <i>(N,N)</i>
+refers to the up-right square.</p>
+
+<p class="MsoBodyText">The problem consists of calculating the
+minimum number of movements that the bishop have to do to reach a
+given square of the board, given the position of the bishop and the
+position of that square. If this movement is not possible, the
+output must be: &#147;no move&#148;. Don´t worry if you don´t
+know how to play chess. The only information you need is: the
+bishop moves diagonally any number of squares, forwards or
+backwards as long as its path is not blocked by other pieces.</p>
+
+<h2><font color="#0070E8">The Input</font></h2>
+
+<p class="MsoBodyText"><a name="SECTION0001004000000000000000">The
+input begins with a single integer, <em>C</em>, indicating the
+number of test cases following, each of them as described below.
+This line is followed by a blank line, and there is also a blank
+line between two consecutive test cases.</a></p>
+
+<p class="MsoNormal" style="text-align:justify"><a
+name="SECTION0001004000000000000000">For each test case, the
+first line contains an integer 1 &le; <i>T &le;</i> 100,
+indicating the number of tests for that case. The second line
+contains an integer 1 &le; <i>N &le; </i>100.000.000, for a
+chess board with <i>NxN</i> squares. Then the test lines follow,
+and for each one, there are four numbers separated by a single
+space. The first two numbers are the row and column where the
+bishop is, and the last two numbers are the row and column of the
+position of the square that the bishop have to reach.</a></p>
+
+<h2><font color="#0070E8">The Output</font></h2>
+
+<p class="MsoBodyText"><a name="SECTION0001005000000000000000">For
+each test line you should produce an output line. This line just
+contains a number that indicates the minimum number of movements
+for the bishop according to positions described in the input
+line, or the message &#147;no move&#148; if the position is not
+reachable. </a></p>
+
+<h2><a name="SECTION0001005000000000000000"><font color="#0070E8">Sample
+Input</font></a></h2>
+
+<pre>2
+
+3
+8
+3 6 6 3
+4 2 2 3
+7 2 1 4
+
+2
+6
+1 2 6 5
+2 3 5 1
+</pre>
+
+<h2><a name="SECTION0001006000000000000000"><font color="#0070E8">Sample
+Output</font></a></h2>
+
+<pre>1
+no move
+2
+2
+no move</pre>
+</body>
+</html>

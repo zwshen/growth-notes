@@ -1,0 +1,71 @@
+<HTML>
+<!--
+* Multiple test case problem corrected by
+  Mahbub Murshed Suman (udvranto@hotmail.com)
+  09.January.2004 -->
+<HEAD>
+<TITLE>Minimal coverage</TITLE>
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Minimal coverage</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+<P>
+Given several segments of line (int the X axis) with coordinates
+[L<sub>i</sub>,R<sub>i</sub>]. You are to choose the
+minimal amount of them, such they would completely cover
+the segment [0,M].<p>
+
+</U></U><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>
+<p>The first line is the number of test cases, followed by a blank line.<p>
+Each test case in the input should contains an integer M(1&lt=M&lt=5000), followed by
+pairs "L<sub>i</sub> R<sub>i</sub>"(|L<sub>i</sub>|, |R<sub>i</sub>|&lt=50000, i&lt=100000),
+each on a separate line. Each test case of input is terminated by pair "0 0".
+<p>Each test case will be separated by a single line.<p>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>
+For each test case, in the first line of output your programm should print the minimal number
+of line segments which can cover segment [0,M]. In the following lines,
+the coordinates of segments, sorted by their left end
+(L<sub>i</sub>), should be printed in the same format as in the input.
+Pair "0 0" should not be printed. If [0,M] can not be covered by given line segments, your programm
+should print "0"(without quotes).
+<p>Print a blank line between the outputs for two consecutive test cases.<p>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">
+Sample Input</A></FONT></H2>
+<P>
+<PRE>
+2
+
+1
+-1 0
+-5 -3
+2 5
+0 0
+
+1
+-1 0
+0 1
+0 0
+</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">
+Sample Output</A></FONT></H2>
+<P>
+<PRE>
+0
+
+1
+0 1
+</PRE>
+
+<ADDRESS><HR>
+<A HREF="http://diaspro.com/~gevak">Alex Gevak</A><BR>
+September 10, 2000 (Revised 2-10-00, Antonio Sanchez) </ADDRESS>
+
+</BODY>
+</HTML>

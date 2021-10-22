@@ -1,0 +1,79 @@
+<html>
+<h2>Problem B: Rocket Stages</h2>
+
+Many rockets are made up of several stages to increase efficiency.
+When the fuel in one stage burns up, the stage can be discarded,
+reducing the weight of the remaining rocket.
+The first stage needs a strong engine capable of lifting the whole
+rocket, while later stages can have smaller engines.
+<p>
+In this problem, you will determine which stages to put together to
+maximize the upward velocity of the rocket when all the fuel has burned.
+<p>
+For each stage, you will be given:
+<ul>
+    <li>the mass <i>S</i> of the stage, in kilograms, when it is empty (without fuel),
+    <li>the mass <i>L</i> of the fuel, in kilograms, in the stage,
+    <li>the thrust <i>T</i>, in newtons, provided by the engine in the stage, and
+    <li>the fuel consumption <i>C</i>, in kilograms per second, of the stage.
+</ul>
+<p>
+Assume that the rocket points straight upward for the duration of the
+flight. Two forces act on the rocket: the force of the engine,
+which is <i>T</i> newtons upwards, and the force of gravity,
+which is 9.8 <i>M</i> newtons downwards, where <i>M</i> is
+the total mass of the rocket in kilograms, including fuel.
+The acceleration of the rocket
+is <i>F</i> divided by <i>M</i> metres per second per second upwards,
+where <i>F</i> is the total net force acting on the rocket in newtons, and <i>M</i>
+is the total mass of the rocket in kilograms, including fuel.
+As soon as a stage finishes
+burning, it is immediately discarded and the next stage starts to burn.
+The final velocity of the rocket is the integral of the net acceleration
+(due to gravity and the engine) over time.
+<p>
+Due to safety regulations, the net acceleration of the rocket is never
+allowed to be downwards, until the rocket runs out of fuel.
+<p>
+Also due to safety regulations, the total mass of the rocket cannot exceed
+10000 kilograms.
+<p>
+The rocket must have at least one stage.
+<p>
+<h3>Input Specification</h3>
+The first line of input contains one integer specifying the number of
+test cases to follow. Each test case begins with a line containing
+an integer <i>N</i>, the number of rocket stages in the current test
+case. There will be no more than 1000 stages. This line is followed by
+<i>N</i> lines, one for each stage. Each of these lines contains the
+four integers <i>S</i>, <i>L</i>, <i>T</i>, <i>C</i> that
+describe a stage, as explained above. Each of these integers
+can be represented by a 32-bit unsigned binary number.
+The order of the stages as listed must be preserved but some
+stages (including, possibly, the first stage) may be left out of the rocket.  The stage listed first is at the
+top of the rocket (and will burn last).
+For every test case in the input, it is always possible to construct at
+least one rocket satisfying all the requirements of the problem statement.
+
+<h3>Sample Input</h3>
+
+<pre>
+1
+1
+9999 1 1000000 1
+</pre>
+
+<h3>Output Specification</h3>
+
+For each test case, output a line containing a single integer, the
+maximum possible speed in metres per second of the rocket when it has finished burning,
+rounded to the nearest metre per second.
+
+<h3>Output for Sample Input</h3>
+
+<pre>
+90
+</pre>
+<hr>
+<i>Ond&#345;ej Lhot&aacute;k, Gordon Cormack</i>
+</html>

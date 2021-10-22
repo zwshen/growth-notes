@@ -1,0 +1,319 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./p0_files/filelist.xml">
+<title>Problem A - The Most Distant State</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Administrator</o:Author>
+  <o:LastAuthor>Administrator</o:LastAuthor>
+  <o:Revision>13</o:Revision>
+  <o:TotalTime>13</o:TotalTime>
+  <o:Created>2001-01-10T16:18:00Z</o:Created>
+  <o:LastSaved>2001-02-20T09:24:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>253</o:Words>
+  <o:Characters>1447</o:Characters>
+  <o:Company>BUET</o:Company>
+  <o:Lines>12</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1777</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor="#eeeeee" lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=5>Problem A</font></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=6>The Most Distant State</font></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Input: </b><span style='mso-bidi-font-weight:bold'>standard input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Output: </b>standard output</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>The 8-puzzle is a square tray in
+which eight square tiles are placed. The remaining ninth square is uncovered.
+Each tile has a number on it. A tile that is adjacent to the blank space can be
+slid into that space. A game consists of a starting state and a specified goal state.
+The starting state can be transformed into the goal state by sliding (moving)
+the tiles around. The 8-puzzle problem asks you to do the transformation in
+minimum number of moves.</p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 style='border-collapse:collapse;
+ mso-table-layout-alt:fixed;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width=23 valign=top style='width:17.0pt;border:solid windowtext 1.5pt;
+  border-bottom:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>2<o:p></o:p></b></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:none;border-right:solid windowtext 1.5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>8<o:p></o:p></b></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:none;border-right:solid windowtext 1.5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>3<o:p></o:p></b></p>
+  </td>
+  <td width=26 valign=top style='width:19.85pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+  <td width=26 valign=top style='width:19.85pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+  <td width=26 valign=top style='width:19.85pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border:solid windowtext 1.5pt;
+  border-bottom:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>1<o:p></o:p></b></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:none;border-right:solid windowtext 1.5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>2<o:p></o:p></b></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:none;border-right:solid windowtext 1.5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>3<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=23 valign=top style='width:17.0pt;border-top:solid windowtext 1.5pt;
+  border-left:solid windowtext 1.5pt;border-bottom:none;border-right:none;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>1<o:p></o:p></b></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border-top:solid windowtext 1.5pt;
+  border-left:solid windowtext 1.5pt;border-bottom:none;border-right:none;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>6<o:p></o:p></b></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border:solid windowtext 1.5pt;
+  border-bottom:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>4<o:p></o:p></b></p>
+  </td>
+  <td width=79 colspan=3 valign=top style='width:59.55pt;border:none;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>=&gt;</p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border-top:solid windowtext 1.5pt;
+  border-left:solid windowtext 1.5pt;border-bottom:none;border-right:none;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>8<o:p></o:p></b></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border-top:solid windowtext 1.5pt;
+  border-left:solid windowtext 1.5pt;border-bottom:none;border-right:none;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><b
+  style='mso-bidi-font-weight:normal'><o:p></o:p></b></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border:solid windowtext 1.5pt;
+  border-bottom:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>4<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=23 valign=top style='width:17.0pt;border:solid windowtext 1.5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>7<o:p></o:p></b></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.5pt;border-right:none;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><b
+  style='mso-bidi-font-weight:normal'><o:p></o:p></b></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border:solid windowtext 1.5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>5<o:p></o:p></b></p>
+  </td>
+  <td width=26 valign=top style='width:19.85pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+  <td width=26 valign=top style='width:19.85pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+  <td width=26 valign=top style='width:19.85pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border:solid windowtext 1.5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>7<o:p></o:p></b></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border:solid windowtext 1.5pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>6<o:p></o:p></b></p>
+  </td>
+  <td width=23 valign=top style='width:17.0pt;border:solid windowtext 1.5pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>5<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=68 colspan=3 valign=top style='width:51.05pt;border:none;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'>Start<o:p></o:p></b></p>
+  </td>
+  <td width=26 valign=top style='width:19.85pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+  <td width=26 valign=top style='width:19.85pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+  <td width=26 valign=top style='width:19.85pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+  <td width=68 colspan=3 valign=top style='width:51.05pt;border:none;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'>Goal<o:p></o:p></b></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>However, our current problem is a
+bit different. In this problem, given an initial state of the puzzle your are
+asked to discover a goal state which is the most distant (in terms of number of
+moves) of all the states reachable from the given state. </p>
+
+<br>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Input</font></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>The first line of the input file
+contains an integer representing the number of test cases to follow. A blank
+line follows this line.</p>
+
+<br>
+<p class=MsoNormal style='text-align:justify'>Each test case consists of 3
+lines of 3 integers each representing the initial state of the puzzle. The
+blank space is represented by a 0 (zero). A blank line follows each test case. </p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Output</font></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>For each test case first output
+the puzzle number. The next 3 lines will contain 3 integers each representing
+one of the most distant states reachable from the given state. The next line
+will contain the shortest sequence of moves that will transform the given state
+to that state. The move is actually the movement of the blank space represented
+by four directions : U (Up), L (Left), D (Down) and R (Right). After each test
+case output an empty line.</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Input</font></span></b></p>
+<font face="Courier" size=3>
+1<br>
+
+<br>
+
+2 6 4<br>
+
+1 3 7<br>
+
+0 5 8<br>
+
+<br>
+</font>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Output</font></span></b></p>
+<font face="Courier" size=3>
+Puzzle #1<br>
+
+8 1 5<br>
+7 3 6<br>
+4 0 2<br>
+UURDDRULLURRDLLDRRULULDDRUULDDR<br>
+
+<br>
+</font>
+<font face"Times New Roman" size=3> 
+__________________________________________________________________________________________
+<br>Rezaul Alam Chowdhury
+<br><br><i>&quot;A fool looks for happiness in the distance, those
+who are intelligent grow it under their own feet.&quot;</i></p>
+
+</div>
+
+</body>
+
+</html>

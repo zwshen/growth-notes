@@ -1,0 +1,81 @@
+<html>
+<title>Problem B: ASCII Labyrinth </title>
+
+<h2>Problem B: ASCII Labyrinth</h2>
+
+We are trying to construct a labyrinth on a board of size
+<em>m</em>&nbsp;&times;&nbsp;<em>n</em>. Initially, on each square of the board we
+find a piece of thin plywood of size 1&nbsp;&times;&nbsp;1 with one of the
+following three patterns painted on it.
+<p>
+<center>
+<img src="p10582a.jpg" align=center>
+</center>
+<p>
+While constructing the labyrinth we may turn the pieces arbitrarily
+but each piece must exactly cover a square of the board.  We are not
+allowed to move a piece to another square of the grid.
+<p>
+Given an initial board covered with the pieces, we would like to turn
+the pieces in such a way that the patterns on the pieces form at least
+one polygonal curve connecting the top left corner square of the board
+with the bottom right square of the board.  The picture below presents
+an initial state of a board of size 4&nbsp;&times;&nbsp;6 and a labyrinth
+constructed from the board in which the above stated goal has been
+achieved.
+<p>
+<center>
+<img src="p10582b.jpg" align=center>
+</center>
+<p>
+Your task is to read a description of the initial board with the
+pieces placed on it and to decide whether one can turn the pieces in
+such a way that the patterns form a line connecting some edge of the
+top left square and some edge of the bottom right square of the board.
+<p>
+The first line of input contains a number <em>c</em> giving the number
+of cases that follow. The test data for each case start with two
+numbers <em>m</em> and <em>n</em> giving the number of rows and columns on
+the board.  The remaining lines form an ASCII rendition of the initial
+board with the pieces placed on squares.  The characters used in the
+rendition are <tt>+</tt>, <tt>-</tt>, <tt>|</tt>, <tt>*</tt> and
+space.  See the sample input for the format. The size of the input
+board will be such that <em>m</em>&nbsp;&times;&nbsp;&nbsp;<em>n</em>&nbsp;&le;&nbsp;64.
+<p>
+For each case print in a single line how many different paths exist in the solutions
+to the labyrinth problem in the format shown below.
+
+
+
+<h3>Sample input</h3>
+<pre>
+1
+4 6
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
+|***|***|** |** |** |***|
+|   |   | * | * | * |   |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
+|   |** |** |***|** |** |
+|   | * | * |   | * | * |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
+|***|** |***|***|***|** |
+|   | * |   |   |   | * |
++---+---+---+---+---+---+
+|   |   |   |   |   |   |
+|** |   |***|   |** |** |
+| * |   |   |   | * | * |
++---+---+---+---+---+---+
+</pre>
+
+<h3>Output for sample input</h3>
+<pre>
+Number of solutions: 2
+</pre>
+
+<hr>
+
+Author: <em>P. Rudnicki</em>
+</html>

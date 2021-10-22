@@ -1,0 +1,146 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>File Mapping</TITLE>
+<META NAME="description" CONTENT="File Mapping">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+File Mapping</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+It is often helpful for computer users to see a visual representation of the file structure on their
+computers.  The ``explorer" in Microsoft Windows is an example of such a system.  Before the 
+days of graphical user interfaces, however, such visual representations were not possible.  The 
+best that could be done was to show a static ``map" of directories and files, using indentation as a 
+guide to directory contents.  For example:
+
+<P>
+<PRE>
+ROOT
+|     DIR1
+|     File1
+|     File2
+|     File3
+|     DIR2
+|     DIR3
+|     File1
+File1
+File2
+</PRE>
+
+<P>
+This shows that the root directory contains two files and three subdirectories.  The first 
+subdirectory contains 3 files, the second is empty and the third contains one file.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Write a program that reads a series of data sets representing a computer file structure.
+A data set ends with a line containing a single `<TT>*</TT>', and the end of valid
+data is denoted by a line containing a single `<TT>#</TT>'.  
+
+<P>
+The data set contains a series of file and directory 
+names.  (The root directory is assumed to be the starting point.) The end of a directory is denoted 
+by a `<TT>]</TT>'.  
+
+<P>
+Directory names begin with a lower case `<TT>d</TT>' and file names begin with a lower case `<TT>f</TT>'.  
+File names may or may not have an extension (such as <TT>fmyfile.dat</TT> or <TT>fmyfile</TT>).  
+
+<P>
+File and directory names may not contain spaces. 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The contents of any directory should list any subdirectories first, followed by files, if any.  
+All files should be in alphabetical order within each directory.  
+
+<P>
+Note that each data set output is 
+marked by the label `<TT>DATA SET </TT><I>x</I><TT>:</TT>', where <I>x</I> denotes the number of the set, beginning at 1.  
+
+<P>
+Note also the blank line between the output data sets.  Each level of indentation should show a `<TT>|</TT>' followed by 5 spaces.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+file1
+file2
+dir3
+dir2
+file1
+file2
+]
+]
+file4
+dir1
+]
+file3
+*
+file2
+file1
+*
+#
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+DATA SET 1:
+ROOT
+|     dir3
+|     |     dir2
+|     |     file1
+|     |     file2
+|     dir1
+file1
+file2
+file3
+file4
+
+DATA SET 2:
+ROOT
+file1
+file2
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-01-17</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

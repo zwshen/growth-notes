@@ -1,0 +1,141 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Compression</TITLE>
+<META NAME="description" CONTENT="Compression">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Compression</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+There are many various compression method with character string compression
+among them. It is usually used for text compression, especially for program
+source codes. Source code usually consists of repeating identifiers and
+keywords. A simple compression method exchanges these repeating words with
+their codes.
+
+<P>
+
+<P>
+<BR>
+Your task is to write a compression program using a below-defined method:
+
+<P>
+<UL>
+<LI>keywords like: <EM>var, end, for, then, else, case, goto, const, label, while, begin, until, repeat, downto, function, procedure</EM> are coded as <TT>&amp;</TT><I>X</I> where <I>X</I> is equal to 0 for <EM>var</EM>, 1 for <EM>end</EM>, and so on up to 15 for <EM>procedure</EM>.
+<LI>identifiers are replaced by <TT>&amp;</TT><I>X</I> where <I>X</I> is a number of the identifier + 15, so the first identifier in the text is given the code &amp;16.
+<LI>identifiers are defined as any string of digits and letters (i.e. number, number33, 20001, 2Pi, h2o). Identifiers are separated by whitespaces (not alphanumeric)
+<LI>identifiers which are shorter than 3 characters are not coded
+<LI>to make decompression possible first occurrence of an identifier is not coded but the appropriate code is stored in memory
+<LI>no identifier is longer than 39 characters
+<LI>there are at most 2000 identifiers
+<LI>character <TT>&amp;</TT> does not appear in the input source code
+</UL>
+
+<P>
+Example: identifier '<TT>integer</TT>' from the source code listed below is given a
+code &amp;(3+15) = &amp;18 because '<TT>var</TT>' is a keyword and '<TT>n</TT>' is too short to be coded, so both are not counted.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input is an integer N, then a blank line followed by N datasets. There is a blank line between datasets.
+
+Each dataset contains an unlimited number of lines of source code (the last line being `<TT>end.</TT>').
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each dataset, print the compressed source code. Print a blank line between datasets.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+
+program Test;
+var n :integer;
+
+function harmonic(number :integer):real;
+var i :integer;
+    result :real;
+begin
+  result := 0;
+  for i := 1 to number do
+  begin
+    number := number + 1/i;
+  end;
+  harmonic := result;
+end;
+
+begin
+  writeln('Get n:');
+  readln(n);
+  writeln('harmonic number for n: ');
+  writeln(harmonic(n));
+end.
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+program Test;
+&0 n :integer;
+
+&14 harmonic(number :&18):real;
+&0 i :&18;
+    result :&21;
+&10
+  &22 := 0;
+  &2 i := 1 to &20 do
+  &10
+    &20 := &20 + 1/i;
+  &1;
+  &19 := &22;
+&1;
+
+&10
+  writeln('Get n:');
+  readln(n);
+  &23('&19 &20 &2 n: ');
+  &23(&19(n));
+&1.
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-01-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

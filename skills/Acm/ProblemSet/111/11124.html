@@ -1,0 +1,70 @@
+<html>
+<head>
+<title>Problem G - Troubles for Modern Days Problemsetters</title>
+</head>
+
+<body>
+<center><h2>Problem G</h2><h1>Troubles for Modern Days Problemsetters</h1></center>
+<p>For some programming problems it is necessary to create big input files, to be able to make sure that efficient programs will finish within the time limit, but that inefficient programs will not. This is especially troublesome as processor speeds increase, but I/O devices can't keep up: for many programming problems the execution time is substancially dependent on efficiently reading the input data. This is, of course, an undesirable situation because a contestant in a programming competition should focus on algorithm efficiency, not on hacking with low-level I/O functions, which may lack in some languages. 
+
+<p>One way to circumvent these troubles, is to let the contestants generate their own input. To illustrate this, we take a simple problem:
+<DL><DD>Given a list of upto 1000000 numbers, not in any particular order, determine the i-th element in the list if the list were sorted in non-descending order.</DD></DL>
+It is clear that there are several approaches to this problem, some more efficient than others, and we don't want to let the runtime be determined by the time it takes to read the list.
+
+<p>To make it easier for the problemsetter to work with large lists, we will define three list commands:
+<ol>
+<li><b>NList</b>: a normal list of values. It is invoked by the command <b>NList(n,a<sub>1</sub>,..,a<sub>n</sub>)</b>, where <b>n</b> is the number of elements, and the <b>a</b>-s the elements themselves.
+<li><b>IList</b>: a list of incremented values. It is invoked by the command <b>IList(n,s,i)</b>, where <b>n</b> is the number of elements, <b>s</b> the value of the first element, and <b>i</b> the increment to get the subsequent values. The increment can be positive, negative or zero.
+<li><b>RList</b>: a list of random values. It is invoked by the command <b>RList(n,l,h,s)</b>, where <b>n</b> is the number of elements, <b>l</b> the lowest possible generated value, <b>h</b> the highest possible generated value and <b>s</b> the starting seed for a random number generator.
+</ol>
+The random number generator is called consecutively for all <b>n</b> values of the RList. In this problem it is very crude and defined as follows:
+<ul>
+<li>The limits, <b>l</b> and <b>h</b>, are signed 32-bit integers; the seed <b>s</b> is an unsigned 32-bit integer.
+<li>To generate a random number, first update the seed by multiplying it with 17, then add 11 and then take the lower 32 bits as the new seed;
+<li>Then take the remainder of the division of the new seed by <b>h</b> - <b>l</b> + 1, and add that to <b>l</b> to get the resulting random number.
+</ul>
+<p>List commands can be combined to create more challenging input. This is done by placing a plus-sign ('+') between list commands. Examples:
+<ul>
+<li>NList(4,1,2,3,4) generates the list: 1 2 3 4.
+<li>IList(3,100,10) generates the list: 100 110 120.
+<li>RList(5,-200,300,1234567890) generates the list: -112 200 91 228 -11.
+<li>IList(5,0,1)+IList(3,6,0)+IList(5,5,-1) generates the list: 0 1 2 3 4 5 6 6 6 5 4 3 2 1 0.
+</ul>
+<h1>Input</h1>
+<p>The input consists of several cases, each on two consecutive lines.
+<p>The first line contains the number <b>i</b>, the index of the number we seek in the list defined in the next line, if that list were sorted in non-descending order. The first element of the sorted list has index 1. The index will be within the bounds of the defined list.
+<p>The second line of each case defines a list of input numbers for the problem, in terms of the three given list commands (NList, IList and RList). If there is more than one list command on a line, then they are separated by plusses. No spaces are used and all list commands will produce lists of 32-bit signed integers. The total number of numbers generated in one line is between 1 and 1000000 inclusive. There will be no more than 32 list commands on one line, and a line is not longer than 1000 characters.
+<p>The input is terminated by the number 0 (zero).
+<h1>Output</h1>
+For each case in the input, state the case number (starting from 1) and the element we seek, in the format shown in the sample output below.
+<h1>Sample Input</h1>
+<pre>
+4
+NList(10,-9,6,-4,-3,6,501,7,6,6,-10000)
+13
+IList(5,0,1)+IList(3,6,0)+IList(5,5,-1)
+1
+IList(1000000,-90,0)
+123456
+RList(1000000,-2000000000,2000000000,0)
+200000
+IList(50001,-25000,1)+RList(500000,-25000,25000,3333333333)+NList(4,0,0,0,0)
+0
+</pre>
+<h1>Sample Output</h1>
+<pre>
+Case 1: -3
+Case 2: 6
+Case 3: -90
+Case 4: -1735543272
+Case 5: -6808
+</pre>
+<hr>
+Problem Setter: Joachim Wulff<br>
+Special Thanks: Shahriar Manzoor
+<hr>
+<h1>Nota Bene</h1>
+Although the problem is "simple", you will need an efficient algorithm to solve it in time!
+
+</body>
+</html>

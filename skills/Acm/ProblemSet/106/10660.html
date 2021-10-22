@@ -1,0 +1,161 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Citizen attention offices</title>
+</head>
+
+<body>
+
+<center>
+<table bgColor="#0060f0">
+  <tbody>
+    <tr>
+      <td><b><font color="#c0ffff" size="5">Citizen attention offices</font>&nbsp;</b></td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<p>The Mayor of a city wants to improve the attentions of the local government
+to the citizens. For that, five offices to attend to consults will be open in
+the city. The Mayor thinks that the attentions would be better if the offices are
+close to where the people live. To decide where to open the offices, the city
+has been divided in 25 areas, in a square:
+<table border="1" width="31%">
+  <tr>
+    <td width="20%" align="center">0</td>
+    <td width="20%" align="center">1</td>
+    <td width="20%" align="center">2</td>
+    <td width="20%" align="center">3</td>
+    <td width="20%" align="center">4</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">5</td>
+    <td width="20%" align="center">6</td>
+    <td width="20%" align="center">7</td>
+    <td width="20%" align="center">8</td>
+    <td width="20%" align="center">9</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">10</td>
+    <td width="20%" align="center">11</td>
+    <td width="20%" align="center">12</td>
+    <td width="20%" align="center">13</td>
+    <td width="20%" align="center">14</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">15</td>
+    <td width="20%" align="center">16</td>
+    <td width="20%" align="center">17</td>
+    <td width="20%" align="center">18</td>
+    <td width="20%" align="center">19</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">20</td>
+    <td width="20%" align="center">21</td>
+    <td width="20%" align="center">22</td>
+    <td width="20%" align="center">23</td>
+    <td width="20%" align="center">24</td>
+  </tr>
+</table>
+<p>and the quantity of people living in each square is counted, thus assigning
+to each area the number (an integer number) of thousands of people living there.
+For example:
+<table border="1" width="31%">
+  <tr>
+    <td width="20%">0</td>
+    <td width="20%">0</td>
+    <td width="20%">2</td>
+    <td width="20%">3</td>
+    <td width="20%">1</td>
+  </tr>
+  <tr>
+    <td width="20%">5</td>
+    <td width="20%">2</td>
+    <td width="20%">2</td>
+    <td width="20%">2</td>
+    <td width="20%">0</td>
+  </tr>
+  <tr>
+    <td width="20%">1</td>
+    <td width="20%">1</td>
+    <td width="20%">2</td>
+    <td width="20%">3</td>
+    <td width="20%">0</td>
+  </tr>
+  <tr>
+    <td width="20%">0</td>
+    <td width="20%">0</td>
+    <td width="20%">2</td>
+    <td width="20%">1</td>
+    <td width="20%">5</td>
+  </tr>
+  <tr>
+    <td width="20%">2</td>
+    <td width="20%">1</td>
+    <td width="20%">2</td>
+    <td width="20%">0</td>
+    <td width="20%">4</td>
+  </tr>
+</table>
+<p>The number of people in each area is less or equal to 10 million.
+<p>For each area, the minimum distance to the five offices is obtained as
+follows:&nbsp; the distance from one area to an office is obtained&nbsp; as the
+number of movements to go from the area to the area where the office will be
+installed (the movements are in horizontal and vertical; for example, from (1,1) to (2,3) three movements are necessary). And
+we want to minimize the sum of the minimum distances from all the areas, but
+having into account the quantity of people living in each area. Thus, for each
+area the distance to an office is multiplied by the value associated to the area.
+<h2><font color="#0070e8"><a name="SECTION0001003000000000000000">The Input</a></font></h2>
+<p>The input begins with a line where the number of test cases (<i>t</i>) is
+indicated. The data for each test case appear in sucessive lines. In each test
+case the first line contains the number of areas in the city with non null
+population (<i>n</i>) and in each one of the <i>n</i> following lines three
+numbers appear, the first and the second indicate the row and the column of the
+area (they are numbered from 0 to 4) and the third the number of thousand of
+people living in the area.
+<h2><font color="#0070e8"><a name="SECTION0001004000000000000000">The Output</a></font></h2>
+<p>The output consists of a line for each problem, with five numbers with a space between each two numbers, and
+no space after the last number. The numbers
+in the solutions are written in increasing order. If there is more than one
+optimum solution, you must output the solution with lowest first value. If the first
+value coincides, you must output the solution with lowest second value, and so
+on.
+<h2><font color="#0070e8"><a name="SECTION0001005000000000000000">Sample Input</a></font></h2>
+<PRE>4
+1
+2 2 1
+4
+0 0 1
+4 4 1
+0 4 1
+4 0 1
+5
+0 0 1
+1 1 1
+2 2 1
+3 3 1
+4 4 1
+7
+4 2 2
+3 3 1
+2 4 3
+2 1 1
+1 3 4
+1 2 2
+1 0 1
+</PRE>
+<h2><font color="#0070e8"><a name="SECTION0001006000000000000000">Sample Output</a></font></h2>
+<PRE>0 1 2 3 12
+0 1 4 20 24
+0 6 12 18 24
+5 7 8 14 22
+</PRE>
+
+<p>&nbsp;</p>
+
+</body>
+
+</html>

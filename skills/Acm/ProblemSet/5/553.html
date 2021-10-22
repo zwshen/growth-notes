@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Simply proportion</TITLE>
+<META NAME="description" CONTENT="Simply proportion">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Simply proportion</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Wou will probably have made a document on a word processor. When the job was
+done and you
+wanted to print that document you sometimes have the option to print the
+document with
+proportional spacing. This means that gaps between letters and words are
+filled with very small
+spaces (as small as your printer can handle) in such a way that you do not
+see a ragged appearance
+of a line but instead the line is left and right justified on your printout.
+This could also be done by
+filling each line with normal spaces, but this usually produces big gaps
+between words. In the following we call these small spaces <B>dots</B>.
+
+<P>
+
+<P>
+<BR>
+In the exercise you are asked to produce an algorithm that fills lines with
+dots in such a manner that
+the line has a certain length (measured in dots). We will provide you with
+lines which contain
+spaces and certain letters. Each character has a width that can be measured
+in dots. In order to keep
+this exercise simple we will only use a subset of letters. These letters are
+the following:
+
+<P>
+<DIV ALIGN="CENTER">
+<TABLE CELLPADDING=3>
+<TR><TD ALIGN="CENTER"><B> Character</B></TD>
+<TD ALIGN="CENTER"><B> Width</B></TD>
+</TR>
+<TR><TD ALIGN="CENTER">A</TD>
+<TD ALIGN="CENTER">18</TD>
+</TR>
+<TR><TD ALIGN="CENTER">B</TD>
+<TD ALIGN="CENTER">17</TD>
+</TR>
+<TR><TD ALIGN="CENTER">I</TD>
+<TD ALIGN="CENTER">10</TD>
+</TR>
+<TR><TD ALIGN="CENTER">M</TD>
+<TD ALIGN="CENTER">20</TD>
+</TR>
+<TR><TD ALIGN="CENTER">S</TD>
+<TD ALIGN="CENTER">16</TD>
+</TR>
+<TR><TD ALIGN="CENTER">Y</TD>
+<TD ALIGN="CENTER">13</TD>
+</TR>
+<TR><TD ALIGN="CENTER">`space'</TD>
+<TD ALIGN="CENTER">Variable</TD>
+</TR>
+</TABLE></DIV>
+
+<P>
+The minimum number of dots between letters in a word is 3. The number of dots
+that separates letters in a word is given by the greatest <B>possible</B> number that is equal to or smaller than 1/3 of the minimum number of dots that separate words (rounded down to the nearest integer).
+The minimum
+number of dots for a single space is 10(there is no upper limit for the number
+of dots in a space).
+
+<P>
+
+<P>
+<BR>
+
+<B>Note:</B> the begin and end of a line may not contain (empty) dots.
+
+<P>
+
+<P>
+<BR>
+It can (and according to Murphy's law it will) happen that you are left with
+a number of dots that
+can't be equally divided in the gaps between letters or words. These leftovers
+must be equally
+divided over the spaces between the words beginning from the end of the line.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input for your program is a text-file. Each input consists of two lines.
+On the first line there is
+an integer (say <I>N</I>) that tells you the desired length of the line (measured in
+dots) that will be your
+output. This integer has a maximum value of 5000. The second line consists of
+the input that you
+have to reformat to the desired length (each word is separated from the other
+by one space). Each
+line has at least two words on it and the maximum number of characters on
+this line is 80. There are
+no spaces after the last word. It is given that it is possible to fill the
+given line with dots so that the
+resulting line has a length of <I>N</I> dots. The last two lines of the input are
+given by:
+
+<P>
+<PRE>
+0
+SYMIBA
+</PRE>
+
+<P>
+Your program must not perform any action on this last input, it is simply
+there to mark the end of the input.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Your program must convert the given line to the desired length (<I>N</I> dots). The
+output is a text-file.
+Each line corresponds to the second line of each input pair with the number
+of dots between the
+letters and words. The spaces between letters and words are denoted in a
+special manner. If there
+are 3 dots between the letters <TT>A</TT> and <TT>B</TT> this is denoted by <TT>A/(3)B</TT> in your output. Your output may
+not contain any spaces, all these spaces must be converted to dots.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+250
+AIM SSY ABABA
+200
+SSSS AAAA
+130
+AA B AA
+0
+SYMIBA
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+A/(4)I/(4)M/(18)S/(4)S/(4)Y/(19)A/(4)B/(4)A/(4)B/(4)A
+S/(7)S/(7)S/(7)S/(22)A/(7)A/(7)A/(7)A
+A/(5)A/(15)B/(16)A/(5)A
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1998-03-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

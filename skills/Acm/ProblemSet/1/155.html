@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>All Squares</TITLE>
+<META NAME="description" CONTENT="All Squares">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">All Squares</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Geometrically, any square has a unique, well-defined centre point. On
+a grid this is only true if the sides of the square are an odd number
+of points long. Since any odd number can be written in the form 2k+1,
+we can characterise any such square by specifying k, that is we can say
+that a square whose sides are of length 2k+1 has size k. Now define a
+pattern of squares as follows.
+<P>
+<OL><LI> The largest square is of size k (that is sides are of length 2k+1) and is
+centred in a grid of size 1024 (that is the grid sides are of length
+2049).<LI> The smallest permissible square is of size 1 and the largest is of
+size 512, thus  <IMG WIDTH=89 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline32" SRC="155img1.gif"  > .<LI> All squares of size <I>k</I> &gt; 1 have a square of size k div 2 centred on
+each of their 4 corners. (Div implies integer division, thus 9 div 2 =
+4).<LI> The top left corner of the screen has coordinates (0,0), the bottom
+right has coordinates (2048, 2048).
+</OL>
+<P>
+Hence, given a value of k, we can draw a unique pattern of squares
+according to the above rules. Furthermore any point on the screen will
+be surrounded by zero or more squares. (If the point is on the border
+of a square, it is considered to be surrounded by that square). Thus
+if the size of the largest square is given as 15, then the following
+pattern would be produced.
+<P>
+<P> <IMG WIDTH=443 HEIGHT=441 ALIGN=BOTTOM ALT="picture25" SRC="155img2.gif"  > <P>
+<P>
+Write a program that will read in a value of k and the coordinates of
+a point, and will determine how many squares surround the point.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+Input will consist of a
+series of lines. Each line will consist of a value of k and the
+coordinates of a point. The file will be terminated by a line
+consisting of three zeroes (0 0 0).
+<P>
+<P>
+Output will consist of a series of lines, one for each line of the
+input. Each line will consist of the number of squares containing the
+specified point, right justified in a field of width 3.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>500 113 941
+0 0 0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>  5</PRE>
+<P>
+</BODY>
+</HTML>

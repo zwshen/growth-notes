@@ -1,0 +1,131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Doing Windows</TITLE>
+<META NAME="description" CONTENT="Doing Windows">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Doing Windows</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The screen of monitors on computer systems are rectangles.  The <EM>aspect ratio</EM>
+of a screen is its width divided by its height.  This term can also be applied
+to rectangular windows that may appear on the monitor's screen, where it is
+defined
+as the width of the window divided by its height.  For this problem we assume
+the dimensions of a monitor's screen and its windows are measured in integral
+numbers
+of pixels, the individual dots (arranged in a rectangular grid) that comprise
+and image.
+
+<P>
+
+<P>
+<BR>
+Suppose your windowing software only allows windows to be resized in such
+a way that their aspect ratios are unmodified.  For example, a window with
+a width
+of 150 pixels and a height of 100 pixels (and an aspect ratio of 150/100,
+or 1.5)
+can be resized so its width is 225 pixels and its height is 150 pixels
+(the aspect ratio
+remains unchanged, at 225/150, or 1.5), but a width of 224 and a height
+of 150 is not
+allowed, since that would change the aspect ratio.  Each window can be
+moved to an
+arbitrary location on the screen, but the entire window must remain visible
+on the screen.
+
+<P>
+
+<P>
+<BR>
+Given the size of a screen and the initial sizes of four different windows
+(as integer values for width and height), is it possible to resize (and
+relocate) the
+four windows so they completely cover the screen without overlapping each
+other?
+That's the question you are to answer in this problem.
+
+<P>
+
+<P>
+<BR>
+For example, consider a square screen with four square windows.
+The aspect ratio
+for each of these is exactly 1.  We are permitted to resize each of
+the four windows
+so they would completely fill the screen without overlapping.
+This case is illustrated by the first data set in the Sample Input, below.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Input will consist of one or more data sets followed by a pair of zeroes.
+Each data set will contain five pairs of integers.  The first pair
+
+<!-- MATH: $(W_s, H_s)$ -->
+(<I>W</I><SUB><I>s</I></SUB>, <I>H</I><SUB><I>s</I></SUB>) specifies the
+width and height of the screen.  The four remaining pairs (<I>W</I><SUB><I>i</I></SUB>,
+<I>H</I><SUB><I>i</I></SUB>, for <I>i</I> = 1 to 4) specify the initial sizes of the windows.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Output should have one line for each input data set.  The line should contain
+the input data set number (starting with 1) followed by the word <TT>Yes</TT>
+if the screen can be completely covered by the (possibly resized and relocated) windows with no overlap, or <TT>No</TT> if it cannot be so covered.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+400 400   10 10  35 35   15 15   100 100
+200 300   10 10  20 20   30 45   40 60
+200 250   10 10  20 20   30 45   40 60
+
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+Set 1: Yes
+Set 2: No
+Set 3: Yes
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-03-24</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

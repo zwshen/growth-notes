@@ -1,0 +1,88 @@
+<HTML>
+<HEAD>
+<!--TITLE>Contest Scoreboard</TITLE-->
+</HEAD>
+<BODY>
+<H1>Question B - Contest Scoreboard</H1>
+<P>
+
+Think the contest score boards are wrong?  Here's your chance to come up
+with the right rankings.
+
+<P></P>
+
+Contestants are ranked first by the number of problems solved (the more
+the better), then by decreasing amounts of penalty time.  If two or more
+contestants are tied in both problems solved and penalty time, they are
+displayed in order of increasing team numbers.
+
+<P></P>
+
+A problem is considered solved by a contestant if any of the submissions
+for that problem was judged correct.  Penalty time is computed as the
+number of minutes it took for the first correct submission for a problem
+to be received plus 20 minutes for each incorrect submission received
+prior to the correct solution.  Unsolved problems incur no time
+penalties.
+
+</P>
+<H2>Input:</H2>
+<P>
+<b>
+The input begins with a single positive integer on a line by itself indicating 
+the number of the cases following, each of them as described below. 
+This line is followed by a blank line, and there is also a blank line between 
+two consecutive inputs.
+</b>
+<p>
+<p>
+
+
+Input consists of a snapshot of the judging queue, containing entries
+from some or all of contestants 1 through 100 solving problems 1 through
+9.
+Each line of input will consist of three numbers and a letter in the format
+
+</P><P>
+<VAR>contestant</VAR> <VAR>problem</VAR> <VAR>time</VAR> <VAR>L</VAR>
+</P><P>
+
+where <VAR>L</VAR> can be <SAMP>C</SAMP>, <SAMP>I</SAMP>, <SAMP>R</SAMP>,
+<SAMP>U</SAMP> or <SAMP>E</SAMP>.  These stand for Correct, Incorrect,
+clarification Request, Unjudged and Erroneous submission.  The last
+three cases do not affect scoring.
+</P><P>
+Lines of input are in the order in which submissions were received.
+</P>
+<H2>Output:</H2>
+<P>
+<b>
+For each test case, the output must follow the description below. 
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+Output will consist of a scoreboard sorted as previously described.
+Each line of output will contain a contestant number, the number of problems
+solved by the contestant and the time penalty accumulated by the
+contestant.  Since not all of contestants 1-100 are actually participating,
+display only the contestants that have made a submission.
+</P>
+
+<H2>Sample Input:</H2>
+<PRE>
+1
+
+1 2 10 I
+3 1 11 C
+1 2 19 R
+1 2 21 C
+1 1 25 C
+</PRE>
+<H2>Sample Output:</H2>
+<PRE>
+1 2 66
+3 1 11
+</PRE>
+</BODY>
+</HTML>

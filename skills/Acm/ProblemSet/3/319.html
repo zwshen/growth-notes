@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Pendulum</TITLE>
+<META NAME="description" CONTENT="Pendulum">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Pendulum</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Consider a pendulum hanging on a string from a hook on a wall. When
+pushed, this pendulum will swing back and forth. Now imagine other hooks
+on the wall, placed in the path of our pendulum's string. The pendulum
+will bend around them, possibly even loop around them. In
+general, it will follow a much more complex path than before. After
+some time, the pendulum's motion will repeat, the pendulum will
+follow a <I>periodic orbit</I>. What we would like you to do
+is to compute the distance travelled by the pendulum as it completes
+one cycle of the orbit.
+<P>
+<P>
+More formally, we place a cartesian coordinate system on the wall.
+The pendulum's string is affixed at the origin (0,0).
+As usual, the <I>x</I>-axis points to the right and the <I>y</I>-axis points
+upwards. The string of the pendulum has a length of <I>r</I>. The pendulum
+is released at position (-<I>r</I>,0) and therefore starts swinging to
+the right. Furthermore, there are <I>n</I> additional hooks
+distributed over the plane which may influence the path of the pendulum.
+<P>
+<P>
+In our ideal world, the following assumptions are true:
+<P>
+<UL><LI> The diameters of the hooks and of the string are zero.<LI> The pendulum loses no energy (e.g. by friction).<LI> The pendulum will never hit a hook, only its string will.<LI> The pendulum's string is made of some futuristic material that only
+bends where it touches a hook but is otherwise rigid.
+</UL>
+<P>
+Your program should simulate the movement of the pendulum and output
+the spatial length of the periodic orbit that it finally enters. As you
+may remember from physics: due to gravity, the pendulum will never
+reach a height greater than the one it started from! That is,
+it will never get above the <I>x</I>-axis. It will either reach its initial
+height again or circle endlessly around a hook in the wall.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input file contains several test cases. Each case begins with a
+line containing an integer <I>n</I> (the number of hooks,  <IMG WIDTH=90 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline44" SRC="319img1.gif"  > )
+and a real <I>r</I> (the length of the pendulum's string).
+The following <I>n</I> lines each contain two integers specifying the <I>x</I>-
+and <I>y</I>-coordinate of the corresponding hook.
+<P>
+The file ends with a case having <I>r</I> = 0, which should not be processed.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each case output a line containing the number of the
+case (<TT>`Pendulum #1'</TT>, <TT>`Pendulum #2'</TT>, etc.).
+<P>
+Then print a line that contains the distance which the pendulum travels
+for completing one cycle of its periodic orbit. Do not count the
+distance travelled to reach the starting point of the orbit. (Adhere to
+the format shown in the output sample.) The distance should be
+exact to two digits to the right of the decimal point.
+<P>
+Output a blank line after each test case.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>2 16.0
+3 -4
+-3 -4
+1 18.0
+5 -12
+0 0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>Pendulum #1
+Length of periodic orbit = 87.66
+
+Pendulum #2
+Length of periodic orbit = 31.42</PRE>
+<P>
+</BODY>
+</HTML>

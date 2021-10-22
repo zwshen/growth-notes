@@ -1,0 +1,158 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>King</TITLE>
+<META NAME="description" CONTENT="King">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+King</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Once, in one kingdom, there was a queen and that queen was expecting a baby. The queen
+prayed: ``If my child was a son and if only he was a sound king.'' After nine months her child was
+born, and indeed, she gave birth to a nice son.
+
+<P>
+Unfortunately, as it used to happen in royal families, the son was a little retarded. After many
+years of study he was able just to add integer numbers and to compare whether the result is greater
+or less than a given integer number. In addition, the numbers had to be written in a sequence and
+he was able to sum just continuous subsequences of the sequence.
+
+<P>
+The old king was very unhappy of his son. But he was ready to make everything to enable his
+son to govern the kingdom after his death. With regards to his son's skills he decided that every
+problem the king had to decide about had to be presented in a form of a finite sequence of integer
+numbers and the decision about it would be done by stating an integer constraint (i.e. an upper
+or lower limit) for the sum of that sequence. In this way there was at least some hope that his son
+would be able to make some decisions.
+
+<P>
+After the old king died, the young king began to reign. But very soon, a lot of people became
+very unsatisfied with his decisions and decided to dethrone him. They tried to do it by proving
+that his decisions were wrong.
+
+<P>
+Therefore some conspirators presented to the young king a set of problems that he had to
+decide about. The set of problems was in the form of subsequences 
+<!-- MATH: $S_i = \{a_{s_i}, a_{s_i+1}, \dots, a_{s_i+n_i}\}$ -->
+<IMG
+ WIDTH="213" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="515img1.gif"
+ ALT="$S_i = \{a_{s_i}, a_{s_i+1}, \dots, a_{s_i+n_i}\}$">
+of
+a sequence 
+<!-- MATH: $S = \{a_1, a_2, \dots, a_n\}$ -->
+<IMG
+ WIDTH="155" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="515img2.gif"
+ ALT="$S = \{a_1, a_2, \dots, a_n\}$">.
+The king thought a minute and then decided, i.e. he set for the sum
+
+<!-- MATH: $a_{s_i} + a_{s_i+1} + \dots + a_{s_i+n_i}$ -->
+<IMG
+ WIDTH="194" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="515img3.gif"
+ ALT="$a_{s_i} + a_{s_i+1} + \dots + a_{s_i+n_i}$">
+of each subsequence <I>S</I><SUB><I>i</I></SUB> an integer constraint <I>k</I><SUB><I>i</I></SUB> (i.e. 
+
+<!-- MATH: $a_{s_i} + a_{s_i+1} + \dots + a_{s_i+n_i} < k_i$ -->
+<IMG
+ WIDTH="231" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="515img4.gif"
+ ALT="$a_{s_i} + a_{s_i+1} + \dots + a_{s_i+n_i} < k_i$">
+or 
+<!-- MATH: $a_{s_i} + a_{s_i+1} + \dots + a_{s_i+n_i} > k_i$ -->
+<IMG
+ WIDTH="231" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="515img5.gif"
+ ALT="$a_{s_i} + a_{s_i+1} + \dots + a_{s_i+n_i} > k_i$">
+resp.) and declared these constraints as his decisions.
+
+<P>
+After a while he realized that some of his decisions were wrong. He could not revoke the
+declared constraints but trying to save himself he decided to fake the sequence that he was given.
+He ordered to his advisors to find such a sequence <I>S</I> that would satisfy the constraints he set. Help
+the advisors of the king and write a program that decides whether such a sequence exists or not.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file consists of blocks of lines. Each block except the last corresponds to one set of
+problems and king's decisions about them. In the first line of the block there are integers <I>n</I>, and
+<I>m</I> where 
+<!-- MATH: $0 < n \leŸ 100$ -->
+<IMG
+ WIDTH="96" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="515img6.gif"
+ ALT="$0 < n \leŸ 100$">
+is length of the sequence <I>S</I> and 
+<!-- MATH: $0 < m \leŸ 100$ -->
+<IMG
+ WIDTH="101" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="515img7.gif"
+ ALT="$0 < m \leŸ 100$">
+is the number of subsequences
+<I>S</I><SUB><I>i</I></SUB>. Next <I>m</I> lines contain particular decisions coded in the form of quadruples 
+<!-- MATH: $s_i, n_i, o_i, k_i$ -->
+<I>s</I><SUB><I>i</I></SUB>, <I>n</I><SUB><I>i</I></SUB>, <I>o</I><SUB><I>i</I></SUB>, <I>k</I><SUB><I>i</I></SUB>, where <I>o</I><SUB><I>i</I></SUB>
+represents operator &gt; (coded as <TT>gt</TT>) or operator &lt; (coded as <TT>lt</TT>) respectively. The symbols <I>s</I><SUB><I>i</I></SUB>, <I>n</I><SUB><I>i</I></SUB>
+and <I>k</I><SUB><I>i</I></SUB> have the meaning described above. The last block consists of just one line containing <TT>0</TT>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The output file contains the lines corresponding to the blocks in the input file. A line contains
+text <TT>successful conspiracy</TT> when such a sequence does not exist. Otherwise it contains text
+<TT>lamentable kingdom</TT>. There is no line in the output file corresponding to the last ``null'' block of the input file.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+4 2
+1 2 gt 0
+2 2 lt 2
+1 2
+1 0 gt 0
+1 0 lt 0
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+lamentable kingdom
+successful conspiracy
+</PRE>
+
+<P>
+
+<P>
+</BODY>
+</HTML>

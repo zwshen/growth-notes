@@ -1,0 +1,119 @@
+<html>
+<head>
+    <title>Make Palindrome Checker</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem I</B></FONT><BR>
+<FONT SIZE="5"><B>Make Palindrome Checker</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 1 second</FONT>
+</CENTER>
+</P>
+
+<P>
+As you all know, Miguel Revilla has been very busy revising the
+website for the programming contest. But alas, as things go, he lost
+some files in the upgrade. And even worse: as he backups his files as
+frequently as most of us, he cannot restore them. He clearly needs
+some help.
+
+<p>One of the files lost is the file with the test vectors for "Make
+Palindrome", problem 10453 (<a
+href="http://acm.uva.es/p/v104/10453.html">http://acm.uva.es/p/v104/10453.html</a>). Miguel
+needs a program to test the contributions to this problem. In order to
+do this, he first makes a new file from the file with the test inputs
+and the file with the outputs of a program: every line consists of the
+input to the program and its output, separated by a space. Systematic
+as he is, he makes a list of properties every line in this new file
+should have:
+
+<ol>
+<li>It consists of a first string of lower case characters (length <=
+1000), a single space, an integer (>=0, <=1000), a single space, and a
+second string of lower case letters (length <=2000), we will call this
+property P1.
+
+<li>P1 & the second string is a palindrome.
+
+<li>P1 & all letters of the first string appear in the second string.
+
+<li>P1 & the frequency of every letter in the second string is at
+ least the frequency of this letter in the first string.
+
+<li>P1 & the first string can be made out of the second string by
+removing 0 or more letters (and leaving the order of the letters
+intact).
+
+<li>P1 & the length of the second string is equal to the
+length of the first string plus the value of the integer.  
+
+<li>P1 & the value of the integer is smaller than the length of the first string.
+
+</ol>
+ 
+<p>Obviously, the list is not complete, but given the time pressure
+Miguel is under and the short nights he has had during the upgrade, we
+can easily forgive him.<p>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+Every input consists of a concatenation of an input submitted to and
+an output computed by a program made to the specification of "Make
+Palindrome", separated by a space. Every line contains less than 5000
+ASCII characters. Input is terminated by EOF.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+The output consists of the value "T" or "F" (for True and False;
+without the quotes) for every property in the list above, and a
+statement "The solution is accepted" if all properties are true, and
+"The solution is not accepted" otherwise (again, both without the
+quotes). There is a single space between the statement and the "T"s
+and "F"s; there is none between the "T"s and "F"s.
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+abcd 3 abcdcba
+aaaa 3 abcdcba
+abc 2 abdcba
+aab b baab
+abababaabababa 0 abababaabababa
+pqrsabcdpqrs 9 pqrsabcdpqrqpdcbasrqp
+</PRE>
+</TD>
+<TD>
+<PRE>
+TTTTTTT The solution is accepted
+TTTFFTT The solution is not accepted
+TFTTTFT The solution is not accepted
+FFFFFFF The solution is not accepted
+TTTTTTT The solution is accepted
+TTTTTTT The solution is accepted
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+<HR>
+<B>Problemsetter: Meine Van der Meulen</B>
+</P>
+
+</td></tr></table>
+</body>
+</html>

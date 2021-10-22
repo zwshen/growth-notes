@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html; charset=ISO-8859-1"
+ http-equiv="content-type">
+  <title>Stopper Stumper</title>
+</head>
+<body>
+<h1><br clear="all">
+<center>
+<table bgcolor="#0060f0">
+  <tbody>
+    <tr>
+      <td><b><font size="5" color="#c0ffff">&nbsp;<a
+ name="SECTION0001000000000000000000">
+Stopper Stumper</a>&nbsp;</font></b></td>
+    </tr>
+  </tbody>
+</table>
+</center>
+</h1>
+<p>
+Stephen Stepper's Supply Store sells stoppersrubber corks for sealing
+jars, bottles, and other containers that have
+round openings. A stopper is shaped like two concentric cylinders, each
+of height 1.5 centimeters, glued together.
+Figure 1 shows two stoppers of different sizes.
+</p>
+<div style="text-align: center;"><img
+ style="width: 430px; height: 212px;" alt="" src="p823a.jpg"><br>
+</div>
+<p>
+When Stephen packages an order to be shipped by mail, he tries to use
+space efficiently to conserve packing
+material. Since stoppers are the smallest items in his store, he packs
+them last, and finds that he must often pack
+several stoppers into small triangular gaps at the top of the shipping
+carton. Stoppers must inserted in one of the two
+orientations shown in Figure 1. The triangular spaces are only 3 cm
+deep, so stoppers cannot be placed on top of one
+another; however, the large cylinder of one stopper is permitted to
+overlap the large cylinder of another inverted
+stopper as shown in Figures 1 and 2. Your job is to help Stephen decide
+what collections of stoppers will fit into a
+triangular space.
+</p>
+<p>
+For instance, suppose a triangular space with side lengths 8, 7, and 10
+were available, and we had to fit three
+stoppers in it with inside/outside diameters of 2cm/3cm, 1.5cm/3cm, and
+1cm/3cm. One way to pack them is as
+shown in Figure 2. (The dotted circle indicates that the smaller
+cylinder of one of the stoppers is underneath the
+larger one.) The only packing Stephen will consider has the larger
+cylinder of each stopper touching two sides of the
+triangle, with no two larger cylinders touching the same pair of sides.
+</p>
+<div style="text-align: center;"><img
+ style="width: 408px; height: 238px;" alt="" src="p823b.jpg"><br>
+</div>
+<h2><font color="#0070e8"><a name="SECTION0001001000000000000000">Input</a>&nbsp;</font>
+</h2>
+<p>
+The input consists of a sequence of triangle specifications and
+descriptions of three stoppers for each triangle. Each
+triangular space is specified by three positive integers representing
+the lengths of the three sides; only valid triangles
+will appear in the input. A pair of positive real numbers represents
+each stopper. The first number in the pair
+represents the diameter of the smaller cylinder, and the second
+represents the diameter of the larger cylinder. The
+final line of the input file contains zeros for all the data values.
+</p>
+<h2><font color="#0070e8"><a name="SECTION0001004000000000000000">
+Output</a>&nbsp;</font>
+</h2>
+<p>
+For each triangle, print a line identifying its sequence number in the
+input data and a line indicating whether or not
+the stoppers can be packed into the triangular space. Separate the
+output for each triangle with a blank line. Do not
+print anything for the final line of zeros in the input. Imitate the
+sample output as closely as possible.
+</p>
+<br>
+<table border="1" rules="all" cellpadding="9" cellspacing="0">
+  <tbody>
+    <tr>
+      <th><font face="arial" size="4"><b>Sample Input</b></font></th>
+      <th><font face="arial" size="4"><b>Output for the Sample Input</b></font></th>
+    </tr>
+    <tr>
+      <td valign="top">
+      <pre>6 6 6 0.5 1.0 0.3 2.0 0.4 1.0<br>10 10 10 2.0 3.0 1.0 2.0 1.5 3.5<br>20 6 20 3.0 4.5 0.5 1.0 4.0 5.0<br>8 7 10 2.0 3.0 1.5 3.0 1.0 3.0<br>8 7 10 2.0 3.0 2.5 3.0 2.0 3.0<br>0 0 0 0.0 0.0 0.0 0.0 0.0 0.0<br></pre>
+      </td>
+      <td valign="top">
+      <pre>Triangle number 1:<br>All three stoppers will fit in the triangular space<br><br>Triangle number 2:<br>All three stoppers will fit in the triangular space<br><br>Triangle number 3:<br>Stoppers will not fit in the triangular space<br><br>Triangle number 4:<br>All three stoppers will fit in the triangular space<br><br>Triangle number 5:<br>Stoppers will not fit in the triangular space<br></pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<hr>ACM World Finals 2000, Problem H
+</body>
+</html>

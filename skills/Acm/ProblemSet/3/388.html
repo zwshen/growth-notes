@@ -1,0 +1,107 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Galactic Import</TITLE>
+<META NAME="description" CONTENT="Galactic Import">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Galactic Import</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+With the introduction of the new ThrustoZoom gigadimensional drive, it has
+become possible for
+HyperCommodities, the import/export conglomerate from New Jersey, to
+begin trading with even
+the most remote galaxies in the universe. HyperCommodities wants to
+import goods from some
+of the galaxies in the Plural Z sector. Planets within these galaxies
+export valuable products and
+raw materials like vacuuseal, transparent aluminum, digraphite, and
+quantum steel. Preliminary reports have revealed the following facts:
+<P>
+<UL><LI> Each galaxy contains at least one and at most 26 planets. Each
+planet within a galaxy is identified by a unique letter from A to Z.<LI> Each planet specializes in the production and export of one good.
+Different planets within the same galaxy export different goods.<LI> Some pairs of planets are connected by hyperspace shipping lines.
+If planets A and B are
+connected, they can trade goods freely. If planet C is connected to B
+but not to A, then A
+and C can still trade goods with each other through B, but B
+keeps 5% of the shipment as a
+shipping fee. (Thus A only receives 95% of what C shipped, and C
+receives only 95% of what
+A shipped.) In general, any two planets can trade goods as long as
+they are connected by
+some set of shipping lines, but each intermediate planet along the
+shipping route keeps 5% of what it shipped (which is not
+necessarily equal to 5% of the original shipment).<LI> At least one planet in each galaxy is willing to open a ThrustoZoom
+shipping line to Earth. A
+ThrustoZoom line is the same as any other shipping line within
+the galaxy, as far as business
+is concerned. For example, if planet K opens a ThrustoZoom line to Earth,
+then the Earth
+can trade goods freely with K, or it can trade goods with any planet
+connected to K, subject to the usual shipping fees.
+</UL>
+<P>
+HyperCommodities has assigned a relative value (a positive real
+number less than 10) to each
+planet's chief export. The higher the number, the more valuable the
+product. More valuable
+products can be resold with a higher profit margin in domestic
+markets. The problem is to determine
+which planet has the most valuable export when shipping fees
+are taken into account.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input consists of one or more galaxy descriptions. Each galaxy
+description begins with a line
+containing an integer <I>N</I> which specifies the number of planets in the galaxy. The next <I>N</I> lines contain descriptions of each planet, which consist of:
+<P>
+<OL><LI> The letter used to represent the planet.<LI> A space.<LI> The relative value of the planet's export, in the form <I>d</I>.<I>dd</I>.<LI> A space.<LI> A string containing letters and/or the character `<TT>*</TT>'; a letter
+indicates a shipping line to that
+planet, and a `<TT>*</TT>' indicates a willingness to open a ThrustoZoom
+shipping line to Earth.
+</OL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each galaxy description, output a single line which reads
+``<TT>Import from</TT> P'' where P is the letter
+of the planet with the most valuable export, once shipping fees have
+been taken into account. (If
+more than one planet have the same most valuable export value then
+output the plant which is alphabetically first).
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>1
+F 0.81 *
+5
+E 0.01 *A
+D 0.01 A*
+C 0.01 *A
+A 1.00 EDCB
+B 0.01 A*
+10
+S 2.23 Q*
+A 9.76 C
+K 5.88 MI
+E 7.54 GC
+M 5.01 OK
+G 7.43 IE
+I 6.09 KG
+C 8.42 EA
+O 4.55 QM
+Q 3.21 SO</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>Import from F
+Import from A
+Import from A</PRE>
+<P>
+</BODY>
+</HTML>

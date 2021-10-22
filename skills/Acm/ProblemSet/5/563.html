@@ -1,0 +1,169 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Crimewave</TITLE>
+<META NAME="description" CONTENT="Crimewave">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Crimewave</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Nieuw Knollendam is a very modern town. This becomes clear already when
+looking at the layout of its map, which is just a rectangular grid of streets
+and avenues. Being an important trade centre, Nieuw Knollendam also has a lot
+of banks. Almost on every crossing a bank is found (although there are
+ never two banks at the same crossing). Unfortunately this has attracted a
+ lot of criminals. Bank hold-ups are quite common, and often on one day
+ several banks are robbed. This has grown into a problem,
+ not only to the banks, but to the criminals as well. After robbing a bank
+the robber tries to leave the town as soon as possible, most of the times
+chased at high speed by the police. Sometimes two running criminals pass the
+same crossing, causing several risks: collisions, crowds of police at
+one place and a larger risk to be caught.
+
+<P>
+
+<P>
+<BR>
+To prevent these unpleasant situations the robbers agreed to consult
+together.  Every Saturday night they meet and make a schedule for the week
+to come: who is going to rob which bank on which day? For every day they try
+to plan the get-away routes,
+such that no two routes use the same crossing. Sometimes they do not
+succeed in planning the routes according to this condition, although they
+believe that such a planning should exist.
+
+<P>
+
+<P>
+<BR>
+Given a grid of 
+<!-- MATH: $(s \times a)$ -->
+<IMG
+ WIDTH="57" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="563img1.gif"
+ ALT="$(s \times a)$">
+and the crossings where the banks to be robbed are located, find out whether or not it is possible to plan a get-away route from every robbed bank to the city-bounds, without using a crossing more than once.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input contains the number of problems <I>p</I> to be solved.
+
+<P>
+<UL>
+<LI>The first line of every problem contains the number <I>s</I> of streets
+(
+<!-- MATH: $1 \le s \le 50$ -->
+<IMG
+ WIDTH="85" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="563img2.gif"
+ ALT="$1 \le s \le 50$">), followed by the number <I>a</I> of avenues (
+<!-- MATH: $1 \le a \le 50$ -->
+<IMG
+ WIDTH="86" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="563img3.gif"
+ ALT="$1 \le a \le 50$">),
+followed by the number <I>b</I> (<IMG
+ WIDTH="44" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="563img4.gif"
+ ALT="$b \ge 1$">)
+of banks to be robbed.
+
+<P>
+<LI>Then <I>b</I> lines follow, each containing the location of a bank in the form
+of two numbers <I>x</I> (the number of the street) and <I>y</I> (the number of the avenue). Evidently 
+<!-- MATH: $1 \le x \le s$ -->
+<IMG
+ WIDTH="78" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="563img5.gif"
+ ALT="$1 \le x \le s$">
+and 
+<!-- MATH: $1 \le y \le a$ -->
+<IMG
+ WIDTH="78" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="563img6.gif"
+ ALT="$1 \le y \le a$">.
+</UL>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The output file consists of <I>p</I> lines. Each line contains the text <TT>possible</TT> or
+<TT>not possible</TT>. If it is possible to plan non-crossing get-away routes, this
+line should contain the word: <TT>possible</TT>. If this is not possible,
+the line should contain the words <TT>not possible</TT>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2
+6 6 10
+4 1
+3 2
+4 2
+5 2
+3 4
+4 4
+5 4
+3 6
+4 6
+5 6
+5 5 5
+3 2
+2 3
+3 3
+4 3
+3 4
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+possible
+not possible
+</PRE>
+
+<P>
+<DIV ALIGN="CENTER">
+<img src=p563.gif>
+</DIV>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1998-03-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,171 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Squares (II)</TITLE>
+<META NAME="description" CONTENT="Squares (II)">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Squares (II)</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The game of <EM>Squares</EM>  is not well known in our region, but there are some
+fanatics who spend their whole day playing Squares, using boards as large
+as they can find. However, recently the <EM>International Squares Federation</EM>
+decided that the sides of a Squares board may not be larger than 1000 .
+
+<P>
+
+<P>
+<BR>
+
+<EM>Squares</EM>  is played by two players on a rectangular board, similar to a very big chess board. The fields are numbered from (1,1) at the bottom left
+corner, to (1,<I>w</I>) at the bottom right corner and (<I>h</I>,<I>w</I>) at the top right
+corner, where <I>h</I> and <I>w</I> are the height and width of the board. Usually, one of
+the players decides the size of the board, and the other player makes the
+first move.
+
+<P>
+
+<P>
+<BR>
+A move consists of choosing a free field. This field is extended to the right
+and to the top of the board to form a square as large as possible without
+intersecting already occupied fields. The fields of this new square then
+belong to the player who
+made the move, and are no longer free. The game is finished when there are
+no free fields left. However, it is possible for the players to decide to
+end the game earlier.
+
+<P>
+
+<P>
+<BR>
+The scoring rules are too complicated to explain here. The number of occupied
+fields plays a role, but also the moment in the game at which those fields
+were occupied by the player.
+
+<P>
+
+<P>
+<BR>
+For beginning players, the best strategy is to try to occupy as many fields
+as possible in each move. More experienced players will sometimes occupy
+smaller squares for strategic reasons.
+
+<P>
+
+<P>
+<BR>
+Write a program to support beginning players, which, given the size of the
+board and the moves already made, indicates a field that must be chosen in
+the next move to occupy a square that is as large as possible.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input starts with a line which indicates the number of games <I>g</I> to be
+analysed.
+
+<P>
+
+<P>
+<BR>
+For each game, the input begins with a line with three numbers <I>h</I>, <I>w</I>,
+ and <I>m</I>, separated by a space, where <I>h</I> and <I>w</I> are the height and width of
+ the board (
+<!-- MATH: $1 \le h \le 1000, 1 \le w \le 1000$ -->
+<IMG
+ WIDTH="215" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="559img1.gif"
+ ALT="$1 \le h \le 1000, 1 \le w \le 1000$">), and <I>m</I> is the number of moves already made (
+<!-- MATH: $0 \le m \le 100$ -->
+<IMG
+ WIDTH="101" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="559img2.gif"
+ ALT="$0 \le m \le 100$">)
+.
+
+<P>
+
+<P>
+<BR>
+For each move, the input file contains one line with the row and
+column (
+<!-- MATH: $1 \le r \le h, 1 \le c \le w$ -->
+<IMG
+ WIDTH="162" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="559img3.gif"
+ ALT="$1 \le r \le h, 1 \le c \le w$">)
+of the field the player has chosen,
+separated by a space. The move is legal according to the rules given
+above, i.e., the field is free.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The output consists of g lines, one line for each game. If there is no legal
+move possible, the text <TT>game over</TT> should be given. Otherwise, the line should
+contain three numbers <I>r</I>, <I>c</I>, and <I>s</I>, separated by one space, where <I>r</I> and <I>c</I>
+are the row and column where a maximal square with side <I>s</I> can be formed.
+If there is more than one possible solution, the one with the smallest <I>r</I> is
+given, and if that is not decisive, the one with the smallest <I>c</I>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2
+8 8 4
+8 1
+3 6
+1 4
+2 1
+500 1000 2
+1 1
+1 501
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+5 2 4
+game over
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1998-03-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Grammar Evaluation</TITLE>
+<META NAME="description" CONTENT="Grammar Evaluation">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Grammar Evaluation</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Using the following grammar:
+
+<P>
+<PRE>
+&lt;expression&gt; := &lt;component&gt; | &lt;component&gt; + &lt;expression&gt;
+&lt;component&gt; := &lt;factor&gt; | &lt;factor&gt; + &lt;component&gt;
+&lt;factor&gt; := &lt;positive integer&gt; | (&lt;expression&gt;)
+</PRE>
+
+<P>
+write a program which analyses expressions conforming to 
+the rules of this grammar and evaluates them, 
+if the analysis has been successfully completed. 
+It may be assumed that there is no overflow of float(C)/real(Pascal) 
+numbers range.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+A integer <I>n</I> stating the number of expressions, then
+consecutive <I>n</I> lines, each containingan expression given as a character
+string.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each line value of the expression or output message <TT>ERROR</TT>
+if the expression does not follow the grammar.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+5
+32
+12+34
+1*(2+3)+3
+1(2+3)+3
+qwe323
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+32
+46
+8
+ERROR
+ERROR
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-01-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

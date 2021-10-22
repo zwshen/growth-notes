@@ -1,0 +1,159 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Copying Books</TITLE>
+<META NAME="description" CONTENT="Copying Books">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Copying Books</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Before the invention of book-printing, it was very hard to
+make a copy of a book. All the contents had to be re-written by hand by
+so called <EM>scribers</EM>. The scriber had been given a book and after
+several months he finished its copy. One of the most famous scribers lived
+in the 15th century and his name was Xaverius Endricus Remius Ontius
+Xendrianus (<EM>Xerox</EM>). Anyway, the work was very annoying and boring.
+And the only way to speed it up was to hire more scribers.
+
+<P>
+
+<P>
+<BR>
+Once upon a time, there was a theater ensemble that wanted to play famous
+Antique Tragedies. The scripts of these plays were divided into many books
+and actors needed more copies of them, of course. So they hired many scribers
+to make copies of these books. Imagine you have <I>m</I> books (numbered
+
+<!-- MATH: $1, 2, \dots, m$ -->
+<IMG
+ WIDTH="84" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="714img1.gif"
+ ALT="$1, 2, \dots, m$">)
+that may have different number of pages
+(
+<!-- MATH: $p_1, p_2, \dots, p_m$ -->
+<IMG
+ WIDTH="105" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="714img2.gif"
+ ALT="$p_1, p_2, \dots, p_m$">)
+and you want to
+make one copy of each of them. Your task is to divide these books among
+<I>k</I> scribes, <IMG
+ WIDTH="53" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="714img3.gif"
+ ALT="$k \le m$">.
+Each book can be assigned to a single scriber only, and every scriber
+must get a continuous sequence of books. That means, there exists
+an increasing succession of numbers 
+<!-- MATH: $0 = b_0 <
+b_1 < b_2, \dots < b_{k-1} \le b_k = m$ -->
+<IMG
+ WIDTH="290" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="714img4.gif"
+ ALT="$0 = b_0 <
+b_1 < b_2, \dots < b_{k-1} \le b_k = m$">
+such that <I>i</I>-th scriber gets a sequence
+of books with numbers between <I>b</I><SUB><I>i</I>-1</SUB>+1 and <I>b</I><SUB><I>i</I></SUB>.
+The time needed to make a copy of all the books is determined by the scriber
+who was assigned the most work. Therefore, our goal is to minimize the
+maximum number of pages assigned to a single scriber. Your task is to find
+the optimal assignment.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input consists of <I>N</I> cases. The first line of the input
+contains only positive integer <I>N</I>. Then follow the cases.
+Each case consists of exactly two lines. At the first line, there are 
+two integers <I>m</I> and <I>k</I>, 
+<!-- MATH: $1 \le k \le m \le 500$ -->
+<IMG
+ WIDTH="134" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="714img5.gif"
+ ALT="$1 \le k \le m \le 500$">.
+At the second line, there are integers 
+<!-- MATH: $p_1, p_2, \dots p_m$ -->
+<IMG
+ WIDTH="97" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="714img6.gif"
+ ALT="$p_1, p_2, \dots p_m$">
+separated by spaces. All these values are positive and less than 10000000.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each case, print exactly one line.
+The line must contain the input succession 
+<!-- MATH: $p_1, p_2, \dots p_m$ -->
+<IMG
+ WIDTH="97" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="714img6.gif"
+ ALT="$p_1, p_2, \dots p_m$">
+divided into exactly <I>k</I> parts such that the maximum sum of a single part should be as small as possible. Use the slash character (`<TT>/</TT>') to separate the parts.
+There must be exactly one space character between any two successive numbers
+and between the number and the slash.
+
+<P>
+
+<P>
+<BR>
+If there is more than one solution, print the one that minimizes the work
+assigned to the first scriber, then to the second scriber etc. But each
+scriber must be assigned at least one book.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2
+9 3
+100 200 300 400 500 600 700 800 900
+5 4
+100 100 100 100 100
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+100 200 300 400 500 / 600 700 / 800 900
+100 / 100 / 100 / 100 100
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-15</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,68 @@
+<HTML>
+
+<head>
+<META content="text/html; charset=windows-1252" http-equiv=Content-Type>
+<META content="Hidden squares" name=description>
+<META content=htmlatex name=keywords>
+<META content=document name=resource-type>
+</head>
+
+<BODY bgColor=#ffffff lang=EN>
+
+<CENTER>
+<TABLE bgColor=#0060f0>
+  <TBODY align=center>
+  <TR>
+    <TD><b><font color="#c0ffff" size="5">Rotated squares</font>&nbsp;</b></TR></TBODY></TABLE></CENTER>
+
+<h2><FONT color=#0070e8><A name=SECTION0001003000000000000000>The Problem</A></FONT></h2>
+
+<p>Given a square of N rows and columns of uppercase letters, and another smaller square
+of n rows and columns of uppercase letters, we want to
+count the number of appearances in the big square of the small square in all the
+rotated forms.</p>
+<H2><FONT color=#0070e8><A name=SECTION0001003000000000000000>The 
+Input</A></FONT></H2>
+<P>The input will consist of a series of problems, with each problem in a series of
+lines. In the first line, the dimension of the two squares, N and n (with 0&lt;n&lt;=N), is indicated
+by two integer numbers separated by a space. The N lines of the first square
+appear in the following N lines of the input, and then the n lines of the second square appear in the following n lines.
+The characters in a line are one after another, without spaces. The end of the
+sequence of problems is indicated with a case where N=0 and n=0.
+<H2><FONT color=#0070e8><A name=SECTION0001004000000000000000>The 
+Output</A></FONT></H2>
+<P>The solutions of the different problems appear in successive lines. For each
+problem the output consists of a line with four integers, which are the number
+of times each rotation of the small square appears in the big square.
+The first number corresponds to the number of appearances of the small square
+without rotations, the second to the appearances of the square rotated 90
+degrees (clockwise), the third to the square rotated 180
+degrees, and the fourth to the
+square rotated 270 degrees.&nbsp;
+<H2><FONT color=#0070e8><A name=SECTION0001005000000000000000>Sample 
+Input</A></FONT></H2>
+
+<pre>4 2
+ABBA
+ABBB
+BAAA
+BABB
+AB
+BB
+6 2
+ABCDCD
+BCDCBD
+BACDDC
+DCBDCA
+DCBABD
+ABCDBA
+BC
+CD
+0 0
+</pre>
+<H2><FONT color=#0070e8><A name=SECTION0001006000000000000000>Sample 
+Output</A></FONT></H2>
+
+<pre>0 1 0 0
+1 0 1 0</pre>
+</BODY></HTML>

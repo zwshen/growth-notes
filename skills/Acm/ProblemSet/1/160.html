@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Factors and Factorials</TITLE>
+<META NAME="description" CONTENT="Factors and Factorials">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Factors and Factorials</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The factorial of a number <I>N</I> (written <I>N</I>!) is defined as the product of
+all the integers from 1 to <I>N</I>. It is often defined recursively as
+follows:
+<P>
+<P> <IMG WIDTH=272 HEIGHT=13 ALIGN=BOTTOM ALT="displaymath27" SRC="160img1.gif"  > <P>
+<P>
+<P> <IMG WIDTH=319 HEIGHT=18 ALIGN=BOTTOM ALT="displaymath28" SRC="160img2.gif"  > <P>
+<P>
+Factorials grow very rapidly--5! = 120, 10! = 3,628,800. One way of
+specifying such large numbers is by specifying the number of times
+each prime number occurs in it, thus 825 could be specified as (0 1 2
+0 1) meaning no twos, 1 three, 2 fives, no sevens and 1 eleven.
+<P>
+<P>
+Write a program that will read in a number <I>N</I> ( <IMG WIDTH=95 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline39" SRC="160img3.gif"  > ) and
+write out its factorial in terms of the numbers of the primes it
+contains.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Input will consist of a series of lines, each line containing a single
+integer <I>N</I>. The file will be terminated by a line consisting of a
+single 0.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+Output will consist of a series of blocks of lines, one block for each
+line of the input. Each block will start with the number N, right
+justified in a field of width 3, and the characters `<TT>!</TT>',
+space, and `<TT>=</TT>'. This will
+be followed by a list of the number of times each prime number occurs
+in <I>N</I>!.
+<P>
+These should be right justified in fields of width 3 and each
+line (except the last of a block, which may be shorter) should contain
+fifteen numbers. Any lines after the first should be indented. Follow
+the layout of the example shown below exactly.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>5
+53
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>  5! =  3  1  1
+ 53! = 49 23 12  8  4  4  3  2  2  1  1  1  1  1  1
+        1</PRE>
+<P>
+</BODY>
+</HTML>

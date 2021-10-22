@@ -1,0 +1,136 @@
+<html><head><!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck, Roger Isanta and others --><title>Book Signatures</title>
+
+
+
+
+<meta name="description" content="Book Signatures">
+<meta name="keywords" content="htmlatex">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Generator" content="LaTeX2HTML v2K.1beta">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<h1><br clear="all"><center><table bgcolor="#0000ff"><tbody><tr><td><b><font color="#ffff00" size="5">&nbsp;<a name="SECTION0001000000000000000000">
+Book Signatures</a>&nbsp;</font></b></td></tr></tbody></table></center>
+</h1>
+
+<p>
+Have you ever imagined how you can make a book by yourself? Let's
+suppose you already have an hardcover of the right size. The next tasks
+are printing the contents of the book onto sheets of paper (4 pages per
+sheet, 2 per side), followed by folding the sheets in half, and then
+stitching the sheets along the bisection to the cover. Simple, isn't
+it? </p><p>
+Not quite so! There are a couple of problems that must be solved. For
+instance, there is a rather low limit to the number of sheets you can
+stitch at a time (say, up to 32), and then there is the challenge of
+printing the pages in the right order. If your book has hundreds pages
+you will have to do multiple stitches, one for each section of sheets
+of paper. A book signature is a section of sheets of printed paper
+folded in half, ready to be stitched. </p><p>
+Let's see an example: you want to make a mini-book with just 16 pages,
+but the needle and thread you use only allow stitching 2 sheets of
+paper at a time. In these conditions your book will have 2 signatures,
+each containing (2 sheets of paper <span class="MATH">×</span>
+<tex2html_verbatim_mark> 4 pages per sheet) = 8 pages per signature.
+The following figure shows a top view of the folded sheets with numbers
+indicating the book pages that you printed on each side. </tex2html_verbatim_mark></p><p>
+
+</p><p>
+<br>
+</p><div align="center">
+</div><pre>  Signature 1: pages 1-8          Signature 2: pages 9-16 
+
+   Sheet 1      Sheet 2             Sheet 1      Sheet 2
+                                                  
+     /\           /\                  /\           /\ 
+  1 /  \ 8     3 /  \ 6            9 /  \ 16   11 /  \ 14
+   /    \       /    \              /    \       /    \ 
+  /      \     /      \            /      \     /      \
+ / 2    7 \   / 4    5 \          / 10  15 \   / 12  13 \
+</pre>
+<div align="center">
+</div> 
+
+<p>
+
+</p><p>
+<br>
+To finish making the mini-book you place sheet 2 inside sheet 1 (of
+signature 1) and stitch them both to the hard cover. The operation is
+repeated for sheets 1 and 2 of signature 2. And there you have it: a
+hand-made mini-book!
+</p><p>
+
+</p><h2><font color="#ff0000" size="4"><a name="SECTION0001001000000000000000">
+Input</a>&nbsp;</font>
+</h2>
+
+<p>The input file contains several test cases. For each of them, the
+input is a single line containing two integer numbers <b>n</b> and <b>m</b> separated by a
+semi-colon. The first integer indicates the number of pages of the
+book; the second integer is the size of the signature, measured in
+sheets of paper. For example, <tt>16;2</tt> reflects the mini-book scenario described previously. ( 0<<b>n</b><=10000 , 0<<b>m</b><=32 ).
+</p><p>
+
+</p><p>
+<br>
+
+<b>Note:</b> if the number of pages of the book is not a multiple of (4 pages per sheet <span class="MATH">×</span>
+<tex2html_verbatim_mark> number of sheets per signature) you must add
+empty pages at the end of the book. For instance, if the mini-book had
+15 pages you would have to adjust the book size to 16.
+</tex2html_verbatim_mark></p><p>
+
+</p><h2><font color="#ff0000" size="4"><a name="SECTION0001002000000000000000">
+Output</a>&nbsp;</font>
+</h2>
+
+<p>
+<b>For each test case, the output must follow the description below. 
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+
+</p><p>
+
+</p><p></p><p>
+<br>The output contains instructions for printing the signatures. For
+each signature you must indicate what pages will be printed on each
+side of the each sheet of paper. See the sample output for the exact
+output format; watch carefully that only lowercase letters are used as
+well as the positions of spaces, colon, and semi-colon symbols.
+</p><p>
+
+</p><h2><font color="#ff0000" size="4"><a name="SECTION0001003000000000000000">
+Sample Input</a>&nbsp;</font>
+</h2>
+
+<p>
+</p><pre>9;2
+</pre> 
+
+<p>
+
+</p><h2><font color="#ff0000" size="4"><a name="SECTION0001004000000000000000">
+Sample Output</a>&nbsp;</font>
+</h2>
+
+<p>
+</p><pre>signature 1
+ sheet 1: pages 2 and 7 (front); pages 8 and 1 (back) 
+ sheet 2: pages 4 and 5 (front); pages 6 and 3 (back) 
+signature 2
+ sheet 1: pages 10 and 15 (front); pages 16 and 9 (back) 
+ sheet 2: pages 12 and 13 (front); pages 14 and 11 (back)
+</pre> 
+
+<p>
+<br></p><hr>
+
+</body></html>

@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Trees on the level</TITLE>
+<META NAME="description" CONTENT="Trees on the level">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Trees on the level</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Background</A></FONT></H2>
+<P>
+Trees are fundamental in many branches of computer science.  Current state-of-the art parallel computers such
+as Thinking Machines' CM-5 are based on <EM>fat trees</EM>.  Quad- and
+octal-trees are fundamental to many algorithms in computer graphics.
+<P>
+This problem involves building and traversing binary trees.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+<P>
+Given a sequence of binary trees, you are to write a program that prints
+a level-order traversal of each tree.  In this problem each node of a
+binary tree contains a positive integer and all binary trees have
+have fewer than 256 nodes.
+<P>
+In a <EM>level-order</EM> traversal of a tree, the data in all nodes at a
+given level are printed in left-to-right order and all nodes at level
+<I>k</I> are printed before all nodes at level <I>k</I>+1.
+<P>
+For example, a level order traversal of the tree 
+<P> <IMG WIDTH=290 HEIGHT=226 ALIGN=BOTTOM ALT="picture28" SRC="122img1.gif"  > <P>
+<P>
+is: 5, 4, 8, 11, 13, 4, 7, 2, 1.
+<P>
+In this problem a binary tree is specified by a sequence of pairs
+(<I>n</I>,<I>s</I>) where <I>n</I> is the value at the node whose path from the root is
+given by the string <I>s</I>.  A path is given be a sequence of <EM>L</EM>'s and
+<EM>R</EM>'s where <EM>L</EM> indicates a left branch and <EM>R</EM> indicates a
+right branch.  In the tree diagrammed above, the node containing 13 is
+specified by (13,RL), and the node containing 2 is specified by (2,LLR).
+The root node is specified by (5,) where the empty string indicates the
+path from the root to itself.  A binary tree is considered to be
+<EM>completely specified</EM> if every node on all root-to-node paths in
+the tree is given a value exactly once.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>
+The input is a sequence of binary trees specified as described above.
+Each tree in a sequence consists of several pairs (<I>n</I>,<I>s</I>) as described
+above separated by whitespace.  The last entry in each tree is ().  No
+whitespace appears between left and right parentheses.
+<P>
+All nodes contain a positive integer.  Every tree in the input will
+consist of at least one node and no more than 256 nodes.  Input is
+terminated by end-of-file.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>
+For each completely specified binary tree in the input file, the level
+order traversal of that tree should be printed.  If a tree is not
+completely specified, i.e., some node in the tree is NOT given a value
+or a node is given a value more than once, then the string ``not
+complete'' should be printed.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>(11,LL) (7,LLL) (8,R)
+(5,) (4,L) (13,RL) (2,LLR) (1,RRR) (4,RR) ()
+(3,L) (4,R) ()</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>5 4 8 11 13 4 7 2 1
+not complete</PRE>
+<P>
+
+<PRE>
+</PRE> </DL>
+</BODY>
+</HTML>

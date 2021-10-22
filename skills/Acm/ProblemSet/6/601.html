@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>The PATH</TITLE>
+<META NAME="description" CONTENT="The PATH">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+The PATH</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+``PATH" is  a game played by two players on an <I>N</I> by <I>N</I> board, where <I>N</I> is a
+positive integer.  (If <I>N</I> = 8, the board looks like a chess board.)  Two players
+``WHITE" and ``BLACK" compete in the game to build a path of pieces played on
+the board from the player's ``home" edge to the player's ``target" edge, opposite
+the home edge.  WHITE uses white pieces and BLACK uses black pieces.
+
+<P>
+
+<P>
+<BR>
+For this problem you will play the ``referee" for  the game, analyzing boards
+containing black and white pieces to determine whether either of the players has 
+won the game or if one of the players can win by placing one of their pieces in 
+an unfilled position.  WHITE's turn is next.
+
+<P>
+
+<P>
+<BR>
+A representation of a board on paper (and in a computer) is an N x N matrix of 
+characters 'W', 'B', and 'U'; where W represents white pieces, B represents 
+black pieces, and 'U' represents unfilled positions on the board.
+
+<P>
+
+<P>
+<BR>
+When we view a matrix representation of the board on paper, WHITE's home 
+edge is the left edge of the board (the first column), and WHITE's target edge is 
+the right edge (the last column).  BLACK's home edge is the top edge of the 
+board (the first row), and BLACK's target edge is the bottom edge (the last row).  
+Thus WHITE wants to build a path from left to right, and BLACK wants to build a 
+path from top to bottom.
+
+<P>
+
+<P>
+<BR>
+Two locations on the board are ``adjacent" if one is immediately to the left, to the
+right, above, or below the other.  Thus an interior location on the board is 
+adjacent to four other locations.  For <I>N</I> &gt; 1, corner locations each have two
+adjacent locations, and for <I>N</I> &gt; 2, other border locations have three adjacent
+locations.
+
+<P>
+
+<P>
+<BR>
+A path is a sequence of distinct positions on the board, 
+<!-- MATH: $L_0, L_1, \dots, L_k$ -->
+<IMG
+ WIDTH="110" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="601img1.gif"
+ ALT="$L_0, L_1, \dots, L_k$">,
+such that each pair <I>L</I><SUB><I>i</I></SUB> and <I>L</I><SUB><I>i</I>+1</SUB> are adjacent for 
+<!-- MATH: $i=0, \dots, k-1$ -->
+<IMG
+ WIDTH="121" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="601img2.gif"
+ ALT="$i=0, \dots, k-1$">.
+A winning path for a player is a
+path 
+<!-- MATH: $L_0, L_1, \dots, L_k$ -->
+<IMG
+ WIDTH="110" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="601img1.gif"
+ ALT="$L_0, L_1, \dots, L_k$">
+filled with the player's pieces such that <I>L</I><SUB>0</SUB> is
+a position on the
+player's home edge and <I>L</I><SUB><I>k</I></SUB> is a position on the player's target edge.  It is clear
+that if one player has a winning path then the other player is blocked from having 
+a winning path.  Thus if all the squares contain pieces, either there are no 
+winning paths or exactly one of the players has at least one winning path.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Input is a series of game board data sets.  Each set begins with a line containing 
+an integer specifying the size <I>N</I>, 0&lt;<I>N</I>&lt;81 of the (
+<!-- MATH: $N \times N$ -->
+<IMG
+ WIDTH="58" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="601img3.gif"
+ ALT="$N \times N$">)
+game board.  This is
+followed by a blank line and then by <I>N</I> lines, one for each row of the game
+board, from the top row to the bottom row.  Each line begins with character and 
+consists of <I>N</I> adjacent characters from the set `<TT>B</TT>', `<TT>W</TT>', `<TT>U</TT>'.  A blank line
+separates each non-zero data set from the following data set.  The input is 
+terminated by a single line containing a board size of zero.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+As referee, for each game board in a series of game boards your program
+should report one of the five types of answers below:
+
+<P>
+<TT>White has a winning path.</TT>
+
+<br>
+<TT>Black has a winning path.</TT>
+
+<br>
+<TT>White can win in one move.</TT>  <EM> (White can place a piece in an unfilled position)</EM>
+
+<br>
+<TT>Black can win in one move.</TT>  <EM> (White can't win in one move AND Black can if White does't move)</EM>
+
+<br>
+<TT>There is no winning path.</TT>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+7
+
+WBBUUUU
+WWBUWWW
+UWBBBWB
+BWBBWWB
+BWWBWBB
+UBWWWBU
+UWBBBWW
+
+3
+
+WBB
+WWU
+WBB
+
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+White has a winning path.
+White can win in one move.
+</PRE>
+
+<P>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+<B>Discussion:</B>
+
+<P>
+For the 
+<!-- MATH: $7 \times 7$ -->
+<IMG
+ WIDTH="43" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="601img4.gif"
+ ALT="$7 \times 7$">
+board, the shortest winning path for WHITE covers 15 locations.  For
+the 
+<!-- MATH: $3 \times 3$ -->
+<IMG
+ WIDTH="43" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="601img5.gif"
+ ALT="$3 \times 3$">
+board, WHITE appears to have a path from top to bottom, but remember,
+WHITE wants a path from left to right.
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-03-24</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

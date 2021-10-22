@@ -1,0 +1,42 @@
+<img align=right src=p10443.jpg>
+<h2>Problem E:  Rock, Scissors, Paper</h2>
+Bart's sister Lisa has created a new civilization on a two-dimensional grid.
+At the outset each grid location may be occupied by one of three life forms:
+<i>Rocks</i>, <i>Scissors</i>, or <i>Papers</i>.  Each day, differing life forms
+occupying horizontally or vertically adjacent grid locations wage war.  
+In each war, Rocks always defeat Scissors, Scissors always defeat Papers, 
+and Papers always defeat Rocks.  At the end of the day, the victor expands its 
+territory to include the loser's grid position.  The loser vacates the position.
+<p>
+Your job is to determine the territory occupied by each life form after <i>n</i> days.
+The first line of input contains <i>t</i>, the number of test cases.  Each test
+case begins with three integers not greater than 100: <i>r</i> and <i>c</i>, the number of rows and columns
+in the grid, and <i>n</i>.  The grid is represented by the <i>r</i> lines that follow, 
+each with <i>c</i> characters.
+Each character in the grid is R, S, or P, indicating that
+it is occupied by Rocks, Scissors, or Papers respectively.
+<p>
+For each test case, print the grid as it appears at the end of the <i>n</i>th day.
+Leave an empty line between the output for successive test cases.
+<h3>Sample Input</h3>
+<pre>
+2
+3 3 1
+RRR
+RSR
+RRR
+3 4 2
+RSPR
+SPRS
+PRSP
+</pre>
+<h3>Output for Sample Input</h3>
+<pre>
+RRR
+RRR
+RRR
+
+RRRS
+RRSP
+RSPR
+</pre>

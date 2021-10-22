@@ -1,0 +1,204 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Numbers That Count</TITLE>
+<META NAME="description" CONTENT="Numbers That Count">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Numbers That Count</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+``Kronecker's Knumbers'' is a little company that manufactures plastic
+digits for use in signs
+(theater marquees, gas station price displays, and so on).
+The owner and sole employee, Klyde
+Kronecker, keeps track of how many digits of each type he has
+used by maintaining an inventory
+book. For instance, if he has just made a sign containing
+the telephone number ``5553141'',
+he'll write down the number ``5553141'' in one column of
+his book, and in the next column he'll
+list how many of each digit he used: two 1s, one 3, one 4,
+and three 5s. (Digits that don't
+get used don't appear in the inventory.) He writes the inventory
+in condensed form, like this:
+``21131435''.
+
+<P>
+
+<P>
+<BR>
+The other day, Klyde filled an order for the number 31123314 and
+was amazed to discover that
+the inventory of this number is the same as the number--it has
+three 1s, one 2, three 3s, and
+one 4! He calls this an example of a ``self-inventorying number'',
+and now he wants to find
+out which numbers are self-inventorying, or lead to a self-inventorying
+number through iterated
+application of the inventorying operation described below.
+You have been hired to help him in his investigations.
+
+<P>
+
+<P>
+<BR>
+Given any non-negative integer n, its inventory is another integer
+consisting of a concatenation
+of integers 
+<!-- MATH: $c_1d_1c_2d_2 \dots c_kd_k$ -->
+<IMG
+ WIDTH="127" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="613img1.gif"
+ ALT="$c_1d_1c_2d_2 \dots c_kd_k$">
+, where each <I>c</I><SUB><I>i</I></SUB> and <I>d</I><SUB><I>i</I></SUB>
+is an unsigned integer, every <I>c</I><SUB><I>i</I></SUB> is positive, the
+<I>d</I><SUB><I>i</I></SUB> satisfy 
+<!-- MATH: $0 \le d_1 < d_2 < \dots < d_k \le 9$ -->
+<IMG
+ WIDTH="209" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="613img2.gif"
+ ALT="$0 \le d_1 < d_2 < \dots < d_k \le 9$">,
+and, for each
+digit <I>d</I> that appears anywhere in <I>n</I>, <I>d</I> equals
+<I>d</I><SUB><I>i</I></SUB> for some <I>i</I> and <I>d</I> occurs exactly <I>c</I><SUB><I>i</I></SUB> times in the decimal
+representation of <I>n</I>. For instance, to
+compute the inventory of 5553141 we set
+<I>c</I><SUB>1</SUB> = 2, <I>d</I><SUB>1</SUB> = 1, <I>c</I><SUB>2</SUB> = 1, <I>d</I><SUB>2</SUB> = 3, etc., giving 21131435.
+The number 1000000000000 has inventory 12011 (``twelve 0s, one 1'').
+
+<P>
+
+<P>
+<BR>
+An integer <I>n</I> is called self-inventorying if <I>n</I> equals its inventory.
+It is called self-inventorying after
+<I>j</I> steps (<IMG
+ WIDTH="45" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="613img3.gif"
+ ALT="$j \ge 1$">)
+if <I>j</I> is the smallest number such that the
+value of the <I>j</I>-th iterative application
+of the inventory function is self-inventorying. For
+instance, 21221314 is self-inventorying after 2
+steps, since the inventory of 21221314 is 31321314, the
+inventory of 31321314 is 31123314, and
+31123314 is self-inventorying.
+
+<P>
+
+<P>
+<BR>
+Finally, <I>n</I> enters an inventory loop of length <I>k</I> (<IMG
+ WIDTH="46" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="613img4.gif"
+ ALT="$k \ge– 2$">)
+if <I>k</I> is
+the smallest number such that for
+some integer <I>j</I> (<IMG
+ WIDTH="45" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="613img5.gif"
+ ALT="$j \ge 0$">), the value of the <I>j</I>-th iterative application
+of the inventory function is
+the same as the value of the (<I>j</I> + <I>k</I>)-th iterative application.
+For instance, 314213241519 enters
+an inventory loop of length 2, since the
+inventory of 314213241519 is 412223241519 and the
+inventory of 412223241519 is 314213241519, the original number
+(we have <I>j</I> = 0 in this case).
+
+<P>
+
+<P>
+<BR>
+Write a program that will read a sequence of non-negative integers and,
+for each input value,
+state whether it is self-inventorying, self-inventorying after <I>j</I> steps,
+enters an inventory loop of
+length <I>k</I>, or has none of these properties after 15 iterative
+applications of the inventory function.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+A sequence of non-negative integers, each having at most 80 digits,
+followed by the terminating value -1. There are no extra leading zeros.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each non-negative input value <I>n</I>, output the appropriate choice from
+among the following
+messages (where <I>n</I> is the input value, <I>j</I> is a positive
+integer, and <I>k</I> is a positive integer greater than 1):
+
+<P>
+
+<P>
+<BR>
+<I>n</I><TT> is self-inventorying</TT>
+
+<P><I>n</I><TT> is self-inventorying after </TT><I>j</I><TT> steps</TT>
+
+<P><I>n</I><TT> enters an inventory loop of length </TT><I>k</I>
+
+<P><I>n</I><TT> can not be classified after 15 iterations</TT>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+22
+31123314
+314213241519
+21221314
+111222234459
+-1
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+22 is self-inventorying
+31123314 is self-inventorying
+314213241519 enters an inventory loop of length 2
+21221314 is self-inventorying after 2 steps
+111222234459 enters an inventory loop of length 2
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

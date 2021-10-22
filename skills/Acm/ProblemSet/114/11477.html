@@ -1,0 +1,172 @@
+<title>G :: Game of Rectangles</title>
+<style type="text/css">
+<!--
+.style1 {
+	font-family: Garamond;
+	font-weight: bold;
+	font-size: 28px;
+	color: #FFFFFF;
+}
+.style4 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 18px;
+	color: #0000FF;
+}
+.style10 {font-family: "Courier New", Courier, monospace; font-weight: bold; font-size: 13px; }
+ li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+.style13 {color: #0000FF}
+.style14 {font-family: Garamond; font-weight: bold; font-size: 16px; color: #FFFFFF; }
+-->
+</style>
+<body>
+<table width="100%" border="0">
+  <tr>
+    <td width="4%" height="38">&nbsp;</td>
+    <td  width="27%" bgcolor="#0000FF"><div align="center" class="style1">Problem G </div></td>
+    <td bgcolor="#0000FF" width="33%"><div align="center"><span class="style1">
+      Game of Rectangles </span></div></td>
+    <td width="24%" align="center" valign="middle" bgcolor="#0000FF"><div align="center" class="style14"><span class="style14">Time Limit : 
+    7 seconds</span></div></td>
+    <td width="12%"><div align="center"></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3"><p>&nbsp;</p>
+    <p><b>Arif</b> and <b>Nadia</b> are playing a two player game. The game has following rules 
+    -&nbsp;</p>
+    <ol style="margin-top: 0in; margin-bottom: 0in" start="1" type="1">
+      <li class="MsoNormal">Given a rectangular board of Width <b class="style10">W</b>, and 
+      Height <b class="style10">H</b>. Consider the co-ordinate of lower left corner of this 
+      board is <b>(<span class="style10">0,0</span>)</b> and co-ordinate of upper right corner is <b>(<span class="style10">W</span>,<span class="style10"> H</span>)</b>.</li>
+      <li class="MsoNormal">In each turn a player can draw a rectangle in this 
+      board. </li>
+      <li class="MsoNormal">The player who place the last rectangle will win.</li>
+    </ol>
+    <p>
+    <br>
+    But since the board itself is a rectangle, the first player will always win 
+    if we do not restrict in drawing any kind of and any size of rectangle.<br>
+    So we will put some restriction in drawing rectangles. Here are the rules.</p>
+    <ol style="margin-top: 0in; margin-bottom: 0in" start="1" type="1">
+      <li class="MsoNormal">All edges of the rectangle will be parallel to any 
+      of the edges of rectangular board.</li>
+      <li class="MsoNormal">All corners of the rectangle must be a lattice 
+      point. Lattice points, are the points in two-dimensional coordinate system 
+      whose abscissa and ordinate has integer values. For example (3, 4) is a 
+      lattice point but (3, 4.5) is not a lattice point.</li>
+      <li class="MsoNormal">The width of the rectangle will be at most <b>
+      MaxWidth </b>and at least <b>MinWidth</b>.</li>
+      <li class="MsoNormal">The height of the rectangle will be at most <b>
+      MaxHeight</b> and at least <b>MinHeight</b>.</li>
+      <li class="MsoNormal">&nbsp;No two rectangles can overlap with each other.<br>
+      &nbsp;</li>
+    </ol>
+    <p>
+    Note that, A rectangle can be represented as (x1, y1, x2, y2), where (x1, 
+    y1) is the lower left corner and (x2, y2) is the upper right corner. So, the 
+    height of the rectangle is y2 - y1 and width of the rectangle is x2 - x1, 
+    and area of the rectangle is (y2-y1)*(x2-x1).<br>
+    <br>
+
+    Predicting the winner of such a game is very hard. But your task is not that 
+    hard. At any stage of the game, Nadia wants to know how many possible moves are available to her. Your task is to help her. It might help her to win aginst Arif. 
+	
+	You will be given a state of board. You have to calculate, how many 
+    ways Nadia can place a rectangle having this state. <br>
+&nbsp;</p>
+</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2"><span class="style4">Input</span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3" align="justify">The first line of input is an integer <span class="style10"><b>T</b></span><b>(<span class="style10">T</span>&lt;=100)</b> 
+    that indicates the number of test cases. Each case will starts with a line 
+    containing two integer, <b class="style10">W</b> <b>(1&lt;=<span class="style10">W</span>&lt;=1000000000)</b> width of the 
+    board and <span class="style10"><b>H</b></span><b>(1&lt;=<span class="style10">H</span>&lt;=1000000000) </b>height of the board. Next Line will 
+    contain 4 integers, <span class="style10"><b>MaxWidth</b>, <b>MinWidth</b>, <b>MaxHeight</b>, <b>
+    MinHeight</b></span>. This line will be followed by another line containing a 
+    single integer <span class="style10"><b>K</b></span><b>(0&lt;=<span class="style10">K</span>&lt;=50)</b>, the number of rectangles placed in the 
+    board. Next <b class="style10">K</b> line will represents one rectangle each. Each rectangle 
+    will be represented with <span class="style10">4</span> space separated integer values <b>(<span class="style10">x1, y1, x2, 
+    y2</span>)</b>, as described above. There is a blank line between two test cases.. <br>
+&nbsp;  </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3"><span class="style4">Output</span></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3" align="justify">For each test case, output will be a single 
+    line containing <b class="style10">N</b>, the number of ways to place a rectangle in that 
+    board modulo <b>1000000007</b>.</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><span class="style4">Sample Input</span></td>
+    <td><span class="style4">Sample Output </span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+
+    <td valign="top"><span class="style10">2</span><span class="style10"><br>
+      <br>
+    20 10<br>
+    2 2 5 4<br>
+    2<br>
+    10 5 11 6<br>
+    4 4 5 5<br>
+    <br>
+</span>
+    <span class="style10">20 10<br>
+    2 2 5 4<br>
+    1<br>
+    10 5 11 6<br />
+</span></td>
+
+    <td valign="top"><span class="style10">211<br>
+    229</span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td class="style10" colspan="3"><hr />
+      <p>Problem Setter: Md. Arifuzzaman Arif<br /> 
+      Special Thanks: Istiaque Ahmed<br>
+      <span class="style13">Next Generation Contest 5</span></p>
+      </td>
+    <td valign="top">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>

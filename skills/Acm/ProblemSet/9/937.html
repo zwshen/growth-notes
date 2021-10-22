@@ -1,0 +1,191 @@
+<HTML>
+<BODY bgcolor="white">
+
+<FONT color="#0000FF"><H1>Problem B</H1></FONT>
+
+<FONT color="#0000FF"><H1><CENTER>Kriss Kross Puzzle</CENTER></H1></FONT>
+
+
+<p>
+The Kriss Kross Puzzle is a game for a single player, 
+where there is a puzzle grid, with black and white squares, 
+and a set of words. 
+Basically,
+Kriss Kross Puzzles are solved by placing all words 
+into the white squares of the puzzle grid,
+from top to bottom or from left to right.
+
+<P>
+Consider a Kriss Kross Puzzle
+defined by:
+<UL>
+<LI>a rectangular grid <b>G</b>,
+    whose square cells are either black or white; and
+<LI>a non-empty set of words <b>W</b>,
+    where a word is a sequence of two or more capital letters.
+</UL>
+A <I>solution</I> to the Kriss Kross Puzzle
+is a grid <b>S</b>,
+with the same size as <b>G</b>,
+that verifies all the following conditions.
+<UL>
+<LI>The square cells of <b>S</b> are either black or white.
+    Black squares have no letters,
+    whereas white squares have one capital letter.
+    <P>
+<LI>The black squares of <b>S</b> and
+    the black squares of <b>G</b>
+    occur exactly in the same places of the corresponding grids.
+    <P>
+<LI>Let a <I>vertical word</I> of <b>S</b> 
+    be any contiguous sequence of two or more letters
+    that occur in a column of <b>S</b>
+    (from top to bottom), 
+    that starts 
+    on the first square of the column
+    or immediately after a black square, and 
+    that ends 
+    on the last square of the column
+    or immediately before a black square.
+    <BR>
+    Similarly, 
+    let a <I>horizontal word</I> of <b>S</b> 
+    be any contiguous sequence of two or more letters
+    that occur in a line of <b>S</b>
+    (from left to right), 
+    that starts 
+    on the first square of the line
+    or immediately after a black square, and 
+    that ends 
+    on the last square of the line 
+    or immediately before a black square.
+    <BR>
+    Then, 
+    every (vertical or horizontal) word of <b>S</b>
+    occurs only once, and
+    the set of all (vertical or horizontal) words of <b>S</b>
+    is equal to <b>W</b>.
+</UL>
+
+
+
+<FONT color="#0000FF">
+<H2>Problem</H2>
+</FONT>
+
+<p>
+Write a program that,
+given a Kriss Kross Puzzle with a unique solution,
+computes its solution. 
+
+
+
+<FONT color="#0000FF">
+<H2>Input</H2>
+</FONT>
+
+<p>
+The first line contains an integer <B>L</B> (2 &lt; <B>L</B> &lt;= 20), 
+which is the number of lines of the puzzle grid.
+
+<P>
+The second line contains an integer <B>C</B> (2 &lt; <B>C</B> &lt;= 20), 
+which is the number of columns of the puzzle grid.
+
+<P>
+Each of the following <B>L</B> lines contains <B>C</B> characters.
+A character is:
+<UL>
+<LI>either the symbol &quot;<samp>0</samp>&quot;, 
+    which represents a white square;
+<LI>or the symbol &quot;<samp>1</samp>&quot;, 
+    which represents a black square.
+</UL>
+
+<P>
+The next line contains an integer <B>N</B> (4 &lt; <B>N</B> &lt;= 100), 
+which is the size of the set of words.
+
+<P>
+Each of the following <B>N</B> lines contains a word. 
+A word is a sequence of at least two capital letters,
+whose length does not exceed the maximum of <B>L</B> and <B>C</B>.
+
+<P>
+The list of words is known to be ordered by length
+(smaller words appear first).
+
+
+<FONT color="#0000FF">
+<H2>Output</H2>
+</FONT>
+
+<p>
+The output is the solution of the
+Kriss Kross Puzzle.
+It consists of <B>L</B> lines.
+
+<P>
+Each line contains <B>C</B> characters,
+which are 
+either a capital letter, 
+or the symbol &quot;<samp>1</samp>&quot; 
+(which represents a black square).
+
+
+<FONT color="#0000FF">
+<H2>Sample Input</H2>
+</FONT>
+
+<PRE>
+4
+6
+010001
+001000
+000100
+010000
+12
+LA
+DO
+NO
+ON
+AM
+CAR
+GAS
+ROD
+MUG
+RULE
+MORE
+ONES
+</PRE>
+
+
+<FONT color="#0000FF">
+<H2>Sample Output</H2>
+</FONT>
+
+<PRE>
+M1CAR1
+ON1MUG
+ROD1LA
+E1ONES
+</PRE>
+
+
+<BR>
+<HR>
+<FONT SIZE=3D4>
+<center>
+Concurso de Programação da Universidade do Porto'2004<br>
+CPN'2004: 
+Segundo Concurso de Programação da Nova <BR>
+Março de 2004 <br>
+Departamento de Informática <br> 
+Faculdade de Ciências e Tecnologia <br>
+Universidade Nova de Lisboa
+</center>
+</font>
+<HR>
+
+</BODY>
+</HTML>

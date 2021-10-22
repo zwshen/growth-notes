@@ -1,0 +1,402 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Driving in City Squares</TITLE>
+<META NAME="description" CONTENT="Driving in City Squares">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Driving in City Squares</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The city <EM>AllSquared</EM> has been designed by many famous architects and engineers. 
+The city
+lays in a retangular area of 
+<!-- MATH: $n \times m$ -->
+<IMG
+ WIDTH="52" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img1.gif"
+ ALT="$n \times m$">
+squared miles (<I>n</I> refers to the retangle 
+basis, and <I>m</I> to
+its height). The streets are horizontal divisions distributed uniformly at every one 
+mile, and
+the avenues are vertical divisions also uniformly distributed at every one mile. 
+Streets are
+numbered from north to south, starting from zero; avenues from west to east, also 
+starting
+from zero.
+
+<P>
+The figure (a) below portrays the city layout for <I>n</I> = 11 and <I>m</I> = 8. The city is also
+
+<P>
+
+<P>
+<BR>
+
+<P>
+
+ 
+
+ 
+#1#2#3#4#5
+@font#1#2pt
+#3#4#5
+
+
+ 
+<BR>
+<IMG
+ WIDTH="675" HEIGHT="249" ALIGN="BOTTOM" BORDER="0"
+ SRC="774img2.gif"
+ ALT="\begin{picture}(6525,2415)(361,-1951)
+%\linethickness{.1in}
+\thinlines
+\put(21...
+...mash{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}(b)}}}
+\end{picture}">
+<BR>
+
+<P>
+
+<P>
+
+<P>
+<BR>
+divided in horizontal and vertical strips, with the intersection of these strips 
+defining the
+city subregions (counties). Figure (b) pictures a city divided into 12 counties.
+
+<P>
+Every county is associated with a vehicle circulation fee, which should be paid every 
+time
+a car enters the county. If the car origin is a street or avenue delimiting the county, 
+there
+is no fee. For example, in the above figure a car whose origin is street = 2 and 
+avenue = 3
+and whose target is street = 2 and avenue = 9 will have to pay only the county 
+crossing fee
+relative to avenue 6.
+
+<P>
+
+<P>
+<BR>
+You should write a program that has the following input:
+<UL>
+<LI>two strictly positive integers <I>n</I> and <I>m</I> specifying the city dimensions;
+<LI>two positive integers  <I>h</I> and <I>v</I> specifying the number of horizontal and vertical strips,
+respectively (for the city in the figure, 
+<!-- MATH: $h = 4, v = 3$ -->
+<I>h</I> = 4, <I>v</I> = 3);
+<LI><I>h</I> - 1 integers 
+<!-- MATH: $s_1, \dots, s_{h-1}$ -->
+<IMG
+ WIDTH="93" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img3.gif"
+ ALT="$s_1, \dots, s_{h-1}$">
+(
+<!-- MATH: $1 \le s_i \le n - 1$ -->
+<IMG
+ WIDTH="114" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img4.gif"
+ ALT="$1 \le s_i \le n - 1$">)
+which denote the streets in which there is a
+county division line (in the previous figure, the numbers are 1, 6, and 7);
+<LI><I>v</I> - 1 integers 
+<!-- MATH: $a_1, \dots, a_{v-1}$ -->
+<IMG
+ WIDTH="94" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img5.gif"
+ ALT="$a_1, \dots, a_{v-1}$">
+(
+<!-- MATH: $1 \le a_i \le m - 1$ -->
+<IMG
+ WIDTH="120" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img6.gif"
+ ALT="$1 \le a_i \le m - 1$">)
+which denote the avenues in which there is
+a county division line (in the the previous figure, the numbers are 3 and 6);
+<LI>the circulation fees for each county in the city, i.e., <I>h</I> * <I>v</I> positive real numbers
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+\begin{array}{l}
+p_{11}, p_{12}, \dots, p_{1v} \\
+p_{21}, p_{22}, \dots, p_{2v} \\
+\dots \\
+p_{h1}, p_{h2}, \dots, p_{hv}
+\end{array}
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="119" HEIGHT="93"
+ SRC="774img7.gif"
+ ALT="\begin{displaymath}\begin{array}{l}
+p_{11}, p_{12}, \dots, p_{1v} \\
+p_{21}, p_...
+... p_{2v} \\
+\dots \\
+p_{h1}, p_{h2}, \dots, p_{hv}
+\end{array}\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+where <I>p</I><SUB><I>ij</I></SUB> is the circulation fee for the county delimited by <I>a</I><I>i</I>-1 (west),
+<I>a</I><SUB><I>i</I>+1</SUB>
+(east), <I>s</I><SUB><I>j</I>-1</SUB> (north), and <I>s</I><SUB><I>j</I>+1</SUB> (south);
+<LI>two pairs of positive integers 
+<!-- MATH: $local_1 = (str_1, av_1)$ -->
+<I>local</I><SUB>1</SUB> = (<I>str</I><SUB>1</SUB>, <I>av</I><SUB>1</SUB>) e 
+<!-- MATH: $local_2 = (str_2,av_2)$ -->
+<I>local</I><SUB>2</SUB> = (<I>str</I><SUB>2</SUB>,<I>av</I><SUB>2</SUB>)</UL>
+
+<P>
+The output should be the smallest possible price to pay for going from local 1 to local 2 .
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input format may contain several instances of the problem. Each instance is terminated
+by a line starting with % (percentage symbol).
+
+<P>
+The description for one instance has the following format:
+
+<P>
+<TABLE CELLPADDING=3>
+<TR><TD ALIGN="CENTER"><I>n</I></TD>
+<TD ALIGN="CENTER"><I>m</I></TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="CENTER"><I>h</I></TD>
+<TD ALIGN="CENTER"><I>v</I></TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="CENTER"><I>s</I><SUB>1</SUB></TD>
+<TD ALIGN="CENTER"><I>s</I><SUB>2</SUB></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="774img9.gif"
+ ALT="$\dots$"></TD>
+<TD ALIGN="CENTER"><I>s</I><SUB><I>h</I>-1</SUB></TD>
+</TR>
+<TR><TD ALIGN="CENTER"><I>a</I><SUB>1</SUB></TD>
+<TD ALIGN="CENTER"><I>a</I><SUB>2</SUB></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="774img9.gif"
+ ALT="$\dots$"></TD>
+<TD ALIGN="CENTER"><I>a</I><SUB><I>v</I>-1</SUB></TD>
+</TR>
+<TR><TD ALIGN="CENTER"><I>p</I><SUB>11</SUB></TD>
+<TD ALIGN="CENTER"><I>p</I><SUB>12</SUB></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="774img9.gif"
+ ALT="$\dots$"></TD>
+<TD ALIGN="CENTER"><I>p</I><SUB>1<I>v</I></SUB></TD>
+</TR>
+<TR><TD ALIGN="CENTER"><I>p</I><SUB>21</SUB></TD>
+<TD ALIGN="CENTER"><I>p</I><SUB>22</SUB></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="774img9.gif"
+ ALT="$\dots$"></TD>
+<TD ALIGN="CENTER"><I>p</I><SUB>2<I>v</I></SUB></TD>
+</TR>
+<TR><TD ALIGN="CENTER"><IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="774img9.gif"
+ ALT="$\dots$"></TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="CENTER"><I>p</I><SUB><I>h</I>1</SUB></TD>
+<TD ALIGN="CENTER"><I>p</I><SUB><I>h</I>2</SUB></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="774img9.gif"
+ ALT="$\dots$"></TD>
+<TD ALIGN="CENTER"><I>p</I><SUB><I>hv</I></SUB></TD>
+</TR>
+<TR><TD ALIGN="CENTER"><I>w</I><SUB>1</SUB></TD>
+<TD ALIGN="CENTER"><I>t</I><SUB>1</SUB></TD>
+<TD ALIGN="CENTER"><I>w</I><SUB>2</SUB></TD>
+<TD ALIGN="CENTER"><I>t</I><SUB>2</SUB></TD>
+</TR>
+<TR><TD ALIGN="CENTER"><TT> %</TT></TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+where
+<UL>
+<LI>
+<!-- MATH: $n, m, h, v$ -->
+<I>n</I>, <I>m</I>, <I>h</I>, <I>v</I> are integers such that 
+<!-- MATH: $0 < n, 0 < m, 0 < h \le n, 0 < v \le m$ -->
+<IMG
+ WIDTH="273" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img10.gif"
+ ALT="$0 < n, 0 < m, 0 < h \le n, 0 < v \le m$">;
+<LI>
+<!-- MATH: $s_1, \dots, s_{h - 1}$ -->
+<IMG
+ WIDTH="93" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img3.gif"
+ ALT="$s_1, \dots, s_{h-1}$">
+are such that 
+<!-- MATH: $1 \le s_i \le n - 1$ -->
+<IMG
+ WIDTH="114" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img4.gif"
+ ALT="$1 \le s_i \le n - 1$">
+for 
+<!-- MATH: $1 \le i \le h - 1$ -->
+<IMG
+ WIDTH="106" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img11.gif"
+ ALT="$1 \le i \le h - 1$">;
+<LI>
+<!-- MATH: $a_1, \dots, a_{v - 1}$ -->
+<IMG
+ WIDTH="94" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img5.gif"
+ ALT="$a_1, \dots, a_{v-1}$">
+are such that 
+<!-- MATH: $1 \le a_i \le m - 1$ -->
+<IMG
+ WIDTH="120" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img6.gif"
+ ALT="$1 \le a_i \le m - 1$">
+for 
+<!-- MATH: $1 \le v - 1$ -->
+<IMG
+ WIDTH="76" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img12.gif"
+ ALT="$1 \le v - 1$">;
+<LI><I>p</I><SUB><I>ij</I></SUB> are positive real numbers;
+<LI>
+<!-- MATH: $w_1, t_1, w_2, t_2$ -->
+<I>w</I><SUB>1</SUB>, <I>t</I><SUB>1</SUB>, <I>w</I><SUB>2</SUB>, <I>t</I><SUB>2</SUB> are integers such that 
+<!-- MATH: $0 \le w_1, w_2 \le n$ -->
+<IMG
+ WIDTH="118" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img13.gif"
+ ALT="$0 \le w_1, w_2 \le n$">
+and 
+<!-- MATH: $0 \le t_1, t_2 \le m$ -->
+<IMG
+ WIDTH="110" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="774img14.gif"
+ ALT="$0 \le t_1, t_2 \le m$">.
+ (<I>w</I><SUB>1</SUB>, <I>t</I><SUB>1</SUB>) is the
+origin and (<I>w</I><SUB>2</SUB>, <I>t</I><SUB>2</SUB>) is the target point for the problem;
+<LI>there can be an arbitrary number of spaces or empty lines between the numbers in the
+file.
+</UL>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For an input file with <I>k</I> instances of the problem, the output file should follow the format:
+
+<P>
+
+<I>c</I><SUB>1</SUB>
+
+<P>
+
+<I>c</I><SUB>2</SUB>
+
+<P>
+
+<IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="774img9.gif"
+ ALT="$\dots$">
+
+<P>
+
+<I>c</I><SUB><I>k</I></SUB>
+
+<P>
+where <I>c</I><SUB><I>i</I></SUB> is the result for the <I>i</I><SUP><I>th</I></SUP> instance in the input file.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+100 100
+3 4
+30 60
+10 70 80
+5 100 1 20
+1 100 1 20
+1 1 1 20
+5 5 10 75
+%
+11 8
+4 3
+1 6 7
+3 6
+10 10 10
+10 10 10
+10 10 10
+10 10 10
+2 3 2 9
+%
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+6
+10
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-12-30</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

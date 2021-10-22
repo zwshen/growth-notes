@@ -1,0 +1,175 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Can U Win?</TITLE>
+<META NAME="description" CONTENT="Can U Win?">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Can U Win?</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+You are playing Chess with your little sister. Unfortunately She is too smart for you.
+You are about to lose with only a King and a Knight. Your sister is mad about `panju muttai' 
+(also known as cotton candy). `panju muttai'-seller has just come and ur sister went out to have 
+her `panju muttai'. You are a honest person and have promised yourself to be honest.
+But you are also wily. You pacify your conscience that your sister is passing her moves (yes, 
+that version of chess allows you to pass your move) and make `legal' moves !! 
+
+<P>
+You found that, due to unknown reasons, your sister will lose if and only if she loses all her pawns. 
+you also found that you cannot make moves which kills coins other than pawns when she is away. 
+<B>Can U</B> Ensure your <B>Win</B> making not more than <SPAN CLASS="MATH"><I>n</I></SPAN>
+<tex2html_verbatim_mark> legal (or illegal?) moves before your sister returns?
+
+<P>
+The Coins are represented as follows:
+
+<P>
+<DL COMPACT>
+<DT></DT>
+<DD>Your King = `<TT>K</TT>'
+</DD>
+<DT></DT>
+<DD>Your Knight = `<TT>k</TT>'
+</DD>
+<DT></DT>
+<DD>Enemy Pawns = `<TT>P</TT>'
+</DD>
+<DT></DT>
+<DD>Other Enemy Pieces = `<TT>p</TT>'
+</DD>
+<DT></DT>
+<DD>Empty Location = `<TT>.</TT>'
+</DD>
+</DL>
+
+<P>
+
+<P>
+<BR>
+
+<SPAN  CLASS="textbf">Constraints</SPAN>
+
+<P>
+
+<UL>
+<LI>Your King can be moved only when your sister is present 
+</LI>
+<LI>Knight should make only valid chess moves (ie. `L' shaped moves)
+</LI>
+<LI>There will be 1 `<TT>K</TT>', 1 `<TT>k</TT>', 0 to 8 `<TT>P</TT>'s, 0 to 8 `<TT>p</TT>'s in the board
+</LI>
+</UL>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line has an integer <SPAN CLASS="MATH"><I>t</I></SPAN>
+<tex2html_verbatim_mark>, giving the number of test cases. <!-- MATH
+ $1 < t \le 100$
+ -->
+<SPAN CLASS="MATH">1 &lt; <I>t</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11405img1.png"
+ ALT="$ \le$">100</SPAN>
+<tex2html_verbatim_mark>.
+
+<P>
+Each test case described as follows:
+
+<P>
+First line gives value of `<SPAN CLASS="MATH"><I>n</I></SPAN>
+<tex2html_verbatim_mark>' (the number of moves after which the sister will come). 
+
+<P>
+Next 8 lines contain 8 characters each describing the board. 
+
+<P>
+A Blank line comes before each test case.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For Each test case,
+
+<P>
+In a single line, print `<TT>Yes</TT>' if you can win making not more than <SPAN CLASS="MATH"><I>n</I></SPAN>
+<tex2html_verbatim_mark> moves or `<TT>No</TT>' if you cannot.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2
+3
+...pP...
+..P..k.K
+p.....p.
+...p....
+...p....
+........
+.p......
+........
+2
+.....kp.
+........
+...Kp...
+.P...p..
+.p.....p
+...p....
+........
+.p......
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+Yes
+No
+</PRE> 
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

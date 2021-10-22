@@ -1,0 +1,45 @@
+<body TEXT="#000000" BGCOLOR="#FFFFFF" >
+<img src=p10224.jpg align=right>
+<h2>Problem A:  Return of the Jedi</h2> 
+
+Luke Skywalker races through the forest on a speeder bike, trying to
+outrun a patrol of Imperial scouts on Endor. A small moon near a new
+Death Star, Endor is covered by dense foliage and a thick forest of
+ancient towering trees. The speeder bike , which Luke stole from an
+Imperial scout, is an antigravity vehicle capable of speeds of 200
+miles an hour.  How quickly can Luke reach Princess Leia in the Ewok
+village?
+<p>
+The forest is a plane with T trees.  Luke's position
+is specified by a pair of coordinates ( x<sub>luke</sub> , y<sub>luke</sub> ) within the plane.  The
+Ewok village has coordinates ( x<sub>ewok</sub> , y<sub>ewok</sub> ).
+You are to find the shortest travel time from Luke's position to
+the Ewok village.
+<p>
+The first line of input contains the number of test cases followed by a blank
+line. The first line of each
+test case&nbsp; contain T,  x<sub>luke</sub> ,
+y<sub>luke</sub>  x<sub>ewok</sub> , y<sub>ewok</sub> .
+T lines follow; each gives the coordinates and diameter of a tree:
+x<sub>tree<sub>i</sub></sub> , y<sub>tree<sub>i</sub></sub> , d<sub>tree<sub>i</sub></sub> .  T is an integer not exceeding 10; coordinates and diameters
+are real numbers in miles.  Trees do not intersect or touch one another. There
+is a blank line between each consecutive test case.
+<p>
+For each test case output is a single real number, to two decimal places, giving the minimum
+travel time in seconds. Print a blank line<br>
+between 2 consecutive data sets.
+<h3>
+Sample Input
+</h3>
+<pre>1
+
+2 0.0 0.0 10.0 0.0
+4.0 0.0 1.0
+6.0 0.0 1.0
+</pre>
+<h3>
+Output for Sample Input
+</h3>
+<pre>
+181.13
+</pre>

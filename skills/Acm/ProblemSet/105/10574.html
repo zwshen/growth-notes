@@ -1,0 +1,352 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="h_files/filelist.xml">
+<link rel=Edit-Time-Data href="h_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem H : Powerful Magic Squares</title>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Courier;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:135 0 0 0 27 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+h3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:14.0pt;
+	font-family:Arial;
+	color:windowtext;
+	font-weight:normal;}
+h5
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:11.0pt;
+	font-family:"Courier New";
+	color:black;
+	font-weight:bold;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:windowtext;
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:windowtext;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:24.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+a:link, span.MsoHyperlink
+	{color:#6633CC;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	color:windowtext;}
+p.preformatted, li.preformatted, div.preformatted
+	{mso-style-name:preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	color:windowtext;}
+p.iosample, li.iosample, div.iosample
+	{mso-style-name:iosample;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	font-size:10.0pt;
+	font-family:Courier;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:windowtext;}
+span.stylearial16pt
+	{mso-style-name:stylearial16pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:.8in .8in .8in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]-->
+</head>
+
+<body lang=EN-US link="#6633CC" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<h1 align=center style='text-align:center'><b><span style='font-size:28.0pt;
+font-family:Arial;font-style:normal'>Problem H</span></b></h1>
+
+<h2 align=center style='text-align:center'><span style='font-size:20.0pt;
+font-family:Arial'>Counting Rectangles</span></h2>
+
+<h3><b><span style='font-size:12.0pt'>Input:</span></b><span style='font-size:
+12.0pt'> Standard Input</span></h3>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:Arial'>Output:</span></b><span style='font-family:Arial'>
+Standard Output </span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:Arial'>Time Limit: </span></b><span style='font-family:Arial'>3
+Seconds</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b>&nbsp;</b></p>
+
+<p class=MsoNormal style='text-align:justify'>Given <b>n</b> points on the <b
+style='mso-bidi-font-weight:normal'>XY</b> plane, count how many regular rectangles
+are formed. A rectangle is regular if and only if its sides are all parallel to
+the axis.</p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt;
+font-family:Arial;color:windowtext'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
+font-family:Arial'>Input</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='color:windowtext'>The
+first line contains the number of tests <span class=GramE><b>t(</b></span><b>1&lt;=t&lt;=10)</b>.
+Each case contains a single line with a positive integer <span class=GramE><b>n</b>(</span><b>1</b>&lt;=<b>n</b>&lt;=<b>5000</b>),
+the number of points. There are <b>n</b> lines follow, each line contains <b>2</b>
+integers <b>x</b>, <b>y </b>(<b>0</b>&lt;=<b>x</b>, <b>y</b>&lt;=<b>10<sup>9</sup></b>)
+indicating the coordinates of a point.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:18.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
+font-family:Arial'>Output</span></b></p>
+
+<p class=MsoNormal style='text-autospace:none'><span style='color:windowtext'>For
+each test case, print the case number and a single integer, the number of
+regular rectangles found.</span></p>
+
+<p class=MsoNormal style='text-autospace:none'><span style='font-size:10.0pt;
+font-family:"Courier New";color:windowtext'>&nbsp;</span></p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+font-family:Arial;font-style:normal'>Sample
+Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Output for Sample Input</span></b></h1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='background:#CCCCCC;border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+  <td width=307 valign=top style='width:3.2in;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>2</span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>5</span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>0 <span class=SpellE>0</span></span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>2 0</span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>0 2</span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>2 <span class=SpellE>2</span></span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>1 <span class=SpellE>1</span></span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>3</span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>0 <span class=SpellE>0</span></span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>0 30</span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>0 900</span></b></p>
+  </td>
+  <td width=309 valign=top style='width:231.85pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>Case 1: 1</span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>Case 2: 0</span></b></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='mso-ansi-language:EN'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<p class=MsoCaption><span class=SpellE>Problemsetter</span>: <span
+class=SpellE>Rujia</span> Liu, Member of Elite <span class=SpellE>Problemsetters</span>'
+Panel</p>
+
+<p class=MsoNormal><b>Special Thanks: IOI2003 China National Training Team</b></p>
+
+<p class=MsoNormal><b>&nbsp;</b></p>
+
+</div>
+
+</body>
+
+</html>

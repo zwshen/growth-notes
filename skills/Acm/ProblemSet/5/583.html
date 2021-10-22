@@ -1,0 +1,224 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Prime Factors</TITLE>
+<META NAME="description" CONTENT="Prime Factors">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Prime Factors</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+Webster defines <EM>prime</EM> as:
+
+<P>
+
+<P>
+<BR>
+
+<B>prime</B> (prim) <I>n</I>.[<B>ME</B>, fr. <B>MF</B>, fem. of <EM>prin</EM> first, <B>L</B> <EM>primus</EM>; akin to <B>L</B> <EM>prior</EM>] <B>1</B> :first in time:
+<B>original 2 a</B> : having no factor except itself and one <IMG
+ WIDTH="11" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="583img1.gif"
+ ALT="$\langle$">3 is a &nbsp;  number <IMG
+ WIDTH="11" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="583img2.gif"
+ ALT="$\rangle$">
+<B>b</B> : having no common
+factor except one <IMG
+ WIDTH="11" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="583img1.gif"
+ ALT="$\langle$">
+12 and 25 are relatively &nbsp;<IMG
+ WIDTH="11" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="583img2.gif"
+ ALT="$\rangle$">
+<B>3 a</B> : first in rank, authority or significance
+: <B>principal b</B> : having the highest quality or value <IMG
+ WIDTH="11" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="583img1.gif"
+ ALT="$\langle$">&nbsp; television time <IMG
+ WIDTH="11" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="583img2.gif"
+ ALT="$\rangle$">
+[from <EM>Webster's New Collegiate Dictionary</EM>]
+
+<P>
+
+<P>
+<BR>
+The most relevant definition for this problem is 2a: An integer <I>g</I>&gt;1 is said to be <EM>prime</EM> if
+and only if its only positive divisors are itself and one (otherwise it is said to be <EM>composite</EM>). For
+example, the number 21 is composite; the number 23 is prime. Note that the decompositon of
+a positive number <I>g</I> into its prime factors, i.e.,
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+g = f_1 \times f_2 \times \dots \times f_n
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="166" HEIGHT="30"
+ SRC="583img3.gif"
+ ALT="\begin{displaymath}g = f_1 \times f_2 \times \dots \times f_n
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+is unique if we assert that <I>f</I><SUB><I>i</I></SUB> &gt; 1 for all <I>i</I> and 
+<!-- MATH: $f_i \le f_j$ -->
+<IMG
+ WIDTH="57" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="583img4.gif"
+ ALT="$f_i \le f_j$">
+for <I>i</I>&lt;<I>j</I>.
+
+<P>
+One interesting class of prime numbers are the so-called <EM>Mersenne</EM> primes
+which are of the form 2<SUP><I>p</I></SUP>- 1. Euler proved that 
+<!-- MATH: $2^{31} - 1$ -->
+2<SUP>31</SUP> - 1 is prime in
+1772 -- all without the aid of a computer.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input will consist of a sequence of numbers. Each line of input will contain one number <I>g</I>
+in the range 
+<!-- MATH: $-2^{31} < g <2^{31}$ -->
+-2<SUP>31</SUP> &lt; <I>g</I> &lt;2<SUP>31</SUP>, but different of -1 and 1. The end of input
+will be indicated by an input line having a value of zero.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each line of input, your program should print a line of output consisting of the input number
+and its prime factors. For an input number 
+<!-- MATH: $g>0, g = f_1 \times f_2 \times
+\dots \times f_n$ -->
+<IMG
+ WIDTH="219" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="583img5.gif"
+ ALT="$g>0, g = f_1 \times f_2 \times
+\dots \times f_n$">,
+where each <I>f</I><SUB><I>i</I></SUB> is a prime
+number greater than unity (with 
+<!-- MATH: $f_i \le f_j$ -->
+<IMG
+ WIDTH="57" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="583img4.gif"
+ ALT="$f_i \le f_j$">
+for <I>i</I>&lt;<I>j</I>), the format of the output line 
+should be
+
+<P>
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+g  \mbox{\tt\ = }  f_1  \mbox{\tt\ x }  f_2  \mbox{\tt\ x } \dots \mbox{\tt\ x }  f_n
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="194" HEIGHT="30"
+ SRC="583img6.gif"
+ ALT="\begin{displaymath}g \mbox{\tt\ = } f_1 \mbox{\tt\ x } f_2 \mbox{\tt\ x } \dots \mbox{\tt\ x } f_n
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+When <I>g</I> &lt; 0, if  
+<!-- MATH: $\mid g \mid = f_1 \times f_2 \times \dots \times f_n$ -->
+<IMG
+ WIDTH="185" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="583img7.gif"
+ ALT="$ \mid g \mid = f_1 \times f_2 \times \dots \times f_n$">,
+the
+format of the output line should be 
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+g \mbox{\tt\ = -1 x }  f_1  \mbox{\tt\ x }  f_2  \mbox{\tt\ x } \dots
+\mbox{\tt\ x } f_n
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="239" HEIGHT="30"
+ SRC="583img8.gif"
+ ALT="\begin{displaymath}g \mbox{\tt\ = -1 x } f_1 \mbox{\tt\ x } f_2 \mbox{\tt\ x } \dots
+\mbox{\tt\ x } f_n
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+-190
+-191
+-192
+-193
+-194
+195
+196
+197
+198
+199
+200
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+-190 = -1 x 2 x 5 x 19
+-191 = -1 x 191
+-192 = -1 x 2 x 2 x 2 x 2 x 2 x 2 x 3
+-193 = -1 x 193
+-194 = -1 x 2 x 97
+195 = 3 x 5 x 13
+196 = 2 x 2 x 7 x 7
+197 = 197
+198 = 2 x 3 x 3 x 11
+199 = 199
+200 = 2 x 2 x 2 x 5 x 5
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-05-19</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

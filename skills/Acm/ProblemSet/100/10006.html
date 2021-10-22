@@ -1,0 +1,131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Carmichael Numbers</TITLE>
+<META NAME="description" CONTENT="Problem G: Carmichael Numbers">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Carmichael Numbers</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+An important topic nowadays in computer science is cryptography. Some people even 
+think
+that cryptography is the only important field in computer science, and that
+life would not matter at all without cryptography.
+
+Alvaro is one of such persons, and is designing a set of cryptographic
+procedures for cooking paella. Some of the cryptographic algorithms he is
+implementing make use of big prime numbers. However, checking if a big number
+is prime is not so easy. An exhaustive approach can require the division of
+the number by all the prime numbers smaller or equal than its square root. For
+big numbers, the amount of time and storage needed for such operations would
+certainly ruin the paella. 
+
+<P>
+However, some probabilistic tests exist that offer
+high confidence at low cost. One of them is the Fermat test.
+
+<P>
+Let <I>a</I> be a random number between 2 and <I>n</I> - 1 (being <I>n</I> the number whose
+primality we are testing). Then, <I>n</I> is probably prime if the following
+equation holds: 
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+a^n \bmod n = a
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="104" HEIGHT="27"
+ SRC="10006img1.gif"
+ ALT="\begin{displaymath}a^n \bmod n = a
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+If a number passes the Fermat test several times then it is prime with a high 
+probability.
+
+<P>
+Unfortunately, there are bad news. Some numbers that are not prime still pass
+the Fermat test with every number smaller than themselves. These numbers are
+called Carmichael numbers.
+
+<P>
+In this problem you are asked to write a program to test if a given number is
+a Carmichael number. Hopefully, the teams that fulfill the task will one day be
+able to taste a delicious portion of encrypted paella. As a side note, we need
+to mention that, according to Alvaro, the
+main advantage of encrypted paella over conventional paella is that nobody but you 
+knows
+what you are eating.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input will consist of a series of lines, each
+containing a small positive number <I>n</I> (
+<!-- MATH: $2 < n < 65000$ -->
+2 &lt; <I>n</I> &lt; 65000). A number <I>n</I> = 0 will
+mark the end of the input, and must not be processed. 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2> 
+For each number in the
+input, you have to print if it is a Carmichael number or not, as shown in the
+sample output. 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1729
+17
+561
+1109
+431
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+The number 1729 is a Carmichael number.
+17 is normal.
+The number 561 is a Carmichael number.
+1109 is normal.
+431 is normal.
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-21</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

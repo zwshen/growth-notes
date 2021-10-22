@@ -1,0 +1,137 @@
+<HTML>
+<HEAD>
+	<TITLE>Question 4: AutoFish</TITLE>
+</HEAD>
+<BODY>
+<H1>Question 4: AutoFish</H1>
+
+<H2>The Problem</H2>
+<P>
+
+You've built an amazing fish-catching robot, but you've discovered one
+small flaw: the robot can't decide whether to fish or cut bait.
+
+</P><P>
+
+You've designed a language for the Control of Oceangoing Devices (COD) which
+you plan to use to program the robot.
+COD has three instructions:
+<DL><DD>
+<TABLE>
+<TR>
+  <TH align=left> <TT> fish </TT>
+  <TH align=left> Fish for ten minutes.
+<TR>
+  <TH align=left> <TT> bait </TT>
+  <TH align=left> Cut bait for ten minutes.
+<TR>
+  <TH align=left> <TT> lunch </TT>
+  <TH align=left> No operation for ten minutes.
+</TABLE>
+</DL>
+
+</P><P>
+
+Bait is required to catch fish.
+The robot must cut bait for twenty minutes (execute two <TT>bait</TT>
+instructions) to generate a single <EM>bait unit</EM>, enough bait to
+catch a single fish.
+Other instructions (<TT>fish</TT> and <TT>lunch</TT>) may be interleaved
+between the two <TT>bait</TT> instructions that generate a bait unit.
+The robot has storage for three bait units; it cannot cut any more bait
+if it is already storing three bait units.
+If the robot is storing three bait units, a <TT>bait</TT> instruction is
+treated as if it were a <TT>lunch</TT> instruction (a NOP).
+Catching a fish consumes a bait unit.
+
+</P><P>
+
+Fish have deterministic behaviour.
+A fish cannot be caught more often than once every seventy minutes, and
+after a fish has been caught the robot must fish for thirty minutes before
+catching another fish (they get shy).
+In order to successfully complete a <TT>fish</TT> instruction, the robot must
+have a least one bait unit.
+If the robot has no bait, a <TT>fish</TT> instruction cannot be
+successfully completed and is treated as if it were a <TT>lunch</TT>
+instruction.
+When the robot first starts fishing, a fish is caught on the first
+<TT>fish</TT> instruction that completes (beginner's luck).
+If at least one fish has already been caught then a fish is caught on the
+completion of a <TT>fish</TT> instruction if and only if: 1) the <TT>fish</TT>
+instruction is at least the seventh COD instruction executed since the last
+instruction on which a fish was caught, and 2) the <TT>fish</TT> instruction
+is at least the third <TT>fish</TT> instruction successfully completed since
+the last instruction on which a fish was caught.
+
+</P><P>
+
+The execution of a <TT>lunch</TT> instruction allows time to pass, but has
+no other purpose.
+
+</P><P>
+
+The robot starts with no bait; no fish have been caught.
+<H2>Input</H2>
+
+<b>
+The input begins with a single positive integer on a line by itself indicating 
+the number of the cases following, each of them as described below. 
+This line is followed by a blank line, and there is also a blank line between 
+two consecutive inputs.
+</b>
+<p>
+<p>
+
+
+Input consists of a sequence of <TT>fish</TT>, <TT>bait</TT> and <TT>lunch</TT>
+instructions, terminated by the end-of-file.
+
+<H2>Output</H2>
+
+<b>
+For each test case, the output must follow the description below. 
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+Output is a line containing a single integer, indicating the number of
+fish the robot has caught at the end of the sequence.
+
+</P>
+
+<H2>Sample Input</H2>
+
+<PRE>
+1
+
+fish
+fish
+lunch
+bait
+fish
+bait
+fish
+bait
+bait
+fish
+fish
+fish
+fish
+lunch
+lunch
+lunch
+lunch
+fish
+fish
+fish
+</PRE>
+
+<H2>Sample Output</H2>
+
+<PRE>
+2
+</PRE>
+
+</BODY>
+</HTML>

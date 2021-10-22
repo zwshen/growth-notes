@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+  <title>Dihedral groups</title>
+</head>
+<body>
+<center> 2006/2007 ACM International Collegiate Programming Contest <br>
+University of Ulm Local Contest
+<p> </p>
+<h1>Dihedral groups</h1>
+</center>
+<p>Consider <i>n</i> points on a unit circle with numbers
+<i>k = 0, </i>1<i>, &#133;, n-</i>1.
+Initially point <i>k</i> makes an angle of
+<i>360 &middot; k / n</i> 
+ degrees to the
+x-axis,
+measured in counter-clockwise direction.
+We are going to perform two different kind of operations on that set
+of points:</p>
+<ul>
+  <li>rotation by <i>360 / n</i> degrees in clockwise direction</li>
+  <li>reflection with respect to the x-axis</li>
+</ul>
+<p>The following picture shows an example of these operations:</p>
+<center><img alt="" src="p11051.png"</img>
+ </center>
+<p>Given a sequence of operations, we are interested in the shortest
+sequence of operations which gives the same result, i.e., the position
+of every single point is the same
+after performing either of those sequences of operations.
+</p>
+<p>The sequence is given as a string consisting of the characters 'r'
+and 'm' which represent clockwise rotation and reflection
+respectively ("to the right" and "mirror").
+Multiple consecutive occurrences of the same character are collected
+into the representation
+&lt;character&gt;&lt;number&gt;, and for convenience this will also be
+done for single occurrences.
+So "rrmrrrrrrrrrrrr" will be abbreviated to "r2 m1 r12".
+The representations of different operations are always separated by a single space.
+</p>
+<h4>Input Specification</h4>
+<p>The input consists of several test cases.
+Each test case starts with a line containing <i>n</i> (<i>3 &le; n &le; 10<sup>8</sup></i>), the
+number of points.
+The second line of each test case consists of an abbreviated
+sequence of operations as described above. 
+All numbers will be positive and less than <i>10<sup>8</sup></i>.
+There will be no empty line in the input, and no line will contain more than <i>100000</i> characters.
+The last test case is followed by a line containing 0.
+</p>
+<h4>Output Specification</h4>
+<p>For each test case print one line containing the abbreviated
+format of the sequence with the minimum number of operations which
+results in the same configuration of points as the
+input sequence. In case of multiple optimal solutions, print any
+solution.
+</p>
+<h4>Sample Input</h4>
+<pre>4
+r2
+100
+m1 r100 m1
+54
+r218 m3 r1
+0
+</pre>
+<h4>Sample Output</h4>
+<pre>r2
+
+r1 m1
+</pre>
+<hr>
+<i>Note that the second line of the sample output is a blank line</i>
+</body>
+</html>

@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>DNA Sorting</TITLE>
+<META NAME="description" CONTENT="DNA Sorting">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+DNA Sorting</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+One measure of ``unsortedness'' in a sequence is the number of
+pairs of entries that are out of
+order with respect to each other. For instance, in the letter
+sequence ``<TT>DAABEC</TT>'', this measure
+is 5, since <TT>D</TT> is greater than four letters to its right and <TT>E</TT>
+is greater than one letter to its right.
+This measure is called the number of inversions in the sequence.
+The sequence ``<TT>AACEDGG</TT>'' has
+only one inversion (<TT>E</TT> and <TT>D</TT>)--it is nearly sorted--while the
+sequence ``<TT>ZWQM</TT>'' has 6 inversions
+(it is as unsorted as can be--exactly the reverse of sorted).
+
+<P>
+
+<P>
+<BR>
+You are responsible for cataloguing a sequence of DNA strings (sequences
+containing only the
+four letters <TT>A</TT>, <TT>C</TT>, <TT>G</TT>, and <TT>T</TT>). However, you want to catalog them,
+not in alphabetical order, but
+rather in order of ``sortedness'', from ``most sorted''
+to ``least sorted''. All the strings are of the same length.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input is an integer M, then a blank line followed by
+M datasets. There is a blank line between datasets.
+
+<p>The first line of each dataset contains two integers: a positive integer <I>n</I> (
+<!-- MATH: $0 < n \le 50$ -->
+<IMG
+ WIDTH="88" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="612img1.gif"
+ ALT="$0 < n \le 50$">)
+giving the length of the
+strings; and a positive integer <I>m</I> (
+<!-- MATH: $0 < m \le 100$ -->
+<IMG
+ WIDTH="101" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="612img2.gif"
+ ALT="$0 < m \le 100$">)
+giving the number
+of strings. These are followed
+by <I>m</I> lines, each containing a string of length <I>n</I>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each dataset, output the list of input strings, arranged from ``most sorted'' to
+``least sorted''. If two or more strings
+are equally sorted, list them in the same order they are in the input file.
+
+<P>
+Print a blank line between consecutive test cases.
+<p>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+
+10 6
+AACATGAAGG
+TTTTGGCCAA
+TTTGGCCAAA
+GATCAGATTT
+CCCGGGGGGA
+ATCGATGCAT
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+CCCGGGGGGA
+AACATGAAGG
+GATCAGATTT
+ATCGATGCAT
+TTTTGGCCAA
+TTTGGCCAAA
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-03-24</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

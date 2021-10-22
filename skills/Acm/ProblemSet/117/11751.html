@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+
+
+	<title>Problem J: Installing Diagnostic Software</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head><body>
+
+<h2>Problem J: Installing Diagnostic Software</h2>
+
+<font color="white"><img src="p11751.gif" width="400" align="right" border="5"></font>
+<p>You have recently been appointed as the administrator for a wired
+network of devices. Unfortunately, your predecessor used very poor
+quality lines to connect the devices. The board of executives is
+currently deciding if they want to fund an upgrade to a wireless
+network, or simply replace the existing wires with ones of better
+quality. As expected, this decision is being weighed down with
+bureaucratic nonsense; it looks like it will take some time before
+anything is approved.
+</p>
+<p>Meanwhile, you still have to deal with the problem at hand. You have
+access to an antiquated version of Newton Network Monitor which is a
+software package that, once installed on a machine, will monitor all
+lines connected to that machine and immediately alert the user when a
+line has failed. This should help reduce your response time to any
+failures.
+</p>
+<p>Your task is to install the software on some machines so each line
+is being monitored by at least one of its endpoint devices. For various
+technical reasons, the time it takes to install the software varies
+from device to device so you want to minimize the total amount of time
+spent installing the software. You cannot install on more than one
+machine at a time (since you only have one copy of the software)
+meaning the total time spent installing the software is exactly the sum
+of the installation times on each machine. </p>
+<h3>Input Format</h3>
+<p>Each input case begins with two numbers n,m with 1 ≤ n ≤ 1,000 and 0
+≤ m ≤ 25,000. Following this are m pairs of distinct integers between 0
+and n-1 which describe a wire connecting the two devices. The time
+spent installing the software on machine numbered i is 2<sup>i</sup>.  The input is terminated with n = m = 0; this should not be processed. 
+</p>
+<h3>Output Format</h3>
+<p>For each input case, there is to be one line of output containing a
+sequence of n bits with no spaces. The i'th bit is 1 if the software is
+installed on machine i, and 0 if not.
+</p>
+<h3>Sample Input</h3>
+<pre>3 2
+0 2
+1 2
+3 1
+1 2
+0 0
+</pre>
+<h2>Sample Output</h2>
+<pre>110
+010
+</pre>
+<hr>
+<em>Zachary Friggstad</em>
+
+</body></html>

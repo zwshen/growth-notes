@@ -1,0 +1,48 @@
+<html>
+<title>Problem F - The primary problem.</title>
+
+<h2>Problem F: The primary problem.</h2>
+
+<img src="p10948.jpg" align="right" hspace=10 vspace=10 width=400>
+Larry now lost most of his knowledge after spending a few years on deserted islands all over the place.  When Ryan brought
+up the fact that every even number greater than 3 can represented as the sum of two prime numbers, he couldn't believe it!  
+So now Larry is trying to come up with some kind of counterexample, and you can help him!
+<h3>Input</h3>
+Each line will contain an integer <b>N</b> greater than 3.  The input will terminate when <b>N</b> is 0.  <b>N</b> will not be
+bigger than 1 million.
+<h3>Output</h3>
+For each test case, output one way of summing two prime numbers.  If there are more than one set of sums for which this is true,
+choose the set of sum the maximizes the difference between them.  See the sample output.
+If a number cannot be represented as the sum of two prime number, print "NO WAY!" as below:
+<BR><BR>
+<h3>Sample Input</h3>
+<PRE>
+4
+5
+6
+7
+9
+10
+11
+0
+</PRE>
+<h3>Sample Output</h3>
+<PRE>
+4:
+2+2
+5:
+2+3
+6:
+3+3
+7:
+2+5
+9:
+2+7
+10:
+3+7
+11:
+NO WAY!
+</PRE>
+
+Note:<BR>
+10 can be 3+7 or 5+5, and since 7-3 is bigger than 5-5, we choose 3+7.

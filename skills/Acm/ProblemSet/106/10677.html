@@ -1,0 +1,336 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0051)http://www.cs.lth.se/contest/html01/ProblemBase.htm -->
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./e_files/filelist.xml">
+<link rel=Edit-Time-Data href="./e_files/editdata.mso">
+<link rel=OLE-Object-Data href="./e_files/oledata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem E - Base Equality</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>andreasb</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>18</o:Revision>
+  <o:TotalTime>51</o:TotalTime>
+  <o:Created>2001-10-05T17:16:00Z</o:Created>
+  <o:LastSaved>2004-06-23T14:33:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>298</o:Words>
+  <o:Characters>1702</o:Characters>
+  <o:Company>Anoto AB</o:Company>
+  <o:Lines>14</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>2090</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:"\FF2D\FF33 \660E\671D";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:16.0pt;
+	font-family:Arial;
+	mso-font-kerning:16.0pt;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:normal;
+	font-style:italic;}
+h3
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.0pt;
+	font-family:Arial;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:35.3pt;
+	mso-footer-margin:35.3pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1032"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<h1 align=center style='text-align:center'><span style='font-size:28.0pt;
+mso-bidi-font-size:18.0pt'>Problem E</span><br>
+<span lang=EN-GB style='font-size:20.0pt;mso-bidi-font-size:16.0pt;mso-fareast-font-family:
+"MS Mincho";mso-ansi-language:EN-GB'>Base Equality</span><br>
+<span style='font-size:12.0pt;mso-bidi-font-size:16.0pt'>Input: </span><span
+style='font-size:12.0pt;mso-bidi-font-size:16.0pt;font-weight:normal'>standard
+input</span><span style='font-size:12.0pt;mso-bidi-font-size:16.0pt'><br>
+Output: </span><span style='font-size:12.0pt;mso-bidi-font-size:16.0pt;
+font-weight:normal'>standard output</span><span style='font-size:12.0pt;
+mso-bidi-font-size:16.0pt'><br>
+Time Limit: </span><span style='font-size:12.0pt;mso-bidi-font-size:16.0pt;
+font-weight:normal'>1 second</span><span lang=EN-GB style='mso-ansi-language:
+EN-GB'><o:p></o:p></span></h1>
+
+<p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='mso-ansi-language:EN-GB'>Numerous are the moments I as a programmer have
+been frustrated by the tedious conversions between decimal numbers and hexadecimal
+ones. Why have we chosen <b>10</b> as a base in our everyday numerical
+presentations, when <b>16</b> seems so practically appealing? Obviously because
+everyone is not the computer geek I am. Maybe some day the world will fully
+realise the benefits of the hexadecimal system. In the meantime I have to learn
+to master the base conversions since most of the time numbers do not resemble
+one another in different bases.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='mso-ansi-language:EN-GB'>Sometimes peculiar relationships emerge among
+the different base representations of numbers though. For instance, I noticed
+just the other day that <b>1040<sub>10 </sub>* 4</b> <b>= 1040<sub>16</sub></b>,
+i.e. <b>(1*10<sup>3</sup>+0*10<sup>2</sup>+4*10<sup>1</sup>+0*10<sup>0</sup>)*4=(1*16<sup>3</sup>+0*16<sup>2</sup>+4*16<sup>1</sup>+0*16<sup>0</sup>)</b>.
+It made me wonder how often this is the case, that is, the digits of a number
+in one base, are exactly the same as the digits of a multiple of the number in
+another base. Formally, let <b><span style='mso-bidi-font-style:italic'>B<sub>1</sub>&lt;B<sub>2</sub></span></b>
+be positive integers, and <b><span style='mso-bidi-font-style:italic'>a<sub>0</sub>,a<sub>1</sub>,&#8230;,a<sub>k</sub></span></b>
+be integers in <b>[0&#8230;B<sub>1</sub>-1]</b>. For which <b><span style='mso-bidi-font-style:
+italic'>a<sub>i</sub></span></b>&#8217;s is there a positive integer <b><span
+style='mso-bidi-font-style:italic'>c</span></b> such that<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='mso-ansi-language:EN-GB'><span style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:155.25pt;
+ height:44.25pt' o:ole="">
+ <v:imagedata src="./e_files/image001.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=207 height=59
+src="p10677.jpg" v:shapes="_x0000_i1025"><![endif]><span
+lang=EN-GB style='mso-ansi-language:EN-GB'><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="PBrush" ShapeID="_x0000_i1025"
+  DrawAspect="Content" ObjectID="_1149527978">
+ </o:OLEObject>
+</xml><![endif]--><o:p></o:p></span></p>
+
+<h3><span lang=EN-GB style='font-size:16.0pt;mso-bidi-font-size:13.0pt;
+mso-ansi-language:EN-GB'>Input<o:p></o:p></span></h3>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='mso-ansi-language:EN-GB'>On the first line of input is a positive
+integer <b><span style='mso-bidi-font-style:italic'>n</span></b> telling the
+number of test cases that follow. Each test case is on a line of its own and
+consists of two integer bases <b><span style='mso-bidi-font-style:italic'>B<sub>1</sub>,
+B<sub>2</sub>, 9&lt;B<sub>1</sub>&lt;B<sub>2</sub>&lt;100</span></b><i
+style='mso-bidi-font-style:normal'>, </i>and two integer range elements, <b><span
+style='mso-bidi-font-style:italic'>r<sub>1</sub></span></b>, and <b><span
+style='mso-bidi-font-style:italic'>r<sub>2</sub></span></b>, <b>0&lt;r<sub>1</sub>&lt;r<sub>2</sub>&lt;10000</b><i
+style='mso-bidi-font-style:normal'>.</i> Notice that all numbers in the input
+are given in the base <b>10</b>.<o:p></o:p></span></p>
+
+<h3><span lang=EN-GB style='font-size:16.0pt;mso-bidi-font-size:13.0pt;
+mso-ansi-language:EN-GB'>Output<o:p></o:p></span></h3>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='mso-ansi-language:EN-GB'>For each test case, there should be one row
+containing the largest integer <b><span style='mso-bidi-font-style:italic'>i</span></b>,
+fulfilling <b><span style='mso-bidi-font-style:italic'>r<sub>1</sub>&lt;i&lt;r<sub>2</sub></span></b><i
+style='mso-bidi-font-style:normal'>,</i> for which there is a positive integer <b><span
+style='mso-bidi-font-style:italic'>c</span></b> such that the digits of <b><span
+style='mso-bidi-font-style:italic'>i</span></b><i style='mso-bidi-font-style:
+normal'> </i>in the base <b><span style='mso-bidi-font-style:italic'>B<sub>1</sub></span></b>,
+are exactly the same as the digits of <b><span style='mso-bidi-font-style:italic'>i*c</span></b>
+in the base <b><span style='mso-bidi-font-style:italic'>B<sub>2</sub></span></b>.
+If no such integer <b><span style='mso-bidi-font-style:italic'>i</span></b><i
+style='mso-bidi-font-style:normal'> </i>exists, output the text <b>&#8216;Non-existent.&#8217;</b>.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>&nbsp;<o:p></o:p></span></p>
+
+<h1>Sample Input<span style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Output for Sample Input</h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width=307 valign=top style='width:3.2in;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span lang=EN-GB style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Courier New";mso-bidi-font-family:"Times New Roman";
+  mso-ansi-language:EN-GB'>4<span style="mso-spacerun:
+  yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span><o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span lang=EN-GB style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Courier New";mso-bidi-font-family:"Times New Roman";
+  mso-ansi-language:EN-GB'>10 16 1 2000<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span lang=EN-GB style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Courier New";mso-bidi-font-family:"Times New Roman";
+  mso-ansi-language:EN-GB'>10 16 1 4999<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span lang=EN-GB
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New";
+  mso-bidi-font-family:"Times New Roman";mso-ansi-language:EN-GB'>10 14 10 9999<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span lang=EN-GB
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New";
+  mso-bidi-font-family:"Times New Roman";mso-ansi-language:EN-GB'>11 14 10 9999</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:SimSun;color:black;mso-fareast-language:
+  ZH-CN'><o:p></o:p></span></b></p>
+  </td>
+  <td width=309 valign=top style='width:231.85pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;mso-fareast-language:ZH-CN'>1040<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;mso-fareast-language:ZH-CN'>4240<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span lang=EN-GB
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New";
+  mso-bidi-font-family:"Times New Roman";mso-ansi-language:EN-GB'>Non-existent.<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span lang=EN-GB
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New";
+  mso-bidi-font-family:"Times New Roman";mso-ansi-language:EN-GB'>9240</span></b><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";
+  mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p class=MsoNormal><b><span style='font-family:Arial'>Problem setter: </span></b><b><span
+style='mso-bidi-font-size:10.0pt;font-family:Arial'>A. Björklund</span></b><span
+lang=EN-GB style='font-family:"Courier New";mso-bidi-font-family:"Times New Roman";
+mso-ansi-language:EN-GB'><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

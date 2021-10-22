@@ -1,0 +1,63 @@
+<title>Problem A:  Fire Station</title>
+<h2>Problem A: Fire Station</h2>
+A city is served by a number of fire stations.  Some residents have complained
+that the distance from their houses to the nearest station is too far, so
+a new station is to be built.  You are to choose the location of the
+fire station so as to reduce the distance to the nearest station from the
+houses of the disgruntled residents.
+<p>
+The city has up to 500 intersections, connected by road segments of
+various lengths.  No more than 20 road segments intersect at a given
+intersection.  The location of houses and firestations alike are
+considered to be at intersections (the travel distance from the
+intersection to the actual building can be discounted).  Furthermore,
+we assume that there is at least one house associated with every
+intersection.  There may be more than one firestation per intersection.
+<h3>The Input</h3>
+<b>
+The input begins with a single positive integer on a line by itself indicating 
+the number of the cases following, each of them as described below. 
+This line is followed by a blank line, and there is also a blank line between 
+two consecutive inputs.
+</b>
+<p>
+<p>
+
+The first line of input contains two positive integers:  <i>f</i>,the number of existing
+fire stations (<i>f</i> &lt;= 100) and <i>i</i>, the number of intersections 
+(<i>i</i> &lt;= 500).  The intersections are numbered from 1 to <i>i</i>
+consecutively.  <i>f</i> lines follow; each contains the intersection
+number at which an existing fire station is found. 
+A number of lines follow, each containing three positive
+integers:  the number of an intersection, the number of a different
+intersection, and the length of the road segment connecting the
+intersections.  All road segments are two-way (at least as far
+as fire engines are concerned), and there will exist a route
+between any pair of intersections.
+<h3>The Output</h3>
+<b>
+For each test case, the output must follow the description below. 
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+You are to output a single integer:  the lowest intersection number at which
+a new fire station should be built so as to minimize the maximum
+distance from any intersection to the nearest fire station.
+<h3>Sample Input</h3>
+<pre>
+1
+
+1 6
+2
+1 2 10
+2 3 10
+3 4 10
+4 5 10
+5 6 10
+6 1 10
+</pre>
+<h3>Output for Sample Input</h3>
+<pre>
+5
+</pre>

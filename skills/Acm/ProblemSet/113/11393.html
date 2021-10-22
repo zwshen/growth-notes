@@ -1,0 +1,308 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 10 (filtered)">
+<title>Problem I: Tri-Isomorphism</title>
+
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:Arial;}
+h2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:Arial;}
+h4
+	{margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Times New Roman";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:28.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+tt
+	{font-family:"Courier New";}
+p.Codedata, li.Codedata, div.Codedata
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:11.0pt;
+	font-family:"Courier New";}
+p.Semititle, li.Semititle, div.Semititle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-variant:small-caps;
+	font-weight:bold;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;border-collapse:collapse'>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF9900'>I</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:blue'>I </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:teal'>U </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>C  </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:teal'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF9900'>O</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:blue'>N</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>L</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#993300'>I</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF9900'>N</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'>E</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'>   C </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>O</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'>N </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>T</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:maroon'>E</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:fuchsia'>S</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:green'>T</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:maroon'>  </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF6600'>2 </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'>0</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#CC99FF'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#993300'>0</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:maroon'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#99CC00'>8</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:18.0pt;font-family:Arial'>Problem I: Tri-Isomorphism</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-family:Arial'>Input: standard input</span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-family:Arial'>Output: standard output</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+  style='font-family:Arial'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>Let
+  <i>V(G)</i> be the vertex set of a simple graph &amp; <i>E(G) </i>its edge
+  set. An Isomorphism from a simple graph G to a simple graph H is a bijection <i>f:
+  V(G)&#8594;V(H)</i> such that <i>uv</i><span style='font-size:11.0pt;
+  font-family:Arial'> &#1108;</span><i> E(G) </i>if &amp; only if <i>f(u)f(v) </i><span
+  style='font-size:11.0pt;font-family:Arial'>&#1108;</span><i> E(H).</i> We
+  say, G is isomorphic to H if there is an isomorphism from G to H.</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>A
+  complete graph is a simple graph whose vertices are pairwise adjacent: the
+  unlabeled complete graph with n vertices is denoted K­<sub>n</sub>. For
+  example, the following figure shows K<sub>5</sub>.</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><img
+  width=552 height=109 src="p11393.gif"></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>Finally,
+  a decomposition of a graph is a list of subgraphs such that each edge appears
+  in exactly one subgraph in the list.</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>Now,
+  given a positive integer <b>n</b>, you are to determine if K<sub>n</sub>
+  decomposes into three pairwise-isomorphic subgraphs.</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  text-autospace:none'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Input</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>First
+  line of each test case consists of a positive integer <b>n </b>(n&lt;=100). The
+  end of input will be indicated by a case where n=0. This case should not be
+  processed.</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Output</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>For
+  each test case, print <b>YES </b>if K<sub>n<b> </b></sub>can be decomposed
+  into three pairwise-isomorphic subgraphs &amp; <b>NO </b>otherwise.</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Constraints</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;border:none;
+  border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b>-           n
+  &lt; 100</b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign=top style='width:50.0%;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Sample Input</span></b></p>
+  </td>
+  <td width="50%" valign=top style='width:50.0%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Output for Sample Input</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign=top style='width:50.0%;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-family:"Courier New"'>4</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-family:"Courier New"'>5</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-family:"Courier New"'>0</span></b></p>
+  </td>
+  <td width="50%" valign=top style='width:50.0%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-family:"Courier New"'>YES</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-family:"Courier New"'>NO</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;border:none;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-family:Arial'>Problem setter: Mohammad Mahmudur Rahman</span></b></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>

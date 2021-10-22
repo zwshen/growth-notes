@@ -1,0 +1,161 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML>
+<head>
+<title>The Guessing Game</title>
+<style>
+	p {text-align: justify;}
+	p.center {text-align: center;}
+	.center {text-align: center;}
+</style>
+</head>
+
+<body bgcolor=white>
+
+<h1 align="center"><font color=blue>Problem B - The Guessing Game</font></h1>
+
+<p>
+<img align=right src="p973.jpg" width="135" height="250" alt="" border="0">
+Chaos is installed in Sesame Street! Elmo, the furry red creature, has created
+a new game and everyone wants to play it. Oscar the Grouch, who loves trash,
+says he is the one who plays the game better. Bert and Ernie say that they
+rock. The monster Herry disagrees, and simply says that no one can play the
+game. Grover thinks that he knows the secret to the game. The Cookie Monster
+cannot believe that someone would rather prefer to play the game than to eat
+cookies. Everyone is screaming against each other!
+
+<p>Meanwhile, Kermit the Frog is observing everyone and secretly preparing
+the strategy that will make him the most respected muppet: learning
+how to master Elmo's new game. But what game is this?
+
+<p>Elmo has a box filled with delicious cookies. Inside, the box has a grid
+shape, but Elmo does not show the contents of the box to anyone. Instead,
+he just says how many cookies are in each row, in each column and in each
+diagonal. For example, imagine the following cookie box (where 'X' stands
+for a cookie, and '.' for an empty spot). Figure 1 shows the numbers
+of cookies in each row and in each column.
+
+<center>
+<table><tr><td>
+<pre class=center>
+. X . . X X . . 3
+. X . . X . . . 2
+. . . X . X X X 4
+. X . . . . . . 1
+
+0 3 0 1 2 2 1 1
+</pre>
+<p class=center><b>Figure 1 -</b> Cookies in each row and column
+</td></tr></table>
+</center>
+
+<p>In what respects do diagonals, everyone in Sesame Street knows what to do,
+but since you may not know their standards, they number their diagonals
+starting from the bottom left and ending in the upper right, like it is
+depicted in figure 2.
+
+<pre class=center>
+456789
+345678
+234567
+123456
+</pre>
+<p class=center><b>Figure 2 -</b> Diagonals in Sesame Street
+
+<p>So given this order of the diagonals, the number of cookies in the
+diagonals for the box of figure 1 would be given by
+<tt>0 1 0 1 2 0 2 2 2 0 0</tt>.
+
+<p>Given the number of cookies in each column, row and diagonal, Elmo's
+guessing game is to discover the contents of the box. If someone can guess
+the positions of the box, Elmo will give this person all the cookies!
+
+<p>You must help Kermit the Frog in mastering this game...
+
+<h2><font color=blue>The Problem</font></h2>
+
+<p>Given the number of cookies in each column, row and Diagonal of Elmo's
+box, you must discover the positions of the cookies inside the box.
+If there is more than one possible solution to the contents of the box,
+you should discover how many possible arrangements are there that fulfill
+the conditions and would give the same number of cookies in rows, columns
+and diagonals.
+
+<h2><font color=blue>Input</font></h2>
+<b>
+The input will contain several test cases, each of them as described below.
+Consecutive test cases are separated by a single blank line.
+</b>
+<p>
+<p>
+
+<p>
+The first line of input contains two integers, <b>R</b> and <b>C</b>,
+representing respectively the number of rows and columns of the cookie box
+(<i>1 &le R,C &le; 10</i>).
+
+<p>Then comes a line with exactly <i>R</i> integers separated by a space,
+indicating the number of cookies in each row, from the top to the bottom.
+
+<p>After that there is line with exactly <i>C</i> integers separated
+by a space, indicating the number of cookies in each column,
+from the left to the right.
+
+<p>Finally comes a line with exactly <i>R+C-1</i> integers separated
+by a space, indicating the number of cookies in each diagonal,
+from the bottom right to the top left.
+
+<h2><font color=blue>Output</font></h2>
+<b>
+For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+
+
+<p>If there is a single possible solution (arrangement of cookies) for
+the given input, then you should output the contents of the box,
+by printing <i>R</i> lines, each one with <i>C</i> chars, with
+'X' representing cookies and '.' representing empty spots.
+
+<p>If there is more than one possible solution, simply print
+a line with a single integer, indicating the number of possible
+arrangements of cookies in the box that would give the numbers of the input
+for quantities in rows, columns and diagonals. You can be sure that
+there will never be more than 10000 valid arrangements for the test
+cases in the input.
+
+<h2><font color=blue>Sample Input</font></h2>
+<pre>
+4 8
+3 2 4 1
+0 3 0 1 2 2 1 1
+0 1 0 1 2 0 2 2 2 0 0
+
+5 5
+1 1 1 1 0
+1 1 1 0 1
+0 0 0 1 1 2 0 0 0
+</pre>
+
+<h2><font color=blue>Sample Output</font></h2>
+<pre>
+.X..XX..
+.X..X...
+...X.XXX
+.X......
+
+2
+</pre>
+
+<hr>
+<p class=center><b>2006 Programming Contest of Porto University</b><br>
+Round 3, 11th of October of 2006<br>
+&nbsp;<br>
+<i>(Author: <b>Pedro Ribeiro</b> - DCC/FCUP)</i>
+<hr>
+
+</body>
+
+</html>

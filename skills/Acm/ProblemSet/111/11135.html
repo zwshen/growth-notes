@@ -1,0 +1,73 @@
+<h2>Problem G - Gopher that walks and swims</h2>
+
+<img src=p11135.jpg align=right hspace=20 vspace=20>
+
+A gopher lives in the flatlands of Northern Saskatchewan and
+frequently visits his cousins living in the South-East part of the
+same province.  When going on a visit the gopher has to cross
+a lot of ditches.
+<p>
+Saskatchewan has been suffering years of severe drought.
+Recently, however, they experienced a period of
+unusually heavy rains which resulted in flooding all the ditches on
+the gopher's route.
+<p>
+The ditches run along straight lines in the
+West-East or South-North direction and each ditch is of a constant
+width.  The gopher still wants to make his travels but being not a
+very good swimmer, he wants to minimize the distance that he has to
+swim across the ditches.  With this requirement satisfied, he also
+wants to walk as little as possible on the dry land.  Your task is to
+find the length of the gopher's route which minimizes his swimming and
+then his walking.
+<p>
+We are given a system of orthogonal coordinates, where the <em>x</em> axis
+is directed from West to East and the <em>y</em> axis is directed from South
+to North.  Given are positive real numbers: <em>D</em> and <em>L</em>,
+<em>L+L</em> &lt <em>D</em>, such that
+a point (<em>x</em>, <em>y</em>) is on dry land if and only if there exist
+integers <em>m</em> and <em>n</em> such that
+<center>
+<em>m*D+L</em> &lt= <em>x</em> &lt= <em>(m+1)*D-L</em> and <br>
+<em>n*D+L</em> &lt= <em>y</em> &lt= <em>(n+1)*D-L</em>.
+</center>
+<p>
+Given is the starting point of the gopher (<em>x<sub>s</sub>,
+y<sub>s</sub></em>) and its target point (<em>x<sub>t</sub>,
+y<sub>t</sub></em>).  Both these points are on dry land and also
+<center>
+0 &lt <em>x<sub>s</sub> &lt= x<sub>t</sub></em>, <br>
+<em>y<sub>s</sub> &gt= y<sub>t</sub></em> &gt 0, <br>
+<em>x<sub>t</sub>-x<sub>s</sub></em> &lt= <em>y<sub>s</sub>-y<sub>t</sub></em>.
+</center>
+It is also known that the gopher on his way to the target point will
+not have to swim through more than 300 ditches.  
+<p> 
+Each line of
+input contains six numbers: <em>D</em>, <em>L</em>, <em>x<sub>s</sub>,
+y<sub>s</sub></em>, <em>x<sub>t</sub>, y<sub>t</sub></em>.  For each
+line of input, output one line with the needed information in the
+format shown in the sample output. The last line of input has the value
+of <em>D</em> equal to zero and this line should not be processed.
+
+<h3>Sample input</h3>
+<pre>
+100.0 10.0 50.0 150.0 150.0 50.0 
+100.0 10.0 50.0 250.0 150.0 50.0
+10.0 1.0 5 95 45 5
+10.0 1.0 5 95 35 5
+10.0 1.0 1.01 95 39 8.99
+0 0 0 0 0 0
+</pre>
+<h3>Output for sample input</h3>
+<pre>
+The gopher has to swim 28.28 meters and walk 113.14 meters.
+The gopher has to swim 48.28 meters and walk 183.06 meters.
+The gopher has to swim 21.31 meters and walk 78.96 meters.
+The gopher has to swim 20.49 meters and walk 75.89 meters.
+The gopher has to swim 20.49 meters and walk 75.21 meters.
+</pre>
+
+<hr>
+<em>Piotr Rudnicki</em>
+

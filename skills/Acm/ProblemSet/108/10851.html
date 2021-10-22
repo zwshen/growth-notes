@@ -1,0 +1,179 @@
+<HTML>
+<HEAD>
+<TITLE>2D Hieroglyphs decoder</TITLE>
+<META NAME="description" CONTENT="2D Hieroglyphs decoder">
+
+</HEAD>
+
+<BODY >
+<div align="center"><center>
+<table border="0" bgcolor="#0060F0">
+<TBODY>    <tr>
+        <td><font color="#C0FFFF" size="5"><b>&nbsp;2D Hieroglyphs decoder</b></font><b>&nbsp;</b></td>
+    </tr>
+</TBODY></table>
+</center></div>
+
+
+<h2><a name="SECTION0001001000000000000000"><font color="#0070E8">The Problem</font></a></h2>
+
+<P>
+Steganography is one of the most famous techniques for hiding
+information in different places, including images. Recently, for
+example, Xerox announced they were releasing a 2D-hieroglyphs that
+were able to codify a message within them. Your task is to decipher a
+2D-hieroglyph.
+
+<P>
+A 2D hieroglyph is a matrix <SPAN CLASS="MATH"><IMG
+ WIDTH="22" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10851a.png"
+ ALT="$ H$"></SPAN> of 10 rows and <SPAN CLASS="MATH"><IMG
+ WIDTH="57" HEIGHT="35" ALIGN="MIDDLE" BORDER="0"
+ SRC="p10851b.png"
+ ALT="$ M+2$"></SPAN> columns that encode
+a message of length <SPAN CLASS="MATH"><IMG
+ WIDTH="25" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10851c.png"
+ ALT="$ M$"></SPAN> characters (<!-- MATH
+ $c_0, c_1, \ldots, c_{M-1}$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="127" HEIGHT="33" ALIGN="MIDDLE" BORDER="0"
+ SRC="p10851d.png"
+ ALT="$ c_0, c_1, \ldots, c_{M-1}$"></SPAN>). The
+matrix <SPAN CLASS="MATH"><IMG
+ WIDTH="22" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10851a.png"
+ ALT="$ H$"></SPAN> has the following lattice:
+
+<P>
+<!-- MATH
+ \begin{displaymath}
+H_{i,j} =
+\left\lbrace \begin{array}{ll}
+'/' & \forall i=0, j \in \left(0, 1, \ldots , M+1\right) \\
+'/' & \forall i=9, j \in \left(0, 1, \ldots , M+1\right) \\
+'/' & \forall j=0, i \in \left(0, 1, \ldots , 9\right) \\
+'/' & \forall j=M+1, i \in \left(0, 1, \ldots , 9\right) \\
+b(i-1,c_{j-1}) & \forall i \in \left(1, 2, \ldots , 8\right), j \in \left(1, 2, \ldots , M\right)
+\end{array} \right.
+\end{displaymath}
+ -->
+<P></P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+<IMG
+ WIDTH="494" HEIGHT="134" ALIGN="MIDDLE" BORDER="0"
+ SRC="p10851e.png"
+ ALT="$\displaystyle H_{i,j} =
+\left\lbrace \begin{array}{ll}
+'/' &amp; \forall i=0, j \in...
+... 2, \ldots , 8\right), j \in \left(1, 2, \ldots , M\right)
+\end{array} \right.
+$">
+</DIV><P></P>
+
+<P>
+where
+
+<P>
+<!-- MATH
+ \begin{displaymath}
+b(i,c) =
+\left\lbrace \begin{array}{ll}
+'/' & \mathrm{if}\ \left( \frac{c}{2^i} \right) \mathrm{mod}\ 2 = 0 \\
+'\backslash' & \mathrm{if}\  \left( \frac{c}{2^i} \right) \mathrm{mod}\ 2 = 1\\
+\end{array} \right.
+\end{displaymath}
+ -->
+<P></P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+<IMG
+ WIDTH="285" HEIGHT="65" ALIGN="MIDDLE" BORDER="0"
+ SRC="p10851f.png"
+ ALT="$\displaystyle b(i,c) =
+\left\lbrace \begin{array}{ll}
+'/' &amp; \mathrm{if}\ \left(...
+...m{if}\ \left( \frac{c}{2^i} \right) \mathrm{mod}\ 2 = 1\\
+\end{array} \right.
+$">
+</DIV><P></P>
+
+<P>
+and <SPAN CLASS="MATH"><IMG
+ WIDTH="13" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10851g.png"
+ ALT="$ c$"></SPAN> is the ASCII value of the character passed to the <SPAN CLASS="MATH"><IMG
+ WIDTH="13" HEIGHT="17" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10851h.png"
+ ALT="$ b$"></SPAN>
+function.
+
+<P>
+Your task is to find the message given the matrix <SPAN CLASS="MATH"><IMG
+ WIDTH="22" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10851a.png"
+ ALT="$ H$"></SPAN>.
+
+<h2><a name="SECTION0001003000000000000000"><font color="#0070E8">The
+Input</font></a></h2>
+
+<P>
+The input is composed of a first line with a number <SPAN CLASS="MATH"><IMG
+ WIDTH="22" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10851i.png"
+ ALT="$ N$"></SPAN> indicating the
+number of messages to decode, followed by <SPAN CLASS="MATH"><IMG
+ WIDTH="22" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10851i.png"
+ ALT="$ N$"></SPAN> matrices separated by a
+"newline" character. The length of any message will not be more
+than&nbsp;80 characters.
+
+<h2><a name="SECTION0001003000000000000000"><font color="#0070E8">The
+Output</font></a></h2>
+
+<P>
+The output must have <SPAN CLASS="MATH"><IMG
+ WIDTH="22" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10851i.png"
+ ALT="$ N$"></SPAN> messages, one per each matrix given in the
+input.
+
+<h2><a name="SECTION0001005000000000000000"><font color="#0070E8">Sample
+Input</font></a></h2>
+
+<PRE>2
+///////////////////////////////////////
+//\///\/\\/\//\\/\//\/\\/\/\/\\/\/\//\/
+///////\////\/\/\//////\//\////\/\/////
+/\//\\\\///\\//\\/\\//\//\\//\///\/\\//
+/\//\\//\///\////\\\//////\//\////\\\//
+//////\\//////\/\//////\/\/////\/\/////
+///\//////\//\///////\//\///\//////////
+/\\/\\\\\\/\\/\\\\\\\/\\/\\\/\\\\\\\\\/
+///////////////////////////////////////
+///////////////////////////////////////
+
+///////////
+/\/\/\/\/\/
+//\\//\\///
+////\\\\///
+////////\\/
+///////////
+/\\\\\\\\\/
+/\\\\\\\\\/
+///////////
+///////////
+</PRE>
+
+<h2><a name="SECTION0001005000000000000000"><font color="#0070E8">Sample
+Output</font></a></h2>
+
+<PRE>LA LLUVIA EN SEVILLA ES UNA MARAVILLA
+abcdefghi
+</PRE>
+
+
+</BODY>
+</HTML>

@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Key to Success</TITLE>
+<META NAME="description" CONTENT="Key to Success">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER></h1>
+ <TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Key to Success</A></FONT>&nbsp;</B></TABLE></CENTER>
+<P>
+Any one-to-one mapping, <I>f</I>, of any alphabet to itself can be
+used to encode text by replacing each occurrence of any letter, <I>c</I>, with
+<I>f</I>(<I>c</I>).
+One such mapping could be the mapping of a letter to
+three positions beyond the letter in the alphabet.
+That is,  <IMG WIDTH=44 HEIGHT=13 ALIGN=BOTTOM ALT="tex2html_wrap_inline35" SRC="468img1.gif"  > ,  <IMG WIDTH=41 HEIGHT=13 ALIGN=BOTTOM ALT="tex2html_wrap_inline37" SRC="468img2.gif"  > ,  <IMG WIDTH=44 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline39" SRC="468img3.gif"  > ,  <IMG WIDTH=43 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline41" SRC="468img4.gif"  >  and so on.
+<P>
+With this mapping, 
+``<TT>The car is blue</TT>'' will be encoded as ``<TT>Wkh fdu lv eoxh</TT>''.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<p>The input begins with a single positive integer on a line by itself
+indicating the number of the cases following, each of them as described below.
+This line is followed by a blank line, and there is also a blank line between
+two consecutive inputs.</p>
+<P>
+Your correct program should decodes the contents of each input set according
+to the following guidelines:
+<OL><LI> Only letters are encoded. Letters are mapped to letters.
+Uppercase letters are different from their lowercase counter parts.<LI> The mapping that defines the encoding is one-to-one.  That
+is, two different letters never map to the same letter of the
+alphabet ( <IMG WIDTH=44 HEIGHT=10 ALIGN=BOTTOM ALT="tex2html_wrap_inline43" SRC="468img5.gif"  >  and  <IMG WIDTH=43 HEIGHT=12 ALIGN=BOTTOM ALT="tex2html_wrap_inline45" SRC="468img6.gif"  >  is impossible).<LI> There are two input lines -
+the first one contains a text (not encoded) and
+the second one contains an encoded text.
+This text is to be decoded by your program.<LI> Both lines are written by the same person.<LI> 
+It is to be assumed that any
+person uses letters of the alphabet with the same <B>RELATIVE
+FREQUENCY</B> from document to document and no two letters are
+used with the same frequency.
+That is, the most frequently used letter in the first line maps to the most frequently used letter in the second one; the second most frequently used letter maps to the second most frequently used letter and so on.
+</OL>
+<p>&nbsp;The outputs of two consecutive cases will be separated by a blank line.</p>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Intput</A></FONT></H2>
+<P>
+<PRE>1
+
+abacxbacac
+qqqqqrrrrssstt</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>aaaaaccccbbbxx</PRE>
+</BODY>
+</HTML>

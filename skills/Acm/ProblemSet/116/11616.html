@@ -1,0 +1,119 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Roman Numerals</title>
+</head>
+
+<body bgcolor="#FFFFFF" lang="EN">
+<div align="center"><center>
+
+<table border="0" bgcolor="#0060F0">
+<TBODY>
+  <tr>
+    <td><b><font color="#C0FFFF" size="5">&nbsp;C. Roman Numerals&nbsp;</font></b></td>
+  </tr>
+</TBODY>
+</table>
+</center></div>
+
+<h2><font color="#0070E8">Context</font></h2>
+
+<p>This year is the XXV Anniversary of the Faculty of Computer Science
+in Murcia. But, what XXV means? Maybe you should ask an ancient Roman
+to get the answer.</p>
+
+<h2><font color="#0070E8">The Problem</font></h2>
+
+<p>A Roman numeral consists of a set of letters of the alphabet. Each
+letter has a particular value, as shown in the following table:</p>
+
+<table border="1" align="center">
+<tr>
+<td width="60">Letter</td>
+<td width="50" align="center">I</td>
+<td width="50" align="center">V</td>
+<td width="50" align="center">X</td>
+<td width="50" align="center">L</td>
+<td width="50" align="center">C</td>
+<td width="50" align="center">D</td>
+<td width="50" align="center">M</td>
+</tr>
+<tr>
+<td width="60">Value</td>
+<td width="50" align="center">1</td>
+<td width="50" align="center">5</td>
+<td width="50" align="center">10</td>
+<td width="50" align="center">50</td>
+<td width="50" align="center">100</td>
+<td width="50" align="center">500</td>
+<td width="50" align="center">1000</td>
+</tr>
+</table>
+
+<p>Generally, Roman numerals are written in descending order from left
+to right, and are added sequentially. However, certain combinations
+employ a subtractive principle. If a symbol of smaller value 
+precedes a symbol of larger value, the smaller value is subtracted
+from the larger value, and the result is added to the total. This
+subtractive principle follows the next rules:</p>
+
+<ul>
+<li>"I" may only precede "V" and "X" (e.g., IV=4).</li>
+<li>"X" may only precede "L" and "C" (e.g., XC=900).</li>
+<li>"C" may only precede "D" and "M".</li>
+<li>"V", "L" and "D" are always followed by a symbol of smaller value,
+so they are always added to the total.</li>
+</ul>
+
+<p>Symbols "I", "X", "C" and "M" cannot appear more than three
+consecutive times. Symbols "V", "L" and "D" cannot appear more than
+once consecutively.</p>
+
+<p>Roman numerals do not include the number zero, and for values
+greater or equal than 4000 they used bars placed above the letters to
+indicate multiplication by 1000.</p>
+
+<p>You have write a program that converts from Roman to Arabic
+numerals and vice versa. Although lower case letters were used in the
+Middle Ages, the Romans only used upper case letters. Therefore, for
+the Roman numerals we only consider upper case letters.</p>
+
+
+<h2><font color="#0070E8">The Input</font></h2>
+
+<p>The input consists of several lines, each one containing either an
+Arabic or a Roman number <em>n</em>, where 0 &lt; <em>n</em> &lt; 4000.</p>
+
+<h2><font color="#0070E8">The Output</font></h2>
+
+<p>For each input line, you must print a line with the converted
+number. If the number is Arabic, you must give it in Roman format. If
+the number is Roman, you must give it in Arabic format.</p>
+
+<h2><font color="#0070E8">Sample Input</font></h2>
+
+<pre>XXV
+4
+942
+MCMLXXXIII
+</pre>
+
+<h2><font color="#0070E8">Sample Output</font></h2>
+
+<pre>25
+IV
+CMXLII
+1983
+</pre>
+
+<hr>
+
+<p align="right"><font color="#000040"><small><small><a href="http://dis.um.es/contest"
+target="_blank">OMP'09</a><br>
+<a href="http://www.um.es/informatica" target="_blank">Facultad de Informatica<br>
+</a><a href="http://www.um.es" target="_blank">Universidad de Murcia (SPAIN)</a></small></small></p>
+</font>
+
+</body>
+</html>

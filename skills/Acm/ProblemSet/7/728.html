@@ -1,0 +1,155 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Scatter Point Plot</TITLE>
+<META NAME="description" CONTENT="Scatter Point Plot">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Scatter Point Plot</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+This problem deals with generating a plot of points that fit on the display
+screen.  The Y axis is vertical and contains 20 lines (one <I>Y</I> value for each
+row); the X axis is horizontal and contains 12 positions (each <I>X</I> value
+takes 5 columns).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>Input consistes of several datasets. The first line of the input indicates the number of test cases.
+The second line is void, and the datasets follow.
+Each dataset is defined as follows:
+<p><PRE><TT>
+1st line 		 low <I>X</I> value and X axis increment 
+2nd line 		 low <I>Y</I> value and Y axis increment
+		 Followed by one <I>X</I> value and one <I>Y</I> value per line.
+		  They will be positive integers up to 4 digits.
+</TT></PRE>
+
+<P>There is a blank line between datasets.
+<p>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each dataset, character display a X,Y plot including grid lines and
+axis labelling as shown in the sample below. Print <I>Y</I>-values right-justified
+in a field of width 4 ans `<TT>:</TT>' in column number five. None of the lines 
+in the output file will contain trailing blanks. That is, every line will end
+with the last non-blank character in it.
+
+<P>
+
+<P>
+<BR>
+All pairs of <I>X</I>, <I>Y</I> values will be inputted and the lowest and highest needs
+to be found to determine scaling values.  The increment for each row or
+column will be based on 20 positions for the Y axis and 12 for the X axis.
+When establishing what position a value will fall on rounding is to be done
+up at the halfway point to the next increment value.  
+
+<P>
+If only one <I>X</I>, <I>Y</I>
+value falls at a particular point display the character 1.  If two <I>X</I>, <I>Y</I>
+values fall at a particular point display the character 2; if three <I>X</I>, <I>Y</I>
+values fall at a particular point display the character 3; etc.
+
+<P>
+In case that there were ten or more <I>X</I>, <I>Y</I> values falling at a point, the
+numbers have to be <EM>centered</EM> on the cross-marks in the following way:
+
+<P>
+<PRE>
+                          1000
+                           100
+                           10
+                            1
+                    ...+----+----+...
+</PRE>
+<p>Print a blank line between datasets.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1
+
+100 50
+0 5
+100,20
+101,22
+100,23
+100,0
+100,3
+649,0
+649,3
+647,2
+500,85
+206,21
+325,43
+612,8
+129,19
+501,83
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+   95:
+   90:
+   85:                                            2
+   80:
+   75:
+   70:
+   65:
+   60:
+   55:
+   50:
+   45:                             1
+   40:
+   35:
+   30:
+   25:    1
+   20:    2    1    1
+   15:
+   10:                                                      1
+    5:    1                                                      1
+    0:    1                                                      2
+     +----+----+----+----+----+----+----+----+----+----+----+----+
+         100  150  200  250  300  350  400  450  500  550  600  650
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-31</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,243 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns="http://www.w3.org/TR/REC-html40"
+ xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+  <title>Optimal House Placement</title>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=windows-1252">
+  <meta content="FrontPage.Editor.Document" name="ProgId">
+  <meta content="Microsoft FrontPage 5.0" name="GENERATOR">
+  <meta content="Microsoft Word 10" name="Originator">
+  <link
+ href="file:///D:/ACM/ACM%20Problem%20Set/v103-htm01/p6_files/editdata.mso"
+ rel="Edit-Time-Data">
+<!--[if gte mso 9]><xml>
+
+ <o:DocumentProperties>
+
+  <o:Author>Administrator</o:Author>
+
+  <o:LastAuthor>Anupam Bhattacharjee</o:LastAuthor>
+
+  <o:Revision>53</o:Revision>
+
+  <o:TotalTime>472</o:TotalTime>
+
+  <o:LastPrinted>2002-02-25T12:32:00Z</o:LastPrinted>
+
+  <o:Created>2002-02-22T05:27:00Z</o:Created>
+
+  <o:LastSaved>2002-10-31T03:01:00Z</o:LastSaved>
+
+  <o:Pages>1</o:Pages>
+
+  <o:Words>298</o:Words>
+
+  <o:Characters>1701</o:Characters>
+
+  <o:Company>BUET</o:Company>
+
+  <o:Lines>14</o:Lines>
+
+  <o:Paragraphs>3</o:Paragraphs>
+
+  <o:CharactersWithSpaces>1996</o:CharactersWithSpaces>
+
+  <o:Version>10.2625</o:Version>
+
+ </o:DocumentProperties>
+
+</xml><![endif]--><!--[if gte mso 9]><xml>
+
+ <w:WordDocument>
+
+  <w:View>Print</w:View>
+
+  <w:Zoom>BestFit</w:Zoom>
+
+  <w:GrammarState>Clean</w:GrammarState>
+
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+
+ </w:WordDocument>
+
+</xml><![endif]-->
+  <style>@font-face {
+	font-family: Monotype Corsiva;
+}
+@page Section1 {size: 595.45pt 841.7pt; margin: 1.0in 1.0in 1.0in 1.0in; mso-header-margin: .5in; mso-footer-margin: .5in; mso-paper-source: 0; }
+P.MsoNormal {
+	FONT-SIZE: 12pt; FONT-FAMILY: "Times New Roman"; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; margin-left:0in; margin-right:0in; margin-top:0in; margin-bottom:0pt
+}
+LI.MsoNormal {
+	FONT-SIZE: 12pt; FONT-FAMILY: "Times New Roman"; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; margin-left:0in; margin-right:0in; margin-top:0in; margin-bottom:0pt
+}
+DIV.MsoNormal {
+	FONT-SIZE: 12pt; FONT-FAMILY: "Times New Roman"; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; margin-left:0in; margin-right:0in; margin-top:0in; margin-bottom:0pt
+}
+P {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto
+}
+PRE {
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Courier New"; mso-pagination: widow-orphan; mso-fareast-font-family: "Courier New"; tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt
+}
+TT {
+	FONT-FAMILY: "Courier New"; mso-fareast-font-family: "Courier New"; mso-ascii-font-family: "Courier New"; mso-hansi-font-family: "Courier New"; mso-bidi-font-family: "Courier New"
+}
+SPAN.GramE {
+	mso-style-name: ""; mso-gram-e: yes
+}
+DIV.Section1 {
+	page: Section1
+}
+  </style><!--[if gte mso 10]>
+
+<style>
+
+ /* Style Definitions */
+
+ table.MsoNormalTable
+
+	{mso-style-name:"Table Normal";
+
+	mso-tstyle-rowband-size:0;
+
+	mso-tstyle-colband-size:0;
+
+	mso-style-noshow:yes;
+
+	mso-style-parent:"";
+
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+
+	mso-para-margin:0in;
+
+	mso-para-margin-bottom:.0001pt;
+
+	mso-pagination:widow-orphan;
+
+	font-size:10.0pt;
+
+	font-family:"Times New Roman"}
+
+  </style>
+
+<![endif]--><!--[if gte mso 9]><xml>
+
+ <o:shapelayout v:ext="edit">
+
+  <o:idmap v:ext="edit" data="1"/>
+
+ </o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" style="background-color: white;">
+<div class="Section1">
+<p class="MsoNormal" align="left">&nbsp;<br>
+<b><span style="font-size: 24pt;"><i><u><font color="#008000">Optimal
+House Placement</font></u></i></span></b><br>
+<b><font color="#800000"><br>
+Input:</font></b> standard input<br>
+<b><font color="#800000">Output:</font></b> standard output<br>
+<b><font color="#800000">Time Limit:</font></b> 3 seconds</p>
+<p class="MsoNormal"><span style=""><o:p><br>
+</o:p></span></p>
+<p class="MsoNormal" style="" align="left"><font color="#000080"><span
+ style="">Mr. G. Enerous has a lot of friends. All his friends are
+living in the same street. Now every year at christmas Mr. Enerous has
+the problem to bring parcels to all his friends. To make parcel
+delivering easier for him he decides to move house to this street.<br>
+<br>
+When Mr. G. Enerous is bearing a parcel from one house to another and
+the distance between these houses is x, he consumes x*x energy units.
+When he doesn't bear a parcel, the energy consumption is negligible.
+Since the parcels are very big, he can bear only one parcel at a time,
+and he doesn't want to stop outside houses because he doesn't want that
+the parcels become filthy. So if he is delivering a parcel to one of
+his friends, he starts at his house and goes in the direction of the
+house of his friend, but to minimize energy consumption he stops at
+each house of a friend on the way.<br>
+<br>
+Can you tell him where in the street he should place his house so that
+the energy required to deliver all the parcels is minimized?</span></font></p>
+<p class="MsoNormal" style="" align="left">&nbsp;</p>
+<p class="MsoNormal" style="" align="justify"><font color="#000080">You
+may assume that for any reasonable house position for Mr. Enerous'
+house the energy required to deliver all the parcels rounded to the
+next integer fits into a signed
+64 bit integer. Here a reasonable house position is any position
+between smallest house coordinate and biggest house coordinate.<span
+ style=""><br>
+<p class="MsoNormal" style="text-align: justify;"><span style="">&nbsp;</span></p>
+</span></font></p>
+<span style=""><font color="#000080"><font color="#000080">
+</font></font>
+<p class="MsoNormal" style="text-align: justify;"><font color="#000080"><font
+ color="#000080"><b><span style="font-size: 18pt;"><u><font
+ color="#008000">Input</font></u></span></b></font></font></p>
+<p class="MsoNormal" style="text-align: justify;"><o:p><font
+ color="#000080"><font color="#000080">&nbsp;</font></font></o:p></p>
+<p class="MsoNormal"><font color="#000080"><font color="#000080">The
+input consists of several test cases. The first line of each test case
+contains a positive integer n (2 &lt;= n &lt;= 10000), the number of
+friends of Mr. Enerous. In the next n lines you are given the position
+of the houses in increasing order. Each position of a house is a non
+negative integer &lt; 1000000.<br>
+The end of input is signaled by a test case with n = 0.<br>
+<br>
+</font><b><u><font color="#008000"><span style="font-size: 18pt;">Output</span></font></u></b></font></p>
+<p class="MsoNormal"><font color="#000080">&nbsp;</font></p>
+<span style="font-family: &quot;times new roman&quot;;"></span></span><span
+ style=""><span style="font-family: &quot;times new roman&quot;;"><span style=""><font
+ color="#000080"><font color="#000080">For each test case write one
+floating point number with exactly 3 digits after the decimal point
+that is the position where Mr. Enerous should place his house in order
+to minimize the energy required to deliver all the parcels. If the
+exact value of the minimum energy can be reached with several house
+positions, print the smallest one.
+</font></font></span></span></span><span style=""><span
+ style="font-family: &quot;times new roman&quot;;"></span><br>
+<p class="MsoNormal"><span style=""><font color="#000080"><font
+ color="#000080">&nbsp;</font></font></span></p>
+<p class="MsoNormal" style=""><font color="#000080"><font
+ color="#000080"><b><span style="font-size: 18pt;"><u><font
+ color="#008000">Sample Input</font></u></span></b><br>
+<br>
+</font>
+3<br>
+1<br>
+2<br>
+3<br>
+4<br>
+1<br>
+2<br>
+4<br>
+5<br>
+4<br>
+0<br>
+1<br>
+2<br>
+999999<br>
+0<br>
+</font></p>
+</span><span style="">
+<p class="MsoNormal"><font color="#000080"><font color="#000080"><span
+ style=""><font color="#000000"><br>
+</font></span><b><span style="font-size: 18pt;"><u><font color="#008000">Sample
+Output</font></u></span></b><br>
+<br>
+</font>1.667<br>
+3.000</font><span style=""></span><font color="#000080"><font
+ color="#000080"> <br>
+250001.250<br>
+</font></font></p>
+<div class="MsoNormal">
+<hr align="left" width="100%" size="2"></div>
+<pre><font color="#000080"><font color="#000080"><b><span
+ style="font-size: 12pt; font-family: 'Times New Roman';">Problem setter: Adrian Kuegel</span></b></font></font><span
+ style="font-size: 12pt; font-family: 'Times New Roman';"><span style=""><br><font
+ color="#000080"><b>Thanks to Robin Nittka for his alternate solution.</b></font></span></span></pre>
+</span></div>
+</body>
+</html>

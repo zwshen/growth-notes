@@ -1,0 +1,138 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Critical Mass</TITLE>
+<META NAME="description" CONTENT="Critical Mass">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Critical Mass</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+During the early stages of the Manhattan Project, the dangers of the new radioctive materials
+were not widely known. Vast new factory cities were built to manufacture uranium and plu-
+tonium in bulk. Compounds and solutions of these substances were accumulating in metal
+barrels, glass bottles and cardboard box piles on the cement floors of store rooms. Workers
+did not know that the substances they were handling could result in sickness, or worse, an
+explosion. The officials who new the danger assumed that they could ensure safety by never
+assembling any amount close to the critical mass estimated by the physicists. But mistakes
+were made. The workers, ignorant of the the dangers, often did not track these materials care-
+fully, and in some cases, too much material was stored together - an accident was waiting to
+happen.
+
+<P>
+
+<P>
+<BR>
+Fortunately, the dangers were taken seriously by a few knowledgeable physicists. They
+drew up guidelines for how to store the materials to eliminate the danger of critical mass
+accumulations. The system for handling uranium was simple. Each uranium cube was marked
+``<TT>U</TT>''. It was to be stacked with lead cubes (marked ``<TT>L</TT>'') interspersed. No more than two uranium
+cubes could be next to each other on a stack. With this simple system, a potential for the
+uranium reaching critical mass (three stacked next to each other) was avoided. The second
+constraint is that no more than thirty cubes can be stacked on top of each other, since the
+height of the storage room can only accommodate that many.
+
+<P>
+
+<P>
+<BR>
+One of the physicists was still not completely satisfied with this solution. He felt that a
+worker, not paying attention or not trained with the new system, could easily cause a chain
+reaction. He posed the question: consider a worker stacking the radioactive cubes and non
+radioactive cubes at random on top of each other to a height of <I>n</I> cubes; how many possible
+combinations are there for a disaster to happen?
+
+<P>
+For example, say the stack is of size 3. There is one way for the stack to reach critical mass
+- if all three cubes are radioactive.
+
+<P>
+
+<P>
+<BR>
+
+<TT>1: UUU</TT>
+
+<P>
+
+<P>
+<BR>
+However, if the size of the stack is 4, then there are three ways:
+
+<P>
+
+<P>
+<BR>
+
+<TT>1: UUUL</TT>
+
+<P>
+
+<TT>2: LUUU</TT>
+
+<P>
+
+<TT>3: UUUU</TT>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input is a list of integers on separate lines. Each integer corresponds to the size of the
+stack and is always greater than 0. The input is terminated with a integer value of <TT>0</TT>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each stack, compute the total number of dangerous combinations where each cube position
+in the linear stack can either be ``<TT>L</TT>'' for lead, or ``<TT>U</TT>'' for uranium. Output your answer as a single
+integer on a line by itself.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+4
+5
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+3
+8
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1998-03-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

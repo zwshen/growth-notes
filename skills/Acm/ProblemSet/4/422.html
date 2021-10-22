@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Word-Search Wonder</TITLE>
+<META NAME="description" CONTENT="Word-Search Wonder">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Word-Search Wonder</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The Pyrates Restaurant was starting to fill up as Valentine McKee walked in.
+She scanned the
+crowd for her sister, brother-in-law, and nephew. Seeing her sister waving
+from the far end of
+the restaurant, she made her way back to their booth. ``Hi, Valentine,'' her
+sister and brother-in-law, Niki and Dennis Chapman, greeted her.
+<P>
+``Hi, guys,'' she replied. ``What are you doing, Wade?'' she asked her
+nephew. He was busy
+working on one of the restaurant's activity sheets with a crayon.
+<P>
+``I'm doing a word search game,'' Wade explained. ``I have to find all of
+these words in this
+big mess of letters. This is really hard.'' Wade looked intently at the
+paper in front of him.
+<P>
+``Can I help?'' asked Valentine, looking across the table at the activity sheet.
+<P>
+``Sure. These are the words we're looking for. They're the names of different
+kinds of Planes, Trains, and Automobiles.''
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The first line of input will specify the length (in characters) of the
+sides of the letter matrix (the
+matrix of letters will be square). The length, <I>l</I>, will be in the
+range  <IMG WIDTH=85 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline28" SRC="422img1.gif"  > . The next <I>l</I> lines of input will
+be the matrix itself, each line will contain <I>l</I> uppercase letters.
+<P>
+A list of words will follow. Each word will be on a line by itself; there
+will be 100 or fewer
+words. Each word will be 100 or fewer characters long, and will only
+contain uppercase letters.
+<P>
+The final line of input will contain a single zero character.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+Your program should attempt to find each word from the word list in the
+puzzle. A word is
+``found'' if all the characters in the word can be traced in a
+single (unidirectional) horizontal,
+vertical, or diagonal line in the letter matrix. Words may
+not ``wrap around'' rows or columns,
+but horizontal and diagonal words may proceed from right to
+left (``backwards''). For each
+word that is found, your program should print the coordinates of its
+first and last letters in the
+matrix on a single line, separated by a single space. Coordinates are
+pairs of comma-separated
+integers (indexed from 1), where the first integer specifies the row
+number and the second integer specifies the column number.
+<P>
+If a word is not found, the string ``<TT>Not found</TT>'' should be output
+instead of a pair of coordinates.
+<P>
+Each word from the input can be ``found'' at most once in the puzzle.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>5
+EDEEE
+DISKE
+ESEEE
+ECEEE
+EEEEE
+DISC
+DISK
+DISP
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>1,2 4,2
+2,1 2,4
+Not found</PRE>
+<P>
+</BODY>
+</HTML>

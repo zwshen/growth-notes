@@ -1,0 +1,360 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="f_files/filelist.xml">
+<link rel=Edit-Time-Data href="f_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem F - The Difference Engine</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>102</o:Revision>
+  <o:TotalTime>140</o:TotalTime>
+  <o:Created>2004-05-09T11:42:00Z</o:Created>
+  <o:LastSaved>2004-09-30T07:25:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>384</o:Words>
+  <o:Characters>2191</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>18</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2570</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-alt:Arial;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Arial Unicode MS";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:16.0pt;
+	mso-bidi-font-size:18.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+h3
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:12.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:18.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	mso-bidi-font-weight:bold;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Arial Unicode MS";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in .8in 1.0in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:28.0pt;mso-bidi-font-size:18.0pt;font-family:Arial'>Problem F</span></b><br>
+<span class=GramE><b><span style='font-size:20.0pt;mso-bidi-font-size:24.0pt;
+font-family:Arial;mso-font-kerning:18.0pt'>The</span></b></span><b><span
+style='font-size:20.0pt;mso-bidi-font-size:24.0pt;font-family:Arial;mso-font-kerning:
+18.0pt'> Difference Engine</span></b><br>
+<b><span style='font-family:Arial'>Input:</span></b><span style='font-family:
+Arial'> standard input<br>
+<b>Output:</b> standard output<br>
+<b>Time Limit:</b> 3 seconds</span><br style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]></p>
+
+<h2 style='text-align:justify'><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt;font-family:"Times New Roman";color:black;font-weight:normal;mso-bidi-font-weight:
+bold'>A good way to transmit information over an unreliable connection is to
+use redundancy to eliminate the damage caused by small errors.<span
+style='mso-spacerun:yes'>  </span>For instance, a checksum on data can be used
+to reliably determine if a mistake exists anywhere in the data.<span
+style='mso-spacerun:yes'>  </span>And if one byte (anywhere in the data) is
+missing, the checksum can be used to reconstruct the value of that byte.<span
+style='mso-spacerun:yes'>  </span>We will examine a generalized redundancy
+approach that allows us to reconstruct a message from which some information
+has been lost.<o:p></o:p></span></h2>
+
+<h2><span style='font-size:12.0pt;mso-bidi-font-size:18.0pt;font-family:"Times New Roman";
+color:black;font-weight:normal;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></h2>
+
+<h2 style='text-align:justify'><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt;font-family:"Times New Roman";color:black;font-weight:normal;mso-bidi-font-weight:
+bold'>Let p be a prime.<span style='mso-spacerun:yes'>  </span>Suppose we have
+a sequence of p &quot;chunks&quot;, a1, a2<span class=GramE>, ...,</span> <span
+class=SpellE>ap</span>, each with a value between 0 and p-1 inclusive.<span
+style='mso-spacerun:yes'>  </span>We can construct a &quot;difference sequence,&quot;
+b1, b2<span class=GramE>, ...,</span> <span class=SpellE>bp</span>, which has
+the same format, and contains the differences between successive elements of
+a.<span style='mso-spacerun:yes'>  </span>(Modular arithmetic is used to<o:p></o:p></span></h2>
+
+<h2 style='text-align:justify'><span class=GramE><span style='font-size:12.0pt;
+mso-bidi-font-size:18.0pt;font-family:"Times New Roman";color:black;font-weight:
+normal;mso-bidi-font-weight:bold'>keep</span></span><span style='font-size:
+12.0pt;mso-bidi-font-size:18.0pt;font-family:"Times New Roman";color:black;
+font-weight:normal;mso-bidi-font-weight:bold'> the values between 0 and
+p-1)<span style='mso-spacerun:yes'>  </span>So b1 == a2 - a1 (mod p); b2 == a3
+- a2 (mod p); and so on, wrapping around to give <span class=SpellE>bp</span>
+== a1 - <span class=SpellE>ap</span> (mod p).<o:p></o:p></span></h2>
+
+<h2 style='text-align:justify'><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt;font-family:"Times New Roman";color:black;font-weight:normal;mso-bidi-font-weight:
+bold'><o:p>&nbsp;</o:p></span></h2>
+
+<h2 style='text-align:justify'><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt;font-family:"Times New Roman";color:black;font-weight:normal;mso-bidi-font-weight:
+bold'>We can take the difference sequence of this difference sequence to get a
+&quot;2<sup>nd</sup> difference sequence&quot;.<span style='mso-spacerun:yes'> 
+</span>In general, let the &quot;nth difference sequence&quot; be the result of
+applying this operation to a sequence n times.<o:p></o:p></span></h2>
+
+<h2><span style='font-size:12.0pt;mso-bidi-font-size:18.0pt;font-family:"Times New Roman";
+color:black;font-weight:normal;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></h2>
+
+<h2 style='text-align:justify'><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt;font-family:"Times New Roman";color:black;font-weight:normal;mso-bidi-font-weight:
+bold'>Not every sequence can be an &quot;nth difference sequence&quot;, so such
+a sequence is redundant in a very useful way.<span style='mso-spacerun:yes'> 
+</span>If somebody tells you they have a message (a sequence of this form) that
+IS an nth difference sequence, and sends it to you, you can reconstruct their
+message even if up to n &quot;chunks&quot; are lost along the way.<span
+style='mso-spacerun:yes'>  </span>It is straightforward to encode useful
+information this way: you can write p-n &quot;chunks&quot; of information, then
+add n &quot;chunks&quot; to make the sequence an nth difference sequence (of
+some unimportant initial sequence).<o:p></o:p></span></h2>
+
+<h2><span style='font-size:12.0pt;mso-bidi-font-size:18.0pt;font-family:"Times New Roman";
+color:black;font-weight:normal;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></h2>
+
+<h2><span style='font-size:12.0pt;mso-bidi-font-size:18.0pt;font-family:"Times New Roman";
+color:black;font-weight:normal;mso-bidi-font-weight:bold'>Write a program to
+reconstruct messages of this form.<o:p></o:p></span></h2>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<h2>Input</h2>
+
+<p class=MsoNormal style='text-align:justify'>There will be up to 100 cases,
+each consisting of two lines.<span style='mso-spacerun:yes'>  </span>The first
+line contains p, a prime number less than 100, and n, a positive integer.<span
+style='mso-spacerun:yes'>  </span>The second line contains p integers from 0 to
+p-1, containing the message; however, up to n of them may be missing, and will
+be replaced by question marks.<o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Input is terminated by a line
+containing two zeros.</p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<h2>Output</h2>
+
+<p class=MsoNormal style='text-align:justify'>For each case, output one line
+containing the reconstructed message, which will be an &quot;nth difference
+sequence&quot;.<span style='mso-spacerun:yes'>  </span>If this is impossible,
+output &quot;Invalid message!<span class=GramE>&quot;.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='color:black;
+mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial;font-style:normal'>Sample
+Input<span style='mso-spacerun:yes'>                           </span>Output
+for Sample Input<o:p></o:p></span></b></h1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='background:#CCCCCC;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=295 valign=top style='width:221.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'><pre><b><span
+  style='font-size:11.0pt'>5 1<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt'>1 3 <span class=GramE>4 ?</span> 3<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt'>5 1<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt'>1 3 4 2 3<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt'>0 <span class=SpellE>0</span></span></b><b><span
+  style='mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></pre></td>
+  <td width=321 valign=top style='width:240.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";
+  color:black'>1 3 4 <span class=SpellE>4</span> 3<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";
+  color:black'>Invalid message!<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoCaption>Problem setter: Derek <span class=SpellE>Kisman</span>,
+EPS</p>
+
+</div>
+
+</body>
+
+</html>

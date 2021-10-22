@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Problem C: Counting Chaos</title>
+</head>
+<body>
+
+<center>
+<h1>Problem C</h1>
+<h1>COUNTING CHAOS</h1>
+</center>
+
+<img align=right src=p11309.png>
+
+<p>Wolfgang Puck's rival, Emeril Lagasse ("BAM!"), recently set the world
+culinary record in the category of smallest soufflé measuring in at a mere 2 cm!
+Wolfgang, not to be outdone, decided that he would set a culinary record of his
+own: the most symmetric marble cake in the world. This is clearly not an easy
+feat!</p>
+
+<p>As we all know from Wolfgang's bestselling biography, he is a very
+superstitious chef. In his attempts to create the symmetric cake, he has vowed
+to remove the cake from the oven only at a palindromic time, i.e., a time that
+reads the same when read from left-to-right as right-to-left. Not including the
+current time, when is the next opportunity for Wolfgang to remove his cake?</p>
+
+<h2>Input</h2>
+<p>On the first line of the input you are given <em>n</em>, the number of attempts
+Wolfgang makes to make his symmetric cake. The following <em>n</em> lines contain
+a string formatted as "HH:MM" indicating the current time on a twenty-four hour
+clock. (So 0 &le; HH &le; 23 and 0 &le; MM &le; 59 and "00:00" follows "23:59")</p>
+
+<h2>Output</h2>
+<p>For each attempt, output a string indicating the next palindromic time
+(not including the current time) on a single line formatted as "hh:mm".
+When determining if HH:MM is palindromic, ignore all leading zeroes in HH.
+If HH is zero then ignore all leading zeroes in MM.</p>
+
+<h2>Sample Input</h2>
+<pre>
+3
+00:00
+23:30
+14:59
+</pre>
+
+<h2>Output for the Sample Input</h2>
+<pre>
+00:01
+23:32
+15:51
+</pre>
+
+<hr>
+<i>Sean McIntyre</i><br>
+<i>Calgary Collegiate Programming Contest 2007</i><br />
+</body>
+</html>

@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Domino Game</TITLE>
+<META NAME="description" CONTENT="Domino Game">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Domino Game</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Let us consider the following version of the Domino game:
+
+<P>
+<UL>
+<LI>A domino piece has two sides, each of them numbered from 0 to 6.
+<LI>The game is played with 28 pieces. A piece having both sides with the same number is called a double piece.
+<LI>We will consider a two-player version of the game: each player receives a set of pieces and both sets are equal in size.
+<LI>The player who received the largest-valued double piece begins the game placing down this piece, thus starting a configuration with two extremes.
+<LI>Each player, in turn, has to place down one of his (her) pieces, always at one of the extremes of the current configuration, if and only if that piece has one of its sides matching the number at the outer side of the extreme piece. The piece is placed so that the sides with matching numbers are adjacent to each other. No special treatment is given to a double piece in that regard: it is placed down with one of its matching sides adjacent to the extreme piece.
+<LI>Whenever a player has no piece matching one of the extremes, then he (she) passes his (her) turn.
+<LI>The winner is that player who first places down all of his pieces.
+</UL>
+
+<P>
+Suppose the two players are named Red and Green. Given initial sets of pieces assigned to each of Red and Green, your problem is to determine whether (i) only one of them can win, or (ii) both of them can win, or (iii) none of them can win the game. <B>Remember that this is not a problem of finding winning strategies. You just have to find out the winning possibility of each player.</B>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file may contain several instances of the problem. Each instance consists of one line in the following format:
+
+<P>
+<PRE>
+n r11 r12 r21 r22 ... rn1 rn2 g11 g12 ... gn1 gn2
+</PRE>
+
+<P>
+where:
+<UL>
+<LI><TT>n</TT> is the size of the subsets assigned to Red and Green; you may assume that 
+<!-- MATH: $1 \leŸ n \leŸ 14$ -->
+<IMG
+ WIDTH="88" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="742img2.gif"
+ ALT="$1 \leŸ n \leŸ 14$">;
+<LI><TT>ri1 ri2</TT> is the <I>i</I>-th piece assigned to player Red;
+<LI><TT>gi1 gi2</TT> is the <I>i</I>-th piece assigned to player Green;
+<LI>no pieces are repeated;
+<LI>at least one player is assigned a double piece;
+<LI>each of <TT>ri1 ri2 gi1 gi2</TT> is an integer number from 0 to 6.
+</UL>
+
+<P>
+An arbitrary number of blank spaces may separate a number from its neighbours in the input line of an instance. Consecutive instances are NOT separated by blank lines. The last line has <I>n</I> = 0.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each instance of the problem, your program should print one line containing one of the four messages:
+
+<P>
+<PRE>
+Only player Red can win
+Only player Green can win
+Both players can win
+No player can win
+</PRE>
+
+<P>
+A blank line separates the outputs of two consecutive instances.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1 6 6 0 0
+2 5 5 3 4 1 5 3 5
+2 1 1 2 2 3 3 4 4
+1 4 5 4 4
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Only player Red can win
+
+Both players can win
+
+No players can win
+
+Only player Green can win
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

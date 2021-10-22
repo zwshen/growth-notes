@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Where's Waldorf?</TITLE>
+<META NAME="description" CONTENT="Problem C: Where's Waldorf?">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Where's Waldorf?</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+Given a <I>m</I> by <I>n</I> grid of letters, (
+<!-- MATH: $1 \leq m,n \leq 20$ -->
+<IMG
+ WIDTH="111" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10010img2.gif"
+ ALT="$1 \leq m,n \leq 20$">), and a list
+of words, find the location in the grid at which the word can be found.
+
+A word matches a straight, uninterrupted line of letters in the grid.
+A word can match the letters in the grid regardless of case (i.e.  upper
+and lower case letters are to be treated as the same).  The matching
+can be done in any of the eight directions either horizontally, vertically
+or diagonally through the grid.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+<b>
+The input begins with a single positive integer on a line by itself indicating 
+the number of the cases following, each of them as described below. 
+This line is followed by a blank line, and there is also a blank line between 
+two consecutive inputs.
+</b>
+<p>
+<p>
+
+The input begins with a pair of integers, <I>m</I> followed by <I>n</I>, 
+<!-- MATH: $1 \leq
+m,n \leq 50$ -->
+<IMG
+ WIDTH="111" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10010img2.gif"
+ ALT="$1 \leq
+m,n \leq 50$">
+in decimal notation on a single line.  The next <I>m</I> lines
+contain <I>n</I> letters each;  this is the grid of letters in which the
+words of the list must be found.  The letters in the grid may be in
+upper or lower case.  Following the grid of letters, another integer
+<I>k</I> appears on a line by itself (
+<!-- MATH: $1 \leq k \leq 20$ -->
+<IMG
+ WIDTH="87" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10010img3.gif"
+ ALT="$1 \leq k \leq 20$">).  The next <I>k</I>
+lines of input contain the list of words to search for, one word per
+line.  These words may contain upper and lower case letters only (no
+spaces, hyphens or other non-alphabetic characters).
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<b>
+For each test case, the output must follow the description below. 
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+For each word in the word list, a pair of integers representing the
+location of the corresponding word in the grid must be output.  The
+integers must be separated by a single space.  The first integer is the
+line in the grid where the first letter of the given word can be found
+(1 represents the topmost line in the grid, and <I>m</I> represents the
+bottommost line).  The second integer is the column in the grid where
+the first letter of the given word can be found (1 represents the
+leftmost column in the grid, and <I>n</I> represents the rightmost column in
+the grid).  If a word can be found more than once in the grid, then the
+location which is output should correspond to the uppermost occurence
+of the word (i.e. the occurence which places the first letter of the
+word closest to the top of the grid).  If two or more words are
+uppermost, the output should correspond to the leftmost of these
+occurences.  All words can be found at least once in the grid.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<PRE>
+1
+
+8 11
+abcDEFGhigg
+hEbkWalDork
+FtyAwaldORm
+FtsimrLqsrc
+byoArBeDeyv
+Klcbqwikomk
+strEBGadhrb
+yUiqlxcnBjf
+4
+Waldorf
+Bambi
+Betty
+Dagbert
+</PRE>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<PRE>
+2 5
+2 3
+1 2
+7 8
+</PRE>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-22</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

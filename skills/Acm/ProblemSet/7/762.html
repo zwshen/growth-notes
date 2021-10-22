@@ -1,0 +1,121 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>We Ship Cheap</TITLE>
+<META NAME="description" CONTENT="We Ship Cheap">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+We Ship Cheap</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The We-Ship-Cheap package shipping company is always interested in reducing 
+their
+costs. They have decided that a computerized shipping route planner that 
+determines the
+shortest shipping route between two cities would speed package delivery. 
+We-Ship-Cheap
+services a number of different cities. They have established direct shipping 
+links
+between pairs of cities. It is somewhat unusual that they have been able to 
+create all the
+direct links with exactly the same distance. Unfortunately, since not every 
+pair of cities
+is connected by a direct link, the shortest shipping route often involves 
+travel through
+multiple intermediate cities.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input and Output</A>&nbsp;</FONT>
+</H2>
+Write a program that given a collection of cities and links between them, 
+and a shipping
+request, prints out the shortest shipping route for the given shipping 
+request.
+
+<P>
+
+<P>
+<BR>
+The program takes as input a variable number of lines, each
+consisting of exactly two cities (identified by a two-uppercase-letter code
+and separated by a space). Each line identifies a bidirectional
+link that exists between the two cities. Following the link
+information will be a single shipping request that identifies a
+source and destination city. The program will produce as output a
+shortest shipping route (note that multiple minimum length routes
+may exist) between the two cities. If no route exists, the program
+should output ``<TT>No route</TT>''
+
+<P>
+
+<P>
+<BR>
+The first line of input will consist of a single integer that represents the number of links
+given in the input. The last line will contain the source and destination cities for which
+you are to find the minimal route. You may assume that the input is valid and consistent.
+
+<P>
+If there are two or more test cases, it will be a
+blank line between two consecutive, both in input and output files. 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Sample input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+JV PT
+KA PT
+KA HP
+JV HP
+
+2
+JV PT
+KA HP
+JV HP
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+JV PT
+PT KA
+KA HP
+
+No route
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-12-30</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

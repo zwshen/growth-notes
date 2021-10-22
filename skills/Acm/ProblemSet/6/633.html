@@ -1,0 +1,192 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>A Chess Knight</TITLE>
+<META NAME="description" CONTENT="A Chess Knight">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+A Chess Knight</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Presumably everybody knows how a knight can move on a chessboard. One may
+agree that its movements are quite monotonous, so to make them more
+entertaining let's define a so called ``dynamic knight". A dynamic knight can
+perform many different movements that may belong to three types:
+
+<P>
+<UL>
+<LI>type K: two fields forward (in any direction) and one sidewise - like ``regular knight";
+<LI>type B: two fields diagonally - more like a bishop;
+<LI>type T: sort of teleportation to a field which is a mirror reflection with respect to any of two axes of symmetry of the chessboard (we take into consideration only axes of symmetry parallel to sides of the chessboard);
+</UL>
+
+<P>
+The picture below shows all possible movements of a knight divided into three
+types K, B and T. Obviously our knight, like the ``regular" one cannot move
+outside the chessboard.
+
+<P>
+<DIV ALIGN="CENTER">
+<img src=p633.gif>
+</DIV>
+
+<P>
+For a dynamic knight it is not relevant whether the fields between the
+starting field and ending one are occupied or not (again like for
+the ``regular knight"). It only matters whether the ending field is empty.
+Then the movement can be performed. There has to be a restriction
+among so many capabilities of a dynamic knight. It cannot perform the
+same sort of movements consecutively (just not to fall into routine).
+
+<P>
+
+<P>
+<BR>
+Having redefined a chess knight, why not to redefine a chessboard? Our
+chessboard will be a square of size 
+<!-- MATH: $2N \times 2N$ -->
+<IMG
+ WIDTH="75" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="633img2.gif"
+ ALT="$2N \times 2N$">.
+<I>N</I> can be any integer number from
+the range of 3..20. There can be several obstacles of any shape on a
+chessboard so a knight cannot stop on these defected fields.
+
+<P>
+
+<P>
+<BR>
+Your task is to write a program which can calculate the minimal number of
+movements to get the knight from one given field to another one. It may be
+assumed that the first movement can be of any type.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+First line contains the number <I>N</I>, being the size of a chessboard. The second
+one contains field coordinates separated by space character, which is a knight
+current standpoint. Upper left-hand size corner has coordinates (1, 1).
+Third line contains destination field for the knight. Consecutive lines
+contain obstacle coordinates and the line with coordinates (0, 0) ends the
+obstacle description. Input can contain several sets of data. 
+
+<P>
+Input's end
+is shown as a line defining chessboard's size as 0.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+It is supposed to be fairly simple - one line with a single number being
+the calculated minimal number of movements.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+1 1
+1 1
+2 2
+0 0
+10
+1 1
+20 20
+20 1
+1 20
+3 1
+3 2
+3 3
+2 3
+1 3
+0 0
+10
+2 1
+18 12
+2 2
+5 6
+7 2
+8 3
+9 4
+1 15
+7 12
+8 13
+9 11
+11 9
+12 4
+11 3
+9 5
+2 7
+3 8
+6 5
+0 0
+3
+1 1
+5 4
+2 2
+2 4
+2 5
+3 1
+3 2
+3 3
+3 6
+4 2
+4 3
+4 5
+5 1
+5 3
+5 5
+6 1
+6 4
+6 5
+6 6
+0 0
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+Result : 0
+Solution doesn't exist
+Result : 6
+Result : 4
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-01-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

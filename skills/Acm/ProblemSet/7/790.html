@@ -1,0 +1,134 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Head Judge Headache</TITLE>
+<META NAME="description" CONTENT="Head Judge Headache">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Head Judge Headache</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+You are the Head Judge of the ACM Eastern European Regional Programming
+Contest. The master Judge computer has been infected by computer virus which
+has formated the hard disk.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input indicates the number of test cases, and it's followed by a blank line.
+<p>
+For each dataset you have only the listing of submitted problems
+log formatted as follows:
+
+<P>
+
+<P>
+<BR>
+
+<IMG
+ WIDTH="80" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="790img1.gif"
+ ALT="$Team \_No$">(<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="790img2.gif"
+ ALT="$\le$">
+25)  
+<!-- MATH: $Problem \_Letter$ -->
+<IMG
+ WIDTH="127" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="790img3.gif"
+ ALT="$Problem \_Letter$">(<TT>A..G</TT>)  
+<!-- MATH: $Time \_of
+\_submittion$ -->
+<IMG
+ WIDTH="162" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="790img4.gif"
+ ALT="$Time \_of
+\_submittion$">(<I>h</I><TT>:</TT><I>mm</I>)  
+<!-- MATH: $Status \_of \_the \_run$ -->
+<IMG
+ WIDTH="147" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="790img5.gif"
+ ALT="$Status \_of \_the \_run$">(<TT>Y/N</TT>)
+
+<P>There's a blank line between datasets.
+
+<p>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Write a program to compute the final standing for each dataset by using the following rules:
+
+<P>
+<UL>
+<LI>Teams are ranked according to the most problems solved.
+<LI>Teams who have solved the same number of problems are ranked by least total time.
+<LI>The total time is the sum of the time consumed for each problem solved.
+<LI>The time consumed for a solved problem is the time elapsed from the beginning
+of the contest to the submital of the accepted run plus 20 minutes for each
+previously rejected run. Further
+submisions will be ignored.
+<LI>There is no time consumed for  a problem that is not solved.
+<LI>Teams with equal score are assigned equal rank sorted by team number.
+</UL>
+
+<P>Print a blank line between datasets.
+<p>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1
+
+1 A 0:50 N
+3 A 1:12 Y
+2 B 1:19 N
+1 A 1:20 Y
+2 B 1:35 N
+1 B 1:36 N
+3 B 1:40 Y
+3 C 1:41 N
+4 A 1:40 Y
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+RANK TEAM PRO/SOLVED TIME
+   1    3    2        172
+   2    1    1        100
+   2    4    1        100
+   4    2
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2001-01-05</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,138 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Worm World</TITLE>
+<META NAME="description" CONTENT="Worm World">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Worm World</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The WormWold puzzle was initially proposed by Cliff Pickover in
+the Discover Magazine, issue of November 1994 (a visit to his home
+page is highly recommended!). The WormWorld is a grid of numbers
+and it is a tough place to live in. The worms that inhabit it are
+all born with nasty allergies. The first time they come in contact
+with a number, their immune systems are overstimulated; if they
+are exposed to that number a second time, they die of anaphylactic
+shock.
+
+<P>
+A worm can start crawling on any square in WormWorld, and it can
+then move horizontally or vertically but not diagonally.  In this
+scenario, what is the longest path a worm can take without dying?
+An example is illustrated in the following figure.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p838.eps}$
+ -->
+<IMG
+ SRC="p838.jpg"
+ ALT="\epsfbox{p838.eps}">
+</DIV>
+
+<P>
+Write a program that determines the largest path a worm can take
+for a given grid.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+<B>The input begins with a single positive integer on a line by itself indicating
+the number of the cases following, each of them as described below.
+This line is followed by a blank line, and there is also a blank line between
+two consecutive inputs.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+The first input line is the size <SPAN CLASS="MATH"><I>N</I></SPAN> of the grid (<!-- MATH
+ $0
+< N \le 12$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>N</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="838img2.png"
+ ALT="$ \le$">12</SPAN>). This is followed by <SPAN CLASS="MATH"><I>N</I></SPAN> input lines, each one with
+<SPAN CLASS="MATH"><I>N</I></SPAN> positive integer values separated by blank spaces (as a
+simplification, we will only use grid values less then 1000).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+<B>For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+The output is the size (in terms of the number of squares) of the
+largest path that a worm can take.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1
+
+3
+1 2 1
+2 3 4
+3 2 1
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+4
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Fernando Silva, ACM-UP'2001
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

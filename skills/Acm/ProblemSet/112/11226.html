@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.O Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<title>H. Reaching the fix-point</title>
+<LINK REL=StyleSheet HREF="styles/ufrnqc.css" TYPE="text/css" MEDIA=screen>
+</head>
+
+<body>
+
+<div>
+<img src="images/BRAZIL.gif" height="40px" align="left">
+<img src="images/UFRN.jpg" height="40px" align="right">
+</div>
+
+<h1>H. Reaching the fix-point</h1>
+
+<h3>Time limit: 1s</h3>
+
+<p>A prime number <math>p</math> is a natural number greater than
+<math>1</math> that has only two natural divisors: <math>1</math> and
+<math>p</math> itself. Any natural number <math>n</math>, such that
+<math>n > 1</math>, has a unique decomposition into prime factors, for
+instance <math>4 = 2 &times; 2, 5 = 5, 6 = 2 &times
+3</math>. </p>
+
+<p>Let <math>sopf(n)</math> denote the sum of the prime factors of a
+natural number <math>n</math>. For instance, <math>sopf(4) = 2 + 2 =
+4</math>, <math>sopf(5) = 5</math>, and <math>sopf(6) = 2 + 3 =
+5</math>. </p>
+
+<p>If we take the result of this sum, we may compute again the sum of
+its prime factors, and repeat this <i>ad nauseam</i>. However, at some
+point, we always reach a fix-point, that is a number <math>f</math>
+such that <math>f = sopf(f)</math>. For instance, starting from 8,
+<math>sopf(8) = 2 + 2 + 2 = 6</math>, then <math>sopf(6) = 2 + 3 =
+5</math>, and <math>sopf(5) = 5</math>: applying repetitively
+<math>sopf</math> from 8 generates the sequence <math>8, 6, 5, 5,
+5,...</math> So, from the initial value 8, it takes 3 applications of
+<math>sopf</math> to discover that we have reached a fix-point.</p>
+
+<p>Let <math>lsopf(n)</math> denote the number of applications of
+<math>sopf</math> from <math>n</math> that is required to discover
+that the fix-point has been reached. For instance, <math>lsopf(8) =
+3</math> and <math>lsopf(4) = 1</math>.</p>
+
+<p>Your task is, given two natural numbers <math>n</math> and
+<math>m</math> (with <math>n > 1</math> and <math>m > 1</math>), find
+the largest value the function <math>lsopf</math> takes in the
+interval between <math>n</math> and <math>m</math>.
+
+<h2>Input</h2>
+
+<p>The first line of input gives the number of cases, <math>T</math>
+(with <math>1 &le; T &le; 150</math>). <math>T</math> test cases
+follow. Each test case is on a single line, containing two natural
+numbers <math>n</math> and <math>m</math>, such that <math>1 < n, m &le; 500000</math>.  </p>
+
+<h2>Output</h2>
+
+<p>
+For each test case first print a line "Case #C:" (where <math>C</math> is the number of the current test case). Then print another line with the maximum of the function <math>lsopf</math> in the interval bounded by <math>n</math> and <math>m</math>.
+</p>
+
+<h2>Sample input</h2>
+
+<pre>
+2
+2 10
+11 20
+</pre>
+
+<h2>Sample output</h2>
+
+<pre>
+Case #1:
+3
+Case #2:
+4
+</pre>
+
+<hr />
+<address>Problem setter: David Deharbe.<br />
+Universidade Federal do Rio Grande do Norte Qualifying Contest IV, June 9th, 2007.</address>
+
+</body>
+
+</html>

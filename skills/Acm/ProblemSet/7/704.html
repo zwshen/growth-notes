@@ -1,0 +1,220 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Colour Hash</TITLE>
+<META NAME="description" CONTENT="Colour Hash">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Colour Hash</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+This puzzle consists of two wheels. Both wheels can rotate both clock and counter-clockwise. 
+They contain 21 coloured pieces, 10 of which are rounded triangles and 11 of
+which are separators. Figure 1 shows the final position of each one of the
+pieces. Note that to perform a one step rotation you must turn the wheel until
+you have advanced a triangle and a separator. 
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p704a.gif>
+
+<P>
+
+<P>
+<BR>
+Figure 1. Final puzzle configuration
+</DIV>
+
+<P>
+Your job is to write a program that reads the puzzle configuration and prints the minimum 
+sequence of movements required to reach the final position. We will use the
+following integer values to encode each type of piece: 
+
+<P>
+
+<P>
+<BR>
+
+<TABLE CELLPADDING=3>
+<TR><TD ALIGN="CENTER">0</TD>
+<TD ALIGN="LEFT">grey separator</TD>
+</TR>
+<TR><TD ALIGN="CENTER">1</TD>
+<TD ALIGN="LEFT">yellow triangle</TD>
+</TR>
+<TR><TD ALIGN="CENTER">2</TD>
+<TD ALIGN="LEFT">yellow separator</TD>
+</TR>
+<TR><TD ALIGN="CENTER">3</TD>
+<TD ALIGN="LEFT">cyan triangle</TD>
+</TR>
+<TR><TD ALIGN="CENTER">4</TD>
+<TD ALIGN="LEFT">cyan separator</TD>
+</TR>
+<TR><TD ALIGN="CENTER">5</TD>
+<TD ALIGN="LEFT">violet triangle</TD>
+</TR>
+<TR><TD ALIGN="CENTER">6</TD>
+<TD ALIGN="LEFT">violet separator</TD>
+</TR>
+<TR><TD ALIGN="CENTER">7</TD>
+<TD ALIGN="LEFT">green triangle</TD>
+</TR>
+<TR><TD ALIGN="CENTER">8</TD>
+<TD ALIGN="LEFT">green separator</TD>
+</TR>
+<TR><TD ALIGN="CENTER">9</TD>
+<TD ALIGN="LEFT">red triangle</TD>
+</TR>
+<TR><TD ALIGN="CENTER">10</TD>
+<TD ALIGN="LEFT">red separator</TD>
+</TR>
+</TABLE>
+
+<P>
+
+<P>
+<BR>
+A puzzle configuration will be described using 24 integers, the first 12 to describe the left 
+wheel configuration and the last 12 for the right wheel. The first integer
+represents the bottom right separator of the left wheel and the next eleven
+integers describe the left wheel clockwise. The thirteenth integer represents
+the bottom left separator of right wheel and the next eleven integers describe
+the right wheel counter-clockwise.
+
+<P>
+The final position is therefore encoded like:
+
+<P>
+<DIV ALIGN="CENTER">
+<TT>0 3 4 3 0 5 6 5 0 1 2 1 0 7 8 7 0 9 10 9 0 1 2 1</TT>
+</DIV>
+
+<P>
+If for instance we rotate the left wheel clockwise one position from the final configuration 
+(as shown in  Figure 2) the puzzle configuration would be encoded like:
+
+<P>
+<DIV ALIGN="CENTER">
+<TT>2 1 0 3 4 3 0 5 6 5 0 1 0 7 8 7 0 9 10 9 0 5 0 1</TT>
+</DIV>
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p704b.gif>
+
+<P>
+
+<P>
+<BR>
+Figure 2. The puzzle after rotating the left wheel on step clockwise from the final configuration.
+</DIV>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Input for your program consists of several puzzles. The first line of the input will contain an 
+integer <I>n</I> specifying the number of puzzles. There will then be <I>n</I> lines each
+containing 24 integers separated with one white space, describing the initial
+puzzle configuration as explained above. 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each configuration your program should output one line with just one number representing 
+the solution. Each movement is encoded using one digit from 1 to 4 in the
+following way:
+
+<P>
+
+<P>
+<BR>
+
+<TABLE CELLPADDING=3>
+<TR><TD ALIGN="CENTER">1</TD>
+<TD ALIGN="LEFT">Left Wheel Clockwise rotation</TD>
+</TR>
+<TR><TD ALIGN="CENTER">2</TD>
+<TD ALIGN="LEFT">Right Wheel Clockwise rotation</TD>
+</TR>
+<TR><TD ALIGN="CENTER">3</TD>
+<TD ALIGN="LEFT">Left Wheel Counter-Clockwise rotation</TD>
+</TR>
+<TR><TD ALIGN="CENTER">4</TD>
+<TD ALIGN="LEFT">Right Wheel Counter-Clockwise rotation</TD>
+</TR>
+</TABLE>
+
+<P>
+
+<P>
+<BR>
+No space should be printed between each digit. Since multiple solutions could be found, you 
+should print the solution that is encoded as the smallest number. The
+solution will never require more than 16 movements.
+
+<P>
+If no solution is found you should print ``<TT>NO SOLUTION WAS FOUND IN 16 STEPS</TT>". If you are given 
+the final position you should print  ``<TT>PUZZLE ALREADY SOLVED</TT>".
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+0 3 4 3 0 5 6 5 0 1 2 1 0 7 8 7 0 9 10 9 0 1 2 1
+0 3 4 5 0 3 6 5 0 1 2 1 0 7 8 7 0 9 10 9 0 1 2 1
+0 9 4 3 0 5 6 5 0 1 2 1 0 7 8 7 0 9 10 3 0 1 2 1
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+PUZZLE ALREADY SOLVED
+1434332334332323
+NO SOLUTION WAS FOUND IN 16 STEPS
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,168 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<!--Converted with LaTeX2HTML 2002-2-1 (1.70)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+  <title>Problem E</title>
+  <meta name="description" content="wondergizmo">
+  <meta name="keywords" content="wondergizmo">
+  <meta name="resource-type" content="document">
+  <meta name="distribution" content="global">
+  <meta name="Generator" content="LaTeX2HTML v2002-2-1">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <link rel="STYLESHEET" href="wondergizmo.css">
+</head>
+<body>
+
+<!--
+<div class="navigation">
+<br>
+</div>
+-->
+
+<h1>Customer service cost evaluation</h1>
+
+<!--
+<div class="centerline" id="par96" align="center"><big><big><big><big
+ class="XXLARGE">C<small>USTOMER SERVICE COST EVALUATION</small></big></big></big></big></div>
+
+<p><big><big><big><big><big>
+</big></big></big></big></big></p>
+<p></p>
+<p><br>
+</p>
+<p></p>
+-->
+<h2><a name="SECTION00010000000000000000">Problem</a>
+</h2>
+<p>
+Corporation XPTO has developed a catchy new gizmo it expects to sale in
+large numbers.
+However its quality assurance department found out a major fault with
+the new product, named <span class="textit">WonderGizmo</span>, which
+will lead to high
+complaint and return rates.
+When exposed to direct moon light it will break!
+</p>
+<p>XTPO's CEO decided to compare the cost of redesigning
+<span class="textit">WonderGizmo</span> with the cost of replacing
+faulty products, and put
+you in charge of developing a tool for calculating the amount of units
+that will have to be fixed or replaced during a period of time after
+sales begin.
+</p>
+<p>This is what you were told:
+</p>
+<p></p>
+<ul>
+  <li>Sales will begin on a Monday.
+    <p></p>
+  </li>
+  <li><span class="textit">WonderGizmo</span> will sell every day of
+the week from 10:00:00 to
+18:00:00.
+A unit will be sold after every <span class="textit">S</span> seconds
+the store is open.
+No sales will be conducted after close time.
+    <p></p>
+  </li>
+  <li>The Costumer Care Service will have the same schedule but will
+only be
+open from Monday to Friday.
+It will have a staff of <span class="textit">E</span> employees, each
+requiring <span class="textit">R</span>
+seconds to repair a broken <span class="textit">WonderGizmo</span>.
+A unit which would only be fixed after close time, will not be fixed
+that day, but left untouched to be fixed the following work day.
+    <p></p>
+  </li>
+  <li>Every night, <span class="textit">F</span> percent of the faulty
+units in circulation will
+break. The number of broken units is the floor of this percentage.
+The following morning the owners of the failed units will join the
+end of the queue at the Costumer Care Service.
+They will either leave with a repaired unit or, should they wait for
+three days without being serviced, a new replacement unit.
+Replacement will be granted each day at closing time, to every client
+who is in its third (or more) day of waiting.
+That very same night these costumers will be using their units.
+    <p>For instance, a client who joins the queue on Monday morning
+will be
+given a replacement at Wednesday's closing time if he is still waiting
+to be serviced.
+However, a client who joins the queue on Thursday may have to wait
+until Monday's close time. </p>
+    <p></p>
+  </li>
+  <li>Costumer Care Service's fixed units will never again fail.
+Replaced units are just like the ones sold to costumers, faulty.
+    <p></p>
+  </li>
+</ul>
+<p>
+</p>
+<h2><a name="SECTION00020000000000000000">Input</a>
+</h2>
+Your program will receive several test cases separated by a blank line. Each of them contains 5 integer numbers, each on a line of its
+own.
+The first is the number of seconds between each sale in seconds,
+<span class="textit">S</span>.
+The second is the numbers of employees repairing <span class="textit">WonderGizmos</span>,
+<span class="textit">E</span>.
+The third is the number of seconds it takes to repair each unit in
+seconds, <span class="textit">R</span>.
+The fourth is the percentage of faulty units in circulation that will
+fail each night, <span class="textit">F</span>, which will be a number
+between 1 and 99.
+The fifth number is the number of selling days for which the results
+must be known.
+<p></p>
+<h2><a name="SECTION00030000000000000000">Output</a>
+</h2>
+<p>
+The output for each test case consists of four lines, each with an integer number.
+The first line will indicate the number of replaced units.
+The second line will indicate the number of repaired units.
+The third line will indicate the number of faulty units in
+circulation.
+The last line represents the length of the queue at the Costumer Care
+Service.
+</p>
+<p>The program will give the results at shop closing time of the last
+day. Print a blank line between test cases.
+</p>
+<p></p>
+<h2><a name="SECTION00040000000000000000">Sample input 1</a>
+</h2>
+<p>
+</p>
+<pre>3600<br>1<br>28800<br>50<br>2<br></pre>
+<p>
+</p>
+<h2><a name="SECTION00050000000000000000">Sample output 1</a>
+</h2>
+<p>
+</p>
+<pre>0<br>1<br>12<br>3<br></pre>
+<p>
+</p>
+<h2><a name="SECTION00060000000000000000">Sample input 2</a>
+</h2>
+<p>
+</p>
+<pre>1800<br>2<br>14400<br>10<br>8<br></pre>
+<p>
+</p>
+<h2><a name="SECTION00070000000000000000">Sample output 2</a>
+</h2>
+<p>
+</p>
+<pre>3<br>16<br>97<br>15<br></pre>
+<p>
+</p>
+<br>
+</body>
+</html>

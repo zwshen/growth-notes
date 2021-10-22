@@ -1,0 +1,351 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./a_files/filelist.xml">
+<link rel=Edit-Time-Data href="./a_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem A - The Fun Number System</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>67</o:Revision>
+  <o:TotalTime>123</o:TotalTime>
+  <o:Created>2004-05-14T06:35:00Z</o:Created>
+  <o:LastSaved>2004-08-25T04:35:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>340</o:Words>
+  <o:Characters>1942</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>16</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>2384</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"TimesNewRoman\,Italic";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:CourierNewPSMT;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:Arial;}
+h3
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:13.0pt;
+	font-family:Arial;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:18.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+tt
+	{mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+p.preformatted, li.preformatted, div.preformatted
+	{mso-style-name:preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.8in .8in .8in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:28.0pt;mso-bidi-font-size:18.0pt;font-family:Arial'>Problem A</span></b><span
+style='font-family:Arial'><br>
+</span><b><span style='font-size:20.0pt;mso-bidi-font-size:12.0pt;font-family:
+Arial'>The Fun Number System</span></b><br>
+<b><span style='font-family:Arial'>Input:</span></b><span style='font-family:
+Arial'> standard input<br>
+<b>Output:</b> standard output<br>
+<b>Time Limit:</b> 1 second</span><br style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'>In a <b>k</b><i> </i>bit <b>2</b>’s complement number,
+where the bits are indexed from <b>0</b> to <b>k –1</b>, the weight of the most
+significant bit (i.e., in position <b>k –1</b>), is <b>–2</b><b><sup><span
+style='mso-bidi-font-size:6.5pt'>k–1</span></sup></b><span style='mso-bidi-font-size:
+6.5pt'> </span>, and the weight of a bit in any position <b>i (0 =i &lt; k –1)
+is 2</b><b><sup><span style='mso-bidi-font-size:6.5pt'>i</span></sup></b><i><span
+style='mso-bidi-font-size:6.5pt'> </span></i><span style='mso-bidi-font-size:
+6.5pt'>. </span>For example, a <b>3</b> bit number <b>101</b> is evaluated as <b>-2<sup>2</sup>+0+2<sup>0</sup>
+= -3</b> and <b>011</b> as <b>–0+2<sup>1</sup>+2<sup>0</sup></b><b><sup><span
+style='mso-bidi-font-size:6.5pt'> </span></sup>= 3</b>. A negatively weighted
+bit is called a <b>negabit</b><i> </i>(such as the most significant bit in a <b>2</b>’s
+complement number), and a positively weighted bit is called a <b>posibit</b>.<tt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+color:black'><o:p></o:p></span></tt></p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:10.0pt'>A Fun number
+system is a positional binary number system, where each bit can be either a <b>negabit</b>,
+or a <b>posibit</b>. For example consider a <b>3</b>-bit fun number system
+Fun3, where bits in positions <b>0</b>, and <b>2</b> are <b>posibits</b>, and
+the bit in position <b>1 </b>is a negabit. <b>(111)</b></span><sub><span
+style='mso-bidi-font-size:6.5pt'>Fun3</span></sub><span style='mso-bidi-font-size:
+6.5pt'> </span><span style='mso-bidi-font-size:10.0pt'>is evaluated as <b>2</b></span><b><sup><span
+style='mso-bidi-font-size:6.5pt'>2</span></sup></b><b><span style='mso-bidi-font-size:
+6.5pt'> </span></b><b><span style='mso-bidi-font-size:10.0pt'>–2</span></b><b><sup><span
+style='mso-bidi-font-size:6.5pt'>1</span></sup></b><b><span style='mso-bidi-font-size:
+6.5pt'> </span></b><b><span style='mso-bidi-font-size:10.0pt'>+ 1 = 3</span></b><span
+style='mso-bidi-font-size:10.0pt'>. Now you are going to have fun with the Fun
+number systems! You are given the description of a <b>k</b>-bit Fun number
+system <b>Funk</b>, and an integer <b>N</b><i> </i>(Maybe negative). You should
+determine the <b>k</b><i> </i>bits of a representation of <b>N</b><i> </i>in <b>Funk</b>,
+or report that it is not possible to represent the given <b>N</b> in the given <b>Funk</b>.
+For example, a representation of <b>–1</b> in the <b>Fun3</b> number system
+(defined above), is <b>011</b> (evaluated as <b>0–2</b></span><b><sup><span
+style='mso-bidi-font-size:6.5pt'>1</span></sup></b><b><span style='mso-bidi-font-size:
+10.0pt'>+2</span></b><b><sup><span style='mso-bidi-font-size:6.5pt'>0</span></sup></b><span
+style='mso-bidi-font-size:6.5pt'> </span><span style='mso-bidi-font-size:10.0pt'>),
+and representing <b>6</b> in <b>Fun3</b> is impossible.</span></p>
+
+<p class=MsoCaption><span style='font-size:16.0pt;mso-bidi-font-size:18.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoCaption style='text-align:justify'><span style='font-size:16.0pt;
+mso-bidi-font-size:18.0pt'>Input<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:10.0pt'>The first line of
+the input file contains a single integer <b>t (0 &lt;t =100)</b>, the number of
+test cases, followed by the input data for each test case. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:10.0pt'>Each test case is
+given in three consecutive lines. In the first line there is a positive integer
+<b>k(1&lt;=k &lt;=64)</b>. In the second line of a test data there is a string
+of length <b>k</b>, composed only of letters <b>n</b> , and <b>p</b> ,
+describing the Fun number system for that test data, where each <b>n (p)</b>
+indicates that the bit in that position is a <b>negabit (posibit)</b>. The
+third line of each test data contains an integer <b>N (-2</b></span><b><sup><span
+style='mso-bidi-font-size:6.5pt'>63</span></sup></b><b><span style='mso-bidi-font-size:
+6.5pt'> </span></b><b><span style='mso-bidi-font-size:10.0pt'>=N&lt;2</span></b><b><sup><span
+style='mso-bidi-font-size:6.5pt'>63</span></sup></b><b><span style='mso-bidi-font-size:
+10.0pt'>)</span></b><span style='mso-bidi-font-size:10.0pt'>, the number to be
+represented in the <b>Funk</b><i> </i>number by your program.</span></p>
+
+<p class=MsoHeader>&nbsp;</p>
+
+<h2><span style='font-size:16.0pt;mso-bidi-font-size:18.0pt'>Output<o:p></o:p></span></h2>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'>For each test data, you should print one line containing
+either a <b>k</b>-bit string representing the given number <b><span
+style='font-family:"TimesNewRoman\,Italic"'>N</span></b><i><span
+style='font-family:"TimesNewRoman\,Italic"'> </span></i>in the <b>Fu</b><b><span
+style='font-family:"TimesNewRoman\,Italic"'>nk</span></b><i><span
+style='font-family:"TimesNewRoman\,Italic"'> </span></i>number system, or the
+word <b><span style='font-family:CourierNewPSMT'>Impossible</span></b>, when it
+is impossible to represent the given number.<tt><span style='mso-ansi-font-size:
+12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:black'><o:p></o:p></span></tt></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h1><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>Sample
+Input<span style="mso-spacerun: yes">                             
+</span>Output for Sample Input<o:p></o:p></span></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width=307 valign=top style='width:3.2in;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'>2<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'>3<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'>pnp <o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'>6 <o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'>4<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'>ppnn<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'>10</span></b><span
+  style='font-size:10.0pt;font-family:CourierNewPSMT'><o:p></o:p></span></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><![if !supportEmptyParas]>&nbsp;<![endif]><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:SimSun;color:black;mso-fareast-language:
+  ZH-CN'><o:p></o:p></span></b></p>
+  </td>
+  <td width=309 valign=top style='width:231.85pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>Impossible<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>1110</span></b><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";
+  mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><![if !supportEmptyParas]>&nbsp;<![endif]><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";
+  mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p class=MsoNormal><b><span style='font-family:Arial'>Problem source: Iranian
+Contest<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-family:Arial'>Special Thanks Monirul
+Hasan, EPS.<o:p></o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Simultaneous Equations</TITLE>
+<META NAME="description" CONTENT="Simultaneous Equations">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Simultaneous Equations</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Write a program that will solve a <I>n</I> by <I>n</I> system of simultaneous equations where the coefficients
+of the equations are complex numbers.
+(Recall that a complex number is an imaginary number of the form  <IMG WIDTH=90 HEIGHT=30 ALIGN=MIDDLE ALT="tex2html_wrap_inline38" SRC="472img1.gif"  > , where <I>a</I> and
+<I>b</I> are real numbers.)
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Input contains several datasets, each separated by an empty line. Each dataset consists of  <IMG WIDTH=82 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline44" SRC="472img2.gif"  >  lines each containing
+<I>n</I>+1 complex numbers in the form (<I>a</I>,<I>b</I>).
+The  <IMG WIDTH=104 HEIGHT=32 ALIGN=MIDDLE ALT="tex2html_wrap_inline50" SRC="472img3.gif"  > , complex number at line <I>i</I> is the coefficient of the  <IMG WIDTH=22 HEIGHT=32 ALIGN=MIDDLE ALT="tex2html_wrap_inline54" SRC="472img4.gif"  >  unknown in
+the  <IMG WIDTH=17 HEIGHT=15 ALIGN=BOTTOM ALT="tex2html_wrap_inline56" SRC="472img5.gif"  >  equation and the last complex number at line <I>i</I> represents
+the right-hand side of the  <IMG WIDTH=17 HEIGHT=15 ALIGN=BOTTOM ALT="tex2html_wrap_inline56" SRC="472img5.gif"  >  equation.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+The output for each dataset consists of <I>n</I> lines containing pairs of the form (<I>a</I>,<I>b</I>).
+The pair on line <I>i</I> of output represents the  <IMG WIDTH=17 HEIGHT=15 ALIGN=BOTTOM ALT="tex2html_wrap_inline56" SRC="472img5.gif"  >  root of the input system of equations. Each pair is to be printed in parenthesis with numbers accurately rounded to one digit to the right of the decimal point, as the sample below. In case the input system of equations can not be uniquely solved, your program should produce the sentence ``<TT>No solution</TT>&quot; as output.
+<P> Print a blank line between datasets.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>(1,0) (2,0) (3,0) (14,0)
+(2,0) (3,0) (4,0) (20,0)
+(3,0) (4,0) (4,0) (23,0)
+
+(1,0) (2,0) (3,0) (4,0)
+(2,0) (4,0) (6,0) (8,0)
+(3,0) (4,0) (5,0) (26,0)</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>(1.0,0.0)
+(2.0,0.0)
+(3.0,0.0)
+
+No solution</PRE>
+<P>
+</BODY>
+</HTML>

@@ -1,0 +1,144 @@
+<HTML>
+
+<head>
+<title>Cutting Polyominoes</title>
+</head>
+
+<BODY bgcolor="white">
+
+<FONT color="#0000FF"><H1>Problem G</h1></font>
+
+<FONT color="#0000FF"><H1><CENTER>Cutting Polyominoes</center></h1></font>
+
+A polyomino may be viewed as a set of squares connected by their
+sides. Its boundary is an orthogonal polygon.  They are often
+classified by their number of squares, which is equal to their area if
+each square has area 1.  We may represent a polymino in a grid as
+shown below.  We are interested in polyominoes without holes and that
+have exactly one edge in each grid line that intersects them.  Did you
+know that each polyomino results from a square (of area 1) by applying
+pairs of transformations <tt>INFLATE/CUT</tt>?  For
+example, the polyomino shown on the right is obtained if one applies
+<tt>INFLATE (0,0)</tt>, <tt>CUT (0,0)</tt>,
+<tt>INFLATE (1,1)</tt>, <tt>Cut (3,0)</tt>,
+<tt>INFLATE (0,1)</tt>, <tt>CUT (2,1)</tt>,
+<tt>INFLATE (1,2)</tt>, <tt>CUT (0,5)</tt>. It easy to see that it
+has area <tt>12</tt>.
+
+<p><img src="p919.gif" border=1>
+
+<p>We are considering that the initial northwest corner is placed in
+(0,0) and that <i>x</i> and <i>y</i> grow as in the figure.  <tt>INFLATE</tt>}
+<i>(p<sub>i</sub>,q<sub>i</sub>)</i> means ``multiplying by 4 the area
+of the cell'' (i.e. square) whose northwest corner is in
+<i>(p_i,q_i)</i>.  For this, we must duplicate the grid line where
+this cell is located and then duplicate the column where the cell was
+located. Obviously, we can drag down cells and then drag other cells
+to the right. The coordinates of the polyomino are also modified: <i>x
+-> x+1</i> iff <i>x > p<sub>i</sub></i> and <i>y -> y+1</i> iff <i>y >
+q<sub>i</sub></i>.  <b>One cell can only be inflated if it belongs to
+the polyomino</b>.
+
+<p>The sequence ``<tt>INFLATE (p<sub>i</sub>,q<sub>i</sub>)</tt>
+<tt>CUT (x<sub>i</sub>,y<sub>i</sub>)</tt>'' means that one must cut
+the rectangle defined by the points
+<tt>(p<sub>i</sub>+1,q<sub>i</sub>+1)</tt>,
+<tt>(p<sub>i</sub>+1,y<sub>i</sub>)</tt>,
+<tt>(x<sub>i</sub>,  y<sub>i</sub>)</tt>,
+<tt>(x<sub>i</sub>,  q<sub>i</sub>+1)</tt>.  <b>Such rectangle can only
+be cut if it simultaneously satisfies the following conditions</b>:
+
+<p><b>(A)</b> it is actually a rectangle and it is part of the polyomino;
+
+<p><b>(B)</b> <tt>(x<sub>i</sub>,y<sub>i</sub>)</tt> is a vertex of
+the inflated polyomino and none of the other vertices of the inflated
+polyomino belongs to the rectangle (either to its interior or
+boundary);
+
+<p><b>(C)</b> at least one of the points
+<tt>(x<sub>i</sub>,q<sub>i</sub>+1)</tt> and
+<tt>(p<sub>i</sub>+1,y<sub>i</sub>)</tt> is in an edge that contains
+<tt>(x<sub>i</sub><sub>i</sub>)</tt>.
+
+<FONT color="#0000FF"><H2>Problem</h2></font>
+
+Your task is to write a program that computes the area of polyominoes
+that result from applying a sequence of transformations
+<tt>INFLATE-CUT</tt> to squares of area 1.
+
+<FONT color="#0000FF"><H2>Input</h2></font>
+
+The input is a sequence of descriptions of polyominoes's
+constructions, ended by 0. Each description starts with an integer
+<i>r &#8804; 50</i>, which is the number of pairs <tt>INFLATE-CUT</tt>,
+followed by <i>r</i> rows, each one with four integers
+<i>p<sub>i</sub></i>, <i>q<sub>i</sub></i>, <i>x<sub>i</sub></i>,
+<i>y<sub>i</sub></i>, that mean "<tt>INFLATE
+(p<sub>i</sub>,q<sub>i</sub>)</tt> <tt>CUT
+(x<sub>i</sub>,y<sub>i</sub>)</tt>".  Observe that the polyomino
+resulting from <i>r</i> <tt>INFLATE-CUT</tt>'s has <i>2r+4</i> vertices.
+
+
+
+<FONT color="#0000FF"><H2>Output</h2></font>
+
+Each line of the output will have the area of the 
+constructed polyomino or 0 if any step in the construction does not 
+satisfy the rules just defined.
+
+<FONT color="#0000FF"><H2>Sample Input</h2></font>
+
+<PRE>
+4
+0 0 0 0
+1 1 3 0 
+0 1 2 1
+1 2 0 5
+6
+0 0 0 0
+1 1 3 0 
+0 1 2 1
+1 2 0 5
+5 5 5 4
+3 4 2 2
+6
+0 0 0 0
+1 1 3 0 
+0 1 2 1
+1 2 0 5
+4 4 2 3
+5 5 5 5
+5
+0 0 2 2
+1 0 1 2
+2 1 4 0
+0 3 0 0
+1 2 3 1
+2
+0 0 0 1
+0 0 2 2
+0
+</pre>
+
+<FONT color="#0000FF"><H2>Sample Output</h2></font>
+
+<PRE>
+12
+0
+0
+18
+0
+</pre>
+
+
+<BR>
+<HR>
+<i>
+Ana Paula Tomás, 2nd round of CPUP'04<br>
+(Concurso de Programação da Universidade do Porto 2004)<br>
+(Torneio Inter-Universitário de Programação, 2004, Round 3)
+</i>
+
+</body>
+</html>
+

@@ -1,0 +1,128 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Problem F: Ransom Note</TITLE>
+<META NAME="description" CONTENT="Problem F: Ransom Note">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Problem F: Ransom Note</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Gilbert Bates, the magnate of aluminum siding, doors, and windows, has
+been kidnapped.  You are to help the perpetrators produce a ransom
+note.  Your raw materials are the text of a newspaper and the text of
+the ransom note.  The ransom note is to be produced by clipping letters
+or strings of letters (and possibly spaces) from the newspaper and pasting 
+them onto a blank sheet of paper to form the note.  Your job is to determine 
+the minumum number of pieces of paper that must be clipped and pasted to form 
+the note.  Between each pair of words in the note, either the clipping
+must contain a space or a boundary between clippings must occur
+(so that the blank background shows through).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Standard input consists of the text of the note followed by the text 
+of the newspaper.
+The text of the note is a single line, less than 20KB in length, in
+lowercase with no punctuation.
+The text of the newspaper is in upper and lower case with punctuation and
+newlines mixed in.  Case may be ignored (aS IN aNY stANDard RAnsoM nOTE) 
+and punctuation and newlines should not be clipped.
+The kidnappers have acquired a large number of copies of the
+same newspaper, so that the same or overlapping text may be clipped
+as many times as necessary.  Every letter of the alphabet occurs at
+least once in the newspaper.  The newspaper is smaller than 100KB in
+length.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Print the number of clippings followed by the clippings, one per 
+line, in the correct order to compose the note.  The case of the newspaper 
+text should be preserved.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+drop the price on new thermopanes now or else
+Rain Users Guide
+While "rain" was intended to be a general purpose tool, at the time of
+writing the primary goal was to study one particular software system.
+As a result, some steps that are only done once (such as extracting
+information from the program under study) are done using cumbersome
+ad-hoc techniques that require significant manual intervention.  While
+"rain" can be used on arbitrary programs, more development work needs
+to be done before this is a convenient process.
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+19
+d
+ro
+p
+the pri
+ce
+on
+ne
+w
+the
+rm
+op
+an
+es
+n
+o
+W
+or
+el
+se
+</PRE>
+
+<P>
+<BR><HR>
+<ADDRESS>
+Local_UVa'2003
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

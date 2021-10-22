@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Problem B: Inviting Politicians</TITLE>
+<META NAME="description" CONTENT="Problem B: Inviting Politicians">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Problem B: Inviting Politicians</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+ 
+Before the next parliamentary election the president is going to have a
+meeting with the top politicians of the country. But, as you know, our
+politicians are usually arrogant in nature and can't tolerate opposition. So,
+if all of them are invited to the same meeting, they will ruin it (the same
+way they are ruining the country). However, from his past experience the
+president knows that he can always divide the politicians into four disjoint
+groups such that no two fighting politicians are placed in the same group.
+Then each of the four groups will be invited on a different day and thus
+avoiding any unpleasant situation. 
+
+<P>
+The president requests you to help him in solving the problem.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of the input contains an integer 
+<!-- MATH: $T (\le 15)$ -->
+<IMG
+ WIDTH="67" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10052img1.gif"
+ ALT="$T (\le 15)$">
+indicating the
+number of test cases to follow.
+
+<P>
+The first line of each test case contains two
+integers 
+<!-- MATH: $N (\le 300)$ -->
+<IMG
+ WIDTH="79" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10052img2.gif"
+ ALT="$N (\le 300)$">
+and 
+<!-- MATH: $M (\le 5000)$ -->
+<IMG
+ WIDTH="90" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10052img3.gif"
+ ALT="$M (\le 5000)$">.
+Each of the next <I>N</I> lines contains
+the name of a politician. No name will be more than 10 characters long and
+will not contain any white­space character. Each of the next <I>M</I> lines contains
+the name of two politicians (both of which are valid names occurring in the
+names­list given at the beginning of the test case) who are not in good terms
+with each other and hence can not be placed in the same group.   
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case in the input first output the test case number (starting
+from 1) as shown in the sample output. Then for each <I>i</I>(= 1, 2, 3, 4) print
+an integer <I>P</I><SUB><I>i</I></SUB> on line 2<I>i</I> indicating the number of politicians to be
+invited on day <I>i</I>, and on line 2<I>i</I> + 1 print the names of those politicians
+with every two consecutive names separated by a single white­space character.
+Assume that the politicians can always be invited in 4 days and can never be
+invited in less than 4 days. Note that the solution is not unique and hence
+any valid solution is acceptable. 
+
+<P>
+Print a blank line between two consecutive test cases.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2
+4 6
+A
+B
+C
+D
+A B
+A C
+A D
+B C
+B D
+C D
+6 7
+A
+B
+C
+D
+E
+F
+A B
+A C
+A D
+B C
+B D
+C D
+D E
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Case #1
+1
+A
+1
+B
+1
+C
+1
+D
+ 
+Case #2
+2
+A E
+1
+B
+1
+C
+2
+D F
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-12-28</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,61 @@
+<!--title>Problem A</title-->
+<h2>Problem C - Hippity Hopscotch</h2>
+The game of hopscotch involves chalk, sidewalks, jumping, and picking things
+up.  Our variant of hopscotch involves money as well.  The game is played
+on a square grid of dimension n:  each grid location is labelled (p,q) where
+0 <= p < n and 0 <= q < n.  Each grid location has on it a stack of between
+0 and 100 pennies.
+<p>
+A contestant begins by standing at location (0,0).  The contestant collects
+the money where he or she stands and then jumps either horizontally or
+vertically to another square.  That square must be within the jumping
+capability of the contestant (say, k locations) and must have more
+pennies than those that were on the current square.
+<p>
+Given n, k, and the number of pennies at each grid location, compute the
+maximum number of pennies that the contestant can pick up before being
+unable to move.
+
+<h3>Input Specification</h3>
+<b>
+The input begins with a single positive integer on a line by itself indicating 
+the number of the cases following, each of them as described below. 
+This line is followed by a blank line, and there is also a blank line between 
+two consecutive inputs.
+</b>
+<p>
+<p>
+
+
+
+<ul>
+<li>a line containing two integers between 1 and 100:  n and k
+<li>n lines, each with n numbers:  the first line contains the number
+   of pennies at locations (0,0) (0,1) ... (0,n-1);  the next line
+   contains the number of pennies at locations (1,0), (1,1), ... (1,n-1),
+   and so on.
+</ul>
+<h3>Output Specification</h3>
+<b>
+For each test case, the output must follow the description below. 
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+
+<ul>
+<li>a single integer giving the number of pennies collected
+</ul>
+
+<h3>Sample Input</h3>
+<pre>
+1
+
+3 1
+1 2 5
+10 11 6
+12 12 7
+</pre>
+<h3>Output for Sample Input</h3>
+<pre>
+37

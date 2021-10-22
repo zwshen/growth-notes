@@ -1,0 +1,40 @@
+<center><h2>Problem C: Edit Step Ladders</h2></center><br>
+
+An <i>edit step</i> is a transformation from one word <i>x</i> to another
+word <i>y</i> such that <i>x</i> and <i>y</i> are words in the dictionary,
+and <i>x</i> can be
+transformed to <i>y</i> by adding, deleting, or changing one letter.
+So the transformation from <i>dig</i> to <i>dog</i> or from
+<i>dog</i> to <i>do</i> are both edit steps.  An <i>edit step ladder</i>
+is a lexicographically ordered sequence of words 
+<i>w<sub>1</sub>, w<sub>2</sub>, ... w<sub>n</sub></i>
+such that the transformation from <i>w<sub>i</sub></i> to <i>w<sub>i+1</sub></i>
+is an edit step for all <i>i</i> from 1 to <i>n-1</i>.
+<p>
+For a given dictionary, you are to compute the length of the longest
+edit step ladder.  
+<h3>Input</h3>
+The input to your program consists of the dictionary -
+a set of lower case words in lexicographic order - one per line.  No word exceeds
+16 letters and there are no more than 25000 words in the dictionary.
+
+<h3>Output</h3>
+
+The output consists of a single integer, the number of words in the 
+longest edit step ladder.
+<h3>Sample Input</h3>
+<pre>
+cat
+dig
+dog
+fig
+fin
+fine
+fog
+log
+wine
+</pre>
+<h3>Sample Output</h3>
+<pre>
+5
+</pre>

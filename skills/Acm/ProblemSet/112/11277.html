@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Cyclic Polygons</TITLE>
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;
+<A NAME="SECTION0001000000000000000000">H. Cyclic Polygons</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+
+<H1 ALIGN=center>
+<IMG SRC="p11277.gif" width="300" height="300" border="0">
+</H1>
+<CENTER>A Cyclic Hexagon</CENTER>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+A <it>Cyclic Polygon</it> is a polygon where all of its vertices lie on a circle.  Note that all triangles
+are cyclic polygons.  The area of a triangle can be found from the lengths of its three sides using
+Heron's formula.  It has been conjectured by D.P. Robins that Heron's formula can be generalized to all cyclic polygons.
+Namely, the area of all cyclic polygons can be written as a polynomial equation involving only its side lengths.
+In this problem, we will ask you to approximate the area of a Cyclic Polygon, given only its side lengths.
+Of course, if you do find the closed form solution, don't forget to mention the problem-setter when you win
+the Fields Medal :-).
+
+</U></U><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>
+Input starts with an integer <b>t</b> (<b>t</b> < 10001) on a line denoting the number of test cases to follow.
+Each test case starts with a line with the integer <b>n</b> (<b>n</b> < 51), followed by <b>n</b>  lines
+with the side lengths of the polygon, given in arbitrary order.
+All side lengths are floating point numbers with at most 3 digits after the dicimal.  The sum
+of the lengths of each polygon does not exceed 1000.000, and each side is always positive (>0).
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>
+For each case, output the area of the polygon <b>P</b> rounded to 3 digits after the decimal.
+If the polygon is not valid, i.e. degenerate, output <b>"0.000"</b> without the quotes. 
+
+
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>
+1
+3
+3.000
+4.000
+5.000
+</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>
+6.000
+</PRE>
+</div>
+<br />
+
+<hr size="1" />
+Problem setter: Josh Bao<br />
+Alternative Solution: Wenyuan Chen 
+</BODY>
+</HTML>

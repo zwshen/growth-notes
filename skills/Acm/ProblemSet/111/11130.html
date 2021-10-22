@@ -1,0 +1,64 @@
+<title>Problem B: Billiard bounces </title> 
+
+<h2>Problem B: Billiard bounces </h2>
+
+<img src=p11130.jpg align=center>
+<p>
+<p>
+On a billiard table with a horizontal side <b>a</b> inches long and a vertical
+side <b>b</b> inches long, a ball is launched from the middle of the table
+with initial velocity <b>v</b> inches per second and launching
+angle <b>A</b> between 0 and 90 degrees measured counter-clockwise from
+the horizontal.
+<p>
+Assume that collisions with a side are elastic (no energy loss), and
+thus the absolute value of a velocity component of the ball parallel
+to each side remains unchanged after the bounce.  However, due to
+friction the ball decelerates at a constant rate and comes to a full
+stop after <b>s</b>&nbsp;>&nbsp;0 seconds.  Assume the ball has a radius of
+zero.  Remember that, unlike pool tables, billiard tables have no
+pockets.
+<p>
+How many times will the ball touch the vertical walls and how many times
+will the ball touch the horizontal walls?  If the ball touches a corner
+it means that it touched both a horizontal and a vertical wall.
+<p>
+Input consists of a sequence of lines, each containing five nonnegative
+integers separated by whitespace.  The five numbers are: <b>a</b>&nbsp;>&nbsp;0,
+<b>b</b>&nbsp;>&nbsp;0, <b>v</b>&nbsp;>&nbsp;0, 0&nbsp;&le;&nbsp;<b>A</b>&nbsp;&le;&nbsp;90,
+and <b>s</b>&nbsp;>&nbsp;0, respectively.
+<p>
+Input is terminated by a line containing five zeroes.
+
+<p>
+For each input line except the last, output a line containing two integer
+numbers separated by a single space.
+The first number says how many times the ball touched vertical walls and
+the second number says how many times the ball touched horizontal walls.
+
+<h3>Sample Input</h3>
+<pre>
+100 50 10 90 10 
+100 50 10 0 40 
+100 100 10 45 15 
+100 50 10 1 200 
+100 50 10 89 200 
+100 50 10 45 1000
+100 100 10 30 200
+0 0 0 0 0 
+</pre>
+<h3>Sample Output</h3>
+<pre>
+0 1
+2 0
+1 1
+10 0
+0 20
+35 71
+9 5
+</pre>
+
+
+<hr>
+
+<em>Piotr Rudnicki</em>

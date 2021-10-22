@@ -1,0 +1,149 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0063)http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/node3.html -->
+<!--Converted with LaTeX2HTML 96.1-h (September 30, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds --><HTML><HEAD><TITLE>Problem C: The Party, Part II</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META content="The Party, Part II" name=description>
+<META content=main name=keywords>
+<META content=document name=resource-type>
+<META content=global name=distribution><LINK href="c_files/main.css" 
+rel=STYLESHEET>
+<META content="MSHTML 6.00.2600.0" name=GENERATOR></HEAD>
+<BODY lang=EN>
+<H1><A name=SECTION00030000000000000000>Problem C: The Party, Part II</A></H1>
+<P>In the middle of the party, Donna Anna, Donna Elvira, and Don Ottavio arrive 
+masked, and intent to confront Don Giovanni when they find him. You, as a guest 
+of the party, know what they want to do. You want to stay out of trouble, so you 
+would like to keep away from them. But they mask themselves along with other 
+guests, and you have trouble identifying them. Fortunately, you have collected a 
+set of clues from other guests. You have to analyse them and find out who is 
+who. 
+<P>
+<H2><A name=SECTION00031000000000000000>Input</A></H2>
+<b>
+The input begins with a single positive integer on a line by itself indicating
+the number of the cases following, each of them as described below.
+This line is followed by a blank line, and there is also a blank line between
+two consecutive inputs.
+</b>
+<p>
+<p>
+ 
+<P>The input starts with a line with 4 positive numbers, <I>n</I>, <I>i</I>, 
+<I>c</I>, and <I>u</I>, separated by a space. <I>n</I> is the number of people 
+in the set of clues, <I>i</I> is the number of items (such as shoes, masks, 
+clothes, etc.) that can be identified by colours, <I>c</I> is the number of 
+possible colours. 
+<P>The rest of input consists of <I>u</I> lines of clues. There are three types 
+of clues: 
+<OL>
+  <LI><TT>Same colour of item</TT> <I>X</I> <TT>=</TT> <IMG height=27 
+  alt=tex2html_wrap_inline148 src="p10960a.gif" width=145 align=middle> 
+  <LI><TT>Colour</TT> <I>Y</I> <TT>for item</TT> <I>X</I> <TT>=</TT> <IMG 
+  height=27 alt=tex2html_wrap_inline148 src="p10960a.gif" width=145 
+  align=middle> 
+  <LI><TT>Not colour</TT> <I>Y</I> <TT>for item</TT> <I>X</I> <TT>=</TT> <IMG 
+  height=27 alt=tex2html_wrap_inline148 src="p10960a.gif" width=145 
+  align=middle></LI></OL>
+<P>The first clue means that the listed people have the same colour for item 
+<I>X</I>; the second clue means that colour of item <I>X</I> for the listed 
+people is <I>Y</I>; the last clue means that the colour of item <I>X</I> for the 
+listed people is not <I>Y</I>. 
+<P><I>X</I> is a number from 0 to <I>i</I>-1 inclusive, indicating the item 
+number. <I>Y</I> is a number from 0 to <I>c</I>-1 inclusive, indicating the 
+colour number. <IMG height=27 alt=tex2html_wrap_inline148 src="p10960a.gif" 
+width=145 align=middle> is a list of capital letters in alphabetical order, 
+indicating the list of people that belongs to that clue. All words/letters in a 
+line are separated by a space. 
+<P>There are at most 26 people (from A to Z), 10 items and 10 colours (from 0 to 
+9). 
+<P>
+<H2><A name=SECTION00032000000000000000>Output</A></H2>
+<b>
+For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+
+<P>If the clues are inconsistent, or there is a contradiction, then output the 
+line ``Contradiction'', otherwise output <I>n</I> lines, indicating the <I>n</I> 
+people, in alphabetical order, the colour of their items in increasing order: 
+<BR><IMG height=16 alt=displaymath182 src="p10960b.gif" width=320 
+align=bottom><BR>for the person represented by letter <I>P</I>, where the colour 
+number of item 0 is <IMG height=27 alt=tex2html_wrap_inline190 
+src="p10960c.gif" width=18 align=middle>, the colour number of item 1 is 
+<IMG height=27 alt=tex2html_wrap_inline192 src="p10960d.gif" width=17 
+align=middle>, etc., all separated by a space. If the colour of an item cannot 
+be determined, output ``?'' for the colour number. 
+<P>
+<H2><A name=SECTION00033000000000000000>Sample Input</A></H2>
+<P><PRE>
+2
+
+4 2 3 6
+Same colour of item 0 = A B D
+Colour 2 for item 0 = B
+Not colour 2 for item 1 = C
+Not colour 1 for item 1 = C
+Same colour of item 1 = C D
+Same colour of item 1 = A D
+
+4 2 3 7
+Same colour of item 0 = A B D
+Colour 2 for item 0 = B
+Not colour 2 for item 1 = C
+Not colour 1 for item 1 = C
+Same colour of item 1 = C D
+Same colour of item 1 = A D
+Colour 1 for item 0 = D
+</PRE>
+<P>
+<H2><A name=SECTION00034000000000000000>Sample Output</A></H2>
+<P><PRE>
+A 2 0
+B 2 ?
+C ? 0
+D 2 0
+
+Contradiction
+</PRE>
+<!--HR>
+<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.cc">Solution 
+in C++</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.0.in">Test 
+Input 0</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.0.out">Test 
+Output 0</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.1.in">Test 
+Input 1</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.1.out">Test 
+Output 1</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.2.in">Test 
+Input 2</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.2.out">Test 
+Output 2</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.3.in">Test 
+Input 3</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.3.out">Test 
+Output 3</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.4.in">Test 
+Input 4</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.4.out">Test 
+Output 4</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.5.in">Test 
+Input 5</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.5.out">Test 
+Output 5</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.6.in">Test 
+Input 6</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.6.out">Test 
+Output 6</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.7.in">Test 
+Input 7</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.7.out">Test 
+Output 7</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.8.in">Test 
+Input 8</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/puzzle.8.out">Test 
+Output 8</A><BR--></BODY></HTML>

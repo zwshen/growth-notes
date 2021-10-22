@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Schedule Problem</TITLE>
+<META NAME="description" CONTENT="Schedule Problem">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Schedule Problem</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A project can be divided into several parts. Each part should be completed
+continuously. This
+means if a part should take 3 days, we should use a continuous 3 days to
+complete it. There are four
+types of constrains among these parts which are FAS, FAF, SAF and SAS.
+A constrain between
+parts is FAS if the second one should finish after the first one started.
+FAF is finish after finish,
+SAF is start after finish, and SAS is start after start. Assume there are
+enough people involved in
+the projects, which means we can do any number of parts concurrently.
+You are to write a program
+to give a schedule of a given project, which has the shortest time.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file consists a sequences of projects, with an empty line indicates
+the of input.
+
+<P>
+
+<P>
+<BR>
+Each project consists the following lines:
+
+<P>
+<UL>
+<LI>the count number of parts(one line)
+<LI>times should be taken to complete these parts, each time occupies one line
+<LI>a list of <TT>FAS</TT>, <TT>FAF</TT>, <TT>SAF</TT> or <TT>SAS</TT>
+and two part number indicates a constrain of the two parts
+<LI>a line only contains a '<TT>#</TT>' indicate the end of a project
+</UL>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Output should be a list of lines, each line includes a part number and
+the time it should start. Time
+should be a non-negative integer, and the start time of first part
+should be 0. If there is no answer
+for the problem, you should give a one-line output containing ``<TT>impossible</TT>".
+
+<P>
+
+<P>
+<BR>
+A blank line should appear following the output for each project.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+3
+2
+3
+4
+SAF 1 2
+FAF 2 3
+#
+3
+1
+1
+1
+SAF 1 2
+SAF 2 3
+SAF 3 1
+#
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Case 1:
+1 0
+2 2
+3 1
+
+Case 2:
+impossible
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-01-11</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

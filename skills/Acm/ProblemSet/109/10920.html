@@ -1,0 +1,81 @@
+<html>
+<head>
+   <title>Problem A - Spiral Tap</title>
+</head>
+<body>
+
+<h1 align="center">Problem A - Spiral Tap</h1>
+<h3 align="center">Time Limit: 1 second</h3>
+
+<div>
+</div>
+
+<p>
+</p>
+
+<p>
+The game of Spiral Tap is played on a square grid. Pieces are placed on a grid
+and the moves are realized according to the position of the pieces on the
+grid. However, the coordinate system in the game of Spiral Tap are a bit
+different that those find in traditional board games, such as chess.
+</p>
+
+<p>
+The cell numbering scheme follow a spiral, starting from the center of the grid 
+in an anti-clockwise fashion. The following figure illustrates the cell numbering 
+scheme.
+</p>
+
+<center>
+<img src="p10920.png">
+</center>
+
+<p>
+The goal is, given the spiral tap coordinates of a cell, find its cartesian
+coordinates (line <b>1</b> is at the bottom, and column <b>1</b> is the leftmost).
+</p>
+
+<h2>Input</h2>
+
+<p>
+The input is a series of lines. Each line is composed of two numbers: <b>SZ</b> and
+<b>P</b>. <b>SZ</b> is the size of the border of the grid and is an odd number no larger
+than <b>100000</b>. <b>P</b> is the spiral position of a cell in this grid. The line such
+that <b>SZ = P = 0</b> marks the end of the input (and is not part of the data set).
+</p>
+
+<h2>Output</h2>
+
+<p>
+For each line in the data set of the input, your program must echo a line 
+<b>"Line = X, column = Y."</b>, where <b>X</b> and <b>Y</b> are the cartesian coordinates
+of the corresponding cell.
+</p>
+
+<h2>Sample Input</h2>
+
+<pre>
+3 1
+3 3
+3 9
+5 9
+5 10
+0 0
+</pre>
+
+<h2>Sample Output</h2>
+
+<pre>
+Line = 2, column = 2.
+Line = 3, column = 1.
+Line = 3, column = 3.
+Line = 4, column = 4.
+Line = 5, column = 4.
+</pre>
+
+<hr>
+
+<p align="center"><I>Problem setter: David Deharbe, Copyright 2005 UFRN. All rights reserved.</p>
+
+</body>
+</html>

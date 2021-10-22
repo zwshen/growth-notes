@@ -1,0 +1,112 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Urban Elevations</TITLE>
+<META NAME="description" CONTENT="Urban Elevations">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Urban Elevations</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+An elevation of a collection of buildings is an orthogonal projection of the 
+buildings onto a vertical plane. An external elevation of a city would show 
+the skyline and the faces of the ``visible&quot; buildings of the city as viewed
+from outside the city from a certain direction. A southern elevation shows 
+no sides; it shows the perfectly rectangular faces of buildings or parts of 
+faces of buildings not obstructed on the south by taller buildings. For this 
+problem, you must write a program that determines which buildings of a city 
+are visible in a southern elevation.
+<P>
+<P>
+For simplicity, assume all the buildings for the elevation are perfect 
+rectangular solids, each with two sides that run directly east-west and two 
+running directly north-south. Your program will find the buildings that 
+appear in a southern elevation based on knowing the positions and heights of 
+each city building. That data can be illustrated by a map of the city as in 
+the diagram on the left below. The southern elevation for that city is 
+illustrated in the diagram on the right.
+<P>
+<center><img src=221img3.gif>
+<dd><font color=#0080C0>(The shadow buildings are visible in a southern elevation)</font></center>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="">Input</A></FONT></H2>
+Input for your program consists of the numeric description of maps of 
+several cities. The first line of each map contains the number of buildings 
+in the city (a non-negative integer less than 101). Each subsequent line of 
+a map contains data for a single building - 5 real numbers separated by
+spaces in the following order:
+<P>
+<PRE><TT> 
+		 <I>x</I>-coordinate of the southwest corner
+<P>
+		 <I>y</I>-coordinate of the southwest corner
+<P>
+		 width of the building (length of the south side)
+<P>
+		 depth of the building (length of the west side)
+<P>
+		 height of the building
+<P>
+</TT></PRE>
+<P>
+Each map is oriented on a rectangular coordinate system so that the positive 
+<I>x</I>-axis points east and the positive <I>y</I>-axis points north. Assume that all
+input for each map corresponds to a legitimate map (the number of buildings 
+is the same as the number of subsequent lines of input for the map; no two 
+buildings in a single map overlap). Input is terminated by the number 0 
+representing a map with no buildings.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+Buildings are numbered according to where their data lines appear in the 
+map's input data - building #1 corresponding to the first line of building
+data, building #2 data to the next line, and building #<I>n</I> to the <I>n</I>th line of
+building data for that map. (Buildings on subsequent maps also begin their 
+numbering with 1.)
+<P>
+<P>
+For each map, output begins with line identifying the map (<TT>map #1</TT>, <TT>map #2</TT>,
+etc.) On the next line the numbers of the visible buildings as they appear 
+in the southern elevation, ordered south-to-north, west-to-east. This means 
+that if building <I>n</I> and building <I>m</I> are visible buildings and if the southwest
+corner of building <I>n</I> is west of the southwest corner of building <I>m</I>, then
+number <I>n</I> is printed before number <I>m</I>. If building <I>n</I> and building <I>m</I> have the
+same <I>x</I>-coordinate for their southwest corners and if building <I>n</I> is south of
+building <I>m</I>, then the number <I>n</I> is printed before the number <I>m</I>.
+<P>
+<P>
+For this
+program, a building is considered visible whenever the part of its southern 
+face that appears in the elevation has strictly positive area. One blank 
+line must separate output from consecutive input records.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>14
+160 0 30 60 30
+125 0 32 28 60
+95 0 27 28 40
+70 35 19 55 90
+0 0 60 35 80
+0 40 29 20 60
+35 40 25 45 80
+0 67 25 20 50
+0 92 90 20 80
+95 38 55 12 50
+95 60 60 13 30
+95 80 45 25 50
+165 65 15 15 25
+165 85 10 15 35
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>For map #1, the visible buildings are numbered as follows:
+5 9 4 3 10 2 1 14</PRE>
+<P>
+</BODY>
+</HTML>

@@ -1,0 +1,121 @@
+<html>
+<head>
+    <title>Basic Tautologies</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem H</B></FONT><BR>
+<FONT SIZE="5"><B>Basic Tautologies</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 1 second</FONT>
+</CENTER>
+</P>
+
+<P CLASS="paragraph">
+  <p >Let <em><strong>A</strong></em> := {<span class="Estilo9">=, -, a, b, c, . . . , z, A, B, C, . . . , Z</span>}.</p>
+  <p >We assume that <span class="Estilo9"><strong>*</strong></span> represent the operation of concatenation between strings.</p>
+  <P >We define the set of formulas over <em><strong>A</strong></em> recursively as follows:</P>
+  <ul>
+    <li>If <strong><em>X</em></strong> belongs to <em><strong>A</strong></em> \ {<span class="Estilo9">=, -</span>} then <em><strong>X</strong></em> is formula (variable).</li>
+    <li>IF <em><strong>X</strong></em> is a formula, so is <em><strong>X</strong></em><span class="Estilo9">*-</span>.</li>
+    <li>If <em><strong>X</strong></em> and <em><strong>Y</strong></em> are formulas, so is: <em><strong>X</strong></em><span class="Estilo9">*</span><em><strong>Y</strong></em><span class="Estilo9">*=</span>.</li>
+  </ul>
+  <P >These formulas are understood as logical formulas with connectives <span class="Estilo9">-</span> for negation, <span class="Estilo9">=</span> for equivalence and <em><strong>A</strong></em> \ {<span class="Estilo9">=, -</span>} as variables. That is <span class="Estilo9">=</span> and <span class="Estilo9">-</span> are not variables. Also, variables <em><strong>a</strong></em> and <em><strong>A</strong></em> are considered different. Similarly <em><strong>b</strong></em> is different to <em><strong>B</strong></em> and so on.</P>
+  <P >Of course our formulas are given in Reverse Polish Notation (RPN). We can evaluate a formula for a given boolean input {0, 1} and the output is either 0 or 1 as usual.</P>
+  <P >A formula is a tautology if it evaluates to 1 for every input. For example <span class="Estilo9">aa=</span> is a tautology while <span class="Estilo9">aa=-</span> is not. Note that <span class="Estilo9">aa=</span> represents the formula <span class="Estilo9">a=a</span> in the standard infix notation and <span class="Estilo9">aa=-</span> represents the formula <span class="Estilo9">-[a=a]</span>.</P>
+
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The first line is a natural number <em><strong>N</strong></em> less than 100. Then, there are <em><strong>N</strong></em> lines, each one is a string over <em><strong>A</strong></em>. Every string is of size less than 200 characters.</p>
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+You must display <em><strong>N</strong></em> lines, each one with 3 possible answers: <span class="Estilo9">incorrect</span>, <span class="Estilo9">tautology</span> or <span class="Estilo9">formula</span>. Answer number i gives the output of string number i. The output is &quot;<span class="Estilo9">incorrect</span>&quot; if the input string is not a formula. The output is &quot;<span class="Estilo9">formula</span>&quot; if the input string is a formula that is not a tautology. The output is &quot;<span class="Estilo9">tautology</span>&quot; if the input string is a formula that is a tautology.</p>
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+3
+aa=
+aa=-
+ab
+</PRE>
+</TD>
+<TD>
+<PRE>
+tautology
+formula
+incorrect
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+
+
+
+
+
+
+    <h2>Note:</h2>
+    <p >Perhaps some students have no idea on how to evaluate a formula in RPN form. However I assume that she/he knows how to do it in the standard form, hence I need only to describe how to convert a RPN formula into a standard infix form. We define <strong>f</strong>(<em><strong>X</strong></em>) the translation of a RPN formula <em><strong>X</strong></em> by recursion as follows:</p>
+    <p >We assume that <em><strong>X</strong></em>, <em><strong>Y</strong></em>, <em><strong>Z</strong></em> represent formulas.</p>
+    <ol>
+      <li>If <em><strong>X</strong></em> is a variable then <strong>f</strong>(<em><strong>X</strong></em>) := <em><strong>X</strong></em>.</li>
+      <li>If <em><strong>X</strong></em> is of the form <em><strong>Y</strong></em><span class="Estilo9">*-</span> then <strong>f</strong>(<em><strong>X</strong></em>) := [<span class="Estilo9">*-*</span><strong>f</strong>(<strong><em>Y</em></strong>)<span class="Estilo9">*</span>].</li>
+      <li>If <em><strong>X</strong></em> is of the form <em><strong>Y</strong></em><span class="Estilo9">*</span><em><strong>Z</strong></em><span class="Estilo9">*=</span> then <strong>f</strong>(<em><strong>X</strong></em>) := [<span class="Estilo9">*</span><strong>f</strong>(<em><strong>Y</strong></em>)<span class="Estilo9">*=*</span><strong>f</strong>(<em><strong>Z</strong></em>)<span class="Estilo9">*</span>].</li>
+    </ol>
+    <p >where [ and ] are parenthesis symbols (not needed in a RPN formula).</p>
+<p>Just in case, I include the truth tables for <span class="Estilo9">=</span> and <span class="Estilo9">-</span>.</p>
+<p align="justify">The truth table for <span class="Estilo9">=</span> is:</p>
+<table border="1" cellpadding="1" cellspacing="0" bordercolor="#000000">
+    <tr bgcolor="#D0D0D0">
+      <th width="60"><p align="center"><b>A</b></p></th>
+      <th width="60"><p align="center"><b>B</b></p></th>
+      <th width="60"><p align="center"><b>A=B</b></p></th>
+    </tr>
+    <tr><td><p align="center">0</p></td><td><p align="center">0</p></td><td><p align="center">1</p></td></tr>
+    <tr><td><p align="center">0</p></td><td><p align="center">1</p></td><td><p align="center">0</p></td></tr>
+    <tr><td><p align="center">1</p></td><td><p align="center">0</p></td><td><p align="center">0</p></td></tr>
+    <tr><td><p align="center">1</p></td><td><p align="center">1</p></td><td><p align="center">1</p></td></tr>
+  </table>
+<br>
+  
+ <p>The truth table for <span class="Estilo9">-</span> is:</p>
+    <table border="1" cellpadding="1" cellspacing="0" bordercolor="#000000">
+    <tr bgcolor="#D0D0D0">
+      <th width="60"><p align="center"><b>A</b></p></th>
+      <th width="60"><p align="center"><b>-A</b></p></th>
+    </tr>
+    <tr><td><p align="center">0</p></td><td><p align="center">1</p></td></tr>
+    <tr><td><p align="center">1</p></td><td><p align="center">0</p></td></tr>
+  </table>
+<br><p>Good luck!</p><br>
+
+
+
+
+
+<P>
+<HR>
+<B>Problemsetter: Dr. Mauricio Javier Osorio Galindo</B>
+</P>
+
+</td></tr></table>
+</body>
+</html>

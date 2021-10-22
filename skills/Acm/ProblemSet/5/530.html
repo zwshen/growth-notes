@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Binomial Showdown</TITLE>
+<META NAME="description" CONTENT="Binomial Showdown">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Binomial Showdown</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+In how many ways can you choose <I>k</I> elements out of <I>n</I> elements, not taking
+order into account?
+
+<P>
+Write a program to compute this number.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input Specification</A>&nbsp;</FONT>
+</H2>
+The input file will contain one or more test cases.
+
+<P>
+Each test case consists of one line containing two integers <I>n</I> (<IMG
+ WIDTH="47" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="530img1.gif"
+ ALT="$n \ge 1$">)
+and <I>k</I> (
+<!-- MATH: $0 \le k \le n$ -->
+<IMG
+ WIDTH="80" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="530img2.gif"
+ ALT="$0 \le k \le n$">).
+
+<P>
+Input is terminated by two zeroes for <I>n</I> and <I>k</I>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output Specification</A>&nbsp;</FONT>
+</H2>
+For each test case, print one line containing the required number. This number will always fit into
+an integer, i.e. it will be less than 2<SUP>31</SUP>.
+
+<P>
+
+<P>
+<BR>
+
+<B>Warning:</B> Don't underestimate the problem. The result will fit into an integer - but if all
+intermediate results arising during the computation will also fit into an integer depends on your
+algorithm. The test cases will go to the limit.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+4 2
+10 5
+49 6
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+6
+252
+13983816
+</PRE>
+
+<P>
+
+<P>
+</BODY>
+</HTML>

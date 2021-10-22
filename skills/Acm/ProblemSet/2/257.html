@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Palinwords</TITLE>
+<META NAME="description" CONTENT="Palinwords">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Palinwords</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+A palindrome is a string of characters which
+can be read forward and backward and still
+result in the same word, e.g. `<TT>mumdadmum</TT>'.
+So by definition the empty string, all strings
+containing 1 character, and all strings
+containing 2 equal characters are palindromes.
+The length of a palindrome is the number of
+characters in the palindrome.
+<P>
+A <I>palinword</I> is a string of characters that
+contains at least 2 different palindromes each
+with a length of at least 3. (Here the
+position is immaterial: the same palindrome occurring
+in another position is not considered as
+different.) Neither of these 2 palindromes may be
+embedded in the other palindrome (for example
+the palindrome `<TT>mum</TT>' is embedded in the
+palindrome `<TT>amuma</TT>', and `<TT>aaa</TT>' is embedded
+in `<TT>aaaa</TT>') but they may partially overlap.  Also
+see the examples below.
+<P>
+<P>
+Your program's task is to copy only the
+palinwords from the input file to the output file.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input for your program is a textfile.
+Each line in this file is empty or consists of one or
+more words (uppercase letters `<TT>A</TT>'
+through `<TT>Z</TT>' only) separated by one or more spaces (each
+line in the input file contains at most 255 characters in all).
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+The output file is a textfile and must have
+one palinword per line in order of occurrence
+in the input file.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>MOEILIJKHEDEN INVOER
+VERNEDEREN
+AMUMA AMAMA MUMMUM
+AMATRAMA AAAA
+ABATRABAR
+DUMMY
+WORDS</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>MOEILIJKHEDEN
+VERNEDEREN
+AMAMA
+MUMMUM</PRE>
+<P>
+</BODY>
+</HTML>

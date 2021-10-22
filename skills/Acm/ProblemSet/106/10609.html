@@ -1,0 +1,543 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="a_files/filelist.xml">
+<link rel=Edit-Time-Data href="a_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem A: Fractal</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>129</o:Revision>
+  <o:TotalTime>1177</o:TotalTime>
+  <o:LastPrinted>2002-10-30T23:30:00Z</o:LastPrinted>
+  <o:Created>2003-04-09T12:44:00Z</o:Created>
+  <o:LastSaved>2004-01-22T04:54:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>566</o:Words>
+  <o:Characters>3227</o:Characters>
+  <o:Company>BUET</o:Company>
+  <o:Lines>26</o:Lines>
+  <o:Paragraphs>7</o:Paragraphs>
+  <o:CharactersWithSpaces>3786</o:CharactersWithSpaces>
+  <o:Version>10.3501</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Beaconsfield Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:135 0 0 0 27 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:100.0pt;
+	mso-bidi-font-size:24.0pt;
+	font-family:"Beaconsfield Bold";
+	color:silver;
+	mso-font-kerning:0pt;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+h2
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+h3
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.5pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#333333;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+tt
+	{font-family:"Courier New";
+	mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.7in .8in .7in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:28.0pt;mso-bidi-font-size:12.0pt;font-family:
+Arial'>Problem A</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>Fractal</span></b><span
+style='font-family:Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input: </b><span style='mso-bidi-font-weight:
+bold'>Standard Input<o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Time Limit: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>3 Seconds<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='color:black;mso-ansi-language:EN;mso-bidi-font-weight:bold'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoBodyText2><a name=SECTION0001001000000000000000><span
+style='color:black'>A fractal is a rough or fragmented geometric shape that can
+be subdivided in parts, each of which is (at least approximately) a smaller copy
+of the whole. Fractals are generally self-similar (bits look like the whole)
+and independent of scale (they look similar, no matter how close you zoom in).</span></a></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001001000000000000000'><span
+style='mso-bidi-font-size:10.0pt'>&nbsp;<o:p></o:p></span></span></p>
+
+<p class=MsoBodyText><span style='mso-bookmark:SECTION0001001000000000000000'>Below
+you can see picture of a well-known fractal. Actually this picture shows the
+steps of the making of a fractal:</span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001001000000000000000'><span
+style='mso-bidi-font-size:10.0pt'>&nbsp;<o:p></o:p></span></span></p>
+<center><img
+width=423 height=85 id="_x0000_i1025"
+src="p10609a.gif"
+border=0></center>
+
+
+<p class=MsoNormal><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+mso-bidi-font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></span></span></p>
+
+<p style='margin:0in;margin-bottom:.0001pt'><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'>In this problem you will have to draw a fractal very
+similar to the one above. The fractal that you have to work with is given
+below:<o:p></o:p></span></span></span></p>
+<center><img width=519 height=269
+src="p10609b.jpg"></center>
+
+<p style='margin:0in;margin-bottom:.0001pt;text-align:justify'><span
+style='mso-bookmark:SECTION0001001000000000000000'><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";font-weight:
+normal'>In real life it is impossible to draw a fractal exactly according to
+its definition because somewhere we must stop drawing it. For example in the
+picture above we have stopped drawing when the length of the line on which a
+triangle has to be drawn is less than five.<o:p></o:p></span></span></span></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;text-align:justify'><span
+style='mso-bookmark:SECTION0001001000000000000000'><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";font-weight:
+normal'>&nbsp;<o:p></o:p></span></span></span></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;text-align:justify'><span
+style='mso-bookmark:SECTION0001001000000000000000'><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";font-weight:
+normal'>Now let us discuss in detail how the fractal is to be drawn. You will
+be given the coordinates of </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>A</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>(x<sub>1</sub>,
+y<sub>1</sub>)</span></span><span class=StyleArial16pt><span style='mso-ansi-font-size:
+12.0pt;font-family:"Times New Roman";font-weight:normal'> and </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>B
+(x<sub>2</sub>, y<sub>2</sub>)</span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";font-weight:
+normal'>. In the figure above the coordinate of </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>A</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> is </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>(-300, -100)</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> and the coordinate of </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>B</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> is </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>(300, -200)</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'>. </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>C</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> and </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>D</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> are the points, which divides </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>AB</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> in ratio </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>1:3</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> and </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>3:1</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'>. So now you have to draw an equilateral triangle </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>CED</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> based on </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>CD</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'>, of course the base is erased. And then you find two
+points, which divide </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>CE</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> in the ratio </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>1:3</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> and </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>3:1</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'>. The same thing applies for </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>ED</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> and this process continues recursively up to the point
+when the length of the side of drawn equilateral triangles is less than a
+certain value </span></span><span class=StyleArial16pt><span style='mso-ansi-font-size:
+12.0pt;font-family:"Times New Roman"'>T</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'>. Now if you look at the picture above you will find that
+it has two terminal points </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>A</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> and </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>B</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> and many corner points like </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>C</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'>, </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>E</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'> and </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>D</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal'>. Your job is to find the coordinates of these terminal
+points and corner points and print them in a certain order. <o:p></o:p></span></span></span></p>
+
+<p class=MsoNormal><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></span></span></p>
+
+<p class=MsoNormal><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></span></span></p>
+
+<p class=MsoNormal><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+mso-bidi-font-family:"Times New Roman"'>Input</span></span></span><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+mso-bidi-font-family:"Times New Roman"'>&nbsp; <o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><a name=SECTION0001002000000000000000><span
+style='mso-bidi-font-size:10.0pt'>The input file contains less than <b>10</b>
+lines of input.<o:p></o:p></span></a></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001002000000000000000'><span
+style='mso-bidi-font-size:10.0pt'>&nbsp;<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001002000000000000000'><span
+style='mso-bidi-font-size:10.0pt'>Each line contains five numbers. The first
+four numbers are the coordinates <b>x<sub>1</sub>,y<sub>1</sub>, x<sub>2</sub>,
+y<sub>2</sub> (-10000&lt;x<sub>1</sub>,y<sub>1</sub>,x<sub>2</sub>,y<sub>2</sub>&lt;10000)</b>
+and the last number <b>T(1&lt;T&lt;1000)</b> is the terminating threshold
+value. I mean when the line to be drawn will be less than <b>T</b> drawing will
+stop. The value of <b>T</b> will be such that the length of the line to be
+drawn will never be equal to <b>T</b>.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001002000000000000000'><span
+style='mso-bidi-font-size:10.0pt'>&nbsp;<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001002000000000000000'><span
+style='mso-bidi-font-size:10.0pt'>Input is terminated by a case whose value of <b>T</b>
+is less than <b>1</b>. This case should not be processed.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001002000000000000000'><span
+style='mso-bidi-font-size:10.0pt'>&nbsp;<o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span style='mso-bookmark:SECTION0001002000000000000000'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+mso-bidi-font-family:"Times New Roman"'>Output</span></span></span><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+mso-bidi-font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></span></p>
+
+<p class=MsoBodyText style='mso-layout-grid-align:auto;text-autospace:ideograph-other'><span
+style='mso-bidi-font-size:11.0pt;mso-bidi-font-weight:bold'>For each line of
+input you should output </span><b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-size:11.0pt'>S+2</span></b><span style='mso-bidi-font-size:
+11.0pt;mso-bidi-font-weight:bold'> lines of outputs. The first line is the
+serial no of the output as shown in the sample output. Next line contains the
+number </span><b style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-size:
+11.0pt'>S</span></b><span style='mso-bidi-font-size:11.0pt;mso-bidi-font-weight:
+bold'>, where </span><b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-size:11.0pt'>S</span></b><span style='mso-bidi-font-size:
+11.0pt;mso-bidi-font-weight:bold'> is the number of vertex and terminal points
+in the drawn fractal. Each of the </span><b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-size:11.0pt'>S</span></b><span style='mso-bidi-font-size:
+11.0pt;mso-bidi-font-weight:bold'> lines after that contains two floating-point
+numbers indicating the coordinate of one terminal point or vertex. The terminal
+points should be sorted in increasing order of the value of abscissa of the
+coordinate. In case of a tie the points should be sorted in ascending order of
+the ordinate. Two values are considered same if they differ by a value less
+than </span><b style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-size:
+11.0pt'>1e-8</span></b><span style='mso-bidi-font-size:11.0pt;mso-bidi-font-weight:
+bold'>. All printed floating point numbers have five digits after the decimal
+point. Errors less than <b>2*10</b></span><b><sup><span style='font-size:14.0pt'>-5</span></sup></b><span
+style='mso-bidi-font-size:12.0pt;mso-bidi-font-weight:bold'> </span><span
+style='mso-bidi-font-size:11.0pt;mso-bidi-font-weight:bold'>will be tolerated.</span><span
+style='mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
+
+<p class=MsoBodyText style='mso-layout-grid-align:auto;text-autospace:ideograph-other'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+Arial;mso-bidi-font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></b></p>
+
+<h1 align=left style='text-align:left'><span style='font-size:16.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial;color:black'>Sample Input<span
+style='mso-spacerun:yes'>                           </span>Output for Sample
+Input<o:p></o:p></span></h1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='background:#CCCCCC;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+  <td width=295 valign=top style='width:221.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'><pre><b><span
+  style='font-size:11.0pt'>10 10 -10 -10 5.1<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt'>-10 -10 10 10 5.1<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt'>5 5 -5 -8 .3</span></b><b><span style='mso-bidi-font-size:
+  12.0pt'><o:p></o:p></span></b></pre></td>
+  <td width=321 valign=top style='width:240.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>Case
+  1:<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>11<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>-10.00000
+  -10.00000<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>-5.00000
+  -5.00000<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>-1.58494
+  -5.91506<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>0.24519
+  -12.74519<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>5.00000
+  <span class=SpellE>5.00000</span><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>5.24519
+  -7.74519<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>5.91506
+  1.58494<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>7.74519
+  -5.24519<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>8.66025
+  -8.66025<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>10.00000
+  <span class=SpellE>10.00000</span><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>12.74519
+  -0.24519<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>Case
+  2:<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>11<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>-12.74519
+  0.24519<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>-10.00000
+  -10.00000<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>-8.66025
+  8.66025<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>-7.74519
+  5.24519<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>-5.91506
+  -1.58494<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>-5.24519
+  7.74519<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>-5.00000
+  -5.00000<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>-0.24519
+  12.74519<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>1.58494
+  5.91506<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>5.00000
+  <span class=SpellE>5.00000</span><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>10.00000
+  <span class=SpellE>10.00000</span><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='color:black;mso-ansi-language:EN'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<pre><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+font-family:"Times New Roman"'>Problemsetter: Shahriar Manzoor, Member of Elite Problemsetters' Panel <o:p></o:p></span></b></pre></div>
+
+</body>
+
+</html>

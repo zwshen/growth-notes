@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Matty's Blocks</TITLE>
+<META NAME="description" CONTENT="Matty's Blocks">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Matty's Blocks</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Little Matty liked playing with his blocks very much. He always constructed his `buildings' in the same way: he made stacks of one or more blocks, and he put those stacks on a square table that was exactly <I>K</I> blocks wide (<I>K</I> = 8 for his largest table, so it could contain up to 8 <IMG WIDTH=9 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline101" SRC="434img1.gif"  > 8 block stacks). He didn't put the stacks randomly on the table. No, he always made a nice `square'
+pattern. In most buildings, there was no pattern visible in the heights of the stacks. However, since Little Matty himself was only eight blocks tall, a single stack of blocks never consisted of more than eight blocks.
+<P>
+This is an example of one of his buildings. It was built on a table that could contain 4 <IMG WIDTH=9 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline101" SRC="434img1.gif"  > 4 block stacks.
+<P>
+<center><img src=434img2.gif></center>
+<P>
+He liked drawing too. To record his block buildings for future generations, he would draw them on paper. Since drawing a three-dimensional block building just was too hard for him, he made two drawings of a building: one straight from the front (you could only see the front of the blocks), and one from the right (you could only see the right side of the blocks). The drawings were in fact two-dimensional projections of the block building, showing only its outline on the front or on the right side.
+<P>
+These are the drawings he made of the building shown above.
+<P>
+<center><img src=434img4.gif></center>
+<pre>
+                          Front                                Right side
+</pre>
+<P>
+He thought that such a pair of drawings would give enough information to be able to re-build the block building later (but he never tried it).
+<P>
+Years later, looking again at the drawings, he realized that this was not the case: from most pairs of drawings, he was able to construct more than one building that had the same outlines (front and right side) as the original one. He found out that from every (front, side)-pair of drawings that he had made, he could construct a `minimal' building, one that has the same outlines as the
+original building and contains a minimal number of blocks <I>N</I> (so it was not possible to construct a building with the same outlines with less than <I>N</I> blocks). Furthermore, he could add more blocks to this minimal building, so that the outlines remained the same, up to the point that he had added <I>M</I> () blocks and he had a `maximal' building, one that still had the same outlines
+as his minimal one, and adding one extra block would result in a building with a different outline (so there are no buildings with the same outlines that contain more than <I>N</I> + <I>M</I> blocks).
+<P>
+<P>
+As an example, these are minimal and maximal buildings for the drawings shown above. In this case, <I>N</I> = 7 and <I>M</I> = 10.
+<P>
+<center><img src=434img3.gif></center>
+<P>
+<pre>
+                 Minimal Building                            Maximal Building
+</pre>
+<P>
+Matty started determining the <I>N</I> and <I>M</I> for every pair of drawings he had made, but soon he found this task to be tedious. Now he asks <EM>you</EM> to write a program that does the job for him!
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input Specification</A></FONT></H2>
+<P>
+The input contains on the first line the number of test cases. Each test case starts with a line
+containing only the size of the table <I>K</I>. The next pair of lines each contain the description of
+one drawing. Each description consists of <I>K</I> non-negative integers separated by spaces. Each
+number indicates the height of the corresponding projection of a stack of blocks in the drawing.
+The description of the front drawing always precedes the description of the right side drawing.
+From each pair of drawings at least one block building can be constructed.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output specification</A></FONT></H2>
+<P>
+For each test case output the following line:
+<P>
+<TT>Matty needs at least <I>N</I> blocks, and can add at most <I>M</I> extra blocks.</TT>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>2
+4
+2 0 3 1
+1 1 2 3
+1
+1
+1</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>Matty needs at least 7 blocks, and can add at most 10 extra blocks.
+Matty needs at least 1 blocks, and can add at most 0 extra blocks.</PRE>
+<P>
+</BODY>
+</HTML>

@@ -1,0 +1,195 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>France '98</TITLE>
+<META NAME="description" CONTENT="France '98">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+France '98</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Today the first round of the Soccer World Championship in France is coming to an end. 16
+countries are remaining now, among which the winner is determined by the following tournament:
+
+<P>
+<PRE>
+ 1 Brazil -----+
+               +-- ? --+
+ 2 Chile ------+       |
+                       +-- ? --+
+ 3 Nigeria ----+       |       |
+               +-- ? --+       |
+ 4 Denmark ----+               |
+                               +-- ? --+
+ 5 Holland ----+               |       |
+               +-- ? --+       |       |
+ 6 Yugoslavia -+       |       |       |
+                       +-- ? --+       |
+ 7 Argentina --+       |               |
+               +-- ? --+               |
+ 8 England ----+                       |
+                                       +-- World Champion
+ 9 Italy ------+                       |
+               +-- ? --+               |
+10 Norway -----+       |               |
+                       +-- ? --+       |
+11 France -----+       |       |       |
+               +-- ? --+       |       |
+12 Paraguay ---+               |       |
+                               +-- ? --+
+13 Germany ----+               |
+               +-- ? --+       |
+14 Mexico -----+       |       |
+                       +-- ? --+
+15 Romania ----+       |
+               +-- ? --+
+16 Croatia ----+
+</PRE>
+
+<P>
+For each possible match A vs. B between these 16 nations, you are given the probability that team
+A wins against B. This (together with the tournament mode displayed above) is sufficient to
+compute the probability that a given nation wins the World Cup. For example, if Germany wins
+against Mexico with 80%, Romania against Croatia with 60%, Germany against Romania with 70%
+and Germany against Croatia with 90%, then the probability that Germany reaches the semi-finals
+is 80% * (70% * 60% + 90% * 40%) = 62.4%.
+
+<P>
+
+<P>
+<BR>
+Your task is to write a program that computes the chances of the 16 nations to become the World Champion '98.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file will contain just one test case.
+
+<P>
+The first 16 lines of the input file give the names of the 16 countries, from top to bottom according
+to the picture given above.
+
+<P>
+Next, there will follow a 16 <IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="542img1.gif"
+ ALT="$\times$">
+16 integer matrix <I>P</I> where element <I>p</I><SUB><I>ij</I></SUB> gives the probability in percent
+that country #<I>i</I> defeats country #<I>j</I> in a direct match. Country #<I>i</I> means the <I>i</I>-th country from top to
+bottom given in the list of countries. In the picture above Brazil is #1 and Germany is #13, so
+
+<!-- MATH: $p_{1,13} = 55$ -->
+<I>p</I><SUB>1,13</SUB> = 55 would mean that in a match between Brazil and Germany, Brazil wins with a probability of 55%.
+
+<P>
+Note that matches may not end with a draw, i.e. 
+<!-- MATH: $p_{ij} + p_{ji} = 100$ -->
+<I>p</I><SUB><I>ij</I></SUB> + <I>p</I><SUB><I>ji</I></SUB> = 100 for all <I>i</I>,<I>j</I>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Output 16 lines of the form ``
+<!-- MATH: $XXXXXXXXXX$ -->
+<I>XXXXXXXXXX</I> <TT>p=</TT><I>Y</I>.<I>YY</I>%", where 
+<!-- MATH: $XXXXXXXXXX$ -->
+<I>XXXXXXXXXX</I> is the country's
+name, left-justified in a field of 10 characters, and <I>Y</I>.<I>YY</I> is their chance in percent to win the cup,
+written to two decimal places. Use the same order of countries like in the input file.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+Brazil
+Chile
+Nigeria
+Denmark
+Holland
+Yugoslavia
+Argentina
+England
+Italy
+Norway
+France
+Paraguay
+Germany
+Mexico
+Romania
+Croatia
+50 65 50 60 55 50 50 65 45 55 40 55 40 55 50 50
+35 50 35 45 40 35 35 50 30 40 25 40 25 40 35 35
+50 65 50 60 55 50 50 65 45 55 40 55 40 55 50 50
+40 55 40 50 45 40 40 55 35 45 30 45 30 45 40 40
+45 60 45 55 50 45 45 60 40 50 35 50 35 50 45 45
+50 65 50 60 55 50 50 65 45 55 40 55 40 55 50 50
+50 65 50 60 55 50 50 65 45 55 40 55 40 55 50 50
+35 50 35 45 40 35 35 50 30 40 25 40 25 40 35 35
+55 70 55 65 60 55 55 70 50 60 45 60 45 60 55 55
+45 60 45 55 50 45 45 60 40 50 35 50 35 50 45 45
+60 75 60 70 65 60 60 75 55 65 50 65 50 65 60 60
+45 60 45 55 50 45 45 60 40 50 35 50 35 50 45 45
+60 75 60 70 65 60 60 75 55 65 50 65 50 65 60 60
+45 60 45 55 50 45 45 60 40 50 35 50 35 50 45 45
+50 65 50 60 55 50 50 65 45 55 40 55 40 55 50 50
+50 65 50 60 55 50 50 65 45 55 40 55 40 55 50 50
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+Brazil     p=8.54%
+Chile      p=1.60%
+Nigeria    p=8.06%
+Denmark    p=2.79%
+Holland    p=4.51%
+Yugoslavia p=7.50%
+Argentina  p=8.38%
+England    p=1.56%
+Italy      p=9.05%
+Norway     p=3.23%
+France     p=13.72%
+Paraguay   p=3.09%
+Germany    p=13.79%
+Mexico     p=3.11%
+Romania    p=5.53%
+Croatia    p=5.53%
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-01-11</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

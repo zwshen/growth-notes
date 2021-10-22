@@ -1,0 +1,237 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Program Modules</TITLE>
+<META NAME="description" CONTENT="Program Modules">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Program Modules</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The relations 
+<!-- MATH: $\rightarrow$ -->
+<IMG
+ WIDTH="22" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="792img1.gif"
+ ALT="$\rightarrow$">
+and 
+<!-- MATH: $\Rightarrow$ -->
+<IMG
+ WIDTH="22" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="792img2.gif"
+ ALT="$\Rightarrow$">
+are defined over the set of functions of a program.
+<UL>
+<LI>
+<!-- MATH: $A \rightarrow B$ -->
+<IMG
+ WIDTH="59" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="792img3.gif"
+ ALT="$A \rightarrow B$">
+means that the function <I>A</I> directly calls the function <I>B</I>;
+<LI>
+<!-- MATH: $A \Rightarrow B$ -->
+<IMG
+ WIDTH="59" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="792img4.gif"
+ ALT="$A \Rightarrow B$">
+means that the function <I>A</I> calls the function <I>B</I> (directly or indirectly).
+</UL>
+
+<P>
+In addition, it is known that:
+<UL>
+<LI>if 
+<!-- MATH: $A \rightarrow B$ -->
+<IMG
+ WIDTH="59" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="792img3.gif"
+ ALT="$A \rightarrow B$">
+then 
+<!-- MATH: $A \Rightarrow B$ -->
+<IMG
+ WIDTH="59" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="792img4.gif"
+ ALT="$A \Rightarrow B$">
+<LI>if 
+<!-- MATH: $A \Rightarrow B$ -->
+<IMG
+ WIDTH="59" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="792img4.gif"
+ ALT="$A \Rightarrow B$">
+and 
+<!-- MATH: $B \Rightarrow C$ -->
+<IMG
+ WIDTH="59" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="792img6.gif"
+ ALT="$B \Rightarrow C$">
+then 
+<!-- MATH: $A \Rightarrow C$ -->
+<IMG
+ WIDTH="59" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="792img7.gif"
+ ALT="$A \Rightarrow C$"></UL>
+
+<P>
+A  computer aided software engineering system  is  able  to  group  the  functions  of  a  program  into  modules
+according to the following rules:
+<DL COMPACT>
+<DT>1.
+<DD>If 
+<!-- MATH: $A \Rightarrow B$ -->
+<IMG
+ WIDTH="59" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="792img4.gif"
+ ALT="$A \Rightarrow B$">6 and 
+<!-- MATH: $B \Rightarrow A$ -->
+<IMG
+ WIDTH="59" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="792img8.gif"
+ ALT="$B \Rightarrow A$">
+then the functions <I>A</I> and <I>B</I> are grouped in the same module.
+<DT>2.
+<DD>Any two functions which do not satisfy (1) must be in different modules.
+</DL>
+
+<P>
+
+<P>
+<BR>
+Write a program  that  is  able  to modularize a program according  to  the  rules  (1)  and  (2) given above. The
+program reads sets of data from a text file. Each set of data stands for a different program  to be modularized
+and has the format:
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+(Fun_1 \ Fun_{11} \dots  Fun_{1n_1})\ (Fun_2 \ Fun_{21} \dots  Fun_{2n_2}) \dots (Fun_m \ Fun_{m1} \dots  Fun_{mn_m}).
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="623" HEIGHT="31"
+ SRC="792img9.gif"
+ ALT="\begin{displaymath}(Fun_1 \ Fun_{11} \dots Fun_{1n_1})\ (Fun_2 \ Fun_{21} \dots Fun_{2n_2}) \dots (Fun_m \ Fun_{m1} \dots Fun_{mn_m}).
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+where <I>Fun</I><SUB><I>i</I></SUB> and <I>Fun</I><SUB><I>ij</I></SUB>, <I>i</I>=1,<I>m</I>, <I>j</I>=1,<I>n</I><SUB><I>j</I></SUB>, 
+<!-- MATH: $m,n_j \ge 0$ -->
+<IMG
+ WIDTH="77" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="792img10.gif"
+ ALT="$m,n_j \ge 0$">,
+are letters
+(case sensitive) designating names of functions. The
+meaning of the term 
+<!-- MATH: $(Fun_i \ Fun_{i1} \dots \ Fun_{in_i})$ -->
+<IMG
+ WIDTH="194" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="792img11.gif"
+ ALT="$(Fun_i \ Fun_{i1} \dots \ Fun_{in_i})$">,
+<IMG
+ WIDTH="52" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="792img12.gif"
+ ALT="$n_i \ge 0$">,
+is: 
+<!-- MATH: $Fun_i \rightarrow Fun_{ij}$ -->
+<IMG
+ WIDTH="117" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="792img13.gif"
+ ALT="$Fun_i \rightarrow Fun_{ij}$">,
+<I>j</I>=1,<I>n</I><SUB><I>j</I></SUB>. The data set is ended by a dot. Spaces,
+tabs and line breaks are used freely in the input. Input data are correct,  i.e. each data
+set contains exactly one
+term 
+<!-- MATH: $(Fun \ Fun_1 \dots \ Fun_n)$ -->
+<IMG
+ WIDTH="175" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="792img14.gif"
+ ALT="$(Fun \ Fun_1 \dots \ Fun_n)$">,
+for each <I>Fun</I> of the program encoded by the data set,
+and 
+<!-- MATH: $Fun_i \neq Fun_j$ -->
+<IMG
+ WIDTH="108" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="792img15.gif"
+ ALT="$Fun_i \neq Fun_j$">
+for <IMG
+ WIDTH="42" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="792img16.gif"
+ ALT="$i \neq j$">,
+<I>i</I>,<I>j</I> = 1,<I>n</I>.
+
+<P>
+
+<P>
+<BR>
+The result of the program  is on standard output. For each data set the program  lists the function names of
+each computed module, one module per  line. The names of the functions of a module are  listed  in  ascending
+lexicographic order and are separated by single spaces. The modules are  listed ascendingly according  to  the
+lexicographic order of their first component (function name). The output for the data set is followed by an empty
+line.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input and Output</A>&nbsp;</FONT>
+</H2>
+The example below shows an input file, which contains three data sets, and the
+corresponding output.
+The first data set stands  for an empty set of  functions and  the corresponding output
+is an empty  line. For  the
+second data set there are two singleton modules `<TT>a</TT>' and `<TT>b</TT>', whereas for the
+third data set there are three modules `<TT>a b e</TT>', `<TT>c</TT>' and `<TT>d</TT>'.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+.
+
+(a a) (a b) (b).
+
+(a b c) (b a e) (c d)
+(d d) (e b).
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+a
+b
+
+a b e
+c
+d
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2001-01-05</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

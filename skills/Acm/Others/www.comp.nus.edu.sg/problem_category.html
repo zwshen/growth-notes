@@ -1,0 +1,336 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<title>World of Seven - Methods to Solve - Problem Category</title>
+<meta name="Microsoft Theme" content="none">
+<meta name="Microsoft Border" content="t, default">
+</head>
+
+<body bgcolor="#C0C0C0"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<div align="center">
+	<center>
+	<table border="2" cellpadding="0" cellspacing="0" width="924">
+		<tr>
+			<td bgcolor="#FF6600">
+			<p align="center"><font color="#FFFFFF">
+			<a href="http://nus.edu.sg/">
+			<img alt="NUS Home" src="../_borders/nuslogohome.gif" border="0" align="left" width="183" height="94"></a><strong><font size="5" face="Trebuchet MS"></font><font face="Trebuchet MS" size="2"><br>
+			</font></strong></font></td>
+		</tr>
+	</table>
+	</center></div>
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><!--msnavigation--><td valign="top">
+<basefont size="2" color="green">
+<div align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="924" bgcolor="#FFFFF0">
+		<tr>
+			<td>
+
+
+		<p style="margin-left: 10; margin-right: 10" align="center">
+		<font size="2" face="Verdana"><br>
+		Last Updated:
+		<!--webbot bot="Timestamp" s-type="EDITED" s-format="%m/%d/%Y %I:%M:%S %p" startspan -->11/10/2008 03:53:32 PM<!--webbot bot="Timestamp" i-checksum="29967" endspan --></font></p>
+		<p style="margin-left: 10; margin-right: 10" align="left">
+		<font size="2" face="Verdana">Motivation for academia: Grouping problems into specific categories 
+		is very useful, especially for those who want to practice on a particular 
+		problem type. For example: you want to practice backtracking, you can select 
+		several problems from the backtracking list and try to solve them. You 
+		can then try to solve 
+		all variety of problems of the same type to master the technique. Those 
+		who are in process of learning a new algorithmic concept should try 
+		solving problems using this problem classification.</font></p>
+		<p style="margin-left: 10; margin-right: 10" align="left">
+		<font face="Verdana" size="2">However, maintaining such list is very very 
+		troublesome, especially when the numbers of problems 
+		in UVa Online Judge already reach 1500+... However, there is a good news 
+		that this feature will be included as a built-in feature in UVa OJ <u>
+		<b>soon</b></u>, where once you got a problem Accepted, you got a chance 
+		to help us classify the method to solve that particular problems from a
+		<u><b>prototype controlled list</b></u> below.</font></p>
+		<p style="margin-left: 10px; margin-right: 10px" align="left">
+		<font size="2" face="Verdana">The <u><b>prototype controlled list</b></u> 
+		of solving methods, sorted based on the frequency of appearances, as 
+		well as some (max 5 per category) example problems from UVa Online Judge 
+		to help beginners in understanding this classification scheme:</font></p>
+		<ol>
+			<li>
+			<p style="margin-left: 10px; margin-right: 10px" align="left">
+			<font size="2" face="Verdana"><b>Ad Hoc:</b> Ad Hoc problems appears 
+			more often than other type of problems. In these problems, there is 
+			no textbook algorithm to solve them, but you need to think or follow 
+			problem description closely to come up with a good solution.<br>
+			<b>Example:</b> 460, 591, 642,
+					837, 10015<br>
+			<br>
+			<b>Simulation:</b> problems that can only be solved after you 
+			simulate the actual process given in the problem description, we can 
+			consider this as &quot;Ad Hoc&quot; too.<br>
+			<b>Example:</b> 100, 101, 440, 758, 10033<br>
+&nbsp;</font></li>
+			<li>
+			<p style="margin-left: 10px; margin-right: 10px" align="left">
+			<font size="2" face="Verdana"><b>Math:</b> Mathematical problems are 
+			the second highest type of problems in programming contest. Usually, 
+			specific knowledge of Number Theory or well known algorithms in 
+			Mathematics are required to solve them efficiently. Since this topic 
+			is too broad, we classify them into sub categories, sorted from the 
+			most common sub categories first.<br>
+			<b>Example:</b> 190, 474, 568, 725, 10071<br>
+			<br>
+			<b>Math (Prime Number)</b>: Prime numbers (and their composite 
+			counterpart) occurs quite often, specific knowledge in Prime number 
+			checker, such as: advanced trial division, or Prime number 
+			generator, such as: Sieve of Eratosthenes, belong in this category.<br>
+			<b>Example:</b> 406, 583<br>
+			<br>
+			<b>Math (Number Theory)</b>: Techniques such as Euclid, 
+			Extended_Euclid, Chinese Remainder Theorem, and other nitty gritties 
+			from Number theories belongs to this category.<br>
+			<b>Example:</b> 10104<br>
+			<br>
+			<b>Math (Computational Geometry)</b>: This category combines 
+			solution related to &quot;pure Geometry&quot; (such as Trigonometry solutions, 
+			Area of Triangle, etc) and &quot;Computational Geometry&quot; (Convex Hull, 
+			Plane Sweep, Line Intersection, etc).<br>
+			<b>Example:</b> 10242, 10245<br>
+			<br>
+			<b>Math (Big Integer)</b>: Anytime a solution requires a number that 
+			exceeds long long (2^63-1), or&nbsp; unsigned long long if you only 
+			need positive values (2^64), you need to rely on Big Integer 
+			libraries to solve them.<br>
+			<b>Example:</b> 10183, 10220<br>
+			<br>
+			<b>Math (Modular Arithmetic):</b> Any solution that requires you to 
+			raise a number to a very high power but requires the modular 
+			fraction of it belongs to this category<br>
+			<b>Example:</b> 374<br>
+			<br>
+			<b>Math (Algebra):</b> Any solution that requires you to solve 
+			system of equations belongs to this category<br>
+			<b>Example:</b> 10105<br>
+			<br>
+			<b>Math (Combinatorics):</b> Any solution that requires you to count 
+			something belongs to this category<br>
+			<b>Example:</b> 10007<br>
+&nbsp;</font></li>
+			<li>
+			<p style="margin-left: 10px; margin-right: 10px" align="left">
+			<font size="2" face="Verdana"><b>Backtracking a.k.a Complete Search 
+			a.k.a Brute force:</b> These three terms are actually the same. 
+			There is no efficient solution, therefore you let the computer 
+			try-them-all but prune unnecessary search space... Believe it or 
+			not, this may be one of the most popular technique to solve a 
+			problem if you can't figure out the best solution but realize that 
+			the input size is quite small or time limit is quite long...<br>
+			<b>Example:</b> 416, 524, 10285<br>
+&nbsp;</font></li>
+			<li>
+			<p style="margin-left: 10px; margin-right: 10px" align="left">
+			<font size="2" face="Verdana"><b>Dynamic Programming:</b> Put your 
+			general DP solution to this category if it doesn't fit to any 
+			sub-categories below, otherwise, classify them as one of the 
+			following well-known DP solutions:<br>
+			<b>Example:</b> 116, 136, 585, 640, 10003<br>
+			<br>
+			<b>DP (Longest Increasing Subsequence)<br>
+			Example: </b>231, 481, 497,
+					10051,
+					10131<b><br>
+			<br>
+			DP (Longest Common Subsequence)<br>
+			Example: </b>531,<font color="#0000FF"> </font>10066,
+					10100,10192,
+					10405<b><br>
+			<br>
+			DP (Coin Changing)<br>
+			Example: </b>147, 357, 674<b><br>
+			<br>
+			DP (Edit Distance)<br>
+			Example: </b>164, 526<b><br>
+			<br>
+			DP (Matrix Chain Multiplication)<br>
+			Example:</b> 348<b><br>
+			<br>
+			DP (Max Interval Sum)<br>
+			Example:</b> 507<b><br>
+			<br>
+			DP (0-1 Knapsack)<br>
+			Example:</b> 10130<br>
+&nbsp;</font></li>
+			<li>
+			<p style="margin-left: 10px; margin-right: 10px" align="left">
+			<font size="2" face="Verdana"><b>Graph:</b> Problems that can be 
+			modeled into Graph (Trees are considered as Graph) requires either a 
+			specific well known graph algorithms or brute force solution. Put a 
+			problem in this category if there exist a well known Graph 
+			algorithms to solve them<br>
+			<br>
+			<b>Graph (Traversal):</b> standard graph problem that involves 
+			traversal (DFS/BFS) <br>
+			<b>Example:</b> 10009 <br>
+			<br>
+			<b>Graph (Single Source Shortest Path):</b> Dijkstra, or BFS on 
+			unweighted graph<br>
+			<b>Example:</b> 336, 762<br>
+			<br>
+			<b>Graph (All-Pairs Shortest Path):</b> Multiple Dijkstra, Floyd 
+			Warshall or Johnson algorithm<br>
+			<b>Example:</b><font color="#008000">
+					</font>534, 544, 10048, 10099,
+					10171<br>
+			<br>
+			<b>Graph (Minimum Spanning Tree):</b> Prim or Kruskal<br>
+			<b>Example:</b> 10034,
+					10147,
+					10397<br>
+			<br>
+			<b>Graph (Articulation Point):</b> Finding the weakest link in the 
+			graph<br>
+			<b>Example:</b> 315, 796<br>
+			<br>
+			<b>Graph (Flood Fill):</b> Standard recursive flood fill on graph<br>
+			<b>Example:</b> 352, 572 <br>
+			<br>
+			<b>Graph (Network Flow):</b> Ford Fulkerson/Edmonds Karp algorithm<br>
+			<b>Example:</b> 820, 10092<br>
+			<br>
+			<b>Graph (Maximum Bipartite Matching):</b> Either transform this 
+			into Network flow solution or use Hungarian matching<br>
+			<b>Example:</b> 670, 753<br>
+			<br>
+			<b>Graph Theory:</b> Any solutions that requires a specific 
+			properties of graph belongs to this such as Euler Cycle/Path, Euler 
+			formula to count faces of planar graph: V-E+F=2, etc...<br>
+			<b>Example:</b> 10596<br>
+&nbsp;</font></li>
+			<li>
+			<p style="margin-left: 10px; margin-right: 10px" align="left">
+			<font size="2" face="Verdana"><b>Greedy Algorithm:</b> Greedy, 
+			although inherently included in other algorithms such as MST, or 
+			Dijkstra... are still naturally applicable to solve many problems.<br>
+			<b>Example:</b> 10020,
+					10249,
+					10340<br>
+&nbsp;</font></li>
+			<li>
+			<p style="margin-left: 10px; margin-right: 10px" align="left">
+			<font size="2" face="Verdana"><b>Divide &amp; Conquer</b>: Any solutions 
+			that breaks original problem into two or more sub-problems, solve 
+			them recursively, and combines the result belongs to this category. 
+			This category usually part of other category.<br>
+			<b>Example:</b> 374, 495<br>
+&nbsp;</font></li>
+			<li>
+			<p style="margin-left: 10px; margin-right: 10px" align="left">
+			<font size="2" face="Verdana"><b>Sorting:</b> Sorting is inherently 
+			required for solving most problems... but sometimes there exist some 
+			problems that purely test our sorting skill.... set them into this 
+			field if that is true.<br>
+			<b>Example:</b> 299<br>
+&nbsp;</font></li>
+			<li>
+			<p style="margin-left: 10px; margin-right: 10px" align="left">
+			<font size="2" face="Verdana"><b>String Processing</b>: General 
+			string processing problem.<br>
+			<br>
+			<b>Input/Output-related:</b> Any type of solution that given input, 
+			transform it to the desired output.<br>
+			<b>Example:</b> 400, 403<br>
+			<br>
+			<b>Recursive Descent Parser (BNF Parser):</b> You are given a well 
+			formed grammar, and need to evaluate correctness of a language / 
+			string. Solution for this type of question usually is a RDF parser.<br>
+			<b>Example:</b> 464<br>
+&nbsp;</font></li>
+			<li>
+			<p style="margin-left: 10px; margin-right: 10px" align="left">
+			<font size="2" face="Verdana"><b>Advanced Data Structures: </b>There 
+			exist problems that requires advanced data structures 
+			(Fibonacci/Leftist Heaps, Sets, Dictionaries, etc)<br>
+			<br>
+			<b>Set (Union-Find):</b> There exist problems which requires testing 
+			of set<br>
+			<b>Example:</b> 793<br>
+			<br>
+			<b>Dictionaries (Hash table, Balanced Search Trees, etc)</b>: There 
+			exist problems which are easy but requires sophisticated 
+			implementation of dictionary data structure / or you can use STL 
+			map, of advanced data structures.<br>
+			<b>Example:</b> 10226<br>
+&nbsp;</font></li>
+			<li>
+			<p style="margin-left: 10px; margin-right: 10px" align="left">
+			<font size="2" face="Verdana"><b>Binary Search:</b> There is a small 
+			number of problems that clearly solvable using binary search. 
+			However, if it is possible, one needs to sort the input first...<br>
+			<b>Example:</b> 10295<br>
+&nbsp;</font></li>
+			<li>
+			<p style="margin-left: 10px; margin-right: 10px" align="left">
+			<font size="2" face="Verdana"><b>Not Classified Yet:</b> default 
+			values for all unclassified problems</font></li>
+		</ol>
+		<p style="margin-left: 10; margin-right: 10" align="left">
+		<font face="Verdana" size="2">On every problems that I've solved and 
+		written hints, I'll indicate their classification. The full 
+		implementation of this classification scheme will be available in UVa 
+		website soon... Stay tuned :)</font></p>
+
+			<hr>
+			<font face="Verdana" size="1">
+			<!--
+  The contents of this file are printed by the pagecount program when it
+  is invoked as a server-side include.  The following directives are
+  available for including data from the statistics database:
+ 
+
+	Percent sign:		  %
+	Anchor URL/URI: 	  http://www.comp.nus.edu.sg/cgi-bin/pagecount?/~stevenha/programming/problem_category.html, /cgi-bin/pagecount?/~stevenha/programming/problem_category.html
+	Current date/time: 	  25-Mar-10, 22:38:28 SGT
+	Total number of days: 	  2352nd, 2352
+	Elapsed number of days:   2377th, 2377
+	Document path/file name:  /home/s/stevenha/public_html/programming/problem_category.html, problem_category.html
+	Total number of hosts: 	  11087th, 11087
+	Last access date/time: 	  25-Mar-10, 21:49:00 SGT
+	Total number of accesses: 22807th, 22807
+	Remote host/address: 	  118-165-152-190.dynamic.hinet.net, 118.165.152.190
+	Start date/time:	  22-Sep-03, 16:46:28 SGT
+	Accesses today: 	  4th, 4
+	Document URL/URI: 	  http://www.comp.nus.edu.sg/~stevenha/programming/problem_category.html, /~stevenha/programming/problem_category.html
+	Accesses this host: 	  1st, 1
+
+  The rest of the file should contain valid HTML.
+-->
+
+This document, <I>problem_category.html</I>, has been accessed 22807 times since 22-Sep-03 16:46:28 SGT.
+This is the 4th time it has been accessed today.
+<P>
+A total of 11087 different hosts have accessed this document in the
+last 2377 days; your host, <I>118-165-152-190.dynamic.hinet.net</I>, has accessed it 1 times.
+<P>
+If you're interested, <A HREF="/cgi-bin/pagecount?/~stevenha/programming/problem_category.html">complete statistics</A> for
+this document are also available, including breakdowns by top-level
+domain, host name, and date.
+<P>
+
+			</font>
+			
+			<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+			</script>
+			<script type="text/javascript">
+			_uacct = "UA-1566631-3";
+			urchinTracker();
+			</script>
+
+			</td>
+		</tr>
+	</table>
+</div>
+
+</body>
+</html>

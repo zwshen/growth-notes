@@ -1,0 +1,126 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>LAEncoding</TITLE>
+<META NAME="description" CONTENT="LAEncoding">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+LAEncoding</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Petr wishes to send a message to his friend ACRush. Unfortunately, due to repeated use of his keyboard some of the keys
+of his keyboard do not work.  ACRush and Petr during their next meeting invent a method to send the message by using 
+the limited alphabet (working keys).
+
+<P>
+Given an alphabet set, the first character in the ASCII ordering of the alphabet set is called special LA character.
+LA encodable string for an alphabet set, can be of any length but the special LA character cannot appear as the 
+starting letter of  it.	The message sent by Petr, is a string of uppercase characters (<TT>A</TT>-<TT>Z</TT>) and is a LA encodable string 
+for the alphabet set <TT>A</TT>-<TT>Z</TT>.
+
+<P>
+To encode the message, Petr first writes down  all possible LA encodable strings for alphabet set <TT>A</TT>-<TT>Z</TT> in 
+lexicographical order, and finds the position, say `<SPAN CLASS="MATH"><I>i</I></SPAN>
+<tex2html_verbatim_mark>', of his message, which is to be sent to ACRush. 
+To send the message he must use only working keys. So he encodes the message to be sent. 
+For this purpose, he writes down all possible LA encodable strings for the limited alphabet set (working keys) in 
+lexicographical order and selects the string in this list that is in the position `<SPAN CLASS="MATH"><I>i</I></SPAN>
+<tex2html_verbatim_mark>' which he found earlier. 
+As this encoded string (found at positon `<SPAN CLASS="MATH"><I>i</I></SPAN>
+<tex2html_verbatim_mark>') contains only the working keys, he can send it without any problem 
+and can be decoded easily.
+
+<P>
+You will be given the message to be sent by Petr, and the list of non-working keys, 
+your task is to print the encoded string which will be sent to ACRush.
+
+<P>
+
+<P>
+<BR>
+
+<SPAN  CLASS="textbf">Constraints:</SPAN>
+
+<P>
+
+<UL>
+<LI>Length of message sent by Petr is between 1 and 12 both inclusive.
+</LI>
+<LI>Number of non-working keys will range from 1 to 24 both inclusive.
+</LI>
+<LI>String of lesser length comes first in lexicographical order. If the two strings are of same length, they are written in alphabetical order.
+</LI>
+</UL>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+First line contains number of test cases <SPAN CLASS="MATH"><I>t</I></SPAN>
+<tex2html_verbatim_mark>. Each test case contains a line with two strings separated by space(s). 
+First string is the message to be sent by Petr. Second string is the list of non-working characters (not separated by spaces).
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Output a line for each test case, containing the encoded form of the string to be sent by Petr.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+Z Z
+CMBWJOJ BCMJOW
+CMBWJOJ ADEZLXY
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+BA
+QXXXHLN
+UGMKSKM
+</PRE> 
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

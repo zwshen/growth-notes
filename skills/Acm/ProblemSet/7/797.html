@@ -1,0 +1,136 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Two Way Traffic</TITLE>
+<META NAME="description" CONTENT="Two Way Traffic">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Two Way Traffic</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A  motorway  is  passing  through  a  tunnel,  <I>d</I> meters  long,
+as illustrated  in  figure  1.  The  rate  of  the  traffic
+directed eastwards  is of one vehicle every <I>t</I><SUB>1</SUB> seconds, and  the
+rate of the  traffic directed westwards  is  of one vehicle every
+<I>t</I><SUB>2</SUB> seconds. The vehicles going east have a constant speed of <I>v</I><SUB>1</SUB>
+m/s, while  the vehicles going west have a constant speed of <I>v</I><SUB>2</SUB>
+m/s.
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p797.gif>
+
+<P>
+
+Figure 1: The motorway
+</DIV>
+
+<P>
+Write a program that computes the number of vehicle `rendezvous'
+that occur inside the tunnel during the closed time interval
+[<I>t</I><SUB><I>i</I></SUB>,<I>t</I><SUB><I>f</I></SUB>] that is measured in seconds. It is known that:
+
+<P>
+<UL>
+<LI>A rendezvous  point  is  considered  inside  the  tunnel if
+it is in  between  the  entrances  of  the  tunnel. Rendezvous at
+the tunnel entrances are outside the tunnel, as shown in figure 1.
+<LI>At time 0 there is a vehicle advancing eastwards that is
+<I>d</I><SUB>1</SUB> meters away from the entrance of the tunnel, and there is
+another vehicle advancing westwards that is <I>d</I><SUB>2</SUB> meters away from
+the entrance of the tunnel. These vehicles are part of the already
+existing traffic on the motorway.
+<LI>Input and output data are integers. The magnitude range of the
+problem parameters  is as
+follows: 
+<!-- MATH: $0 \le d, d_1, d_2 \le 100000$ -->
+<IMG
+ WIDTH="170" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="797img1.gif"
+ ALT="$0 \le d, d_1, d_2 \le 100000$">,
+
+<!-- MATH: $0 < t_1, t_2 \le 10000$ -->
+<IMG
+ WIDTH="139" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="797img2.gif"
+ ALT="$0 < t_1, t_2 \le 10000$">,
+
+<!-- MATH: $-10000 \le t_i, t_f \le 10000$ -->
+<IMG
+ WIDTH="186" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="797img3.gif"
+ ALT="$-10000 \le t_i, t_f \le 10000$">.
+</UL>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input and Output</A>&nbsp;</FONT>
+</H2>
+The program reads sets of data from a text file. Each data set is
+on a separate line and has the format: 
+<!-- MATH: $d\ d_1\ d_2\ v_1\ v_2\
+t_1\ t_2\ t_i\ t_f$ -->
+<IMG
+ WIDTH="180" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="797img5.gif"
+ ALT="$d\ d_1\ d_2\ v_1\ v_2\
+t_1\ t_2\ t_i\ t_f$">.
+The  input data are correct. For each data
+set the program writes to the standard output the number of
+rendezvous. Each result is on a separate line. An example of
+program input/output for six data sets is shown in the sample below.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1 0 0 1 1 1 1 0 10
+2 1 1 1 1 1 1 0 1
+3 2 1 1 1 1 1 0 0
+3 2 1 1 1 1 1 1 1
+3 2 1 1 1 1 1 0 1
+6525 100000 55000 22 33 3 4 -10000 -3600
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+10
+4
+2
+2
+7
+263450
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2001-01-05</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

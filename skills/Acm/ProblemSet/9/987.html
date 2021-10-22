@@ -1,0 +1,168 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+            "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+
+<HEAD>
+
+
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<META name="GENERATOR" content="hevea 1.08">
+<STYLE type="text/css">
+.toc{list-style:none;}
+.title{margin:auto;text-align:center}
+.center{text-align:center;margin-left:auto;margin-right:auto;}
+.flushleft{text-align:left;margin-left:0ex;margin-right:auto;}
+.flushright{text-align:right;margin-left:auto;margin-right:0ex;}
+DIV TABLE{margin-left:inherit;margin-right:inherit;}
+PRE{text-align:left;margin-left:0ex;margin-right:auto;}
+BLOCKQUOTE{margin-left:4ex;margin-right:4ex;text-align:left;}
+.part{margin:auto;text-align:center;}
+.esq {float: left;}
+.dir {float: right;}
+.titulo {clear: right;}
+</STYLE>
+</HEAD>
+
+<BODY >
+<!--HEVEA command line is: /usr/bin/hevea -fix maternity_pg_20060918.tex -o maternity_pg_20060918.html -->
+<!--HTMLHEAD-->
+<!--ENDHTML-->
+<!--PREFIX <ARG ></ARG>-->
+<!--CUT DEF section 1 -->
+
+<p class="titulo">
+        <span class="esq">Universidade da Beira Interior</span>
+        <span class="dir">21-10-2006</span>&nbsp;
+   </p>
+
+<!--TOC section Problem I-->
+
+<H2 CLASS="section">Problem I</H2><!--SEC END -->
+
+<DIV CLASS="center"><FONT SIZE=5><SPAN STYLE="font-variant:small-caps">Maternity</SPAN></FONT></DIV><BR>
+<BR>
+<!--TOC subsection Problem-->
+
+<H3 CLASS="subsection">Problem</H3><!--SEC END -->
+
+The government of Coviland has decided to close down the maternity
+services in some smaller hospitals, so that better care can be
+provided to mothers-to-be and their babies in a few central
+facilities that are modern, technologically-advanced and
+fully-equipped for the task.<BR>
+<BR>
+This way the government will also save some public money, it is
+argued. On the other hand, some mothers-to-be will have to travel
+further than usual to deliver their babies, and spend more of their
+own money for that.<BR>
+<BR>
+Acknowledging this, the minister decided to choose the maternities
+to close in a way that minimizes the extra cost on the women that
+give birth further than usual. Your task is to write a program to
+help the minister chose, or better still, a program that does the
+choice for the minister.<BR>
+<BR>
+Your program will be given the list of cities in Coviland, the
+population and location of each, plus the list of cities whose
+hospitals currently have maternity services and also the number of
+services that must be closed down. It then computes the list of
+services that should be closed down, so that the total extra cost to
+be supported by all the mothers-to-be in traveling to the closest
+available service is kept to a minimum.<BR>
+<BR>
+Coviland is a well managed country in which all cities are connected
+by a grid of roads, all of them running either north-south or
+east-west. (Actually, the town planners of New York City got their
+inspiration for the layout of the streets and avenues of Manhattan
+from the road network of Coviland.)<BR>
+<BR>
+You can assume that all cities are equally fertile, i.e., the number
+of babies to be born to parents living in a certain city is
+proportional to the population of that city. Furthermore, note the
+cost of giving birth in Coviland is just the cost of traveling to
+the nearest open maternity, and this is proportional to the distance
+traveled.<BR>
+<BR>
+<!--TOC subsection Input-->
+
+<H3 CLASS="subsection">Input</H3><!--SEC END -->
+<b>
+The input will contain several test cases, each of them as described below.
+Consecutive test cases are separated by a single blank line.
+</b>
+<p>
+<p>
+
+The first line of the input file contains a positive integer, <I>C</I>, the
+number of cities, 0 &lt; <I>C</I> &#8804; 100. Each of the following <I>C</I> lines
+contains a unique non-empty string, representing the city name, a positive integer,
+representing the population of that city, and two integer numbers,
+representing the Euclidean coordinates of the city in Coviland
+units, all separated by a space. Next, comes a line with a positive
+integer, <I>M</I>, the number of cities currently having maternity services
+0 &lt; <I>M</I> &#8804; <I>C</I> and <I>M</I> &#8804; 20. The following <I>M</I> lines contain the list of
+such cities. Next, comes the last line, with a single positive
+integer, <I>N</I>, the number of services to close down, 0 &lt; <I>N</I> &lt; <I>M</I> and <I>N</I> &#8804;
+10. Names of cities in Coviland are written in lowercase only, using
+the 26 Latin letters, with no embedded spaces, and their length is 31 or less.<BR>
+<BR>
+<!--TOC subsection Output-->
+
+<H3 CLASS="subsection">Output</H3><!--SEC END -->
+
+<b>
+For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+The output file contains <I>N</I> lines (where <I>N</I> is the number of services
+to close down), representing the list of cities whose services will
+close down. This list is alphabetically sorted. In case of a tie,
+i.e., if two or more sets of cities would minimize the total extra
+cost, your program should choose the one that is lexicographically
+least. (This means that, for example, of the two sets {&#8220;aaa",
+&#8220;ccc", &#8220;hhh"} and {&#8220;aaa", &#8220;ddd", &#8220;fff"}, your program should prefer
+the former.)<BR>
+<BR>
+<!--TOC subsection Sample Input-->
+
+<H3 CLASS="subsection">Sample Input</H3><!--SEC END -->
+
+<PRE CLASS="verbatim">
+7
+covi 2800 500 600
+fund 1000 500 400
+penam 500 900 600
+castle 2500 700 300
+belmont 600 900 900
+butter 700 200 400
+gard 5000 700 900
+4
+covi
+gard
+castle
+fund
+2
+</PRE>
+<!--TOC subsection Sample Output-->
+
+<H3 CLASS="subsection">Sample Output</H3><!--SEC END -->
+
+<PRE CLASS="verbatim">
+castle
+covi
+</PRE>
+<!--HTMLFOOT-->
+<!--ENDHTML-->
+<!--FOOTER-->
+
+<p class="titulo">
+        <span class="esq">Maratona Inter-Universitária de Programação 2006</span>
+        <span class="dir">MIUP'2006</span>&nbsp;
+   </p>
+<hr>
+<b>Author:</b> Pedro Guerreiro (Universidade Nova de Lisboa)
+
+</BODY>
+</HTML>

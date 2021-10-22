@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Skew Binary</TITLE>
+<META NAME="description" CONTENT="Skew Binary">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Skew Binary</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+When a number is expressed in decimal, the <I>k</I>-th digit represents a multiple
+of 10<SUP><I>k</I></SUP>. (Digits are
+numbered from right to left, where the least significant digit is number 0.)
+For example,
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+81307_{10} = 8 \times 10^4 + 1 \times 10^3 + 3 \times 10^2 + 0 \times 10^1 +
+7 \times 10 0 = 80000 + 1000 + 300 + 0 + 7
+= 81307.
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="641" HEIGHT="29"
+ SRC="575img1.gif"
+ ALT="\begin{displaymath}81307_{10} = 8 \times 10^4 + 1 \times 10^3 + 3 \times 10^2 + ...
+...mes 10^1 +
+7 \times 10 0 = 80000 + 1000 + 300 + 0 + 7
+= 81307.
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+When a number is expressed in binary, the <I>k</I>-th digit represents a multiple of
+2<SUP><I>k</I></SUP>. For example,
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+10011_2 = 1 \times 2^4 + 0 \times 2^3 + 0 \times 2^2 + 1 \times 2^1 +
+1 \times 2^0 = 16 + 0 + 0 + 2 + 1 = 19.
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="553" HEIGHT="29"
+ SRC="575img2.gif"
+ ALT="\begin{displaymath}10011_2 = 1 \times 2^4 + 0 \times 2^3 + 0 \times 2^2 + 1 \times 2^1 +
+1 \times 2^0 = 16 + 0 + 0 + 2 + 1 = 19.
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+In <B>skew binary</B>, the <I>k</I>-th digit represents a multiple of 
+<!-- MATH: $2^{k+1} - 1$ -->
+2<SUP><I>k</I>+1</SUP> - 1.
+The only possible digits are 0 and
+1, except that the least-significant nonzero digit can be a 2. For example,
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+10120_{skew} = 1 \times (2^5 - 1) + 0 \times (2^4-1) + 1 \times (2^3-1) +
+2 \times (2^2-1) + 0 \times (2^1-1)
+= 31 + 0 + 7 + 6 + 0 = 44.
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="696" HEIGHT="31"
+ SRC="575img3.gif"
+ ALT="\begin{displaymath}10120_{skew} = 1 \times (2^5 - 1) + 0 \times (2^4-1) + 1 \tim...
+...2 \times (2^2-1) + 0 \times (2^1-1)
+= 31 + 0 + 7 + 6 + 0 = 44.
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+The first 10 numbers in skew binary are 0, 1, 2, 10, 11, 12, 20, 100, 101,
+and 102. (Skew binary is
+useful in some applications because it is possible to add 1 with at most
+one carry. However, this
+has nothing to do with the current problem.)
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains one or more lines, each of which contains an integer <I>n</I>. If <I>n</I> = 0 it signals
+the end of the input, and otherwise <I>n</I> is a nonnegative integer in skew binary.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each number,
+output the decimal equivalent. The decimal value of <I>n</I> will be at
+most 
+<!-- MATH: $2^{31} - 1 = 2147483647$ -->
+2<SUP>31</SUP> - 1 = 2147483647.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+10120
+200000000000000000000000000000
+10
+1000000000000000000000000000000
+11
+100
+11111000001110000101101102000
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+44
+2147483646
+3
+2147483647
+4
+7
+1041110737
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1998-03-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

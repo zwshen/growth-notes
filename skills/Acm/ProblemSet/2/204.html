@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Robot Crash</TITLE>
+<META NAME="description" CONTENT="Robot Crash">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Robot Crash</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The DoD company has contracted to determine under what conditions a pair
+of scanner robots can collide. The
+robots are fired simultaneously from ``guns&quot; that are mounted near opposite
+ends of a horizontal strip.  They travel in
+straight lines until they hit a wall of the strip or until they are in the
+same spot at the approximately the same time.
+<P>
+<center><img src=204img3.gif></center>
+<P>
+Whenever a robot hits a wall, it bounces off without loss of speed and in
+a straight line so that the angle of incidence
+equals the angle of reflection.
+<P>
+<center><img src=204img4.gif></center>
+<P>
+If the robots are in the same spot at approximately the same time, then
+they ``collide.&quot;
+<P>
+<P>
+Write a program to determine
+whether robots collide and if so where.  To simplify the computer model of
+the physical problem, assume the following.
+<P>
+<DL COMPACT><DT><STRONG>1)</STRONG>
+<DD>  The horizontal strip is 2-dimensional, and it runs left-to-right. Its
+    walls are straight lines.
+<DT><STRONG>2)</STRONG>
+<DD>  Each robot is a point mass. That is, the circumference of each robot is 0.
+<DT><STRONG>3)</STRONG>
+<DD>  A robot maintains the speed with which it was originally fired until it
+    collides with the other robot or until it
+    passes the gun from which the other robot was fired.
+<DT><STRONG>4)</STRONG>
+<DD>  There are 2 guns, one mounted to the left of the other on a horizontal strip.
+    The initial angle of the left gun
+    is between -85 <IMG WIDTH=5 HEIGHT=6 ALIGN=BOTTOM ALT="tex2html_wrap_inline44" SRC="204img1.gif"  >  and 85 <IMG WIDTH=5 HEIGHT=6 ALIGN=BOTTOM ALT="tex2html_wrap_inline44" SRC="204img1.gif"  > . The initial angle of the right gun is between
+    95 <IMG WIDTH=5 HEIGHT=6 ALIGN=BOTTOM ALT="tex2html_wrap_inline44" SRC="204img1.gif"  >  and 180 <IMG WIDTH=5 HEIGHT=6 ALIGN=BOTTOM ALT="tex2html_wrap_inline44" SRC="204img1.gif"  >  or -95 <IMG WIDTH=5 HEIGHT=6 ALIGN=BOTTOM ALT="tex2html_wrap_inline44" SRC="204img1.gif"  >  and -180 <IMG WIDTH=5 HEIGHT=6 ALIGN=BOTTOM ALT="tex2html_wrap_inline44" SRC="204img1.gif"  > . (All
+    angles are measured counterclockwise from the positive <I>x</I>-axis.)
+<DT><STRONG>5)</STRONG>
+<DD>  Robots collide when they pass through the same place within 0.5 second of
+    each other.
+<DT><STRONG>6)</STRONG>
+<DD>  The horizontal strip is 10 units high. For any point (<I>x</I>,<I>y</I>) in the
+    strip,  <IMG WIDTH=80 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline60" SRC="204img2.gif"  > .
+<DT><STRONG>7)</STRONG>
+<DD>  Robots speeds will be positive.
+<P>
+ </DL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Input for your program is a text file which contains data for several
+different pairs of robots.  The lines of the text
+file come in pairs.  The first line of a pair gives initial firing information
+about the robot fired from the leftmost gun.
+The second line of the pair gives initial firing information about the robot
+fired from the rightmost gun.  Each line
+contains 4 data items as follows:
+<P>
+<I>x</I>-coordinate&nbsp;&nbsp;&nbsp;&nbsp;<I>y</I>-coordinate&nbsp;&nbsp;&nbsp;&nbsp;angle in degrees&nbsp;&nbsp;&nbsp;&nbsp;speed (reals)
+<P>
+The end of input is indicated by end-of-file.  Assume that the input is
+error-free.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output
+<font size=3>(To help maintain floating point accuracy when converting degrees to
+radians, use the predeclared constant <TT>pi</TT>).</font></A></FONT></H2>
+<P>
+For each robot problem, output from your program should consist of the number
+of the problem (ex: <TT>Robot Problem #1</TT>, <TT>Robot Problem #2</TT>),
+and a statement indicating whether or not the robots do collide. If they do
+collide, your
+program should also print the coordinates of the point of collision.
+If there are multiple collisions, only print the first one.
+If there are multiple collisions at the same time, only print the one with
+smallest x-coordinate.
+All real output should be printed with 2 digits to the right of the decimal.
+<br>
+Print a blank line after each robot problem.
+<br>
+<br>
+NOTE: Assume that a=b only if |a-b| < &epsilon; = 10<sup>-7</sup>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>0  4  0  3.3
+40  5  125  5
+1  6  -5  10
+5  2  95  20
+2  5  45  5
+42 5  -135  5
+0 6 20 3
+0 5 180 4</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>Robot Problem #1: Robots do not collide.
+
+Robot Problem #2: Robots collide at (4.68,5.68)
+
+Robot Problem #3: Robots collide at (22.00,5.00)
+
+Robot Problem #4: Robots do not collide.</PRE>
+</BODY>
+</HTML>

@@ -1,0 +1,123 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Image Recognizer</TITLE>
+<META NAME="description" CONTENT="Image Recognizer">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Image Recognizer</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Consider an Image represented by a matrix of digits,
+each digit represents the brightness of a pixel, as shown below. In early
+image processing, one could detect a particular feature in the image by
+finding the location where the feature (template) best matches the image.
+
+<P>
+<PRE>
+Image:  0 1 0 1 1 0 0         Template:  0 0 1 1 1 1
+        0 0 0 0 1 1 1                    0 2 0 0 2 0
+        0 1 2 0 1 2 0                    3 3 3 3 0 0
+        0 3 3 2 3 3 0
+        0 1 1 1 0 0 1
+</PRE>
+
+<P>
+To do this, you have to calculate, for each point  <I>y</I> in the image where
+the template can fit entirely within the image, the cross-correlation 
+
+<P>
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+S_x i(x) t(x-y)
+\end{displaymath} -->
+
+
+<I>S</I><SUB><I>x</I></SUB> <I>i</I>(<I>x</I>) <I>t</I>(<I>x</I>-<I>y</I>)
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+where <I>i</I> and <I>t</I> are the image and template light function respectively and <I>x</I>
+runs over all points in the image. The point with maximum
+cross-correlation is accepted as the location of the feature in the image.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input and Output</A>&nbsp;</FONT>
+</H2>
+Develop a program that takes pairs of images - real images (I) and templates (T). For each pair, use the
+algorithm above and deliver the point of location (which is the pixel
+(<I>x</I>,<I>y</I>) in <I>i</I> where <I>t</I> has maximum cross-correlation) Give one answer per
+line. The Image starts al location (0,0) which is the upper-left corner.
+In the example below, the feature is detected at point of location (1,1).
+Which is The only output line. I means image and T template.
+
+<P>
+
+<B>Notes:</B> The image and templates sizes are variable and never will be
+greater than 50 by 50 points. The <I>x</I>-axis is horizontal and the <I>y</I>-axis is
+vertical.  A character <TT>F</TT> in the input file indicates the end of pairs of
+images. If a template fits equally in more than one place, the correct
+answer will be the closest to the upper side, then the closest to the left side. You can take the
+exact format from the example below.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2> 
+
+<P>
+<PRE>
+I
+0 1 0 1 1 0 0
+0 0 0 0 1 1 1
+0 1 2 0 1 2 0
+0 3 3 2 3 3 0
+0 1 1 0 0 0 1
+T
+0 0 1 1 1 1
+0 2 0 0 2 0
+3 3 3 3 0 0
+F
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+(1,1)
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-01-11</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

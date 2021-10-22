@@ -1,0 +1,68 @@
+<HTML>
+<HEAD>
+<TITLE>Problem B: The Most Potent Corner</TITLE>
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Problem B: The Most Potent Corner</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="The Most Potent Corner">Problem</A></FONT></H2>
+<P>
+
+Every corner of the <I>N</I>-dimensional (<I>1&LT; N&LT;15</I>) unit cube has weight (some positive integer less than 256). We will call two corners neighbouring, if they have common edge. Potency of the corner is the sum of weights of all neighbouring corners. Weights of all the corners are given. You are to determine two neighbouring corners that have the maximum sum of potencies and to output this sum.<p>
+
+</U></U><H2><FONT COLOR=#0070E8>Input</FONT></H2>
+<P>
+The input will consist of several input blocks.
+Each input block begins with
+the integer <I>N</I>, the dimension of the
+cube. Then there are weights of the corners, one per line in the natural
+order:
+the first line contains the weight of the corner (0,...0,0,0),
+the second one - the weight of (0,...,0,0,1),
+then there is the weight of (0,...,0,1,0),
+then (0,...,0,1,1), then (0,...,1,0,0),
+the penultimate line contains the weight of the corner (1,...,1,1,0),
+the last one - (1,...,1,1,1).
+<P>
+The input is terminated by &LT;EOF&GT;.
+
+
+<H2><FONT COLOR=#0070E8>Output</FONT></H2>
+<P>
+For each input block the output line should contain one number,
+the maximum potencies sum.
+
+
+<H2><FONT COLOR=#0070E8>Sample Input</FONT></H2>
+<P>
+<PRE>
+3
+82
+73
+8
+49
+120
+44
+242
+58
+2
+1
+1
+1
+1
+</PRE>
+<P>
+<H2><FONT COLOR=#0070E8>Sample Output</A></FONT></H2>
+<P>
+<PRE>
+619
+4
+<span style='mso-bidi-font-size:13.5pt;color:windowtext'>
+<hr size=2 width="100%" align=center>
+<span style='mso-bidi-font-size:13.5pt;color:windowtext'>
+</span>
+<H4>Sergey Karpovich, 2002</H4>
+</PRE>
+</BODY>
+</HTML>

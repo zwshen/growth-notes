@@ -1,0 +1,49 @@
+<html>
+  <head>
+  </head>
+  <body>
+    
+		<center>
+    <h1>Problem H - Free spots</h1>
+		<h3>Time Limit: 1 second</h3>
+		</center>
+		
+    <h2>The Problem</h2>
+
+    <p>Write a program, that, given a board, and a list of rectangular sub-portions of the board, returns the number of positions that belong to no sub-portion.</p>
+    
+    <h2>The Input</h2>
+
+    <p>The input consists of a series of test sets separated by blank lines. A test set starts with a line with three numbers W, H and N, giving respectively the width, the height and the number of sub-boards. These values satisfy the following constraints: 1 &le; W, H &le; 500 and 0 &le; N &le; 99. Follow then N lines, composed of four integers X1, Y1, X2, Y2, such that (X1, Y1) and (X2, Y2) are the positions of two opposite corners of a sub-board. These values satisfy the following constraints: 1 &le; X1, X2 &le; W and 1 &le; Y1, Y2 &le; H. The end of the input is reached when the numbers W, H and N are equal to 0. This last line shall not be considered as a test set.</p>
+
+    <h2>Output</h2>
+
+    <p>The program shall output each result on a line by its own, following the format given in the sample output.</p>
+
+    <h2>Sample input</h2>
+
+    <pre>
+1 1 1
+1 1 1 1
+
+2 2 2
+1 1 1 2
+1 1 2 1
+
+493 182 3
+349 148 363 146
+241 123 443 147
+303 124 293 17
+
+0 0 0
+</pre>
+
+    <h2>Sample output</h2>
+
+    <pre>
+There is no empty spots.
+There is one empty spot.
+There are 83470 empty spots.
+</pre>
+    </body>
+  </html>

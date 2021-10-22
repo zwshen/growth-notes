@@ -1,0 +1,104 @@
+<!-- saved from url=(0022)http://internet.e-mail -->
+<HTML>
+<HEAD>
+<TITLE>MIUP'2003: Problem F</TITLE>
+</HEAD>
+
+<BODY bgcolor="white">
+
+<font color="#0000FF">
+<H1>Problem F</H1>
+
+<H1 align="center">TV game</H1>
+</font>
+
+<center>
+<p><img src="p910.png" width="40%"><font color="#000000">
+<p>
+Figure 1.1 - The carpet for one game.
+</center>
+<P align="justify">
+The next TV game will be played by single players on a special kind of labyrinth. The player will step 
+on a carpet with a drawing 
+like the one in fig. 1.1, and wait on position A. Each position has two ways out, labeled by 
+<b>0</b> and <b>1</b>, which lead to the next position. To choose which way to take, the player must answer
+a question. If the answer is correct he takes the <b>1</b> way, otherwise the <b>0</b> way is followed.
+Of course, the answer may be deliberately wrong if the <b>0</b> way is sought for.
+The next position may be different or remain the same as before.
+</p>
+
+<P align="justify">
+Some of the positions, indicated by a double circle, are special. If, exactly after a predetermined 
+number of moves, the player gets on one of those special positions he wins, otherwise he loses.
+</p>
+
+<P align="justify">
+In the example, if the total number of moves is <b>m</b>=2, failing the first question and passing the second, i. e. the sequence <b>01</b>, directs the player to go from <b>A</b>, the start position,
+to B and then to C. It solves the problem, as <b>C</b> is a special position, in the sole possible 
+way. In fact, <b>00</b> would lead to <b>D</b> and <b>10</b> and <b>11</b> to <b>E</b>, which are 
+not special. In the case <b>m</b>=3, there is no solution. But in the case <b>m</b>=5, several solutions
+are available, for instance <b>01011</b>, <b>01101</b> or <b>00011</b>. Thus there are 3 out of 2^<b>m</b> =
+32 ways to win, which gives an idea of the probability of winning just choosing the moves by tossing a coin.
+</p>
+
+<P align="justify">
+Notice that should <b>A</b> also be a special position, there would be a way of scoring in zero moves.
+</p>
+
+
+<FONT color="#0000FF"><H2>Problem</H2></FONT>
+
+<P align="justify">
+<p>
+The problem to be solved is, given a carpet and a number of moves <b>m</b>, to determine the 
+number of different
+ways to score, i.e., to reach one of the special positions in exactly <b>m</b> moves, from
+the start position. The start position is the first position, labeled <b>A</b>. From each position
+there are exactly 2 ways out, labeled by the symbols <b>0</b> and <b>1</b>.
+</p>
+
+<FONT color="#0000FF"><H2>Input</H2></FONT>
+
+<P align="justify">
+The input is a text file with one or more test cases, each of them containing several lines as follows.
+</p>
+<P align="justify">
+The first line of the input contains the number <b>N</b> (integer format) of positions.
+The positions are labeled in alphabetic sequence, starting from <b>A</b>, and there are at most 26.
+The next <b>N</b> lines contain four characters each, separated by single spaces, where
+the first is the name of a position, the second the position the player reaches if he chooses
+the path labeled <b>0</b>, the third the position the player reaches if he chooses the path
+labeled <b>1</b>, and the fourth a 'x' if the position is special or a '-' if not.
+
+</p>
+<P align="justify">
+The last line specifies <b>m</b>, the number of moves to be considered, <b>0 &le; m &le; 30</b>.
+</p>
+
+<FONT color="#0000FF"><H2>Output</H2></FONT>
+
+<P align="justify">
+For each test case, the output consists of one line which contains one integer indicating the number of different ways to win. <b>0</b> means there are no solutions.
+
+<FONT color="#0000FF"><H2>Sample Input</H2></FONT>
+
+<pre>5
+A B E -
+B D C -
+C D A x
+D D B -
+E E E -
+5
+</pre>
+<FONT color="#0000FF"><H2>Sample Output</H2></FONT>
+<pre>3
+</pre>
+
+<hr>
+<i>
+Gabriel David, MIUP'2003<br>
+(Portuguese National ACM Programming Contest)
+</i>
+
+</body>
+</html>

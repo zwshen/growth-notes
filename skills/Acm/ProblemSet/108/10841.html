@@ -1,0 +1,165 @@
+<html>
+<head>
+    <title>Lift Hopping in the Real World</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem B</B></FONT><BR>
+<FONT SIZE="5"><B>Lift Hopping in the Real World</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 1 second</FONT>
+</CENTER>
+</P>
+
+<p align="right">
+<table border=0><tr><td><small>
+<i>"I think problem descriptions should withstand the<br>
+reality check, otherwise they are misleading."</i><br>
+</td></tr></table>
+<tt>little joey</tt>
+</small></p>
+
+<P CLASS="paragraph">
+A skyscraper has no more than 100 floors, numbered from 0 to 99.
+It has <b>n</b> (1&lt;=<b>n</b>&lt;=50) elevators which travel
+up and down at (possibly) different speeds. For each <b>i</b>
+in {1, 2,... <b>n</b>}, elevator number <b>i</b> takes
+<b>T<sub>i</sub></b> (1&lt;=<b>T<sub>i</sub></b>&lt;=100) seconds
+to travel between any two adjacent floors (going up or down).
+Elevators do not necessarily stop on every floor. What's worse,
+not every floor is necessarily accessible by an elevator.
+</P>
+
+<P CLASS="paragraph">
+You are on floor 0 and would like to get to floor <b>k</b> as
+quickly as possible. When you first arrive to floor 0,
+each of the <b>n</b> elevators could be parked on any of the
+floors accessible by that elevator. You can take any of the
+elevators that stop on floor 0 and you can switch elevators
+on any floor, f, if both of them stop on floor f. Assume that 
+it takes 5 seconds to exit one elevator and push another
+elevator's button. You are forbiden from using the 
+staircase. No one else is in the building, so you don't have to 
+stop if you don't want to, and no one else will request an elevator.
+Each elevator has its own button, and the system has built-in
+security to prevent abuse by evil teenagers - once you press
+the button calling for some elevator E, all the buttons 
+calling for other elevators will be disabled until elevator E
+arrives at your floor. In other words, you can only call for
+one elevator at a time.
+</P>
+
+<P CLASS="paragraph">
+Calculate the number of seconds required to get from floor 0 to floor 
+<b>k</b> in the worst case if you do not know the initial positions of 
+the elevators. Passing floor <b>k</b> while inside an elevator that does 
+not stop there does not count as "getting to floor <b>k</b>". See the 
+examples below.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The input will consist of a number of test cases. Each test case
+will begin with two numbers, <b>n</b> and <b>k</b>, on a line. The
+next line will contain the numbers <b>T<sub>1</sub></b>,
+<b>T<sub>2</sub></b>,... <b>T<sub>n</sub></b>. The next
+<b>n</b> lines will contain sorted lists of integers - the first
+line will list the floors visited by elevator number 1, the next
+one - those visited by elevator number 2, etc.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+<p>
+For each test case, output one number on a line - the number of seconds 
+required to get to floor <b>k</b> from floor 0 in the worst case. If floor
+<b>k</b> is inaccessible from floor 0, print "IMPOSSIBLE" instead.
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+2 30
+10 5
+0 1 3 5 7 9 11 13 15 20 99
+4 13 15 19 20 25 30
+2 30
+10 1
+0 5 10 12 14 20 25 30
+2 4 6 8 10 12 14 22 25 28 29
+3 50
+10 50 100
+0 10 30 40
+0 20 30
+0 20 50
+1 1
+2
+0 2 4 6 8 10
+</PRE>
+</TD>
+<TD>
+<PRE>
+1295
+600
+8505
+IMPOSSIBLE
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Discussion</B></FONT><BR>
+<p>
+In the first example, the worst case is when elevator 1 is on 
+floor 99 and will take 990 seconds to reach floor 0. You will 
+then take it to floor 13 in 130 seconds, spend 5 second exiting 
+and calling elevator 2, which is on floor 30. It will take 170 
+seconds to reach you and 170 seconds to take you to floor 30. 
+The total is 1295 seconds.
+</p>
+
+<p>
+In the second example, the only sensible way to get to floor
+30 is to ride the first elevator all the way. Switching to
+elevator 2 and then back will only make things worse because 
+elevator 1 must take at least 300 seconds to reach floor 30.
+In the worst case, elevator 1 starts on floor 30.
+</p>
+
+<p>
+In example 3, the security system will not allow you to push 
+all 3 buttons and see which elevator comes first. Instead, you
+should push elevator 2's button. Unfortunately, it is on floor 
+30 and takes 1500 seconds to get to you. You board it and it
+takes you to floor 20 in 1000 seconds. You spend 5 seconds
+pushing the button for elevator 3, which is on floor 50. It
+takes 3000 seconds before it reaches floor 20 and 3000 more
+seconds to take you to floor 50. The total is 8505 seconds.
+If you take elevator 1 first, your worst case time will be
+8710 seconds.
+</p>
+
+<p>
+In the last example, the one elevator does not stop at floor 1.
+</p>
+
+<P>
+<HR>
+<B>Problemsetter: Igor Naverniouk</B><br>
+</P>
+
+</td></tr></table>
+</body>
+</html>

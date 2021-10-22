@@ -1,0 +1,173 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Minefield</TITLE>
+<META NAME="description" CONTENT="Minefield">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+F: Minefield</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+There is a minefield in front of your backyard and you do not want to make it your graveyard whenever you try to get pass through it! Your task is to find out if one can cross the minefield, from one corner to the opposite one, without blowing up within certain constraint on the walking distance through the field. In addition to the walking distance constraint, the only available information is a set of points in the minefield that are safe, i.e. places where you can put your foot on without activating a landmine. You can move from one safe point to another safe point if their distance is at most 1.5 meters far from each other.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input consists of several test cases. Each test case starts with a line specifying the size of the mineland with two integers <SPAN CLASS="MATH"><I>w</I></SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH"><I>h</I></SPAN>
+<tex2html_verbatim_mark> separated by a blank corresponding, respectively, to the width and the height in meters of a rectangular landmine, <!-- MATH
+ $1 \leq w , h \leq 10000$
+ -->
+<SPAN CLASS="MATH">1 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11338img1.png"
+ ALT="$ \leq$"> <I>w</I>, <I>h</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11338img1.png"
+ ALT="$ \leq$"> 10000</SPAN>
+<tex2html_verbatim_mark>. The next line specifies <SPAN CLASS="MATH"><I>n</I></SPAN>
+<tex2html_verbatim_mark>, the number of safe points, with <!-- MATH
+ $0 \leq n \leq 10000$
+ -->
+<SPAN CLASS="MATH">0 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11338img1.png"
+ ALT="$ \leq$"> <I>n</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11338img1.png"
+ ALT="$ \leq$"> 10000</SPAN>
+<tex2html_verbatim_mark>. The following <SPAN CLASS="MATH"><I>n</I></SPAN>
+<tex2html_verbatim_mark> lines contain safe point coordinates <SPAN CLASS="MATH"><I>x</I></SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH"><I>y</I></SPAN>
+<tex2html_verbatim_mark>, separated by a blank, which are floating point numbers with <!-- MATH
+ $0 \leq x \leq w$
+ -->
+<SPAN CLASS="MATH">0 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11338img1.png"
+ ALT="$ \leq$"> <I>x</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11338img1.png"
+ ALT="$ \leq$"> <I>w</I></SPAN>
+<tex2html_verbatim_mark> and <!-- MATH
+ $0 \leq y \leq h$
+ -->
+<SPAN CLASS="MATH">0 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11338img1.png"
+ ALT="$ \leq$"> <I>y</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11338img1.png"
+ ALT="$ \leq$"> <I>h</I></SPAN>
+<tex2html_verbatim_mark>. The <SPAN CLASS="MATH"><I>n</I> + 1</SPAN>
+<tex2html_verbatim_mark> line contains a floating point number <!-- MATH
+ $d \geq 1.5$
+ -->
+<SPAN CLASS="MATH"><I>d</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11338img2.png"
+ ALT="$ \geq$"> 1.5</SPAN>
+<tex2html_verbatim_mark> corresponding to the constraint on the walking distance. The end of the test cases is indicated with a line with one <TT>*</TT> character. All floating point numbers are given with exactly two decimal figures.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+One line per test case, preserving the input order. Each output line corresponds to
+
+<P>
+<TT>I am lucky!</TT>
+
+<P>
+if there is a safe path of distance at most <SPAN CLASS="MATH"><I>d</I></SPAN>
+<tex2html_verbatim_mark> from <SPAN CLASS="MATH">(0, 0)</SPAN>
+<tex2html_verbatim_mark> to <SPAN CLASS="MATH">(<I>w</I>, <I>h</I>)</SPAN>
+<tex2html_verbatim_mark> , or to
+
+<P>
+<TT>Boom!</TT> 
+
+<P>
+otherwise. You can always assume that the points <SPAN CLASS="MATH">(0, 0)</SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH">(<I>w</I>, <I>h</I>)</SPAN>
+<tex2html_verbatim_mark> are safe points.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+5 4
+7
+1.00 1.00
+1.00 2.00
+2.00 1.00
+2.00 2.00
+3.00 3.00
+4.00 2.00
+5.00 3.00
+8.50
+5 4
+8
+1.00 1.00
+1.00 2.00
+2.00 1.00
+2.00 2.00
+3.00 3.00
+4.00 2.00
+5.00 3.00
+5.00 4.00
+7.90
+*
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+I am lucky!
+Boom!
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

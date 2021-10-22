@@ -1,0 +1,233 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./d_files/filelist.xml">
+<link rel=Edit-Time-Data href="./d_files/editdata.mso">
+<link rel=OLE-Object-Data href="./d_files/oledata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem D - The Art Gallery</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Rezaul Alam Chowdhury</o:Author>
+  <o:LastAuthor>Administrator</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>61</o:TotalTime>
+  <o:LastPrinted>1999-05-07T21:27:00Z</o:LastPrinted>
+  <o:Created>2001-01-10T16:25:00Z</o:Created>
+  <o:LastSaved>2001-01-10T16:25:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>226</o:Words>
+  <o:Characters>1292</o:Characters>
+  <o:Company>CSE, BUET</o:Company>
+  <o:Lines>10</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1586</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+em
+	{mso-bidi-font-style:normal;}
+p.Preformatted, li.Preformatted, div.Preformatted
+	{mso-style-name:Preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:0in 47.95pt 95.9pt 143.85pt 191.8pt 239.75pt 287.7pt 335.65pt 383.6pt 431.55pt 479.5pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	layout-grid-mode:line;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=5>Problem D</font></span></b></p>
+
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=6>The Art Gallery</font></span></b></p>
+
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Input: </b><span style='mso-bidi-font-weight:bold'>standard input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Output: </b>standard output</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><i style='mso-bidi-font-style:
+normal'>Century Arts</i> has hundreds of art galleries scattered all around the
+country and you are hired to write a program that determines whether any of the
+galleries has a <i style='mso-bidi-font-style:normal'>critical point</i>. The
+galleries are polygonal in shape and a <i style='mso-bidi-font-style:normal'>critical
+point</i> is a point inside that polygon from where the entire gallery is not
+visible. </p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>For example, in gallery 1 (drawn
+below) point <i style='mso-bidi-font-style:normal'>A</i> is a critical point,
+but gallery 2 has no critical point at all.</p>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=415 height=202
+src="p10078.gif" v:shapes="_x0000_i1025">
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>The <i style='mso-bidi-font-style:
+normal'>Century Arts</i> authorities will provide you with the shape of a
+gallery as a sequence of (<i style='mso-bidi-font-style:normal'>x</i>, <i
+style='mso-bidi-font-style:normal'>y</i>) co-ordinates (determined using a
+suitable origin) of the consecutive corner points of that gallery. </p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Input</font></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>The input file consists of
+several data blocks. Each data block describes one gallery. </p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>The first line of a data block
+contains an integer <em>N</em> (3 <span style='font-family:Symbol;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>£</span></span> <i style='mso-bidi-font-style:normal'>N</i> <span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>£</span></span> 50)
+indicating the number of corner points of the gallery. Each of the next <i
+style='mso-bidi-font-style:normal'>N</i> lines contains two integers giving the
+(<i style='mso-bidi-font-style:normal'>x</i>, <i style='mso-bidi-font-style:
+normal'>y</i>) co-ordinates of a corner point where 0 <span style='font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>£</span></span> <i style='mso-bidi-font-style:
+normal'>x</i>, <i style='mso-bidi-font-style:normal'>y</i> <span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>£</span></span>
+1000. Starting from the first point given in the input the corner points occur
+in the same order on the boundary of the gallery as they appear in the input.
+No three consecutive points are co-linear.</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>The input file terminates with a
+value of 0 for <i style='mso-bidi-font-style:normal'>N</i>.</p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;mso-bidi-font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Output</font></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>For each gallery in the input
+output the word &quot;<i style='mso-bidi-font-style:normal'>Yes&quot;</i> if
+the gallery contains a critical point, otherwise output the word &quot;<i
+style='mso-bidi-font-style:normal'>No&quot;</i>. Each output must be on a
+separate line.</p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;mso-bidi-font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Input</font></span></b></p>
+<font size=3 face="Courier">
+4<br>
+
+0 0<br>
+
+3 0<br>
+
+3 3<br>
+
+0 3<br>
+
+4<br>
+
+0 0<br>
+
+3 0<br>
+
+1 1<br>
+
+0 3<br>
+
+0<br>
+
+<br>
+</font>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Output</font></span></b></p>
+<font size=3 face="Courier">
+
+No<br>
+
+Yes<br>
+</font>
+</div>
+<font size=3 face="Times New Roman">
+
+_________________________________________________________________________________________
+<br>Rezaul Alam Chowdhury
+</body>
+
+</html>

@@ -1,0 +1,118 @@
+<html>
+<head>
+    <title>Buy one, get the rest free.</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem B</B></FONT><BR>
+<FONT SIZE="5"><B>Buy one, get the rest free.</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 3 seconds</FONT><BR>
+</CENTER>
+</P>
+
+<p align="right">
+<table border=0><tr><td><small>
+<i>"Whoa! It feels like I'm flying!"</i>
+</td></tr></table>
+<tt>Lrrr</tt>
+</small></p>
+
+<P CLASS="paragraph">
+It's year 2258, and the age of airplanes is coming to an end. Everyone is
+using teleporters now. In an effort to stay competitive, the last remaining
+air travel company, GetsJo, is offering the following deal to its customers.
+Instead of buying one plane ticket, you can rent a whole flight from A to B.
+Each flight can carry a certain number of people and costs a certain amount
+of money. If you do that, then you can rent all of the other flights of equal
+or lesser cost for free!
+</P>
+
+<P CLASS="paragraph">
+For example, if there are 4 flights with costs $10000, $25000, $30000 and $40000,
+and you rent the $30000 flight, then you get the $10000 and $25000 flights for
+free. The total cost to rent these 3 flights is $30000.
+</P>
+
+<P CLASS="paragraph">
+You want to organize a large programming competition and would like to invite
+all of the participants to city <b>n</b>, where the competition will be held.
+Being a nice person, you decide to pay for everyone's airplane tickets. Given
+the locations of the participants and the list of available flights between
+now and the day of the competition, what is the cost of renting enough flights
+to get all of the participants to city <b>n</b> in the next <b>d</b> days?
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The first line of input gives the number of cases, <b>N</b>. <b>N</b> test
+cases follow. Each one starts with a line containing the number of cities
+(1&lt;=<b>n</b>&lt;=30), the number of days (1&lt;=<b>d</b>&lt;=10) until
+the competition and the number of flights (0&lt;=<b>m</b>&lt;=1000). <b>m</b>
+lines follow, each one containing 5 integers: <b>u</b>, <b>v</b>, <b>c</b>,
+<b>p</b> and <b>e</b> (1&lt;=<b>u</b>,<b>v</b>&lt;=<b>n</b>,
+1&lt;=<b>c</b>&lt;=100, 0&lt;=<b>e</b>&lt;<b>d</b>). This means that a
+flight that can carry <b>c</b> passengers and costs <b>p</b> dollars leaves
+city <b>u</b> on day <b>e</b> in the evening and arrives next day in the
+morning to city <b>v</b>. Day 0 is today, and all of the participants need
+to be in city <b>n</b> in the evening of day <b>e</b>. Finally, <b>n</b>
+integers (<b>z<sub>1</sub></b>, <b>z<sub>2</sub></b>, ..., <b>z<sub>n</sub></b>)
+follow, meaning that there are <b>z<sub>i</sub></b> participants in city <b>i</b>
+on day 0 (0&lt;=<b>z<sub>i</sub></b>&lt;=100). The maximum cost of a flight
+is 100000. There will never be two flights with the same <b>u</b>, <b>v</b> and
+<b>e</b> values.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+For each test case, output one line containing "Case #<b>x</b>:"
+followed by the minimum required cost of flying all of the participants
+to city <b>n</b> before the end of day <b>d</b>. If no amount of money is
+enough, print "Impossible" instead.
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+2
+5 4 5
+1 5 100 30000 0
+2 4 10 10000 0
+2 4 10 10000 1
+4 5 25 25000 2
+2 5 100 40000 3
+1 20 0 5 100
+2 1 1
+1 2 99 10400 0
+100 0
+</PRE>
+</TD>
+<TD>
+<PRE>
+Case #1: 30000
+Case #2: Impossible
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+<HR>
+<B>Problemsetter: Igor Naverniouk</B><br>
+<B>Alternate solution: Yury Kholondyrev</B>
+</P>
+
+</td></tr></table>
+</body>
+</html>

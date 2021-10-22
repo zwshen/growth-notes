@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<TITLE>Problem E</TITLE>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Problem E: Boxes</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+<P>We have some boxes numbered 1 to N. The dimensions of all boxes are identical. Now we have to stack up some of the boxes, subject to the following constraints:
+<p>
+<OL>
+	<LI>One cannot put more than one boxes directly upon a box;
+	<LI>Boxes with lower serial numbers are not to be put upon one with a higher number;
+	<LI>The weight and maximum load for each box are given. The total weight of all boxes upon a box should not exceed its maximum load.
+</OL>
+<p>Please write a program that finds the maximum number of boxes that can be stacked up according to the above constraints.
+</U></U><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>The first line of each set of input is an integer N (1 &le; N &le; 1000). This is followed by N lines, each with two integers, both &le; 3000, representing the weight and maximum load of each box respectively.
+<p>Input ends with a case where N = 0.
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>Each line of your output should give the number of boxes that can be stacked up.
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>
+5
+19 15
+7 13
+5 7
+6 8
+1 2
+0
+</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>
+4
+</PRE>
+<hr>
+</BODY>
+</HTML>

@@ -1,0 +1,71 @@
+<HTML>
+<HEAD><TITLE>Cola - Contest of Newbies 2006</TITLE>
+<META content="Cola" name=description>
+<META content=document name=resource-type>
+<META content=global name=distribution>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META content="MSHTML 6.00.2800.1106" name=GENERATOR>
+<META http-equiv=Content-Style-Type content=text/css><LINK 
+href="trainingtask.css" rel=STYLESHEET></HEAD>
+
+
+<BODY>
+
+<TABLE WIDTH=100% BORDER=0 CELLPADDING=4 CELLSPACING=3 STYLE="page-break-inside: avoid">
+	<COL WIDTH=256*>
+	<COL WIDTH=256*>
+	<THEAD>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=100% BGCOLOR="#550077">
+				<P><FONT COLOR="#ffffff"><FONT FACE="Arial Black" SIZE=6>Problem
+				C : Cola</FONT></P>
+			</TD>
+		</TR>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=100% BGCOLOR="#550077">
+				<P ALIGN=RIGHT><FONT COLOR="#ffffff"><FONT FACE="Arial Black" SIZE=3>Time
+				limit: 10 seconds</FONT></P>
+			</TD>
+		</TR>
+	</THEAD>
+</TABLE>
+
+<P><font size=6>Y</font>ou see the following special offer by the convenience store:
+
+<p><i>" A bottle of Choco Cola for every 3 empty bottles returned "</i>
+
+<p>Now you decide to buy some (say <b><i>N</i></b>) bottles of cola from the store. You would like to know how you can get the most cola from them.
+
+<p>The figure below shows the case where <b><b><i>N</i></b> = 8</b>. <i>Method 1</i> is the standard way: after finishing your 8 bottles of cola, you have 8 empty bottles.
+   Take 6 of them and you get 2 new bottles of cola. Now after drinking them you have 4 empty bottles, so you take 3 of them to get yet another new cola.
+   Finally, you have only 2 bottles in hand, so you cannot get new cola any more. Hence, you have enjoyed 8 + 2 + 1 = 11 bottles of cola.
+
+<p>You can actually do better! In <i>Method 2</i>, you first borrow an empty bottle from your friend (?! Or the storekeeper??), then you can enjoy 8 + 3 + 1 = 12 bottles of cola! Of course, you will have to return your remaining empty bottle back to your friend.
+
+<p><img src="p11150.gif">
+
+<P><H2><A name=SECTION00001000000000000000><FONT color=#550077>Input</FONT></A></H2>
+
+<p>Input consists of several lines, each containing an integer <b><i>N</i></b> (1 &le; <b><i>N</i></b> &le; 200).
+
+<P><H2><A name=SECTION00002000000000000000><FONT color=#550077>Output</FONT></A></H2>
+
+<p>For each case, your program should output the maximum number of bottles of cola you can enjoy. You may borrow empty bottles from others, but if you do that, make sure that you have enough bottles afterwards to return to them.
+
+<P><H2><A name=SECTION00004000000000000000><FONT color=#550077>Sample Input</FONT></A></H2>
+
+<PRE>
+8
+</PRE>
+
+<P><H2><A name=SECTION00004000000000000000><FONT color=#550077>Sample Output</FONT></A></H2>
+<PRE>
+12
+</PRE>
+
+<p><b>Note:</b> Drinking too much cola is bad for your health, so... don't try this at home!! :-)
+
+<P><HR><ADDRESS>Idea from a traditional IQ challenge question.<BR>
+Special Thanks: Jonathan Mak</ADDRESS>
+</BODY>
+</HTML>

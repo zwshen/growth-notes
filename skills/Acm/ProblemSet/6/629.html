@@ -1,0 +1,172 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Test</TITLE>
+<META NAME="description" CONTENT="Test">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Test</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Statistical analysis quite often involves questions whether differences
+between samples are meaningful. Lack of meaningful differences indicates that
+the samples do not differ with respect to studied feature. The bigger the
+number of samples the bigger are troubles we find ourselves in, because
+it is much more difficult then to delimit sets of non-differing samples.
+
+<P>
+
+<P>
+<BR>
+Let's assume we have three samples P1, P2, P3. We also know that P1 differs
+meaningfully from P2, but others do not differ. Thus we have two sets of
+samples not different meaningfully. First one contains P1 and P3 (because
+they it is not stated that they differ meaningfully) and respectively the
+second one contains P2 and P3 (similar as earlier).
+
+<P>
+As you can see these
+sets are not separate. It is going to be handy to denote the belonging to
+the set with a character associated with it. In our case we
+have: P1:<TT>a</TT> P2:<TT>b</TT> P3:<TT>ab</TT>.
+
+<P>
+
+<P>
+<BR>
+
+<B>Conclusions:</B>
+<UL>
+<LI>if all the samples did not differ then they would belong to the same set (set <TT>a</TT>).
+<LI>if all the samples DID differ from each other then each belongs to separate, one-element set (P1:<TT>a</TT> P2:<TT>b</TT> P3:<TT>c</TT> etc.)
+</UL>
+
+<P>
+Your task is to write a program which delimits sets without meaningful differences.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+A number (<I>n</I>) of samples in the first line, in ``<I>n</I>" consecutive ones an incidence
+matrix which describes the differences between samples is given. The actual
+information in the matrix is given above the primary diagonal. Symbol `<TT>*</TT>'
+depicts meaningful differences, symbol `<TT>-</TT>' depicts no meaningful differences.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each matrix ``<I>n</I>" lines (each representing one sample) enumerating sets
+to which the sample belongs, and then a line with 5 hyphens.
+
+<P>
+
+<P>
+<BR>
+
+<B>Assumptions:</B>
+Number of samples in one test does not exceed 10. The most numerous set
+acquires the character ``<TT>a</TT>", the second in the line ``<TT>b</TT>" etc. In case of sets
+having the same number of elements the first one goes the one which contains
+a sample of lower number.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+-*-
+---
+---
+3
+-**
+--*
+---
+3
+---
+---
+---
+4
+----
+--**
+---*
+----
+9
+---*--*--
+-----*---
+------*--
+---------
+-------*-
+--------*
+---------
+---------
+---------
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+a
+b
+ab
+-----
+a
+b
+c
+-----
+a
+a
+a
+-----
+abc
+a
+b
+c
+-----
+abgh
+abcdef
+abcdghij
+cdefijkl
+acegik
+ghijkl
+efkl
+bdfhjl
+abcdef
+-----
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-01-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,98 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0031)http://acm.uva.es/p/v1/100.html -->
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds --><HTML><HEAD><TITLE>The dominoes solitaire</TITLE>
+<META content="text/html; charset=windows-1252" http-equiv=Content-Type>
+<META content="The dominoes solitaire" name=description>
+<META content=htmlatex name=keywords>
+<META content=document name=resource-type>
+<META content=global name=distribution><LINK 
+href="The dominoes solitaire_archivos/htmlatex.css" rel=STYLESHEET>
+<META content="Microsoft FrontPage 4.0" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff lang=EN>
+<H1><BR clear=all></h1>
+<CENTER>
+
+<TABLE bgColor=#0060f0>
+  <TBODY align=CENTER>
+  <TR>
+    <TD><B><FONT color=#c0ffff size=5>&nbsp;<A 
+      name=SECTION0001000000000000000000>Problem D<br>The dominoes solitaire</A></FONT>&nbsp;</B></TR></TBODY></TABLE></CENTER>
+<P>A man used to play dominoes with some friends in a small town. Some families
+have left the town and at present the only residents in the town are the man and
+his wife. This man would like to continue playing dominoes, but his wife does
+not like plaing. He has invented a game to play alone. Two pieces are
+picked out and are put at the two extremes of a row with a number (n) of spaces.
+After that, other pieces (m) are picked out to fill the spaces. The
+number of pieces is greater than or equal to the number of spaces (m&gt;=n), and the
+number of pieces is less than or equal to 14 (m&lt;=14). The spaces are filled
+by putting one piece in each space, accoding to the rules of dominoes: the
+number of adjacent dots on two different dominoes must coincide. Pieces with repeated values are
+placed in
+the same way as the other pieces, and not at right angels.
+<p>The problem consists in the design of a program which, given a number of
+spaces (n), a number of pieces (m), the two initial pieces (i1,i2) and (d1,d2),
+and the m pieces (p1,q1), (p2,q2), ..., (pm,qm), decides if it is possible to
+fill the n spaces between the two initial pieces using the m pieces and with the
+rules of dominoes. For example, with n=3, m=4, initial pieces (0,1) and (3,4),
+and pieces (2,1), (5,6), (2,2) and (3,2), the answer is YES, because there is a
+solution: (0,1), (1,2), (2,2), (2,3), (3,4). With n=2, m=4, pieces in the
+extremes (0,1) and (3,4), and (1,4), (4,4), (3,2) and (5,6), the answer is NO.</p>
+<H2><FONT color=#0070e8><A name=SECTION0001003000000000000000>The 
+Input</A></FONT></H2>
+<P>The input will consist of a series of problems, with each problem described in a series of
+lines: in the first line the number of spaces (n) is indicated, in the second
+line the number of pieces (m) used to fill the spaces, in the next line the
+piece to be placed on the left, with the two values in the piece separated by a space
+and in the same way that the numbers appear in the row, in the following lines the piece
+to be placed on the right, with the two values in the piece separated by a space
+and in the same way that the numbers appear in the row, and the other m pieces appear in&nbsp;
+consecutive lines, one in each line, with the two values separated by a space.
+Different problems appear in the input successively without separation, and
+the input finishes when 0 appears as the number of spaces.
+<H2><FONT color=#0070e8><A name=SECTION0001004000000000000000>The 
+Output</A></FONT></H2>
+<P>For each problem in the input a line is written, with YES if the problem has
+a solution, and NO if it has no solution.
+<H2><FONT color=#0070e8><A name=SECTION0001005000000000000000>Sample 
+Input</A></FONT></H2>
+
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+
+3<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">4&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+0 1&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+3 4&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+2 1&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+5 6&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+2 2&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+3 2&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+2&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+4&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+0 1&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+3 4&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+1 4&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+4 4&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+3 2&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+5 6&nbsp;</p>
+<p style="line-height: 100%; margin-top: 0; margin-bottom: 0">
+0</p>
+<H2><FONT color=#0070e8><A name=SECTION0001006000000000000000>Sample 
+Output</A></FONT></H2>
+<p style="margin-top: 0; margin-bottom: 0">
+YES&nbsp;
+<p style="margin-top: 0; margin-bottom: 0">
+NO</p>
+<P></P></BODY></HTML>

@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Hexagon</TITLE>
+<META NAME="description" CONTENT="Hexagon">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Hexagon</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Consider a game board consisting of 19 hexagonal fields, as shown in
+the figure below. We can easily distinguish three main directions in the
+shape of the board: from top to bottom, from top-left to bottom-right,
+and from top-right to bottom-left. For each of these primary
+directions, the board can be viewed as a series of rows,
+consisting of 3, 4, 5, 4, and 3 fields, respectively.
+<P>
+<center><img src=317img3.gif></center>
+<P>
+The game board has to be completely covered using a set of hexagonal
+pieces. Each piece carries three numbers, one for every primary board
+direction. Only three different numbers are used for each direction.
+Every possible combination of three numbers for all three directions
+is assigned to a piece, leading to a set of 27 unique pieces. (The board
+in the above figure is still in the process of being covered.)
+<P>
+<P>
+The score of a board is calculated as the sum of all 15 row scores (5
+rows for each primary direction). The row scores are calculated as follows:
+if all pieces in a row carry the same number for the direction of the row,
+the row score is this number multiplied by the number of
+pieces in the row. Otherwise (the pieces carry different numbers in
+the row direction) the row score is zero. Note that the pieces may not be
+rotated. For example, the score of the leftmost row in the figure
+is  <IMG WIDTH=60 HEIGHT=13 ALIGN=BOTTOM ALT="tex2html_wrap_inline31" SRC="317img1.gif"  > , the score of the row to its right is  <IMG WIDTH=79 HEIGHT=12 ALIGN=BOTTOM ALT="tex2html_wrap_inline33" SRC="317img2.gif"  > .
+<P>
+<P>
+While in the real game the pieces are chosen randomly and the set of
+pieces is fixed, we are interested in the highest possible score for a
+given set of numbers for each direction, when all pieces in a row carry the same number for the direction of the row. This means you have to choose
+those 19 pieces that result in the highest score.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The first line of the input file contains an integer <I>n</I> which indicates
+the number of test cases. Each test case consists of three lines containing
+three integers each. Each of these three line contains the numbers for a
+single primary direction. From these numbers the set of pieces is generated.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each test case output a line containing the number of the
+case (<TT>`Test #1'</TT>, <TT>`Test #2'</TT>, etc.), followed by a line
+containing the highest possible score for the given numbers. Add a
+blank line after each test case.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>1
+9 4 3
+8 5 2
+7 6 1</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>Test #1
+308</PRE>
+<P>
+</BODY>
+</HTML>

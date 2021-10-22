@@ -1,0 +1,227 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="p0_files/filelist.xml">
+<link rel=Edit-Time-Data href="p0_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem A - GWCF Contest 1 - Math Lovers' Contest</title>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>90</w:Zoom>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:.5in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin-top:6.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:#772222;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.preformatted, li.preformatted, div.preformatted
+	{mso-style-name:preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="10242"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#772222" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt'>Problem A<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:24.0pt'>The Kissing Circles</span></b><span style='font-size:
+24.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b>Input: </b>standard
+input</p>
+
+<p class=MsoNormal align=center style='text-align:center'><b>Output: </b>standard
+output</p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Time Limit: </b>2 seconds<b style='mso-bidi-font-weight:normal'> <o:p></o:p></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Memory Limit: </b>32 MB</p>
+
+<p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='color:black'>There
+are some interesting figures below. You can see that we can put within a circle
+one or more circles of equal radius. The important property of these circles is
+that every consecutive circles touch each other. Given the radius <b
+style='mso-bidi-font-weight:normal'>R</b> of the larger circle and the number
+of small circles <b style='mso-bidi-font-weight:normal'>N</b> of equal radius
+inside,<span style='mso-spacerun:yes'>  </span>you will have to find the radius
+of the smaller circles <b style='mso-bidi-font-weight:normal'>r,</b> the area
+surrounded by the kissing small circles (light blue) <b style='mso-bidi-font-weight:
+normal'>I </b>and the area outside the kissing small circles but inside the
+larger circle (light green) <b style='mso-bidi-font-weight:normal'>E</b>.<o:p></o:p></span></p>
+<center>
+<img width=347 height=226
+src="p10283.jpg" ><br><br>
+<b>Fig: Figures for N = 1, 2, 3, 4, 5, 6<o:p></o:p></b>
+</center>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:18.0pt'>Input</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>The input file will contain
+several lines of inputs.&nbsp;Each line contains non-negative integers <b
+style='mso-bidi-font-weight:normal'>R(R&lt;=10000)</b> and <b style='mso-bidi-font-weight:
+normal'>N (1&lt;=N&lt;=100)</b> as described before. Input is terminated by end
+of file.</p>
+
+<p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:18.0pt'>Output</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='color:black'>For
+each line of input produce one line of output. This one line contains three
+floating point numbers <b style='mso-bidi-font-weight:normal'>r</b>, <b
+style='mso-bidi-font-weight:normal'>I</b> and <b style='mso-bidi-font-weight:
+normal'>E</b> as described before. The floating point numbers should have ten
+digits after the decimal point. The output will be checked with special
+correction programs. So you won’t have to worry about small precision
+errors.&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:18.0pt'>Sample
+Input</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:"Courier New";color:black'>10 3<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:"Courier New";color:black'>10 4</span><span style='font-size:11.0pt;
+font-family:"Courier New"'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:"Courier New"'>10 5<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:"Courier New"'>10 6<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:18.0pt'>Sample
+Output</span></b><span style='font-size:18.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:"Courier New";color:black'>4.6410161514 3.4732652470 107.6854162259<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:"Courier New";color:black'>4.1421356237 14.7279416563 83.8264899217<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:"Courier New";color:black'>3.7019190816 29.7315551092 69.1625632742<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:"Courier New";color:black'>3.3333333333 45.6568837582 59.0628713615<o:p></o:p></span></p>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-size:10.0pt;color:black'>(Math Lovers’ Contest, Problem Setter:
+Shahriar Manzoor, </span><span style='mso-bidi-font-weight:bold'>Thanks to Dr.
+Erich Friedman &amp; Math world</span></b><b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-size:10.0pt;color:black'>)</span></b></p>
+
+</div>
+
+</body>
+
+</html>

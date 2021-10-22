@@ -1,0 +1,306 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./c_files/filelist.xml">
+<link rel=Edit-Time-Data href="./c_files/editdata.mso">
+<link rel=OLE-Object-Data href="./c_files/oledata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem C - Pyramid Number</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Mahmudur Rahman</o:Author>
+  <o:LastAuthor>shahriar</o:LastAuthor>
+  <o:Revision>11</o:Revision>
+  <o:TotalTime>815</o:TotalTime>
+  <o:LastPrinted>2008-09-12T21:46:00Z</o:LastPrinted>
+  <o:Created>2008-10-08T13:19:00Z</o:Created>
+  <o:LastSaved>2008-10-09T13:43:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>200</o:Words>
+  <o:Characters>1141</o:Characters>
+  <o:Company>EEE, BUET</o:Company>
+  <o:Lines>9</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1401</o:CharactersWithSpaces>
+  <o:Version>9.3821</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>125</w:Zoom>
+  <w:PunctuationKerning/>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-line-height-alt:11.0pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:18.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	mso-font-kerning:0pt;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1046"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:24.0pt;font-family:Arial'>Problem C</span></b><span
+style='font-size:24.0pt;font-family:Arial'><br>
+</span><b><span style='font-size:20.0pt;font-family:Arial'>Pyramid Number</span></b><b><span
+style='font-size:24.0pt;font-family:Arial'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:11.0pt;font-family:Arial'>Input: </span></b><span
+style='font-size:11.0pt;font-family:Arial;mso-bidi-font-weight:bold'>Standard
+Input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:11.0pt;font-family:Arial'>Output: </span></b><span
+style='font-size:11.0pt;font-family:Arial;mso-bidi-font-weight:bold'>Standard
+Output <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_s1042" type="#_x0000_t75" style='position:absolute;
+ left:0;text-align:left;margin-left:0;margin-top:27.9pt;width:150pt;height:112.8pt;
+ z-index:-1;mso-position-horizontal:left' wrapcoords="-108 0 -108 21456 21600 21456 21600 0 -108 0">
+ <v:imagedata src="./c_files/image001.jpg" o:title="pyramid"/>
+ <w:wrap type="square" anchorx="page"/>
+</v:shape><![endif]--><![if !vml]><img width=200 height=151
+src="p11522.jpg" align=left hspace=12 v:shapes="_x0000_s1042"><![endif]>A
+group of archaeologists have come across a new kind of number pattern while
+analyzing the hieroglyphs patterns in ‘The not so great pyramid’. They have
+decided to call these numbers ‘Pyramid numbers’.</p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'>A
+number <b style='mso-bidi-font-weight:normal'>n</b> is called a Pyramid number
+if we can partition <b style='mso-bidi-font-weight:normal'>n </b>into <b
+style='mso-bidi-font-weight:normal'>k </b>positive integers <b
+style='mso-bidi-font-weight:normal'>x<sub>i</sub></b><sub> </sub>(1&lt;=i&lt;=k)
+such that <sub><!--[if gte vml 1]><v:shape id="_x0000_i1025" type="#_x0000_t75"
+ style='width:30pt;height:35.25pt' o:ole="">
+ <v:imagedata src="./c_files/image002.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=40 height=47
+src="p11522a.gif" v:shapes="_x0000_i1025"><![endif]></sub><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1025"
+  DrawAspect="Content" ObjectID="_1285086561">
+ </o:OLEObject>
+</xml><![endif]-->= 1. For example, <sub><!--[if gte vml 1]><v:shape id="_x0000_i1026"
+ type="#_x0000_t75" style='width:48pt;height:30.75pt' o:ole="">
+ <v:imagedata src="./c_files/image004.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=64 height=41
+src="p11522b.gif" v:shapes="_x0000_i1026"><![endif]></sub><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1026"
+  DrawAspect="Content" ObjectID="_1285086562">
+ </o:OLEObject>
+</xml><![endif]--></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'>So, 4
+(2 + 2) is a Pyramid number. </p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'>A
+number <b style='mso-bidi-font-weight:normal'>n</b> is called a Strictly
+Pyramid number if we can partition <b style='mso-bidi-font-weight:normal'>n </b>into
+<b style='mso-bidi-font-weight:normal'>k </b>distinct positive integers <b
+style='mso-bidi-font-weight:normal'>x<sub>i</sub></b><sub> </sub>(1 <span
+style='font-family:Arial'>&#8804;</span> i <span style='font-family:Arial'>&#8804;</span>
+k) such that <sub><!--[if gte vml 1]><v:shape id="_x0000_i1027" type="#_x0000_t75"
+ style='width:30pt;height:35.25pt' o:ole="">
+ <v:imagedata src="./c_files/image006.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=40 height=47
+src="p11522c.gif" v:shapes="_x0000_i1027"><![endif]></sub><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1027"
+  DrawAspect="Content" ObjectID="_1285086563">
+ </o:OLEObject>
+</xml><![endif]-->= 1. For example,</p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><sub><!--[if gte vml 1]><v:shape
+ id="_x0000_i1028" type="#_x0000_t75" style='width:66.75pt;height:30.75pt'
+ o:ole="">
+ <v:imagedata src="./c_files/image008.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=89 height=41
+src="p11522d.gif" v:shapes="_x0000_i1028"><![endif]><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1028"
+  DrawAspect="Content" ObjectID="_1285086564">
+ </o:OLEObject>
+</xml><![endif]--></sub></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'>Here,
+11 (2 + 3 + 6) is Strictly Pyramid whereas in the above example, 4 is Pyramid
+but not Strictly Pyramid.</p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'>Given
+two positive integers <b style='mso-bidi-font-weight:normal'>a </b>&amp; <b
+style='mso-bidi-font-weight:normal'>b</b>, find the number of Strictly Pyramid
+numbers between <b style='mso-bidi-font-weight:normal'>a</b> &amp; <b
+style='mso-bidi-font-weight:normal'>b </b>(inclusive).</p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h1><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'>Input<o:p></o:p></span></h1>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><span
+style='mso-bidi-font-weight:bold'>The first line of the input file will contain
+an integer <b>T </b>(T&lt;=100), the number of test cases. Each of the following
+<b>T </b>lines will be consisting of 2 integers <b>a </b>&amp; <b>b </b>(1 </span><span
+style='font-family:Arial'>&#8804;</span><span style='mso-bidi-font-weight:bold'>
+<b>a</b>, <b>b</b> </span><span style='font-family:Arial'>&#8804;</span><span
+style='mso-bidi-font-weight:bold'> 1000000).<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h1><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'>Output<o:p></o:p></span></h1>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><span
+style='mso-bidi-font-weight:bold'>For each test case, print an integer which is
+the number of Strictly Pyramid numbers between <b>a </b>&amp; <b>b </b>(inclusive).<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h1><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'>Sample Input<span
+style='mso-tab-count:2'>          </span><span style="mso-spacerun:
+yes">               </span>Output for Sample Input<o:p></o:p></span></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#e6e6e6" style='background:
+ #E6E6E6;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width=284 valign=top style='width:213.1pt;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>5<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>1
+  10<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>1
+  11<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>1
+  100<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>70
+  80<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>110
+  120<o:p></o:p></span></p>
+  </td>
+  <td width=284 valign=top style='width:213.15pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>1<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>2<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>53<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>8<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>11<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:Verdana'>Problemsetter:
+Mohammad Mahmudur Rahman<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:Verdana'>Special
+Thanks to: Igor Naverniouk<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>

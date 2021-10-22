@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Train Time</TITLE>
+<META NAME="description" CONTENT="Train Time">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Train Time</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+City transportation planners are developing a light rail transit system to 
+carry commuters between the suburbs and the downtown area. Part of their task 
+includes scheduling trains on different routes between the outermost stations 
+and the metro center hub.
+<P>
+<P>
+Part of the planning process consists of a simple simulation of train travel. 
+A simulation consists of a series of scenarios in which two trains, one 
+starting at the metro center and one starting at the outermost station of the 
+same route, travel toward each other along the route. The transportation 
+planners want to find out where and when the two trains meet. You are to write 
+a program to determine those results.
+<P>
+<P>
+This model of train travel is necessarily simplified. All scenarios are based 
+on the following assumptions.
+<OL><LI> All trains spend a fixed amount of time at each station.<LI> All trains accelerate and decelerate at the same constant rate. All trains
+   have the same maximum possible velocity.<LI> When a train leaves a station, it accelerates (at a constant rate) until
+   it reaches its maximum velocity. It remains at that maximum velocity until 
+   it begins to decelerate (at the same constant rate) as it approaches the 
+   next station. Trains leave stations with an initial velocity of zero (0.0) 
+   and they arrive at stations with terminal velocity zero. Adjacent stations 
+   on each route are far enough apart to allow a train to accelerate to its 
+   maximum velocity before beginning to decelerate.<LI> Both trains in each scenario make their initial departure at the same time.<LI> There are at most 31 stations along any route.
+   <LI>The meeting time of both trains will never be at the departure of one of the trains from a station.
+   
+</OL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+All input values are real numbers. Data for each scenario are in the following 
+format.
+<P>
+<P>
+<P> <IMG WIDTH=714 HEIGHT=190 ALIGN=BOTTOM ALT="tabular23" SRC="244img1.gif"  > <P>
+<P>
+<P>
+The series of runs is terminated by a data set which begins with the number -1.0.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each scenario, output consists of the following labeled data.
+<P>
+<OL><LI> The number of the scenario (numbered consecutively, starting with
+   <TT>Scenario #1</TT>).<LI> The time when the two trains meet in terms of minutes from starting
+   time. All times must be displayed to one decimal place. Also, if the 
+   trains meet in a station, output the station number where they meet.<LI> The distance in miles between the metro center hub and the place where
+   the two trains meet. Distances must be displayed to three decimal places.
+</OL>
+Print a blank line between consecutive test cases.
+</OL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>15.0 0.0
+5280.0
+10560.0
+5.0
+3.5 7.0 0.0
+5280.0
+10560.0
+2.0
+3.4 7.0 0.0
+5280.0
+10560.0
+2.0
+-1.0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>Scenario #1:
+   Meeting time: 7.8 minutes
+   Meeting distance: 7.500 miles from metro center hub
+
+Scenario #2:
+   Meeting time: 4.0 minutes
+   Meeting distance: 3.500 miles from metro center hub, in station 1
+
+Scenario #3:
+   Meeting time: 4.1 minutes
+   Meeting distance: 3.400 miles from metro center hub, in station 1</PRE>
+<P>
+</BODY>
+</HTML>

@@ -1,0 +1,237 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./p4_files/filelist.xml">
+<title>Problem E - Repackaging</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Rezaul Alam Chowdhury</o:Author>
+  <o:LastAuthor>Administrator</o:LastAuthor>
+  <o:Revision>12</o:Revision>
+  <o:TotalTime>121</o:TotalTime>
+  <o:LastPrinted>1999-05-07T21:27:00Z</o:LastPrinted>
+  <o:Created>2001-01-19T07:30:00Z</o:Created>
+  <o:LastSaved>2001-02-20T16:00:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>376</o:Words>
+  <o:Characters>2148</o:Characters>
+  <o:Company>CSE, BUET</o:Company>
+  <o:Lines>17</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2637</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+em
+	{mso-bidi-font-style:normal;}
+p.Preformatted, li.Preformatted, div.Preformatted
+	{mso-style-name:Preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:0in 47.95pt 95.9pt 143.85pt 191.8pt 239.75pt 287.7pt 335.65pt 383.6pt 431.55pt 479.5pt;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor="#fbebc8" lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=5>Problem E</font></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=6>Repackaging</font></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Input: </b><span style='mso-bidi-font-weight:bold'>standard input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Output: </b>standard output</p>
+
+<br>
+
+<p class=MsoNormal style='text-align:justify'>Coffee cups of three different
+sizes (identified as size 1, size 2 and size 3 cups) are produced in factories
+under <i style='mso-bidi-font-style:normal'>ACM </i>(Association of Cup Makers)
+and are sold in various packages. Each type of package is identified by three
+positive integers (<i style='mso-bidi-font-style:normal'>S</i><sub>1</sub>, <i
+style='mso-bidi-font-style:normal'>S</i><sub>2</sub>, <i style='mso-bidi-font-style:
+normal'>S</i><sub>3</sub>) where <i style='mso-bidi-font-style:normal'>S<sub>i</sub></i>
+(1 &lt;= <i style='mso-bidi-font-style:normal'>i</i> &lt;= 3) denotes the
+number of size <i style='mso-bidi-font-style:normal'>i</i> cups included in the
+package. There is no package with <i style='mso-bidi-font-style:normal'>S</i><sub>1
+</sub><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>=</span></span>
+<i style='mso-bidi-font-style:normal'>S</i><sub>2 </sub><span style='font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>=</span></span> <i style='mso-bidi-font-style:
+normal'>S</i><sub>3</sub>.</p>
+
+<br>
+<p class=MsoNormal style='text-align:justify'>But recently it has been
+discovered that there is a great demand for packages containing equal number
+cups of all three sizes. So, as an emergency step to meet the demand <i
+style='mso-bidi-font-style:normal'>ACM </i>has decided to unpack the cups from
+some of the packages stored in its (unlimited) stock of unsold products and
+repack them in packages having equal number of cups of all three sizes. For
+example, suppose <i style='mso-bidi-font-style:normal'>ACM</i> has the
+following four types of packages in its stock: (1, 2, 3), (1, 11, 5), (9, 4, 3)
+and (2, 3, 2). So, one can unpack three (1, 2, 3) packages, one (9, 4, 3)
+package and two (2, 3, 2) packages and repack the cups to produce sixteen (1,
+1, 1) packages. One can even produce eight (2, 2, 2) packages or four (4, 4, 4)
+packages or two (8, 8, 8) packages or one (16, 16, 16) package or even
+different combination of packages each containing equal number of size 1, size
+2 and size 3 cups. Note that all the unpacked cups are used to produce the new
+packages, i.e., no unpacked cup is wasted.</p>
+
+<br>
+<p class=MsoNormal style='text-align:justify'><i style='mso-bidi-font-style:
+normal'>ACM</i> has hired you to write a program that will decide whether it is
+possible to produce packages containing equal number of all three types of cups
+using all the cups that can be found by unpacking any combination of existing
+packages in the stock.</p>
+
+<br>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Input</font></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>The input may contain multiple
+test cases. Each test case begins with a line containing an integer <i
+style='mso-bidi-font-style:normal'>N</i> (3 &lt;= <i style='mso-bidi-font-style:
+normal'>N</i> &lt;= 1000) indicating the number of different types of packages
+that can be found in the stock. Each of the next <i style='mso-bidi-font-style:
+normal'>N</i> lines contains three positive integers denoting respectively the
+number of size 1, size 2 and size 3 cups in a package. No two packages in a
+test case will have the same specification.</p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-tab-count:1'>            </span></p>
+
+<p class=MsoNormal style='text-align:justify'>A test case containing a zero for
+<i style='mso-bidi-font-style:normal'>N</i> in the first line terminates the
+input.</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Output</font></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>For each test case in the input
+print a line containing &quot;Yes&quot; if packages can be produced as desired,
+print &quot;No&quot; otherwise. </p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;mso-bidi-font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Input</font></span></b></p>
+<font face="Courier" size=3>
+4<br>
+
+1 2 3<br>
+
+1 11 5<br>
+
+9 4 3<br>
+
+2 3 2<br>
+
+4<br>
+
+1 3 3<br>
+
+1 11 5<br>
+
+9 4 3<br>
+
+2 3 2<br>
+0<br>
+<br>
+</font>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Output</font></span></b></p>
+<font face="Courier" size=3>
+
+Yes<br>
+
+No<br>
+</font>
+<p class=MsoNormal><span style='mso-bidi-font-size:12.0pt;color:windowtext'>____________________________________________________________________________________<br>
+Rezaul Alam Chowdhury <br>
+<br>
+<i>&quot;A society whose demand is very slight, you should dislike what you
+like and love what you abhor.&quot; <o:p></o:p></i></span></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:12.0pt;color:windowtext'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

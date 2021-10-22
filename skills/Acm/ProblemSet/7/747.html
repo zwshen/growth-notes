@@ -1,0 +1,153 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Grid Soccer</TITLE>
+<META NAME="description" CONTENT="Grid Soccer">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Grid Soccer</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+An important soccer match is about to begin between long time rival teams A and B. Team B won the toss for the ball, so a player of team B is placed exactly at the center-field position, ready for the first kick. In the defensive field of team A there is a number of players from that team in strategic positions, but no other player from team B is in that area.
+
+<P>
+At that moment, the coach for team B realizes that, if his team could move the ball really fast, the defence players of team A would have time to reach only a limited area around their original locations. Hence, if he could compute the ideal location for his players so that they could take advantage of that situation, performing the shortest sequence of kicks to reach
+the goal without entering the area covered by a player of team A, then the only important thing to consider would be the initial positions of team A players and their reachable areas.
+
+<P>
+Team B hires you to develop a computer program to help their coach in such a situation. The defensive field of team A is represented by a square area in the <I>XY</I> plane, with the center-field position at location (0, 0), and the mid-field line coinciding with the <I>X</I> axis as described in Figure 1. This square area is partitioned into a grid with 2<I>s</I> squares in each
+dimension (<I>s</I> is given), and the goal towards which team B attacks is on the <I>Y</I> = 2<I>s</I> line, occupying <I>g</I> squares to each side of the <I>Y</I> axis.
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p747.gif>
+
+<P>
+
+<P>
+<BR>
+Figure 1: Defensive field of team A.
+</DIV>
+
+<P>
+Team A players are located at grid intersections, and each one can intercept the ball if and only if it enters any square within <I>p</I> around its position, stopping the play (that is, each player covers an area of (2<I>p</I>)<SUP>2</SUP>). No team player from team A will be at a position to cover the center-field, (0, 0).
+
+<P>
+Your program should identify if there is a possibility of placing up to <I>n</I> players from team B (<EM>not</EM> including the center-field one) in grid intersections, in order to move the ball from the center field position to the goal of team A, avoiding any square of the grid reachable by a team A player. Assume that the ball can move only parallel to the <I>X</I> or <I>Y</I> axis. If
+it is not possible, notify saying: ``<TT>Situation Impossible</TT>''. If there is a solution, then your program should output the solution that uses the minimum number of players (identifying the position of the players). If there are more than one possible solutions, your program
+should output any solution where the ball runs the shortest distance.
+
+<P>
+Assume that the ball can move over the border of the field, even over the border opposite to the center field (if these borders are not covered by players of team A, of course).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input consists of a sequence of scenarios followed by a line starting with <TT>0</TT>, which must not be processed. Each scenario consists of one line containing four integers <I>s</I>, <I>g</I>, <I>p</I> and <I>n</I>, where
+
+<P>
+<UL>
+<LI><I>s</I> is the number of grid squares, in each side of the <I>Y</I> axis; assume 
+<!-- MATH: $0 < s < 10$ -->
+0 &lt; <I>s</I> &lt; 10.
+<LI><I>g</I> is the size of the goal, in number of grid squares in each side of the <I>Y</I> axis; assume 0 &lt; <I>g</I> &lt; <I>s</I>.
+<LI><I>p</I> is a player's reach, in number of grid squares; assume 0 &lt; <I>p</I> &lt; <I>s</I>.
+<LI><I>n</I> is the number of team A players in the defense field of team A; assume 
+<!-- MATH: $0 \leŸ n < 100$ -->
+<IMG
+ WIDTH="96" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="747img1.gif"
+ ALT="$0 \leŸ n < 100$">.
+</UL>
+
+<P>
+These four integers are followed by a sequence of <I>n</I> pairs of integers defining the positions of team A players in the defense field of team A. There may be any number of blank spaces (at least one) between the numbers in the input.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The output consists of a line identifying the scenario followed by a line saying either
+
+<P>
+<UL>
+<LI><TT>Situation Impossible</TT>, or
+<LI><TT>Goal with </TT><I>k</I><TT> kicks:</TT> 
+<!-- MATH: $(x_1, y_1)(x_2, y_2) \dots (x_{k+1}, y_{k+1})$ -->
+<IMG
+ WIDTH="231" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="747img3.gif"
+ ALT="$(x_1, y_1)(x_2, y_2) \dots (x_{k+1}, y_{k+1})$">,
+where 
+<!-- MATH: $(x_i, y_i)$ -->
+(<I>x</I><SUB><I>i</I></SUB>, <I>y</I><SUB><I>i</I></SUB>), <IMG
+ WIDTH="43" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="747img4.gif"
+ ALT="$i \leŸ k$">,
+indicates
+the position of the <I>i</I>-th player of team B to kick the ball to accomplish the goal in <I>k</I> plays, and 
+<!-- MATH: $(x_{k+1}, y_{k+1})$ -->
+(<I>x</I><SUB><I>k</I>+1</SUB>, <I>y</I><SUB><I>k</I>+1</SUB>) is the final point the ball reaches (which should be over the goal line). Note that <I>x</I><SUB>1</SUB> = 0 and <I>y</I><SUB>1</SUB> = 0, and 
+<!-- MATH: $y_{k+1}= 2s$ -->
+<I>y</I><SUB><I>k</I>+1</SUB>= 2<I>s</I>.
+</UL>
+
+<P>
+A blank line separates the output of two scenarios.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+4 2 1 2    -2 8 1 8
+7 2 3 3     0 7 6 10 0 9
+9 3 3 1    -5 9
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Scenario 1.
+Situation Impossible
+
+Scenario 2.
+Goal with 3 kicks: (0,0)(-4,0)(-4,14)(-2,14)
+
+Scenario 3.
+Goal with 1 kicks: (0,0)(0,18)
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

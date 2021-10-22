@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Divide, But Not Quite Conquer!</TITLE>
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Problem C: Divide, But Not Quite Conquer!</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+<P>
+Your goal in this problem is to divide a certain integer n by another integer m until n = 1, obtaining a sequence
+of numbers. Lets call a[i] each number of this sequence, and let's say it has k numbers (i.e. you must do k-1 
+succesive divisions to reach n = 1). You can only have this sequence if the following restrictions are met:<br>
+<OL>
+	<LI> a[1] = n, a[i] = a[i-1] div m, for all 1 &lt; i &lt;= k
+	<LI> a[i] is divisible by m (that is, a[i] mod m = 0) for all 1 &lt;= i &lt; k
+	<LI> a[1] &gt; a[2] &gt; a[3] ...  &gt; a[k]
+</OL>
+For instance, if n = 125 and m = 5, you have 125, 25, 5 and 1 (you did 3 divisions: 125/5, 25/5 and 5/5). 
+So, k = 4, a[1] = 125, a[2] = 25, a[3] = 5 and a[4] = 1.
+If n = 30 and m = 3, you have 30, 10, 3 and 1. But a[2] = 10, and 10 mod 3 = 1, so there is no sequence because it violates 
+restriction 2. When the sequence doesn't exist we think it's not fun and, thus, very boring! 
+
+</U></U><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>
+The input will consist on an arbitrary number of lines. Each line will consist of two non-negative integers n,m
+which are both less than 2000000000. You must read until you reach the end of file.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>
+For each pair n,m you must print the correpondent sequence a (as defined above) in a single line, with each adjacent numbers of
+the sequence separated by a single space. In the case the sequence doesn't exist because it violates some restriction,
+just print the phrase "Boring!" in a single line (without the quotes).
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>
+125 5
+30 3
+80 2
+81 3
+</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>
+125 25 5 1
+Boring!
+Boring!
+81 27 9 3 1
+</PRE>
+
+<HR>
+<B>
+&copy; 2001 Universidade do Brasil (UFRJ). Internal Contest Warmup 2001.
+</B>
+
+</BODY>
+</HTML>

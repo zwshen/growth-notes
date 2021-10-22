@@ -1,0 +1,161 @@
+
+<!--Converted with LaTeX2HTML 2008 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Rational Billiard</TITLE>
+<META NAME="description" CONTENT="Rational Billiard">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Rational Billiard</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The International Billiard Manufactory (IBM) builds the best billiard tables in the world. Its last product is the Rational Billiard, which
+is a friction-less table with volume-less balls. This means that balls just occupy a point in the space, and once they are struck with the
+cue, they move on the table with constant velocity, until they hit another ball. 
+
+<P>
+
+<P>
+<BR>
+IBM wants you to build a program to analyse the behavior of balls in the Rational Billiard. The program has to decide whether a ball,
+struck with certain angle, will hit another ball in certain position. The next figure shows the configuration of the table and the balls:
+
+<P>
+<DIV ALIGN="CENTER">
+
+<!-- MATH
+ $\epsfbox{p11657.eps}$
+ -->
+<IMG
+ WIDTH="545" HEIGHT="614" ALIGN="BOTTOM" BORDER="0"
+ SRC="p11657.png"
+ ALT="\epsfbox{p11657.eps}">
+</DIV>
+
+<P>
+
+<SPAN CLASS="MATH"><I>m</I></SPAN> and <SPAN CLASS="MATH"><I>n</I></SPAN> are integer values that indicate the size of the table. <!-- MATH
+ $(x_{1},y_{1})$
+ -->
+<SPAN CLASS="MATH">(<I>x</I><SUB>1</SUB>, <I>y</I><SUB>1</SUB>)</SPAN> and <!-- MATH
+ $(x_{2},y_{2})$
+ -->
+<SPAN CLASS="MATH">(<I>x</I><SUB>2</SUB>, <I>y</I><SUB>2</SUB>)</SPAN> are the coordinates of the first
+and second ball respectivelly, with <!-- MATH
+ $0 < x_{1},x_{2} < m$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>x</I><SUB>1</SUB>, <I>x</I><SUB>2</SUB> &lt; <I>m</I></SPAN> and <!-- MATH
+ $0 < y_{1},y_{2} < n$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>y</I><SUB>1</SUB>, <I>y</I><SUB>2</SUB> &lt; <I>n</I></SPAN>. The direction in which the first ball is struck is
+determined by the integer values <SPAN CLASS="MATH"><I>p</I></SPAN> and <SPAN CLASS="MATH"><I>q</I></SPAN>. More precisely, the slope <!-- MATH
+ $\frac{q}{p}$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="15" HEIGHT="35" ALIGN="MIDDLE" BORDER="0"
+ SRC="11657img2.png"
+ ALT="$ {\frac{{q}}{{p}}}$"></SPAN> determines the hitting direction of the cue, where <SPAN CLASS="MATH"><I>p</I></SPAN> and <SPAN CLASS="MATH"><I>q</I></SPAN>
+cannot be zero simultaneously. A value of <SPAN CLASS="MATH"><I>p</I> = 0</SPAN> means that the ball moves parallel to the vertical axis, according to the sign of <SPAN CLASS="MATH"><I>q</I></SPAN>. When the
+ball hits an edge, it rebounds like if the edge were a mirror (<!-- MATH
+ $incidence \ angle = reflection \ angle$
+ -->
+<SPAN CLASS="MATH"><I>incidence</I>&nbsp;<I>angle</I> = <I>reflection</I>&nbsp;<I>angle</I></SPAN>). In the special case when the ball hits a corner,
+it is reflected on the same line but in the opposite direction of arrival. Finally, spin effects are neglected, too.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Each line in the input corresponds to a test case specified by eight integer values: <!-- MATH
+ $m,n,x_{1},y_{1},x_{2},y_{2},p$
+ -->
+<SPAN CLASS="MATH"><I>m</I>, <I>n</I>, <I>x</I><SUB>1</SUB>, <I>y</I><SUB>1</SUB>, <I>x</I><SUB>2</SUB>, <I>y</I><SUB>2</SUB>, <I>p</I></SPAN> and <SPAN CLASS="MATH"><I>q</I></SPAN>, with
+<!-- MATH
+ $0 < m,n \le 1000$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>m</I>, <I>n</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11657img3.png"
+ ALT="$ \le$">1000</SPAN>, <!-- MATH
+ $0 < x_{1},x_{2} < m$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>x</I><SUB>1</SUB>, <I>x</I><SUB>2</SUB> &lt; <I>m</I></SPAN>, <!-- MATH
+ $0 < y_{1},y_{2} < n$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>y</I><SUB>1</SUB>, <I>y</I><SUB>2</SUB> &lt; <I>n</I></SPAN>, <!-- MATH
+ $-1000 \le p,q \le 1000$
+ -->
+<SPAN CLASS="MATH">-1000<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11657img3.png"
+ ALT="$ \le$"><I>p</I>, <I>q</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11657img3.png"
+ ALT="$ \le$">1000</SPAN>, and <!-- MATH
+ $|p| + |q| > 0$
+ -->
+<SPAN CLASS="MATH">| <I>p</I>| + | <I>q</I>| &gt; 0</SPAN>.
+
+<P>
+The end of the input is specified by a line with the string ``<TT>0 0 0 0 0 0 0 0</TT>''.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case, the program must output a line with the the text ``<TT>HIT</TT>'' if the first ball hits
+the second ball, or ``<TT>MISS</TT>'' if it does not.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+4 4 3 1 1 1 1 1
+4 4 3 1 2 2 1 1
+0 0 0 0 0 0 0 0
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+HIT
+MISS
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

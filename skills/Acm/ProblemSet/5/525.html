@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Milk Bottle Data</TITLE>
+<META NAME="description" CONTENT="Milk Bottle Data">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Milk Bottle Data</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+There is a box of the shape of an 
+<!-- MATH: $N \times N$ -->
+<IMG
+ WIDTH="58" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="525img1.gif"
+ ALT="$N \times N$">
+lattice. Each grid of the lattice may contain a milk bottle or
+none. Mr. Smith wrote down the data of the box by making a record for each
+row from left to right
+and each column from top to bottom. In each record, `1' indicaes that there
+is a bottle in the
+corresponding grid and `0' does not. Unfortunately, the order of these
+records is thrown into confusion, and some of these records have corrupted.
+
+<P>
+
+<P>
+<BR>
+Now it's up to you to provide a program to recover these data:
+i.e. to give the original arrangement of the box and give real values for
+those corrupted data.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains a line with a integer N indicating the number of test cases. A blank line follows. After that there are N test cases, where `2' denotes that the
+corresponding character has
+been corrupted. Each line in the file represents a record. You should output
+the original
+arrangement of the box, and show the record number for each column on the
+top of the lattice, and
+show the record number for each row to the left of the lattice.
+There is a blank line between datasets.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each dataset, you are required to give only one possible result if there are many, and you
+should give the 
+indication `<TT>impossible</TT>' if there is no possibility of original arrangement.
+Print a blank line between datasets.
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>1
+
+01210
+21120
+21001
+12110
+12101
+12101
+00011
+22222
+11001
+10010
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+     9  8  6  2  7
+
+4    1  0  1  1  0
+10   1  0  0  1  0
+1    0  1  1  1  0
+3    0  1  0  0  1
+5    1  1  1  0  1
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-01-11</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

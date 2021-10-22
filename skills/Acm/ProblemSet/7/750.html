@@ -1,0 +1,153 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>8 Queens Chess Problem</TITLE>
+<META NAME="description" CONTENT="8 Queens Chess Problem">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+8 Queens Chess Problem</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+In chess it is possible to place eight queens on the board so that no one
+queen can be taken by any other. Write a program that will determine all
+such possible arrangements for eight queens given the initial position of one
+of the queens.
+
+<P>
+Do not attempt to write a program which evaluates every possible 8
+configuration of 8 queens placed on the board. This would require 8<SUP>8</SUP>
+evaluations and would bring the system to its knees. There will be a
+reasonable run time constraint placed on your program. 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input contains the number of datasets, and it's followed by a blank line.
+Each dataset
+will be two numbers separated by a blank. The numbers represent the square
+on which one of the eight queens must be positioned. A valid square will be
+represented; it will not be necessary to validate the input.
+
+<P>
+To standardize our notation, assume that the upper left-most corner of the
+board is position (1,1). Rows run horizontally and the top row is row 1.
+Columns are vertical and column 1 is the left-most column. Any reference to
+a square is by row then column; thus square (4,6) means row 4, column 6.
+
+<P>Each dataset is separated by a blank line.
+<p>
+<DIV ALIGN="CENTER">
+
+<img src=p750.gif>
+</DIV>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Output for each dataset will consist of a one-line-per-solution representation.
+
+<P>
+Each solution will be sequentially numbered <IMG
+ WIDTH="55" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="750img1.gif"
+ ALT="$1 \dots N$">.
+Each solution will
+consist of 8 numbers. Each of the 8 numbers will be the ROW coordinate for
+that solution. The column coordinate will be indicated by the order in which
+the 8 numbers are printed. That is, the first number represents the ROW in
+which the queen is positioned in column 1; the second number represents the
+ROW in which the queen is positioned in column 2, and so on.
+
+<P>
+The sample input below produces 4 solutions. The full 8<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="750img2.gif"
+ ALT="$\times$">8 representation of each solution is shown below.
+
+<P>
+<DIV ALIGN="CENTER">
+<B>DO NOT SUBMIT THE BOARD MATRICES AS PART OF YOUR SOLUTION!</B>
+</DIV>
+
+<P>
+<PRE>
+   SOLUTION 1           SOLUTION 2           SOLUTION 3           SOLUTION 4
+
+1 0 0 0 0 0 0 0      1 0 0 0 0 0 0 0      1 0 0 0 0 0 0 0      1 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 0      0 0 0 0 0 0 1 0      0 0 0 0 0 1 0 0      0 0 0 0 1 0 0 0
+0 0 0 0 1 0 0 0      0 0 0 1 0 0 0 0      0 0 0 0 0 0 0 1      0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 1      0 0 0 0 0 1 0 0      0 0 1 0 0 0 0 0      0 0 0 0 0 1 0 0
+0 1 0 0 0 0 0 0      0 0 0 0 0 0 0 1      0 0 0 0 0 0 1 0      0 0 1 0 0 0 0 0
+0 0 0 1 0 0 0 0      0 1 0 0 0 0 0 0      0 0 0 1 0 0 0 0      0 0 0 0 0 0 1 0
+0 0 0 0 0 1 0 0      0 0 0 0 1 0 0 0      0 1 0 0 0 0 0 0      0 1 0 0 0 0 0 0
+0 0 1 0 0 0 0 0      0 0 1 0 0 0 0 0      0 0 0 0 1 0 0 0      0 0 0 1 0 0 0 0
+</PRE>
+
+<P>
+Submit only the one-line, 8 digit representation of each solution as described
+earlier. Solution #1 below indicates that there is a queen at Row 1, Column 1;
+Row 5, Column 2; Row 8, Column 3; Row 6, Column 4; Row 3,Column 5; ... Row 4,
+Column 8.
+
+<P>
+Include the two lines of column headings as shown below in the sample output and print the solutions in lexicographical order.
+
+<P>Print a blank line between datasets.
+<p>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+
+1 1
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+SOLN       COLUMN
+ #      1 2 3 4 5 6 7 8
+
+ 1      1 5 8 6 3 7 2 4
+ 2      1 6 8 3 7 4 2 5
+ 3      1 7 4 6 8 2 5 3
+ 4      1 7 5 8 2 4 6 3
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

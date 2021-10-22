@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>How Big Is It?</TITLE>
+<META NAME="description" CONTENT="Problem E: How Big Is It?">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+How Big Is It?</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+Ian's going to California, and he has to pack his things, including his
+collection of circles.  Given a set of circles, your program must
+find the smallest rectangular box in which they fit.
+
+All circles must touch the bottom of the box.  The figure below shows
+an acceptable packing for a set of circles (although this may not be
+the optimal packing for these particular circles).  Note that in an
+ideal packing, each circle should touch at least one other circle
+(but you probably figured that out).
+
+<DIV ALIGN="CENTER">
+
+<img src=p10012.gif>
+ 
+</DIV>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+The first line of input contains a single positive decimal integer <I>n</I>,
+<I>n</I>&lt;=50.  This indicates the number of lines which follow.  The
+subsequent <I>n</I> lines each contain a series of numbers separated by
+spaces.  The first number on each of these lines is a positive integer
+<I>m</I>, <I>m</I>&lt;=8, which indicates how many other numbers appear on that
+line.  The next <I>m</I> numbers on the line are the radii of the circles
+which must be packed in a single box.  These numbers need not be
+integers.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+For each data line of input, excluding the first line of input containing
+<I>n</I>, your program must output the size of the smallest rectangle which can
+pack the circles.  Each case should be output on a separate line by itself,
+with three places after the decimal point.  Do not output leading zeroes
+unless the number is less than 1, e.g. <code>0.543</code>.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<PRE>
+
+3
+3 2.0 1.0 2.0
+4 2.0 2.0 2.0 2.0
+3 2.0 1.0 4.0
+</PRE>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<PRE>
+
+9.657
+16.000
+12.657
+</PRE>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-22</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Jill's Bike</TITLE>
+<META NAME="description" CONTENT="Jill's Bike">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR>
+<TD><B><FONT SIZE=5 COLOR=#C0FFFF><A NAME="SECTION0001000000000000000000">Jill's Bike</A></FONT></B>
+</TABLE></CENTER></H1>
+<P>
+Jill Bates hates climbing hills. Jill rides a bicycle everywhere she goes, but
+she always wants to go the easiest and shortest way possible. The good news is
+that she lives in Greenhills, which has all its roads laid out in a strictly
+rectangular grid - east-west roads are <I>streets</I>; north-south roads
+are <I>avenues</I>
+and the distance between any two adjacent grid points is the same. The bad
+news is that Greenhills is very hilly and has many one-way roads.
+<P>
+<P>
+In choosing a route between where she starts and where she ends, Jill has
+three rules:
+<OL><LI> Avoid any travel of more than 10 meters between adjacent grid points.<LI> Never go the wrong way on a one-way road.<LI> Always travel the shortest possible route.
+</OL>
+<P>
+Your program should help Jill find an acceptable route.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input file contains less than 50 data sets in the following form:
+<P>
+<UL><LI> The first line of each set contains two integers, separated by one or more spaces.
+  The first integer <I>n</I> represents the number of streets, and the second integer
+  <I>m</I> represents the number of avenues,  <IMG WIDTH=81 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline59" SRC="238img1.gif"  > ,  <IMG WIDTH=86 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline61" SRC="238img2.gif"  > .<LI> The next <I>n</I> lines contain the altitudes of grid points. Each line
+  represents a street and contains a sequence of <I>m</I> integers separated by one
+  or more spaces. These integers represent the altitude in meters of the grid
+  points along that street. Even if a particular street and avenue have no
+  intersection, the altitude is still given for that grid point.<LI> One or more lines follow that define the one-way roads. Each road is
+  represented by two pairs of integers, separated by one or more spaces, in
+  the form:
+<P>
+  <I>street avenue street avenue</I>
+<P>
+  The first street and avenue define the starting point of the road and
+  the second pair define the ending point. Since Greenhills is a strict grid,
+  if the two points are not adjacent in the grid, the road passes through all
+  the intervening grid points. For example,
+<P>
+  <TT>5 7 5 10</TT>
+<P>
+  represents roads 5-7 to 5-8, 5-8 to 5-9, and 5-9 to 5-10. Road
+  definitions are terminated by a line containing four zeroes in the above
+  format.<LI> Finally, one or more lines will follow that contain pairs of grid points
+  between which Jill wants to find an optimal path, in the form:
+<P>
+  <I>street avenue street avenue</I>
+<P>
+  As before, the integer pairs are separated by one or more spaces. The end
+  of the input set is defined by a line containing four zeroes, formatted as
+  before.
+</UL>
+<P>
+You may assume that all street and avenue numbers are within the bounds
+defined by the first line of set, and that all road definitions are strictly
+north-south or east-west.
+The end of input file is defined by EOF.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each path query in the input file, output a sequence of grid points, from
+the starting grid point to the ending grid point, which meets Jill's three
+rules. Output grid points as `<I>street-avenue</I>' separated by the
+word `<TT>to</TT>'. If
+there is more than one path that meets Jill's criteria, any such path will be
+acceptable. If no route satisfies all the criteria, or if the starting and
+ending grid points are the same, output an appropriate message to that effect.
+Output a blank line between each output for query.
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<TT>
+3 4 <BR>
+10 15 20 25 <BR>
+19 30 35 30 <BR>
+10 19 26 20 <BR>
+1 1 1 4 <BR>
+2 1 2 4 <BR>
+3 4 3 3 <BR>
+3 3 1 3 <BR>
+1 4 3 4 <BR>
+2 4 2 1 <BR>
+1 1 2 1 <BR>
+0 0 0 0 <BR>
+1 1 2 2 <BR>
+2 3 2 3 <BR>
+2 2 1 1 <BR>
+0 0 0 0
+</TT>
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Diagram of the Sample Input</A></FONT></H2>
+<P>
+<center><img src=238img5.gif></center>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>1-1 to 1-2 to 1-3 to 1-4 to 2-4 to 2-3 to 2-2
+
+To get from 2-3 to 2-3, stay put!
+
+There is no acceptable route from 2-2 to 1-1.</PRE>
+<P>
+</BODY>
+</HTML>

@@ -1,0 +1,249 @@
+
+<!--Converted with LaTeX2HTML 2002-2-1 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Problem G - Babel Towers</TITLE>
+<META NAME="description" CONTENT="Problem G - Babel Towers">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2002-2-1">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Problem G - Babel Towers</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+Babel Inc. is a company that designs structures for skyscrapers. They have developed a simple technique to estimate the feasibility of a design, based on the fact that their designs are equivalent to stack blocks of circular section and constant height. The height of a block is used as the unit of lineal measure. 
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+<SPAN  CLASS="textit">Blocks</SPAN> are all made of the same non deformable uniform material, so that the weight of a block is proportional to its volume and its center of mass is the geometrical center of the block. A typical block is of the form
+
+<P>
+<DIV ALIGN="CENTER">
+
+<!-- MATH
+ $\epsfbox{babel1.eps}$
+ -->
+<IMG
+ WIDTH="300" ALIGN="BOTTOM" BORDER="0"
+ SRC="p11116a.png"
+ ALT="\epsfbox{babel1.eps}">
+</DIV>
+
+<P>
+which weight is determined by the radius of the circular section (because every one has height <SPAN CLASS="MATH">1</SPAN>).
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+For <SPAN CLASS="MATH"><I>n</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11116img2.png"
+ ALT="$ \geq$"> 1</SPAN>, an <SPAN CLASS="MATH"><I>n</I></SPAN>-tower is a stack of <SPAN CLASS="MATH"><I>n</I></SPAN> blocks. Blocks in an <SPAN CLASS="MATH"><I>n</I></SPAN>-tower are numbered <!-- MATH
+ $0,1, \dots , n-1\,$
+ -->
+<SPAN CLASS="MATH">0, 1,..., <I>n</I> - 1&nbsp;</SPAN>, from the bottom to the top. Given an <SPAN CLASS="MATH"><I>n</I></SPAN>-tower, its <SPAN CLASS="MATH"><I>k</I></SPAN>-subtower is defined as the <SPAN CLASS="MATH"><I>k</I></SPAN>-tower with the first <SPAN CLASS="MATH"><I>k</I></SPAN> blocks of the <SPAN CLASS="MATH"><I>n</I></SPAN>-tower, <!-- MATH
+ $0 \leq k < n\,$
+ -->
+<SPAN CLASS="MATH">0 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11116img3.png"
+ ALT="$ \leq$"> <I>k</I> &lt; <I>n</I>&nbsp;</SPAN>. An example of a <SPAN CLASS="MATH">5</SPAN>-tower could look like the following figure:
+
+<P>
+<DIV ALIGN="CENTER">
+
+<!-- MATH
+ $\epsfbox{babel2.eps}$
+ -->
+<IMG
+ WIDTH="400"  ALIGN="BOTTOM" BORDER="0"
+ SRC="p11116b.png"
+ ALT="\epsfbox{babel2.eps}">
+</DIV>
+
+<P>
+A tower is <SPAN  CLASS="textit">feasible</SPAN> when it can be built putting its blocks one by one from bottom to top. At each building step the corresponding subtower should be <SPAN  CLASS="textit">stable</SPAN>, i.e., every block of it must remain in the position that it is designed to stay. When placing a block results in a stack of blocks which part of it has a center of mass that lies out of the base on that it is supported we say that the resulting tower <SPAN  CLASS="textit">collapses</SPAN> and is <SPAN  CLASS="textit">unfeasible</SPAN>.
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+Babel Inc. does not consider stable a situation where the center of mass of the system of blocks that are supposed to rest on a block lies on the border of the supporting surface. For instance, two blocks of the same dimensions with one of them placed centered on the circumference of the other constitute a <SPAN CLASS="MATH">2</SPAN>-tower that collapses; but if the second one is placed within the circle of the first one the system is feasible.
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+Your problem is to help Babel Inc. in the evaluation of tower designs. Given a design for a <SPAN CLASS="MATH"><I>n</I></SPAN>-tower you must judge if it is feasible and, if it is not, you must tell at which floor it would collapse. In this last case you give <SPAN CLASS="MATH"><I>k</I></SPAN> as answer, with <SPAN CLASS="MATH">0 &lt; <I>k</I> &lt; <I>n</I></SPAN>, if the <SPAN CLASS="MATH">(<I>k</I> - 1)</SPAN>-subtower is feasible but the <SPAN CLASS="MATH"><I>k</I></SPAN>-subtower collapses.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input file contains several test cases. 
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+Each test case begins with a line indicating <SPAN CLASS="MATH"><I>N</I></SPAN>, <SPAN CLASS="MATH">0 &lt; <I>N</I> &lt; 1000</SPAN>,  the number of blocks that the designed tower should have.  
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+Then, there is a line describing each one of the blocks. The block <SPAN CLASS="MATH"><I>k</I></SPAN>, <!-- MATH
+ $0 \leq k < N$
+ -->
+<SPAN CLASS="MATH">0 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11116img3.png"
+ ALT="$ \leq$"> <I>k</I> &lt; <I>N</I></SPAN>, is described by a line containing <SPAN CLASS="MATH">3</SPAN> integers separated by blanks, of the form <P><!-- MATH
+ \begin{displaymath}
+x_k \; y_k \; r_k
+\end{displaymath}
+ -->
+</P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+<I>x</I><SUB>k</SUB> &nbsp;<I>y</I><SUB>k</SUB> &nbsp;<I>r</I><SUB>k</SUB>
+</DIV><P></P>
+which indicates that the block <SPAN CLASS="MATH"><I>k</I></SPAN> with radius <SPAN CLASS="MATH"><I>r</I><SUB>k</SUB></SPAN> must be placed supported on the block <SPAN CLASS="MATH"><I>k</I> - 1</SPAN> (exception: block <SPAN CLASS="MATH">0</SPAN> is placed on the ground) with its center of mass on the point <!-- MATH
+ $\langle x_k,y_k,k+0.5 \rangle$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="11" HEIGHT="35" ALIGN="MIDDLE" BORDER="0"
+ SRC="11116img5.png"
+ ALT="$ \langle$"><I>x</I><SUB>k</SUB>, <I>y</I><SUB>k</SUB>, <I>k</I> + 0.5<IMG
+ WIDTH="11" HEIGHT="35" ALIGN="MIDDLE" BORDER="0"
+ SRC="11116img6.png"
+ ALT="$ \rangle$"></SPAN> with respect to a grid with origin in <!-- MATH
+ $\langle 0,0,0 \rangle\,$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="11" HEIGHT="35" ALIGN="MIDDLE" BORDER="0"
+ SRC="11116img5.png"
+ ALT="$ \langle$">0, 0, 0<IMG
+ WIDTH="11" HEIGHT="35" ALIGN="MIDDLE" BORDER="0"
+ SRC="11116img6.png"
+ ALT="$ \rangle$">&nbsp;</SPAN>, for <!-- MATH
+ $x_k , y_k \leq |10^5|$
+ -->
+<SPAN CLASS="MATH"><I>x</I><SUB>k</SUB>, <I>y</I><SUB>k</SUB> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11116img3.png"
+ ALT="$ \leq$"> | 10<SUP>5</SUP>|</SPAN> and <!-- MATH
+ $1 \leq r_k \leq 10^5$
+ -->
+<SPAN CLASS="MATH">1 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11116img3.png"
+ ALT="$ \leq$"> <I>r</I><SUB>k</SUB> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11116img3.png"
+ ALT="$ \leq$"> 10<SUP>5</SUP></SPAN>. 
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+A case begin with <SPAN CLASS="MATH"><I>N</I> = 0</SPAN> means that there are no more cases to analyze.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Output texts for each input case are presented in the same order that input is read. 
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+For each test case the answer must be of the form `<TT>Feasible</TT>' if the design is feasible. In other case, the answer should be of the form `<TT>Unfeasible k</TT>' indicating that the <SPAN CLASS="MATH">(<I>k</I> - 1)</SPAN>-subtower is feasible but the <SPAN CLASS="MATH"><I>k</I></SPAN>-subtower is unfeasible.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+		<PRE>
+3
+0 0 10
+2 0 12
+-4 1 1
+4
+0 0 12
+0 0 10
+0 9 10
+0 17 5
+4
+0 0 4
+0 1 4
+1 0 4
+-1 -1 4
+2
+10 10 5
+0 0 3
+0
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2> 
+		<PRE>
+Feasible
+Unfeasible 3
+Feasible
+Unfeasible 1
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+XX Colombian National Programming Contest
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

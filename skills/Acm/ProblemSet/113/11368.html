@@ -1,0 +1,154 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Nested Dolls</TITLE>
+<META NAME="description" CONTENT="Nested Dolls">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+G: Nested Dolls</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Dilworth is the world's most prominent collector of Russian nested dolls: he literally has thousands of them! You know, the wooden hollow dolls of different sizes of which the smallest doll is contained in the second smallest, and this doll is in turn contained in the next one and so forth. One day he wonders if there is another way of nesting them so he will end up with fewer nested dolls? After all, that would make his collection even more magnificent! He unpacks each nested doll and measures the width and height of each contained doll. A doll with width <SPAN CLASS="MATH"><I>w</I><SUB>1</SUB></SPAN>
+<tex2html_verbatim_mark> and height <SPAN CLASS="MATH"><I>h</I><SUB>1</SUB></SPAN>
+<tex2html_verbatim_mark> will fit in another doll of width <SPAN CLASS="MATH"><I>w</I><SUB>2</SUB></SPAN>
+<tex2html_verbatim_mark> and height <SPAN CLASS="MATH"><I>h</I><SUB>2</SUB></SPAN>
+<tex2html_verbatim_mark> if and only if <!-- MATH
+ $w_{1} < w_{2}$
+ -->
+<SPAN CLASS="MATH"><I>w</I><SUB>1</SUB> &lt; <I>w</I><SUB>2</SUB></SPAN>
+<tex2html_verbatim_mark> and <!-- MATH
+ $h_{1} < h_{2}$
+ -->
+<SPAN CLASS="MATH"><I>h</I><SUB>1</SUB> &lt; <I>h</I><SUB>2</SUB></SPAN>
+<tex2html_verbatim_mark>. Can you help him calculate the smallest number of nested dolls possible to assemble from his massive list of measurements?
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p11368.eps}$
+ -->
+<IMG
+ WIDTH="182" HEIGHT="122" ALIGN="right" BORDER="0"
+ SRC="p11368.png"
+ ALT="\epsfbox{p11368.eps}">
+<tex2html_verbatim_mark>
+</DIV>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+On the first line of input is a single positive integer <!-- MATH
+ $1 \le t \le 20$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11368img2.png"
+ ALT="$ \le$"><I>t</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11368img2.png"
+ ALT="$ \le$">20</SPAN>
+<tex2html_verbatim_mark> specifying the number of test cases to follow. Each test case begins with a positive integer <!-- MATH
+ $1 \le m \le 20000$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11368img2.png"
+ ALT="$ \le$"><I>m</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11368img2.png"
+ ALT="$ \le$">20000</SPAN>
+<tex2html_verbatim_mark> on a line of itself telling the number of dolls in the test case. Next follow <SPAN CLASS="MATH">2<I>m</I></SPAN>
+<tex2html_verbatim_mark> positive integers <!-- MATH
+ $w_{1} , h_{1} , w_{2} , h_{2} , \ldots, w_{m} , h_{m}$
+ -->
+<SPAN CLASS="MATH"><I>w</I><SUB>1</SUB>, <I>h</I><SUB>1</SUB>, <I>w</I><SUB>2</SUB>, <I>h</I><SUB>2</SUB>,..., <I>w</I><SUB>m</SUB>, <I>h</I><SUB>m</SUB></SPAN>
+<tex2html_verbatim_mark>, where <SPAN CLASS="MATH"><I>w</I><SUB>i</SUB></SPAN>
+<tex2html_verbatim_mark> is the width and <SPAN CLASS="MATH"><I>h</I><SUB>i</SUB></SPAN>
+<tex2html_verbatim_mark> is the height of doll number <SPAN CLASS="MATH"><I>i</I></SPAN>
+<tex2html_verbatim_mark>. <!-- MATH
+ $1 \le w_{i}, h_{i} \le 10000$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11368img2.png"
+ ALT="$ \le$"><I>w</I><SUB>i</SUB>, <I>h</I><SUB>i</SUB><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11368img2.png"
+ ALT="$ \le$">10000</SPAN>
+<tex2html_verbatim_mark> for all <SPAN CLASS="MATH"><I>i</I></SPAN>
+<tex2html_verbatim_mark>.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case there should be one line of output containing the minimum number of nested dolls possible.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+4
+3
+20 30 40 50 30 40
+4
+20 30 10 10 30 20 40 50
+3
+10 30 20 20 30 10
+4
+10 10 20 30 40 50 39 51
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+2
+3
+2
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

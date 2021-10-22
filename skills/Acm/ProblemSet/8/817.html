@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html; charset=ISO-8859-1"
+ http-equiv="content-type">
+  <title>According to Bartjens</title>
+</head>
+<body>
+<h1><br clear="all">
+<center>
+<table bgcolor="#0060f0">
+  <tbody>
+    <tr>
+      <td><b><font size="5" color="#c0ffff">&nbsp;<a
+ name="SECTION0001000000000000000000">
+According to Bartjens</a>&nbsp;</font></b></td>
+    </tr>
+  </tbody>
+</table>
+</center>
+</h1>
+<p>
+The wide dissemination of calculators and computers has its
+disadvantages. Even students in technical disciplines
+tend to exhibit a surprising lack of calculating ability. Accustomed to
+the use of calculators and computers, many of
+them are unable to make calculations like 7 * 8 mentally or like 13 *
+17 using pencil and paper. We all know, but
+who cares?
+</p>
+<p>Professor Bartjens cares. Professor Bartjens is a bit old fashioned.
+He
+decided to give his students some training in
+calculating without electronic equipment by creating a collection of
+calculation problems, (like 2100 - 100 = ...). To
+simplify grading the problems, he constructed them so that almost all
+of them had 2000 as an answer. Not all of
+them, of course. His students would be smart enough to recognize the
+pattern, and fill in 2000 everywhere without
+further thinking.
+</p>
+<p>
+Unfortunately Professor Bartjens&#8217; printer driver turned out to be even
+more old-fashioned than the professor himself,
+and it could not interface with his new printer. Inspecting the printed
+problems, he soon recognized the pattern: none
+of the operations was transmitted to the printer. A problem like: <br>
+2100-100= <br>
+was printed as: <br>
+2100100= <br>
+Fortunately, all the digits and the equal sign were still printed.
+</p>
+<p>
+To make this bad situation much worse, Professor Bartjens&#8217; source file
+had disappeared. So Professor Bartjens has
+another problem: what were his original problems? Given the fact that
+the answer (most likely) should be 2000, the
+line 2100100= could have been any one of the lines: <br>
+</p>
+<pre>2100-100=<br>2*100*10+0=<br>2*100*10-0=<br>2*10*0100=<br>2*-100*-10+0=<br></pre>
+<p>
+Professor Bartjens does remember a few things about how he wrote the
+problems:<br>
+</p>
+<ul>
+  <li>He is sure that whenever he wrote down a number (other than 0),
+it
+would not start with a zero. So
+2*10*0100= could not have been one of his problems.</li>
+  <li>He also knows he never wrote the number zero as anything but 0.
+So he
+would not have a problem like
+2*1000+000=.</li>
+  <li>He used only binary operators, not the unary minus or plus, so
+2*-100*-10+0= was not an option either.</li>
+  <li>He used the operators +, - and * only, avoiding the operator /
+(after
+all, they were first year students).</li>
+  <li>He knew all problems followed the usual precedence and
+associativity
+rules.</li>
+</ul>
+You are to help Professor Bartjens recover his problem set by
+writing a
+program that when given a row of digits,
+insert one or more of the operators +, - and * in such a way that the
+value of the resulting expression equals 2000.
+<h2><font color="#0070e8"><a name="SECTION0001001000000000000000">Input</a>&nbsp;</font>
+</h2>
+<p>
+The input consists of one or more test cases. Each test case is a
+single line containing n digits ('0'&#8211;'9'), 1 &#8804;n &#8804;9,
+followed by an equal sign. There will not be any blanks embedded in the
+input, but there may be some after the
+equal sign.</p>
+<p>
+The last test case is followed by a line containing only the equal
+sign. This line should not be processed.
+</p>
+<h2><font color="#0070e8"><a name="SECTION0001004000000000000000">
+Output</a>&nbsp;</font>
+</h2>
+<p>
+For each test case, print the word Problem, then the number of the
+case, then all possible ways of inserting
+operators in the row of digits such that the resulting expression has
+the value 2000, subject to Professor Bartjens&#8217;
+memory of how he wrote the problems. Use the format shown below. If
+there is more than one possible problem,
+write the problems in lexicographic order. Each possible problem
+should be on a new line, indented 2 spaces. If there is no solution the
+answer IMPOSSIBLE should be printed,
+indented 2 spaces.</p>
+<br>
+<table border="1" rules="all" cellpadding="9" cellspacing="0">
+  <tbody>
+    <tr>
+      <th><font face="arial" size="4"><b>Sample Input</b></font></th>
+      <th><font face="arial" size="4"><b>Output for the Sample Input</b></font></th>
+    </tr>
+    <tr>
+      <td valign="top">
+      <pre>2100100=<br>77=<br>=<br></pre>
+      </td>
+      <td valign="top">
+      <pre>Problem 1<br>  2*100*10+0=<br>  2*100*10-0=<br>  2100-100=<br>Problem 2<br>  IMPOSSIBLE<br></pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<hr>ACM World Finals 2000, Problem B
+<p align="center">Willem Bartjens (1569-1638) was the author of
+Cijferinge, a much used Dutch textbook on arithmetic. The phrase
+"...according to Bartjens" (uttered following a calculation) made his
+name
+immortal.</p>
+</body>
+</html>

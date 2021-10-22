@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>
+A - Newspaper
+</title>
+</head>
+<body>
+<p><h1><center>A - Newspaper</center></h1></p>
+	
+<p><b>Time Limit: 1 sec <br>
+Memory Limit: 16MB</b></p>
+		
+<p>News agency pays money for articles according to some rules. Each character
+has its own value (some characters may have value equals to zero). Author
+gets his payment as a sum of all character's values in the article. You have
+to determine the amount of money that news agency must pay to an author.</p>
+	
+<p><h4>INPUT:</h4>
+The first line contains integer N (0 &#60 N &#60= 5), it is a number of tests.
+Each test describes an integer K (0 &#60 K &#60= 100), the number of paid characters.
+On next K lines there are table of paid characters and its values (character
+values are written in cents). If character can not be found in the table,
+then its value is equal to zero. Next, there is integer M (0 &#60 M &#60= 150000).
+Next M lines contain an article itself. Each line can be up to 10000 characters
+length. Be aware of a large input size, the whole input file is about 7MB.</p>
+    
+<p><h4>OUTPUT:</h4>
+For each test print how much money publisher must pay for an article in format
+"<code>x.yy$</code>". Where "<code>x</code>" is a number of dollars without leading zeros, and "<code>yy</code>"
+number of cents with one leading zero if necessary. Examples: "<code>3.32$</code>",
+"<code>13.07$</code>", "<code>71.30$</code>", "<code>0.09$</code>".</p>
+	
+<p><h4>SAMPLE INPUT:</b></h4>
+<code><pre>
+1
+7
+a 3
+W 10
+A 100
+, 10
+k 7
+. 3
+I 13
+7
+ACM International Collegiate Programming Contest (abbreviated
+as ACM-ICPC or just ICPC) is an annual multi-tiered competition
+among the universities of the world. The ICPC challenges students
+to set ever higher standards of excellence for themselves
+through competition that rewards team work, problem analysis,
+and rapid software development.
+From Wikipedia.
+</pre></code>
+	
+<p><h4>SAMPLE OUTPUT:</h4></p>
+<code><pre>
+3.74$
+</code></pre>
+
+<hr>
+
+<p><i>Problem setters: Aleksej Viktorchik, Leonid Shishlo. <br>
+Huge Easy Contest #1</i></p>
+
+</body>
+</html>

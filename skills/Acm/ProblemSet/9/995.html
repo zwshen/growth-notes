@@ -1,0 +1,111 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Super Divisible Numbers</TITLE>
+<META NAME="description" CONTENT="Super Divisible Numbers">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Super Divisible Numbers</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A positive integer <SPAN CLASS="MATH"><I>N</I></SPAN>
+<tex2html_verbatim_mark> is a super divisible number in the base <SPAN CLASS="MATH"><I>B</I></SPAN>
+<tex2html_verbatim_mark> if and only if the number formed by the <SPAN CLASS="MATH"><I>k</I></SPAN>
+<tex2html_verbatim_mark> most significant base-<SPAN CLASS="MATH"><I>B</I></SPAN>
+<tex2html_verbatim_mark> digits of <SPAN CLASS="MATH"><I>N</I></SPAN>
+<tex2html_verbatim_mark> is divisible by <SPAN CLASS="MATH"><I>k</I></SPAN>
+<tex2html_verbatim_mark>, for all <SPAN CLASS="MATH"><I>k</I></SPAN>
+<tex2html_verbatim_mark> between 1 and the number of base-<SPAN CLASS="MATH"><I>B</I></SPAN>
+<tex2html_verbatim_mark> digits of <SPAN CLASS="MATH"><I>N</I></SPAN>
+<tex2html_verbatim_mark>. (By definition, the most significant digit of <SPAN CLASS="MATH"><I>N</I></SPAN>
+<tex2html_verbatim_mark> can not be 0.) 
+
+<P>
+For example, <!-- MATH
+ $2220301_{4}$
+ -->
+<SPAN CLASS="MATH">2220301<SUB>4</SUB></SPAN>
+<tex2html_verbatim_mark> is a base-4 super divisible number because <SPAN CLASS="MATH">2<SUB>4</SUB></SPAN>
+<tex2html_verbatim_mark> is divisible by 1, <SPAN CLASS="MATH">22<SUB>4</SUB></SPAN>
+<tex2html_verbatim_mark> is divisible by 2, <SPAN CLASS="MATH">222<SUB>4</SUB></SPAN>
+<tex2html_verbatim_mark> is divisible by 3, <SPAN CLASS="MATH">2220<SUB>4</SUB></SPAN>
+<tex2html_verbatim_mark> is divisible by 4, <SPAN CLASS="MATH">22203<SUB>4</SUB></SPAN>
+<tex2html_verbatim_mark> is divisible by 5, <!-- MATH
+ $222030_{4}$
+ -->
+<SPAN CLASS="MATH">222030<SUB>4</SUB></SPAN>
+<tex2html_verbatim_mark> is divisible by 6, and <!-- MATH
+ $2220301_{4}$
+ -->
+<SPAN CLASS="MATH">2220301<SUB>4</SUB></SPAN>
+<tex2html_verbatim_mark> is divisible by 7.
+
+<P>
+Find the largest super divisible number of a given base which uses only digits from a given list of digits.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains several test cases. For each of them, the program input is a single line containing the base and the list of valid digits. The base will always be an integer between 4 and 10. The list of valid digits will have a length of at most 10, and may contain repeated digits (the repetitions should be ignored).
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each test case, the program output is a single line containing the largest super divisible number of the given base which uses only the digits given on the input. It is known that the largest super divisible number will not have more than 50 digits.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+4 0123
+10 010011
+</PRE>  
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2> 
+
+<P>
+<PRE>
+2220301
+10
+</PRE>  
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

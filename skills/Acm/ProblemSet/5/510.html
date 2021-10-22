@@ -1,0 +1,235 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Optimal Routing</TITLE>
+<META NAME="description" CONTENT="Optimal Routing">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Optimal Routing</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Acme Courier Message, Inc. (ACM) is planning to add a service for delivery of
+documents and small parcels. ACM
+will group parcels and documents in bags, which will be transported by car
+among different stations for intermediate
+handling and routing prior to final delivery. ACM is in the initial stages of
+determining the workload requirements for transporting bags among stations.
+
+<P>
+
+<P>
+<BR>
+When a driver delivers a bag, she will (if possible) locate and pick up
+another bag for delivery to another station,
+continuing in this manner until there are no more deliverable bags. A
+deliverable bag is one that can be picked up
+and delivered to its destination by a driver prior to the end of her workday.
+The total time for a driver's workday
+begins with the time of pickup of her first bag and includes the time she
+spends delivering bags, the time in transit,
+and the time waiting at stations for deliverable bags. ACM would like its
+drivers to spend the maximum amount of
+time possible delivering the bags between stations within a normal workday.
+In addition, ACM wants drivers' final
+destinations to be the same as the stations where they started whenever
+possible.
+
+<P>
+
+<P>
+<BR>
+You must write a program to determine optimal driver routes for several ACM
+scenarios. Each scenario describes
+bags and stations for a single workday. In this simple version, routes for
+all drivers will originate from the same
+station, which we call station A. Optimal routes are subject to the following
+restrictions.
+
+<P>
+<DL COMPACT>
+<DT>1.
+<DD>A driver's normal workday will not exceed 10 hours.
+<DT>2.
+<DD>Drivers will travel from one station to another with one bag, if one is available for pickup. If there are no
+deliverable bags at a station, the driver will proceed to another station that has a scheduled deliverable bag to
+continue her route.
+<DT>3.
+<DD>If several different routes with a final destination of station A are possible, the one requiring the longest
+cumulative delivery time is optimal. If there are more than one with the longest cumulative delivery time, the
+one with the shortest total workday time is optimal.
+<DT>4.
+<DD>Whenever possible, the final destination of a driver is station A. However, if it is impossible to schedule a final
+destination of station A, then the route requiring the longest cumulative delivery time is optimal. If there are
+more than one with the longest cumulative delivery time, the one with the shortest total workday time is
+optimal.
+<DT>5.
+<DD>Every bag that originates from station A will be delivered. (Some bags originating at other stations will not
+necessarily be delivered.) No bag will be delivered more than once.
+</DL>
+
+<P>
+The optimal route for the driver who picks up the first available deliverable
+bag at station A is completely
+determined before any consideration of subsequent drivers. The optimal route of
+the second driver, who picks up the
+next available deliverable bag at station A that has not already been
+scheduled for delivery by the first driver, is
+completely determined next. The optimal route determination continues in this
+manner until all the bags that can be
+delivered have been scheduled for delivery. Undeliverable bags will be identified
+and reported. Throughout the entire
+process, each driver will be routed according to the bags not already
+scheduled earlier for delivery. In all scenarios the
+time to travel from station A to any other station is 10 hours or less.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Input for each scenario comes in two parts: a list of the bags and a table
+of times required to drive between stations.
+The first line in each scenario consists of an integer <I>n</I> representing the
+number of bags to be delivered. The next <I>n</I>
+lines describe each bag in the following format:
+
+<P>
+
+<P>
+<BR>
+
+<EM>id origin destination time</EM>
+
+<P>
+
+<P>
+<BR>
+where <EM>id</EM> is the bag identification number (integer), <EM>origin</EM> and <EM>destination</EM>
+are the station labels for the bag's origin
+and destination (uppercase letters), and <EM>time</EM> is when the bag is available
+for transport. The format for <EM>time</EM> is <EM>hhmm</EM>,
+where <EM>hh</EM> and <EM>mm</EM> are integers representing time on a 24-hour clock varying from 0001 to 2400. Data on a line are
+separated by single blanks. Each station is labeled with a unique uppercase
+letter. Bags may appear in any time order
+in the list. The end of input is signified by a scenario for which the number
+of bags is 0.
+
+<P>
+Input data for the table of driving times consist of lines of the form:
+
+<P>
+
+<P>
+<BR>
+
+<EM>station1 station2 time</EM>
+
+<P>
+
+<P>
+<BR>
+where <EM>station1</EM> and <EM>station2</EM> are uppercase letters and <EM>time</EM> is as described earlier. Transit times between stations are
+listed for all stations which are included in the list of bags. Transit
+times are bidirectional. Different scenarios are completely unrelated.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Output for each scenario begins by identifying the scenario by number
+(<TT>Scenario 1</TT>, <TT>Scenario 2</TT>, etc.). Following that
+is a listing of each driver's optimal route. Each route begins with the
+number of the driver (<TT>Driver 1</TT>, <TT>Driver 2</TT>, etc.)
+and then a summary of the driver's route including all transits between
+stations in the order in which the stations
+were visited. For transits which deliver a bag, display the bag identification
+number and its origin and destination
+stations. For transits which do not deliver a bag, display the origin and
+destinations stations.
+
+<P>
+Output for each driver is
+summarized by the total delivery time and the total workday time in the form
+<EM>hhmm</EM>, following the time format
+specified in the input of time values. If two different routes for a driver
+are optimal, then output may show either
+one. The final section of output for a scenario will include a listing of all
+undeliverable bags or a statement
+indicating successful delivery of all bags. 
+
+<P>
+
+<P>
+<BR>
+Each section of a scenario and
+each scenario should be separated by a blank line.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+7
+1 A B 0800
+3 A C 0850
+2 B C 0700
+6 B D 1250
+5 B C 1400
+7 C A 1600
+8 D C 1130
+A B 0400
+A C 0135
+A D 0320
+B C 0345
+B D 0120
+C D 0200
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Scenario 1
+
+Driver 1
+  Bag #1 from station A to station B
+  Bag #2 from station B to station C
+  Bag #7 from station C to station A
+  Total delivery time: 0920
+  Total workday time: 0935
+
+Driver 2
+  Bag #3 from station A to station C
+   --&gt;Transit without delivery from station C to station B
+  Bag #5 from station B to station C
+  Total delivery time: 0520
+  Total workday time: 0905
+
+Undelivered Bags:
+  Bag #8 remains at station D
+  Bag #6 remains at station B
+</PRE>
+
+<P>
+
+<P>
+</BODY>
+</HTML>

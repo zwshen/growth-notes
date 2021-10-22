@@ -1,0 +1,68 @@
+<img align=right src=p10554.gif>
+<h2>Problem A:  Calories from Fat</h2>
+Fat contains about 9 Calories/g of food energy.  Protein, sugar, and starch
+contain about 4 Calories/g, while alcohol contains about 7 Calories/g.  
+Although many people consume more than 50% of their total Calories
+as fat, most dieticians recommend that this proportion should be 30%
+or less.  For example, in the <i>Nutrition Facts</i> label to the
+right, we see that 3g of fat is 5% of the recommended daily intake
+based on a 2,000 calorie diet.  A quick calculation reveals that
+the recommended daily intake of fat is therefore 60g; that is,
+540 Calories or 27% Calories from fat.
+<p>
+Others recommend radically different amounts of fat.  Dean Ornish,
+for example, suggests that less than 10% of total caloric intake should
+be fat.  On the other hand, Robert Atkins recommends the elimination
+of all carbohydrate with no restriction on fat.  It has been estimated
+that the average Atkins dieter consumes 61% of Calories from fat.
+<p>
+From a record of food eaten in one day, you are to compute the percent 
+Calories from fat.  The record consists of one line of input per food item,
+giving the quantity of fat, protein, sugar, starch and alcohol in each.
+Each quantity is an integer followed by a unit, which 
+will be one of: g (grams), C (Calories), or
+% (percent Calories).  Percentages will be between 0 and 99.  
+At least one of the ingredients will be given as a non-zero quantity of
+grams or Calories (not percent Calories). 
+<p>
+Input will consist of several test cases.  Each test case will have
+one or more lines as described above.  Each test case will be terminated
+by a line containing '-'.  An additional line containing '-' will follow
+the last test case.
+<p>
+For each test case, print percent Calories from fat, rounded to the 
+nearest integer.
+<!--
+<p>
+--
+<br>
+* <i>When we say Calories, we mean kilo-calories.  A calorie (as opposed to
+a Calorie) is defined as the energy required to heat 1g of water 1 degree C.
+If fat really had 9 calories/g, then ice cream would be a wonderful weight-loss
+diet.  Assuming ice cream were pure fat, 1kg of ice cream would contain
+9000 calories.   But if the ice cream were eaten at a temperature of
+0C and warmed to body temperature of 37C, about 37,000 calories would
+be consumed, resulting in a net loss of 28,000 calories or 3 kg of body
+fat.</i>
+<br>
+--
+-->
+<h3>Sample Input</h3>
+<pre>
+3g 10g 10% 0g 0g
+55% 100C 0% 0g 30g
+-
+25g 0g 0g 0g 0g
+-
+1g 15% 20% 30% 1C
+-
+-
+</pre>
+<h3>Output for Sample Input</h3>
+<pre>
+53%
+100%
+32%
+</pre>
+<hr>
+<i>G. V. Cormack</i>

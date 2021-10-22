@@ -1,0 +1,260 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>All Walks of length n from the first node</TITLE>
+<META NAME="description" CONTENT="All Walks of length n from the first node">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+All Walks of length <I>n</I> from the first node</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A computer network can be represented as a graph. Let G = (V, E) be an
+undirected graph, V = 
+<!-- MATH: $(v_1 , v_2 , v_3 , \dots, v_m)$ -->
+<IMG
+ WIDTH="142" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="677img1.gif"
+ ALT="$(v_1 , v_2 , v_3 , \dots, v_m)$">
+represents all nodes,
+where <I>m</I> is the number of nodes, and E represents all edges. The first 
+node is <I>v</I><SUB>1</SUB> and the last node is <I>v</I><SUB><I>m</I></SUB> . The number of edges is <I>k</I>. Define
+the adjacency matrix 
+<!-- MATH: $A =(a_{ij})_{m \times m}$ -->
+<IMG
+ WIDTH="110" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="677img2.gif"
+ ALT="$A =(a_{ij})_{m \times m}$">
+where
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+a_{ij}=1 \qquad \mbox{if } \{v_i,v_j\} \in \mbox{E, otherwise}
+\qquad a_{ij}=0
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="360" HEIGHT="32"
+ SRC="677img3.gif"
+ ALT="\begin{displaymath}a_{ij}=1 \qquad \mbox{if } \{v_i,v_j\} \in \mbox{E, otherwise}
+\qquad a_{ij}=0 \end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+An example of the adjacency matrix and its corresponding graph are as
+follows:
+
+<P>
+
+<IMG
+ WIDTH="282" HEIGHT="126" ALIGN="MIDDLE" BORDER="0"
+ SRC="677img4.gif"
+ ALT="$\textstyle \parbox{.5\textwidth}{
+\begin{displaymath}
+\left [
+\begin{array}{ccc...
+...
+1 & 0 & 1 & 0 & 1 \\
+0 & 0 & 1 & 1 & 0
+\end{array}\right ]
+\end{displaymath}}$">
+<IMG
+ WIDTH="277" HEIGHT="169" ALIGN="MIDDLE" BORDER="0"
+ SRC="p677.gif"
+ ALT="$\textstyle \parbox{.49\textwidth}{
+\begin{center}
+\mbox{}
+\epsfxsize 1in
+\epsfbox{p677.eps}
+\end{center}}$">
+
+<P>
+
+<P>
+<BR>
+Calculate
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+A^n = \underbrace{A \cdot A \cdots A}_n
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="124" HEIGHT="49"
+ SRC="677img6.gif"
+ ALT="\begin{displaymath}A^n = \underbrace{A \cdot A \cdots A}_n
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+and use the Boolean operations where 
+<!-- MATH: $0+0 = 0, 0+1=1+0=1, 1+1=1$ -->
+0+0 = 0, 0+1=1+0=1, 1+1=1, and
+
+<!-- MATH: $0 \cdot 0=0 \cdot 1=1 \cdot 0=0, 1 \cdot 1=1$ -->
+<IMG
+ WIDTH="243" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="677img7.gif"
+ ALT="$0 \cdot 0=0 \cdot 1=1 \cdot 0=0, 1 \cdot 1=1$">.
+The entry in row <I>i</I> and 
+column <I>j</I> of <I>A</I><SUB><I>n</I></SUB> is 1 if and only if at least there exists a walk of 
+length <I>n</I> between the <I>i</I>-th and <I>j</I>-th nodes of V. In other words, the
+distinct walks of length <I>n</I> between the <I>i</I>-th and <I>j</I>-th nodes of V may be
+more than one. Note that the node in the paths can be repetitive.
+
+<P>
+
+<P>
+<BR>
+The following example shows the walks of length 2.
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+A^2 = A \cdot A =
+\left [
+\begin{array}{ccccc}
+0 & 1 & 0 & 1 & 0 \\
+1 & 0 & 1 & 0 & 0 \\
+0 & 1 & 0 & 1 & 1 \\
+1 & 0 & 1 & 0 & 1 \\
+0 & 0 & 1 & 1 & 0
+\end{array}
+\right ]
+\cdot
+\left [
+\begin{array}{ccccc}
+0 & 1 & 0 & 1 & 0 \\
+1 & 0 & 1 & 0 & 0 \\
+0 & 1 & 0 & 1 & 1 \\
+1 & 0 & 1 & 0 & 1 \\
+0 & 0 & 1 & 1 & 0
+\end{array}
+\right ]
+=
+\left [
+\begin{array}{ccccc}
+1 & 0 & 1 & 0 & 1 \\
+0 & 1 & 0 & 1 & 1 \\
+1 & 0 & 1 & 1 & 1 \\
+0 & 1 & 1 & 1 & 1 \\
+1 & 1 & 1 & 1 & 1
+\end{array}
+\right ]
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="555" HEIGHT="115"
+ SRC="677img8.gif"
+ ALT="\begin{displaymath}A^2 = A \cdot A =
+\left [
+\begin{array}{ccccc}
+0 & 1 & 0 & 1 ...
+...\
+0 & 1 & 1 & 1 & 1 \\
+1 & 1 & 1 & 1 & 1
+\end{array}\right ]
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+
+<P>
+<BR>
+Write programs to do above calculation and print out all distinct walks of
+length <I>n</I>. (In this problem we let the maximum walks of length <I>n</I> be 5 and
+the maximum number of nodes be 10.)
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains a number of test examples, the test examples
+are separated by <TT>-9999</TT>. Each test example consists of the number of
+nodes and the length of walks in the first row, and then the adjacency
+matrix.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The output file must contain all distinct walks of the length <I>n</I>, and with
+all its nodes different, from the first node, listed in lexicographical order.
+In case there are not walks of length <I>n</I>, just print `<TT>no walk of length
+</TT><I>n</I>'
+
+<P>
+Separate the output of the  different cases by a blank line. 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+5 2
+0 1 0 1 0
+1 0 1 0 0
+0 1 0 1 1
+1 0 1 0 1
+0 0 1 1 0
+-9999
+5 3
+0 1 0 1 0
+1 0 1 0 0
+0 1 0 1 1
+1 0 1 0 1
+0 0 1 1 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+(1,2,3)
+(1,4,3)
+(1,4,5)
+
+(1,2,3,4)
+(1,2,3,5)
+(1,4,3,2)
+(1,4,3,5)
+(1,4,5,3)
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-14</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

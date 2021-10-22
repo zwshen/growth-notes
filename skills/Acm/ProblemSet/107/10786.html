@@ -1,0 +1,165 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Qualify for the Champions League</TITLE>
+<META NAME="description" CONTENT="Qualify for the Champions League">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Qualify for the Champions League</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<DIV ALIGN="CENTER">
+
+<!-- MATH
+ $\epsfbox{p10786a.eps}$
+ -->
+<IMG
+ WIDTH="479" HEIGHT="287" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10786a.jpg"
+ ALT="\epsfbox{p10786a.eps}">
+</DIV>
+UEFA Champions League is considered as the worlds greatest football club
+competition. The top teams from the best leagues of Europe win the right to
+participate in this contest. The number of teams that will participate in the
+Champions League is decided by the UEFA coefficient ranking system. This system
+takes individual club performances in Europe and performance of all the clubs
+of a country into account. So the number of clubs participating in the
+Champions league is not necessarily proportional to the number of teams
+competing in the domestic league.
+
+<DIV ALIGN="CENTER">
+
+<!-- MATH
+ $\epsfbox{p10786b.eps}$
+ -->
+<IMG
+ WIDTH="562" HEIGHT="524" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10786b.jpg"
+ ALT="\epsfbox{p10786b.eps}">
+</DIV>
+The table to the left shows the standings of the group stages of Champions League
+after 4 games have been played. As we can see, there are 4 teams from the
+English Premier League (Liverpool, Manchester United, Arsenal and Chelsea), 4
+teams from Spanish Primera Liga (Deportivo, Real Madrid, Barcelona and
+Valencia), 4 teams from Italian Serie A (Roma, Juventus, Inter and Milan) but
+only 3 teams from German Bundes Liga (Leverkusen, Bayern, Bremen). Now the
+numbers of teams that play in those domestic leagues are not equal (20 in
+Premier League, 18 in Serie A), nor do they have a uniform ranking rule. For
+example in Primera Liga if two teams are tied in points then the goal
+difference comes as a deciding factor. But for the Champions League itself, a
+tie in points is broken by the number of goals scored. What has remained to be
+uniform in the league rules is that a win would earn 3 points for a team, a
+draw would earn 1 and a loss would earn nothing. It is also a tradition to have
+the teams play each other twice on a home and away basis. But at times it may
+be required to have the league played in half a season, when theyd play with
+each other only once.
+
+Now keeping all these anomalies in mind, we are interested
+to find the minimum point that a team can score and be lucky enough to qualify.
+You would be given the number of teams - <SPAN CLASS="MATH"><I>T</I></SPAN>, the number of times they would play
+each other - <SPAN CLASS="MATH"><I>V</I></SPAN>, and the number of teams that can qualify - <SPAN CLASS="MATH"><I>Q</I></SPAN>. To avoid the
+differences in the tie-breaking rules we would like to see our qualifying teams
+get at least one point more than the ones that are left out. For example, in a
+league that has only 4 teams who play each other twice if we are to choose 2
+qualifiers, we would say that the 2nd team would require at least 5 points to
+qualify. This 5-point difference is the minimum bar that a team should reach if
+they are to have any hope of moving on.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+There can be multiple test cases. The first line of input gives
+you the number of test cases, <SPAN CLASS="MATH"><I>T</I></SPAN> (<!-- MATH
+ $1 \le T \le 100$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10786img3.png"
+ ALT="$ \le$"><I>T</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10786img3.png"
+ ALT="$ \le$">100</SPAN>). Each of the next <SPAN CLASS="MATH"><I>T</I></SPAN> lines would give you the input
+for each of the test cases. <SPAN CLASS="MATH"><I>N</I></SPAN> (<!-- MATH
+ $1 < N \le 20$
+ -->
+<SPAN CLASS="MATH">1 &lt; <I>N</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10786img3.png"
+ ALT="$ \le$">20</SPAN>), <SPAN CLASS="MATH"><I>V</I></SPAN> (<!-- MATH
+ $1 \le V \le 4$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10786img3.png"
+ ALT="$ \le$"><I>V</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10786img3.png"
+ ALT="$ \le$">4</SPAN>) and <SPAN CLASS="MATH"><I>Q</I></SPAN> (<!-- MATH
+ $1 \le Q \le N$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10786img3.png"
+ ALT="$ \le$"><I>Q</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10786img3.png"
+ ALT="$ \le$"><I>N</I></SPAN>)
+are the three integers comprising one test case.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+For each of the test case, you need to print one line of output.
+The output for each test case should start with the serial number of the
+league, followed by the minimum possible point for a qualifying team.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<PRE>
+3
+2 2 1
+3 3 3
+4 3 2
+</PRE>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<PRE>
+League 1: 4
+League 2: 0
+League 3: 7
+</PRE>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Miguel Revilla
+2004-12-02
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

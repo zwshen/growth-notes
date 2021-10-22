@@ -1,0 +1,223 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Morse Mismatches</TITLE>
+<META NAME="description" CONTENT="Morse Mismatches">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Morse Mismatches</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Samuel F. B. Morse is best known for the coding scheme that carries his name.
+Morse code is still used in
+international radio communication. The coding of text using Morse code is
+straightforward. Each character (case is
+insignificant) is translated to a predefined sequence of <EM>dits</EM> and <EM>dahs</EM> (the elements of Morse code). Dits are represented
+as periods (``.'') and dahs are represented as hyphens or minus signs (``-'').
+Each element is transmitted by sending a
+signal for some period of time. A dit is rather short, and a dah is, in
+perfectly formed code, three times as long as a
+dit. A short silent space appears between elements, with a longer space
+between characters. A still longer space
+separates words. This dependence on the spacing and timing of elements
+means that Morse code operators sometimes
+do not send perfect code. This results in difficulties for the receiving
+operator, but frequently the message can be decoded depending on context.
+
+<P>
+
+<P>
+<BR>
+In this problem we consider reception of words in Morse code without spacing
+between letters. Without the spacing,
+it is possible for multiple words to be coded the same. For example, if the
+message ``dit dit dit'' were received, it
+could be interpreted as ``EEE'', ``EI'', ``IE'' or ``S'' based on the coding
+scheme shown in the sample input. To decide
+between these multiple interpretations, we assume a particular context by
+expecting each received word to appear in a dictionary.
+
+<P>
+
+<P>
+<BR>
+For this problem your program will read a table giving the encoding of letters
+and digits into Morse code, a list of
+expected words (<EM>context</EM>), and a sequence of words encoded in Morse code
+(<EM>morse</EM>). These morse words may be flawed.
+For each <EM>morse</EM> word, your program is to determine the matching word from
+<EM>context</EM>, if any. If multiple words from
+<EM>context</EM> match <EM>morse</EM>, or if no word matches perfectly, your program will display the best matching word and a mismatch indicator.
+
+<P>
+
+<P>
+<BR>
+If a single word from <EM>context</EM> matches <EM>morse</EM> perfectly, it will be displayed on a single line, by itself.
+
+<!--If multiple
+<EM>context</EM> words match <EM>morse</EM> perfectly, then select the matching word with the fewest characters. If this still results in
+an ambiguous match, any of these matches may be displayed. -->If multiple <EM>context</EM> words exist for a given <EM>morse</EM>, the first
+matching word will be displayed followed by an exclamation point (``!'').
+
+<P>
+
+<P>
+<BR>
+We assume only a simple case of errors in transmission in which elements may
+be either truncated from the end of a
+<EM>morse</EM> word or added to the end of a <EM>morse</EM> word. When no perfect matches for <EM>morse</EM> are found, display the word from
+<EM>context</EM> that matches the longest prefix of <EM>morse</EM>, or has the fewest extra elements beyond those in <EM>morse</EM>. If multiple
+words in <EM>context</EM> match using these rules, any of these matches may be displayed. Words that do not match perfectly
+are displayed with a question mark (``?'') suffixed.
+
+<P>
+
+<P>
+<BR>
+The input data will only contain cases that fall within the preceding rules.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The Morse code table will appear first and consists of lines each containing
+an uppercase letter or a digit C, zero or
+more blanks, and a sequence of no more than six periods and hyphens giving
+the Morse code for C. Blanks may
+precede or follow the items on the line. A line containing a single
+asterisk (``*''), possibly preceded or followed by
+blanks, terminates the Morse code table. You may assume that there will be
+Morse code given for every character that appears in the <EM>context</EM> section.
+
+<P>
+
+<P>
+<BR>
+The <EM>context</EM> section appears next, with one word per line, possibly preceded and followed by blanks. Each word in
+<EM>context</EM> will contain no more than ten characters. No characters other than
+upper case letters and digits will appear.
+Thered will be at most 100 <EM>context</EM> words. A line containing only a single
+asterisk (``*''), possibly preceded or
+followed by blanks, terminates the <EM>context</EM> section.
+
+<P>
+
+<P>
+<BR>
+The remainder of the input contains morse words separated by blanks or
+end-of-line characters. A line containing
+only a single asterisk (``*''), possibly preceded or followed by blanks,
+terminates the input. No <EM>morse</EM> word will have
+more than eighty (80) elements.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each input <EM>morse</EM> word, display the appropriate matching word from <EM>context</EM> followed by an exclamation mark
+(``!'') or question mark (``?'') if appropriate. Each word is to appear on
+a separate line starting in column one.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+A       .-
+B       -...
+C       -.-.
+D       -..
+E       .
+F       ..-.
+G       --.
+H       ....
+I       ..
+J       .---
+K       -.-
+L       .-..
+M       --
+N       -.
+O       ---
+P       .--.
+Q       --.-
+R       .-.
+S       ...
+T       -
+U       ..-
+V       ...-
+W       .--
+X       -..-
+Y       -.--
+Z       --..
+0       ------
+1       .-----
+2       ..---
+3       ...--
+4       ....-
+5       .....
+6       -....
+7       --...
+8       ---..
+9       ----.
+*
+AN
+EARTHQUAKE
+EAT
+GOD
+HATH
+IM
+READY
+TO
+WHAT
+WROTH
+*
+.--.....--   .....--....
+--.----..   .--.-.----..
+.--.....--   .--.
+..-.-.-....--.-..-.--.-.
+..--   .-...--..-.--
+----        ..--
+*
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+WHAT
+HATH
+GOD
+WROTH?
+WHAT
+AN
+EARTHQUAKE
+EAT!
+READY
+TO
+EAT!
+</PRE>
+
+<P>
+
+<P>
+</BODY>
+</HTML>

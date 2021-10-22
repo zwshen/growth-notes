@@ -1,0 +1,72 @@
+<HTML>
+
+<HEAD>
+<TITLE>Airport Express - Contest of Newbies 2007</TITLE>
+<META content=document name=resource-type>
+<META content=global name=distribution>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META content="MSHTML 6.00.2800.1106" name=GENERATOR>
+<META http-equiv=Content-Style-Type content=text/css>
+</HEAD>
+
+<BODY>
+<TABLE WIDTH=100% BORDER=0 CELLPADDING=4 CELLSPACING=3 STYLE="page-break-inside: avoid">
+	<COL WIDTH=256*>
+	<COL WIDTH=256*>
+	<THEAD>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=100% BGCOLOR="#5000BF">
+				<P><FONT COLOR="#ffffff"><FONT FACE="Arial Black" SIZE=6>Problem
+				D: Airport Express</FONT></P>
+			</TD>
+		</TR>
+	</THEAD>
+</TABLE>
+
+<P><img src="p11374.jpg" align=right>
+
+<P>In a small city called Iokh, a train service, <b>Airport-Express</b>, takes residents to the airport more quickly than other transports. There are two types of trains in Airport-Express, the <b>Economy-Xpress</b> and the <b>Commercial-Xpress</b>. They travel at different speeds, take different routes and have different costs. 
+
+<P>Jason is going to the airport to meet his friend. He wants to take the Commercial-Xpress which is supposed to be faster, but he doesn't have enough money. Luckily he has a ticket for the Commercial-Xpress which can take him one station forward. If he used the ticket wisely, he might end up saving a lot of time. However, choosing the best time to use the ticket is not easy for him. 
+
+<P>Jason now seeks your help. The routes of the two types of trains are given. Please write a program to find the best route to the destination. The program should also tell when the ticket should be used. 
+
+<P><H2><A name=SECTION00001000000000000000><FONT color=#5000BF>Input</FONT></A></H2>
+
+<P>The input consists of several test cases. Consecutive cases are separated by a blank line.
+
+<P>The first line of each case contains 3 integers, namely <b><i>N</i></b>, <b><i>S</i></b> and <b><i>E</i></b> (2 &le; <b><i>N</i></b> &le; 500, 1 &le; <b><i>S</i></b>, <b><i>E</i></b> &le; <b><i>N</i></b>), which represent the number of stations, the starting point and where the airport is located respectively. 
+
+<P>There is an integer <b><i>M</i></b> (1 &le; <b><i>M</i></b> &le; 1000) representing the number of connections between the stations of the Economy-Xpress. The next <b><i>M</i></b> lines give the information of the routes of the Economy-Xpress. Each consists of three integers <b><i>X</i></b>, <b><i>Y</i></b> and <b><i>Z</i></b> (<b><i>X</i></b>, <b><i>Y</i></b> &le; <b><i>N</i></b>, 1 &le; <b><i>Z</i></b> &le; 100). This means <b><i>X</i></b> and <b><i>Y</i></b> are connected and it takes <b><i>Z</i></b> minutes to travel between these two stations. 
+
+<P>The next line is another integer <b><i>K</i></b> (1 &le; <b><i>K</i></b> &le; 1000) representing the number of connections between the stations of the Commercial-Xpress. The next <b><i>K</i></b> lines contain the information of the Commercial-Xpress in the same format as that of the Economy-Xpress. 
+
+<P>All connections are bi-directional. You may assume that there is exactly one optimal route to the airport. There might be cases where you MUST use your ticket in order to reach the airport. 
+
+<P><H2><A name=SECTION00002000000000000000><FONT color=#5000BF>Output</FONT></A></H2>
+
+<P>For each case, you should first list the number of stations which Jason would visit in order. On the next line, output "<b>Ticket
+Not Used</b>" if you decided NOT to use the ticket; otherwise, state the station where Jason should get on the train of Commercial-Xpress. Finally, print the
+total time for the journey on the last line. Consecutive sets of output must be separated by a blank line.
+
+<P><H2><A name=SECTION00003000000000000000><FONT color=#5000BF>Sample Input</FONT></A></H2>
+
+<PRE>4 1 4
+4
+1 2 2
+1 3 3
+2 4 4
+3 4 5
+1
+2 4 3
+</PRE>
+
+<P><H2><A name=SECTION00004000000000000000><FONT color=#5000BF>Sample Output</FONT></A></H2>
+
+<PRE>1 2 4
+2
+5
+</PRE>
+
+<P><HR><ADDRESS><I>Problemsetter: Raymond Chun</I><BR><I>Originally appeared in CXPC, Feb. 2004</I></ADDRESS></BODY>
+</HTML>

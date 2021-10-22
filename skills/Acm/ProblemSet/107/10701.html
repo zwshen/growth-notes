@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+  <title>Pre, in and post</title>
+</head>
+<body>
+<h1 align="center">Problem F - Pre, in and post<br>
+</h1>
+<h3 align="center">Time Limit: 1 second</h3>
+<div>
+</div>
+<p>
+</p>
+<p>A common problem in data structures is to determine the traversal of
+a binary tree. There are three classic ways to do it:</p>
+<p><span style="font-weight: bold;">Pre-order: </span><span
+ style="font-weight: bold;"></span>You must visit in
+sequence the root, left subtree and the right subtree.<br>
+<span style="font-weight: bold;">In-order: </span>You must visit
+in sequence the left subtree, the root and the right subtree.<br>
+<span style="font-weight: bold;">Post-order: </span>You must visit in
+sequence the left subtree, the right subtree and the root.<br>
+</p>
+<p>See the picture below:</p>
+<p style="text-align: center;"><img style="width: 174px; height: 135px;"
+ alt="graph.png" src="p10701.png"><br>
+</p>
+<p>The pre, in and post-order traversal are, respectively,&nbsp;
+ABCDEF, CBAEDF and CBEFDA. In this problem, you must compute the post-order
+traversal of a binary tree given its in-order and pre-order traversals.<br>
+</p>
+<h1><a name="SECTION00030000000000000000">Input</a>
+</h1>
+<p>
+The input set consists of a positive number <b>C &#8804; 2000</b>, that
+gives the number of test cases and <span style="font-weight: bold;">C</span>
+lines, one for each test case. Each test case starts with a number<b> 1
+&#8804;</b> <span style="font-weight: bold;">N</span><b>
+&#8804; 52</b>, the number of nodes in this binary tree. After, there will be
+two strings <b>S<sub>1</sub> </b>and <b>S<sub>2</sub></b> that
+describe the pre-order and in-order traversal of the tree.&nbsp;The
+nodes of the tree are labeled with different characters in the range <b>a..z</b>
+and <b>A..Z</b>. The values of <span style="font-weight: bold;">N</span>,
+<b>S<sub>1</sub></b> and <b>S<sub>2</sub></b> are separeted by a blank
+space.
+</p>
+<h1><a name="SECTION00040000000000000000">Output</a>
+</h1>
+<p>
+For each input set, you should output a line containing the post-order
+transversal for the current tree.<br>
+</p>
+<h1><a name="SECTION00050000000000000000">Sample input</a>
+</h1>
+<p>
+</p>
+<pre>3<br>3 xYz Yxz<br>3 abc cba<br>6 ABCDEF CBAEDF<br><br></pre>
+<p>
+</p>
+<h1><a name="SECTION00060000000000000000">Sample output</a>
+</h1>
+<p>
+</p>
+<pre>Yzx<br>cba<br>CBEFDA</pre>
+<hr>
+<address>Problem setter: Sebasti&atilde;o Alves
+</address>
+</body>
+</html>

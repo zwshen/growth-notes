@@ -1,0 +1,193 @@
+<html><head><title>Novosibirsk SU contest 1</title>
+<link rel="stylesheet" type="text/css" href="contest.css"></head>
+<body>
+<h1>Exponential Function</h1>
+<div class="constraints">Time limit: ? seconds</div>
+<div class="constraints">Memory limit: 64 megabytes</div>
+
+<p>
+In the course of Linear Algebra, the following theorem is
+proved:
+<p>
+<b> Theorem.</b><i>
+Let <span class="math">A</span> be a square matrix of size <span class="math">n</span> with entries in
+in <img class="mathimg" src="p107531.png" alt="$\mathbb C$" width="13" height="13">
+. There are square matrices <span class="math">T</span> and <span class="math">J</span> of
+size <span class="math">n</span> such that
+<center>
+<img class="mathimg" src="p107532.png" alt="$$
+A=T^{-1}JT,\ J=
+  \left(
+  \begin{matrix}
+    J_1&\mathbb O&\mathbb O&\mathbb O\\
+    \mathbb O&J_2&\mathbb O&\mathbb O\\
+    \mathbb O&\mathbb O&\ddots&\mathbb O\\
+    \mathbb O&\mathbb O&\mathbb O&J_k
+  \end{matrix}
+  \right)
+$$" width="295" height="98">
+</center>
+
+where <span class="math">J<sub>i</sub></span> are Jordan cells:
+<center>
+<img class="mathimg" src="p107533.png" alt="$$
+J_i=\left(
+  \begin{matrix}
+    \lambda_i&1&0&0&\dots&0\\
+    0&\lambda_i&1&0&\dots&0\\
+    \ddots&\ddots&\ddots&\ddots&\ddots&\ddots\\
+    \ddots&\ddots&\ddots&\ddots&\ddots&\ddots\\
+    0&\dots&\dots&\dots&\lambda_i&1\\
+    0&\dots&\dots&\dots&\dots&\lambda_i\\
+  \end{matrix}
+\right)
+$$" width="288" height="153">
+</center>
+
+Here <img class="mathimg" src="p107534.png" alt="$\lambda_i$" width="13" height="14">
+ is an eigenvalue of&nbsp;<span class="math">A</span>.</i>
+<p>
+The decomposition <img class="mathimg" src="p107535.png" alt="$A=T^{-1}JT$" width="93" height="16">
+, where <span class="math">J</span> is of the form
+described above, is called a <i>Jordan decomposition</i>
+of&nbsp;<span class="math">A</span>. The Jordan decomposition of a matrix may fail to be
+unique.
+<p>
+Given a matrix&nbsp;<span class="math">A</span>, we can define the matrix <b>exp</b> <span class="math">A</span>
+ in the
+following way: if <img class="mathimg" src="p107537.png" alt="$A=T^{-1}JT$" width="93" height="16">
+ is a Jordan decomposition of
+<span class="math">A</span>, then
+<img class="mathimg" src="p107538.png" alt="$\exp A=T^{-1}J^\prime T$" width="130" height="20">
+,
+<center>
+<img class="mathimg" src="p107539.png" alt="$$
+J^\prime=  \left(
+  \begin{matrix}
+    J_1^\prime&\mathbb O&\mathbb O\\
+    \mathbb O&\ddots&\mathbb O\\
+    \mathbb O&\mathbb O&J_k^\prime
+  \end{matrix}
+  \right),\ 
+  J_i^\prime = 
+  \left(\begin{matrix}
+    {e^{\lambda_i}\over 0!}&\dots&\dots&{e^{\lambda_i}\over m_i!}\\
+    0&{e^{\lambda_i}\over 0!}&\dots&{e^{\lambda_i}\over (m_i-1)!}\\
+    \ddots&\ddots&\ddots&\ddots\\
+    0&\dots&0&{e^{\lambda_i}\over 0!}
+  \end{matrix}\right)
+$$" width="424" height="113">
+</center>
+
+Here <span class="math">m<sub>i</sub></span> is the size of <span class="math">J<sub>i</sub></span>. If <img class="mathimg" src="p1075310.png" alt="$k\leq l$" width="38" height="16">
+, then the number in
+the <span class="math">k</span>th row and <span class="math">l</span>th column of <img class="mathimg" src="p1075311.png" alt="$J_i^\prime$" width="14" height="20">
+ is 
+<center>
+<img class="mathimg" src="p1075312.png" alt="$$
+j_{kl}={e^{\lambda_i}\over (l-k)!},
+$$" width="110" height="46">
+</center>
+
+otherwise it is 0.
+<p>
+It can be proved that <b>exp</b> <span class="math">A</span>
+ is independent of the Jordan
+decomposition of&nbsp;<span class="math">A</span> used. It can also be proved that if <span class="math">A</span>
+is real-valued, then <b>exp</b> <span class="math">A</span>
+ is also real-valued. Your task
+is: given a matrix&nbsp;<span class="math">A</span>, compute <b>exp</b> <span class="math">A</span>.
+
+<p>
+For example, if 
+<center>
+<img class="mathimg" src="p1075316.png" alt="$$
+A=\left(\begin{matrix}
+3&0\\
+1&3  
+\end{matrix}\right),
+$$" width="105" height="44">
+</center>
+
+<p>
+then
+<center>
+<img class="mathimg" src="p1075317.png" alt="$$
+J = \left(\begin{matrix}
+3&1\\
+0&3
+\end{matrix}\right),\ 
+T = \left(\begin{matrix}
+1&1\\
+1&0
+\end{matrix}\right),\ 
+J^\prime = \left(\begin{matrix}
+e^3&e^3\\
+0&e^3
+\end{matrix}\right)$$" width="344" height="45">
+</center>
+
+<p>
+and
+<p>
+<center>
+<img class="mathimg" src="p1075318.png" alt="$$
+\exp A = \left(\begin{matrix}
+e^3&0\\
+e^3&e^3
+\end{matrix}\right)\approx
+\left(\begin{matrix}
+20.086&0\\
+20.086&20.086
+\end{matrix}\right)
+$$" width="310" height="45">
+</center>
+
+<p>
+<h2>Input</h2>
+
+<p>
+The first line of the input contains the number of the test cases,
+which is at most 15. The descriptions of the test cases follow.
+The first line of a test case description contains one integer
+<span class="math">N</span> (<span class="math"><span class="number">1</span> &#8804;  N &#8804;  <span class="number">8</span></span>), denoting the size of the matrix&nbsp;<span class="math">A</span>. Each
+of the next <span class="math">N</span> lines contains <span class="math">N</span> integers separated
+by spaces, describing the matrix&nbsp;<span class="math">A</span>. It is guaranteed that
+the entries of&nbsp;<span class="math">A</span> are between <span class="math"><span class="number">0</span></span> and <span class="math"><span class="number">5</span></span>. The test cases are
+separated by blank lines.
+<p>
+<h2>Output</h2>
+
+<p>
+For each test case in the input, output <span class="math">N</span> lines, each containing <span class="math">N</span>
+integers separated by spaces, describing the matrix 
+<b>exp</b> <span class="math">A</span>.
+The numbers must have at least three digits after the
+decimal point. Print a blank line between test cases.
+<p>
+<h2>Examples</h2>
+<table class="examples" cellspacing="0">
+<tr><td class="iofiles">Input</td><td class="iofiles">Output</td>
+
+<p>
+<tr><td class="examples"><pre>
+2
+
+2
+3 0
+1 3
+
+2
+1 5
+0 1
+</pre></td><td class="examples"><pre>
+20.086 0.000
+20.086 20.086
+
+2.718 13.591
+0.000 2.718
+</pre></td></tr>
+</table>
+
+<p>
+</body></html>

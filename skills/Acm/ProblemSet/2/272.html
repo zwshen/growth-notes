@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>TeX Quotes</TITLE>
+<META NAME="description" CONTENT="TeX Quotes">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">TeX Quotes</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+TeX is a typesetting language developed by Donald Knuth. It takes source
+text together with a few typesetting instructions and produces, one hopes,
+a beautiful document. Beautiful documents use `` and &quot;
+to delimit quotations, rather than the mundane <TT>&quot;</TT> which is what is provided
+by most keyboards. Keyboards typically do not have an oriented double-quote,
+but they do have a left-single-quote <TT>`</TT> and a right-single-quote <TT>'</TT>. Check
+your keyboard now to locate the left-single-quote key <TT>`</TT> (sometimes called
+the ``backquote key&quot;) and the right-single-quote key <TT>'</TT> (sometimes
+called the ``apostrophe&quot; or just ``quote&quot;). Be careful
+not to confuse the left-single-quote <TT>`</TT> with the ``backslash&quot; key
+<code>\</code>. TeX lets the user type two left-single-quotes <TT>``</TT> to create a left-double-quote ``
+and two right-single-quotes <TT>''</TT> to create a right-double-quote ''. Most typists,
+however, are accustomed to delimiting their quotations with the un-oriented
+double-quote <TT>&quot;</TT>.
+<P>
+<P>
+If the source contained
+<P>
+<TT>&quot;To be or not to be,&quot; quoth the bard, &quot;that is the question.&quot;</TT>
+<P>
+then the typeset document produced by TeX would not contain the desired
+form:
+<P>
+<P>
+<P>
+``To be or not to be,&quot; quoth the bard, ``that is the question.&quot;
+<P>
+<P>
+In order to produce the desired form, the source file must
+contain the sequence:
+<P>
+<TT>``To be or not to be,'' quoth the bard, ``that is the question.''</TT>
+<P>
+<P>
+You are to write a program which converts text containing double-quote (<TT>&quot;</TT>)
+characters into text that is identical except that double-quotes have been
+replaced by the two-character sequences required by TeX for delimiting quotations
+with oriented double-quotes. The double-quote (<TT>&quot;</TT>) characters should
+be replaced appropriately by either <TT>``</TT> if the <TT>&quot;</TT> opens a quotation and
+by <TT>''</TT> if the <TT>&quot;</TT> closes a quotation. Notice that the question of nested
+quotations does not arise: The first <TT>&quot;</TT> must be replaced by <TT>``</TT>, the
+next by <TT>''</TT>, the next by <TT>``</TT>, the next by <TT>''</TT>, the next by <TT>``</TT>, the next by <TT>''</TT>, and so on.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+Input will consist of several lines of text containing an even number of
+double-quote (<TT>&quot;</TT>) characters. Input is ended with an end-of-file character.
+The text must be output exactly as it was input except that:
+<P>
+<UL><LI> the first <TT>&quot;</TT> in each pair is replaced by two <TT>`</TT> characters: <TT>``</TT> and<LI> the second <TT>&quot;</TT> in each pair is replaced by two <TT>'</TT> characters: <TT>''</TT>.
+</UL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>&quot;To be or not to be,&quot; quoth the Bard, &quot;that
+is the question&quot;.
+The programming contestant replied: &quot;I must disagree.
+To `C' or not to `C', that is The Question!&quot;</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>``To be or not to be,'' quoth the Bard, ``that
+is the question''.
+The programming contestant replied: ``I must disagree.
+To `C' or not to `C', that is The Question!''</PRE>
+<P>
+</BODY>
+</HTML>

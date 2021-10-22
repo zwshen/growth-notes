@@ -1,0 +1,123 @@
+
+<!--Converted with LaTeX2HTML 2008 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Shift Register</TITLE>
+<META NAME="description" CONTENT="Shift Register">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Shift Register</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+A <EM>shift register</EM> is a circuit that shifts the elements of a bit array by one position. A shift register has an input (one bit) and an output (also one bit), and is driven by a clock pulse. When the clock pulse happens, the input bit is shifted to the position of the least significant bit, the most significant bit is sent to the register output, and all other bits are shifted by one position to the direction of the array's most significant bit (towards the output). 
+
+<P>
+A <EM>Linear Feedback Shift Register</EM> (<SMALL>LFSR</SMALL>) is a shift register in which the input bit is determined by the value of the <SMALL>EXCLUSIVE-OR</SMALL> of some of the register bits before the clock pulse. The bits that are used in the register's feedback are called taps. The figure below shows a <SMALL>LFSR</SMALL> with 8 bits and three taps (bits 0,3 and 5).
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p11682.eps}$
+ -->
+<IMG
+ WIDTH="610" HEIGHT="309" ALIGN="BOTTOM" BORDER="0"
+ SRC="p11682.png"
+ ALT="\epsfbox{p11682.eps}">
+</DIV>
+
+<P>
+In this problem you must write a program that, given the number of bits of a <SMALL>LFSR</SMALL>, the information of which of its bits are taps, a start state and a final state, determines how many clock pulses are needed so that, starting from the start state, the <SMALL>LFSR</SMALL> reaches the final state (or determines that that is impossible).
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input contains several test cases. Each test case is composed by three lines. The first line contains two integers <SPAN CLASS="MATH"><I>N</I></SPAN>, <SPAN CLASS="MATH"><I>T</I></SPAN>, indicating respectively the number of bits (<!-- MATH
+ $2 \le  N \le  32$
+ -->
+<SPAN CLASS="MATH">2<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11682img2.png"
+ ALT="$ \le$"><I>N</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11682img2.png"
+ ALT="$ \le$">32</SPAN>) and the number of taps (<!-- MATH
+ $2 \le  T \le  N$
+ -->
+<SPAN CLASS="MATH">2<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11682img2.png"
+ ALT="$ \le$"><I>T</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11682img2.png"
+ ALT="$ \le$"><I>N</I></SPAN>). The bits are identified by integers from 0 (least significant) to <SPAN CLASS="MATH"><I>N</I> - 1</SPAN> (most significant). The second line contains <SPAN CLASS="MATH"><I>T</I></SPAN> integers, separated by spaces, describing the bits that are taps, in increasing order. Bit 0 is always a tap. The third line contains two numbers <SPAN CLASS="MATH"><I>I</I></SPAN> and <SPAN CLASS="MATH"><I>F</I></SPAN> in hexadecimal notation, separated by a blank space, representing respectively the start state and the final state of the <SMALL>LFSR</SMALL>.
+
+<P>
+The end of input is indicated by a line that contains two zeros separated by a blank space.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each test case in the input your program must print a single line. If it is possible to reach the final state from the given start state, the line must contain a single integer, the smallest
+number of clock pulses needed for the lfsr to reach the final state given. If that is not the case, the line must contain just the character `<TT>*</TT>'.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+8 3
+0 3 5
+a9 35
+5 2
+0 4
+1b 2
+7 3
+0 2 3
+4d 1a
+0 0
+</PRE> 
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+*
+61
+</PRE> 
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

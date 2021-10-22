@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Golygons</TITLE>
+<META NAME="description" CONTENT="Golygons">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Golygons</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Imagine a country whose cities have all their streets laid out in a regular
+grid. Now suppose that a tourist with an obsession for geometry is planning
+expeditions to several such cities.
+<P>
+<P>
+Starting each expedition from the
+central cross-roads of a city, the intersection labelled (0,0), our
+mathematical visitor wants to set off north, south, east or west, travel one
+block, and view the sights at the intersection (0,1) after going
+north, (0,-1) after going south, (1,0) after going east or (-1,0) after
+ going west. Feeling ever more enthused by the regularity of the city, our
+ mathematician would like to walk a longer segment before stopping next,
+ going two blocks.
+<P>
+What's more, our visitor doesn't want to carry on in the
+ same direction as before, nor visit the same point twice,
+ nor wishes to double back, so will make a 90 <IMG WIDTH=5 HEIGHT=6 ALIGN=BOTTOM ALT="tex2html_wrap_inline32" SRC="225img1.gif"  >  turn either left or right.
+ The next segment should be three blocks, again followed by a right-angle
+ turn, then four, five, and so on with ever-increasing lengths until finally,
+ at the end of the day, our
+ weary traveller returns to the starting point, (0,0).
+<P>
+<P>
+The possibly self-intersecting figure described by these geometrical
+travels is called a golygon.
+<P>
+<P>
+Unfortunately, our traveller will making these visits in the height of
+ summer when road works will disrupt the stark regularity of the cities'
+ grids. At some intersections there will be impassable obstructions. Luckily,
+ however, the country's limited
+ budget means there will never be more than 50 road works blocking the streets
+of any particular city. In an attempt to gain accountability to its citizens,
+the city publishes the plans of road works in advance. Our mathematician has
+obtained a copy of these plans and will ensure that no golygonal trips get
+mired in molten tar.
+<P>
+<P>
+Write a program that constructs all possible golygons for a city.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Since our tourist wants to visit several cities, the input file will begin
+with a line containing an integer specifying the number of cities to be
+visited.
+<P>
+<P>
+For each city there will follow a line containing a positive integer not
+greater than 20 indicating the length of the longest edge of the golygon.
+That will be the length of the last edge which returns the traveler to (0,0).
+Following this on a new line will be an integer from 0 to 50 inclusive
+which indicates how many intersections are blocked. Then there will be
+this many pairs of integers, one pair per line, each pair indicating the
+<I>x</I> and <I>y</I> coordinates of one blockage.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each city in the input, construct all possible golygons. 
+Each golygon must be represented by a sequence of characters from the set
+{n,s,e,w} on a line of its own, and they should be output in lexicographics
+order.
+Following the list of golygons should be a line
+indicating how many solutions were
+found. This line should be formatted as shown in the example output. A
+blank line should appear following the output for each city.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>2
+8
+2
+-2 0
+6 -2
+8
+2
+2 1
+-2 0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>wsenenws
+Found 1 golygon(s).
+
+Found 0 golygon(s).</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Diagram of the 1st City</A></FONT></H2>
+<P>
+<center><img src=225img2.gif></center>
+<P>
+</BODY>
+</HTML>

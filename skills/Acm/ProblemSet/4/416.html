@@ -1,0 +1,145 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>LED Test</TITLE>
+<META NAME="description" CONTENT="LED Test">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">LED Test</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Many electronic devices have digital read-outs that are made using
+light-emitting diode (LED) arrays. A
+common digital display element uses seven, bar-shaped LED's, with the
+seven LED bars (segments) arranged and identified as:
+<center><img src=416img4.gif></center>
+<P>
+Digits are displayed by illuminating various combinations of the seven
+segments in accordance with the following table:
+<P>
+<center><img src=416img5.gif></center>
+<P>
+For example, the digit three (3) would be displayed as the illumination of
+the segments {<TT>a</TT>,<TT>b</TT>,<TT>c</TT>,<TT>d</TT>,<TT>g</TT>} as:
+<P>
+<center><img src=416img6.gif></center>
+<P>
+The problem below is abstracted from one occurring in the incoming-parts
+inspection department, in a
+microwave-oven manufacturing facility. The incoming seven-segment LED's are
+checked for their proper
+functioning by automated equipment running under programmable control.
+<P>
+<P>
+<P>
+<B>Note:</B> The solution to the problem below will not be a
+complete nor necessarily useful test for the actual inspections that
+would be conducted.
+<P>
+<P>
+You are to create a program that will observe successive sets of illumination
+conditions of the seven segments of a single-digit display,
+and decide whether the sequence of illuminations could have been a valid
+``count down&quot; sequence.
+<P>
+<P>
+Unfortunately, for the LED your program is to observe, some of the segments
+may be burned out at the start
+of your test, and additional segments may burn out during the test. No
+segments will everfail into the ON
+mode; no burned out segments will recover. Nevertheless, you are expected
+to be able to ``read&quot; through the
+ambiguities this malfunctioning display presents, by watching the display
+count down through one or more values.
+<P>
+</U><H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input consists of a series of data sets having the following format:
+<P>
+<DL ><DT><STRONG>First line -</STRONG>
+<DD> A single unsigned integer, N, with value greater than zero (0)
+and less than eleven (11). The integer is left-justified on the input line.
+<P>
+<DT><STRONG>Next <I>N</I> lines -</STRONG>
+<DD> Each line has a string of seven (7) contiguous <TT>Y</TT>/<TT>N</TT> characters showing the light condition of
+the segments of the LED display. These successive lines supposedly
+represent a ``count down&quot; sequence.
+The first of these seven characters, the illumination reading for the ``<TT>a</TT>&quot;
+segment, will be the first character on a line.
+<P>
+ </DL>
+<P>
+The end of data is signaled by a null data set having a zero on the first
+line and no further data.
+<P>
+<P>
+There is no information about where the ``count down&quot; sequence begins for
+a given data set. There is no
+information that carries over from one data set to the next; each data set
+represents a <I>different</I> LED being tested.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+Foreach supposed ``count down&quot; sequence you receive as a data set, you are
+to reply either:
+<PRE>MATCH</PRE>
+-or-
+<PRE>MISMATCH</PRE>
+<P>
+depending on whether this sequence could possibly be a valid ``count down&quot;
+sequence <I>somewhere</I> within
+the sequence { 9, 8, 7, 6, 5, 4, 3, 2, 1, 0 } if an unknown number of
+burned-out segments were present at the
+beginning of the test, and, with possible burn-outs occurring during the
+test. Your output must be at the beginning of the line.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>1
+YYYYNYY
+2
+NNNNNNN
+NNNNNNN
+2
+YYYYYYY
+YYYYYYY
+3
+YNYYYYY
+YNYYNYY
+NYYNNYY
+3
+YNYYYYN
+YNYYNYN
+NYYNNYN
+3
+YNYYYYN
+YNYYNYN
+NYYNYYN
+4
+YYYYYYY
+NYYNNNN
+NNYYYYN
+NNNYNNN
+3
+NNNNNNN
+YNNNNNN
+NNNNYNN
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>MATCH
+MATCH
+MISMATCH
+MATCH
+MATCH
+MISMATCH
+MATCH
+MATCH</PRE>
+<P>
+</BODY>
+</HTML>

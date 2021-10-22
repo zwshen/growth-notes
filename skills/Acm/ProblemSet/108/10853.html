@@ -1,0 +1,75 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Pablito nailed a nail">
+<meta name="resource-type" content="document">
+<meta name="autor" content="GinesGM, dedicated to PablitoGC">
+<title>Pablito nailed a nail</title>
+</head>
+
+<body bgcolor="#FFFFFF" lang="EN">
+<div align="center"><center>
+
+<table border="0" bgcolor="#0060F0">
+<TBODY>    <tr>
+        <td><font color="#C0FFFF" size="5"><b>&nbsp;Pablito nailed a nail</b></font><b>&nbsp;</b></td>
+    </tr>
+</TBODY></table>
+</center></div>
+
+<p>
+
+
+<h2><a name="SECTION0001001000000000000000"><font color="#0070E8">The Problem</font></a></h2>
+
+<p>Pablito will give you a birdie if you can beat him in his favorite game: nailing the nail. This game is a pretty mixture of intelligence and brute force. There is a long nail, a bit inserted into a piece of wood. You and Pablito hit the nail in turns with a hammer. The winner is the first player who completely inserts the nail.</p>
+
+<p align="center"><img src="p10853.gif"></p>
+
+<p>All measures are given in integer numbers. Depending on his/her strength and ability, each player can push the nail between a minimum, <em>Xmin</em>, and a maximum quantity, <em>Xmax</em>. However, if the current length of the nail is less than <em>Xmin</em>, the player can insert the nail completely and win.</p>
+
+<p>Let's name the players <em>A</em> and <em>B</em>. The <strong>optimal strategy</strong> for player <em>A</em> (similarly for <em>B</em>) is defined as follows:
+
+<ul>
+<strong>(a)</strong> a hit where <em>A</em> inserts the nail completely is an optimal hit for <em>A</em>,
+<br>
+<strong>(b)</strong> if (a) is not possible, a hit of <em>A</em> that leads to an optimal hit of <em>A</em> after all possible hits of <em>B</em>, is also an optimal hit of <em>A</em>,
+<br>
+<strong>(c)</strong> if neither (a) nor (b) are possible, <em>A</em> has no optimal hit, and will insert the nail any valid quantity.
+</ul>
+</p>
+
+<p>Suppose player <em>A</em> always hits first, and both players use the optimal strategy for them. Who will win the game?</p>
+
+
+<h2><a name="SECTION0001003000000000000000"><font color="#0070E8">The
+Input</font></a></h2>
+
+<p>The first line of the input contains an integer <em>N</em>, indicating the number of test cases.</p>
+
+<p>Each test case is described in a single line, containing 5 integers: <em>L Amin Amax Bmin Bmax</em>, indicating the initial length of the nail, the minimum hit of <em>A</em>, the maximum hit of <em>A</em>, the minimum hit of <em>B</em>, and the maximum hit of <em>B</em>, respectively. Assume all numbers are between 1 and 2^30, <em>Amin</em> &le; <em>Amax</em>, and <em>Bmin</em> &le; <em>Bmax</em>.</p>
+
+<h2><a name="SECTION0001004000000000000000"><font color="#0070E8">The
+Output</font></a></h2>
+
+<p>For each test case, the output should consist of a line with a single letter, <em>A</em> or <em>B</em>, indicating the winner in that case.</p> 
+
+<h2><a name="SECTION0001005000000000000000"><font color="#0070E8">Sample Input</font></a></h2>
+
+<pre>4
+4 5 7 1 20
+5 1 3 1 3
+5 2 2 1 3
+1000 1 3 1 3
+</pre>
+
+<h2><a name="SECTION0001006000000000000000"><font color="#0070E8">Sample Output</font></a></h2>
+
+<pre>A
+A
+B
+B
+</pre>
+</body>
+</html>

@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>Problem C: Counting RNA Sequences</title>
+<link rel="stylesheet" href="problem.css">
+</head>
+<body>
+
+<center>
+<h1>Problem C</h1>
+<h2>Counting RNA Sequences</h2>
+</center>
+
+<p>Ribonucleic Acid (RNA) is an important molecule that performs a wide range of functions in biological systems. In particular, it is RNA (not DNA) that contains the genetic information of viruses such as HIV and thereby regulates the functions of these viruses. RNA has recently become the center of much attention because of its catalytic properties, leading to an increased interest in obtaining structural information.</p>
+
+<p>RNA molecules have two sets of structural information: first, the <i>primary structure</i> of RNA is a single strand made of the ribonucleotides A(adenine), C(cytosine), G(guanine), and U(uracil), Secondly, the ribonucleotide sequences fold over onto themselves to form double-stranded regions of base parings, yielding higher order <i>tertiary structures</i>.</p>
+
+<p align="center"><img src="p11197a.jpg" /></p> 
+
+<p>It is well known that the structural features of RNAs are important in the molecular mechanisms involving their functions. The presumption, of course, is that to a preserved function there corresponds a preserved molecular confirmation and, therefore, a preserved structure. The RNA <i>secondary structure</i> is a restricted subset of the tertiary structure that plays an important role between primary structure and tertiary structure, as the problem of inferring the tertiary structures of RNA molecules is often intractable. Based on a reliable secondary structure, the possible tertiary interactions that occur between secondary structural elements, as well as between these elements and single-stranded regions of RNAs, can be characterized.</p>
+
+<p>Because an RNA sequence is composed of four possible bases, we can use a four-letter alphabet {A,C,G,U} to represent an RNA sequence. The base sequence is usually referred to as primary structure. An RNA sequence folds by intramolecular base paring and is stabilized by the hydrogen bonds that result from that base pairing. Additionally, the stacking of base pairs in a helix stabilizes the molecule and decreases the free energy of the folded structure, but the appearance of loops destabilizes the molecule and increases the free energy of the RNA structure.</p>
+
+<p>In an RNA secondary structure, base pairs are formed as one of the three kinds of pairs, C-G(G-C), A-U(U-A), and G-U(U-G). The are three hydrogen bonds between C-G(G-C) pairs, two between A-U(U-A) and one between G-U(U-G). Base pairs C-G(G-C) and A-U(U-A) are called Watson-Crick base pairs. The base pair G-U(U-G) is referred to as a wobble base pair. These three types of pairings are referred to as <i>canonical base pairs</i>.</p>
+
+<p>We use (<i>i</i>,<i>j</i>) to represent the base pair formed by the <i>i</i>-th base, <i>r<sub>i</sub></i> and the <i>j</i>-th base, <i>r<sub>j</sub></i>, where 1 <= <i>i</i> < <i>j</i> <= <i>n</i>. Let <i>S</i> be a set of base pairs for sequence <i>R</i>, then set <i>S</i> is called RNA secondary structure if <i>S</i> satisfies the following conditions:</p>
+<ol>
+<li>For any base pair (<i>i</i>,<i>j</i>) in <i>S</i>, the base pairing of <i>r<sub>i</sub></i> and <i>r<sub>j</sub></i> is a <i>canonical base pair</i>.</li>
+<li>Each base can be paired with at most one base.</li>
+<li>Two pairs cannot cross each other, so if <i>h</i> < <i>i</i> < <i>j</i> < <i>k</i>, then <i>S</i> cannot contain both (<i>h</i>,<i>j</i>) and (<i>i</i>,<i>k</i>)</li>
+<li>If <i>S</i> contains (<i>i</i>,<i>j</i>), then |<i>j</i>-<i>i</i>| > 3</li>
+</ol>
+
+<p>Since base pairs cannot cross each other, we can use a dot-bracket string to represent secondary structures. The representation contains brackets and dots, one for each base. A dot represents an unpaired base, and two matched brackets represent a base pair.</p>
+
+<p>Given a set of secondary structures, the <i>nucleic acid design problem</i> asks for a primary structure that can fold into all the given structures. As an excellent design example, two ribozyme folds were selected that share no evolutionary history and not even a base pair in the secondary structure: the synthetic class III self-ligating ribozyme and the hepatitis delta virus (HDV) self-cleaving ribozyme. A sequence was then designed that can fold into both predescribed structures and fulfill both respective enzymatic reactions. These results provide new insight into the possible mechanisms of ribozyme evolution, since it suggests that RNAs with novel structures and activities could arise from previously existing catalytic RNAs without an intermediate step of a non-functional sequence.</p>
+
+<p align="center"><img src="p11197b.jpg" /></p> 
+
+<p>Write a program to count the number of primary structures that might be folded into all given secondary structures, at least in theory.</p>
+
+<h2>Input</h2>
+<p>The input consists of at most 100 test cases. Each case contains an integers <i>n</i> (1 < <i>n</i> < 6), the number of secondary structures. The following <i>n</i> lines each contain a secondary structure in dot-bracket representation. All the secondary structures have the same length within each case, which is between 10 and 50 (inclusive). It is guaranteed that every base is enclosed by at most 5 base pairs in each secondary structure. The last case is followed by a single zero, which should not be processed. All the test cases are randomly generated with various parameters.</p>
+
+<h2>Output</h2>
+<p>For each test case, print the case number and the number of primary structures. It is guaranteed that the answer does not exceed 10<sup>18</sup>.</p>
+
+<h2>Sample Input</h2>
+<pre>
+2
+..(...)..
+(...)....
+3
+(...)......
+(........).
+....(....).
+3
+.(..(...))....
+..(((....).).)
+(...).(.....).
+0
+</pre>
+
+<h2>Output for the Sample Input</h2>
+<pre>
+Case 1: 36864
+Case 2: 0
+Case 3: 387072
+</pre>
+
+<h2>Note</h2>
+<p>In the first sample, there are 2 pairs and 5 unconstrained bases. Since there are only 6 canonical pairs, there are totally 6<sup>2</sup>*4<sup>5</sup>=36864 possible primary structures.</p>
+
+<hr />
+<i>Rujia Liu's Present 1: A Tiny Contest of Brute Force</i><br />
+
+</body>
+</html>

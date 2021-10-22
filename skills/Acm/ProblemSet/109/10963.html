@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0063)http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/node6.html -->
+<!--Converted with LaTeX2HTML 96.1-h (September 30, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds --><HTML><HEAD><TITLE>Problem F: The Swallowing Ground</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META content="The Swallowing Ground" name=description>
+<META content=main name=keywords>
+<META content=document name=resource-type>
+<META content=global name=distribution><LINK href="f_files/main.css" 
+rel=STYLESHEET>
+<META content="MSHTML 6.00.2600.0" name=GENERATOR></HEAD>
+<BODY lang=EN>
+<H1><A name=SECTION00060000000000000000>Problem F: The Swallowing Ground</A></H1>
+<P>Now that the wicked is punished, there is still work to do. For example, the 
+ground needs to seal itself up. (Otherwise, good people will accidentally fall 
+into Hell, which is not good.) 
+<P>The ground swallowed Don Giovanni by collapsing: Part of the ground 
+collapsed--fell off to Hell--and this created a gap that swallowed Don Giovanni. 
+The only way the ground can be fixed is by sliding landmasses to close up the 
+gap. Here is an example. The left diagram shows the ground with a ravine. Assume 
+that the ground extends infinitely to the north and to the south, and there are 
+seams on the east and west ends; so the northern block can slide southward, and 
+the southern block can slide northward. The right diagram shows the gap closed. 
+<DIV align=center>
+<P align=center><IMG height=112 alt=tex2html_wrap220 src="p10963a.gif" 
+width=243 align=bottom></P></DIV>Here is another example. The ravine in the left 
+diagram cannot be closed perfectly by sliding the ground northward and 
+southward. The right diagram shows the result of the best effort: there is still 
+a hole. 
+<DIV align=center>
+<P align=center><IMG height=112 alt=tex2html_wrap222 src="p10963b.gif" 
+width=243 align=bottom></P></DIV>
+<P>Write a program to determine if the gap can be closed. The ground is a grid 
+with rows (a row runs east-west) and columns (a column runs north-south). Holes 
+are cells on the grid, and the gap consists of holes. 
+<P>
+<H2><A name=SECTION00061000000000000000>Input</A></H2>
+<b>
+The input begins with a single positive integer on a line by itself indicating
+the number of the cases following, each of them as described below.
+This line is followed by a blank line, and there is also a blank line between
+two consecutive inputs.
+</b>
+<p>
+<p>
+
+<P>The first line contains the number of columns <I>W</I> of the ground to be 
+considered. Then <I>W</I> lines follow, specifying the boundary of the gap by 
+columns: a line represents a column, and the order of the lines follows the 
+east-to-west order. Each line contains <IMG height=17 
+alt=tex2html_wrap_inline228 src="p10963c.gif" width=13 align=middle>, the 
+north-most row of the gap in this column, and <IMG height=17 
+alt=tex2html_wrap_inline230 src="p10963d.gif" width=13 align=middle>, the 
+south-most row of the gap in this column. Row numbers are integers between -100 
+and 100 inclusive. 
+<P>The input specifies a valid gap: the holes separate the ground into exactly a 
+northern block and a southern block. There are no holes embedded inside a block. 
+There are no islands.
+
+<P>
+<b>Note:</b>The sample input below corresponds to the first diagram. 
+
+<P>
+<H2><A name=SECTION00062000000000000000>Output</A></H2>
+<b>
+For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+
+<P>Output the line <PRE>yes</PRE>if the gap can be closed by sliding blocks north and south; and <PRE>no</PRE>otherwise. 
+<P>
+<H2><A name=SECTION00063000000000000000>Sample Input</A></H2>
+<PRE>
+1
+
+5
+2 1
+0 -1
+1 0
+1 0
+2 1
+</PRE>
+<P>
+<H2><A name=SECTION00064000000000000000>Sample Output</A></H2>
+<P><PRE>
+yes
+</PRE>
+<P><BR>
+<!--HR>
+<A href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.c">Solution 
+in C</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.java">Solution 
+in Java</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.0.in">Test 
+Input 0</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.0.out">Test 
+Output 0</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.1.in">Test 
+Input 1</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.1.out">Test 
+Output 1</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.2.in">Test 
+Input 2</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.2.out">Test 
+Output 2</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.3.in">Test 
+Input 3</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.3.out">Test 
+Output 3</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.4.in">Test 
+Input 4</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.4.out">Test 
+Output 4</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.5.in">Test 
+Input 5</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.5.out">Test 
+Output 5</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.6.in">Test 
+Input 6</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/ground.6.out">Test 
+Output 6</A><BR--></BODY></HTML>

@@ -1,0 +1,58 @@
+<html><head><title>MiniMice</title></head>
+<body><h1><center>Problem A : MiniMice</center></h1>
+<h3>Time Limit : 6 seconds</h3>
+<div align="justify">
+	Welcome to the world of mice. All mice have IDs. They are numbered orderly according to 
+their seniority from 1. These mice live in groups. Mice of a same group have continuous ids.  
+	Mini, the mice captain (ID 0) has called mice of specific group(IDs a to b) for a session. 
+He wanted to make a circle formation with those mice. 
+	But mice have a property : The Degree of quarrel. When 2 mice are near they quarrel to 
+an extent that is proportional to the difference in the number of factors of their individual ids. 
+For example when 2 mice of ids 4 and 24 are near they quarrel 5 units(say). 
+Number of factors of 4 – 3(1,2,4). 24 – 8 (1,2,3,4,6,8,12,24).  
+Also the strength of quarrel affects the neighbourhood. 
+	So, Mini, the mice captain wants to minimize the strength of the maximum quarrel 
+in that circle by arranging the mice appropriately. Note that the circle formation is mandatory.
+			Help Mini , the mice caption to MiniMice the quarrel.<br>
+
+<h3>Input:</h3><br>
+	First line contains number of test cases.<br>
+	Each test case is represented by a space separated list of 2 ids representing 
+the group of mice "a<space>b" .	All mice with ids a<=id<=b are present in the session.
+	1 <= a <= 4999999 ;  a < b <= 5000000.
+<br>
+<h3>Output:</h3><br><br>
+	Output one line for each test case , the minimized maximum quarrel value.
+	Quarrel value between 2 mice = Absolute Difference in Number of factors of their IDs.
+<br>
+<h3>Sample Input :</h3><br>
+2<br>
+5 8<br>
+21 24<br>
+<br>
+<h3>Sample Output:</h3><br>
+2<br>
+4<br>
+<br>
+<h3>Explanation:</h3><br>
+Case 1:<br>
+ID  -  No. of factors<br>
+5   -  2<br>
+6   -  4<br>
+7   -  2<br>
+8   -  4<br>
+5-6-7-8-5 is a good arrangement. 4-2 = 2.<br>
+<br>
+Case 2:<br>
+ID  - No. of factors<br>
+21	- 4<br>
+22	- 4<br>
+23	- 2<br>
+24	- 8<br>
+24-21-23-22-24 is a good arrangement. 8-4 = 4.<br>
+<hr>
+<h3>Problem Setter : Ramgopal K <br>
+Written for CarteBlanche '08</h3>
+</div>
+</pre></body></html>
+

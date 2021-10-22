@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html; charset=ISO-8859-1"
+ http-equiv="content-type">
+	<style>
+	p {text-align: justify;}
+	p.center {text-align: center;}
+	h1, h2 {color: blue;}
+	h1 {text-align: center}
+	</style>
+  <title>A Pile of Boxes</title>
+</head>
+<body>
+<h1 align="center">Problem A - A Pile of Boxes</h1>
+
+You are making a pile of boxes. The boxes have cubic dimensions (equal
+edges) and their upper surfaces are open, so a smaller box will fall
+into a larger one (container), but a larger box will stay on the
+smallest top (Figure 1).<br>
+<br>
+<div style="text-align: center;">&nbsp;<img src="p946a.gif" alt=""></div>
+<div style="text-align: center;">Figure 1 - Boxes falling over a pile<br>
+</div>
+<br>
+Furthermore, these boxes have strange properties: they are permeable to
+other smaller boxes, so one box may fall through the interior of larger
+boxes until a smaller one or the floor is found (Figure 2).<br>
+<br>
+<div style="text-align: center;">&nbsp;<img src="p946b.gif" alt=""></div>
+<div style="text-align: center;">Figure 2 - Boxes are permeable to
+smaller ones<br>
+</div>
+<br>
+There is one restriction: if one box does not fit entirely in the
+height of a potential container, then it stays in the upper possible
+level (Figure 3).<br>
+<br>
+<div style="text-align: center;">&nbsp;<img src="p946c.gif" alt=""></div>
+<div style="text-align: center;">Figure 3 - One box must fit entirely
+in its container<br>
+<br>
+</div>
+<h2>The Problem</h2>
+Given a sequence of boxes, it is necessary to evaluate the total pile
+height. All the cubes have different dimensions.<br>
+<h2>Input</h2>
+<b>
+The input will contain several test cases, each of them as described below.
+Consecutive test cases are separated by a single blank line.
+</b>
+<p>
+<p>
+ 
+The input is a sequence of text lines, as follows.<br>
+The first text line contains the number NC (integer format) of boxes.
+It is followed by a sequence of NC text lines containing, each one, the
+length of a box (integer format). The maximum number of boxes is 100.<br>
+<h2>Output</h2>
+For each test case, output on a line by itself one integer number, representing the total pile height.<br>
+
+<h2>Example Input</h2>
+<pre>
+8
+10
+4
+6
+3
+11
+7
+8
+5
+</pre>
+
+<h2>Example Output</h2>
+<pre>
+29
+</pre>
+
+<div style="text-align: center;">&nbsp;<img src="p946d.gif" alt=""><br>
+Figure 4 - Pile generated in the example<br>
+</div>
+<br>
+
+<hr>
+<p class=center><b>2005 Programming Contest of Porto University</b><br>
+Round 2, 28 of September of 2005<br>
+&nbsp;<br>
+<i>(Author: <b>Augusto Sousa</b> - FEUP)</i>
+<hr>
+
+
+<br>
+</body>
+</html>

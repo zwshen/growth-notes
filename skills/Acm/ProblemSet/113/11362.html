@@ -1,0 +1,139 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Phone List</TITLE>
+<META NAME="description" CONTENT="Phone List">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+A: Phone List</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Given a list of phone numbers, determine if it is consistent in the sense that no number is the prefix of another. Let's say the phone catalogue listed these numbers: 
+
+<P>
+
+<UL>
+<LI>Emergency 911 
+</LI>
+<LI>Alice 97 625 999 
+</LI>
+<LI>Bob 91 12 54 26 
+</LI>
+</UL>
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p11362.eps}$
+ -->
+<IMG
+ WIDTH="142" HEIGHT="296" ALIGN="right" BORDER="0"
+ SRC="p11362.png"
+ ALT="\epsfbox{p11362.eps}">
+<tex2html_verbatim_mark>
+</DIV>
+
+<P>
+In this case, it's not possible to call Bob, because the central would direct your call to the emergency line as soon as you had dialled the first three digits of Bob's phone number. So this list would not be consistent.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of input gives a single integer, <!-- MATH
+ $1 \le t \le 40$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11362img2.png"
+ ALT="$ \le$"><I>t</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11362img2.png"
+ ALT="$ \le$">40</SPAN>
+<tex2html_verbatim_mark>, the number of test cases. Each test case starts with <SPAN CLASS="MATH"><I>n</I></SPAN>
+<tex2html_verbatim_mark>, the number of phone numbers, on a separate line, <!-- MATH
+ $1 \le n \le 10000$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11362img2.png"
+ ALT="$ \le$"><I>n</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11362img2.png"
+ ALT="$ \le$">10000</SPAN>
+<tex2html_verbatim_mark>. Then follows <SPAN CLASS="MATH"><I>n</I></SPAN>
+<tex2html_verbatim_mark> lines with one unique phone number on each line. A phone number is a sequence of at most ten digits.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case, output ``<TT>YES</TT>" if the list is consistent, or ``<TT>NO</TT>" otherwise.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2 
+3 
+911 
+97625999 
+91125426 
+5 
+113 
+12340 
+123440 
+12345 
+98346
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+NO 
+YES
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

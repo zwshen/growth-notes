@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html; charset=ISO-8859-1"
+ http-equiv="content-type">
+  <title>Gifts Large and Small</title>
+</head>
+<body>
+<h1><br clear="all">
+<center>
+<table bgcolor="#0060f0">
+  <tbody>
+    <tr>
+      <td><b><font size="5" color="#c0ffff">&nbsp;<a
+ name="SECTION0001000000000000000000">
+Gifts Large and Small</a>&nbsp;</font></b></td>
+    </tr>
+  </tbody>
+</table>
+</center>
+</h1>
+<p>
+WrapIt.com specializes in wrapping gifts. Started several years ago as
+a service offered to local department stores
+and malls, today WrapIt serves customers world-wide and boasts that it
+can package anything from half-carat
+diamonds to whole apartment blocks.
+</p>
+<p>
+WrapIt has found that some customers prefer their gifts to be wrapped
+in the smallest possible packages, whereas
+others prefer large packages that make their gifts seem larger than
+they really are. The company needs a program
+that computes the smallest and largest rectangular package into which a
+gift can be ietightlylr wrapped. Since this is a
+difficult problem, the company will initially settle for a
+two-dimensional version of the program.
+</p>
+<p>
+Each gift is approximated as a simple polygon, and all packages are
+represented by rectangles. A gift is said to iofit
+tightlyle in a package if the gift touches all four sides of the
+package. The figure below shows how a triangular gift
+might fit tightly in two packages of different sizes. For each gift,
+your program must compute the areas of the
+smallest and largest packages into which the gift can fit tightly.
+</p>
+<div style="text-align: center;"><img
+ style="width: 311px; height: 113px;" alt="" src="p819a.jpg">
+</div>
+<h2><font color="#0070e8"><a name="SECTION0001001000000000000000">Input</a>&nbsp;</font>
+</h2>
+<p>
+The input contains several gift descriptions. Each description begins
+with a line containing an integer n
+(3 &#8804;n &#8804;100), which is the number of vertices in the polygon that
+represents the gift. The following n lines contain
+pairs of integers that represent the coordinates of the polygon
+vertices, in clockwise order. Each polygon will have a
+non-zero area and will not intersect itself.
+</p>
+<p>
+The input is terminated by a line containing the integer 0.
+</p>
+<h2><font color="#0070e8"><a name="SECTION0001004000000000000000">
+Output</a>&nbsp;</font>
+</h2>
+<p>
+For each gift, first print the number of the gift. Then on separate
+lines, print the minimum and maximum areas of the
+packages into which the gift fits tightly, using the format in the
+sample output. Print a blank line after each test case.
+The computed areas should be exact to three digits to the right of the
+decimal point.
+</p>
+<br>
+<table border="1" rules="all" cellpadding="9" cellspacing="0">
+  <tbody>
+    <tr>
+      <th><font face="arial" size="4"><b>Sample Input</b></font></th>
+      <th><font face="arial" size="4"><b>Output for the Sample Input</b></font></th>
+    </tr>
+    <tr>
+      <td valign="top">
+      <pre>3<br>-3 5<br>7 9<br>17 5<br>4<br>10 10<br>10 20<br>20 20<br>20 10<br>0<br></pre>
+      </td>
+      <td valign="top">
+      <pre>Gift 1<br>Minimum area = 80.000<br>Maximum area = 200.000<br><br>Gift 2<br>Minimum area = 100.000<br>Maximum area = 200.000<br><br></pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<hr>ACM World Finals 2000, Problem D
+</body>
+</html>

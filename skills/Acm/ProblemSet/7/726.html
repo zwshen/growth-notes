@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Decode</TITLE>
+<META NAME="description" CONTENT="Decode">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Decode</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Any one-to-one mapping <I>f</I> of the alphabet to itself can be used to encode text
+by replacing each occurence of letter <TT>c</TT> with <I>f</I>(<TT>c</TT>).
+
+<P>
+
+<P>
+<BR>
+
+<PRE><TT>
+Example: One such mapping could be the mapping of a letter to three positionsbeyond the letter
+		in the alphabet:  For example,  <TT>a-&gt;d</TT>, <TT>b-&gt;e</TT>, <TT>c-&gt;f</TT>, <TT>d-&gt;g</TT>, ... etc. 
+&nbsp;
+		 natural language: <TT>The car is blue</TT>. 
+
+<P>
+encoded message:  <TT>Wkh fdu lv eoxh</TT>.
+</TT></PRE>
+
+<P>
+The mapping that defines the encoding is one-to-one.  That is, two
+different letters do not map to the same letter of the alphabet (<TT>a-&gt;x</TT> and
+<TT>t-&gt;x</TT> is impossible).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input and Output</A>&nbsp;</FONT>
+</H2>
+The input file contains two messages separated by a blank line. We will
+refer to them as `<EM>KNOWN</EM>' and `<EM>ENCODED</EM>' messages.  This file
+contains an encoded message. 
+
+<P>
+
+<P>
+<BR>
+You are to write a program that decodes the
+message in the file according to the following guidelines.
+
+<P>
+<DL COMPACT>
+<DT>1.
+<DD>The input message <EM>KNOWN</EM> contains a natural language text that
+is       written by the same person that wrote the encoded message in
+<EM>ENCODED</EM>.  It is to be assumed that the person uses letters of
+      the alphabet with the same relative frequency from document to
+      document.  Read <EM>KNOWN</EM> and count the number of times each letter
+      of the alphabet occurs.  Order the letters of the alphabet in such a
+      way that the first in the ordering is the most frequently used letter
+      in <EM>KNOWN</EM> and the last in the list is the least frequently used
+      letter in <EM>KNOWN</EM>.  Break all ties for letters that occur at the
+      same frequency alphabetically.  That is, if both <TT>p</TT> and <TT>w</TT>
+appeared in       <EM>KNOWN</EM> exactly 12 times each, then <TT>p</TT> would
+precede <TT>w</TT> in the       ordered list.
+
+<P>
+<DT>2.
+<DD>Read <EM>ENCODED</EM> and count the number of times each encoded letter
+      of the alphabet occurs.  Order the letters in such a way that the
+      first in the ordering is the most frequently used letter in
+      <EM>ENCODED</EM> and the last in the list is the least frequently used
+      letter in <EM>ENCODED</EM>.  Again, break all ties alphabetically.
+
+<P>
+<DT>3.
+<DD>The process for counting the frequencies with which letters occur is
+      to be case insensitive.  That is, the appearance of the letter <TT>W</TT>
+      followed by <TT>w</TT> would account for two occurences of that letter.
+
+<P>
+<DT>4.
+<DD>The counting process is only to count letters of the alphabet, not
+      other characters.
+
+<P>
+<DT>5.
+<DD>The program is to assume that the most frequently used letter in
+      <EM>KNOWN</EM> maps to the most frequently used letter in <EM>ENCODED</EM>;
+      the second most frequently used letter in <EM>KNOWN</EM> maps to the
+      second most frequently used letter in <EM>ENCODED</EM>; ... etc.
+
+<P>
+<DT>6.
+<DD>Your program is to use knowledge of the mapping described in
+      specification 5 to decode the message and put the decoded message in
+      the output file.
+
+<P>
+<DT>7.
+<DD>Even though the counting process was to be case insensitive, the
+      deconding process is to be case sensitive.  That is, encoded capital
+      letters are to be decoded into capital letters, and encoded lower
+      case letters are to be decoded into lower case letters.
+
+<P>
+<DT>8.
+<DD>All non-alphabetic characters found in <EM>ENCODED</EM> are to pass
+      unchanged and appear in the same relative position in the output file
+      as in the input message <EM>ENCODED</EM>. For example, this message may
+      contain blank lines which must appear also in the output file.
+</DL>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+The car is blue.
+
+Wkh fdu lv eoxh.
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+The car is blue.
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-31</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

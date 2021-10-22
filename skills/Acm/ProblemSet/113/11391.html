@@ -1,0 +1,333 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 10 (filtered)">
+<title>Problem G: Blobs in the Board</title>
+
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:Arial;}
+h2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:Arial;}
+h4
+	{margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Times New Roman";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:28.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+tt
+	{font-family:"Courier New";}
+p.Codedata, li.Codedata, div.Codedata
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:11.0pt;
+	font-family:"Courier New";}
+p.Semititle, li.Semititle, div.Semititle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-variant:small-caps;
+	font-weight:bold;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US>
+
+<div class=Section1>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;border-collapse:collapse'>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF9900'>I</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:blue'>I </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:teal'>U </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>C  </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:teal'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF9900'>O</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:blue'>N</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>L</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#993300'>I</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF9900'>N</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'>E</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'>   C </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>O</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'>N </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>T</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:maroon'>E</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:fuchsia'>S</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:green'>T</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:maroon'>  </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF6600'>2 </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'>0</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#CC99FF'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#993300'>0</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:maroon'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#99CC00'>8</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:18.0pt;font-family:Arial'>Problem G: Blobs in the Board</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-family:Arial'>Input: standard input</span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-family:Arial'>Output: standard output</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+  style='font-family:Arial'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:114.75pt'>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt;
+  height:114.75pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>You
+  are given a board consists of <b>R</b> rows and <b>C</b> columns. There are <b>N</b>
+  blobs in the board. Each cell of the board might or might not contain a blob.
+  A cell can have at most 8 adjacent cells. A blob can jump over any adjacent
+  blobs to the next empty cell. Thus a blob can jump straight to two squares at
+  any of the 8 directions if the destination cell is empty and the cell between
+  the source cell and the destination cell contains a blob. Blobs cannot jump
+  outside of the board. After the jump the blob in the middle cell of the jump
+  will be removed. The goal is to make jumps carefully so that after N-1 jumps
+  only one blob remains. Your task is to count how many ways the goal can be
+  achieved.</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Input</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>Input
+  consists of several test cases. The first line of the input file contains a
+  single integer <b>T</b> indicating the number of test cases. Then <b>T</b>
+  test cases follow. Each test case starts with three positive integers <b>R</b>,
+  <b>C</b> and <b>N</b>. Each of the next <b>N</b> lines contain two integers <b>x</b>,
+  <b>y</b> where <b>i</b>-th line contains the row position <b>x</b> and column
+  position <b>y</b> of the <b>i</b>-th blob. No two blobs share the same cell.</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <h1>Output</h1>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>For
+  each set of input produce one line of output “<b>Case x: n</b>”, where <b>x</b>
+  indicates the test case number (starting from 1) and <b>n</b> the number of
+  ways the goal can be achieved.</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Constraints</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;border:none;
+  border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt'>-           R, C &#8804; 4</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt'>-           1 &#8804; x &#8804; R</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt'>-           1 &#8804; y &#8804; C</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt'>-           1 &#8804; i &#8804; N</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt'>&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign=top style='width:50.0%;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Sample Input</span></b></p>
+  </td>
+  <td width="50%" valign=top style='width:50.0%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Output for Sample Input</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign=top style='width:50.0%;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>3</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>1 2 1</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>1 1</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>3 3 8</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>2 3</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>2 1</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>1 2</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>3 3</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>3 2</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>3 1</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>1 1</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>1 3</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>3 3 3</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>3 1</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>2 2</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>1 2</span></b></p>
+  </td>
+  <td width="50%" valign=top style='width:50.0%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>Case 1: 1</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>Case 2: 0</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>Case 3: 2</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;border:none;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-family:Arial'>Problem setter: Istiaque Zaman</span></b></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>

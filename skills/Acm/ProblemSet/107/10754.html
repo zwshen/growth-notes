@@ -1,0 +1,71 @@
+<html><head><title>Novosibirsk SU contest 1</title>
+<!-- Converted by lt2ht 1.0 (c) Semyon Dyatlov -->
+<link rel="stylesheet" type="text/css" href="contest.css"></head>
+<body>
+<h1>Fantastic Sequence</h1>
+<div class="constraints">Time limit: ? seconds</div>
+<div class="constraints">Memory limit: 64 megabytes</div>
+
+<p>
+A fantastic sequence <span class="math">a<sub>i</sub></span> is defined in the following
+way: <img class="mathimg" src="p107541.png" alt="$a_0,\dots,a_{k-1}$" width="91" height="12">
+ are given integers, and
+the subsequent elements are defined by the linear
+recurrence relation
+<center>
+<img class="mathimg" src="p107542.png" alt="$$
+a_n=\left(\sum\limits_{i=1}^{k}c_ia_{n-i}\right)+c_{k+1}.\ \ (n\geq k)
+$$" width="280" height="55">
+</center>
+
+Here <img class="mathimg" src="p107543.png" alt="$c_1,\dots,c_{k+1}$" width="87" height="13">
+ are known integers.
+<p>
+You have to find <span class="math">a<sub>n</sub></span> mod <span class="math">m</span>
+, where <span class="math">n</span> and <span class="math">m</span> are given.
+<p>
+<h2>Input</h2>
+
+<p>
+The first line of the input contains the number of the test
+cases, which is at most 20. The descriptions of the test cases follow.
+The first line of a test case description contains three integers <span class="math">k</span>
+(<span class="math"><span class="number">0</span> &#8804;  k &#8804;  <span class="number">2</span><span class="number">5</span><span class="number">)</span></span>, <span class="math">m</span> (<img class="mathimg" src="p107545.png" alt="$1\leq m<2^{31}$" width="94" height="19">
+), and <span class="math">n</span> (<img class="mathimg" src="p107546.png" alt="$0\leq
+n<2^{31}$" width="90" height="19">
+) separated by spaces. The second line contains the
+integers <img class="mathimg" src="p107547.png" alt="$c_1,\dots,c_{k+1}$" width="87" height="13">
+ separated by spaces
+(<img class="mathimg" src="p107548.png" alt="$-2^{31}\leq c_i<2^{31}$" width="120" height="19">
+). The third line contains the
+integers <img class="mathimg" src="p107549.png" alt="$a_0,\dots,a_{k-1}$" width="91" height="12">
+ separated by spaces
+(<img class="mathimg" src="p1075410.png" alt="$-2^{31}\leq a_i<2^{31}$" width="122" height="19">
+).
+The test cases are separated by blank lines.
+<p>
+<h2>Output</h2>
+
+<p>
+For each test case in the input, output one nonnegative integer: <span class="math">a<sub>n</sub></span> mod <span class="math">m</span>
+.
+Print a blank line between test cases.
+<p>
+<h2>Examples</h2>
+<table class="examples" cellspacing="0">
+<tr><td class="iofiles">Input</td><td class="iofiles">Output</td>
+
+<p>
+<tr><td class="examples"><pre>
+1
+
+2 10 10
+1 1 0
+1 1
+</pre></td><td class="examples"><pre>
+9
+</pre></td></tr>
+</table>
+
+<p>
+</body></html>

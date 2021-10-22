@@ -1,0 +1,331 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 11 (filtered)">
+<title>Problem E - Another Word Game </title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Liberation Sans";}
+@font-face
+	{font-family:"DejaVu LGC Sans";}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:0in;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+h3
+	{margin-top:14.0pt;
+	margin-right:0in;
+	margin-bottom:14.0pt;
+	margin-left:0in;
+	text-indent:0in;
+	font-size:13.5pt;
+	font-family:"Arial Unicode MS";
+	font-weight:bold;}
+h4
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-indent:0in;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-indent:0in;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoList, li.MsoList, div.MsoList
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:24.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Liberation Sans";
+	color:black;
+	font-style:italic;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:#6633CC;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p
+	{margin-top:14.0pt;
+	margin-right:0in;
+	margin-bottom:14.0pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+address
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-style:italic;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+span.StyleArial16pt
+	{font-family:Arial;
+	font-weight:bold;}
+p.Heading, li.Heading, div.Heading
+	{margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Liberation Sans";
+	color:black;}
+p.Index, li.Index, div.Index
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;}
+p.Preformatted, li.Preformatted, div.Preformatted
+	{margin:0in;
+	margin-bottom:.0001pt;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+p.TableContents, li.TableContents, div.TableContents
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;}
+p.TableHeading, li.TableHeading, div.TableHeading
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+p.HorizontalLine, li.HorizontalLine, div.HorizontalLine
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:14.15pt;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:6.0pt;
+	font-family:"Times New Roman";
+	color:black;}
+ /* Page Definitions */
+ @page Section1
+	{size:595.25pt 841.85pt;
+	margin:.8in .8in 67.7pt .8in;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US link="#6633CC" vlink=purple>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:20.0pt;font-family:Arial'>Problem B</span></b><span
+style='font-family:Arial'><br>
+</span><b><span style='font-size:20.0pt;font-family:Arial'>Another Word Game</span></b><b><span
+style='font-size:20.0pt;font-family:Arial'> </span></b><span style='font-family:
+Arial'><br>
+<b>Input: </b>Standard Input</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:Arial'>Output: </span></b><span style='font-family:Arial'>Standard
+Output </span></p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoNormal>This is just another word game. You are given a dictionary
+of words. Each of the word has a weight <b>W</b>, which is an integer value.
+You are given another string <b>S</b>. Initially your score is zero. In each
+turn you can mark some consecutive characters. If these consecutive characters
+create a word in the given dictionary, corresponding weight will be added to
+your score, otherwise a penalty <b>P</b> will be subtracted word length times
+from your score. Here word length is number of character in a word, and <b>P</b>
+is an integer value. What is the maximum score you can gain?</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify'>Note that your have to make a
+move until all characters of S are marked, and you cannot mark one character
+more than once.</p>
+
+<h5 style='margin-left:0in;text-align:justify;text-indent:0in'><span
+class=StyleArial16pt><span style='font-size:16.0pt'>Input</span></span></h5>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify'>Input will start with an integer
+number <b>T </b>(T&#8804;20), which indicates the number of test case. Each
+test case starts with two integer <b>N</b> (N &#8804; 10000) and <b>P</b> (0
+&#8804; P &#8804; 10000). Here <b>N</b> is the number of words in the
+dictionary and <b>P</b> is the value of Penalty. Each of the next <b>N</b>
+lines will contain a word and corresponding integer weight <b>W</b> 
+(0 &#8804; W &#8804; 10000). No word of
+this dictionary will contain more than 100 characters, and a word will only
+contain lower case alphabet ('a', 'b', ... ,'z'). The last line of the input
+will contain string <b>S</b>. S will not contain more than <b>10000</b>
+characters, and will contain only lower case letters.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h4 style='margin-left:0in;text-indent:0in'><span class=StyleArial16pt><span
+style='font-size:16.0pt'>Output </span></span></h4>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify'>For each test case you have to
+output one line which &quot;Case #:&quot; where # is replaced by the case
+number, then a space, then the maximum score.</p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<h1 align=left style='margin-left:0in;text-align:left;text-indent:0in'><b><span
+style='font-size:16.0pt;font-family:Arial;font-style:normal'>Sample Input                             
+Output for Sample Input</span></b></h1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='margin-left:-1.0pt;border-collapse:collapse'>
+ <tr>
+  <td width=313 valign=top style='width:234.9pt;border:solid black 1.0pt;
+  border-right:none;background:#CCCCCC;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='layout-grid-mode:char;text-autospace:ideograph-numeric'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>3<br>
+  2 5<br>
+  ab 2<br>
+  cd 3<br>
+  abcd<br>
+  3 5<br>
+  ab 2<br>
+  cd 3<br>
+  bc 16<br>
+  abcd<br>
+  1 100<br>
+  abd 1<br>
+  abcd</span></p>
+  </td>
+  <td width=339 valign=top style='width:254.0pt;border:solid black 1.0pt;
+  background:#CCCCCC;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:11.0pt;
+  font-family:"Courier New"'>Case 1: 5<br>
+  Case 2: 6<br>
+  Case 3: -400</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
+
+<div style='border:none;border-bottom:double gray 1.0pt;padding:0in 0in 0in 0in'>
+
+<p class=HorizontalLine>&nbsp;</p>
+
+</div>
+
+<p class=MsoNormal>Problemsetter: Md. Arifuzzaman Arif</p>
+
+<p class=MsoNormal>Special Thanks to: Sabbir Yousuf Sanny</p>
+
+</div>
+
+</body>
+
+</html>

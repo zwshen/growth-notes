@@ -1,0 +1,223 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Best Trap</TITLE>
+<META NAME="description" CONTENT="Best Trap">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Best Trap</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Construction of your new science lab has just ended. In the floor you have deployed your newly invented equipment. 
+If deployed beneath the floor, It displays the co-ordinates of points in the floor which are occupied by any material,
+even light-weighted ones. They are displayed in a computer which is located in control room. 
+
+<P>
+You are entering the room and switching the equipment on. The under-floor lighting has revealed you that 
+several mosquitoes are on the floor. Ha ! You have discovered a real-time use for your newly invented equipment. 
+Conical nets are available with the lab-incharge. You can place a net in the floor and all the mosquitoes inside the net
+will be caught. All the mosquitoes that are not caught will fly-off and escape.You have only one attempt. 
+But you are greedy! You want to catch maximum mosquitoes. You are a brilliant guy. You are rushing to the control room 
+for co-ordinates of mosquitoes. You decide to catch them so you are asking the lab-incharge for a net. 
+He gives you a net(CONICAL) of base radius <SPAN CLASS="MATH"><I>r</I></SPAN>
+<tex2html_verbatim_mark>. He is asking you how many you can catch with that net. Answer him.
+
+<P>
+Given the size of the room <SPAN CLASS="MATH"><I>N</I> <TT>*</TT> <I>N</I></SPAN>
+<tex2html_verbatim_mark> , number of mosquitoes num , Base-radius of net <SPAN CLASS="MATH"><I>r</I></SPAN>
+<tex2html_verbatim_mark>, which is a double 
+and co-ordinates of the mosquitoes which are double values, print the maximum number of mosquitoes you can trap.
+The centre of the room is taken as the origin 0,0. So, If size is <SPAN CLASS="MATH"><I>N</I></SPAN>
+<tex2html_verbatim_mark>, rooms corners are <SPAN CLASS="MATH">(<I>N</I>/2, <I>N</I>/2)</SPAN>
+<tex2html_verbatim_mark> , <!-- MATH
+ $(-N/2,N/2)$
+ -->
+<SPAN CLASS="MATH">(- <I>N</I>/2, <I>N</I>/2)</SPAN>
+<tex2html_verbatim_mark>, 
+<!-- MATH
+ $(N/2,-N/2)$
+ -->
+<SPAN CLASS="MATH">(<I>N</I>/2, - <I>N</I>/2)</SPAN>
+<tex2html_verbatim_mark> and <!-- MATH
+ $(-N/2,-N/2)$
+ -->
+<SPAN CLASS="MATH">(- <I>N</I>/2, - <I>N</I>/2)</SPAN>
+<tex2html_verbatim_mark>.
+
+<P>
+
+<P>
+<BR>
+
+<SPAN  CLASS="textbf">NOTE:</SPAN>
+
+<P>
+A mosquitoe at <SPAN CLASS="MATH"><I>x</I></SPAN>
+<tex2html_verbatim_mark>,<SPAN CLASS="MATH"><I>y</I></SPAN>
+<tex2html_verbatim_mark> is inside the conical net which is of radius <SPAN CLASS="MATH"><I>r</I></SPAN>
+<tex2html_verbatim_mark> and at centre <SPAN CLASS="MATH"><I>x</I>0</SPAN>
+<tex2html_verbatim_mark>,<SPAN CLASS="MATH"><I>y</I>0</SPAN>
+<tex2html_verbatim_mark> iff <!-- MATH
+ $(x-x0)^{\wedge}2+(y-y0)^{\wedge}2 \le r^{\wedge}2$
+ -->
+<SPAN CLASS="MATH">(<I>x</I> - <I>x</I>0)<SUP><IMG
+ WIDTH="13" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="11406img1.png"
+ ALT="$\scriptstyle \wedge$"></SUP>2 + (<I>y</I> - <I>y</I>0)<SUP><IMG
+ WIDTH="13" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="11406img1.png"
+ ALT="$\scriptstyle \wedge$"></SUP>2<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11406img2.png"
+ ALT="$ \le$"><I>r</I><SUP><IMG
+ WIDTH="13" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="11406img1.png"
+ ALT="$\scriptstyle \wedge$"></SUP>2</SPAN>
+<tex2html_verbatim_mark>.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+First line contains no. of test cases <SPAN CLASS="MATH"><I>t</I></SPAN>
+<tex2html_verbatim_mark>.
+
+<P>
+First line of each test case contains size of room, base radius of net, number of mosquitoes in the format "<!-- MATH
+ $N \ r \ num$
+ -->
+<SPAN CLASS="MATH"><I>N</I>&nbsp;<I>r</I>&nbsp;<I>num</I></SPAN>
+<tex2html_verbatim_mark>".
+
+<P>
+<!-- MATH
+ $1 \le N \le 10000: \ \  0.1 \le r \le 10000.0 : \ \ 1 \le num \le 15$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11406img2.png"
+ ALT="$ \le$"><I>N</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11406img2.png"
+ ALT="$ \le$">10000 : &nbsp; 0.1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11406img2.png"
+ ALT="$ \le$"><I>r</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11406img2.png"
+ ALT="$ \le$">10000.0 : &nbsp; 1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11406img2.png"
+ ALT="$ \le$"><I>num</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11406img2.png"
+ ALT="$ \le$">15</SPAN>
+<tex2html_verbatim_mark>
+
+<P>
+There are num lines following the first line of the test case, each representing a mosquitoes co-ordinate in the form ``<SPAN CLASS="MATH"><I>xi</I>&nbsp;<I>yi</I></SPAN>
+<tex2html_verbatim_mark>"
+<!-- MATH
+ $-N/2 \le xi,yi \le N/2$
+ -->
+<SPAN CLASS="MATH">- <I>N</I>/2<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11406img2.png"
+ ALT="$ \le$"><I>xi</I>, <I>yi</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11406img2.png"
+ ALT="$ \le$"><I>N</I>/2</SPAN>
+<tex2html_verbatim_mark>. The Co-ordinates are floating point numbers.
+
+<P>
+No leading zeros. Floating point numbers are either in whole number format or in decimal point format.
+
+<P>
+Co-ordinates for a test case are non-repetitive. (No two <SPAN CLASS="MATH"><I>xi</I>, <I>yi</I></SPAN>
+<tex2html_verbatim_mark> in a test case is same).
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Ouput</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Each line should contain the maximum number of mosquitoes that can be trapped for the corresponding test case.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+4
+10 0.9 4
+0 1
+1 0
+-1 0
+0 -1
+10 1 4
+0 1
+1 0
+-1 0
+0 -1
+10000 0.61 4
+1.1 0.1
+1.2 0.3
+0.4 -2.0
+1.1 -0.9
+10000 4.7532 4
+5 0
+3 4
+-4 3
+2 2
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2
+4
+3
+4
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

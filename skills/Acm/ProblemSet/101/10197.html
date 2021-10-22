@@ -1,0 +1,240 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Learning Portuguese</TITLE>
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Problem D: Learning Portuguese</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+<P>
+Portuguese is one of the most beautiful languages in the whole world, but almost everyone
+who speaks Portuguese is either brazilian or portuguese. Since people all around the world (and not just
+brazilians) are participating in this contest, we would like to help you to begin
+learning portuguese with this problem. Well, the program you'll write will help you (if it's
+correct).
+<p>
+All you must to do is to write a <i>conjugator</i>, that is, a program that conjugates verbs. In
+English there's not much to do when the verb is "regular" (it follows some model). But in Portuguese
+it's a bit different. But don't worry, we'll explain all you need to know in order to learn
+how to conjugate regular portuguese verbs.
+<p>
+First of all, let's learn the pronouns, which you'll use to conjugate the verbs:
+<p>
+<center>
+
+<TABLE BORDER=1>
+<TR>
+	<TD><B>English</B></TD>
+	<TD><B>Portuguese</B></TD>
+</TR>
+<TR>
+	<TD>I</TD>
+	<TD>Eu</TD>
+</TR>
+<TR>
+	<TD>You</TD>
+	<TD>Tu</TD>
+</TR>
+<TR>
+	<TD>He/She</TD>
+	<TD>Ele/Ela</TD>
+</TR>
+<TR>
+	<TD>We</TD>
+	<TD>N&oacute;s</TD>
+</TR>
+<TR>
+	<TD>You</TD>
+	<TD>V&oacute;s</TD>
+</TR>
+<TR>
+	<TD>They</TD>
+	<TD>Eles/Elas</TD>
+</TR>
+</TABLE>
+</center>
+<p>
+The "&oacute;" character is represented by ASCII code 243. It doesn't matter how it looks on
+your screen, use ASCII character 243 when writing "nós" and "vós"! In Portuguese, all verbs in the infinitive 
+mode have one of these sufixes: <B>ar</B> (first conjugations), <B>er</B> (second conjugation) and 
+<B>ir</B> (third conjugation). For instance, "amar" (to love) is from the first conjugation, whereas
+"correr" (to run) is from the second, and "partir" (to go away) is from the third. So, you can recognize
+from which conjugations is the verb by its sufix (of course there are some exceptions to this rules,
+but we're not going to handle them). 
+<p>
+We call "<B>root</B>" the verb in the infinitive mode without the sufix (so, for these three verbs we 
+just saw, we have "am", "corr" and "part" as roots). We call the <B>"thematic vowel" </B>
+(<B>tv</B> for short) the vowel of the sufix (i.e. "a", "e" or "i").
+<p>
+To conjugate regular verbs, all you have to do is to find out from which conjugations is the verb and,
+then, follow the model for that conjugation. In this problem we are only interested in the "presente
+tense", so here are the models for all conjugations on the presente tense:
+<p>
+
+<center>
+<TABLE BORDER=1>
+<TR>
+	<TD><B>Pronoun</B></TD>
+	<TD><B>1st Conjugation</B></TD>
+	<TD><B>2nd Conjugation</B></TD>
+	<TD><B>3rd Conjugation</B></TD>
+</TR>
+<TR>
+	<TD>Eu</TD>
+	<TD>root + o</TD>
+	<TD>root + o</TD>
+	<TD>root + o</TD>
+</TR>
+<TR>
+	<TD>Tu</TD>
+	<TD>root + tv + s</TD>
+	<TD>root + tv + s</TD>
+	<TD>root + es</TD>
+</TR>
+<TR>
+	<TD>Ele/Ela</TD>
+	<TD>root + tv</TD>
+	<TD>root + tv</TD>
+	<TD>root + e</TD>
+</TR>
+<TR>
+	<TD>N&oacute;s</TD>
+	<TD>root + tv + mos</TD>
+	<TD>root + tv + mos</TD>
+	<TD>root + tv + mos</TD>
+</TR>
+<TR>
+	<TD>V&oacute;s</TD>
+	<TD>root + tv + is</TD>
+	<TD>root + tv + is</TD>
+	<TD>root + tv + s</TD>
+</TR>
+<TR>
+	<TD>Eles/Elas</TD>
+	<TD>root + tv + m</TD>
+	<TD>root + tv + m</TD>
+	<TD>root + em</TD>
+</TR>
+</TABLE>
+</center>
+
+<p>
+Let's see, as an example, the conjugation of the three verbs above:
+<p>
+
+<center>
+<TABLE BORDER=1>
+<TR>
+	<TD><B>Pronoun</B></TD>
+	<TD><B>amar</B></TD>
+	<TD><B>correr</B></TD>
+	<TD><B>partir</B></TD>
+</TR>
+<TR>
+	<TD>Eu</TD>
+	<TD>amo</TD>
+	<TD>corro</TD>
+	<TD>parto</TD>
+</TR>
+<TR>
+	<TD>Tu</TD>
+	<TD>amas</TD>
+	<TD>corres</TD>
+	<TD>partes</TD>
+</TR>
+<TR>
+	<TD>Ele/Ela</TD>
+	<TD>ama</TD>
+	<TD>corre</TD>
+	<TD>parte</TD>
+</TR>
+<TR>
+	<TD>N&oacute;s</TD>
+	<TD>amamos</TD>
+	<TD>corremos</TD>
+	<TD>partimos</TD>
+</TR>
+<TR>
+	<TD>V&oacute;s</TD>
+	<TD>amais</TD>
+	<TD>correis</TD>
+	<TD>partis</TD>
+</TR>
+<TR>
+	<TD>Eles/Elas</TD>
+	<TD>amam</TD>
+	<TD>correm</TD>
+	<TD>partem</TD>
+</TR>
+</TABLE>
+</center>
+
+<p>
+So, your task is: given a verb in Portuguese (and its meaning in English), conjugate the verb.
+
+</U></U><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>
+There will be two words per line, v1 and v2. The first one (v1) is the verb in Portuguese, 
+and the second one (v2) is its meaning in English. All words will be formed by just latin 
+lowercase letters (i.e. all letters will lie in the range [a..z]). No word will have more than 30 characters. 
+You must read until you reach the end of file.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>
+For each pair of words, the first line of output must be:
+<PRE>
+v1 (to v2)
+</PRE>
+Where v1 stands for the verb in Portuguese and v2 its meaning in English (as described above).
+After that, you must print 6 lines with the correct conjugation, assuming the verb will be
+regular. The first character of the pronoun must start at the first column of the line. 
+The equivalent conjugation to that pronoun must begin at column 11 of the same line. 
+The space between the pronoun and the conjugation must be filled with
+blanks. If the verb read lies in none of the conjugations given, 
+instead of the conjugation, just print the line
+<PRE>
+Unknown conjugation
+</PRE>
+You must print a blank line between the output sets.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>
+falar talk
+compor compose
+andar walk
+</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>
+falar (to talk)
+eu        falo
+tu        falas
+ele/ela   fala
+nós       falamos
+vós       falais
+eles/elas falam
+
+compor (to compose)
+Unknown conjugation
+
+andar (to walk)
+eu        ando
+tu        andas
+ele/ela   anda
+nós       andamos
+vós       andais
+eles/elas andam
+</PRE>
+
+<HR>
+<B>
+&copy; 2001 Universidade do Brasil (UFRJ). Internal Contest 2001.
+</B>
+
+</BODY>
+</HTML>

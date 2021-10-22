@@ -1,0 +1,83 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<title>Problem E - Eb Alto Saxophone Player</title>
+
+</head>
+
+<body bgcolor="#ffffff" lang=EN-US>
+
+<center>
+<p>
+<b><font size=5>Problem E</font></b><br>
+<b><font size=6>Eb Alto Saxophone Player</font></b><br>
+<b>Input:</b> standard input<br>
+<b>Output:</b> standard output<br>
+<b>Time Limit:</b> 2 seconds<br>
+<b>Memory Limit:</b> 16 MB<br>
+</p>
+</center>
+
+<p>
+Do you like saxophone? I have a Eb Alto Saxophone, shown below.
+<p>
+<center><img src="p10415.jpg"></center>
+<p>
+My fingers move A LOT when playing some music, and I'm quite interested in how many times each finger PRESS the button.
+Assume that the music is composed of only 8 kinds of note. They are: C D E F G A B in one octave and C D E F G A B in a higher octave.
+We use c,d,e,f,g,a,b,C,D,E,F,G,A,B to represent them. The fingers I use for each note are:
+<ul>
+<li>c: finger 2~4, 7~10
+<li>d: finger 2~4, 7~9
+<li>e: finger 2~4, 7, 8
+<li>f: finger 2~4, 7
+<li>g: finger 2~4
+<li>a: finger 2, 3
+<li>b: finger 2
+<li>C: finger 3
+<li>D: finger 1~4, 7~9
+<li>E: finger 1~4, 7, 8
+<li>F: finger 1~4, 7
+<li>G: finger 1~4
+<li>A: finger 1~3
+<li>B: finger 1~2
+</ul>
+<p>
+(Note that every finger is controlling a specified button, different fingers are controlling different buttons.)
+<p>
+Write a program to help count the number of times each finger presses the button. A finger presses a button if it is needed in a note, but not used in the last note. 
+Also, if it is the first note, every finger required presses the button.
+
+<p><b><font size=5>Input</font></b></p>
+<p>
+The first line of the input is a single integer <b>t</b>(<b>1</b>&lt;=<b>t</b>&lt;=<b>1000</b>), indicating the number of test cases.
+For each case, there is only one line containing the song. The only allowed characters are {'c','d','e','f','g','a','b','C','D','E','F','G','A','B'}.
+There are at most <b>200</b> notes in a song, and the song maybe empty.
+</p>
+
+<p><b><font size=5>Output</font></b></p>
+<p>
+For each test case, print <b>10</b> numbers indicating the number of presses for each finger. Numbers are separated by a single space.
+</p>
+
+<p><b><font size=5>Sample Input</font></b><br>
+<font face="Courier" size=3>
+3<br>
+cdefgab<br>
+BAGFEDC<br>
+CbCaDCbCbCCbCbabCCbCbabae<br>
+</font>
+
+<p><b><font size=5>Sample Output</font></b><br>
+<font face="Courier" size=3>
+0 1 1 1 0 0 1 1 1 1<br>
+1 1 1 1 0 0 1 1 1 0<br>
+1 8 10 2 0 0 2 2 1 0<br>
+</font>
+
+<font face="Times New Roman" size=3>
+<hr>
+<b>The 2nd OIBH Online Programming Contest. Author: Rujia Liu</b><br>
+
+</body>
+</html>

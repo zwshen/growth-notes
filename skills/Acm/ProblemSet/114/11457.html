@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+            "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>classified</TITLE>
+
+<META http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<META name="GENERATOR" content="hevea 1.10">
+<STYLE type="text/css">
+.li-itemize{margin:1ex 0ex;}
+.li-enumerate{margin:1ex 0ex;}
+.dd-description{margin:0ex 0ex 1ex 4ex;}
+.dt-description{margin:0ex;}
+.toc{list-style:none;}
+.thefootnotes{text-align:left;margin:0ex;}
+.dt-thefootnotes{margin:0em;}
+.dd-thefootnotes{margin:0em 0em 0em 2em;}
+.footnoterule{margin:1em auto 1em 0px;width:50%;}
+.caption{padding-left:2ex; padding-right:2ex; margin-left:auto; margin-right:auto}
+.title{margin:2ex auto;text-align:center}
+.center{text-align:center;margin-left:auto;margin-right:auto;}
+.flushleft{text-align:left;margin-left:0ex;margin-right:auto;}
+.flushright{text-align:right;margin-left:auto;margin-right:0ex;}
+DIV TABLE{margin-left:inherit;margin-right:inherit;}
+PRE{text-align:left;margin-left:0ex;margin-right:auto;}
+BLOCKQUOTE{margin-left:4ex;margin-right:4ex;text-align:left;}
+TD P{margin:0px;}
+.boxed{border:1px solid black}
+.textboxed{border:1px solid black}
+.vbar{border:none;width:2px;background-color:black;}
+.hbar{border:none;height:2px;width:100%;background-color:black;}
+.hfill{border:none;height:1px;width:200%;background-color:black;}
+.vdisplay{border-collapse:separate;border-spacing:2px;width:auto; empty-cells:show; border:2px solid red;}
+.vdcell{white-space:nowrap;padding:0px;width:auto; border:2px solid green;}
+.display{border-collapse:separate;border-spacing:2px;width:auto; border:none;}
+.dcell{white-space:nowrap;padding:0px;width:auto; border:none;}
+.dcenter{margin:0ex auto;}
+.vdcenter{border:solid #FF8000 2px; margin:0ex auto;}
+.minipage{text-align:left; margin-left:0em; margin-right:auto;}
+.marginpar{border:solid thin black; width:20%; text-align:left;}
+.marginparleft{float:left; margin-left:0ex; margin-right:1ex;}
+.marginparright{float:right; margin-left:1ex; margin-right:0ex;}
+.theorem{text-align:left;margin:1ex auto 1ex 0ex;}
+.part{margin:2ex auto;text-align:center}
+</STYLE>
+</HEAD>
+<BODY >
+<h2>Problem B: Classified</h2>
+<!--HEVEA command line is: /usr/bin/hevea classified.tex -->
+<!--CUT DEF section 1 --><P>
+Classification levels like Secret and Top Secret are well-known features
+of military documents. Less well known are <EM>integrity levels</EM>,
+which correspond to <EM>how reliable</EM> information is.</P><P>In the <B>Dynamic Biba integrity model</B>, every user and every document
+is assigned an integrity level. If a user writes to a document that has
+a higher integrity level than the user does, the document&#X2019;s integrity
+level goes down. Similarly, if a user reads a document that has a lower
+integrity level than the user does, the user&#X2019;s integrity level goes
+down.</P><P>Your job is to keep track of the integrity levels of a number of users
+and documents. Complicating the matter is the fact that integrity
+levels aren&#X2019;t simply numbers; a document might contain very trusworthy
+information about operations in Afganistan, while at the same time
+containing less trustworthy information about operations in Iraq.</P><P>Integrity levels are speficied by arbitrary labels, along with rules of
+the form <I>A</I> &#X2192; <I>B</I>, indicating that integrity level <I>A</I> is at most as
+trustworthy as integrity level <I>B</I>. The rules satisfy a number of
+conditions:</P><UL CLASS="itemize"><LI CLASS="li-itemize">
+For any label <I>A</I>, <I>A</I> &#X2192; <I>A</I> is always true, and need not be
+specified.
+</LI><LI CLASS="li-itemize">If <I>A</I> and <I>B</I> are two different labels, then it can never be the
+case that both <I>A</I> &#X2192; <I>B</I> and <I>B</I> &#X2192; <I>A</I> are true. However, it <EM>can</EM>
+be the case that neither <I>A</I> &#X2192; <I>B</I> nor <I>B</I> &#X2192; <I>A</I> are true.
+</LI><LI CLASS="li-itemize">For any labels <I>A</I>, <I>B</I>, and <I>C</I>, if it is the case that <I>A</I> &#X2192; <I>B</I>
+and <I>B</I> &#X2192; <I>C</I> are both true, you can conclude (without it being
+explicitly specified) that <I>A</I> &#X2192; <I>C</I> is true.
+</LI><LI CLASS="li-itemize">For any two labels <I>A</I> and <I>B</I>, there is a label <I>G</I> = <I>glb</I>(<I>A</I>,<I>B</I>)
+called the <EM>greatest lower bound</EM> of <I>A</I> and <I>B</I>
+such that <I>G</I> &#X2192; <I>A</I> and <I>G</I> &#X2192; <I>B</I> are both true.
+Further, for any label <I>L</I> such that <I>L</I> &#X2192; <I>A</I> and <I>L</I> &#X2192; <I>B</I> are both
+true, it is also the case that <I>L</I> &#X2192; <I>G</I> is true.
+</LI></UL><P>You will be given as input the labels and rules defining the integrity
+levels, as well as the initial integrity level of a number of users and
+a number of documents.
+<p>
+The first line is the number of test cases to follow. The test cases follow,
+one after another; the format of each test case is the following:<p>
+
+The format will be as follows:</P><UL CLASS="itemize"><LI CLASS="li-itemize">
+The first line of the input will contain five integers separated
+by spaces. These integers are the number of integrity levels &#X2113;,
+the number of rules <I>r</I>, the number of users <I>u</I>, the number
+of documents <I>d</I>, and the number of actions <I>a</I>, in that order.
+None of these five integers will be greater than 10000.
+The
+integrity levels are numbered from 1 to &#X2113;; the users from 1 to <I>u</I>,
+and the documents from 1 to <I>d</I>.
+</LI><LI CLASS="li-itemize">The next <I>r</I> lines specify the rules. Each line will consist of
+two integers between 1 and &#X2113;, separated by a space. The line
+&#X201C;<TT><I>x</I></TT><TT> </TT><TT><I>y</I></TT>&#X201D; indicates that integrity level <I>x</I> is at most as
+trustworthy as integrity level <I>y</I> (i.e. <I>x</I> &#X2192; <I>y</I>)
+</LI><LI CLASS="li-itemize">The next <I>u</I> lines specify the initial integrity levels for user
+number 1, 2, &#X2026;, <I>u</I>. Each line will be an integrity level number,
+from 1 to &#X2113;.
+</LI><LI CLASS="li-itemize">The next <I>d</I> lines specify the initial integrity levels for
+document number 1, 2, &#X2026;, <I>d</I>. Each line will be an integrity level
+number, from 1 to &#X2113;.
+</LI><LI CLASS="li-itemize">The next <I>a</I> lines specify the actions; each action will be of one
+of the following two forms (here, <EM>user</EM> is an integer between 1 and
+<I>u</I>, and <EM>document</EM> is an integer between 1 and <I>d</I>):
+<UL CLASS="itemize"><LI CLASS="li-itemize">
+<TT><EM>user</EM></TT><TT> reads </TT><TT><EM>document</EM></TT>: The given user is reading
+the given document. The integrity level for the user should be changed
+to the <I>glb</I> of the old integrity level for the user and the integrity
+level of the document. Output the new integrity level for the user on a
+line by itself.
+</LI><LI CLASS="li-itemize"><TT><EM>user</EM></TT><TT> writes </TT><TT><EM>document</EM></TT>: The given user is writing
+to the given document. The integrity level for the document should be
+changed to the <I>glb</I> of the integrity level for the user and the old
+integrity level of the document. Output the new integrity level for the
+document on a line by itself.
+</LI></UL>
+</LI></UL><h3>
+Sample input:</h3><PRE CLASS="verbatim">
+1
+9 11 2 3 5
+6 9
+2 6
+9 4
+7 5
+3 8
+7 2
+5 3
+8 4
+5 1
+6 1
+1 8
+4
+2
+5
+9
+8
+1 reads 3
+1 writes 2
+2 reads 2
+1 reads 1
+2 writes 1
+</PRE><h3>Output for sample input:</h3><PRE CLASS="verbatim">8
+6
+2
+5
+7
+</PRE><!--CUT END -->
+<!--HTMLFOOT-->
+<!--ENDHTML-->
+<!--FOOTER-->
+<hr>
+<i>Ian Goldberg</i>
+</HTML>

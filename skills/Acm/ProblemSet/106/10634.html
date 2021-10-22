@@ -1,0 +1,534 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./c_files/filelist.xml">
+<link rel=Edit-Time-Data href="./c_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem C: Say No to Memorization</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>10</o:Revision>
+  <o:TotalTime>363</o:TotalTime>
+  <o:LastPrinted>2002-10-30T23:30:00Z</o:LastPrinted>
+  <o:Created>2004-03-04T13:35:00Z</o:Created>
+  <o:LastSaved>2004-03-12T03:52:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>483</o:Words>
+  <o:Characters>2758</o:Characters>
+  <o:Company>BUET</o:Company>
+  <o:Lines>22</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>3387</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Beaconsfield Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:7 0 0 0 19 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:100.0pt;
+	mso-bidi-font-size:24.0pt;
+	font-family:"Beaconsfield Bold";
+	color:silver;
+	mso-font-kerning:0pt;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+h2
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+h3
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:normal;}
+h6
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:normal;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:7;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.5pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#333333;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+tt
+	{mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.6in .8in .6in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:367264271;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1557521376 67698711 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%1\)";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:28.0pt;mso-bidi-font-size:12.0pt;font-family:
+Arial'>Problem C</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>Say </span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:28.0pt;mso-bidi-font-size:
+24.0pt;font-family:Arial'>NO</span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-size:20.0pt;mso-bidi-font-size:24.0pt;font-family:Arial'> to
+Memorization</span></b><span style='font-family:Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input: </b><span style='mso-bidi-font-weight:
+bold'>Standard Input<o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Time Limit: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>2 Seconds<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='color:black;mso-ansi-language:EN;mso-bidi-font-weight:bold'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><a
+name=SECTION0001001000000000000000><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+font-weight:normal'>Kamran is preparing for his term final examinations. He
+understands all the algorithms in the syllabus and expects creative a question
+in the examination hall. But when he looks at a question paper of previous year
+he realizes that he is expecting too much. It is full of questions like “Write
+the pseudo code of Matrix Chain Multiplication Algorithm.”, “Write the pseudo
+code of BFS algorithm.” all of which can be answered with the help of
+memorization (Not memoization). In almost all his courses “Commit to Memory and
+Vomit to Exam Sheet” is the ultimate method of getting good marks. The fact is
+clear and simple that one cannot expect creative questions from people who are
+not creative at all. This lack of creativity is evident in his country’s poor
+status in Science &amp; Technology field. His mind gets lost for some time in
+the past when he dreamt of learning wonderful things while studying in the
+so-called best science &amp; technology university of his country and then he
+comes back again to the bitter present, lost in his clerical study-materials. <o:p></o:p></span></span></a></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></span></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'>Kamran has a very simple but uncommon (I
+mean cannot just be copied from pages of your book) problem for you. Can you
+prove by solving it that you are not one of those who only memorize pseudo
+codes before algorithm exam? The problem is stated below:<o:p></o:p></span></span></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></span></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'>A general equation of second degree with
+two variables is </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman"'>ax<sup>2</sup>
++ by<sup>2</sup> + cxy + dx + ey + f = 0</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'>, You can see that it has six terms on
+the left hand side </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman"'>(LHS)</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'>. A general equation of second degree
+with two variables and with only terms of even degree is </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman"'>ax<sup>2</sup> + by<sup>2</sup> + cxy + d = 0</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'>, which has only four terms in </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman"'>LHS</span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+font-weight:normal'>. A general equation of third degree with two variables
+with only terms of odd degree is </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman"'>ax<sup>3</sup>
++ by<sup>3</sup> + cx<sup>2</sup>y + dxy<sup>2</sup> + ex + fy = 0</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'>, which has only six terms in </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman"'>LHS</span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+font-weight:normal'>. Given the degree </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman"'>(n)</span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+font-weight:normal'> and number of variables </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman"'>(v)</span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+font-weight:normal'> your job is <o:p></o:p></span></span></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-list:l0 level1 lfo2;tab-stops:list .5in'><span style='mso-bookmark:SECTION0001001000000000000000'><![if !supportLists]><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+font-weight:normal'>If </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman"'>n</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'> is even you should determine the number
+of terms in a general equation of </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman"'>n-</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'>degree with </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman"'>v</span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+font-weight:normal'> variables and only with terms of even degree </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman"'>OR</span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+font-weight:normal'> <o:p></o:p></span></span></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-list:l0 level1 lfo2;tab-stops:list .5in'><span style='mso-bookmark:SECTION0001001000000000000000'><![if !supportLists]><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+font-weight:normal'>If </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman"'>n</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'> is odd you should determine the number
+of terms in a general equation of </span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman"'>n-</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman";font-weight:normal'>degree with </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman"'>v</span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+font-weight:normal'> variables and only with terms of odd degree. <o:p></o:p></span></span></span></p>
+
+<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
+style='mso-bookmark:SECTION0001001000000000000000'><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+font-weight:normal'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></span></span></p>
+
+<h6><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial;mso-bidi-font-family:"Times New Roman"'>Input</span></span></span><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial;mso-bidi-font-family:"Times New Roman"'>&nbsp; <o:p></o:p></span></span></h6>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><a name=SECTION0001002000000000000000><span
+style='mso-bidi-font-size:10.0pt'>The input file contains at most <b>5000</b>
+lines of input. Each line contains two integers <b>n(0&lt;=n&lt;=1000) </b>and <b>v(0&lt;v&lt;=1000).
+</b><span style="mso-spacerun: yes"> </span>Input is terminated by a case whose
+value of <b>n </b>and <b>v </b>is zero. This case must not be processed. The
+meaning of <b>n </b>and <b>v </b>is given in the problem statement.<o:p></o:p></span></a></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001002000000000000000'><span
+style='mso-bidi-font-size:10.0pt'>&nbsp;<o:p></o:p></span></span></p>
+
+<p class=MsoHeading7><span style='mso-bookmark:SECTION0001002000000000000000'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial;mso-bidi-font-family:"Times New Roman"'>Output</span></span></span><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial;mso-bidi-font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></span></p>
+
+<p class=MsoBodyText style='mso-layout-grid-align:auto;text-autospace:ideograph-other'><span
+style='mso-bidi-font-size:11.0pt;mso-bidi-font-weight:bold'>For each line of input
+produce one line of output. This line contains one integer </span><b
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-size:11.0pt'>T </span></b><span
+style='mso-bidi-font-size:11.0pt;mso-bidi-font-weight:bold'>that indicates the
+number of terms on the left hand side of a general equation of degree </span><b
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-size:11.0pt'>n,
+v </span></b><span style='mso-bidi-font-size:11.0pt;mso-bidi-font-weight:bold'>variables
+and only of odd degree terms when </span><b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-size:11.0pt'>n </span></b><span style='mso-bidi-font-size:
+11.0pt;mso-bidi-font-weight:bold'>is odd or only of even degree terms when </span><b
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-size:11.0pt'>n </span></b><span
+style='mso-bidi-font-size:11.0pt;mso-bidi-font-weight:bold'>is even. You can
+assume that the input will be such that output will always fit in a </span><b
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-size:11.0pt'>64</span></b><span
+style='mso-bidi-font-size:11.0pt;mso-bidi-font-weight:bold'>-bit signed
+integer.<o:p></o:p></span></p>
+
+<p class=MsoBodyText style='mso-layout-grid-align:auto;text-autospace:ideograph-other'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+Arial;mso-bidi-font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<h1 align=left style='text-align:left'><span style='font-size:16.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial;color:black'>Sample Input<span
+style="mso-spacerun: yes">                           </span>Output for Sample
+Input<o:p></o:p></span></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width=295 valign=top style='width:221.4pt;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>2
+  2<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>4
+  2<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>20
+  10<o:p></o:p></span></b></p>
+  <pre><b><span style='font-size:11.0pt;mso-bidi-font-size:10.0pt'>0 0</span></b></pre><pre><![if !supportEmptyParas]>&nbsp;<![endif]><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></pre></td>
+  <td width=321 valign=top style='width:240.85pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>4<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>9<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>17978389<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !supportEmptyParas]>&nbsp;<![endif]><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='color:black;mso-ansi-language:EN'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<pre><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+font-family:Arial'>Problemsetter: Shahriar Manzoor, Member of Elite Problemsetters' Panel<o:p></o:p></span></b></pre><pre><span
+style='font-size:12.0pt;font-family:Arial;mso-bidi-font-weight:bold'>Special Thanks to</span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+Arial'> Derek Kisman, </span></b><span style='font-size:12.0pt;font-family:
+Arial;mso-bidi-font-weight:bold'>Member of Elite Problemsetters' Panel<span style="mso-spacerun: yes">  </span>(Alternate Sol)</span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+"Times New Roman"'> <o:p></o:p></span></b></pre><pre><b style='mso-bidi-font-weight:
+normal'><span style='font-size:12.0pt;font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></pre><pre
+style='text-align:center'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></pre><pre
+style='text-align:center'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:"Times New Roman"'>“No matter how loud I shout nothing will change as the people related<o:p></o:p></span></pre><pre
+style='text-align:center'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:"Times New Roman"'>to the system don’t want to change it. The big oil producing<o:p></o:p></span></pre><pre
+style='text-align:center'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:"Times New Roman"'>companies never want solar cars in the market, do they?”</span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+"Times New Roman"'><o:p></o:p></span></b></pre><pre><b style='mso-bidi-font-weight:
+normal'><span style='font-size:12.0pt;font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></pre><pre
+style='text-align:right'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></pre></div>
+
+</body>
+
+</html>

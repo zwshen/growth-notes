@@ -1,0 +1,354 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 11 (filtered)">
+<title>Problem A - Chess Queen</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Liberation Sans";}
+@font-face
+	{font-family:"DejaVu LGC Sans";}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:0in;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+h3
+	{margin-top:14.0pt;
+	margin-right:0in;
+	margin-bottom:14.0pt;
+	margin-left:0in;
+	text-indent:0in;
+	font-size:13.5pt;
+	font-family:"Arial Unicode MS";
+	font-weight:bold;}
+h4
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-indent:0in;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-indent:0in;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoList, li.MsoList, div.MsoList
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:24.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Liberation Sans";
+	color:black;
+	font-style:italic;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:#6633CC;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p
+	{margin-top:14.0pt;
+	margin-right:0in;
+	margin-bottom:14.0pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+address
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-style:italic;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+span.StyleArial16pt
+	{font-family:Arial;
+	font-weight:bold;}
+p.Heading, li.Heading, div.Heading
+	{margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Liberation Sans";
+	color:black;}
+p.Index, li.Index, div.Index
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;}
+p.Preformatted, li.Preformatted, div.Preformatted
+	{margin:0in;
+	margin-bottom:.0001pt;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+p.TableContents, li.TableContents, div.TableContents
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;}
+p.TableHeading, li.TableHeading, div.TableHeading
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+p.HorizontalLine, li.HorizontalLine, div.HorizontalLine
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:14.15pt;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:6.0pt;
+	font-family:"Times New Roman";
+	color:black;}
+ /* Page Definitions */
+ @page Section1
+	{size:595.25pt 841.85pt;
+	margin:.8in .8in 67.7pt .8in;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body bgcolor=white lang=EN-US link="#6633CC" vlink=purple>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:20.0pt;font-family:Arial'>Problem A</span></b><span
+style='font-family:Arial'><br>
+</span><b><span style='font-size:20.0pt;font-family:Arial'>Chess Queen </span></b><span
+style='font-family:Arial'><br>
+<b>Input: </b>Standard Input</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:Arial'>Output: </span></b><span style='font-family:Arial'>Standard
+Output </span></p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify'>You probably know how the game of
+chess is played and how chess queen operates. Two chess queens are in attacking
+position when they are on same row, column or diagonal of a chess board.
+Suppose two such chess queens (one black and the other white) are placed on
+(2x2) chess board. They can be in attacking positions in 12 ways, these are
+shown in the picture below: </p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse'>
+ <tr style='height:207.85pt'>
+  <td width=375 valign=top style='width:280.9pt;border:solid black 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:207.85pt'>
+  <p class=MsoNormal style='text-align:justify;layout-grid-mode:char'>
+  <table cellpadding=0 cellspacing=0>
+   <tr>
+    <td width=4 height=0></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td><img width=347 height=254 src="p11538.jpg"></td>
+   </tr>
+  </table>
+  <br clear=ALL>
+  </p>
+  </td>
+ </tr>
+ <tr>
+  <td width=375 valign=top style='width:280.9pt;border:solid black 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;layout-grid-mode:char'>Figure:
+  in a (2x2) chessboard 2 queens can be in attacking position in 12 ways</p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal style='text-align:justify'>Given an (<b>N</b>x<b>M</b>)
+board you will have to decide in how many ways 2 queens can be in attacking
+position in that.</p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<h5 style='margin-left:0in;text-align:justify;text-indent:0in'><span
+class=StyleArial16pt><span style='font-size:16.0pt'>Input</span></span></h5>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify'>Input file can contain up to 5000
+lines of inputs. Each line contains two non-negative integers which denote the
+value of <b>M</b> and <b>N</b> (<b>0&lt; M, N</b><b><span style='font-family:
+Symbol'>£</span>10<sup>6</sup></b>) respectively.</p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoBodyText2>Input is terminated by a line containing two zeroes.
+These two zeroes need not be processed.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h4 style='margin-left:0in;text-indent:0in'><span class=StyleArial16pt><span
+style='font-size:16.0pt'>Output </span></span></h4>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify'>For each line of input produce
+one line of output. This line contains an integer which denotes in how many
+ways two queens can be in attacking position in  an (<b>MxN</b>) board, where
+the values of <b>M</b> and <b>N</b> came from the input. All output values will
+fit in 64-bit signed integer.</p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<h1 align=left style='margin-left:0in;text-align:left;text-indent:0in'><b><span
+style='font-size:16.0pt;font-family:Arial;font-style:normal'>Sample
+Input                              Output for Sample Input</span></b></h1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='margin-left:-1.0pt;border-collapse:collapse'>
+ <tr>
+  <td width=313 valign=top style='width:234.9pt;border:solid black 1.0pt;
+  border-right:none;background:#CCCCCC;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='layout-grid-mode:char;text-autospace:ideograph-numeric'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>2 2</span></p>
+  <p class=MsoNormal style='text-autospace:ideograph-numeric'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>100 223</span></p>
+  <p class=MsoNormal style='text-autospace:ideograph-numeric'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>2300 1000</span></p>
+  <p class=MsoNormal style='text-autospace:ideograph-numeric'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>0 0</span></p>
+  </td>
+  <td width=339 valign=top style='width:254.0pt;border:solid black 1.0pt;
+  background:#CCCCCC;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:11.0pt;
+  font-family:"Courier New"'>12</span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New"'>10907100</span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New"'>11514134000</span></p>
+  </td>
+ </tr>
+</table>
+
+<div style='border:none;border-bottom:double gray 1.0pt;padding:0in 0in 0in 0in'>
+
+<p class=HorizontalLine>&nbsp;</p>
+
+</div>
+
+<p class=MsoNormal>Problemsetter: Shahriar Manzoor</p>
+
+<p class=MsoNormal>Special Thanks to: Mohammad Mahmudur Rahman</p>
+
+</div>
+
+</body>
+
+</html>

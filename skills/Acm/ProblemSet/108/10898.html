@@ -1,0 +1,134 @@
+
+<!--Converted with LaTeX2HTML 2002-2-1 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>D: Combo Deal</TITLE>
+<META NAME="description" CONTENT="D: Combo Deal">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2002-2-1">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+D: Combo Deal</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+A fast food store offers a series of ``combo meal deals" in addition to individually priced items. For example, the menu at the store may look like this: 
+
+<P>
+<PRE><TT>
+Hamburger 							 $3.49 
+<BR>
+Fries 								 $0.99 
+<BR>
+Pop 								 $1.09 
+<BR>
+Ice Cream 							 $2.19 
+<BR>
+Value Meal (1 Hamburger, 1 Fries, 1 Pop) 			 $4.79 
+<BR>
+Lovers-Only (2 Hamburgers, 2 Fries, 2 Pops, 1 Ice Cream)	 $9.99 
+<BR>
+</TT></PRE> 
+Buying a combo is cheaper than buying its items individually. 
+
+<P>
+
+<P>
+<BR>
+A parent of many kids (or a coach of many students) face this recurring problem: I need to get, say, 9 hamburgers, 6 fries, and 8 pops. How do I fit this into the menu, using the combo deals optimally, so as to pay as little as possible? Note that I am a conservativist, so I don't buy more food than I need.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input contains several test cases, each of them with a menu and several orders. 
+
+<P>
+
+<OL>
+<LI>Menu: Individual items, then combos. 
+
+<P>
+<DL COMPACT>
+<DT>(a)</DT>
+<DD>Individual items: number of items <SPAN CLASS="MATH"><IMG
+ WIDTH="45" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10898img1.png"
+ ALT="$I \le 6$"></SPAN>, then their prices (at most $10 each).
+</DD>
+<DT>(b)</DT>
+<DD>Combos: number of combos (at most 8), then for each combo, its composition as an <SPAN CLASS="MATH"><IMG
+ WIDTH="13" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10898img2.png"
+ ALT="$I$"></SPAN>-tuple of quantities and its price. 
+</DD>
+</DL>
+
+<P>
+Example: the sample input below encodes the menu above. 
+
+<P>
+</LI>
+<LI>Orders: number of orders (at most 10), then for each order, an <SPAN CLASS="MATH"><IMG
+ WIDTH="13" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10898img2.png"
+ ALT="$I$"></SPAN>-tuple of the wanted quantities. Each element in the tuples is at most 9. 
+</LI>
+</OL>
+
+<P>
+All prices are integers in cents.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each order of each case, output the minimum payment in cents on its own line.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+4 349 99 109 219
+2
+1 1 1 0 479
+2 2 2 1 999
+2
+9 6 8 0
+9 6 8 5
+</PRE> 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+4139
+4700
+</PRE> 
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,158 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Life on Mars?</TITLE>
+<META NAME="description" CONTENT="Life on Mars?">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Life on Mars?</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+Recently, the top-secret space vehicle <SPAN  CLASS="textit">Stardust</SPAN> was launched by the Association for the Cosmos Mission, ACM for short. The sole purpose of this mission is to collect scientific data regarding the existence of life on Mars. As a matter of fact, Stardust is an unmanned vehicle.
+
+<P>
+
+<P><P>
+<BR>
+The <SPAN  CLASS="textit">Stardust Atmospheric and Surface Composition Spectrometer</SPAN>, Stardust's one-of-a-kind instrument, will measure the abundance of atmospheric gases around Mars and detect minerals in its surface materials. Once samples are taken, Stardust will transmit the findings to the <SPAN  CLASS="textit">Stardust Mission</SPAN> back to Earth. Nevertheless, scientists are afraid that upon the existence of <SPAN  CLASS="textit">Martians</SPAN>, Mars inhabitants, they will be clever enough to intercept messages, not only destroying them but also faking them.
+
+<P>
+
+<P><P>
+<BR>
+An Stardust message is a non-empty sequence <!-- MATH
+ $S=S(0)\;S(1)\;\dots\;S(n-1)$
+ -->
+<SPAN CLASS="MATH"><I>S</I> = <I>S</I>(0) &nbsp;<I>S</I>(1) &nbsp;... &nbsp;<I>S</I>(<I>n</I> - 1)</SPAN>
+<tex2html_verbatim_mark> of natural numbers. The <I CLASS="sans">blank</I> is used to delimit the elements of the sequence. A message is considered <SPAN  CLASS="textit">valid</SPAN> if there is a permutation of <SPAN CLASS="MATH"><I>S</I></SPAN>
+<tex2html_verbatim_mark>, say <SPAN CLASS="MATH"><I>S'</I></SPAN>
+<tex2html_verbatim_mark>, such that <SPAN CLASS="MATH"><I>S'</I></SPAN>
+<tex2html_verbatim_mark> is idempotent, that is, for all <!-- MATH
+ $0 \leq i < |S'|$
+ -->
+<SPAN CLASS="MATH">0 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11508img1.png"
+ ALT="$ \leq$"> <I>i</I> &lt; | <I>S'</I>|</SPAN>
+<tex2html_verbatim_mark> it holds that <!-- MATH
+ $S'(S'(i)) = S'(i)$
+ -->
+<SPAN CLASS="MATH"><I>S'</I>(<I>S'</I>(<I>i</I>)) = <I>S'</I>(<I>i</I>)</SPAN>
+<tex2html_verbatim_mark>. Any non-valid sequence is considered <SPAN  CLASS="textit">hacked</SPAN>.
+
+<P>
+
+<P><P>
+<BR>
+You have been assigned to the Stardust Mission. Your task is to write an efficient verifier for the messages received from the Stardust.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input consists of several test cases, one per line. Each test case contains a Stardust message: a non-empty sequence <!-- MATH
+ $S=S(0)\;S(1)\;\dots\;S(n-1)$
+ -->
+<SPAN CLASS="MATH"><I>S</I> = <I>S</I>(0) &nbsp;<I>S</I>(1) &nbsp;... &nbsp;<I>S</I>(<I>n</I> - 1)</SPAN>
+<tex2html_verbatim_mark> of natural numbers (<!-- MATH
+ $1 \leq n \leq 10^5$
+ -->
+<SPAN CLASS="MATH">1 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11508img1.png"
+ ALT="$ \leq$"> <I>n</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11508img1.png"
+ ALT="$ \leq$"> 10<SUP>5</SUP></SPAN>
+<tex2html_verbatim_mark>). The <I CLASS="sans">blank</I> is used to delimit the elements of the sequence.
+
+<P>
+
+<P><P>
+<BR>
+The end of the input is indicated when the Stardust message is ``<TT>0</TT>''. Do not proccess this last line.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each case in the input, print one line. If the input message is valid, any idempotent permutation of the input message <SPAN CLASS="MATH"><I>S</I></SPAN>
+<tex2html_verbatim_mark> must be printed following the format of the input messages. If the input message is hacked, the warning ``<TT>Message hacked by the Martians!!!</TT>'' must be printed in a single line.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2 0 1
+2 1 1
+3 2 2
+2 2 2
+1 2 2 1 1
+2 4 1 3 0
+2 4 2 3 0
+2 4 6 3 0
+5 8 1 9 4 0 7 11 2 6 10 3
+5 2 1 2 4 0 7 11 2 6 2 3
+1 2 1 2 1 0 7 11 2 6 2 1
+1 2 1 2 1 0 7 7 2 6 2 1
+1 2 1 2 1 0 7 7 2 6 12 1
+0
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+0 1 2
+1 1 2
+Message hacked by the Martians!!!
+2 2 2
+1 1 2 1 2
+0 1 2 3 4
+0 2 2 3 4
+Message hacked by the Martians!!!
+0 1 2 3 4 5 6 7 8 9 10 11
+0 1 2 3 4 5 6 7 2 2 2 11
+0 1 2 1 1 1 6 7 2 2 2 11
+0 1 2 1 1 1 6 7 2 2 2 7
+Message hacked by the Martians!!!
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Colombia'2008
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

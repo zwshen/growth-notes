@@ -1,0 +1,115 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+   <meta name="Author" content="S. M. Mahbub Murshed">
+   <meta name="Description" content="Cheapest way">
+   <title>Cheapest way</title>
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+</head>
+<body bgcolor="#FFFFFF" LANG="EN">
+  <center>
+  <table BGCOLOR="#CCCCFF" style="border-collapse: collapse" bordercolor="#111111" cellpadding="0" cellspacing="0" >
+<tr>
+<td align="center"><font size="+2" color="#000099"><b>Brightness of Brain
+Contest </b></font><br><font size="+2" color="#000099">
+Problem H</font><br>
+<font size="4" color="#000099">Time limit: 1 second Memory: 32 MB</font></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#0070E8">
+<p align="center"><a NAME="SECTION0001000000000000000000"></a><b>
+<font size=+2 color="#C0FFFF">Cheapest way</font></b></td>
+</tr>
+</table></center>
+
+<h2>
+<a NAME="SECTION0001002000000000000000"></a><font color="#0070E8">The Problem</font></h2>
+  <b>``Moutushi Enterprise''</b> a leading transport company of Bangladesh is quite anxious
+about their current business status. For some recent months they aren't earning
+profitable money as they did before. They investigated over it and found that it
+is the change in the tax policy that caused them so. For this reason they want
+to reroute their ways and charge the passengers on the cost of that route.<p>The cost a
+bus has to bear is the cost of the oil it needs for that journey, along with
+some money paid on each station it touches. The profit is ten percent of the
+cost. Then the amount is divided by the total number of sits in the bus and the
+seat fare is then determined.</p>
+<p>You are given the description of the city map, you are to determine the cheapest
+way of the map and the seat fare each passenger have to bear.<br>&nbsp; </p>
+<h2>
+<a NAME="SECTION0001003000000000000000"></a><font color="#0070E8">The Input</font></h2>
+The first line of the input indicates the number of map to process. Each map
+contains three sections. Section A contains the stations that the map contains.
+First line of this section is an integer <b>``<tt>nStation</tt>''</b> (0&lt;<b>`<tt>nStation</tt>'</b>&lt;20) indicating number of
+stations the path have. Next <b>`<tt>nStation</tt>'</b> line contains station name and the money
+that have to pay to pass through this station. Next section starts with an
+integer <b>``<tt>nPath</tt>''</b> (0&lt;<b>`<tt>nPath</tt>'</b>&lt;20)indicating number of paths that connects two stations. Next 
+  <b>`<tt>nPath</tt>'</b>
+contains <b>``<tt>station1 station2 distance</tt>''</b>, describing <b>`<tt>station1</tt>'</b> has a path to
+  <b>`<tt>station2</tt>'</b> with distance equal to <b>`<tt>distance</tt>'</b> in kilometer and
+  vice versa. Each kilometer costs
+an oil consumption of 2 taka (unit of money in Bangladesh). The third section
+consists of a integer <b>``<tt>nQuery</tt>''</b> (0&lt;<b>`<tt>nQuery</tt>'</b>&lt;10)with <b>`<tt>nQuery</tt>' </b>line of input. Each line have a
+query to follow in the format <b>``<tt>station1 station2 passenger</tt>''</b>, asking to find
+the best path from station1 to station2 and what will be the cost for each
+passenger for a bus with <b>`<tt>passenger</tt>'</b> amount of seat. It is guaranteed
+that each map description is valid, and the query has a valid and unique path.<h2>
+<a NAME="SECTION0001004000000000000000"></a><font color="#0070E8">The Output</font></h2>
+  For each map print <b>``<tt>Map #X</tt>''</b>, where <b>`<tt>X</tt>'</b> is the map number starting from 1. Then
+for each query print <b>``<tt>Query #Y</tt>''</b>, where <b>`<tt>Y</tt>'</b> is 
+  the query number for each map starting from 1. Then for each query print the 
+  suitable path followed by the fare each passenger have to bear (rounded to the 
+  second digit after the decimal point) as shown below.<h2>
+<a NAME="SECTION0001005000000000000000"></a><font color="#0070E8">Sample
+Input</font></h2>
+<pre>2
+
+4
+mirpur12 5
+farmgate 8
+gulistan 10
+newmarket 5
+4
+mirpur12 farmgate 12
+mirpur12 newmarket 20
+farmgate gulistan 10
+newmarket gulistan 8
+2
+mirpur12 gulistan 30
+mirpur12 newmarket 30
+
+3
+uttara 2
+farmgate 8
+gulistan 10
+2
+uttara farmgate 35
+farmgate gulistan 10
+1
+uttara gulistan 30
+</pre>
+
+<h2>
+<a NAME="SECTION0001006000000000000000"></a><font color="#0070E8">Sample
+Output</font></h2>
+
+<pre>Map #1
+Query #1
+mirpur12 farmgate gulistan
+Each passenger has to pay : 2.46 taka
+Query #2
+mirpur12 newmarket
+Each passenger has to pay : 1.83 taka
+
+Map #2
+Query #1
+uttara farmgate gulistan
+Each passenger has to pay : 4.03 taka
+</pre>
+
+<hr><i>Suman Mahbub</i>
+<br><i>Created: 11-10-2002</i>
+<br><i>Updated: 14-12-2002, 20-01-2003</i>
+</body>
+</html>

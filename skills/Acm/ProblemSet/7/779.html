@@ -1,0 +1,93 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="bdf">
+   <meta name="GENERATOR" content="Mozilla/4.76 [en] (Windows NT 5.0; U) [Netscape]">
+   <title>Wily Hacker's Problem</title>
+</head>
+<body>
+&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<center><table BGCOLOR="#0060F0" >
+<tr>
+<td><a NAME="SECTION0001000000000000000000"></a><b><font color="#C0FFFF"><font size=+2>
+&nbsp;Wily Hacker's Problem&nbsp;</font></font></b></td>
+</tr>
+</table></center>
+
+<p>Wily Hacker finds on his chief's desk the encryption scheme of the chief's
+most important messages. He also finds, in his chief's computer, files
+with cryptograms and the associated encryption keys. He wishes to write
+a program for decrypting these cryptograms.
+<p>Wily read a book about modern encryption. He discovered that twenty
+years ago cryptography became the subject of many applications in the domain
+of computer data security. More and more persons wish to make their messages
+and files confidential. A cipher is a secret method of transforming plaintext
+(message) into ciphertext (cryptogram). This operation, called encryption,
+is controlled by an encryption key. There must exist the reverse transformation,
+called decryption, which transforms ciphertext into plaintext using a decryption
+key, which is derived using the encryption key.
+<p>Wily observes that the algorithm shown in the figure encrypts the 64-bit
+message M into the 64-bit cryptogram C, under the control of the 64-bit
+key K.
+<p>The encryption function uses 3 types of operations:
+<ul>
+<li>
+exclusive-or, marked with the symbol <img src=779a.png>;</li>
+
+<li>
+addition module 216, marked with the symbol +;</li>
+
+<li>
+left circular shift, with a number of positions indicated by the input
+K, marked with the symbol <img src=779b.png>.</li>
+</ul>
+All these functions operate on 16-bit operands.
+<p>The algorithm uses the following notations:
+<ul>
+<li>
+M<sub>i</sub>, i=1...4 represents four 16-bit blocks of plaintext;</li>
+
+<li>
+C<sub>i</sub>, i=1...4 represents four 16-bit blocks of cryptogram;</li>
+
+<li>
+K<sub>i</sub>, i=1...4 represents four 16-bit blocks of the encryption
+key.</li>
+</ul>
+After much hard work, Wily finds the correct decryption scheme and the
+method to obtain the decryption keys.
+<p>Your task is to write a program that obtains plain messages from cryptograms
+and decryption keys by discovering a suitable scheme, just like Wily Hacker
+did.
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file should contain several groups of cryptograms and keys. Each
+line consists of a cryptogram, composed of 16 hexadecimal digits (64 bits)
+and, after blank characters, the 16 hexadecimal digits (64 bits) of the
+encryption key.
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+On the output, your program will write the ASCII characters of messages
+(plaintext), one message per line, representing the result of decrypting
+the messages.
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+85bfa0242caa796e&nbsp;&nbsp;&nbsp; 1111222233334444
+4c0d17279cbf4222&nbsp;&nbsp;&nbsp; abcdabcdabcdabcd
+</PRE>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+TEACHERS
+STUDENTS
+</PRE>
+</body>
+</html>

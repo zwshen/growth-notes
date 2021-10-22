@@ -1,0 +1,297 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./c_files/filelist.xml">
+<link rel=Edit-Time-Data href="./c_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem C - Revenge of Faucet Flow</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>36</o:Revision>
+  <o:TotalTime>30</o:TotalTime>
+  <o:Created>2004-05-17T15:23:00Z</o:Created>
+  <o:LastSaved>2004-06-18T10:50:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>259</o:Words>
+  <o:Characters>1477</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>12</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1813</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:18.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:24.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:#772222;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+<meta content="" name=Author>
+<meta content="" name=Keywords>
+<meta content="" name=Description>
+</head>
+
+<body lang=EN-US link="#772222" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoTitle><span style='font-size:28.0pt;mso-bidi-font-size:1.0pt;
+font-family:Arial'>Problem C<o:p></o:p></span></p>
+
+<p class=MsoSubtitle><span class=MsoHyperlink><span style='font-size:20.0pt;
+mso-bidi-font-size:1.0pt;font-family:Arial;color:black;text-decoration:none;
+text-underline:none'>Revenge of Faucet Flow</span></span><span
+style='font-size:20.0pt;mso-bidi-font-size:1.0pt;font-family:Arial;color:black'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none'><b><span style='font-family:Arial;color:black'>Input:</span></b><span
+style='font-family:Arial;color:black'> standard input<br>
+<b>Output:</b> standard output<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Arial;color:black'>Time
+Limit: </span></b><span style='font-family:Arial;color:black;mso-bidi-font-weight:
+bold'>2</span><span style='font-family:Arial;color:black'> seconds</span></p>
+
+<p style='text-align:justify'>A faucet is pouring water into an <b>MxN</b>
+rectangular aquarium.<span style="mso-spacerun: yes">  </span>The aquarium's
+floor is uneven, formed from a number of unit cubes piled on top of one another
+(and glued, to make them watertight).<span style="mso-spacerun: yes"> 
+</span>Thus, every square in the aquarium has a specific height, from <b>0</b>
+to <b>9</b>.<span style="mso-spacerun: yes">  </span>There are no other walls
+or obstructions in or surrounding the aquarium (it is open on all sides).<span
+style="mso-spacerun: yes">  </span>Water pours from the faucet at a rate of <b>1</b>
+cubic unit per second.<span style="mso-spacerun: yes">  </span>How long will it
+take before water begins spilling over one of the sides?</p>
+
+<p style='text-align:justify'>You may assume that the water behaves ideally: it
+instantly spreads out across any flat surface, spilling over all adjacent edges
+at an equal rate of flow.<span style="mso-spacerun: yes">  </span>It cannot
+flow between two cubes that touch, even at a corner.</p>
+
+<h3><span style='font-size:16.0pt;mso-bidi-font-size:13.5pt;font-family:Arial'>Input<o:p></o:p></span></h3>
+
+<p style='text-align:justify'>There are up to <b>20</b> test cases.<span
+style="mso-spacerun: yes">  </span>Each test case begins with a line containing
+two integers <b>M</b> and <b>N</b> <b>(1 &lt;= M,N &lt;= 10)</b>, specifying
+the number of rows and columns in the aquarium, respectively.<span
+style="mso-spacerun: yes">  </span>The next line contains <b>R</b> and <b>C (1
+&lt;= R &lt;= M, 1 &lt;= C &lt;= N)</b>, giving the coordinates of the square
+the faucet is pouring on.<span style="mso-spacerun: yes">  </span><b>(1,1)</b>
+is the upper-left corner.<span style="mso-spacerun: yes">  </span>Finally, <b>M</b>
+lines with <b>N</b> integers are given, specifying the height of each square in
+the aquarium.</p>
+
+<p style='text-align:justify'>Input is terminated with a line containing two
+zeros.</p>
+
+<h3><span style='font-size:16.0pt;mso-bidi-font-size:13.5pt;font-family:Arial'>Output<o:p></o:p></span></h3>
+
+<p style='text-align:justify'>For each case, output one line containing the
+number of seconds it will take before water starts spilling over any of the four
+sides of the aquarium. Print your answer accurate to two decimal places.</p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial;font-style:normal'>Sample
+Input<span style="mso-spacerun: yes">                           </span>Output
+for Sample Input<o:p></o:p></span></b></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width=307 valign=top style='width:3.2in;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;color:black;mso-fareast-language:ZH-CN'>4 4<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;color:black;mso-fareast-language:ZH-CN'>2 2<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;color:black;mso-fareast-language:ZH-CN'>5 3 5 5<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;color:black;mso-fareast-language:ZH-CN'>5 0 2 5<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;color:black;mso-fareast-language:ZH-CN'>5 2 2 5<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;color:black;mso-fareast-language:ZH-CN'>5 5 5 5<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;color:black;mso-fareast-language:ZH-CN'>0 0<o:p></o:p></span></b></p>
+  </td>
+  <td width=309 valign=top style='width:231.85pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;mso-fareast-language:ZH-CN'>6.00<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p class=MsoNormal><b><span style='font-family:Arial'>Problem setter: Derek Kisman,
+Member of Elite Problemsetters' Panel<o:p></o:p></span></b></p>
+
+<h2>Special Thanks: Jimmy Mårdell, Member of Elite Problemsetters' Panel</h2>
+
+</div>
+
+</body>
+
+</html>

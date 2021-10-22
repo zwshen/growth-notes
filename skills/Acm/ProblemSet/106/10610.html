@@ -1,0 +1,297 @@
+<!-- saved from url=(0022)http://internet.e-mail -->
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var mUpTime=new Date(0);
+RealOpenWindow = window.open ;
+function RecordMUpTime(){mUpTime = new Date();}
+function MyWndOpen(url,name,attribute)
+{
+	if(mUpTime)
+	{
+		var openTime=new Date();
+		openTime.setTime(openTime.getTime()-mUpTime.getTime());
+		if ( openTime.getSeconds() < 2 )
+			return(RealOpenWindow(url,name,attribute));
+	}
+}
+function NoError(){return(true);}
+function moveTo(){return true;}
+function resizeTo(){return true;}
+onerror=NoError;
+window.open=MyWndOpen;
+//-->
+</script>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./b_files/filelist.xml">
+<link rel=Edit-Time-Data href="./b_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem B: Gopher and Hawks</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>34</o:Revision>
+  <o:TotalTime>14</o:TotalTime>
+  <o:Created>2003-06-28T05:47:00Z</o:Created>
+  <o:LastSaved>2004-01-23T03:37:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>283</o:Words>
+  <o:Characters>1614</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>13</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1982</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>90</w:Zoom>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+span.SPELLE
+	{mso-spl-e:yes;}
+span.GRAME
+	{mso-gram-e:yes;}
+ /* Font Definitions */
+@font-face
+	{font-family:"Beaconsfield Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:7 0 0 0 19 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:100.0pt;
+	mso-bidi-font-size:24.0pt;
+	font-family:"Beaconsfield Bold";
+	color:silver;
+	mso-font-kerning:0pt;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.8in .8in 67.7pt .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]--><o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags" name="PlaceName"/><o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags" name="PlaceType"/><o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags" name="place"/>
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:28.0pt;mso-bidi-font-size:12.0pt;font-family:
+Arial'>Problem B</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+font-family:Arial'>Gopher and Hawks</span></b><span style='font-family:Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input: </b><span style='mso-bidi-font-weight:
+bold'>Standard Input<o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output <o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Time Limit: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>2 Seconds<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='color:black;mso-ansi-language:EN;mso-bidi-font-weight:bold'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><a
+name=SECTION0001001000000000000000>A gopher sits in a hole located at <b>(xs,
+ys) </b>and wants to get to a hole located at <b>(xt, yt)</b>. The gopher can
+run at a constant speed of <em><b>v</b></em> m/sec. However, if the gopher is
+outside of a hole for more than a <em><b>m</b></em> minutes he will become a
+supper to hawks flying over the holes. Can the gopher make it? </a></p>
+
+<p class=MsoNormal><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial;mso-bidi-font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></span></span></p>
+
+<p class=MsoNormal><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial;mso-bidi-font-family:"Times New Roman"'>Input</span></span></span><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial;mso-bidi-font-family:"Times New Roman"'>&nbsp; <o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify'><a
+name=SECTION0001002000000000000000>The input file contains several sets of
+input. The description of each set is given below:</a></p>
+
+<p style='text-align:justify'><span style='mso-bookmark:SECTION0001002000000000000000'>The
+first line of each set contains two positive integer numbers: <em><b><span
+style='font-style:normal'>v</span></b></em> -- gopher's speed in meters per
+second and <em><b><span style='font-style:normal'>m</span></b></em> -- the time
+after which the gopher becomes prey to hawks if he stays outside a hole. The
+second line of input contains two floating-point numbers: the <b
+style='mso-bidi-font-weight:normal'>(xs, ys)</b> coordinates of the gopher’s starting
+hole. The third line contains the <b style='mso-bidi-font-weight:normal'>(xt,
+yt)</b> coordinates of the target hole. Each Subsequent line of input contains
+two floating point numbers: the <b style='mso-bidi-font-weight:normal'>(x,y)</b>
+coordinates of a gopher hole. All distances are in meters, to the nearest mm. A
+blank line terminates the input for each set.</span></p>
+
+<p style='text-align:justify'><span style='mso-bookmark:SECTION0001002000000000000000'>The
+last input set starts with a line containing two zeroes. This set should not be
+processed. </span></p>
+
+<p class=MsoNormal><span style='mso-bookmark:SECTION0001002000000000000000'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial;mso-bidi-font-family:"Times New Roman"'>Output</span></span></span><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial;mso-bidi-font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></span></p>
+
+<p style='text-align:justify'>For each set of input produce one line of output.
+The description of this line is given below:</p>
+
+<p style='text-align:justify'>If the gopher can make it to the target hole, the
+output line should read <b>&quot;Yes, visiting <em>n</em> other holes.&quot;</b>,
+where <em><b>n</b></em> is the minimal number of intermediate holes the gopher
+has to visit. If the gopher cannot make it the output line should read <b>&quot;No.&quot;</b>
+There are not more than <b>1000</b> gopher holes and all coordinates are
+between <b>-10000</b> and <b>+10000</b>. See the sample input and output for
+details.</p>
+
+<h1 align=left style='text-align:left'><span style='font-size:16.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial;color:black'>Sample Input<span
+style="mso-spacerun: yes">                             </span>Output for Sample
+Input<o:p></o:p></span></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+  <td width=307 valign=top style='width:3.2in;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'><pre><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt'>3 1<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>0.000 0.000<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>500.000 0.000<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>179.000 0.000<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>358.000 0.000<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>&nbsp;<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>5 1<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>0.000 0.000<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>0.000 550.000<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>179.000 0.000<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>0.000 301.000 <o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>&nbsp;<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>0 0</span></b><b><span
+  style='mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></pre></td>
+  <td width=309 valign=top style='width:231.85pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>Yes, visiting 2 other holes.<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>No.<o:p></o:p></span></b></pre>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>&nbsp;<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='color:black;mso-ansi-language:EN'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<pre><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+font-family:"Times New Roman"'>Problemsetter: Piotr Rudnicki, CS Department, <st1:place><st1:PlaceType>University</st1:PlaceType> of <st1:PlaceName>Alberta<o:p></o:p></span></b></pre></div>
+
+</st1:PlaceName></st1:place>
+</body>
+
+</html>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+if(document.layers){document.captureEvents(Event.MOUSEUP);}
+document.onmouseup=RecordMUpTime;
+//-->
+</script>

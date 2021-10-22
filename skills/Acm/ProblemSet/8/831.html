@@ -1,0 +1,207 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Document Validator</TITLE>
+<META NAME="description" CONTENT="Document Validator">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Document Validator</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+Nowadays mark-up languages like <TT>LaTeX</TT>, <TT>HTML</TT>, <TT>SGML</TT>, and <TT>XML</TT> are widely
+used to define, in a completely textual
+mode, the structure of documents. Those languages are composed by tags,
+or annotations, that are used to mark blocks
+of text (their begin and end) in order:
+
+<P>
+
+<UL>
+<LI>to specify the document structure - for instance, the <EM>front material</EM>
+ like the <EM>title</EM>, the <EM>authors</EM>, the <EM>date</EM>, or a <EM>chapter</EM>,
+with its <EM>sections</EM> and <EM>paragraphs</EM>;
+</LI>
+<LI>to give them some special interpretation, or a particular formatting
+ information - for instance, to say that the
+block designates a <EM>country</EM>, a <EM>profession</EM>, a <EM>king</EM>, or the block must
+be printed out in <EM>italic</EM>, or <EM>boldface</EM>.
+</LI>
+</UL>
+
+<P>
+Tags are just words like all the others that belong to the original
+plain text; so, it is necessary to use some lexical
+convention to distinguish those special words (annotations). Also,
+we need some convention to identify the beginning
+and the end of the text block we want to annotate.
+
+<P>
+In the present
+context, our mark-up language follows an approach
+similar to the <TT>SGML</TT> based languages:
+
+<P>
+
+<UL>
+<LI>special characters - square <code>[ ]</code> and curly  <code>{ }</code>
+brackets - are used to identify the words that are tag names;
+</LI>
+<LI>the same tag name is used to setup block boundaries, and a lexical
+ detail defines the opening and closing tag.
+The convention is:
+<code>[opening-tag[</code>, <code>]closing-tag]</code> and <code>{opening-closing-tag}</code>.
+</LI>
+</UL>
+
+<P>
+Paired tags are employed to define the document structure, while single
+tags are used to give meaning or formatting
+information. Tag names (one letter followed by zero or more letters or
+digits) are free, i.e. not previously defined;
+this means that the user of that mark-up language can choose the names
+of the tags he will employ to annotate his
+document. However, to be a <B>valid annotation</B> it must be in conformity
+with the following rules:
+
+<P>
+
+<UL>
+<LI>an <EM>opening-tag</EM> must always have a corresponding <EM>closing-tag</EM>;
+</LI>
+<LI>a <EM>closing-tag</EM> must always have a corresponding <EM>opening-tag</EM>;
+</LI>
+<LI>paired tags may be nested to any level, however the last opening-tag
+ must be closed before any enclosing tag,
+i.e. one external block can not be closed before an internal one;
+</LI>
+<LI>an <EM>opening-closing-tag</EM> can not have other tags inside; in that case,
+ the corresponding block of text will appear
+inside the curly brackets.
+</LI>
+</UL>
+
+<P>
+Given a structured document, supposed to be annotated accordingly to
+the mark-up language above described, write
+a program that validates it, that is that verifies if the tags are
+properly used. If the document is valid (has no errors),
+your program must identify all the different tag names used, separating
+structural and semantic ones.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+<B>The input begins with a single positive integer on a line by itself indicating
+the number of the cases following, each of them as described below.
+This line is followed by a blank line, and there is also a blank line between
+two consecutive inputs.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+The input is a plain text file with tags, following the above stated
+conventions. Assume that lexical conventions
+specified for the three tag types (<code>[opening-tag[</code>, <code>]closing-tag]</code> and
+<code>{opening-closing-tag}</code>) are always complied.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+<B>For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+The output consists of:
+
+<P>
+
+<UL>
+<LI>just 1 line with the word `<TT>ERROR</TT>' if one of the rules above is not
+ observed, making the input an invalid annotated document;
+</LI>
+<LI>2 lists with the tag names found, without duplicates and in the order
+ they appear in the document (from the beginning to the end), 1 word per line.
+ The first list begins with the
+heading line `<TT>STRUCTURAL TAGS</TT>', while
+the second list will begin with the heading line `<TT>SEMANTIC TAGS</TT>.
+Blank lines between those are not allowed.
+</LI>
+</UL>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1
+
+[memo[
+[de[ Comiss ao Cient fica do MIUP ]de]
+[para[ Todos os Concorrentes ]para]
+[data[{bold 2001.set.25}]data]
+[mensagem[
+[parag[Devem ter o m aximo cuidado na leitura dos enunciados.]parag]
+[parag[Desejamos a todos {desejo Calma} e {desejo Boa Sorte}!]parag]
+]mensagem]
+]memo]
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+STRUCTURAL TAGS
+memo
+de
+para
+data
+mensagem
+parag
+SEMANTIC TAGS
+bold
+desejo
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Pedro Henriques, MIUP'2001
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

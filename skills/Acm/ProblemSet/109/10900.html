@@ -1,0 +1,51 @@
+<html><head><title>Problem A: So you want to be a 2&lt;sup&gt;n&lt;/sup&gt;-aire</title></head>
+
+<body>
+<img align=right src=p10900.gif></a><h2>Problem A: So you want to be a 2<sup>n</sup>-aire?</h2>
+
+The player starts with a prize of $1, and is asked a sequence of <em>n</em>
+questions. For each question, he may
+
+<ul>
+<li> quit and keep his prize.
+</li><li> answer the question.
+    If wrong, he quits with nothing.
+    If correct, the prize is doubled, and he continues with the next
+    question.
+</li></ul>
+After the last question, he quits with his prize.
+The player wants to maximize his expected prize.
+<p>
+Once each question is asked, the player is able to assess the
+probability <i>p</i> that he will be able to answer it.
+For each question, we assume that <i>p</i> is a random variable
+uniformly distributed over the range <em>t .. 1</em>.
+</p><p>
+Input is a number of lines, each with two numbers: an integer
+<em>1 &le; n &le; 30</em>, and a real <em>0 &le; t &le; 1</em>.
+Input is terminated by a line containing <tt>0 0</tt>.  This line
+should not be processed.
+</p><p>
+For each input <em>n</em> and <em>t</em>, print the player's expected
+prize, if he plays the best strategy.  Output should be rounded to 
+three fractional digits.
+
+</p><h3>Sample input</h3>
+<pre>1 0.5
+1 0.3
+2 0.6
+24 0.25
+0 0
+</pre>
+
+
+<h3>Output for sample input</h3>
+<pre>
+1.500
+1.357
+2.560
+230.138
+</pre>
+<hr>
+<em>Don Reble</em>
+</body></html>

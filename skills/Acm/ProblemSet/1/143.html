@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Orchard Trees</TITLE>
+<META NAME="description" CONTENT="Orchard Trees">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Orchard Trees</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+An Orchardist has planted an orchard in a rectangle with trees
+uniformly spaced in both directions. Thus the trees form a rectangular
+grid and we can consider the trees to have integer coordinates. The
+origin of the coordinate system is at the bottom left of the following
+diagram:
+<P>
+<P> <IMG ALIGN=BOTTOM ALT="picture23" SRC="143img1.gif"  > <P>
+<P>
+Consider that we now overlay a series of triangles on to this grid.
+The vertices of the triangle can have any real coordinates in the
+range 0.0 to 100.0, thus trees can have coordinates in the range 1 to
+99. Two possible triangles are shown.
+<P>
+<P>
+Write a program that will determine how many trees are contained
+within a given triangle. For the purposes of this problem, you may
+assume that the trees are of point size, and that any tree (point)
+lying exactly on the border of a triangle is considered to be in the
+triangle.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+Input will consist of a series of lines. Each line will contain 6 real
+numbers in the range 0.00 to 100.00 representing the coordinates of a
+triangle. The entire file will be terminated by a line containing 6
+zeroes (0 0 0 0 0 0).
+<P>
+<P>
+Output will consist of one line for each triangle, containing the
+number of trees for that triangle right justified in a field of width
+4.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>1.5 1.5  1.5 6.8  6.8 1.5
+10.7 6.9  8.5 1.5  14.5 1.5
+0 0 0 0 0 0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>  15
+  17</PRE>
+<P>
+</BODY>
+</HTML>

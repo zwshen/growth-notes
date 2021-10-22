@@ -1,0 +1,247 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>The Orc Attack</TITLE>
+<META NAME="description" CONTENT="The Orc Attack">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+The Orc Attack</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10793a.eps}$
+ -->
+<IMG
+ ALIGN="left" BORDER="0"
+ SRC="p10793a.jpg"
+ ALT="\epsfbox{p10793a.eps}">
+</DIV>
+
+<P>
+Gar'dal Grimsight, the hero of the Orc
+horde, is planning a massive attack on the human stronghold. But to overcome
+the stiff resistance of the humans, Grimsight would need an army of mammoth
+size. Realizing this, he wastes no time - all his five buildings start to
+produce units on his command. The Altar of Storms, the Barracks, the Beastiary,
+the Spirit Lodge and the Tauren Totem - these are his five unit producing buildings.
+These buildings are strategically placed in different locations but can have a
+rally point where the units are sent as soon as they are produced. This gives Grimsight
+a good coverage of the territory as well as the flexibility of unit movement.
+
+<P>
+
+<IMG
+ ALIGN="middle" BORDER="0"
+ SRC="p10793b.jpg"
+ ALT="\epsfbox{p10793b.eps}">
+
+<P>
+Now before Grimsight wages the war, the units produced need
+to meet at this rally point in the map. This point should be chosen
+in a way that the <EM>shortest distance</EM> from the five unit producing
+buildings to this location is equal. If there are multiple such spots,
+the units would gather in a place from where the <EM>shortest distance
+to the farthest point</EM> in the map is the minimum. Your task is to help
+the belligerent hero in determining this minimum shortest distance of
+the farthest point.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10793c.eps}$
+ -->
+<IMG
+ ALIGN="left" BORDER="0"
+ SRC="p10793c.jpg"
+ ALT="\epsfbox{p10793c.eps}">
+</DIV>
+
+<P>
+However, a small problem remains. The shortest distance between two points in the map is not necessarily the straight line distance between them. Trees, hills and water sheds can act as obstacle for the free movement of the units. So the units may need to go through different locations to get to the point where they are intended to go. If the distances between all these locations in the map are given, then it is possible to compute the shortest distance traveled by the units. The rally point is one such location in the map that we need to find. To keep it simple, we can treat the buildings as locations in the map as well. You may be relieved to know that in Grimsight's world all the units move from one
+location to another in the shortest possible ways only.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10793d.eps}$
+ -->
+<IMG
+ ALIGN="right" BORDER="0"
+ SRC="p10793d.jpg"
+ ALT="\epsfbox{p10793d.eps}">
+</DIV>
+
+<P>
+Here is a sample scenario. The locations 1 through 5 are the
+five unit producing buildings. Apart from those, there are five more locations
+in the map. As we can see, the locations 9 and 7 are equidistant from the five
+unit producing buildings. So they are the candidates for the rally point. But
+we would choose location 9 over location 7 as the farthest location from 7 has
+a cost of 51 whereas the farthest location from 9 would incur a cost of 40. So
+the cost that Grimsight wants to measure is this distance cost 40.
+
+<P>
+Please note that the sample input/output section
+does not include the example shown here.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+There can be multiple test cases. The first line of input gives you the number of test
+cases, <SPAN CLASS="MATH"><I>T</I></SPAN> (<!-- MATH
+ $1 \le T \le 20$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10793img5.png"
+ ALT="$ \le$"><I>T</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10793img5.png"
+ ALT="$ \le$">20</SPAN>). Then <SPAN CLASS="MATH"><I>T</I></SPAN> test cases follow. The first line of each input gives you
+the number of locations, <SPAN CLASS="MATH"><I>L</I></SPAN> (<!-- MATH
+ $5 < L \le 100$
+ -->
+<SPAN CLASS="MATH">5 &lt; <I>L</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10793img5.png"
+ ALT="$ \le$">100</SPAN>), followed by the number of distance information between
+the locations, <SPAN CLASS="MATH"><I>D</I></SPAN> (<!-- MATH
+ $1 \le D \le 1000$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10793img5.png"
+ ALT="$ \le$"><I>D</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10793img5.png"
+ ALT="$ \le$">1000</SPAN>). Each of
+the next <SPAN CLASS="MATH"><I>D</I></SPAN> lines would contain three integers <SPAN CLASS="MATH"><I>U</I></SPAN>
+(<!-- MATH
+ $1 \le U \le L$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10793img5.png"
+ ALT="$ \le$"><I>U</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10793img5.png"
+ ALT="$ \le$"><I>L</I></SPAN>), <SPAN CLASS="MATH"><I>V</I></SPAN>
+(<!-- MATH
+ $1 \le V \le L$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10793img5.png"
+ ALT="$ \le$"><I>V</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10793img5.png"
+ ALT="$ \le$"><I>L</I></SPAN>) and C
+(<!-- MATH
+ $1 \le C \le 1000$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10793img5.png"
+ ALT="$ \le$"><I>C</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10793img5.png"
+ ALT="$ \le$">1000</SPAN>) indicating a distance of
+cost <SPAN CLASS="MATH"><I>C</I></SPAN> between the locations <SPAN CLASS="MATH"><I>U</I></SPAN> and <SPAN CLASS="MATH"><I>V</I></SPAN>. There may be multiple occurrences of the same <SPAN CLASS="MATH"><I>U</I></SPAN>, <SPAN CLASS="MATH"><I>V</I></SPAN> pair in the
+input - it is up to you to decide which one to use. You should remember that a
+unit does not need to cover any distance if it remains static. We would
+consider the locations 1 through 5 to be the five buildings of our interest.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each of the test case, you
+need to print one line of output. The output for each test case should start
+with the serial number of the map, followed by the minimum possible distance
+from the farthest point. This distance, as we have already mentioned, has to be
+measured from the rally point which is equidistant from the five buildings. It
+is implied that all the locations in the map should be reachable from this
+point. When such a point does not exist you should print a `<TT>-1</TT>' instead.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2
+7 11
+1 7 2
+2 7 2
+3 7 2
+5 7 2
+6 7 1
+1 6 1
+2 6 1
+3 6 1
+4 6 1
+5 6 1
+7 6 1
+6 1
+1 2 3
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+Map 1: 1
+Map 2: -1
+</PRE>
+
+<P>
+
+
+<P>
+<BR>
+<hr>
+<ADDRESS>
+Problem setter: Monirul Hasan<br>
+Special Thanks: Shahriar Manzoor, Md. Kamruzzaman
+</ADDRESS>
+<HR>
+<ADDRESS>
+Miguel Revilla
+2004-12-10
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

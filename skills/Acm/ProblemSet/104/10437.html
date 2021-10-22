@@ -1,0 +1,81 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+   <meta name="Author" content="S. M. Mahbub Murshed">
+   <meta name="Description" content="Playing with Fraction">
+   <title>Playing With Fraction</title>
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+</head>
+<body bgcolor="#FFFFFF" LANG="EN">
+
+<div align="center">
+  <center>
+  <table BGCOLOR="#CCCCFF" style="border-collapse: collapse" bordercolor="#111111" cellpadding="0" cellspacing="0" >
+<tr>
+<td align="center"><font size="+2" color="#000099"><b>Brightness of Brain 
+Contest </b></font><br><font size="+2" color="#000099">
+Problem I</font><br>
+<font size="4" color="#000099">Time limit: 1 second Memory: 16 MB</font></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#0070E8">
+<p align="center"><a NAME="SECTION0001000000000000000000"></a><b>
+<font size=+2 color="#C0FFFF">Playing With Fraction</font></b></td>
+</tr>
+</table></center>
+</div>
+
+<h2>
+<a NAME="SECTION0001002000000000000000"></a><font color="#0070E8">The Problem</font></h2>
+&nbsp;&nbsp;&nbsp; Sometimes it may be found that some numbers if represented in 
+normal integer or floating point value will not be precise enough for some 
+calculation. For example some value like 10/3 if stored as integer the value stored 
+will be 3. Again if stored in floating point value it will be 3.3333 (plus some 
+extra digits of precision). Multiplying it with 3 again will give 9 and 9.9999 
+respectively. If we could keep the number as 10/3 , as we do in our&nbsp; 
+hand calculation (fractional arithmetic) then the problem can be solved.&nbsp;The object oriented 
+programming capability of newer computer languages gave us the power of doing 
+such things as other normal variables like integer.
+<p>&nbsp;&nbsp;&nbsp; Today's scientific calculators even can do such 
+calculations using fractional numbers. This problem also requires you to 
+evaluate some expressions containing, fractional numbers. The expression 
+may  contain arbitrarily deep brackets. The expression may have 
+operators '<tt>+</tt>', '<tt>-</tt>' , '<tt>*</tt>' and '<tt>/</tt>' 
+representing corresponding operations. The operators '<tt>*</tt>' and '<tt>/</tt>' have same 
+precedence and have greater precedence then '<tt>+</tt>' and '<tt>-</tt>' which also have same 
+precedence among themselves. Operators having same precedence are evaluated from 
+left to right. Moreover brackets may override the precedence. No invalid expression will be present. 
+You have to process each such expression.</p>
+<h2>
+<a NAME="SECTION0001003000000000000000"></a><font color="#0070E8">The Input</font></h2>
+Each line contains an expression. Arbitrary number of spaces may be present in 
+the expression. A fractional number is represented by <b>'<tt>N</tt>'<tt>|</tt>'<tt>D</tt>'</b> 
+where <b>'<tt>N</tt>'</b> and <b>'<tt>D</tt>'</b> are positive 32 bit integers. The integer 
+<b>'<tt>D</tt>'</b> 
+may not be present. Each line will not contain more then 500 characters. Input is terminated by end of file.<h2>
+<a NAME="SECTION0001004000000000000000"></a><font color="#0070E8">The Output</font></h2>
+For each line of expression process the evaluated number reduced to their normal 
+form. A normal form of such number may be defined as having no common divisor in 
+numerator and denominator. If the number is invalid (i.e. denominator is 0) print &quot;<b><tt>INVALID</tt></b>&quot;. 
+Don't print the denominator if it is unnecessary.<h2>
+<a NAME="SECTION0001005000000000000000"></a><font color="#0070E8">Sample
+Input</font></h2>
+<pre>3|2+3
+(5|3-2|3)*1|3
+</pre>
+
+<h2>
+<a NAME="SECTION0001006000000000000000"></a><font color="#0070E8">Sample
+Output</font></h2>
+
+<pre>9|2
+1|3
+</pre>
+
+<hr><i>Suman Mahbub</i>
+<br><i>Created: 08-07-2002</i>
+<br><i>Updated: 14-12-2002</i>
+</body>
+</html>

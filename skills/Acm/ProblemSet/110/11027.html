@@ -1,0 +1,307 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="p0_files/filelist.xml">
+<title>Problem A Palindromic Permutation</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shamim</o:Author>
+  <o:LastAuthor>Shamim</o:LastAuthor>
+  <o:Revision>26</o:Revision>
+  <o:TotalTime>171</o:TotalTime>
+  <o:Created>2006-04-20T09:25:00Z</o:Created>
+  <o:LastSaved>2006-05-06T13:32:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>191</o:Words>
+  <o:Characters>1095</o:Characters>
+  <o:Company>ACM ICPC</o:Company>
+  <o:Lines>9</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1284</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:DrawingGridHorizontalSpacing>2.85 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Arial Black";
+	panose-1:2 11 10 4 2 1 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="9218"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<table class=MsoNormalTable border=1 cellspacing=3 cellpadding=0 width="101%"
+ style='width:101.26%;mso-cellspacing:2.2pt;background:maroon;border:solid white 1.5pt;
+ mso-padding-alt:3.0pt 3.0pt 3.0pt 3.0pt;mso-border-insideh:1.5pt solid white;
+ mso-border-insidev:1.5pt solid white'>
+ <thead>
+  <tr style='mso-yfti-irow:0'>
+   <td width="31%" valign=bottom style='width:31.02%;border:solid white 1.5pt;
+   padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+   <p align=center style='text-align:center'><span style='font-size:24.0pt;
+   font-family:"Arial Black";color:white'>Problem A</span><span
+   style='color:white'><o:p></o:p></span></p>
+   </td>
+   <td width="67%" valign=bottom style='width:67.82%;border:solid white 1.5pt;
+   padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+   <p align=center style='text-align:center'><span class=SpellE><span
+   style='font-size:24.0pt;font-family:"Arial Black";color:white'>Palindromic</span></span><span
+   style='font-size:24.0pt;font-family:"Arial Black";color:white'> Permutation</span><span
+   style='color:white'><o:p></o:p></span></p>
+   </td>
+  </tr>
+  <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+   <td width="99%" colspan=2 valign=bottom style='width:99.24%;border:solid white 1.5pt;
+   padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+   <p align=right style='text-align:right'><span style='font-family:"Arial Black";
+   color:white'>Time limit: 1 second</span><span style='color:white'><o:p></o:p></span></p>
+   </td>
+  </tr>
+ </thead>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'>Given a string of characters, we
+can permute the individual characters to make new strings. We can then order
+these strings into alphabetical order.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>For example the string ‘<span
+class=SpellE>abba</span>’ gives rise to the following 6 distinct permutations
+in alphabetical order.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span class=SpellE><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
+"Courier New"'>aabb</span></b></span></span><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Courier New"'> 1<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span class=SpellE><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
+"Courier New"'>abab</span></b></span></span><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Courier New"'> 2<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span class=SpellE><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
+"Courier New"'>abba</span></b></span></span><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Courier New"'> 3<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span class=SpellE><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
+"Courier New"'>baab</span></b></span></span><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Courier New"'> 4<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span class=SpellE><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
+"Courier New"'>baba</span></b></span></span><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Courier New"'> 5<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span class=SpellE><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
+"Courier New"'>bbaa</span></b></span></span><b style='mso-bidi-font-weight:
+normal'><span style='font-family:"Courier New"'> 6<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Of these 6 permutations, only 2
+are palindromes (A string that reads the same when read backwards). These are ‘<span
+class=SpellE>abba</span>’ and ‘baab’.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Given a string, you have to find
+out the <b style='mso-bidi-font-weight:normal'>nth</b> palindrome in the sorted
+list of all permutations. For the above case ‘<span class=SpellE>abba</span>’
+is the 1<sup>st</sup> and ‘<span class=SpellE>baab</span>’ is the 2<sup>nd</sup>
+palindrome.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:16.0pt;font-family:Arial;color:maroon'>Input<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:10.0pt;font-family:Arial;color:maroon'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>The first line of input gives the
+number of test cases. Each case contains a string, consisting of lowercase
+letters only, followed by a space separated positive integer <b
+style='mso-bidi-font-weight:normal'>n (n &lt; 2^31)</b>. The length of the
+string will be at most <b style='mso-bidi-font-weight:normal'>30. </b></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:16.0pt;font-family:Arial;color:maroon'>Output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:10.0pt;font-family:Arial;color:maroon'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>For each case, output the case
+number followed by the <b style='mso-bidi-font-weight:normal'>nth </b>palindrome,
+but if the total number of palindromes is less than <b style='mso-bidi-font-weight:
+normal'>n</b> output ‘XXX’ without the quotes. Follow the sample for exact
+format.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0'>
+  <td width=247 valign=top style='width:185.25pt;padding:0in 0in 0in 0in'>
+  <p style='text-align:justify'><b><span style='font-size:16.0pt;font-family:
+  Arial;color:maroon'>Sample Input</span></b><span style='font-family:Arial;
+  color:maroon'><o:p></o:p></span></p>
+  </td>
+  <td width=391 valign=top style='width:293.25pt;padding:0in 0in 0in 0in'>
+  <p style='text-align:justify'><b><span style='font-size:16.0pt;font-family:
+  Arial;color:maroon'>Output for Sample Input</span></b><span style='font-family:
+  Arial;color:maroon'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td width=247 valign=top style='width:185.25pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Courier New"'>3<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><span class=SpellE><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New"'>abba</span></b></span><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;font-family:"Courier New"'> 1<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><span class=SpellE><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New"'>abba</span></b></span><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;font-family:"Courier New"'> 2<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><span class=SpellE><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New"'>abba</span></b></span><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;font-family:"Courier New"'> 3<o:p></o:p></span></b></p>
+  </td>
+  <td width=391 valign=top style='width:293.25pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Courier New"'>Case 1: <span
+  class=SpellE>abba</span><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Courier New"'>Case 2: <span
+  class=SpellE>baab</span><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Courier New"'>Case 3: XXX<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;font-family:"Courier New"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<div style='border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
+solid windowtext .75pt;padding:0in 0in 1.0pt 0in'>
+
+<p class=MsoNormal style='text-align:justify;border:none;mso-border-bottom-alt:
+solid windowtext .75pt;padding:0in;mso-padding-alt:0in 0in 1.0pt 0in'><b
+style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;border:none;mso-border-bottom-alt:
+solid windowtext .75pt;padding:0in;mso-padding-alt:0in 0in 1.0pt 0in'><b
+style='mso-bidi-font-weight:normal'><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></b></p>
+
+</div>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:11.0pt;font-family:"Courier New"'>Problem<i
+style='mso-bidi-font-style:normal'>S</i>etter: Sohel Hafiz<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:11.0pt;font-family:"Courier New"'>Alternate Solution: Jane
+Alam Jan<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='color:maroon'>Next Generation Contest 2<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='color:maroon'><o:p>&nbsp;</o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>

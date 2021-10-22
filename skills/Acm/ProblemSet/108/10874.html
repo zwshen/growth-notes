@@ -1,0 +1,480 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./e_files/filelist.xml">
+<link rel=Edit-Time-Data href="./e_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem E - Segments</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>34</o:Revision>
+  <o:TotalTime>1390</o:TotalTime>
+  <o:LastPrinted>2002-10-30T12:22:00Z</o:LastPrinted>
+  <o:Created>2004-08-24T14:03:00Z</o:Created>
+  <o:LastSaved>2005-06-23T13:01:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>312</o:Words>
+  <o:Characters>1780</o:Characters>
+  <o:Company>CSE, BUET</o:Company>
+  <o:Lines>14</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>2185</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+span.SPELLE
+	{mso-spl-e:yes;}
+span.GRAME
+	{mso-gram-e:yes;}
+ /* Font Definitions */
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	tab-stops:143.25pt;
+	font-size:18.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+h3
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Arial Unicode MS";
+	font-weight:bold;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:24.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	mso-bidi-font-weight:bold;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:#6633CC;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+em
+	{mso-bidi-font-style:normal;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+address
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-style:italic;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+p.Preformatted, li.Preformatted, div.Preformatted
+	{mso-style-name:Preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:0in 47.95pt 95.9pt 143.85pt 191.8pt 239.75pt 287.7pt 335.65pt 383.6pt 431.55pt 479.5pt;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.8in .8in 67.7pt .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1028"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]--><o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags" name="place"/>
+</head>
+
+<body lang=EN-US link="#6633cc" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:28.0pt;mso-bidi-font-size:10.0pt;font-family:
+Arial'>Problem E</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>Segments</span></b><span
+style='font-family:Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input: </b><span style='mso-bidi-font-weight:
+bold'>Standard Input<o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output <o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'></span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'></span></p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'>You are to
+find the length of the shortest path from the top to the bottom of a grid
+covering specified points along the way.</p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'>More precisely,
+you are given an n by n grid, rows 1...n and columns 1…n (1 &#8804; n &#8804;
+20000). On each row i, two points L(i) and R(i) are given where 1 &#8804; L(i)
+&#8804; R(i) &#8804; n. You are to find the shortest distance from position (1,
+1), to (n, n) that visits all of the given segments in order. In particular,
+for each row i, all the points</p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:143.25pt'>(i,
+L(i)); (i, L(i) + 1), (i, L(i) + 2), …, (i, R(i)),</p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'>must be
+visited. Notice that one step is taken when dropping down between consecutive
+rows. Note that you can only move left, right and down (you cannot move up a
+level). On finishing the segment on row n, you are to go to position (n, n), if
+not already there. The total distance covered is then reported.&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'>&nbsp;</p>
+
+<h5><span class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:
+10.0pt;font-family:Arial;mso-bidi-font-family:"Times New Roman"'>Input</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-fareast-font-family:"Arial Unicode MS";mso-hansi-font-family:
+"Times New Roman";mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></span></h5>
+
+<h4 style='text-align:justify'>Input file contains maximum 10 sets of inputs.
+The description of each set is given below:</h4>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h4 style='text-align:justify'>The first line of each set consists of an
+integer n, the number of rows/columns on the grid. On each of the next n lines,
+there are two integers L(i) followed by R(i) (where 1 &#8804; L(i) &#8804; R(i)
+&#8804; n).</h4>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>Input is terminated by a set whose value of n is zero. This
+input should not be processed.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h4><span class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:
+10.0pt;font-family:Arial;mso-bidi-font-family:"Times New Roman"'>Output </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:
+"Times New Roman"'><o:p></o:p></span></span></h4>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'>For each set
+of input output is one integer, which is the length of the (shortest) path from
+(1, 1) to (n, n) which covers all intervals L(i), R(i).</p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'>&nbsp;</p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial;font-style:normal'>Sample
+Input<span style="mso-spacerun: yes">                              
+</span>Output for Sample Input<o:p></o:p></span></b></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+  <td width=319 valign=top style='width:239.4pt;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'><pre><b><span style='font-size:11.0pt'>6<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt'>2 6<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt'>3 4<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt'>1 3<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt'>1 2<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt'>3 6<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt'>4 5<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt'>0</span></b><b><span style='mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></pre></td>
+  <td width=297 valign=top style='width:222.85pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>24<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'>Problem setter: Ian Munro<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'>Special Thanks: <st1:place>Troy</st1:place> Vasiga<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'>&nbsp;<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'>/* Sample input description on next page */<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'>Explanation of Sample Input/Output<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'>Below is a pictoral representation of the input.<o:p></o:p></span></p>
+<p><img width=351 height=147
+ src="p10874.jpg">
+</p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+12.0pt;color:windowtext'>Notice that on the first row, we must traverse 5 units
+to the right and then drop down one level.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+12.0pt;color:windowtext'>On the second row, we must traverse 3 units to the
+left and drop down one level.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+12.0pt;color:windowtext'>On the third row, we must traverse 2 units to the left
+and drop down one level.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+12.0pt;color:windowtext'>On the fourth row, we move 1 unit to the right and
+then drop down one level.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+12.0pt;color:windowtext'>On the fifth row, we move 4 units to the right and
+drop down one level.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+12.0pt;color:windowtext'>On the sixth (and final) row, we move 2 units left,
+then 2 units right.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+12.0pt;color:windowtext'>In total, we have moved 6 + 4 + 3 + 2 + 5 + 4 = 24
+units.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+12.0pt;color:windowtext'>&nbsp;<o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

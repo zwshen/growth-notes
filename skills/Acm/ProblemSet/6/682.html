@@ -1,0 +1,181 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Whoever-pick-the-last-one-lose</TITLE>
+<META NAME="description" CONTENT="Whoever-pick-the-last-one-lose">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Whoever-pick-the-last-one-lose</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Consider the following <B>whoever-pick-the-last-one-lose</B> game. The game is
+played on a  5<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="682img1.gif"
+ ALT="$\times$">5 board.  Initially  every  array  cell  has  a  piece 
+in  it.  Two players  remove pieces alternatively  from  the  board.  The 
+player  can  remove  any  number  of  consecutive pieces  in a row or column.
+For example,  in  the configuration depicted below where one  indicates  a 
+piece,  the  player  can  either  remove  one  piece  (<B>A1</B>, <B>A2</B>,  or 
+<B>B1</B>),  or remove two pieces (<B>A1</B> and <B>A2</B>, or <B>A1</B> and
+<B>B1</B>) simultaneously. The game ends when one player is forced to take the
+last piece, and the other player wins the game.
+
+<P>
+
+<P>
+<BR>
+
+<DIV ALIGN="CENTER">
+<TABLE CELLPADDING=3 BORDER="1">
+<TR><TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER"><B> 1</B></TD>
+<TD ALIGN="CENTER"><B> 2</B></TD>
+<TD ALIGN="CENTER"><B> 3</B></TD>
+<TD ALIGN="CENTER"><B> 4</B></TD>
+<TD ALIGN="CENTER"><B> 5</B></TD>
+</TR>
+<TR><TD ALIGN="CENTER"><B> A</B></TD>
+<TD ALIGN="CENTER">1</TD>
+<TD ALIGN="CENTER">1</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+</TR>
+<TR><TD ALIGN="CENTER"><B> B</B></TD>
+<TD ALIGN="CENTER">1</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+</TR>
+<TR><TD ALIGN="CENTER"><B> C</B></TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+</TR>
+<TR><TD ALIGN="CENTER"><B> D</B></TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+</TR>
+<TR><TD ALIGN="CENTER"><B> E</B></TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">0</TD>
+</TR>
+</TABLE></DIV>
+
+<P>
+
+<P>
+<BR>
+Write  a  program  that  evaluates  board  configurations  from  this  game.  
+The  program must  output  ``<TT>winning</TT>'' when there exists a winning move
+that no matter how the opponent responds, it will force the opponent to take
+the last piece. Otherwise, the program must output ``<TT>losing</TT>''. 
+
+<P>
+
+<P>
+<BR>
+Note that
+during the game tree evaluation, if the current configuration has a winning
+move, then it is not necessary to search any further because the configuration
+is guaranteed to be winning. This can greatly reduce the game tree search time.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains 5<I>c</I> + 1 lines.
+
+<P>
+<PRE><TT>
+Line 1 		 <I>c</I> the number of configurations 
+Lines 2-6 		 ... 		 configuration #1 
+... 		 ... 		 
+Lines 5<I>c</I>-3 to 5<I>c</I>+1 ... 		 configuration #<I>c</I>
+</TT></PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The output contains <I>c</I> lines.
+<PRE><TT>
+Line 1 		 evaluation result of configuration #1 
+... 
+Line <I>c</I> evaluation result of configuration #<I>c</I>
+</TT></PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+1 1 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+1 1 0 0 0
+0 0 0 0 0
+1 1 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+1 1 1 0 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+winning
+losing
+winning
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-14</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

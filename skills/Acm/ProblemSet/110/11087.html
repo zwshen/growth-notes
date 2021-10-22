@@ -1,0 +1,240 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<title>Divisibility Testing</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>cse</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>cse</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2006-09-07T14:13:00Z</o:Created>
+  <o:LastSaved>2006-09-07T14:13:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>170</o:Words>
+  <o:Characters>973</o:Characters>
+  <o:Company>International Islamic University</o:Company>
+  <o:Lines>8</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>1194</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%;
+ border-collapse:collapse;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'>I </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>I </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:blue'>U </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:green'>P </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'>C </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF6600'>2 </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#CC99FF'>0 </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#333399'>0</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:maroon'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FFCC00'>6</span></b><span
+  style='font-size:11.0pt;font-family:Arial'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:18.0pt;font-family:Arial'>Problem D: Divisibility Testing</span></b><span
+  style='font-family:Arial'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-family:Arial'>Input: standard input<br>
+  Output: standard output</span></b><span style='font-family:Arial'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><![if !supportEmptyParas]>&nbsp;<![endif]><span
+  style='font-size:11.0pt;font-family:Arial'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'>You will be given a list of <b
+  style='mso-bidi-font-weight:normal'>n</b> integers, <b style='mso-bidi-font-weight:
+  normal'>&lt;a<sub>1</sub> a<sub>2</sub> a<sub>3</sub> . . . a<sub>n</sub>&gt;
+  </b>and an integer <b style='mso-bidi-font-weight:normal'>k</b>. Find out the
+  number of ways of choosing <b style='mso-bidi-font-weight:normal'>2</b>
+  integers (<b style='mso-bidi-font-weight:normal'>a<sub>i</sub></b>, <b
+  style='mso-bidi-font-weight:normal'>a<sub>j</sub>), </b>such that <b
+  style='mso-bidi-font-weight:normal'>a<sub>i</sub> &#8804; a<sub>j</sub></b>
+  and <b style='mso-bidi-font-weight:normal'>1 &#8804; i, j &#8804; n</b> and <b
+  style='mso-bidi-font-weight:normal'>i &#8800; j</b> and (<b style='mso-bidi-font-weight:
+  normal'>a<sub>i</sub> + a<sub>j</sub></b>) is divisible by <b
+  style='mso-bidi-font-weight:normal'>k</b>. Every pair must be distinct. Two
+  pairs, <b style='mso-bidi-font-weight:normal'>(a, b)</b> and <b
+  style='mso-bidi-font-weight:normal'>(c, d)</b>, are equal if <b
+  style='mso-bidi-font-weight:normal'>a</b> is equal to <b style='mso-bidi-font-weight:
+  normal'>c</b> and <b style='mso-bidi-font-weight:normal'>b</b> is equal to <b
+  style='mso-bidi-font-weight:normal'>d</b>.</p>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  <p class=MsoNormal style='text-align:justify'>Suppose we are given <b
+  style='mso-bidi-font-weight:normal'>5</b> integers <b style='mso-bidi-font-weight:
+  normal'>&lt;4 1 2 2 3&gt; </b>and<b style='mso-bidi-font-weight:normal'> k =
+  1. </b>There are <b style='mso-bidi-font-weight:normal'>7</b> ways of
+  choosing different pairs that meets the above restrictions.</p>
+  <p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+  normal'>(1, 2) (1, 3) (1, 4) (2, 2) (2, 3) (2, 4) (3, 4).<o:p></o:p></b></p>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
+  font-family:Arial'>Input</span></b><span style='font-size:16.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'>The first line of input
+  contains an integer <b style='mso-bidi-font-weight:normal'>T</b> that
+  determines the number of test cases. Each test case contains two lines. The
+  first line consists of two integers <b style='mso-bidi-font-weight:normal'>n</b>
+  and <b style='mso-bidi-font-weight:normal'>k</b>. The next line contains <b
+  style='mso-bidi-font-weight:normal'>n</b> integers. The <b style='mso-bidi-font-weight:
+  normal'>i-th</b> integer gives the value of <b style='mso-bidi-font-weight:
+  normal'>a<sub>i</sub></b>.</p>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
+  font-family:Arial'>Output</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'>For each test case, output the
+  case number followed by the number of ways to choose the pairs.</p>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span style='font-size:14.0pt;font-family:Arial'>Constraints</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;border:none;
+  border-bottom:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>-<span style='mso-tab-count:1'>           </span><b
+  style='mso-bidi-font-weight:normal'>T &lt; 100<br>
+  </b>-<span style='mso-tab-count:1'>           </span><b style='mso-bidi-font-weight:
+  normal'>1 &lt; n &lt; 100001<br>
+  </b>-<span style='mso-tab-count:1'>           </span><b style='mso-bidi-font-weight:
+  normal'>0 &lt; k &lt; 501<br>
+  </b>-<span style='mso-tab-count:1'>           </span><b>|a<sub><span
+  style='mso-bidi-font-style:italic'>i</span></sub>| &lt; 10000001</b> for any <b>i<o:p></o:p></b></p>
+  <p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign=top style='width:50.0%;border:solid windowtext .5pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span style='font-size:14.0pt;font-family:Arial'>Sample
+  Input<o:p></o:p></span></b></p>
+  </td>
+  <td width="50%" valign=top style='width:50.0%;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span style='font-size:14.0pt;font-family:Arial'>Output
+  for Sample Input<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign=top style='width:50.0%;border:solid windowtext .5pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span style='font-family:"Courier New"'>2<br>
+  5 1<br>
+  4 1 2 2 3<br>
+  5 2<br>
+  4 1 2 2 3<o:p></o:p></span></b></p>
+  </td>
+  <td width="50%" valign=top style='width:50.0%;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoBodyText><b><span style='font-family:"Courier New"'>Case 1: 7<br>
+  Case 2: 3</span></b><b><span style='mso-bidi-font-size:11.0pt;font-family:
+  "Courier New"'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;border:none;
+  mso-border-top-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-family:
+  Arial'>Problemsetter: Sohel Hafiz</span></b></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>

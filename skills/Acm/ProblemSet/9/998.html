@@ -1,0 +1,215 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Dendogram</TITLE>
+<META NAME="description" CONTENT="Dendogram">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Dendogram</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+This problem is about building a tree from a simple concept. 
+
+<P>
+A dendogram is a tree for visual classification of similarity, commonly used in Biology for grouping species. Let us see an example. The dendogram for the following data <SPAN CLASS="MATH">(<I>a</I>, 1)</SPAN>
+<tex2html_verbatim_mark>, <SPAN CLASS="MATH">(<I>b</I>, 3)</SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH">(<I>c</I>, 12)</SPAN>
+<tex2html_verbatim_mark>, where the first parameter is the object name, and the second parameter is the object value, is presented in the following picture. 
+
+<P>
+<PRE>
+                       +----- a,1 
+                       | 
+  +------------------- 2 
+  |                    | 
+  |                    +----- b,3 
+ -7 
+  | 
+  +-------------------------- c,12
+</PRE> 
+
+<P>
+The Definition and Example clarifies how to build it. 
+
+<P>
+
+<P>
+<BR>
+
+<SPAN  CLASS="textbf">Definition and terminology</SPAN>. An <SPAN  CLASS="textbf">object</SPAN> is a pair <TT>name,value</TT>. Elements of a dendogram are <SPAN  CLASS="textbf">clusters</SPAN> (middle tree elements) and objects (the leaves). An association of two objects or clusters forms a new cluster. In a dendogram, <SPAN  CLASS="textbf">two</SPAN> elements are grouped in one cluster when they have the closest values of all elements available. The arithmetic mean of the two elements is associated with the cluster. 
+
+<P>
+
+<P>
+<BR>
+
+<SPAN  CLASS="textbf">Example.</SPAN> In the dendogram of the picture, objects `a' e `b' are close in value. Together, they make a <SPAN  CLASS="textit">cluster</SPAN> with mean <!-- MATH
+ $(1+3)/2 = 2$
+ -->
+<SPAN CLASS="MATH">(1 + 3)/2 = 2</SPAN>
+<tex2html_verbatim_mark>. Then object `c' and this cluster with value 2 produce a new cluster with mean <!-- MATH
+ $(2+12)/2=7$
+ -->
+<SPAN CLASS="MATH">(2 + 12)/2 = 7</SPAN>
+<tex2html_verbatim_mark>.
+
+<P>
+Write a program that accept a sequence of numbers and produces a dendogram tree as a infix list of elements (clusters and objects). 
+
+<P>
+The input is a sequence of positive numbers. Each number is associated with a label automatically given, starting by letter `a', then `b', and so on (see section <SPAN  CLASS="textbf">Input</SPAN> below). 
+
+<P>
+
+<P>
+<BR>
+
+<SPAN  CLASS="textbf">Solution uniqueness.</SPAN> Usually there are several ways to draw the same dendogram tree, for example, mirroring the dendogram tree. However, as stated in general rules, we are forced to choose a unique solution representation each time an equal input is given. 
+
+<P>
+To guarantee a unique solution, the comparisons must include the names when equal values are being compared. For example, <!-- MATH
+ $(1, a) < (1, b)$
+ -->
+<SPAN CLASS="MATH">(1, <I>a</I>) &lt; (1, <I>b</I>)</SPAN>
+<tex2html_verbatim_mark> where 1 is the value of both `a' and `b' objects. Clusters also have names, and clusters with equal value must use the same lexicographical comparison. The rules are: 
+
+<P>
+
+<OL>
+<LI>Each node represents an object or a cluster, and each node has an ASCII label with a maximum width of 30 characters. 
+</LI>
+<LI>Each object node has a label which is a single letter, automatically given, as described in the input section. 12
+</LI>
+<LI>Each cluster node has a label formed by concatenation of the lexicographical `lower order label' followed by the `higher order label' of the two branches. The top cluster has a label which contains all used letters in the input. 
+</LI>
+<LI>Lower numbers must be grouped first. Example: {1, 2} must be grouped before {4, 5}. 
+</LI>
+</OL>
+
+<P>
+All numeric calculations and store must use `float' number format.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+<B>The input will contain several test cases, each of them as described below.
+Consecutive test cases are separated by a single blank line.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+A sequence of positive numbers, line by line, ended by 0. 
+
+<P>
+Your program must associate each number with a letter from `a' to `z' using standard ASCII sequence (except the 0, which only ends the sequence). 
+
+<P>
+Please take in consideration the following <SPAN  CLASS="textbf">Input Assumptions:</SPAN> 
+
+<P>
+
+<OL>
+<LI>The input values are from the set {1, ..., 99}. 
+</LI>
+<LI>The input has a maximum of 26 (twenty six) numbers, and more than 2 (two) numbers.
+</LI>
+</OL>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+<B>For each test case, the output must follow the description below. 
+The outputs of two consecutive cases will be separated by a blank line.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+The requested output is a unique dendogram tree without shape: only the list of nodes in <SPAN  CLASS="textit">infix</SPAN> form. The output must obey the following rules: 
+
+<P>
+
+<OL>
+<LI>The infix output of the tree is always obtained writing the nodes from the lower label to the higher label. 
+</LI>
+<LI>Each node represents an object or a cluster. 
+</LI>
+<LI>Each node in each line. 
+</LI>
+<LI>Each node value is outputted as a positive integer, possibly rounded to the nearest integer of the stored value. 
+</LI>
+<LI>Each node has the following output syntax: <TT>positive integer number</TT>,<TT>label</TT>. A sample is <TT>13,kerolinux</TT> : this is a cluster node valuing 13 (possible 12.5 to 13.4999...) and the cluster label is `kerolinux'.
+</LI>
+</OL>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1 
+12 
+45 
+3 
+0
+</PRE> 
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1,a 
+2,ad 
+3,d 
+7,adb 
+12,b 
+26,adbc 
+45,c
+</PRE> 
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

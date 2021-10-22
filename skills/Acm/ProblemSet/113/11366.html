@@ -1,0 +1,159 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Circle of Debt</TITLE>
+<META NAME="description" CONTENT="Circle of Debt">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+E: Circle of Debt</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The three friends Alice, Bob, and Cynthia always seem to get in situations where there are debts to be cleared among themselves. Of course, this is the ``price" of hanging out a lot: it only takes a few resturant visits, movies, and drink rounds to get an unsettled balance. So when they meet as usual every Friday afternoon they begin their evening by clearing last week's debts. To satisfy their mathematically inclined minds they prefer clearing their debts using as little money transaction as possible, i.e. by exchanging as few bank notes and coins as necessary. To their surprise, this can sometimes by harder than it sounds. Suppose that Alice owes Bob 10 crowns and this is the three friends' only uncleared debt, and Alice has a 50 crown note but nothing smaller, Bob has three 10 crown coins and ten 1 crown coins, and Cynthia has three 20 crown notes. The best way to clear the debt is for Alice to give her 50 crown note to Cynthia, Cynthia to give two 20 crown notes to Alice and one to Bob, and Bob to give one 10 crown coin to Cynthia, involving a total of only five notes/coins changing owners. Compare this to the straightforward solution of Alice giving her 50 crown note to Bob and getting Bob's three 10 crown notes and all his 1 crown coins for a total of fourteen notes/coins being exchanged!
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p11366.eps}$
+ -->
+<IMG
+ WIDTH="229" HEIGHT="181" ALIGN="right" BORDER="0"
+ SRC="p11366.png"
+ ALT="\epsfbox{p11366.eps}">
+<tex2html_verbatim_mark>
+</DIV>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+On the first line of input is a single positive integer, <!-- MATH
+ $1 \le t \le 50$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11366img2.png"
+ ALT="$ \le$"><I>t</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11366img2.png"
+ ALT="$ \le$">50</SPAN>
+<tex2html_verbatim_mark>, specifying the number of test cases to follow. Each test case begins with three integers <!-- MATH
+ $ab, bc, ca \le 1000$
+ -->
+<SPAN CLASS="MATH"><I>ab</I>, <I>bc</I>, <I>ca</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11366img2.png"
+ ALT="$ \le$">1000</SPAN>
+<tex2html_verbatim_mark> on a line of itself. <SPAN CLASS="MATH"><I>ab</I></SPAN>
+<tex2html_verbatim_mark> is the amount Alice owes Bob (negative if it is Bob who owes Alice money), <SPAN CLASS="MATH"><I>bc</I></SPAN>
+<tex2html_verbatim_mark> the amount Bob owes Cynthia (negative if it is Cynthia who is in debt to Bob), and <SPAN CLASS="MATH"><I>ca</I></SPAN>
+<tex2html_verbatim_mark> the amount Cynthia owes Alice (negative if it is Alice who owes Cynthia). 
+
+<P>
+Next follow three lines each with six non-negative integers <!-- MATH
+ $a_{100}, a_{50}, a_{20}, a_{10}, a_{5}, a_{1}, b_{100}, \ldots, b_{1}$
+ -->
+<SPAN CLASS="MATH"><I>a</I><SUB>100</SUB>, <I>a</I><SUB>50</SUB>, <I>a</I><SUB>20</SUB>, <I>a</I><SUB>10</SUB>, <I>a</I><SUB>5</SUB>, <I>a</I><SUB>1</SUB>, <I>b</I><SUB>100</SUB>,..., <I>b</I><SUB>1</SUB></SPAN>
+<tex2html_verbatim_mark>, and <!-- MATH
+ $c_{100} ,\ldots, c_{1}$
+ -->
+<SPAN CLASS="MATH"><I>c</I><SUB>100</SUB>,..., <I>c</I><SUB>1</SUB></SPAN>
+<tex2html_verbatim_mark>, respectively, where <SPAN CLASS="MATH"><I>a</I><SUB>100</SUB></SPAN>
+<tex2html_verbatim_mark> is the number of 100 crown notes Alice got, <SPAN CLASS="MATH"><I>a</I><SUB>50</SUB></SPAN>
+<tex2html_verbatim_mark> is the number of her 50 crown notes, and so on. Likewise, <!-- MATH
+ $b_{100}, \ldots, b_{1}$
+ -->
+<SPAN CLASS="MATH"><I>b</I><SUB>100</SUB>,..., <I>b</I><SUB>1</SUB></SPAN>
+<tex2html_verbatim_mark> is the amount of notes/coins of different value Bob got, and <!-- MATH
+ $c_{100}, \ldots, c_{1}$
+ -->
+<SPAN CLASS="MATH"><I>c</I><SUB>100</SUB>,..., <I>c</I><SUB>1</SUB></SPAN>
+<tex2html_verbatim_mark> describes Cynthia's money. Each of them has at most 30 coins (i.e. <!-- MATH
+ $a_{10} + a_{5} + a_{1}$
+ -->
+<SPAN CLASS="MATH"><I>a</I><SUB>10</SUB> + <I>a</I><SUB>5</SUB> + <I>a</I><SUB>1</SUB></SPAN>
+<tex2html_verbatim_mark>, <!-- MATH
+ $b_{10} + b_{5} + b_{1}$
+ -->
+<SPAN CLASS="MATH"><I>b</I><SUB>10</SUB> + <I>b</I><SUB>5</SUB> + <I>b</I><SUB>1</SUB></SPAN>
+<tex2html_verbatim_mark>, and <!-- MATH
+ $c_{10} + c_{5} + c_{1}$
+ -->
+<SPAN CLASS="MATH"><I>c</I><SUB>10</SUB> + <I>c</I><SUB>5</SUB> + <I>c</I><SUB>1</SUB></SPAN>
+<tex2html_verbatim_mark> are all less than or equal to 30) and the total amount of all their money together (Alice's plus Bob's plus Cynthia's) is always less than 1000 crowns.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case there should be one line of output containing the minimum number of bank notes and coins needed to settle the balance. If it is not possible at all, output the string ``<TT>impossible</TT>".
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3 
+10 0 0 
+0 1 0 0 0 0 
+0 0 0 3 0 10 
+0 0 3 0 0 0 
+-10 -10 -10 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+-10 10 10 
+3 0 0 0 2 0 
+0 2 0 0 0 1 
+0 0 1 1 0 3
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+5 
+0 
+impossible
+</PRE> 
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

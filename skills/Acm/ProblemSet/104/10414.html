@@ -1,0 +1,82 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<title>Problem D - Denki Blocks</title>
+
+</head>
+
+<body bgcolor="#ffffff" lang=EN-US>
+
+<center>
+<p>
+<b><font size=5>Problem D</font></b><br>
+<b><font size=6>Denki Blocks</font></b><br>
+<b>Input:</b> standard input<br>
+<b>Output:</b> standard output<br>
+<b>Time Limit:</b> 8 seconds<br>
+<b>Memory Limit:</b> 64 MB<br>
+</p>
+</center>
+
+<p>
+'Denki Blocks' is a extremly cool puzzle game. If you have a Game Boy, you may have played this game once. But in this problem, 
+the game is slightly modified, so please read the new rules carefully.
+<p>
+On a infinitely large board, there is a black block at (0,0). There are <b>n</b> grey blocks surrounding it, the <b>i</b>-th block is at (<b>x<sub>i</sub></b>, <b>y<sub>i</sub></b>).
+All the <b>x<sub>i</sub></b> and <b>y<sub>i</sub></b> are <b>odd</b> numbers. The aim of the game is to move the grey blocks together to form a specified piece. The piece can be found
+anywhere on the board, but cannot be rotated or flipped. Figure(a) shows a legal initial state, there are <b>3</b> grey blocks at (<b>-1</b>,<b>-1</b>),(<b>1</b>,<b>-1</b>),(<b>1</b>,<b>1</b>). 
+Figure(x) shows a possible expected piece.
+<p>
+<center><img src="p10414.jpg"></center>
+<p>
+The player can use a sequence of operations to achieve the goal. There are only <b>4</b> possible operations.
+<ul>
+<li>'U': all the grey blocks are moved up(<b>x</b> position is decreased by <b>1</b>).
+<li>'D': all the grey blocks are moved down(<b>x</b> position is increased by <b>1</b>).
+<li>'L': all the grey blocks are moved left(<b>y</b> position is decreased by <b>1</b>).
+<li>'R': all the grey blocks are moved right(<b>y</b> position is increased by <b>1</b>).
+</ul>
+Note that the black block NEVER moves. If the black block lies just in front of one grey block, the grey block cannot be moved. If several grey blocks
+are connected(two are connected if they share a common edge), they are considered to be <b>sticked</b> to each other and can only move together.
+Therefore, if one of the connected blocks cannot move, the whole component cannot move.
+For example, In figure(a), if you use operations 'LLUR', you will reach figure(b). If you use 'URD' in figure(b), you will reach figure(c).
+Notice that in figure(c), the expected piece(see figure(x)) is found, so the game ends successfully.
+<p>
+Write a program to use no more than <b>10,000</b> operations to achieve the goal.
+
+<p><b><font size=5>Input</font></b></p>
+<p>
+The first line of the input is a single integer <b>t</b>(<b>1</b>&lt;=<b>t</b>&lt;=<b>10</b>), indicating the number of test cases.
+Each case begins with a line containing a single integer <b>n</b>(<b>3</b>&lt;=<b>n</b>&lt;=<b>20</b>), indicating the number of blocks.
+The second line contains <b>n</b> integer pairs (<b>x<sub>i</sub></b>, <b>y<sub>i</sub></b>), indicating the initial positions of the blocks. 
+The blocks are sorted in ascending order of <b>x</b>, then ascending order of <b>y</b>.
+The third line contains <b>n</b> integer pairs (<b>Px<sub>i</sub></b>, <b>Py<sub>i</sub></b>), indicating the final(relative) positions of the blocks.
+The final positions of the blocks are connected. Input data always have solutions. All the position numbers are odd numbers between <b>-9</b> and <b>9</b>.
+
+</p>
+
+<p><b><font size=5>Output</font></b></p>
+<p>
+For each test case, print in a line the value of <b>m</b>, the number of operations you need.
+In the second line, print <b>m</b> characters representing you solution. If multiple solutions are found, print anyone.
+</p>
+
+<p><b><font size=5>Sample Input</font></b><br>
+<font face="Courier" size=3>
+1<br>
+3<br>
+-1 -1  1 -1  1  1<br>
+ 1  1  2  1  2  2<br>
+</font>
+
+<p><b><font size=5>Sample Output</font></b><br>
+<font face="Courier" size=3>
+7<br>
+LLURURD<br>
+</font>
+
+<font face="Times New Roman" size=3>
+<hr>
+<b>The 2nd OIBH Online Programming Contest. Author: Rujia Liu</b><br>
+</body>
+</html>

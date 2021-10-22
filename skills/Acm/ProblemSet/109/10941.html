@@ -1,0 +1,69 @@
+<title>Problem H: Words adjustment</title>
+
+<h2>Problem H: Words adjustment</h2>
+
+<img src=p10941.jpg vspace=20 hspace=20 align=right>
+In this problem, you are given two words <em>x</em> and <em>y</em>, and a finite sequence of words
+{ <em>w<sub>1</sub></em>, <em>w<sub>2</sub></em>, ... <em>w<sub>k</sub></em> }.
+If it is possible to obtain the same word by appending to <em>x</em> and
+<em>y</em> some words from the given sequence of words, we say that <em>x</em>
+and <em>y</em> can be <em>adjusted</em>.  We would like to check whether the 
+words <em>x</em> and <em>y</em> can be adjusted using the words from the given 
+sequence.
+<p>
+Given a word <em>w</em>, we can perform an operation
+<em>w</em>*<em>w<sub>i</sub></em>, 1&lt;=i&lt;=k, consisting in
+appending the word <em>w<sub>i</sub></em> to the word <em>w</em> at
+the right.  We define this as an append operation.  
+The task is to find the smallest number of append operations that are
+necessary to adjust two given words using the words from a given sequence.
+<p>
+For example, words <tt>abba</tt> and <tt>ab</tt> can be adjusted by
+the words from the sequence { <tt>baaabad</tt>, <tt>aa</tt>,
+<tt>badccaa</tt>, <tt>cc</tt> }.  It suffices to append to
+<tt>abba</tt> two words: <tt>aa</tt> and
+<tt>badccaa</tt>, and to <tt>ab</tt> three words:
+<tt>baaabad</tt>, <tt>cc</tt> and <tt>aa</tt>.  In both cases we
+obtain: <tt>abbaaabadccaa</tt>.
+<p>
+The first line of input contains the number of cases that follow.  The
+first two lines of data for each case contain the words <em>x</em> and
+<em>y</em>, respectively.  The third line contains the integer
+<em>k</em>, 0&lt;=k&lt;=1000, which is the length of the sequence of
+words that can be used for word adjustment.  The following <em>k</em>
+lines contain one word each.  All words use only lowercase letters and contain
+between 1 and 1000 characters.
+<p>
+For each case output one nonnegative integer giving the minimal number of
+operations that are needed to adjust two given words, or output <tt>-1</tt>
+if it is impossible.
+
+<h3>Sample input</h3>
+<pre>
+2
+abba
+ab
+4
+baaabad
+aa
+badccaa
+cc
+a
+ab
+4
+bb
+ab
+ba
+aa
+</pre>
+
+
+<h3>Output for sample input</h3>
+<pre>
+5
+-1
+</pre>
+
+<hr>
+
+<em>Wojciech Rytter, adapted by P. Rudnicki</em>

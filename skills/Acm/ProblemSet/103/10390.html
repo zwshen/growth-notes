@@ -1,0 +1,126 @@
+<HTML>
+<HEAD>
+<TITLE>Problem D - Bean Counting</TITLE>
+</HEAD>
+
+<BODY bgcolor="white">
+
+<FONT color="#0000FF"><h1>Problem D: Bean Counting</h1>
+</FONT>
+
+<P align="justify">
+The CSC has decided to hold a contest to guess the number of beans in
+a given jar.  To make it a wee bit more interesting, they decided to have 
+the contestants guess the number of a particular kind of bean, the jar
+having many types of beans in it.  Each participant would pay $2.00 per
+guess.
+
+<P align="justify">
+If the guess is one off (either one greater or less) than the actual count,
+they get a single share of the total pot.  If the guess is right on, they 
+get two shares of the total pot.  
+
+<P align="justify">
+Your task is to tally these guesses and print out how much each person wins.
+
+<FONT color="#0000FF"><H2>Input</H2></FONT>
+<b>
+The input begins with a single positive integer on a line by itself indicating
+the number of the cases following, each of them as described below.
+This line is followed by a blank line, and there is also a blank line between
+two consecutive inputs.
+</b>
+<p>
+<p>
+
+
+<P align="justify">
+The first line will containing hundreds of letters, from a-z, each
+representing one bean of that type of bean.  There will only be 26 
+different types of beans.
+Each following line will be the guesses from a contestant.  A contestant
+can guess as many times as they like.  The line will begin with 
+a single letter, in the range A-Z, leaving only 26 possible contestants.
+The first letter will be followed by a single space, and then up to five
+pairs of letter/number combinations, the letter representing the type 
+of bean for this guess, and the number the number of that bean the
+contestant expects to find.  The letter and the value of a guess will 
+be separated by a `:' and each guess on lines with more than one guess
+will be separated by a `,'.
+
+<P>
+<U><B>Tallying:</B></U>
+
+<P align="justify">
+The amount a contestant will receive is based on shares of a pot.  The pot
+will consist of the total of all the guesses, at $2.00 per guess.  The 
+fraction each person gets will be based on:
+
+<P>
+<TABLE CELLPADDING=3>
+<TR><TD ALIGN="LEFT">TotNum</TD>
+<TD ALIGN="LEFT">total number of guesses by all contestants</TD>
+</TR>
+<TR><TD ALIGN="LEFT">TotShares</TD>
+<TD ALIGN="LEFT">total number of shares from all contestants</TD>
+</TR>
+<TR><TD ALIGN="LEFT">OffOne</TD>
+<TD ALIGN="LEFT">number of off-by-one guesses by that contestant</TD>
+</TR>
+<TR><TD ALIGN="LEFT">RightOn</TD>
+<TD ALIGN="LEFT">number of right-on guesses by that contestant</TD>
+</TR>
+</TABLE>
+
+<P>
+<BR>
+<DIV ALIGN="CENTER">
+<IMG
+ WIDTH="321" HEIGHT="40" BORDER="0"
+ SRC="p10390.png"
+</center>
+</DIV>
+
+<BR CLEAR="ALL">
+<P></P>
+
+
+<FONT color="#0000FF"><H2>Output</H2></FONT>
+<b>
+For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+
+
+<P align="justify">
+Print out all the winners, in alphabetical order, and their winnings, 
+separated by a single space.  Each winner should be on a line by itself.
+
+<FONT color="#0000FF"><H2>Sample Input</H2></FONT>
+
+<PRE>
+1
+
+aadddddddddddddddddddddddffffffffffffffffwwwwwwwwwwwwccccalalala
+A a:6,c:6
+B w:12
+C d:25
+D d:22,c:4,l:3,f:15
+</PRE>
+
+<font color="#0000FF"><h2>Sample Output</h2></font>
+<PRE>
+A 3.20
+B 3.20
+D 9.60
+</PRE>
+
+<!--P>
+<BR><HR>
+<ADDRESS>
+University of Porto ACM Programming Contest / Round 1 / 2002/05/22
+</ADDRESS-->
+</BODY>
+</HTML>

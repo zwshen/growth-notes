@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0063)http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/node5.html -->
+
+<!--Converted with LaTeX2HTML 96.1-h (September 30, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds --><HTML><HEAD><TITLE>Problem E: Don Giovanni's Last Dinner</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META content="Don Giovanni's Last Dinner" name=description>
+<META content=main name=keywords>
+<META content=document name=resource-type>
+<META content=global name=distribution><LINK href="e_files/main.css" 
+rel=STYLESHEET>
+<META content="MSHTML 6.00.2600.0" name=GENERATOR></HEAD>
+<BODY lang=EN>
+<H1><A name=SECTION00050000000000000000>Problem E: Don Giovanni's Last Dinner</A></H1>
+<P>Don Giovanni eats large dishes--a lot of them. Leporello cannot help but 
+drool over. Whenever Don Giovanni gives up a dish, Leporello has a chance: he 
+can have what remains on the dish behind the back of the master, and surely he 
+starts consuming it immediately. But he is a servant, and he has to answer to 
+demands from his master. It is going to be embarrassing if he is mouthful when 
+the master asks him questions. 
+<P>Write a program to determine if Leporello is mouthful every time Don Giovanni 
+calls him. 
+<P>
+<H2><A name=SECTION00051000000000000000>Input</A></H2>
+<b>
+The input begins with a single positive integer on a line by itself indicating
+the number of the cases following, each of them as described below.
+This line is followed by a blank line, and there is also a blank line between
+two consecutive inputs.
+</b>
+<p>
+<p>
+ 
+<P>The first line of the input contains Don Giovanni's eating rate <I>R</I>, 
+Leporello's eating rate <I>r</I>, the number of dishes <I>N</I>, and the number 
+of calls <I>C</I>. 
+<P>Then there are <I>N</I> lines, each for a dish. Each line contains two 
+numbers <I>s</I> and <I>g</I> with <I>s</I> &gt; <I>g</I> &gt; 0: <I>s</I> is 
+the amount of food on the dish, and <I>g</I> is the amount Don Giovanni 
+consumes. Don Giovanni will eat the dishes sequentially in the same order given 
+by these <I>n</I> lines. As soon as Don Giovanni stops eating a dish, it is 
+handed to Leporello, and Don Giovanni starts the next dish right away. Leporello 
+eats as long as (and as soon as) there is food for him, and if you want to know, 
+he eats the dishes sequentially in the same order too. 
+<P>Then there are <I>C</I> lines, each for a call. Each line contains a number 
+<I>t</I> for a time when Don Giovanni calls Leporello. (Amazingly, these calls 
+do not slow down Don Giovanni's eating.) The sequence of call times is 
+increasing. 
+<P>All input numbers are positive integers and at most 2000. 
+<P>
+<H2><A name=SECTION00052000000000000000>Output</A></H2>
+<b>
+For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+
+<P>For each call, output a line <PRE>full</PRE>if Leporello is eating at the time of the call, and <PRE>clear</PRE>otherwise. 
+<P>Boundary case: What if Leporello is just about to start or stop eating at a 
+call time? E.g., he receives food at 20, he finishes eating at 40, and at both 
+times he gets called. In both cases, answer ``full''. (This also nicely handles 
+the case when he finishes a dish at 35, he receives another dish at 35, and he 
+gets called at 35.) 
+<P>
+<H2><A name=SECTION00053000000000000000>Sample Input</A></H2>
+<P><PRE>
+1
+
+10 7 5 4
+60 30
+150 125
+55 35
+70 40
+42 38
+2
+10
+19
+23
+</PRE>
+<P>
+<H2><A name=SECTION00054000000000000000>Sample Output</A></H2>
+<P><PRE>
+clear
+clear
+full
+full
+</PRE>
+<P><BR>
+<!--HR>
+<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/Dinner.hs">Solution 
+in Haskell</A> (not used in contest)<BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.cc">Solution 
+in C++</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.0.in">Test 
+Input 0</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.0.out">Test 
+Output 0</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.1.in">Test 
+Input 1</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.1.out">Test 
+Output 1</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.2.in">Test 
+Input 2</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.2.out">Test 
+Output 2</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.3.in">Test 
+Input 3</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.3.out">Test 
+Output 3</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.4.in">Test 
+Input 4</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.4.out">Test 
+Output 4</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.5.in">Test 
+Input 5</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.5.out">Test 
+Output 5</A><BR><A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.6.in">Test 
+Input 6</A>/<A 
+href="http://www.cs.queensu.ca/~acmteam/qipc/2002/problems/dinner.6.out">Test 
+Output 6</A> (not used)<BR--></BODY></HTML>

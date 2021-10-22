@@ -1,0 +1,135 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Deck</TITLE>
+<META NAME="description" CONTENT="Deck">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Deck</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A single playing card can be placed on a table, carefully, so that the short edges of the card are
+parallel to the table's edge, and half the length of the card hangs over the edge of the table. If the
+card hung any further out, with its center of gravity off the table, it would fall off the table and
+flutter to the floor. The same reasoning applies if the card were placed on another card, rather than on a table.
+
+<P>
+
+<P>
+<BR>
+Two playing cards can be arranged, carefully, with short edges parallel to table edges, to extend 3/4
+of a card length beyond the edge of the table. The top card hangs half a card length past the edge of
+the bottom card. The bottom card hangs with only 1/4 of its length past the table's edge. The center of gravity of the two cards combined lies just over the edge of the table.
+
+<P>
+
+<P>
+<BR>
+Three playing cards can be arranged, with short edges parallel to table edges, and each card
+touching at most one other card, to extend 11/12 of a card length beyond the edge of the table. The
+top two cards extend 3/4 of a card length beyond the edge of the bottom card, and the bottom card
+extends only 1/6 over the table's edge; the center of gravity of the three cards lines over the edges of the table.
+
+<P>
+
+<P>
+<BR>
+If you keep stacking cards so that the edges are aligned and every card has at most one card above it
+and one below it, how far out can 4 cards extend over the table's edge? Or 52 cards? Or 1000 cards? Or 99999?
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains several nonnegative integers, one to a line. No integer exceeds 99999.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The standard output will contain, on successful completion of the program, a 
+heading:
+
+<P>
+
+<TT># Cards Overhang</TT>
+
+<P>
+
+(that's two spaces between the words) and, following, a line for each input integer giving the length
+of the longest overhang achievable with the given number of cards, measured in cardlengths, and
+rounded to the nearest thousandth. The length must be expressed with at least one digit before the
+decimal point and exactly three digits after it. 
+
+<P>
+The number of cards is right-justified in column 5,
+and the decimal points for the lengths lie in column 12.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+2
+3
+4
+30
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT><A NAME="tex2html3"
+ HREF="#foot56"><SUP>1
+</SUP></A>
+</H2>
+				
+<PRE>
+12345678901234567
+# Cards Overhang
+    1     0.500
+    2     0.750
+    3     0.917
+    4     1.042
+   30     1.997
+</PRE>
+
+<P>
+
+<P>
+<BR><HR><H4>Footnotes</H4>
+<DL>
+<DT>... Output<A NAME="foot56"
+ HREF="651.html#tex2html3"><SUP>1
+</SUP></A>
+<DD>The line of digits is intended to guide you in proper output alignment, and is <B>not</B> part of the output
+that your solution should produce.
+
+</DL>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-01-17</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

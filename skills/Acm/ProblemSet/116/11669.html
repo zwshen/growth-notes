@@ -1,0 +1,436 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="d_files/filelist.xml">
+<link rel=Edit-Time-Data href="d_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem D - Non Decreasing Prime Sequence</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Sohel Hafiz</o:Author>
+  <o:LastAuthor>shahriar</o:LastAuthor>
+  <o:Revision>8</o:Revision>
+  <o:TotalTime>645</o:TotalTime>
+  <o:LastPrinted>2009-09-10T02:40:00Z</o:LastPrinted>
+  <o:Created>2008-10-08T14:21:00Z</o:Created>
+  <o:LastSaved>2009-09-10T02:40:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>275</o:Words>
+  <o:Characters>1572</o:Characters>
+  <o:Company>ReliSource Technologies Limited</o:Company>
+  <o:Lines>13</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1844</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Vrinda;
+	panose-1:1 1 6 0 1 1 1 1 1 1;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:65539 0 0 0 1 0;}
+@font-face
+	{font-family:"DejaVu Sans";
+	mso-font-alt:"Times New Roman";
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+h1
+	{mso-style-link:"Char Char1";
+	mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	tab-stops:304.75pt;
+	font-size:16.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-bidi-font-weight:normal;}
+h3
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:12.0pt;
+	font-family:"Courier New";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.CharChar1
+	{mso-style-name:"Char Char1";
+	mso-style-locked:yes;
+	mso-style-link:"Heading 1";
+	mso-ansi-font-size:12.0pt;
+	color:black;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;
+	mso-bidi-language:#0845;
+	font-style:italic;}
+p.TableContents, li.TableContents, div.TableContents
+	{mso-style-name:"Table Contents";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:no-line-numbers;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-bidi-font-family:Vrinda;
+	mso-font-kerning:1.0pt;}
+span.CharChar
+	{mso-style-name:"Char Char";
+	mso-ansi-font-size:12.0pt;
+	color:black;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;
+	mso-bidi-language:AR-SA;
+	font-style:italic;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="3074"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:24.0pt;font-family:Arial'>Problem D</span></b><span
+style='font-size:24.0pt;font-family:Arial'><br>
+</span><b><span style='font-size:20.0pt;font-family:Arial;mso-bidi-font-family:
+Arial'>Non-Decreasing Prime Sequence</span></b><b><span style='font-size:24.0pt;
+font-family:Arial'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:11.0pt;font-family:Arial'>Input: </span></b><span
+style='font-size:11.0pt;font-family:Arial;mso-bidi-font-weight:bold'>Standard
+Input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:11.0pt;font-family:Arial'>Output: </span></b><span
+style='font-size:11.0pt;font-family:Arial;mso-bidi-font-weight:bold'>Standard
+Output </span><b style='mso-bidi-font-weight:normal'><span style='font-size:
+18.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>A prime number is a natural
+number which has exactly two distinct natural number divisors. First few prime
+numbers are: 2, 3, 5, 7, 11, 13, <span class=GramE>…<span
+style='mso-spacerun:yes'>  </span>and</span> so on.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>A non decreasing prime sequence
+(NDPS) is a sequence of prime numbers where <span class=SpellE>i<sup>th</sup></span>
+element is not less than i-1<sup>th</sup> element for all <span class=SpellE>i</span>&gt;1.
+The weight of a NDPS is the product of all numbers of the sequence. Here are
+some examples of <span class=SpellE>NDPSs</span> with their corresponding
+weights.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='margin-left:106.05pt;border-collapse:collapse;mso-table-layout-alt:
+ fixed;mso-padding-alt:2.75pt 2.75pt 2.75pt 2.75pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:13.8pt'>
+  <td width=99 valign=top style='width:73.9pt;border:solid black 1.0pt;
+  border-right:none;mso-border-top-alt:solid black .25pt;mso-border-left-alt:
+  solid black .25pt;mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:13.8pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'><b>NDPS<o:p></o:p></b></p>
+  </td>
+  <td width=132 valign=top style='width:99.25pt;border:solid black 1.0pt;
+  mso-border-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:13.8pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'><b>Weight<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:13.8pt'>
+  <td width=99 valign=top style='width:73.9pt;border-top:none;border-left:solid black 1.0pt;
+  border-bottom:solid black 1.0pt;border-right:none;mso-border-left-alt:solid black .25pt;
+  mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:13.8pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'>2</p>
+  </td>
+  <td width=132 valign=top style='width:99.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:
+  solid black .25pt;mso-border-right-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:13.8pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'>2</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:13.8pt'>
+  <td width=99 valign=top style='width:73.9pt;border-top:none;border-left:solid black 1.0pt;
+  border-bottom:solid black 1.0pt;border-right:none;mso-border-left-alt:solid black .25pt;
+  mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:13.8pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'>2 5 13</p>
+  </td>
+  <td width=132 valign=top style='width:99.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:
+  solid black .25pt;mso-border-right-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:13.8pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'>130 (2 X 5 X 13)</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:13.8pt'>
+  <td width=99 valign=top style='width:73.9pt;border-top:none;border-left:solid black 1.0pt;
+  border-bottom:solid black 1.0pt;border-right:none;mso-border-left-alt:solid black .25pt;
+  mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:13.8pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'>2 3 97</p>
+  </td>
+  <td width=132 valign=top style='width:99.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:
+  solid black .25pt;mso-border-right-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:13.8pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'>582 (2 X 3 X 97)</p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>An NDPS <span class=GramE><b>a</b>
+is</span> smaller than another NDPS <b>b</b>, if number of elements in <b>a</b>
+is smaller than the number of elements in <b>b</b>. If <span class=GramE><b>a</b>
+and</span> <b>b</b> has same number of elements then lexicographically smaller
+sequence is the smaller NDPS. For the list given above, {2} is the smallest
+sequence because it has only one elements. {2 5 13} and {2 3 97} both have 3
+elements, so {2 3 97} is second smallest because it is lexicographically
+smaller than {2 5 13}.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>For a given range (<b>A</b>, <b>B</b>),
+where A&lt;=B, you have to find the <span class=SpellE><b>K<sup>th</sup></b></span>
+smallest NDPS between all the <span class=SpellE>NDPSs</span> having weights in
+between <b>A</b> and <span class=GramE><b>B</b>(</span>inclusive).</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt'>Input</span><o:p></o:p></b></p>
+
+<p class=MsoNormal style='text-align:justify'>Input will start with an integer <b>T
+(T&lt;=5000)</b>, the number of test cases. Each of the next <b>T</b> line will
+contain three integers <b>A</b>, <b>B</b> and <b>K (2&lt;=A&lt;=B&lt;=1000000)</b>.
+<b>K</b> is a positive integer and you can safely assume that at least <b>K</b>
+<span class=SpellE>NDPSs</span> exists in the given range.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt'>Output</span><o:p></o:p></b></p>
+
+<p class=MsoNormal style='text-align:justify'>For each case, you have to output
+one line, case number followed by the <span class=SpellE><b>K<sup>th</sup></b></span>
+smallest NDPS between all the <span class=SpellE>NDPSs</span> having weights
+between <b>A</b> and <span class=GramE><b>B</b>(</span>inclusive). See sample
+output for exact format.</p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'><o:p>&nbsp;</o:p></p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial;mso-bidi-font-family:Arial;
+font-style:normal'>Sample Input<span
+style='mso-spacerun:yes'>                             </span>Output for Sample
+Input<o:p></o:p></span></b></h1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='background:#CCCCCC;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=307 valign=top style='width:3.2in;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;font-family:"Courier New";
+  mso-bidi-font-family:"Courier New"'>3 <o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;font-family:"Courier New";
+  mso-bidi-font-family:"Courier New"'>2 10 1 <o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;font-family:"Courier New";
+  mso-bidi-font-family:"Courier New"'>2 10 5 <o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;font-family:"Courier New";
+  mso-bidi-font-family:"Courier New"'>2 10 9<o:p></o:p></span></b></p>
+  </td>
+  <td width=309 valign=top style='width:231.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;font-family:"Courier New";mso-bidi-font-family:"Courier New"'>Case
+  1: 2<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;font-family:"Courier New";mso-bidi-font-family:"Courier New"'>Case
+  2: 2 <span class=SpellE>2</span><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;font-family:"Courier New";mso-bidi-font-family:"Courier New"'>Case
+  3: 2 <span class=SpellE>2</span> <span class=SpellE>2</span></span></b><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New";
+  mso-bidi-font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:304.75pt'><!--[if mso & !supportInlineShapes & supportFields]><span
+style='mso-element:field-begin;mso-field-lock:yes'></span><span
+style='mso-spacerun:yes'> </span>SHAPE <span
+style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:field-separator'></span><![endif]--><!--[if gte vml 1]><v:rect
+ id="_x0000_s1026" style='width:494.45pt;height:1.5pt;
+ mso-position-horizontal-relative:char;mso-position-vertical-relative:line;
+ v-text-anchor:middle' fillcolor="#aca899" stroked="f">
+ <v:fill color2="#535766"/>
+ <v:stroke joinstyle="round"/>
+ <w:wrap type="none"/>
+ <w:anchorlock/>
+</v:rect><![endif]--><![if !vml]><img width=659 height=2
+src="d_files/image001.gif" v:shapes="_x0000_s1026"><![endif]><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><![endif]--><!--[if mso & !supportInlineShapes & supportFields]><v:shape
+ id="_x0000_i1025" type="#_x0000_t75" style='width:494.45pt;height:1.5pt'>
+ <v:imagedata croptop="-65520f" cropbottom="65520f"/>
+</v:shape><span style='mso-element:field-end'></span><![endif]--></p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:304.75pt'><b><span
+style='font-family:Arial'>Problem setter: <span class=SpellE>Arifuzzaman</span>
+<span class=SpellE>Arif</span><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:304.75pt'><b><span
+style='font-family:Arial'>Special Thanks: <span class=SpellE>Manzurur</span> <span
+class=SpellE>Rahman</span> Khan <o:p></o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>

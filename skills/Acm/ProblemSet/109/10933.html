@@ -1,0 +1,113 @@
+<html>
+<head>
+   <title>Problem G - VolleyBall</title>
+</head>
+<body>
+
+<h1 align="center">Problem G - Volleyball</h1>
+<h3 align="center">Time Limit: 1 second</h3>
+
+<div>
+</div>
+
+<p>
+</p>
+
+<p>
+Your task in this problem is to find out the classification of volleyball
+teams in a cup, and also the best teams according to some criterias.
+</p>
+
+<p>
+You will be given a number of cups, each one with some teams competing.
+Then, you will be given the matches and their results. A team win a match
+if it has won <b>3</b> sets. There will at most <b>5</b> sets per match.
+There are no draws. A team wins a set if it has made 25 or more points and
+the other team is at least two points behind.
+</p>
+
+<h2>Input</h2>
+
+<p>
+The input consists of several cups. Each cup is to be considered alone.
+Each cup description begins with a line indicating the number of teams
+competing in that cup, <b>2 &lt; T &lt; 1000</b>. Than, <b>T</b> lines will
+follow, each one with the name of one team competing in this cup. Team names
+are <b>20</b> character or less and may contain spaces and letters.
+</p>
+
+<p>
+Following, there will be a line with <b>1 &lt; M &lt; 1000</b> indicating
+the number of matches already played on this cup. The next <b>M</b> lines
+will have the description of a single match. Each match description begins with
+the name of both teams of that match separated by a single dash (<b> - </b>).
+Following the name of the second team there will be a collon (<b> : </b>).
+After the name of the teams it will follow the descriptions of the sets played on the
+match. A set will have the total points of the first team on the set, than
+a single dash, than the total points of the second team.
+</p>
+
+<p>
+The input is terminated with a cup where <b>T = 0</b>. This case is not
+to be considered. Each cup is separated by a blank line.
+</p>
+
+<p>
+See sample input for the correct format of the input.
+</p>
+
+<h2>Output</h2>
+
+<p>
+For each cup, print the classification of the cup after the presented
+matches. The team classification will be according to the following rules,
+respectively:
+</p>
+
+<ul>
+	<li>The number of winning matches</li>
+	<li>The number of winning sets less the number of lost sets</li>
+	<li>The number of points scored</li>
+</ul>
+
+<p>
+If the teams are still tied after considering the criterias above, sort
+them by their names.
+</p>
+
+<p>
+Output a blank line after each cup result.
+Your output must follow the format presented on sample output.
+</p>
+
+<h2>Sample Input</h2>
+
+<pre>
+3
+Team1
+Team2
+Team 3
+3
+Team1-Team2: 25-19 25-20 25-23
+Team1-Team 3: 1-25 2-25 3-25
+Team2-Team 3: 25-21 31-29 29-31 29-31 33-35
+
+0
+</pre>
+
+<h2>Sample Output</h2>
+
+<pre>
+1234567890123456789012345678901234567890 ---> Don't print this line, use only as reference
+Team 3                  2    4       222
+Team1                   1    0        81
+Team2                   0   -4       209
+
+</pre>
+
+<hr>
+
+<b>Problem setter: João Paulo F Farias</b>
+
+</body>
+</html>

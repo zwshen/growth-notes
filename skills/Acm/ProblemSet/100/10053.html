@@ -1,0 +1,151 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Problem C: Envelopes</TITLE>
+<META NAME="description" CONTENT="Problem C: Envelopes">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Problem C: Envelopes</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+ 
+I have bought some greeting cards for my friends but in order to send them I
+must also buy some envelopes. Each card must be put inside a separate envelope
+without bending or tearing. The envelopes are made of so thin papers that one
+can put inside an envelope a card having even the same dimensions as that
+envelope. 
+
+<P>
+Please help me choose envelopes so that the total amount I need to
+spend in buying them is minimized.   
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input may contain multiple test cases.
+
+<P>
+The first line of each test case contains two integers <I>M</I> (
+<!-- MATH: $1 \le M \le 5$ -->
+<IMG
+ WIDTH="87" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10053img1.gif"
+ ALT="$1 \le M \le 5$">)
+and <I>N</I> (
+<!-- MATH: $M \le N \le 10$ -->
+<IMG
+ WIDTH="103" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10053img2.gif"
+ ALT="$M \le N \le 10$">)
+where <I>M</I> is the number of greeting cards and <I>N</I> is
+the number of envelopes to choose from. The <I>i</I>­th (
+<!-- MATH: $1 \le i \le M$ -->
+<IMG
+ WIDTH="85" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10053img3.gif"
+ ALT="$1 \le i \le M$">)
+of the
+next <I>M</I> lines consists of two integers <I>l</I><SUB><I>i</I></SUB> and <I>w</I><SUB><I>i</I></SUB> (
+<!-- MATH: $1 \le l_i, w_i \le
+50000$ -->
+<IMG
+ WIDTH="140" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10053img4.gif"
+ ALT="$1 \le l_i, w_i \le
+50000$">)
+giving the dimensions of the <I>i</I>­th greeting card. The <I>i</I>­th (
+<!-- MATH: $1 \le
+i \le N$ -->
+<IMG
+ WIDTH="82" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10053img5.gif"
+ ALT="$1 \le
+i \le N$">)
+of the next <I>N</I> lines contains three integers <I>L</I><SUB><I>i</I></SUB>, <I>W</I><SUB><I>i</I></SUB> and <I>C</I><SUB><I>i</I></SUB>
+(
+<!-- MATH: $1 \le L_i, W_i, C_i \le 50000$ -->
+<IMG
+ WIDTH="176" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10053img6.gif"
+ ALT="$1 \le L_i, W_i, C_i \le 50000$">)
+where <I>L</I><SUB><I>i</I></SUB> and <I>W</I><SUB><I>i</I></SUB> give the dimensions of
+the <I>i</I>­th envelope and <I>C</I><SUB><I>i</I></SUB> is its price in Taka.
+
+<P>
+The input terminates with two zeros for <I>M</I> and <I>N</I>.                 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case in the input first print the test case number on a separate
+line as shown in the sample output. If an envelope can be chosen for each of
+the greeting cards in the input, print one line for each where the <I>i</I>­th line
+contains the number of the envelope (in the order given in the input) inside
+which the <I>i</I>­th greeting card should be put. Otherwise, print ``<TT>cannot
+buy</TT>" on a line by itself. Note that if there are multiple solutions with
+minimum cost, any one of them is acceptable.
+
+<P>
+Print a blank line between two successive test cases.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2 4
+105 9
+99 149
+110 10 10
+100 50 5
+150 100 7
+90 140 15
+1 2
+100 150
+99 149 10
+142 100 5
+0 0
+</PRE>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Case #1
+2
+3
+ 
+Case #2
+cannot buy
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-12-28</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

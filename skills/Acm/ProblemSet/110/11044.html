@@ -1,0 +1,175 @@
+
+<!--Converted with LaTeX2HTML 2008 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Searching for Nessy</TITLE>
+<META NAME="description" CONTENT="Searching for Nessy">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Searching for Nessy</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+<EM>The Loch Ness Monsteris
+a mysterious and unidentified animal said to inhabit Loch Ness,&nbsp;
+<BR>
+a large deep freshwater
+loch near the city
+of Inverness in northern Scotland. Nessie is usually categorized as a type of
+lake monster.</EM>
+<BR>
+http://en.wikipedia.org/wiki/Loch_Ness_Monster
+
+<P>
+
+<P><P>
+<BR>
+In July 2003, the BBC reported an extensive investigation of Loch Ness by a BBC
+team, using 600 separate sonar beams, found no trace of any &#168;sea monster&#168;
+(i.e., any large animal, known or unknown) in the loch. The BBC team concluded
+that Nessie does not exist. Now we want to repeat the experiment.
+
+<P>
+
+<P><P>
+<BR>
+Given a grid of <SPAN CLASS="MATH"><I>n</I></SPAN> rows and <SPAN CLASS="MATH"><I>m</I></SPAN> columns representing the loch, <SPAN CLASS="MATH">6<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11044img1.png"
+ ALT="$ \le$"><I>n</I></SPAN>, <!-- MATH
+ $m \le 10000$
+ -->
+<SPAN CLASS="MATH"><I>m</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11044img1.png"
+ ALT="$ \le$">10000</SPAN>, find the minimum number <SPAN CLASS="MATH"><I>s</I></SPAN> of sonar beams you must put in the square such that we can control every position in the
+grid, with the following conditions:
+
+<P>
+
+<UL>
+<LI>one sonar occupies one position in the grid; the sonar beam controls its own cell and the contiguous cells;
+</LI>
+<LI>the border cells do not need to be controlled, because Nessy cannot hide there (she is too big).
+</LI>
+</UL>
+
+<P>
+For example,
+
+<P>
+
+<P>
+<BR>
+
+<IMG
+ WIDTH="291" HEIGHT="362" ALIGN="MIDDLE" BORDER="0"
+ SRC="p11044.jpg"
+ ALT="$\textstyle \parbox{.5\textwidth}{
+\begin{center}
+\mbox{}
+\epsfbox{p11044.eps}
+\end{center}}$"><IMG
+ WIDTH="276" HEIGHT="325" ALIGN="MIDDLE" BORDER="0"
+ SRC="p11044a.gif"
+ ALT="$\textstyle \parbox{.49\textwidth}{
+\begin{center}
+\mbox{}
+\epsfbox{p11044a.eps}
+\end{center}}$">
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p11044b.eps}$
+ -->
+<IMG
+ WIDTH="415" HEIGHT="292" ALIGN="BOTTOM" BORDER="0"
+ SRC="p11044b.gif"
+ ALT="\epsfbox{p11044b.eps}">
+</DIV>
+
+<P>
+where <SPAN CLASS="MATH"><I>X</I></SPAN> represents a sonar, and the shaded cells are controlled by
+their sonar beams; the last figure gives us a solution.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of the input contains an integer, <SPAN CLASS="MATH"><I>t</I></SPAN>, indicating the number of test cases. For each
+test case, there is a line with two numbers separated by blanks, <SPAN CLASS="MATH">6<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11044img1.png"
+ ALT="$ \le$"><I>n</I></SPAN>, <!-- MATH
+ $m \le 10000$
+ -->
+<SPAN CLASS="MATH"><I>m</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11044img1.png"
+ ALT="$ \le$">10000</SPAN>, that is, the size of the grid (<SPAN CLASS="MATH"><I>n</I></SPAN> rows and <SPAN CLASS="MATH"><I>m</I></SPAN> columns).
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case, the output should consist of one line showing the minimum
+number of sonars that verifies the conditions above.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE> 
+3
+6 6
+7 7
+9 13
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE> 
+4
+4
+12
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

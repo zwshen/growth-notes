@@ -1,0 +1,200 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>It's not a Bug, it's a Feature!</TITLE>
+<META NAME="description" CONTENT="It's not a Bug, it's a Feature!">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+It's not a Bug, it's a Feature!</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+It is a curious fact that consumers buying a new software product generally do
+<EM>not</EM> expect the software to be bug-free. Can you imagine buying a car
+whose steering wheel only turns to the right? Or a CD-player that plays only
+CDs with country music on them? Probably not. But for software systems it
+seems to be acceptable if they do not perform as they should do. In fact, many
+software companies have adopted the habit of sending out patches to fix bugs
+every few weeks after a new product is released (and even charging money for
+the patches).
+
+<P>
+Tinyware Inc. is one of those companies. After releasing a new word processing software this
+summer, they have been producing patches ever since. Only this weekend they have realized a big
+problem with the patches they released. While all patches fix some bugs, they often rely on other
+bugs to be present to be installed. This happens because to fix one bug, the patches exploit the special
+behavior of the program due to another bug.
+
+<P>
+More formally, the situation looks like this. Tinyware has found a total of
+<I>n</I> bugs 
+<!-- MATH: $B= \{b_1, b_2, \dots, b_n\}$ -->
+<IMG
+ WIDTH="152" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="658img1.gif"
+ ALT="$B= \{b_1, b_2, \dots, b_n\}$">
+in their software. And they have
+released <I>m</I> patches 
+<!-- MATH: $p_1, p_2, \dots, p_m$ -->
+<IMG
+ WIDTH="105" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="658img2.gif"
+ ALT="$p_1, p_2, \dots, p_m$">.
+To apply patch <I>p</I><SUB><I>i</I></SUB> to the
+software, the bugs 
+<!-- MATH: $B^+_i \subseteq B$ -->
+<IMG
+ WIDTH="67" HEIGHT="38" ALIGN="MIDDLE" BORDER="0"
+ SRC="658img3.gif"
+ ALT="$B^+_i \subseteq B$">
+have to be present in the software, and
+the bugs 
+<!-- MATH: $B^-_i \subseteq B$ -->
+<IMG
+ WIDTH="67" HEIGHT="38" ALIGN="MIDDLE" BORDER="0"
+ SRC="658img4.gif"
+ ALT="$B^-_i \subseteq B$">
+must be absent (of course
+
+<!-- MATH: $B^+_i \cap B^-_i = \emptyset$ -->
+<IMG
+ WIDTH="107" HEIGHT="38" ALIGN="MIDDLE" BORDER="0"
+ SRC="658img5.gif"
+ ALT="$B^+_i \cap B^-_i = \emptyset$">
+holds). The patch then
+fixes the bugs 
+<!-- MATH: $F^-_i \subseteq B$ -->
+<IMG
+ WIDTH="67" HEIGHT="38" ALIGN="MIDDLE" BORDER="0"
+ SRC="658img6.gif"
+ ALT="$F^-_i \subseteq B$">
+(if they have been present) and introduces
+the new bugs 
+<!-- MATH: $F^+_i \subseteq B$ -->
+<IMG
+ WIDTH="67" HEIGHT="38" ALIGN="MIDDLE" BORDER="0"
+ SRC="658img7.gif"
+ ALT="$F^+_i \subseteq B$">
+(where, again, 
+<!-- MATH: $F^-_i \cap B^-_i = \emptyset$ -->
+<IMG
+ WIDTH="106" HEIGHT="38" ALIGN="MIDDLE" BORDER="0"
+ SRC="658img8.gif"
+ ALT="$F^-_i \cap B^-_i = \emptyset$">).
+
+<P>
+Tinyware's problem is a simple one. Given the original version of their software, which contains
+all the bugs in <I>B</I>, it is possible to apply a sequence of patches to the
+software which results in a bug- free version of the software? And if so,
+assuming that every patch takes a certain time to apply, how long does the
+fastest sequence take?
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input contains several product descriptions. Each description starts with a line containing two
+integers <I>n</I> and <I>m</I>, the number of bugs and patches, respectively. These
+values satisfy 
+<!-- MATH: $1 \le n \le 20$ -->
+<IMG
+ WIDTH="88" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="658img9.gif"
+ ALT="$1 \le n \le 20$">
+and 
+<!-- MATH: $1 \le m \le 100$ -->
+<IMG
+ WIDTH="101" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="658img10.gif"
+ ALT="$1 \le m \le 100$">.
+This is followed by <I>m</I>
+lines describing the <I>m</I> patches in order. Each line contains an integer, the
+time in seconds it takes to apply the patch, and two strings of <I>n</I> characters
+each.
+
+<P>
+The first of these strings describes the bugs that have to be present or absent before the patch can
+be applied. The <I>i</I>-th position of that string is a ``<TT>+</TT>'' if bug <I>b</I><SUB><I>i</I></SUB>
+has to be present, a ``<TT>-</TT>'' if bug <I>b</I><SUB><I>i</I></SUB> has to be absent, and a ``<TT>
+0</TT>'' if it doesn't matter whether the bug is present or not.
+
+<P>
+The second string describes which bugs are fixed and introduced by the patch.
+The <I>i</I>-th position of that string is a ``<TT>+</TT>'' if bug <I>b</I><SUB><I>i</I></SUB> is introduced
+by the patch, a ``<TT>-</TT>'' if bug <I>b</I><SUB><I>i</I></SUB> is removed by the patch (if it was
+present), and a ``<TT>0</TT>'' if bug <I>b</I><SUB><I>i</I></SUB> is not affected by the patch (if it
+was present before, it still is, if it wasn't, is still isn't).
+
+<P>
+The input is terminated by a description starting with <I>n</I> = <I>m</I> = 0. This test
+case should not be processed.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each product description first output the number of the product. Then output whether there is a
+sequence of patches that removes all bugs from a product that has all <I>n</I> bugs. Note that in such a
+sequence a patch may be used multiple times. If there is such a sequence, output the time taken by
+the fastest sequence in the format shown in the sample output. If there is no such sequence, output
+``<TT>Bugs cannot be fixed.</TT>''.
+
+<P>
+Print a blank line after each test case.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3 3
+1 000 00-
+1 00- 0-+
+2 0-- -++
+4 1
+7 0-0+ ----
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+Product 1
+Fastest sequence takes 8 seconds.
+
+Product 2
+Bugs cannot be fixed.
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-05-22</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

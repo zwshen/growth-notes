@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML><HEAD><TITLE>Problem C: Exchange Rates</TITLE></HEAD>
+<BODY>
+
+<H1 ALIGN=CENTER>Problem C: Exchange Rates</H1>
+
+<CENTER><TABLE>
+<TR><TD>Source file:</TD><TD><TT>exchange.</TT>{<TT>c</TT>, <TT>cpp</TT>, <TT>java</TT>, <TT>pas</TT>}</TD></TR>
+<TR><TD>Input file:</TD><TD><TT>exchange.in</TT></TD></TR>
+<TR><TD>Output file:</TD><TD><TT>exchange.out</TT></TD></TR>
+</TABLE></CENTER>
+
+<P>Using money to pay for goods and services usually makes life easier,
+but sometimes people prefer to trade items directly without any
+money changing hands.  In order to ensure a consistent &#34;price&#34;,
+traders set an exchange rate between items.  The exchange rate between
+two items <I>A</I> and <I>B</I> is expressed as two positive integers <I>m</I> and <I>n</I>, and
+says that <I>m</I> of item <I>A</I> is worth <I>n</I> of item <I>B</I>.  For example, 2 stoves
+might be worth 3 refrigerators.  (Mathematically, 1 stove is worth 1.5
+refrigerators, but since it's hard to find half a refrigerator, exchange
+rates are always expressed using integers.)
+
+<P>Your job is to write a program that, given a list of exchange rates,
+calculates the exchange rate between any two items.
+
+<P>The input file contains one or more commands, followed by a line
+beginning with a period that signals the end of the file.
+Each command is on a line by itself and is either an assertion or a
+query.  An assertion begins with an exclamation point and has the format
+
+<BLOCKQUOTE>! <I>m</I> <I>itema</I> = <I>n</I> <I>itemb</I></BLOCKQUOTE>
+
+where <I>itema</I> and <I>itemb</I> are distinct item names and <I>m</I> and <I>n</I> are
+both positive integers less than 100.  This command says that <I>m</I> of
+<I>itema</I> are worth <I>n</I> of <I>itemb</I>.  A query begins with a question mark,
+is of the form
+
+<BLOCKQUOTE>? <I>itema</I> = <I>itemb</I></BLOCKQUOTE>
+
+and asks for the exchange rate between <I>itema</I> and <I>itemb</I>, where <I>itema</I>
+and <I>itemb</I> are distinct items that have both appeared in previous
+assertions (although not necessarily the same assertion).
+For each query, output the exchange rate between <I>itema</I> and <I>itemb</I> based on
+all the assertions made up to that point.  Exchange rates must be in
+integers and must be reduced to lowest terms.  If no exchange rate can be
+determined at that point, use question marks instead of integers.  Format
+all output exactly as shown in the example.
+
+<P>Note:
+
+<UL>
+<LI>Item names will have length at most 20 and will contain only lowercase letters.
+<LI>Only the singular form of an item name will be used (no plurals).
+<LI>There will be at most 60 distinct items.
+<LI>There will be at most one assertion for any pair of distinct items.
+<LI>There will be no contradictory assertions.  For example, &#34;2 pig = 1
+cow&#34;, &#34;2 cow = 1 horse&#34;, and &#34;2 horse = 3 pig&#34; are contradictory.
+<LI>Assertions are not necessarily in lowest terms, but output must be.
+<LI>Although assertions use numbers less than 100, queries may result in
+larger numbers that will not exceed 10000 <EM>when reduced to lowest
+terms</EM>.
+</UL>
+
+<P><B>Example input:</B>
+
+<BLOCKQUOTE><PRE>! 6 shirt = 15 sock
+! 47 underwear = 9 pant
+? sock = shirt
+? shirt = pant
+! 2 sock = 1 underwear
+? pant = shirt
+.
+</PRE></BLOCKQUOTE>
+
+<P><B>Example output:</B>
+
+<BLOCKQUOTE><PRE>5 sock = 2 shirt
+? shirt = ? pant
+45 pant = 188 shirt
+</PRE></BLOCKQUOTE>
+</BODY></HTML>

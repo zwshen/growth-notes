@@ -1,0 +1,197 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./p3_files/filelist.xml">
+<link rel=Edit-Time-Data href="./p3_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem H - Find the Permuted String</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Administrator</o:Author>
+  <o:LastAuthor>Administrator</o:LastAuthor>
+  <o:Revision>9</o:Revision>
+  <o:TotalTime>6</o:TotalTime>
+  <o:Created>2001-02-20T07:08:00Z</o:Created>
+  <o:LastSaved>2001-02-20T07:14:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>222</o:Words>
+  <o:Characters>1268</o:Characters>
+  <o:Company>BUET</o:Company>
+  <o:Lines>10</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1557</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in' bgcolor="#D0d0FF">
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=5>Problem H</font></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=6>Find the Permuted String</font></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Input: </b><span style='mso-bidi-font-weight:bold'>standard input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Output: </b>standard output</p>
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Time Limit: </b>1 seconds</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'> Permutation of a given string can be done in different ways. In order to get different permutations of a string, when all characters in the string are different, Donald E. Knuth gave the following process.
+
+To get all the permutations of a n character string (a1a2…an), using each permutation a1, a2… an-1, we can form n others by inserting ‘an’ (nth character) in all possible places. 
+Thus we get n! permutations of that string.
+
+For example, to generate all permutations of   “ACB”, we first start with ‘A’, then insert ’C’ and then insert ‘B’.
+</p>
+<p>
+<center>
+<TABLE BORDER="1" CELLPADDING=3 WIDTH=400>
+<TR><TD WIDTH="25%" VALIGN="CENTER">
+<P ALIGN="CENTER">Col1</TD>
+<TD WIDTH="25%" VALIGN="CENTER">
+<P ALIGN="CENTER">Col2</TD>
+<TD WIDTH="25%" VALIGN="CENTER">
+<P ALIGN="CENTER">Col3</TD>
+<TD WIDTH="25%" VALIGN="CENTER">
+<P ALIGN="CENTER">Permutation Index</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="CENTER">
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">A</TD>
+<TD WIDTH="25%" VALIGN="CENTER">
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">CA</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+<P ALIGN="CENTER">AC</TD>
+<TD WIDTH="25%" VALIGN="CENTER">
+<P ALIGN="CENTER">BCA</P>
+<P ALIGN="CENTER">CBA</P>
+<P ALIGN="CENTER">CAB</P>
+<P ALIGN="CENTER">BAC</P>
+<P ALIGN="CENTER">ABC</P>
+<P ALIGN="CENTER">ACB</TD>
+<TD WIDTH="25%" VALIGN="CENTER">
+<P ALIGN="CENTER">1</P>
+<P ALIGN="CENTER">2</P>
+<P ALIGN="CENTER">3</P>
+<P ALIGN="CENTER">4</P>
+<P ALIGN="CENTER">5</P>
+<P ALIGN="CENTER">6</TD>
+</TR>
+</TABLE>
+</center>
+</p>
+<p>
+<p class=MsoNormal style='text-align:justify'>
+So we see that using above technique, the permutations of “ACB” are generated in a particular order. Here 2nd permutation of “ACB” is the string “CBA” or permutation index of “CBA” is 2.
+In this problem you will be given a string and a permutation index, <b>I</b>. You have to find the <b>I'th</b> permutation of the given string.
+</p> 
+
+<p>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Input</font></span></b></p>
+<p class=MsoNormal style='text-align:justify'> 
+First line of the input file will contain an integer denoting the number of test cases to follow. 
+For each test case there will be two lines. 
+First line of each test case will contain a string of length less than or equal to 26. The characters of the string will be all upper case letters and different. 
+Next line will contain a permutation index, <b>I</b>. Range of <b>I</b> is from 1 to min(n!,2^31-1), where <b>n</b> is the length of the string.
+</p>
+
+
+<br>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Output</font></span></b></p>
+<p class=MsoNormal style='text-align:justify'>	For each test case, print the <b>I'th</b> permuted string of the given string in a line. 
+Look at Sample input and output for details.
+
+
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Input</font></span></b></p>
+<font face="courier" size=3>
+</font>
+<xmp>
+4
+ACB
+2
+ABC
+1
+ABC
+6
+ABCD
+12
+</xmp>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Output</font></span></b></p>
+<font face="courier" size=3>
+<xmp>
+CBA
+CBA
+ABC
+BACD
+</xmp>
+</font>
+</div>
+<hr size=2 width="100%" align=center>
+<p class=MsoNormal><b><span style='color:windowtext'>Author : S. M. Shahed Nejhum</span></b></p>
+<i> 
+The Real Programmers' Contest-2 </i>
+
+</body>
+
+</html>

@@ -1,0 +1,80 @@
+<HTML>
+<HEAD><TITLE>Trouble of 13-Dots</TITLE>
+<META content="Trouble of 13-Dots" name=description>
+<META content=1036 name=keywords>
+<META content=document name=resource-type>
+<META content=global name=distribution>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META content="MSHTML 6.00.2800.1106" name=GENERATOR>
+<META http-equiv=Content-Style-Type content=text/css></HEAD>
+
+
+<BODY>
+<TABLE WIDTH=100% BORDER=0 CELLPADDING=4 CELLSPACING=3>
+	<COL WIDTH=256*>
+	<COL WIDTH=256*>
+	<THEAD>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=100% BGCOLOR="#000066">
+				<P><FONT COLOR="#ffffff"><FONT FACE="Arial Black" SIZE=6>Problem
+                                F: Trouble of 13-Dots</FONT></P>
+			</TD>
+		</TR>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=100% BGCOLOR="#000066">
+				<P ALIGN=RIGHT><FONT COLOR="#ffffff"><FONT FACE="Arial Black" SIZE=3>Time
+				limit: 2 seconds</FONT></P>
+			</TD>
+		</TR>
+	</THEAD>
+</TABLE>
+
+<p>Do you know 13-Dots? She is the main character of a well-known Hong Kong comic series. She is famous of her beauty, as well as the variety of stylish clothes she wears.
+   Here are some pictures of 13-Dots that I found on the Web:
+
+<p align=center><img src="p10819a.gif"> <img src="p10819b.jpg"> <img src="p10819c.jpg">
+
+<p>Now 13-Dots is facing a problem. She used to have a large amount of pocket money every month. However, her father has decided to cut down her budget of buying new clothes! In the past, she would buy every dress she liked without hesitation, but now
+   she needs careful consideration before making any purchase. Every month, she prepares a list containing the prices and 'favour indices' (ranging from 1 to 5) of all items she is interested. At the end of the month, she would decide how to spend her
+   money such that the total favour value is maximized. It is important to know that 13-Dots always uses her credit card to pay the bill, which offers her a 200-dollar refund if her total expense in the month exceeds $2000. For example, if her budget is
+   $5000, she can buy clothes with total marked price of at most 5200 dollars.
+
+<p>Since the optimal way is hard to be figured out just by hand, can you <b>write a program</b> for 13-Dots that helps her make the decision?
+   Remember that you should NEVER select an item more than once, even if this leads to a greater total favour value.
+
+<P><H2><A name=SECTION00001000000000000000><FONT color=#000066>Input</FONT></A></H2>
+
+<p>The input consists of several test cases. Each of them has the following format:
+
+<P>The first line gives two integers, <b>m</b> and <b>n</b> (0 &le; <b>m</b> &le; 10000, 0 &le; <b>n</b> &le; 100), which are the amount of pocket money 13-Dots has and the number of items on the list respectively.
+   The following <b>n</b> lines each contains two integers, <b>p</b> and <b>f</b> (0 < <b>p</b> &le; 4000, 1 &le; <b>f</b> &le; 5), where <b>p</b> is the marked price of the item, and <b>f</b> is its 'favour index'.
+
+<p>Input is terminated by EOF.
+
+<P><H2><A name=SECTION00002000000000000000><FONT color=#000066>Output</FONT></A></H2>
+
+<p>For each test case, print one line giving the maximum total favour value 13-Dots can get.
+
+<P><H2><A name=SECTION00003000000000000000><FONT color=#000066>Sample Input</FONT></A></H2>
+
+<PRE>
+500 4
+100 2
+100 3
+200 3
+400 4
+</PRE>
+
+<P><H2><A name=SECTION00004000000000000000><FONT color=#000066>Sample Output</FONT></A></H2>
+
+<PRE>
+8
+</PRE>
+
+<P><HR>
+<ADDRESS><I>Question 4 in OIPC, Nov. 2003</I><br>
+<I>Image sources include:
+http://www.hkcomics.com, http://www.yesasia.com, http://isubculture.ichannel.com.hk
+</I></ADDRESS>
+</BODY>
+</HTML>

@@ -1,0 +1,139 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Character Decoding</TITLE>
+<META NAME="description" CONTENT="Character Decoding">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Character Decoding</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+This is a test for decoding characters' values. Assume a numerical expression is
+encoded in English characters by replacing some digit numbers (from 0 to 9) with
+English characters. So this kind of numerical expressions can be expressed in new
+forms, such as
+
+<P>
+<DIV ALIGN="CENTER">
+<TT>2BAD = ABE + CD</TT>
+</DIV>
+
+<P>
+Please write a program to decode the expressions in characters and output the
+numerical value of characters, according to the following rules and assumptions.
+
+<P>
+<DL COMPACT>
+<DT>1.
+<DD>All character values are integers between 0 to 9 both inclusive.
+<P>
+<DT>2.
+<DD>An expression is represented as a set of items combined with operators. Only the
+operators <TT>+</TT>, <TT>-</TT> and <TT>=</TT> are used in each expression. And at
+most 5 items are used in one expression.
+
+<P>
+<DT>3.
+<DD>There is one and only one operator <TT>=</TT> in each expression. And only
+one item is in the left-hand side of the operator <TT>=</TT>.
+
+<P>
+<DT>4.
+<DD>Each item is represented by a combination of capital English characters and digital
+numbers. The value of the left-most character in each item is not 0.
+
+<P>
+<DT>5.
+<DD>The input data are represented as several rows of numerical expressions and are
+stored in a file. Each row is an independent expression with other rows. The end of
+the input file is a star symbol (<TT>*</TT>).
+
+<P>
+<DT>6.
+<DD>Output the value of the left-most item in each expression row by row, in the same
+order as that in the input file.
+
+<P>
+<DT>7.
+<DD>If there are multiple solutions, print out the smallest values for each left-most item.
+If no possible solutions exist, print out a question mark (<TT>?</TT>) instead.
+</DL>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Contains k lines, with <I>k</I>-1 expressions.
+<PRE><TT>
+Line 1 		 the first expression 
+... 
+Line <I>k</I>-1 the 
+<!-- MATH: $(k-1)^{th}$ -->
+(<I>k</I>-1)<SUP><I>th</I></SUP> 
+Line <I>k</I> A star symbol indicating end-of-file
+</TT></PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Contains <I>k</I> - 1 lines. Each line is the smallest value that satisfies the
+corresponding expression.
+<PRE><TT>
+Line 1 		 value 
+... 
+Line <I>k</I>-1 value
+</TT></PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+CA = AB + 6C
+DDE5 = DEFG - EHI + DDH
+A = 0
+*
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+81
+1115
+?
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-14</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

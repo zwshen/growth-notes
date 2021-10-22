@@ -1,0 +1,250 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>DRM</TITLE>
+<META NAME="description" CONTENT="DRM">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+D: DRM</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+DRM Inc. is a firm that produces digital road maps. A digital map
+is a set of places and a set of streets between places. Streets are
+not oriented, i.e., they are two-way streets.
+
+<P>
+
+<P>
+<BR>
+
+<P>
+A road between a place <SPAN CLASS="MATH"><I>a</I></SPAN>
+<tex2html_verbatim_mark> and a place <SPAN CLASS="MATH"><I>b</I></SPAN>
+<tex2html_verbatim_mark> is a sequence of places
+<!-- MATH
+ $\left\langle u_{0},u_{1},...,u_{n} \right\rangle$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="13" HEIGHT="26" ALIGN="MIDDLE" BORDER="0"
+ SRC="11336img1.png"
+ ALT="$ \left\langle\vphantom{ u_{0},u_{1},...,u_{n} }\right.$"><I>u</I><SUB>0</SUB>, <I>u</I><SUB>1</SUB>,..., <I>u</I><SUB>n</SUB><IMG
+ WIDTH="13" HEIGHT="26" ALIGN="MIDDLE" BORDER="0"
+ SRC="11336img2.png"
+ ALT="$ \left.\vphantom{ u_{0},u_{1},...,u_{n} }\right\rangle$"></SPAN>
+<tex2html_verbatim_mark> such that <SPAN CLASS="MATH"><I>a</I> = <I>u</I><SUB>0</SUB></SPAN>
+<tex2html_verbatim_mark>, <SPAN CLASS="MATH"><I>b</I> = <I>u</I><SUB>n</SUB></SPAN>
+<tex2html_verbatim_mark>, and there
+is a street between <SPAN CLASS="MATH"><I>u</I><SUB>i</SUB></SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH"><I>u</I><SUB>i+1</SUB></SPAN>
+<tex2html_verbatim_mark> for <SPAN CLASS="MATH">0<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11336img3.png"
+ ALT="$ \le$"><I>i</I> &lt; <I>n</I></SPAN>
+<tex2html_verbatim_mark>.
+
+<P>
+
+<P>
+<BR>
+
+<P>
+The definition of a map is accomplished incrementally: a new version
+of a map is built adding details to an already defined one. The new
+map must be <SPAN  CLASS="textit">consistent</SPAN> with the old one, i.e., the new one
+must be <SPAN  CLASS="textit">more</SPAN> <SPAN  CLASS="textit">detailed</SPAN> than the old one, in the sense
+that 
+
+<P>
+
+<UL>
+<LI>the new map has at least the same places than the old one; 
+</LI>
+<LI>for every street between places <SPAN CLASS="MATH"><I>u</I></SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH"><I>v</I></SPAN>
+<tex2html_verbatim_mark> in the old map, in the
+new one there is a road between <SPAN CLASS="MATH"><I>u</I></SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH"><I>v</I></SPAN>
+<tex2html_verbatim_mark>. Any intermediate place
+of this road must be a new place (not considered in the old map). 
+
+<P>
+</LI>
+</UL>
+DRM building process includes a comparison step between consecutive
+map versions in order to assure consistence between them. You must
+help DRM to evaluate if a map is more detailed than another one. 
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+A map is represented with several input lines: 
+
+<P>
+
+<UL>
+<LI>the first line contains an identifier for the map 
+</LI>
+<LI>the following lines, except the last one, contains identifiers of
+two places that define a street between them. Identifiers are separated
+with a blank character. It is guaranteed that a street is described
+only once, but places naming it could be given in any order. On the
+other hand, streets are named without any specific order. 
+</LI>
+<LI>the last line contains the string <TT>&#34;* * *&#34;</TT>
+(star, blank, star, blank, star). 
+</LI>
+</UL>
+
+<P>
+An identifier is a character string without blanks. 
+
+<P>
+
+<P>
+<BR>
+
+<P>
+The problem input describes several cases, each one consisting of
+a pair of map representations. For each case you must evaluate if
+the second map of the given pair is a more detailed version of the
+first one. 
+
+<P>
+
+<P>
+<BR>
+
+<P>
+The end of the input is specified by a line with the word <TT>END</TT>.
+
+<P>
+
+<P>
+<BR>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Output texts for each input case are presented in the same order that
+input is read.
+
+<P>
+
+<P>
+<BR>
+
+<P>
+For each pair of maps named <SPAN CLASS="MATH">&lt; <I>id</I>1 &gt;</SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH">&lt; <I>id</I>2 &gt;</SPAN>
+<tex2html_verbatim_mark>, if the map named <SPAN CLASS="MATH">&lt; <I>id</I>2 &gt;</SPAN>
+<tex2html_verbatim_mark> is more detailed than the map named <SPAN CLASS="MATH">&lt; <I>id</I>1 &gt;</SPAN>
+<tex2html_verbatim_mark>, an output line of the form 
+
+<P>
+
+<P>
+<BR>
+
+<P>
+<TT>YES: <SPAN CLASS="MATH">&lt; <I>id</I>2 &gt;</SPAN>
+<tex2html_verbatim_mark> is a more detailed version of <SPAN CLASS="MATH">&lt; <I>id</I>1 &gt;</SPAN>
+<tex2html_verbatim_mark></TT>
+
+<P>
+
+<P>
+<BR>
+
+<P>
+must be written. In other case, the output must be of the form
+
+<P>
+
+<P>
+<BR>
+
+<P>
+<TT>NO: <SPAN CLASS="MATH">&lt; <I>id</I>2 &gt;</SPAN>
+<tex2html_verbatim_mark> is not a more detailed version of <SPAN CLASS="MATH">&lt; <I>id</I>1 &gt;</SPAN>
+<tex2html_verbatim_mark></TT>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+COL1
+Bogota Cali
+Bogota Barranquilla
+* * *
+COL2
+Barranquilla Bogota
+Armenia Cali
+Barranquilla Armenia
+Bogota Cali
+Cali Barrranquilla
+* * *
+COL1
+Bogota Cali
+Bogota Barranquilla
+* * *
+COL3
+Bogota Armenia
+Armenia Cali
+Cali Medellin
+Medellin Barranquilla
+* * *
+END
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+YES: COL2 is a more detailed version of COL1
+NO: COL3 is not a more detailed version of COL1
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

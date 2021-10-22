@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+<meta name="keywords" content="Tsinghua-HKUST Programming Contest 2007" />
+<meta name="author" content="Cho" />
+<title>Tsinghua-HKUST Programming Contest 2007: Problem B - Consecutive Integers</title>
+
+<style type="text/css">
+<!--
+body { font-family: "Times New Roman"; font-size: 12pt; }
+.io  { font-family: Courier New; font-size: 10pt }
+-->
+</style>
+</head>
+
+<body>
+<center><span style='font-size:24pt'>Problem B - Consecutive Integers</span></center>
+<br />
+<br />
+
+Any positive integer can be written as the sum of several consecutive integers. For example,<br />
+<table border="0" cellspacing="0" cellpadding="2">
+<tr>
+   <td>15</td>
+   <td>=</td>
+   <td>1 + ... + 5</td>
+</tr>
+<tr>
+   <td></td>
+   <td>=</td>
+   <td>4 + ... + 6</td>
+</tr>
+<tr>
+   <td></td>
+   <td>=</td>
+   <td>7 + ... + 8</td>
+</tr>
+<tr>
+   <td></td>
+   <td>=</td>
+   <td>15 + ... + 15</td>
+</tr>
+</table>
+<br />
+Given a positive integer <i>n</i>, what are the consecutive positive integers with sum being <i>n</i>? If there are multiple solutions, which one consists of more numbers?<br />
+<br />
+
+<b>Input</b><br />
+Input consists of multiple problem instances. Each instance consists of a single positive integer <i>n</i>, where <i>n</i> <span style='font-size:10pt'>&le;</span> 10<sup>9</sup>. The input data is terminated by a line containing -1. There will be at most 1000 test cases.<br />
+<br />
+
+<b>Output</b><br />
+For each input integer <i>n</i>, print out the desired solution with the format:<br />
+<span class="io">N = A + ... + B</span><br />
+in a single line.<br />
+(Read sample output for a clearer representation of the exact formatting.)<br />
+<br />
+
+<b>Sample input</b><br />
+<div class="io">
+8<br />
+15<br />
+35<br />
+-1<br />
+</div>
+<br />
+
+<b>Sample output</b><br />
+<div class="io">
+8 = 8 + ... + 8<br />
+15 = 1 + ... + 5<br />
+35 = 2 + ... + 8<br />
+</div>
+<br />
+
+<hr size="1" />
+Problem setter: Cho<br />
+Source: Tsinghua-HKUST Programming Contest 2007<br />
+
+</body>
+</html>

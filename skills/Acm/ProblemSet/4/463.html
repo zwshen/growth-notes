@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Polynomial Factorization</TITLE>
+<META NAME="description" CONTENT="Polynomial Factorization">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Polynomial Factorization</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+A polynomial is of degree k if the largest power of the variable in
+any term is no greter than k.  For example, 
+<P> <IMG WIDTH=293 HEIGHT=17 ALIGN=BOTTOM ALT="displaymath25" SRC="463img1.gif"  > <P>
+is of degree 2.  It is also of degree 3, 4, 5, ...
+<P>
+A polynomial with integer coefficients is &quot;prime&quot; if it cannot be
+expressed as the product of two lower-degree polynomials with integer
+coefficients.
+<P>
+<P>
+Write a program to express a 4th degree polynomial with integer
+coefficients as the product of one or more prime polynomials.
+<P>
+The sample below tell us that the polynomial  <IMG WIDTH=181 HEIGHT=30 ALIGN=MIDDLE ALT="tex2html_wrap_inline27" SRC="463img2.gif"  > 
+has prime factors <I>x</I>-1, 2<I>x</I>+1 and  <IMG WIDTH=86 HEIGHT=30 ALIGN=MIDDLE ALT="tex2html_wrap_inline33" SRC="463img3.gif"  > .
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input consists on several test cases, one on each line. Each test case consists on 5 integers, representing the coefficients of a degree 4 polynomial in
+decreasing order of the variable power from 4 to 0. The first number will never be negative or 0.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each test case, print the integer coefficients of each prime factor on a single line,
+in decreasing order of variable power. The first coefficient of prime polynomials should be positive, except maybe in the last polynomial on the list. The polynomials must be printed in increasing order of degree, and when two or more degrees match they must be sorted by increasing value of coefficients from the greatest to the lowest degree. Extra factors should be added to the last polynomial on the list.
+Print a blank line after each test case.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>2 7 -1 -6 -2
+2 0 0 0 0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>1 -1
+2 1
+1 4 2
+
+1 0
+1 0
+1 0
+2 0
+
+</PRE>
+<P>
+</BODY>
+</HTML>

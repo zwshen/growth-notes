@@ -1,0 +1,531 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./e_files/filelist.xml">
+<link rel=Edit-Time-Data href="./e_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem E - The Story of Two Coins</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>17</o:Revision>
+  <o:TotalTime>118</o:TotalTime>
+  <o:LastPrinted>2004-10-06T09:23:00Z</o:LastPrinted>
+  <o:Created>2005-03-04T06:16:00Z</o:Created>
+  <o:LastSaved>2005-03-17T16:25:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>494</o:Words>
+  <o:Characters>2820</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>23</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>3463</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:"\FF2D\FF33 \660E\671D";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:Algerian;
+	panose-1:4 2 7 5 4 10 2 6 7 2;
+	mso-font-charset:0;
+	mso-generic-font-family:decorative;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"Beaconsfield Bold";
+	mso-font-alt:"Times New Roman";
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:7 0 0 0 19 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	mso-font-alt:Arial;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:16792199 151977984 16 0 4129023 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:16792199 151977984 16 0 4129023 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	tab-stops:143.25pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:normal;}
+h3
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.0pt;
+	font-family:Arial;
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;
+	font-weight:bold;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h6
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-line-height-alt:41.0pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	mso-element:frame;
+	mso-element-wrap:around;
+	mso-element-anchor-vertical:paragraph;
+	mso-element-anchor-horizontal:column;
+	mso-height-rule:exactly;
+	font-size:54.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Algerian;
+	mso-text-raise:-5.5pt;
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;
+	font-weight:normal;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:7;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:8;
+	font-size:20.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Beaconsfield Bold";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-font-weight:bold;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:9;
+	tab-stops:419.15pt;
+	font-size:18.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"MS Mincho";
+	mso-ansi-language:EN-GB;
+	mso-fareast-language:SV;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	mso-bidi-font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+p.paragraph, li.paragraph, div.paragraph
+	{mso-style-name:paragraph;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.quote, li.quote, div.quote
+	{mso-style-name:quote;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+ /* Page Definitions */
+@page
+	{mso-footnote-separator:url("./e_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("./e_files/header.htm") fcs;
+	mso-endnote-separator:url("./e_files/header.htm") es;
+	mso-endnote-continuation-separator:url("./e_files/header.htm") ecs;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:1.0in .8in 1.0in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-page-numbers:0;
+	mso-title-page:yes;
+	mso-even-footer:url("./e_files/header.htm") ef1;
+	mso-footer:url("./e_files/header.htm") f1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="7169"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:28.0pt;mso-bidi-font-size:
+12.0pt;font-family:Arial'>Problem E</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>The Story of Two Coins</span></b><span
+style='font-family:Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input: </b><span style='mso-bidi-font-weight:
+bold'>Standard Input<o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output<o:p></o:p></span></p>
+
+<p class=MsoPlainText align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=SV>&nbsp;</span><span lang=EN-GB style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:"Times New Roman";mso-fareast-font-family:"MS Mincho";
+mso-bidi-font-family:"Courier New";mso-ansi-language:EN-GB'><o:p></o:p></span></p>
+
+<p class=paragraph style='margin:0in;margin-bottom:.0001pt'><span
+style='mso-bidi-font-size:18.0pt'>In this problem we have two coins (perfect
+circles) in a two dimensional world. The radius of first coin is <b>R</b> and
+the radius of the second coin is <b>r</b>. The first coin is static and the
+location of its center <b>Q</b> is at the origin <b>(0,0)</b>. The second coin
+(with radius <b>r</b>) is rotating in counter clock-wise direction like a wheel
+on the perimeter of the first circle, as shown in the picture below. As it is
+rotating counter clock wise so it is also moving along the surface of the first
+circle in counter clock-wise direction. After the second coin has rotated
+exactly once around the first coin, it stops. <o:p></o:p></span></p>
+
+<p class=paragraph style='margin:0in;margin-bottom:.0001pt'><span
+style='mso-bidi-font-size:18.0pt;font-family:Arial'><span style="mso-spacerun:
+yes"> </span><o:p></o:p></span></p>
+
+<p class=paragraph style='margin:0in;margin-bottom:.0001pt'><span
+style='mso-bidi-font-size:18.0pt;font-family:Arial'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+<center>
+<img width=456 height=411
+src="p10834.jpg" v:shapes="_x0000_i1025">
+</center>
+
+<p class=paragraph style='margin:0in;margin-bottom:.0001pt'><span
+style='mso-bidi-font-size:18.0pt;font-family:Arial'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=paragraph style='margin:0in;margin-bottom:.0001pt'><span
+style='mso-bidi-font-size:18.0pt'>At the beginning, the center of the second
+coin (Denoted by <b>O</b> in the figure above) is on the <b>x</b>-axis and on
+the right hand side of the first coin. So initially the coordinate of <b>O</b>
+is <b>(R+r, 0)</b>. At this moment <b>P</b> is the topmost point of the second
+coin. So obviously the coordinate of <b>P</b> is <b>(R+r, r)</b>. Now as the
+second coin starts rotating the location of <b>P</b> will change due to both
+circular translation and its own rotation. For most positions of the second
+coin, <b>P</b> will not be its topmost point. <b>T</b> is any arbitrary point
+on the perimeter of the moving second coin. If the Cartesian coordinate of <b>T</b>,<b>
+(x,y)</b> is given, then it is possible to determine the position of the second
+coin. Of course there can be two possible positions as shown in the figure
+above. Now your job is a little bit difficult than this. Given the coordinate
+of <b>T</b>, you will have to find the coordinate of <b>P</b> for two possible
+positions of the second coin.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+18.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<h3 style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=EN-GB style='font-size:16.0pt;mso-bidi-font-size:13.0pt;mso-fareast-font-family:
+"MS Mincho";mso-ansi-language:EN-GB'>Input<o:p></o:p></span></h3>
+
+<p class=MsoNormal style='text-align:justify'>The input file contains at most <b>1000</b>
+lines of inputs. Each line contains two positive integers and two
+floating-point numbers. The two positive integers are <b>R</b>, <b>r</b> <b>(0&lt;|r|&lt;=|R|&lt;1000)</b>
+and the two floating point numbers are <b>x</b> and <b>y</b> <b>(0&lt;|x|,|y|&lt;4000.0)</b>.
+The meanings of these symbols are given in the problem statement above. All the
+floating-point numbers in the input will have fifteen digits after the decimal
+point.</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Input is terminated by a line
+where the values of <b>R</b> and <b>r</b> are zero. Your program should not
+process this line.</p>
+
+<p class=MsoBodyText style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+lang=EN-GB><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoBodyText style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+lang=EN-GB style='font-size:16.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>Output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>For
+each line of input produce three or two lines of output. The first line
+contains the serial of output .The next two lines contain the possible
+coordinates of <b>P</b> for two possible positions of the second coin. The
+coordinates of <b>P</b> should be printed in chronological order (If a position
+is reached by the second coin before the other position then the corresponding
+coordinates of <b>P</b> should be printed first). If it is not possible to find
+the coordinate of <b>P</b> for the given data, print <b>“IMPOSSIBLE”</b>
+instead. There will be no such input that will cause the second coin to have
+exactly one possible position. Also note that there will be no such input,
+which will allow precision error to cause difference in the output. Assume that
+<b>pi=2cos<sup>-1</sup>(0)</b>, and use at least double precision (<b>64</b>-bit)
+floating-point numbers for your calculations. All floating-point numbers should
+be rounded to three digits after the decimal point. Look at the output for
+sample input for details.<span lang=EN-GB style='mso-fareast-font-family:"MS Mincho";
+mso-ansi-language:EN-GB'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h1 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;font-style:
+normal'>Sample Input<span style="mso-spacerun:
+yes">                                         </span>Output for Sample Input</span></b><b><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;mso-fareast-font-family:
+"Arial Unicode MS";font-style:normal'><o:p></o:p></span></b></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" bgcolor="#cccccc"
+ style='width:100.0%;background:#CCCCCC;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width="57%" valign=top style='width:57.92%;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'><pre><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt'>5 5 10.000000000000000 3.000000000000000<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt'>5 5 20.000000000000000 10.000000000000000<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt'>0 0 0.000000000000000 0.000000000000000<o:p></o:p></span></b></pre></td>
+  <td width="42%" valign=top style='width:42.08%;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'><pre
+  style='mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-top:.05pt;mso-height-rule:exactly'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt'>Case 1:<o:p></o:p></span></b></pre><pre
+  style='mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-top:.05pt;mso-height-rule:exactly'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt'>2.082 7.076<o:p></o:p></span></b></pre><pre
+  style='mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-top:.05pt;mso-height-rule:exactly'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt'>11.755 2.606<o:p></o:p></span></b></pre><pre
+  style='mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-top:.05pt;mso-height-rule:exactly'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt'>Case 2:<o:p></o:p></span></b></pre>
+  <h4 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt'>IMPOSSIBLE</span></b></h4>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='font-family:"Trebuchet MS"'>Problem setter: Shahriar Manzoor<o:p></o:p></span></p>
+
+<p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='font-family:"Trebuchet MS"'>Special Thanks: Derek Kisman</span><span
+style='font-size:10.0pt'><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

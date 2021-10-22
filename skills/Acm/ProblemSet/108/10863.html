@@ -1,0 +1,151 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+<title>Problem H: Shovelling Snow</title>
+<style type="text/css">
+<!--
+.inout       { font-family: Courier, "Courier New", monospace; font-size: 12pt;  }
+.cbfont      { font-size: 13pt; font-family: "Times New Roman",serif; text-align: center }
+.psetter     { font-family: Tahoma,sans-serif; font-size: 10pt; font-weight: bold }
+.jbfont    	 { font-family: "Times New Roman",serif; font-size: 13pt; text-align:justify }
+.bigfont     { font-family: "Times New Roman", serif; font-size: 18pt; font-weight: bold }
+.cname 		 { font-family: Arial, sans-serif; font-size: 16pt; font-weight: bold;
+					text-align:center; line-height:100%;   }
+.pno         { font-family: Arial, sans-serif; font-size: 14pt; font-weight: bold; text-align:center }
+.pname       { font-family: Arial, sans-serif; font-size: 24pt; vertical-align: baseline; font-weight: bold; text-align:center }
+-->
+</style>
+</head>
+
+<body>
+
+<table border="2" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="20%" rowspan="3">
+				<p class="cbfont">Input: Standard In<br>
+				Output: Standard Out</td>
+				<!--contest name-->
+				<td width="60%" bgcolor="#C0C0C0" class="cname">Next Generation
+				Contest 1&nbsp;</td>
+				<td width="20%" rowspan="3">
+				<p class="cbfont"><b>Time Limit: 5 seconds</b></td>
+			</tr>
+			<tr>
+				<!--problem no-->
+				<td width="60%" bgcolor="#C0C0C0" class="pno">Problem H</td>
+			</tr>
+			<tr>
+				<!--problem name-->
+				<td width="60%" bgcolor="#C0C0C0" class="pname">Shovelling Snow&nbsp;</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<p class="jbfont">Anna, Boris, Christian and Diana are four good friends living
+in a slightly desolate place called Sweden just north of Denmark. These four
+friends like to visit each other as often as possible. During the summers, going
+from any of the four friends’ houses to another is an easy task. However, in the
+winter this can get pretty cumbersome because of the significant amount of snow
+that persists in clogging up the ground. So in order to visit each other in the
+winters, the four friends have to clear up roads between each others houses.
+Your job is to help them find the best way to do this.<br>
+<br>
+We model the map of Sweden as a rectangular grid, where each grid square is
+either one of the four friends’ houses, an obstacle (e.g. another house or a
+tree), or ground. Some of the ground may already be cleared of snow by the local
+authorities, while other parts of the ground may be snow-covered. It is possible
+to get from one point to another if there is a path , between them (using only
+vertical and horizontal moves) which only passes through grid squares containing
+clear ground or grid squares containing one of the four friends’ houses. Now,
+the four friends want to clear away snow from some of the snow-covered squares
+such that from each of the four friends’ houses it is possible to get to any of
+the other three houses. Being good friends, the four friends all help out doing
+equal parts in the exerting task of shovelling the snow, but being notoriously
+lazy, they want to put in as little effort in this job as possible. In other
+words, the four friends want the total amount of snow to clear away (measured as
+the number of snow-covered squares to clear) to be as small as possible.</p>
+<p class="bigfont">Input</p>
+<p class="jbfont">The input consists of several test cases, each separated by a
+blank line. The first line of each test case contains two integers <b>n</b> and
+<b>m</b>, both between 1 and 20 (inclusive), indicating the width and the height
+of the map, respectively. Then follow <b>m</b> lines, each containing <b>n</b>
+characters (excluding the ’\n’ end-of-line character), representing the map. The
+symbols that can occur in a map are:<br>
+A – Anna’s home<br>
+B – Boris’ home<br>
+C – Christian’s home<br>
+D – Diana’s home<br>
+o – Snow-covered ground<br>
+. – Cleared ground<br>
+# – An obstacle<br>
+You may assume that each test case contains each of Anna’s, Boris’, Christian’s
+and Diana’s homes exactly once. The input is terminated by a test case where <b>
+n</b> = 0 and <b>m</b> = 0.</p>
+<p class="bigfont">Output</p>
+<p class="jbfont">The output should be identical to the input, with the
+exception that for each map some of the snow-covered squares should be
+transformed to clean squares, indicating which squares to clear for that map. If
+there is more than one optimal solution, any one will do.</p>
+<p class="bigfont">Sample Input</p>
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td class="inout">8 8<br>
+		oooooooo<br>
+		oooooooB<br>
+		oo#o####<br>
+		Co#ooooo<br>
+		oo#ooDoo<br>
+		oooooooo<br>
+		ooAooooo<br>
+		oooooooo<br>
+		<br>
+		8 8<br>
+		oooooooo<br>
+		...ooooB<br>
+		oo#o####<br>
+		Co#ooooo<br>
+		oo#ooDoo<br>
+		oooooooo<br>
+		ooAooooo<br>
+		oooooooo<br>
+		<br>
+		0 0</td>
+	</tr>
+</table>
+<p class="bigfont">Sample Output</p>
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td class="inout">8 8<br>
+		oooooooo<br>
+		ooo....B<br>
+		oo#.####<br>
+		Co#.oooo<br>
+		.o#..Doo<br>
+		....oooo<br>
+		ooAooooo<br>
+		oooooooo<br>
+		<br>
+		8 8<br>
+		oooooooo<br>
+		.......B<br>
+		.o#.####<br>
+		Co#.oooo<br>
+		oo#..Doo<br>
+		oo..oooo<br>
+		ooAooooo<br>
+		oooooooo<br>
+		<br>
+		0 0</td>
+	</tr>
+</table>
+<hr>
+<p class="psetter">Problem Setter: Per Austrin</p>
+
+</body>
+
+</html>

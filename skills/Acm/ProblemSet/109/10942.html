@@ -1,0 +1,86 @@
+<html>
+<head>
+<title>Problem I: Can of Beans</title>
+</head>
+
+<body>
+<h2> Problem I: Can of Beans</h2>
+
+<img src="p10942.jpg" align="right" vspace=20 hspace=20>
+
+
+Starving, Jimmy went to the cupboard to see what he could make
+for lunch.  Unfortunately for him, the only food item inside was an old
+can of beans.  Under normal circumstances, he wouldn't think about it, 
+but the old, beaten up appearance of the can worried him.  "How long
+has this been in here?", he wondered out loud. 
+
+<p>Turning the can over, he saw three cryptic numbers stamped
+into the bottom: <code>09 06 03</code>
+
+<p>Quickly realizing it was the best before date, he heaved a 
+sigh of relief: the can was still good for another 4 years
+or so...if the first number was a year.  Suddenly realizing
+the "09" could be the day and not the year, he wasn't so sure
+anymore. In fact, if the last number (the "03") was the year,
+then the can could have gone bad 2 years before! 
+(This Jimmy lives in the year 2005).  
+
+<p>You have to help out Jimmy! Given the century that Jimmy lives in
+and the three numbers on the bottom of the can, print out the earliest
+valid date the can could have gone bad. 
+
+<p>
+The first line will contain an integer <em>t</em> which is the number
+of test cases to follow.  Each test case consists of four integers,
+<em>c</em>, <em>x</em>, <em>y</em>, <em>z</em> on a line by
+themselves.  <em>c</em>+1 is the century that Jimmy lives in, and is
+in the range 0 <= <em>c</em> < 2^30.  <em>x</em>, <em>y</em>,
+<em>z</em> are the possible day, month, and year in the century but in
+an unknown order.  All are in the range 0 <= <em>x</em>, <em>y</em>,
+<em>z</em> < 100.
+
+<p>Recall we want the earliest VALID date, so don't forget about
+leap years!  Here are a few facts you can use about leap years:
+<li> the year 0 is a leap year;
+<li> every fourth year after 0 is a leap year, but
+<li> every hundred year is NOT a leap year, but
+<li> every four hundred year IS a leap year.
+
+<p>This isn't exactly true in our world, but Jimmy lives on a different
+planet in a different galaxy.  Strangely enough, they use a calendar system
+astonishingly like our own, speak English, and also eat beans packaged in cans!
+
+<p>Jimmy's calendar, like ours, has the months January through December,
+numbered 01 through 12.  Each of Jimmy's months contain the same number of days
+as our months on the standard, Gregorian calendar.  The days within months are 
+numbered from 01 to 31, and no month has more than 31 days.  On a leap year,
+Jimmy's Februaries also have 29 days instead of 28.
+
+<p>
+The output will contain the integers in the order "YY MM DD" of the
+earliest possible date at which the can of beans could have gone bad.
+If there is no valid date, print "-1". 
+Each test case should be written on a line by itself.
+
+
+<h3>Sample Input</h3>
+<code>
+2<br>
+20 9 6 3<br>
+13244324 99 99 99<br>
+</code>
+
+<h3>Sample Output</h3>
+<code>
+03 06 09<br>
+-1<br>
+</code>
+<hr>
+
+<em>Broderick Arneson</em>
+
+</body>
+</html>
+
+

@@ -4,7 +4,7 @@ hahow 線上課課 https://hahow.in/courses/5f14aeabcad0d0afe5ea3898/main
 
 ## 學習的捷徑
 
-    林語堂
+    林語堂 英語學習法
     學習英語的唯一正軌，不出仿效與熟誦。
     仿效是要整句的仿效。
     熟誦則效仿之後必回環練習。

@@ -2,9 +2,6 @@
 	path = submodule/taocp-meetup
 	url = https://github.com/theartofcomputerprogramming/meetup.git
 	branch = master
-[submodule "submodule/The-Art-of-Computer-Programming-Books"]
-	path = submodule/The-Art-of-Computer-Programming-Books
-	url = https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books
 [submodule "submodule/Donald-Knuth-Books"]
 	path = submodule/Donald-Knuth-Books
 	url = https://github.com/manjunath5496/Donald-Knuth-Books

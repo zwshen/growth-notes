@@ -1,6 +1,3 @@
-[submodule "submodule/everyone-can-use-english"]
-	path = submodule/everyone-can-use-english
-	url = https://github.com/xiaolai/everyone-can-use-english.git
 [submodule "submodule/taocp-meetup"]
 	path = submodule/taocp-meetup
 	url = https://github.com/theartofcomputerprogramming/meetup.git

@@ -21,6 +21,222 @@
         <div class="memos">
             <h1>202112 @ flomo</h1>
                         <div class="memo">
+                <div class="time">2021-12-15 11:27:44</div>
+                <div class="content">
+                    <p>#project/jazz-redesign 用waf 工具來找出submoudle的相依關係</p><p></p><p>How can I make a library dependency graph with waf?</p><p>https://stackoverflow.com/questions/19959595/how-can-i-make-a-library-dependency-graph-with-waf</p><p>关联自：https://flomoapp.com/mine/?memo_id=MTE0NDM3OTY</p><p></p><p>https://flomoapp.com/mine/?memo_id=MTEzMTQ0NjE</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-15 11:15:35</div>
+                <div class="content">
+                    <p>#project/jazz-redesign 整理submodules 的差異</p><p></p><p>git ls-tree -r HEAD | grep commit | cut -c 1-14 --complement</p><p></p><p>关联自：https://flomoapp.com/mine/?memo_id=MTE0NDM3OTY</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-15 10:51:32</div>
+                <div class="content">
+                    <p>#project/jazz-redesign 讓 features/jazz-rs9116 能編譯的出來</p><p></p><ol><li><p> submodules 主要用到 integration part1, part2 </p></li><li><p>其它相依submodules - 從 edge 530/830 拉到 integration parts的版本，或是拉到 master 最新版</p></li></ol>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-15 10:49:11</div>
+                <div class="content">
+                    <p>#project/jazz-redesign WBL dependency</p><p></p><ul><li><p>WBL/ephemeris 用到 WBL/core，再用到 WBL/http-utilities</p></li><li><p>WBL 一直冒出要修改的submodules</p></li><li><p>編譯速度很慢，是否有可能waf 一次只編一個submodule?</p></li></ul><p></p><p>what change https://flomoapp.com/mine/?memo_id=MTEzMTQ0NjE</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-14 15:28:20</div>
+                <div class="content">
+                    <p>#reading/legacy-code </p><ol><li><p> waf 編譯速度是否有問題？</p></li><li><p>在等待編譯時，能做什麼事呢？</p></li><li><p>用python 來做C unit test?</p></li></ol>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-14 09:52:17</div>
+                <div class="content">
+                    <p>#reading/legacy-code  working with feedback</p><p></p><p>單元測試要執行的快，執行的不快就不是單元測試。</p><p></p><p>大型測試的問題：</p><ul><li><p>不易定位錯誤 Error localization As tests get further from what they test, it is harder to determine what a test failure means. Often it takes considerable work to pinpoint the source of a test failure. You have to look at the test inputs, look at the failure, and determine where along the path from inputs to outputs the failure occurred. Yes, we have to do that for unit tests also, but often the work is trivial.</p></li><li><p>執行時間太長Execution time Larger tests tend to take longer to execute. This tends to make test runs rather frustrating. Tests that take too long to run end up not being run.</p></li><li><p>不知道涵蓋到那些 Coverage It is hard to see the connection between a piece of code and the values that exercise it. We can usually find out whether a piece of code is exercised by a test using coverage tools, but when we add new code, we might have to do considerable work to create high-level tests that exercise the new code.</p></li></ul><p></p><p>关联自：https://flomoapp.com/mine/?memo_id=MTEyNDQ5NDQ</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-13 17:00:27</div>
+                <div class="content">
+                    <p>#reading/legacy-code  Part II 修改程式碼的技術</p><p></p><ul><li><p>Chapter 6 時間緊迫，但必須修改 6.1 新生方法 6.2 新生類別 6.3 外覆方法 6.4 外覆類別 6.5 小結</p></li><li><p>Chapter 7 漫長的修改 7.1 理解程式碼 7.2 時滯 7.3 解依賴 7.4 小結</p></li><li><p>Chapter 8 添加特性 8.1 測試驅動開發 8.2 差異式程式設計 8.3 小結</p></li><li><p>Chapter 9 無法將類別放入測試控制工具之中 9.1 令人惱火的參數 9.2 隱藏依賴 9.3 構造塊 9.4 惱人的全域依賴 9.5 可怕的包含依賴 9.6 「洋蔥」參數 9.7 化名參數</p></li><li><p>Chapter 10 無法在測試控制工具中執行方法 10.1 隱藏的方法 10.2 「有益的」語言特性 10.3 無法探知的副作用</p></li><li><p>Chapter 11 修改時應當測試哪些方法 11.1 推測程式碼修改所產生的影響 11.2 前向推測 11.3 影響的傳播 11.4 進行影響推測的工具 11.5 從影響分析當中學習 11.6 簡化影響結構示意圖</p></li><li><p>Chapter 12 在同一個地方進行多處修改，是否應該將所有相關的類別都解依賴 12.1 攔截點 12.2 透過匯點來判斷設計的好壞 12.3 匯點的陷阱</p></li><li><p>Chapter 13 修改時應該怎樣寫測試 13.1 特徵測試 13.2 刻畫類別 13.3 目標測試 13.4 編寫特徵測試的啟發式方法</p></li><li><p>Chapter 14 棘手的函式庫依賴問題</p></li><li><p>Chapter 15 到處都是API 呼叫</p></li><li><p>Chapter 16 對程式碼的理解不足 16.1 註記/草圖 16.2 清單標註 16.3 草稿式重構 16.4 刪除不用的程式碼</p></li><li><p>Chapter 17 程式毫無結構可言 17.1 講解系統的故事 17.2 Naked CRC 17.3 反省你們的交流或討論</p></li><li><p>Chapter 18 測試程式碼礙手礙腳 18.1 類別命名約定 18.2 測試程式碼放在哪裡</p></li><li><p>Chapter 19 對非物件導向的專案，如何安全地對它進行修改 19.1 一個簡單的案例 19.2 一個棘手的案例 19.3 添加新行為 19.4 利用物件導向的優勢 19.5 一切都是物件導向</p></li><li><p>Chapter 20 處理大類別 20.1 職責識別 20.2 其他技術 20.3 繼續前進 20.4 類別提取之後</p></li><li><p>Chapter 21 需要修改大量相同的程式碼 21.1 開始步驟</p></li><li><p>Chapter 22 要修改一個巨型方法，卻沒辦法為它編寫測試 22.1 巨型方法的種類 22.2 利用自動重構支援來對付巨型方法 22.3 手動重構的挑戰 22.4 策略</p></li><li><p>Chapter 23 降低修改的風險 23.1 超感編輯（Hyperaware Editing） 23.2 單一目標的編輯 23.3 簽章保持 23.4 依靠編譯器</p></li><li><p>Chapter 24 當你感到絕望時</p></li></ul>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-13 16:51:17</div>
+                <div class="content">
+                    <p>#project/jazz-redesign check list</p><p></p><p>會參考Evonne 列在confluence上放WIFI/BLE/ANT的connectivity feature 檢查表，來看看host sw 是否有什麼self test或logs 能先查一輪沒有改壞東西。</p><p></p><p>risk changes: https://flomoapp.com/mine/?memo_id=MTEzMTQ0NjE</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-13 12:38:25</div>
+                <div class="content">
+                    <p>#project/jazz-redesign </p><p></p><ol><li><p>移除BTF支援，只用到ANT/BLE/WIFI</p><ol><li><p>不支援 device to device file transmission</p></li><li><p>no more dual pairing</p></li></ol></li><li><p>用sync 2.0 及BLE MTU/DLE 兩個模組來做&nbsp;file transmission to GCM</p></li></ol><p></p><p>关联自：https://flomoapp.com/mine/?memo_id=MTEyNjMxOTY</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-13 12:35:49</div>
+                <div class="content">
+                    <p>#project/jazz-redesign Wireless Certification Testing Module (WCT)</p><p></p><p><strong>ANT/BLE/BT/Wifi</strong>&nbsp;testing</p><ul><li><p>Edge 530/580 看起來沒有做WCT integration</p></li><li><p>也不知道WCT做了什麼測試</p></li></ul><p></p><p>https://confluence.garmin.com/pages/viewpage.action?pageId=678337199</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-13 09:31:13</div>
+                <div class="content">
+                    <p>#reading/legacy-code make changes</p><p></p><p>When we need to make changes and preserve behavior</p><p></p><p>1. What changes do we have to make?</p><p>2. How will we know that we've done them correctly?</p><p>3. How will we know that we haven't broken anything?</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-13 09:12:30</div>
+                <div class="content">
+                    <p>#area/coding #project/jazz-redesign code review</p><p><strong>Books</strong></p><ul><li><p>Best Kept Secrets of Peer Code Review&nbsp;Older compilation of 10 essays on the practice of code reviews. Some repetition due to different authors covering the same territory.</p></li><li><p>Handbook of Walkthroughs, Inspections, and Technical Reviews&nbsp;Older book covering more formal walkthroughs but covers politics and group dynamics in review well.</p></li><li><p>Peer Reviews in Software: A Practical Guide&nbsp;A practical guide to formal code inspections as a code review practice.</p></li><li><p>Software Inspection: An Industry Best Practice&nbsp;Compendium of papers on code review practice.</p></li><li><p>Ultimate Guide to Code Reviews&nbsp;Codacy sponsored ebook of code review practices based on developer survey.</p></li><li><p>What to Look for in a Code Review&nbsp;JetBrains sponsored ebook of how to spot coding anti-patterns during review.</p></li></ul><p></p><p>src: https://github.com/joho/awesome-code-review</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-12 16:33:51</div>
+                <div class="content">
+                    <p>#project/jazz-redesign #reading/legacy-code The Legacy Code Change Algorithm</p><p>1. Identify change points.</p><p>2. Find test points.</p><p>3. Break dependencies.</p><p>4. Write tests.</p><p>5. Make changes and refactor.</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-12 11:14:40</div>
+                <div class="content">
+                    <p>#project/jazz-redesign</p><p></p><p>step 1 - pull up modules required for RS9116</p><p>step 2 - pass the tests of Jazz MT6630</p><p>step 3- bring in RS9116 (and sync 2.0) module</p><p>step 4 - pass the tests of Edge 1040</p><p>step 5 - Connectivity Feature Check List</p><p></p><p></p><ul><li><p>找到test cases (手動、自動、靜態分析、文件)</p></li><li><p>量測 test execution time</p></li><li><p>量測 test coverage</p></li></ul>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-12 11:11:06</div>
+                <div class="content">
+                    <p>#project/mentalmodel  知道什麼地方會導致失敗，就要努力不要往那個地方去</p><p></p><p>关联自：https://flomoapp.com/mine/?memo_id=MTEyMjg0Mjk</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-11 23:04:16</div>
+                <div class="content">
+                    <p>#reading/legacy-code 遺留代碼</p><p></p><p>legacy code 專指那些沒有撰寫相應測試的代碼。</p><p>我在現在工作處理過的專案，大都符合這個定義，如果這個測試是指unit testing，而不是integration或是system testing，那這些專案都是 legacy code。除非你很理解你在修改什麼，要不然每次修改都得帶著巨大的風險，是edit and pray的工作流程，而不是cover and modify。</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-11 19:52:36</div>
+                <div class="content">
+                    <p>英文口說能力是我的高風險所在</p><p>关联自: https://flomoapp.com/mine/?memo_id=MTEyMjg0Mjk</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-11 19:51:03</div>
+                <div class="content">
+                    <p>#project/workflow 生死進退</p><p></p><p>开始创业，你期待的是增长，其实天天面对的都是生死进退。</p><p>你需要客观、冷静地看自己的真实处境。</p><p>如果你是在维持线上，真的非常要提醒你，要关注抗风险的系统设计。</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-11 19:42:31</div>
+                <div class="content">
+                    <p>#project/workflow &nbsp;把过去靠拍脑袋碰运气的部分，分解为思考框架、决策模型</p><p></p><p>第一， 一张全景作战地图。它也是商业世界的全景图，草莽玩家、腰部玩家、头部玩家、顶级玩家，你能清楚看到各种玩家的位置、打法和能力限制，以及它们如何相互进攻。</p><p></p><p>第二，四个增长关卡。增长有四个重要的关卡：机会拿捏、模式取巧、组织扩容、战略借势。所有的企业，都在不同程度，被卡在某一个关卡里。</p><p>打破界限，突破关卡，即是增长。</p><p></p><p>第三，几十个真实案例。每个人看别人都是岁月静好，看自己都觉得悲催倒霉。</p><p>其实每个企业时时刻刻都在生死进退中挣扎，每个人的疼痛永不止息。</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-11 15:29:11</div>
+                <div class="content">
+                    <p>#inbox &nbsp;十条亲密关系公约</p><p></p><ul><li><p>第一条：我承诺好好回应你，就像我也渴望得到你的回应一样。</p></li><li><p>第二条：我承诺把你看作不完美的人，而不是有问题的人。</p></li><li><p>第三条：我承诺如果委屈就会让你知道，哪怕我担心这些委屈会让我显得有些脆弱。</p></li><li><p>第四条：我承诺及时伸出修复关系的橄榄枝，也接受你伸过来的橄榄枝。</p></li><li><p>第五条：我承诺尊重你说“不”的权力，无论我多么希望靠近你。</p></li><li><p>第六条：我承诺不评论你的原生家庭，因为我知道那是你的来处。</p></li><li><p>第七条：我承诺不逼迫你改变，而是用我的改变带动你的改变。</p></li><li><p>第八条：我承诺不拉拢孩子来表达对你的不满，而只把问题留在你我之间。</p></li><li><p>第九条：我承诺不跟你争输赢，因为我知道，要么我们都输，要么我们都赢。</p></li><li><p>第十条：我承诺永远对你抱有期望，不管你会不会让我失望。</p></li></ul>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-11 13:52:45</div>
+                <div class="content">
+                    <p>#project/jazz-redesign 測試機台的數量</p><p></p><p>整機(011-)的部份:&nbsp;假設&nbsp;ANT/BT/BLE *1, WiFi *1, system *1,&nbsp;備用或是擺測試&nbsp;* 2</p><p>PCB(012-)的部分:&nbsp;至少也是拿個4-5片,&nbsp;假設要交叉驗證,&nbsp;或是有人可以來幫忙debug&nbsp;使用</p><p></p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-11 11:15:41</div>
+                <div class="content">
+                    <p>#project/jazz-redesign #reading/legacy-code  感知和分離</p><p></p><p><strong>rapid turnaround -</strong></p><p>1. <strong>Sensing</strong>—We break dependencies to sense when we can’t access values our code computes.</p><p>2. <strong>Separation</strong>—We break dependencies to separate when we can’t even get a piece of code into a test harness to run.</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-09 08:30:53</div>
+                <div class="content">
+                    <p>#project/卡片盒 積累素材</p><p></p><p><strong>大量阅读、积累素材是写作的必经阶段。</strong>随着阅读量的提升，你能够看见自己的成长。具体而言，你可以积累什么样的素材？观点、论据、作者联系观点与论据的巧妙方式、各类好的隐喻。</p><p></p><p>http://blog.openmindclub.com/%E5%A4%A7%E5%B8%88%E7%B3%BB%E5%88%97/2019/12/18/YangZhiPing-Nabokov'sCards/</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-08 15:48:29</div>
+                <div class="content">
+                    <p>#project/almanack How to Get Rich (Without Getting Lucky)</p><p></p><p>https://www.hecaitou.info/2020/09/blog-post_22.html</p><p></p><p>1.&nbsp;Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.</p><p>去寻求财富，而非金钱或地位。财富就是你拥有资产，而资产在你睡觉的时候都还在为你赚钱；金钱是我们转换时间和财富的工具；身份是你在社会等级体系里所处的位置。</p><p>2.&nbsp;Understand that ethical wealth creation is possible. If you secretly despise wealth, it will elude you.</p><p>要明白一件事：一个人完全可以不靠坑蒙拐骗站着赚取财富。如果你在暗中鄙视财富，那么财富也会躲着你。</p><p>3.&nbsp;Ignore people playing status games. They gain status by attacking people playing wealth creation games.</p><p>别去理会那些热衷于玩身份游戏的人，他们通过攻击那些创造财富的人以获得自己的身份。</p><p>4.You’re not going to get rich renting out your time. You must own equity — a piece of a business — to gain your financial freedom.</p><p>你不会通过出租自己的时间而变得富有。你必须拥有产权，也就是生意的一部分，以此才能赢得个人财务自由。</p><p>5.You will get rich by giving society what it wants but does not yet know how to get. At scale.</p><p>提供社会大众想要但是他们还不知道如何获取的东西，你就会因此而致富。但有一点：你必须<strong>规模化</strong>地供应社会。</p><p>6.Pick an industry where you can play long term games with long term people.</p><p>选择一个你可以长期从事的产业，寻找一批可以一起长期共事的人。</p><p>7.The Internet has massively broadened the possible space of careers. Most people haven’t figured this out yet.</p><p>互联网极大拓展了一个人职业生涯的可能性。绝大多数人对此毫无认知。</p><p>8.Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest.</p><p>玩就玩复利游戏。无论是财富，人际关系或者是知识，所有你人生里获得的回报，都来自复利。</p><p>9.Pick business partners with high intelligence, energy, and, above all, integrity.</p><p>在选择商业合作伙伴的时候，选择那些高智商、精力旺盛的家伙，但在这一切之上，他应该是个<strong>正直诚实</strong>的人。</p><p>10.Don’t partner with cynics and pessimists. Their beliefs are self-fulfilling.</p><p>不要和愤世嫉俗者和悲观主义者合作，因为他们会任由坏事发生，以此证明他们的负面看法是正确的。</p><p>11.Learn to sell. Learn to build. If you can do both, you will be unstoppable.</p><p>学会如何销售，学会如何创建。如果你同时能做到这两件事，你的成功将无可阻挡。</p><p>12.Arm yourself with specific knowledge, accountability, and leverage.</p><p><strong>用独到知识，责任感和杠杆武装自己。</strong></p><p>13.Specific knowledge is knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you.</p><p><strong>独到知识</strong>是那种不可以通过培训而获得的知识。这是因为，如果这种知识可以经由培训而得，那么其他人同样也可以，并且以此取代你。</p><p>14.Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now.</p><p>在真正的好奇心和热情驱使你前进的路上，你更有可能获得独到知识，而不是在追逐潮流热点的闻风起舞脚步里。</p><p>15.Building specific knowledge will feel like play to you but will look like work to others.</p><p>创建独到知识的过程对于你就像是在玩，而对于别人则像是工作。</p><p>16.When specific knowledge is taught, it’s through apprenticeships, not schools.</p><p>不能通过学校教育教会一个人独到知识，它只能通过<strong>学徒制</strong>口传身教。</p><p>17.Specific knowledge is often highly technical or creative. It cannot be outsourced or automated.</p><p>独到知识通常极富技术性和创造性，因此它不能被外包或自动实现。</p><p>18.Embrace accountability, and take business risks under your own name. Society will reward you with responsibility, equity, and leverage.</p><p>拥抱责任感，押上自己的声誉以承担商业风险。社会也会以责任，产权和杠杆作为回报。</p><p>19.The most accountable people have singular, public, and risky brands: Oprah, Trump, Kanye, Elon.</p><p>最具责任感的人都具有独一无二的、世人皆知的、敢于冒险的个性特征，如奥普拉、川普、坎耶、埃隆。</p><p>20.“Give me a lever long enough, and a place to stand, and I will move the earth.” — Archimedes</p><p>只要给我一根足够长的杠杆，一处可以立足的地方，我就能撬起地球。——阿基米德</p><p>21.Fortunes require leverage. Business leverage comes from capital, people, and products with no marginal cost of replication (code and media).</p><p>财富增长需要使用杠杆。商业杠杆有三个来源：1、资本；2、人力；3、复制起来边际成本为零的产品（如：代码和媒体）。</p><p>22.Capital means money. To raise money, apply your specific knowledge, with accountability, and show resulting good judgment.</p><p>资本的意思就是钱。想要融资，那就运用你的独到知识，配合你责任感，展示出你良好的判断力。</p><p>23.Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it.</p><p>人力指的就是为你干活的人，它是最古老也是争夺最激烈的杠杆。人力杠杆会让你父母因为你手下有许多人为你工作而感到骄傲，但你不要浪费生命去追求这一点。</p><p>24.Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.</p><p>资本和劳动力是需要征得许可才能使用的杠杆。每个人都在追逐资本，但总得有个什么人给你才行；每个人都想要领导其它人，但总得有什么人愿意跟着你才行。</p><p>25.Code and media are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep.</p><p>代码和媒体是无需要许可即可使用的杠杆。它们是新贵人群背后的杠杆，你可以通过自己创建的软件和媒体，在睡觉时仍然为你干活。</p><p>26.An army of robots is freely available — it’s just packed in data centers for heat and space efficiency. Use it.</p><p>一支机器人军团已经集结待命，只是为了节约空间和热效能，它们被打包放进数据中心。去用吧。</p><p>27.If you can’t code, write books and blogs, record videos and podcasts.</p><p>如果你不会编程，那你还可以写书和博客，或者做视频或者音频节目。</p><p>28.Leverage is a force multiplier for your judgement.</p><p>杠杆能够成倍地放大你的判断力（所产生的效能）。</p><p>29.Judgement requires experience, but can be built faster by learning foundational skills.</p><p>判断力需要经验，但它可以通过学习基本技能的方法更快速地建立起来。</p><p>30.There is no skill called “business.” Avoid business magazines and business classes.</p><p>并不存在一种叫做“商业”的能力。尽量避开商业杂志和商业课程。</p><p>31.Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.</p><p>去学习微观经济学、博弈论、心理学、说服术、伦理学、数学和计算机科学。</p><p></p><p>32.Reading is faster than listening. Doing is faster than watching.</p><p>读比听快，做比看快。</p><p>33.You should be too busy to “do coffee,” while still keeping an uncluttered calendar.</p><p>你应该忙得没有社交的时间才对，与此同时你应该始终保证日程安排井井有条。</p><p>34.Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.</p><p>你应该为自己设定一个有抱负的个人时薪数，并且坚持执行。如果解决一个问题所能节省下来的成本低于你的个人时薪，那就忽略这个问题好了；如果一项任务的外包成本低于你的个人时薪，就把它外包出去。</p><p>35.Work as hard as you can. Even though who you work with and what you work on are more important than how hard you work.</p><p>尽管你跟谁一起工作、做什么工作，要远比你的努力程度更加重要。但还是要倾尽全力去工作。</p><p>36.Become the best in the world at what you do. Keep redefining what you do until this is true.</p><p>你所做的事情，要努力做到世界最好。不断重新定义你在做什么，直到真的做到世界最好。</p><p>37.There are no get rich quick schemes. That’s just someone else getting rich off you.</p><p>这个世界上并没有快速赚钱致富的方法，如果你想要找寻这种方法，那它只会让别人从你身上赚钱致富。</p><p>38.Apply specific knowledge, with leverage, and eventually you will get what you deserve.</p><p>运用你的独到知识，配合上杠杆，最终你会得到你应该得到的东西。</p><p>39.When you’re finally wealthy, you’ll realize that it wasn’t what you were seeking in the first place. But that’s for another day.</p><p>终有一天当你变得富有，你会发现那一切并不是你最开始想要的东西。但是那就是另外一回事了。</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-08 15:43:45</div>
+                <div class="content">
+                    <p>#project/almanack  BUILDING JUDGMENT</p><p>Judgment 94</p><p>How to Think Clearly 95</p><p>Shed Your Identity to See Reality 101</p><p>Learn the Skills of Decision-Making 103</p><p>Collect Mental Models 106</p><p>Learn to Love to Read 114</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-08 12:57:29</div>
+                <div class="content">
+                    <p>#project/almanack 积累财富</p><ul><li><p>理解财富是如何创造的 14</p></li><li><p>寻找和建立专门的知识 22</p></li><li><p>与长期的人玩长期的游戏 27</p></li><li><p>承担责任 30</p></li><li><p>建立或购买企业的股权 32</p></li><li><p>找到一个杠杆的位置 35</p></li><li><p>判决后获得报酬 . 46</p></li><li><p>优先和重点 48</p></li><li><p>寻找感觉像游戏的工作 55</p></li><li><p>如何获得幸运 60</p></li><li><p>耐心点 65</p></li></ul><p></p><p>BUILDING WEALTH 29</p><p>Understand How Wealth Is Created 30</p><p>Find and Build Specific Knowledge 40</p><p>Play Long-Term Games with Long-Term People 46</p><p>Take on Accountability 50</p><p>Build or Buy Equity in a Business 53</p><p>Find a Position of Leverage 55</p><p>Get Paid for Your Judgment 67</p><p>Prioritize and Focus 69</p><p>Find Work That Feels Like Play 76</p><p>How to Get Lucky 82</p><p>Be Patient 87</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
+                <div class="time">2021-12-08 10:12:49</div>
+                <div class="content">
+                    <p>#project/workflow 產品領導者</p><p></p><p>产品团队的职责其实可以归纳为两条，一是“build the right product”，二是“build the product right”。前者是方向问题，属于产品探索的范畴；后者是方法问题，属于产品交付的范畴。这两项职责大相径庭，通常情况下很难由同一支团队完成。在卡根看来，要求普通团队同时承担探索和交付工作未免强人所难，效果往往也不尽如人意；而自主型团队权、才、利兼而有之，因此可以打造出既有价值和可用性、又具备技术可行性和商业可行性的产品。</p><p></p><p>src: empowered 2 书名：启示录2：打造优秀的产品团队</p><p>作者：【美】马蒂·卡根；克里斯·琼斯</p><p></p><p>本书面向产品领导者和有志于成为产品领导者的人士，尤其是产品经理、产品设计师与开发人员的上司。</p>
+                </div>
+                <div class="files">
+                                    </div>
+            </div>
+                        <div class="memo">
                 <div class="time">2021-12-07 23:18:04</div>
                 <div class="content">
                     <p>#project/workflow 年終工作總結 不是年終，不是工作，不是總結</p><p></p><ol><li><p>不是年終，不是對過去的複盤，應該把它當作一次面向未來的競聘。</p></li><li><p>不是工作，重點不是要說你幹了什麼，而是要呈現你的變化，你這一年能力有什麼成長</p></li><li><p>不是總結, 可以做為跟領導的一次年終面試，是在回答那些他期待知道的問題。</p></li></ol><p></p><p>重點放在自已的能力證明上。</p><p></p>
@@ -89,14 +305,6 @@
                 <div class="time">2021-12-01 12:45:14</div>
                 <div class="content">
                     <p>#project/workflow 即對於專業創意人員來說，花錢升級工作空間的美感不僅僅是一種表達練習，而且可能是你做過的最好的商業投資之一</p><p></p><p>sr: https://www.calnewport.com/blog/2021/11/23/the-forgotten-tale-of-george-lucass-writing-tower/</p>
-                </div>
-                <div class="files">
-                                    </div>
-            </div>
-                        <div class="memo">
-                <div class="time">2021-12-01 09:12:34</div>
-                <div class="content">
-                    <p>#inbox 電視和互聯網對區別</p><p></p><p>就是看电视不产生社交，但是网络却可以。今天，人们对网络的抱怨，仅仅是说一个人的网络社交挤占了他的现实社交，而不是抱怨他不社交。这是二者最根本的区别</p><p></p><p>src: 独自打保龄 3 怎麼創造社會資本</p>
                 </div>
                 <div class="files">
                                     </div>

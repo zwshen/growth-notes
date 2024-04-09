@@ -1,0 +1,239 @@
+﻿html,body
+{	
+	background-color:#FFFFFF;
+}
+
+input, div
+{
+	font-size:13px;
+	font-family:微软雅黑, Arial, Helvetica, sans-serif;
+}
+
+#Main
+{
+	position: absolute;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	display: block;
+	font-size: 0px;
+	background-color:#FFFFFF;
+	min-height:700px;
+}
+
+#webNameImg {
+	position: relative;
+	left: 0px;
+	top: 260px;
+	width: 693px;
+	height: 55px;
+	margin-left: auto;
+	margin-right: auto;
+	background-repeat: no-repeat;
+	background-image: url(../Css/Pictures/appName.png);
+}
+
+#container
+{
+	position: relative;
+	top: 280px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 693px;
+	height: 236px;
+}
+
+#content
+{
+	position: absolute;
+	top:0px;
+	background: url(Pictures/Login/LoginContent.png);
+	width:693px;
+	height:236px;
+	z-index:3;
+}
+
+.txt-input
+{
+	position: absolute;
+	left: 440px;	
+	width: 235px;
+	border: 0px;
+	background-color: transparent;
+	font-size: 16px;
+}
+
+#txtUserName
+{
+	top: 25px;
+}
+
+#txtPassword
+{
+	top: 102px;
+}
+
+.watermark
+{
+	font-size: 16px;
+	color: #808080;
+}
+
+#divLang
+{
+	position: absolute;
+	right:15px;	
+	top: 10px; 
+}
+
+#drpLang
+{
+	width:100px;
+	font-size:12px;
+	font-family:微软雅黑, Arial, Helvetica, sans-serif;
+	display: none;
+}
+
+#verifyTitle
+{
+	top:190px;
+}
+
+#btnChgVerify{
+	position: absolute;
+	left:688px;	
+	top: 191px;
+	font-size:15px;
+	font-weight:bolder;
+	color:#0066CC;
+	display:none;
+}
+
+#btnChgVerify:hover
+{
+	color:#30A9E5;
+}
+
+#btnLogin
+{
+	position: absolute;
+	left: 379px;	
+	top: 168px; 
+	width: 314px;
+	height: 50px;
+	background-image:url(Pictures/Login/loginBtn.png);
+	cursor:pointer;
+	border:0px;
+	font-size: 18px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+#btnLogin:hover
+{
+	background-position: 0px -50px;
+}
+
+#btnLogin.disabled
+{
+	background-position: 0px -150px;
+	cursor: default;
+}
+
+#ErrorMsg
+{
+	position: absolute;
+	left: 379px;
+	top: 265px;
+	width: 570px;
+	height: 50px;
+	font-size: 18px;
+	color: red;
+	word-break: break-all;
+}
+
+#langType {
+	padding: 2px 5px 2px 5px;
+	border: 1px solid #7A8486;
+	width: 160px;
+	cursor: pointer;
+}
+
+#langTypeSel {
+	width: 160px;
+	height: 18px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+#langType:hover #arrowDown{
+	background-position: -30px 0;
+}
+
+#arrowDown{
+	display: inline-block;
+	width:15px;
+	height: 8px;
+	background-image: url(Pictures/arrow.png);
+	position: absolute;
+	right: 8px;
+	top:10px;
+}
+
+#langTypeList {
+	position: absolute;
+	left: 0px;
+	top: 23px;
+	border-left: 1px solid #7A8486;
+	border-right: 1px solid #7A8486;
+	width:170px;
+	z-index: 100;
+	display: none;
+	max-height: 300px;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+#langTypeList>.item {
+	padding: 2px 5px 2px 5px;
+	width: 160px;
+	border-bottom: 1px solid #7A8486;
+}
+
+#langTypeList>.item:hover {
+	background-color: #C8F0F9;
+}
+
+#langTypeList>.item.selected {
+	background-color: #00BBDB;
+}
+
+#download
+{
+	position:absolute;
+	/*left: -280px;
+	top: 350px;*/
+	left:0px;
+	right:0px;
+	bottom:10px;
+    font-size:18px;
+    text-align:center;
+    vertical-align:middle;
+    color:#9b9b9b;
+}
+
+#dlPlugin
+{
+    display: inline-block;
+    zoom: 1; /*IE only*/ *display:inline;/*Only IE know this code (CSS Hack)*/
+	width: 27px;
+	height: 27px;
+	background-image:url(Pictures/Login/plugin.png);
+    background-repeat:no-repeat;
+}
+#dlPlugin:hover
+{
+    background-position:-27px 0px;
+}

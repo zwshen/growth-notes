@@ -1,0 +1,85 @@
+# Missing Person, Part 1: "The Man in the Mask."
+
+Welcome to English as a Second Language Podcast num ber 61 – Missing Person , Part 1: "The Man in the Mask." 
+
+This is ESL Podcast episode 61. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educational Development in beau tiful Los Angeles, California. 
+
+This episode is the first of a special series calle d Missing Person . Unlike our regular podcasts, the next 12 episodes will all be connected as part of one longer story – a detective story, a murder mystery.  
+
+The format of these Missing Person  episodes is just like our regular episodes: we’ll listen to a story, then explain it, then hear  it again at a normal speed. We will begin each episode by recapping or reviewing the pr evious episode, beginning with part 2, of course. There are 12 parts to our M issing Person  special episode series. 
+
+As you’re listening to the story, don’t worry about  trying to understand every word, but rather, try to get the general meaning of  the story. Now, let’s get started with part 1 of Missing Person . The title of part 1 is “The Man in the Mask.” > I didn’t kill him.  
+> I didn’t even plan to kill him. I had a gun, but I just wanted to hurt him and stop him from attacking me. I had no idea why this stran ger was hitting me, and it was ticking me off. 
+> This morning Anne Prado, one of my students at the University of Southwestern California, came to my office. She said she had a p roblem and she needed my help. Her sister, Sarah, was missing. We were on ou r way to Sarah's apartment to find her when, halfway up the front steps of the  building, a man ran toward me and started punching me. 
+> I hit the man in the ear. He screamed with pain. He  was small, but a tough son- of-a-gun. I stepped back and hit him hard in the st omach. 
+> “Oh my God!” he moaned. I think I hurt him that tim e. 
+> Our episode begins with the “narrator,” or the pers on telling the story, saying that he “didn’t kill him.” We begin our story in the mid dle of a fight between two men. One of them, our narrator, has a gun. The other one , a stranger – or someone he doesn’t know – is hitting him, attacking him.   
+
+ Our narrator (whose name is Dr. Reeves, we find out  later) says that this man is hitting him, and it’s “ticking [him] off.” “To tick  someone off” means to make them very, very angry – it’s an informal expression. If you say, “I’m ticked off,” that means “I’m mad, I’m angry.” “That person really tic ks me off” means that person really makes me angry. Again, it’s informal, but fa irly common. 
+
+Now, our narrator, Dr. Reeves, is a professor at th e University of Southwestern California – not a real university, of course, but this is a story. One of his students, Anne Prado, had gone to his office and sa id that she had a problem. Her sister, Sarah, "was missing." “To be missing” m eans that no one knows where you are. We sometimes use the expression “It’ s gone missing” to mean a person or a thing somehow can’t be found; we don’t know where it is.  
+
+Dr. Reeves and Anne decide to go over to Sarah’s ap artment. On their way to the apartment, halfway up the front stairs of the b uilding, a man runs toward Dr. Reeves and starts punching him. The expression “to be on your way” means that you are traveling toward something. “I was on my wa y to the store, and I decided to stop and get gasoline.” So, I’m traveling in a p articular direction on my way to some place. “Halfway up the front steps” would be, of course, not the bottom or the top, but somewhere in between. "Halfway up the front steps" someone starts punching our narrator.  
+
+Dr. Reeves hits the man back in the ear. He describ es the man as “small, but a tough son-of-a-gun.” A "son-of-a-gun” is a nicer wa y of saying a vulgar expression, which is “son-of-a-” and the last word begins with a “b.” “Son-of-a- gun” is a nicer of way of saying “son-of-a-(bitch), ” but it still has the same meaning, which is: “This is a bad person, this is s omeone who I don’t like very much.”  
+
+Dr. Reeves steps back, or moves backward, and hits the man in the stomach. The man cries, “Oh my God!” This is a common expres sion in lots of different languages. “Oh my God!” is something you would say when you’re surprised or you’re angry or, in this case, you’re hurt. The man  “moaned.” “To moan” (moan) is a verb which means to go “Ohh!” – that is to moa n. Usually, we moan in pain. Dr. Reeves says that he knew the man “was in pain,”  and he “pushed him to the ground.” The “ground” is another word for the earth .  
+
+The man falls on the grass and Dr. Reeves starts to  question him, or ask him questions. “Who are you? What do you want?” The man  has a “ski mask” on, so Dr. Reeves can’t see the man’s face. “A ski mask” i s like a hat that covers your entire head and your face – it just has holes for y our eyes and your mouth. It’s  
+
+what people wear in order to keep warm when they go  skiing down the mountain. But they’re also sometimes used by criminals who ar e trying to prevent other people from seeing who they are.  
+
+The man yells at Dr. Reeves, “Just get the hell awa y from this apartment building! You’re not welcome here!” The expression “Get the hell away!” or “Get the hell out of here!” is a vulgar expression that means, basically, the person is very angry. When you see or hear that expression – “Get the hell away from me!” “Get the hell out of here!” – it is a very angry, v ulgar way of telling someone to leave, to go away. Notice it’s not “Get hell away!”  but “Get the hell away!” – that’s just the way the expression goes. The man tells Dr.  Reeves he’s "not welcome here," meaning he doesn’t want him here.  
+
+Dr. Reeves then grabs the man by the shirt. Notice the expression “to grab by.” You could grab someone by the ear. You could grab t hem by the nose. Dr. Reeves pushes the man to the ground and twists his arm. “To twist” (twist) means to turn something. But “to twist someone’s ar m” means to take their arm and turn it so that it hurts. In this case, he twis ts the man’s arm behind his back. He is trying to get the man to stop fighting and to  give him some answers.  
+
+Again Dr. Reeves asks the man why he can’t go in th e apartment building, but the man “didn’t say a word.” The expression “didn’t  say a word,” means that someone was completely silent; not even one word di d they speak. The man looks at Dr. Reeves “coldly.” “To look at someone c oldly (coldly)” means to look at him in anger or perhaps in fear. The man gets up  and runs away. The doctor then turns to see if he can find Anne and asks if s he is okay, and she says that she is. Dr. Reeves then asks her if she knows the m an, and Anne says no, she doesn’t know who he is. 
+
+The episode ends with a recap of what happened. The  narrator tells us that this morning in his office, Anne Prado came and said tha t her sister had been missing for two days. When Anne’s sister, Sarah, didn’t com e to a lunch appointment they had – “didn’t show up,” we would say – Anne de cided to call her sister, but there was “no answer.” When you’re calling on the t elephone and there is "no answer," that means no one picks up or answers the telephone.  
+
+Anne then went over to her sister’s apartment and “ knocked on the door.” “To knock” is [knocking sound] like that, to knock on t he wood, but “there was no one home.” That’s an expression we use if no one is in the house: “There’s no one home.” Then Anne called Sarah’s work, and Sarah’s b oss told Anne that she had been missing for two days. And that’s when Anne dec ided to go and ask Dr.  
+
+Reeves for his help in finding her sister and her s ister’s husband, Bill, who is also missing.  
+
+Now let’s listen to the story, this time at a norma l speed. 
+
+[start of story] 
+
+I didn’t kill him.  
+
+I didn’t even plan to kill him. I had a gun, but I just wanted to hurt him and stop him from attacking me. I had no idea why this stran ger was hitting me, and it was ticking me off. 
+
+This morning Anne Prado, one of my students at the University of Southwestern California, came to my office. She said she had a p roblem and she needed my help. Her sister, Sarah, was missing. We were on ou r way to Sarah's apartment to find her when, halfway up the front steps of the  building, a man ran toward me and started punching me. 
+
+I hit the man in the ear. He screamed with pain. He  was small, but a tough son- of-a-gun. I stepped back and hit him hard in the st omach. 
+
+“Oh my God!” he moaned. I think I hurt him that tim e. 
+
+I knew he was in pain. I pushed him down to the gro und. He fell onto the grass in front of the steps to the apartment building. Now i t was my turn to take control. 
+
+I stood over him and asked, “Who are you? What do y ou want?” He didn’t answer. He had a ski mask on, so I couldn’t see his  face.  
+
+“Just get the hell away from this apartment buildin g! You’re not welcome here!” he said. 
+
+I grabbed him by the shirt, pushed his face into th e ground, and twisted his arm behind his back. He yelled even louder now. I think  he was finally ready to stop fighting. 
+
+“Now, who are you? Why can’t I go inside the apartm ent?” I was getting angry and wanted some answers. I saw a few people come ou t of the apartment building to see what was happening.  
+
+But the man still didn’t say a word. He lifted hims elf up suddenly and pushed me away. He looked at me coldly for a second, then ran  into the street. 
+
+I turned to find Anne to make sure she was okay. “D o you know who he was? Have you seen him before?” I asked. 
+
+“No, Dr. Reeves. I don’t come to my sister’s apartm ent very often. I don’t know who he is.”  
+
+Let me back up a minute: This morning in my office Anne had explained that two days ago she was supposed to have lunch with her si ster, Sarah Salas. When her sister didn’t come to the restaurant, Anne call ed Sarah’s apartment. There was no answer.  
+
+Anne went to her sister’s apartment right away and knocked on the door, but there was no one home. She called Sarah’s work. Sar ah’s boss told Anne that Sarah had been missing for two days. So Anne decide d to ask me to help find her sister and her sister’s husband, Bill, who was also missing. 
+
+[end of story] 
+
+In the next episode of Missing Person , we’ll find out more about Dr. Reeves and the mysterious case of Sarah Salas, who’s missing. Be sure to come back for part 2: “Beer and Cigarettes.”  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. This podcast is copyr ight 2006.
+

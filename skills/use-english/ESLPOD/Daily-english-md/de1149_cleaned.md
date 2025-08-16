@@ -1,0 +1,108 @@
+# Delaying Making a Decision
+
+Welcome to English is a Second Language Podcast num ber 1,149 – Delaying Making a Decision.  
+
+This is English as a Second Language Podcast episod e 1,149. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to ESLPod.com and become a member of ESL Podcast . When you do, you can download the Learning Guide for this episode. H ave you downloaded our ESL Podcast Magazine, Learn English ? Well, go to eslpod.com/apple or eslpod.com/android and download it today. It’s free .  
+
+This episode is a dialogue between Thomas and Eugen ia about waiting to make an important decision. Let’s get started.  
+
+[start of dialogue] 
+
+Thomas: You’ve hemmed and hawed for weeks. It’s tim e to make a decision. 
+
+Eugenia: I know, but I need to sleep on it. This is  a very big decision. 
+
+Thomas: You’ve dragged your feet for far too long. Are you having second thoughts? 
+
+Eugenia: No, no second thoughts. I just want to be absolutely sure I’m making the right choice. I’m on the fence between two opti ons. We’ll have to live with this decision for years. 
+
+Thomas: I thought you’d already made a tentative de cision days ago. 
+
+Eugenia: No, no, no. In my mind, the jury is still out.  
+
+Thomas: You can’t leave everyone hanging. 
+
+Eugenia: I know that, but how can I choose if I’m n ot 100 percent positive about either option. 
+
+Thomas: I understand that, but it’s now down to the  wire. You’ve got to bite the bullet and decide. 
+
+Eugenia: I know. If only I had a few more days to t hink about it . . . 
+
+Thomas: Too late. They’re here.  
+
+Eugenia: The painters are here? 
+
+Thomas: Yes. So will this be a blue or green house?  
+
+Eugenia: How about stripes? 
+
+[end of dialogue] 
+
+Thomas says to Eugenia, “You’ve hemmed and hawed fo r weeks.” This somewhat unusual expression, “to hem (hem) and haw (haw),” means to be undecided about making a decision – in fact, to ref use to make a decision or to provide an answer because you’re still thinking abo ut it. You’re still considering your options. Usually when we say someone is “hemmi ng and hawing,” we mean he is being indecisive. He is not making up his min d, and we consider that a bad thing. It’s a criticism of that person. 
+
+Thomas says, “It’s time to make a decision.” Eugeni a says, “I know, but I need to sleep on it.” When someone says he’s going to “slee p on it,” or if someone tells you to “sleep on it,” he means to think about somet hing and make a decision tomorrow – to go to bed, if you will, and perhaps t hink about it. I think the idea here is that sometimes if we wait and allow our min d, unconsciously perhaps, to process information or to give our brain time to th ink about something, we will make a better decision. Eugenia says, “This is a ve ry big decision.”  
+
+Thomas says, “You’ve dragged your feet for far too long.” “To drag your feet” means to do something very slowly. It means not to do something when you’re supposed to do it, to take much longer than you sho uld take. Thomas says, “Are you having second thoughts?” The term “second thoug hts” means doubts about your decision or doubts that will make you change y our mind about a decision you’ve already made. Eugenia says, “No, no second t houghts. I just want to be absolutely sure I’m making the right choice.” “To b e absolutely sure” about something means you don’t have any doubts. You know  that this is correct. You’re certain that you are right.  
+
+Eugenia says, “I’m on the fence between two options .” “To be on the fence” (fence) means to be undecided, to not be sure which  of two options you want. A “fence,” of course, is something that you put up ar ound your property or around something that you don’t want someone to get into, or a place you don’t want  
+
+someone to enter. At my house, for example, there i s a fence between all of my neighbors. Interestingly enough, I didn’t put up th e fences, so I guess my neighbors don’t want me in their yard more than I d on’t want them in my yard or property.  
+
+Anyway, Eugenia is “on the fence between two option s,” or choices. She says, “We’ll have to live with this decision for years.” When someone says, “We have to live with this,” he means we have to be able to tolerate this, or we have to be in this situation. We’re not going to be able to ch ange it. There’s nothing we can do about it.  
+
+Thomas says, “I thought you’d already made a tentat ive decision days ago.” “Tentative” (tentative) means not final – temporary . Something that is tentative is something that you’re not certain about. You are sa ying yes to something, but you could change your mind in the future. That’s so mething that is “tentative.” Eugenia says, “No, no, no.” She didn’t make even a tentative decision days ago.  
+
+“In my mind,” she says, “the jury is still out.” Th is expression, “the jury (jury) is still out (out),” is used when you mean something is not yet decided, when a decision hasn’t been made either by you, or by perhaps a gro up of people. A “jury” is a group of usually 12 people who decide whether someo ne is guilty or innocent of a crime in a court. “To be out” means to be still t hinking about it. That’s the expression we use when a jury hasn’t yet made its d ecision. We say the jury is still out. The phrase has become more commonly used  to mean any decision that has not yet been made or to refer to a decision tha t has not yet been made.  
+
+Thomas says, “You can’t leave everyone hanging.” “T o leave (leave) someone hanging” means not to let someone know the final de cision about something, to make someone wait to find out something important t hat that person wants to know. If you ask a girl to marry you and she says, “Well, let me think about that. Let me sleep on it. I’ll tell you tomorrow,” she is  leaving you hanging. She is not telling you her decision. She’s waiting to give you  her decision, and you are anxious to get her decision. You want to know. 
+
+Eugenia says, “I know that,” meaning I know I’m lea ving everyone hanging, “but how can I choose if I’m not 100 percent positive ab out either option.” The word “positive” (positive) here means sure, convinced, p ersuaded that you are correct about something. Thomas says, “I understand that, b ut it’s now down to the wire (wire).” When we say something is “down to the wire ,” we mean it is right before a deadline. There’s no additional time left to make  a decision or to do something.  
+
+If you say something is going right down to the wir e, you mean that it isn’t going to be completed until right before the final moment , right before a deadline. Thomas says to Eugenia, “You’ve got to bite the bul let and decide.” The expression “to bite (bite) the bullet (bullet)” mea ns to do something that is very challenging, or very difficult, or perhaps even ver y dangerous, but it’s something you have to do. It might be something that is as si mple as making a difficult decision.  
+
+If you’ve asked your girlfriend to marry you and sh e doesn’t really want to, it will be difficult perhaps for her to tell you. But she h as to bite the bullet and tell you. She has to do this difficult, challenging thing bec ause it’s necessary. You need to know. You don’t want to be left hanging. Thomas is telling Eugenia that she has to bite the bullet. Eugenia says, “I know. If only I had a few more days to think about it.”  
+
+Thomas says, “Too late. They’re here,” meaning some one has arrived, perhaps someone related to the decision that Eugenia is sup posed to make – and in fact, that’s exactly what is happening here. Eugenia says , “The painters are here?” “Painters” are people who put paint on your house, either on the inside or the outside of your house. Now we know this decision th at Eugenia is supposed to make is related to painting her house. Thomas says,  “Yes. So will this be a blue or green house?” Eugenia needs to decide if the pai nters are going to paint the house blue or green.  
+
+Eugenia says, “How about stripes?” “Stripes” (strip es) are parallel lines of different colors. You can think of the animal the z ebra as having stripes, black and white lines on its body. You can have stripes o n a shirt where there’s a line of black and a line of white, or a line of blue and  a line of, I don’t know, grey. What Eugenia is suggesting is that, because she can ’t decide if she wants to paint her house blue or green, she’s going to have blue and green stripes – lines that go up and down the wall, or from side to side,  perhaps.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Thomas: You’ve hemmed and hawed for weeks. It’s tim e to make a decision. 
+
+Eugenia: I know, but I need to sleep on it. This is  a very big decision. 
+
+Thomas: You’ve dragged your feet for far too long. Are you having second thoughts?  
+
+ Eugenia: No, no second thoughts. I just want to be absolutely sure I’m making the right choice. I’m on the fence between two opti ons. We’ll have to live with this decision for years. 
+
+Thomas: I thought you’d already made a tentative de cision days ago. 
+
+Eugenia: No, no, no. In my mind, the jury is still out.  
+
+Thomas: You can’t leave everyone hanging. 
+
+Eugenia: I know that, but how can I choose if I’m n ot 100 percent positive about either option. 
+
+Thomas: I understand that, but it’s now down to the  wire. You’ve got to bite the bullet and decide. 
+
+Eugenia: I know. If only I had a few more days to t hink about it . . . 
+
+Thomas: Too late. They’re here.  
+
+Eugenia: The painters are here? 
+
+Thomas: Yes. So will this be a blue or green house?  
+
+Eugenia: How about stripes? 
+
+[end of dialogue] 
+
+I am absolutely sure that the best scriptwriter on the Internet is our very own Dr. Lucy Tse. Thank you, Lucy. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

@@ -1,0 +1,136 @@
+# Making and Receiving a Job Offer
+
+Welcome to English as a Second Language Podcast num ber 1,100 – Making and Receiving a Job Offer.  
+
+This is English as a Second Language Podcast episod e 1,100. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to our website at ESLPod.com. Download a Learnin g Guide for this episode. The Learning Guides are included in your membership  in ESL Podcast.  
+
+This episode is a dialogue between Salima and Jake about getting a job.  
+
+[start of dialogue] 
+
+Salima: Hello. 
+
+Jake: Hi, this is Jake Nagano at Fixit Corp. How ar e you today? 
+
+Salima: Oh, hi, Jake. I’m fine. How are you? 
+
+Jake: Good. The reason I’m calling is that we’d lik e to offer you the position you interviewed for last week.  
+
+Salima: Oh, that’s great. I was really impressed wi th Fixit.  
+
+Jake: I’m glad to hear it. We’re prepared to offer you a starting salary of $55,000. You will get full medical and dental coverage, and vision coverage is optional.  
+
+Salima: I see. And vacation time? 
+
+Jake: Vacation days, personal leave, and sick leave  accrue one day per month in your first year and then increase with your tenure with the company. 
+
+Salima: What would be my job title? 
+
+Jake: You’d be a junior specialist, and you’d be wo rking under Monique Stansfield, the department manager. 
+
+Salima: Is the salary negotiable at all? 
+
+Jake: Well, we would consider any counteroffers, bu t this is a typical compensation package for new hires in these positio ns. 
+
+Salima: I see. 
+
+Jake: Why don’t you think about it? I’ll need to he ar back from you by Wednesday. Will that work? 
+
+Salima: Sure, no problem. Just one more thing: I he ard that the company has a box at the stadium . . . 
+
+Jake: Let me stop you right there. I hope that’s no t a deal-breaker, because it’s taken me . . . I mean . . . it takes years for empl oyees to get invited. 
+
+Salima: No, not a deal-breaker at all. I’m just a f an. 
+
+Jake: In that case, it would be a pleasure to welco me you aboard. 
+
+[end of dialogue] 
+
+We listen in on a phone conversation in this episod e. Salima answers the phone by saying, “Hello.” Jake says “Hi, this is Jake Nag ano at Fixit Corp. How are you today?” “Corp.” is a short word for “corporation,” which is another word for a company. Jake works for Fixit Corp. Salima says, “O h, hi, Jake. I’m fine. How are you?” Jake says, “Good.” Then Jake gets to the purp ose of his call, and notice how he introduces that.  
+
+In a business setting, one often uses the phrase “T he reason I’m calling is that,” and then you give the person the reason that you ar e calling. Well, here Jake says, “The reason I’m calling is that we’d like to offer you the position you interviewed for last week.” “To offer someone a pos ition” is to tell someone that you want to give him a job – and of course the pers on, if he wants the job, will accept your offer or not. Here Jake is offering Sal ima this position, this job for which she interviewed last week.  
+
+Salima says, “Oh, that’s great. I was really impres sed with Fixit.” “To be impressed” here means to have a very positive react ion to, or a very positive idea about, in this case, the company. Jake says, “I’m g lad to hear it,” meaning I’m happy that you liked our company. “We’re prepared t o offer you a starting salary of $55,000.” “We’re prepared” means we are willing to give you a starting salary of $55,000.  
+
+A “starting salary” is the amount of money you get paid when you first start working for a company. “Salary” (salary) is the amo unt of money you get at your job, the amount of money the company pays you to wo rk for them. Jake says, “You will get full medical and dental coverage, and  vision coverage is optional.” Jake is telling Salima that the company, Fixit Corp , will pay for her medical and dental coverage. “Medical and dental coverage” refe rs to health insurance that will pay for your bills, your expenses, if you get sick.  
+
+In the United States, some companies pay for all of  the health insurance, although my guess is most companies will pay for pa rt of the insurance. You have to pay for part of it yourself. It depends on the company. “Vision (vision) coverage” refers to health insurance for any proble ms you have with your eyes. If you need glasses or you need to have some special s urgery done on your eye, it might be covered – that is, it might be paid for – by vision insurance.  
+
+Salima says, “I see,” meaning “I understand.” “And vacation time?” Salima is asking how many days of vacation she gets. Jake say s, “Vacation days, personal leave, and sick leave accrue one day per month in y our first year and then increase with your tenure with the company.” “Vacat ion days” refer to the days that you don’t have to go to work and get paid for it – days that you would go on a holiday or just sit home and relax, which is what  I often do on my vacation.  
+
+“Personal leave” (leave) refers to one or more days  when you don’t work, not because you’re on a vacation, but because you have some other personal reason for not being able to go to work. Maybe you have to have surgery done, or maybe a friend of yours needs help and you have to call your job and say you can’t go that day. Some companies will give their e mployees a certain number of personal days. This is part of “personal leave.” Th e word “leave” here means days that you are not working, time that you are no t working at your job.  
+
+Usually when you take a personal day or personal le ave, you are still getting paid by the company, just as you would on your vacation.  “Sick leave,” you probably can guess, refers to days that you are sick and the refore cannot go to work. These “accrue,” according to Jake, “one day per mon th.” “To accrue” (accrue) means they accumulate, they increase gradually. Bas ically what Jake is saying here is that every month that Salima works at Fixit  Corp, she will get a little bit more vacation time, a little bit more personal leav e. She’ll get one day per month.  
+
+Now, it’s not clear if that one day a month policy applies to vacation, personal leave, and sick leave. I’m guessing it doesn’t. Tha t would be a lot of paid time off from your job – but who knows? Maybe Fixit Corp has  a lot of money. Jake says the vacation days, personal leave, and sick leave w ill increase with Salima’s  
+
+tenure with the company. Your “tenure” (tenure) is the amount of time that you are working at a certain company. In most companies , the longer you work at the company, the more vacation time and personal leave you are given.  
+
+Selena then asks, “What would be my job title?” You r “job title” is the name of the position that you have in the company or in the org anization. Jake says, “You’d be a junior specialist, and you’d be working under Monique Stansfield, the department manager.” The term “junior” (junior) ref ers to someone with less experience and usually fewer responsibilities in a company. The opposite of “junior” would be “senior” (senior).  
+
+So, a “senior specialist” would be someone who work s for a company, who has a lot of experience and a lot of responsibilities. A “junior specialist” would be someone who is new to the company, who doesn’t have  as much experience as other people at the company and probably has fewer responsibilities in the job. Jake says that Salima will “be working under Moniqu e Stansfield.” “To work under” someone is to be supervised by someone. In t his case, it means that Monique Stansfield will be Salima’s “boss” – the pe rson that Salima reports to or is supervised by.  
+
+Salima says, “Is the salary negotiable at all?” Whe n we say something is “negotiable” (negotiable) we mean it’s open for dis cussion. It’s something that you can ask for an increase in. In many job offers,  salary is negotiable. You can say, “Well, $55,000 isn’t a lot. Can I get a little  bit more? Could I get $60,000? Or could I get $70,000?” Jake answers by saying, “Well , we would consider any counteroffers, but this is a typical compensation p ackage for new hires in these positions.”  
+
+Jake says that Fixit Corp will “consider counteroff ers” (counteroffers). “Counteroffers” are proposals that you make back to  someone who has offered you something. In this case, Fixit Corp has offered  Salima $55,000. Salima can then say, “Well, I’d like $60,000.” That is a “coun teroffer.” You offer me one thing, I offer something different back to you. That’s par t of negotiation.  
+
+Jake says, however, that what the company is offeri ng Salima is a “typical,” or usual, “compensation package.” “Compensation packag e” just refers to the combination of the salary and the benefits that are  given to someone for working at a company. It refers to both the money, that is,  and in this case the insurance and the vacation days and sick leave and the person al leave all together. Those things are part of the compensation package. “Compe nsation” comes from the verb “to compensate,” which means to give someone s omething for his or her efforts or work.   
+
+ Jake says, “Why don’t you think about it? I’ll need  to hear back from you by Wednesday. Will that work?” Jake is telling Salima to think about the offer and that he needs to hear back from her by Wednesday. “ To hear back” means to have a response from someone. If I send you an emai l and tell you that I need to hear back from you by Wednesday, that means you nee d to send me a reply to my email by Wednesday – before Wednesday. “Will tha t work?” Jake asks. In other words, “Is that okay?”  
+
+Salima says, “Sure, no problem. Just one more thing : I heard that the company has a box at the stadium . . .” A “stadium” is a la rge place where sporting games are played, such as American football or baseball. A “box” is a special place in the stadium, usually up high, that is owned by a ri ch company or person that is sort of like your own little suite, your own little  room, where you can sit and drink and eat and watch the game. You don’t have to sit d own in the main part of the stadium.  
+
+If a box is owned by a company, sometimes the emplo yees of the company get to go and use the box – go and see the game. Jake s ays, however, “Let me stop you right there,” meaning “Let me interrupt you.” “ I hope that’s not a deal-breaker, because it’s taken me . . . I mean . . . it takes y ears for employees to get invited.” A “deal-breaker” is something that would make it im possible for two people to reach an agreement, to make a deal. A “deal” (deal)  is an agreement. So, a “deal-breaker” is something that would prevent you from reaching an agreement.  
+
+Jake is basically saying here that even if Salima i s hired by the company, it will take years before she will have enough “seniority” – that is, she will have enough experience at the company – to be invited to this b ox. Salima says, “No, not a deal-breaker at all. I’m just a fan” – a fan of wha tever team plays at this stadium.  
+
+Jake says, “In that case, it would be a pleasure to  welcome you aboard.” The expression “to welcome someone aboard” (aboard) is usually said when you are on a big boat or a ship. “To go aboard” means to go  onto a ship or some other sort of large transportation vehicle, but it can al so be used metaphorically, as it is here, to welcome someone to a new organization or t o welcome someone to your company.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Salima: Hello.  
+
+ Jake: Hi, this is Jake Nagano at Fixit Corp. How ar e you today? 
+
+Salima: Oh, hi, Jake. I’m fine. How are you? 
+
+Jake: Good. The reason I’m calling is that we’d lik e to offer you the position you interviewed for last week.  
+
+Salima: Oh, that’s great. I was really impressed wi th Fixit.  
+
+Jake: I’m glad to hear it. We’re prepared to offer you a starting salary of $55,000. You will get full medical and dental coverage, and vision coverage is optional.  
+
+Salima: I see. And vacation time? 
+
+Jake: Vacation days, personal leave, and sick leave  accrue one day per month in your first year and then increase with your tenure with the company. 
+
+Salima: What would be my job title? 
+
+Jake: You’d be a junior specialist, and you’d be wo rking under Monique Stansfield, the department manager. 
+
+Salima: Is the salary negotiable at all? 
+
+Jake: Well, we would consider any counteroffers, bu t this is a typical compensation package for new hires in these positio ns. 
+
+Salima: I see. 
+
+Jake: Why don’t you think about it? I’ll need to he ar back from you by Wednesday. Will that work? 
+
+Salima: Sure, no problem. Just one more thing: I he ard that the company has a box at the stadium . . . 
+
+Jake: Let me stop you right there. I hope that’s no t a deal-breaker, because it’s taken me . . . I mean . . . it takes years for empl oyees to get invited. 
+
+Salima: No, not a deal-breaker at all. I’m just a f an. 
+
+Jake: In that case, it would be a pleasure to welco me you aboard.  
+
+ [end of dialogue] 
+
+Dr. Lucy Tse has many job titles. One of them is sc riptwriter. Thank you, Lucy, for your wonderful scripts.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

@@ -1,0 +1,90 @@
+# Solving a Mystery
+
+Welcome to English as a Second Language Podcast num ber 931 – Solving a Mystery.  
+
+This is English as a Second Language Podcast episod e 931. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Our website is ESLPod.com. Yes, it is. Go there. Do wnload the Learning Guide right after you become a member of ESL Podcast.  
+
+This episode is a dialogue between Jane and Hercule  about solving a mystery – when someone has committed a crime, perhaps even mu rder. Let’s get started.  
+
+[start of dialogue] 
+
+Jane: You have to watch this movie. It’s so good! 
+
+Hercule: I’m not really into mysteries.  
+
+Jane: But this is a really good whodunit.  
+
+Hercule: I prefer action movies.  
+
+Jane: Listen, the movie gives you plenty of clues, and the detective follows hunch after hunch, lead after lead, but the movie is full  of red herrings. Everybody seems to have an alibi and the witnesses aren’t rel iable.  
+
+Hercule: I don’t know. It seems kind of confusing t o me. I don’t really want to use my brain when I’m watching a movie. 
+
+Jane: But that’s the fun part of it. The true ident ity of the victim is a mystery, the suspects all have skeletons in their closets, and t he detective isn’t what he seems.  
+
+Hercule: Yeah, well . . . 
+
+Jane: And just when you think you’re getting to the  bottom of it, the rug gets pulled out from under you. It keeps you guessing un til the very end. Hey, where are you going? 
+
+Hercule: I’m going to find an action movie where al l my brain has to do is handle the sensory overload! 
+
+[end of dialogue] 
+
+Jane begins our dialogue by saying to Hercule, “You  have to watch this movie. It's so good!” Jane is watching a movie she really likes and wants Hercule to watch it with her. Hercule says, “I'm really not in to mysteries.” When we say we're “into” something or we’re “not into” somethin g, that means were interested in it or we’re not interested in it. Hercule says h e's not interested in mysteries. A “mystery” is usually a story about some crime. Typi cally, someone is murdered – someone is killed. That's a mystery.  
+
+Jane says, “But this is a really good whodunit.” A “whodunit” (whodunit), one word, is a story – it could be a movie, or a televi sion show, or a novel – about a murder that keeps people guessing. The story has a lot of different things going on, a lot of different people who could have done i t – who could have committed the murder. “Whodunit,” although it's used as a sin gle word as a noun, obviously comes from the three words “who,” “done,” and “it.”  You're trying to figure out in the story who is the murderer.  
+
+Hercule says, “I prefer action movies.” Jane says, “Listen,” meaning pay attention to me, “the movie gives you plenty of clues, and th e detective follows hunch after hunch, lead after lead.” A “clue” (clue) is some pi ece of information that gives you an idea about what happened. In this case, it gives  you an idea about who the murderer is – who is the person who committed the c rime. Jane says this movie “gives you plenty of clues,” meaning the movie indi cates to you different pieces of information that, if you put them all together, wil l help you figure out who the murderer is.  
+
+Most mystery stories have someone in the story who solves the crime – that is, who figures out who committed the crime – in this c ase, the murder. That person is called the “detective.” The “detective” is the p erson – it could be a police officer or anyone – who figures out who committed the crime . The detective is usually the hero of the story. For example, Agatha Christie , one of the great mystery writers of the 20th century, had two very famous de tectives about which she wrote several stories: Hercule Poirot and Jane Marp le – “Miss Marple,” as she was called in the books. Interestingly enough, our dialogue is between a Jane and a Hercule, but no relation to the Agatha Christ ie characters.  
+
+Jane says the detective in this movie “follows hunc h after lunch, lead after lead.” A “hunch” (hunch) is a guess. It's a guess about, i n this case, who committed the  
+
+crime. A “lead” (lead) is the same as a clue. It's information that will help you figure out who committed the murder. The detective,  then, “follows hunch after hunch,” meaning the detective makes some guesses in  order to try to figure out who committed the crime. Jane says the movie is “fu ll of red herrings.” A “red herring” (herring) is a distraction, something that  isn't important but that distracts you from focusing on what is important. A “red herr ing” is any piece of information or any event in the novel that looks im portant, but it turns out it really isn't important.  
+
+Jane says, “Everybody seems to have an alibi and th e witnesses aren't reliable.” An “alibi” (alibi) means an excuse for where you we re or an explanation for where you were during the time of the murder. If the murd er took place at 10:00 a.m., and you were at the grocery store at 10:00 a.m., th at's your alibi – that's the explanation of where you were when the crime took p lace. “Witnesses” are people who see what happens or hear what happens. I n this case, in this movie, everybody has an alibi and “the witnesses aren't re liable,” meaning you can't believe what they say.  
+
+Hercule, however, still doesn't really want to watc h the movie. He says, “I don’t know. It seems kind of confusing to me. I don't rea lly want to use my brain when I'm watching a movie.” Hercule is saying he doesn't  want to think when he's watching a movie. He just wants to be entertained. That's why he likes action movies – movies with lots of car chases and violenc e.  
+
+Jane says, “But that's the fun part of it” – that's  why it's interesting to watch a mystery movie. “The true identity of the victim is a mystery.” The “victim” (victim) is the person against whom the crime was committed – in this case, the person who was perhaps murdered. The “identity” is the nam e of the person, who the person really is. In this story, in this movie, the  true identity of the victim is also a mystery. In other words, we don't actually know the  name of the person who was killed.  
+
+In addition, Jane says, “The suspects all have skel etons in their closets, and the detective isn't what he seems.” So, this is a very complicated mystery, indeed. In addition to not knowing who was actually murdered, or the name of the person who was actually murdered, these suspects all have skeletons in their closets. A “suspect” (suspect) is a person who might have comm itted the crime, who the detective thinks might be guilty, who might be the one who did it. Jane says, “The suspects all have skeletons in their closets.” The expression “to have skeletons (skeletons) in your closet” means to have secrets a bout yourself, secrets about your past that could be very embarrassing.  
+
+Skeletons in your closet are things that you don't want anyone to know about, things that you have done wrong in your past. The w ord “skeleton” refers to the bones in the human body. A “skeleton” is what is le ft after someone dies. The body eventually decomposes. It eventually is change d so that all there is left are the bones. The idea here is that if you kill someon e and you hide them in your closet, someone may go into your closet and eventua lly discover their bones. Once again, it's just an expression used to say tha t you have some bad things that you have done in your past. Jane says the dete ctive also “isn't what he seems,” meaning the detective may himself have some  secrets. Hercule says, “Yeah, well . . .”  
+
+And Jane continues trying to get Hercule to watch t his movie. She says, “And just when you think you're getting to the bottom of it” – just when you think you're understanding what happened – “the rug gets pulled out from under you.” The expression “the rug gets pulled out from under you”  means that there is a sudden change in the story, or something happens that is c ompletely unexpected that you didn't realize was going to happen. Jane says, “It keeps you guessing until the very end.” When we say something “keeps you gue ssing,” we mean you don't know. You don't know the answer. In this case, you don't know the answer until the end of the movie. 
+
+Jane then says, “Hey, where are you going?” Hercule  says, “I'm going to find an action movie where all my brain has to do is handle  the sensory overload.” “Sensory” (sensory) refers to your senses: what you  can see, what you can hear, what you can taste, what you can smell, and what yo u can touch. “Overload” (overload) is when you have too much of something. So, “sensory overload” is when you have too much noise or too much sound – to o much of whatever it is – that it's causing you some confusion because you ju st are getting too much information, if you will. That's what happens in an  action movie sometimes. There's so much going on that it's sensory overload .  
+
+Hercule is saying, here, he doesn't want to think. He doesn't want his brain to have to think, as it would if he were to watch the mystery movie that Jane is watching. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Jane: You have to watch this movie. It’s so good! 
+
+Hercule: I’m not really into mysteries.   
+
+ Jane: But this is a really good whodunit.  
+
+Hercule: I prefer action movies.  
+
+Jane: Listen, the movie gives you plenty of clues, and the detective follows hunch after hunch, lead after lead, but the movie is full  of red herrings. Everybody seems to have an alibi and the witnesses aren’t rel iable.  
+
+Hercule: I don’t know. It seems kind of confusing t o me. I don’t really want to use my brain when I’m watching a movie. 
+
+Jane: But that’s the fun part of it. The true ident ity of the victim is a mystery, the suspects all have skeletons in their closets, and t he detective isn’t what he seems.  
+
+Hercule: Yeah, well . . . 
+
+Jane: And just when you think you’re getting to the  bottom of it, the rug gets pulled out from under you. It keeps you guessing un til the very end. Hey, where are you going? 
+
+Hercule: I’m going to find an action movie where al l my brain has to do is handle the sensory overload! 
+
+[end of dialogue] 
+
+It's no mystery who wrote this episode. It's our ve ry own English detective, Dr. Lucy Tse.  
+

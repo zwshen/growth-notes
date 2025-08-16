@@ -1,0 +1,102 @@
+# Taking Photographs
+
+Welcome to English as a Second Language Podcast num ber 791: Taking Photographs. 
+
+This is English as a Second Language Podcast episod e 791.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there, download a Le arning Guide, become a member, improve your English even faster. 
+
+This episode is about taking photographs – taking p ictures with a camera.  Let’s get started. 
+
+[start of dialogue] 
+
+Ryan:  Stop mugging for the camera and stand still!    
+
+Katrina:  I’ve been standing still for 10 minutes, while you’ve been setting up the shot.  I have to do something.  This is boring! 
+
+Ryan:  I almost have the settings right.  Okay, let ’s try a shot.  Say “cheese.” 
+
+Katrina:  Cheese. 
+
+Ryan:  Oh, you look washed out in that shot and it’ s blurry.  I think the flash came on when I didn’t want it to.  You have red-eye, too .  I’ll have to adjust the settings again. 
+
+Katrina:  Hurry up! 
+
+Ryan:  Okay, I think I’ve got it now.  Get back int o your pose.  Lift your head a little to the side and face the sun…  
+
+Katrina:  Take the picture! 
+
+Ryan:  I just need to focus.  There!  Say “cheese” again. 
+
+Katrina:  Cheese. 
+
+Ryan:  Um, it’s still not perfect.  Let me put the camera on a tripod.  Try to stay still while I do that.   
+
+Katrina:  I thought you wanted the shot to look lik e a candid. 
+
+Ryan:  I do, but how am I supposed to make it look like a perfect candid if you keep moving out of your pose? 
+
+[end of dialogue] 
+
+Ryan begins our dialogue by saying to Katrina, “Sto p mugging for the camera and stand still!”  “To mug (mug) for the camera” me ans to make funny faces or to try to be funny looking in a photograph when someon e’s taking your picture. Sometimes it can mean just to try to get into the p icture; you see someone taking photographs and you walk over so that they will tak e a photograph of you, and so you maybe change your face or your body in such a w ay that they will pay attention to you.  Ryan says, “Stop mugging for the  camera and stand still!”  “Still” (still) means not moving, someone who is without mo tion, who’s not moving, who just is there.  “Still” has a number other meanings , however, in English; some of those are in the Learning Guide.   
+
+Katrina says, “I’ve been standing still for 10 minu tes, while you’ve been setting up the shot.”  “To set (something) up,” or “to set up (something),” is a phrasal verb meaning to get ready, to prepare.  The “shot” (shot ) here means the photograph, the one photograph you are going to take with your camera.  “Shot” also has other meanings in English, none of which are found in this week’s Learning Guide!  Katrina says, “I have to do something.  Thi s is boring!”  This is uninteresting; she’s just standing there waiting fo r Ryan to take the picture. 
+
+Ryan says, “I almost have the settings right.”  A “ setting” is an adjustment on a piece of equipment.  It could be, in this case, the  speed that the camera will use; it could be the light; it could be a lot of differe nt things.  Cameras, at least expensive cameras, have many different settings – m any different things you can change on the camera so it’s a better picture.  Rya n says, “I almost have the settings right,” meaning correct, the way I want th em.  He says, “Okay, let’s try a shot (let’s take a picture).  Say ‘cheese.’”  In En glish, if you want someone to smile that’s the expression you use when you’re tak ing a photograph – only when you’re taking a photograph.  You would say, “Okay, everyone say ‘cheese’,” because when you say “cheese,” the mouth has to ope n and you can see the person’s teeth and it looks like they’re smiling ev en if they’re not. 
+
+Katrina says, “Cheese.”  Ryan says, “Oh, you look w ashed out in that shot.” When you say someone looks “washed (washed) out” in  a photograph, you mean they don’t seem to have very much color; perhaps th ere’s too much light and you can’t really see the person very well.  Ryan says i t’s also blurry.  “Blurry” (blurry) is when a photograph is not in focus.  That is, it’ s not sharp; it looks like someone was moving the camera right when the picture was be ing taken, and so the lines aren’t clear.  They’re not sharp; they’re not in fo cus.   
+
+Ryan says, “I think the flash came on when I didn’t  want it to.”  A “flash” (flash) is the part of the camera that shows light on the pers on as you are taking the picture.  So a bright light comes on right when you  take the picture so that when you take the picture you can see what you are takin g the photograph of.  But of course, if you don’t need the light and you have th e flash on that may make the person look a little washed out.   
+
+Ryan also says that Katrina has red-eye.  “Red-eye”  means just what it sounds like.  The eyes in the photograph look red, and thi s is sometimes caused when people are too close to the flash of the camera, an d it’s a problem because it makes the person look like there’s something wrong with them.  Ryan says, “I’ll have to adjust the settings again.”  “To adjust” (a djust) means to change, to change something to improve it: “I need adjust the settings.” 
+
+Katrina says, “Hurry up!”  Go faster, she’s saying.   Ryan says, “Okay, I think I’ve got it now (meaning I think it’s ready).  Get back into your pose.”  A “pose” (pose) is when you move your body into a certain position and you hold it there for a photograph or a painting.  So, Ryan tells Katrina t o get back into her pose.  “Lift your head a little,” he says, “to the side and face  the sun.”  “Lift” means to raise, to move the head into a higher position from a lowe r one.  “Face” means to look toward, to be in a position where your face is towa rd a certain thing, in this case the sun.  You may say to someone – your son or daug hter who isn’t listening to you – you may say, “Face me and listen to what I’m telling you.”  “Face me” means turn around so that your face is looking at m ine. 
+
+Katrina says, “Take the picture!”  Ryan says, “I ju st need to focus.”  “To focus” means to adjust the camera, usually the lens of the  camera – the part of the camera that has glass in it that the picture is tak en through, and you change the glass – you change the lens so that the lines are s harp so that the picture isn’t blurry.  You can see the person; they look like wha t they’re supposed to look like.   
+
+Ryan says he needs to focus.  “There!” he says.  No tice the use of the word “there,” it just means he’s ready; what he did is n ow correct.  Then he says to Katrina, “Say ‘cheese’ again,” and Katrina says, “C heese.”  But Ryan says, “It’s  
+
+still not perfect.  Let me put the camera on a trip od.”  A “tripod” (tripod) is something that has three legs, and if you’ve work w ith a camera you know that you can put the camera on this special stand and th at will keep the camera from moving.  That stand – that thing you put it on – ha s three legs so that it’s stable – it doesn’t move, it keeps still – and that’s called  a tripod.  “Tri,” of course, means three.   
+
+So Ryan’s going to put the camera on tripod, and he  tells Katrina, “Try to stay still while I do that.”  Katrina says, “I thought you wan ted this shot to look like a candid.”  A “candid” (candid) means a candid photog raph, and “candid” means informal.  It’s when you’re not posing; you’re not putting your body in a certain position or you’re not looking at the camera and sm iling just because someone is taking your picture.  You’re sort of doing what you  normally do, and while you do that someone takes a picture of you.  There are oth er meanings of “candid.” Those can be found in, of course, the Learning Guid e. 
+
+Ryan says he does want the shot to look like a cand id, but he says, “how am I supposed to make it look like a perfect candid if y ou keep moving out of your pose?”  Well, this doesn’t make any sense, because a candid doesn’t have a pose.  So Ryan obviously doesn’t understand the mea ning of the word “candid,” and he should definitely take a look at our Learnin g Guide! 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Ryan:  Stop mugging for the camera and stand still!    
+
+Katrina:  I’ve been standing still for 10 minutes, while you’ve been setting up the shot.  I have to do something.  This is boring! 
+
+Ryan:  I almost have the settings right.  Okay, let ’s try a shot.  Say “cheese.” 
+
+Katrina:  Cheese. 
+
+Ryan:  Oh, you look washed out in that shot and it’ s blurry.  I think the flash came on when I didn’t want it to.  You have red-eye, too .  I’ll have to adjust the settings again. 
+
+Katrina:  Hurry up! 
+
+Ryan:  Okay, I think I’ve got it now.  Get back int o your pose.  Lift your head a little to the side and face the sun…  
+
+Katrina:  Take the picture! 
+
+Ryan:  I just need to focus.  There!  Say “cheese” again. 
+
+Katrina:  Cheese. 
+
+Ryan:  Um, it’s still not perfect.  Let me put the camera on a tripod.  Try to stay still while I do that.   
+
+Katrina:  I thought you wanted the shot to look lik e a candid. 
+
+Ryan:  I do, but how am I supposed to make it look like a perfect candid if you keep moving out of your pose? 
+
+[end of dialogue] 
+
+She never mugs for the camera, but she does write w onderful scripts.  Thank you, Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

@@ -1,0 +1,112 @@
+# Improving Your Looks
+
+Welcome to English as a Second Language Podcast num ber 701: Improving Your Looks. 
+
+This is English as a Second Language Podcast episod e 701.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Don’t miss the Learning  Guide for this episode that will help you improve your English much more quickl y than if you don’t have our Learning Guide. 
+
+This episode is called “Improving Your Looks.”  It’ s going to talk about “physical features,” things that may make you look more hands ome or more beautiful. Let’s get started. 
+
+[start of dialogue] 
+
+Leo:  Where have you been? 
+
+Mai:  I’ve been meeting with an agent.  You know I’ ve wanted to pursue a career in acting for a long time, but today I actually met  with a real agent.  She thinks I have potential. 
+
+Leo:  Is she going to sign you? 
+
+Mai:  She might.  She suggested a few improvements that are going to make me more salable as an actress. 
+
+Leo:  What did she suggest? 
+
+Mai:  Well, she thought I should get some hair exte nsions to make my hair look longer and fuller. 
+
+Leo:  There’s nothing wrong with your hair. 
+
+Mai:  Well, she thought it could use some sprucing up.  She also recommended getting my teeth capped.  At the very least, she sa id I should have teeth whitening done. 
+
+Leo:  Your teeth look nice and natural.  There’s no thing wrong with them.  
+
+ Mai:  She also suggested getting a spray tan, so I’ d look healthier.   
+
+Leo:  You already look healthy.  Is she crazy? 
+
+Mai:  No, I think she’s giving me good constructive  criticism.  I want to make myself as salable as possible. 
+
+Leo:  It sounds like she wants to stamp out all of your individuality and turn you into a clone of every other actress out there.   
+
+Mai:  I was thinking of taking her advice.  I want to be salable. 
+
+Leo:  You’re a person, not a piece of meat.  Salabl e, schmalable!  Don’t you even think about it! 
+
+[end of dialogue] 
+
+Leo begins our dialogue by saying to Mai, “Where ha ve you been?”  Mai says, “I’ve been meeting with an agent.”  An “agent,” in this case, is a person who represents actors, musicians, writers, or other art ists to try to find work for them. Most actors here in Los Angeles – in Hollywood – ha ve an agent, someone who tries to find jobs for them – and not jobs working as a waiter or waitress!  “Agent” has some other meanings in English as well; take a look at our Learning Guide for some additional explanations.  She says, “You k now I’ve wanted to pursue a career in acting for a long time,” she wants to bec ome an actor, Mai does, “but today I actually met with a real agent.  She thinks  I have potential.”  “Potential” means the possibility of being able to do something ; you’re not doing it right now but you have the ability to do it, perhaps, in the future. 
+
+Leo says, “Is she going to sign you?”  “To sign you ” is to create a “contract,” a legal agreement to work for this particular person.   We normally talk about athletes – professional athletes, singers, artists,  they sign with a certain company, or in the case of athletes a certain team,  and therefore have to work for them.  That’s what Mai is referring to – or rat her Leo, he’s asking the question I guess. 
+
+Mai says, “She might,” she might sign me, it’s not clear, we’re not sure.  She says her agent “suggested a few improvements that a re going to make me more salable as an actress.”  “Salable” (salable) comes from the word “sale,” which is related to the verb “to sell.”  “Salable” is the ab ility to be sold easily.  In the case of a person, it would be the ability to get a job o r to get work because of your  
+
+qualities or characteristics.  Mai says that her ag ent wants to make her more salable as an actress.  Notice that she uses both t he word “actor” and “actress.” Traditionally, a woman was called an “actress,” a m an was called an “actor,” but more recently the word “actor” has been used to des cribe both a man and a woman, but women can still call themselves “actress es.”  The word “actors” could refer to a man or to a woman.   
+
+Mai says that her agent has suggested that she get some hair extensions to make her hair look longer and fuller.  “Hair extens ions” are basically artificial hair, not your own hair, that you attach or put on your h air to make your hair look longer.  It’s something that has become popular for  women to do, although I’m thing of getting some hair extensions myself.  Firs t I have to get some hair, then I’ll get the hair extensions!  The hair extensions will make Mai’s look longer and fuller.  “Fuller hair” would be hair with more volu me, hair that has a lot of shape. It doesn’t just hang down from your head; it seems to move around more, perhaps.  That’s fuller hair. 
+
+Leo says, “There’s nothing wrong with your hair,” m eaning your hair is just fine the way it is right now.  Mai says, “Well, (her age nt) thought it could use some sprucing up.”  “To spruce (spruce) up (something)” is a two-word phrasal verb meaning to make something look a little nicer, to i mprove the way it looks. Normally we use this to talk about, for example, yo ur house.  We clean it up; we make it look nicer.  Here, it’s being used to talk about Mai’s hair.  So, Mai says that the agent also recommended getting her teeth c apped.  “To cap (cap) your teeth” means to go to the dentist and allow the den tist put little pieces over each of your teeth, basically covering your teeth with s omething that looks like teeth but is whiter and has a better appearance.  Mai say s, “At the very least, she said I should have teeth whitening done.”  “At the very least” means the minimum that she should do would be to get some teeth whitening.   “To whiten your teeth” means to make them whiter.  “Teeth whitening” is wh en you put something on your teeth to make them whiter, especially if your teeth perhaps are yellow or gray it makes your teeth look a little better. 
+
+Leo says, “Your teeth look nice and natural.  There ’s nothing wrong with them.” Mai says the agent also suggested getting a spray t an, so she’d look healthier.  A “spray tan” is where you go to a place and they bas ically paint your body; they spray this chemical to make your skin look darker.  So you don’t have to go out into the sun and sit in the sun; you can just have someone spray paint on you – a kind of chemical, it’s not paint.  It makes you loo k as though you had gone sun tanning.  This has become very popular here in Los Angeles with celebrities – with actors and actresses.  I do not have a spray t an, so I guess I’m not a celebrity!  
+
+ The agent thought it – the spray tan – would make M ai look healthier.  Leo says, “You already look healthy.  Is she (this agent) cra zy?”  Mai says, “No, I think she’s giving me good constructive criticism.”  “Cri ticism” is when you tell someone what they are doing wrong.  “Constructive c riticism” is telling someone what they are doing wrong, but you are telling them  so that they can improve it, to make it better.  You’re telling them yes, you’re  doing that wrong, but if you do this you can do it better or you can improve the wa y you are doing it.  So if someone says, “You’re ugly,” well, that’s criticism .  But if they say, “You’re ugly, but if you had more hair on your head, then you wou ld be less ugly.”  That’s what people tell me all the time!   
+
+So, Mai is getting what she thinks is constructive criticism from her agent.  She says, “I want to make myself as salable as possible .”  Leo says, “It sounds like (this agent) wants to stamp out all of your individ uality and turn you into a clone of every other actress out there.”  Leo says, “It s ounds like (meaning it appears to me or it seems to me) that (your agent) wants to st amp out all of your individuality.”  “To stamp out” is a two-word phras al verb meaning to end or eliminate something, to get rid of something.  What  the agent wants to get rid of – to eliminate – is Mai’s individuality.  “Individual ity” means the things that make you special, unlike anyone else, the things that ma ke you unique.  Instead, this agent wants to turn Mai into – to change her into –  a clone of every other actress out there.  A “clone” (clone) in this case means an  exact copy of another person. You will look just like the other person, dress lik e them, talk like them, and so forth.  The agent wants Mai to look like all of the  other beautiful Hollywood actresses; she will be a clone of all the other act resses out there.  “Out there” just means working right now; in existence.   
+
+Mai says, “I was thinking of taking her advice.  I want to be salable.”  Leo says, “You’re a person, not a piece of meat.”  He means t hat she’s not an object; she isn’t selling herself.  She shouldn’t be trying to just sell herself; she should realize that she’s a unique individual, a human being.  Leo  says, “Salable, schmalable! Don’t you even think about it!”  The word “schmalab le” isn’t a real word.  What Leo is doing is using the sound “schm” (schm), whic h is very common in Yiddish words, and attaching it to English to create a word  to be funny, to make a word sound like as if it were Yiddish.  Yiddish, as you may know, is a language that is spoken; it is a form of German, but was popular and  still is in some areas among those who are of the Jewish religion.  At least tha t’s its association.  The word “Yiddish” actually means Jewish.  Several early Ame rican comedians in the 20 th century were associated with Yiddish culture, the Y iddish language and used it. One of those was a man by the name of Leo Rosten, w ho wrote a couple of very  
+
+funny books that I remember reading when I was in h igh school.  The Joy of Yiddish  I think one of them was called.   
+
+Anyway, our Leo is using a little Yiddish joke here .  He’s saying, “Salable, schmalable.”  What it means is that you are saying that’s not important or that’s not something we should worry about.  For example y ou could say, “I have to read a bunch of books,” and your friend says, “Ah, books, schmooks!  Stop it, we need to go have fun.”  The “schmooks” means that th e books aren’t important. It’s one of those strange changes that native speak ers will sometimes make to their own language to make it funny.  I think most languages have similar strategies in making funny expressions, and this is  just another one of those. 
+
+Anyway, Leo says, “Don’t even think about it.”  Tha t expression is used to warn someone that this is a very bad idea.  Leo thinks i t’s a bad idea for Mai to try to change her physical appearance just so she can be m ore salable – kind of like that old Billy Joel song, [Jeff sings] “Don’t go ch anging to try and please me.” Remember that one?  No?  Okay. 
+
+Well, now we’ll listen to the dialogue, this time a t a normal speed. 
+
+[start of dialogue] 
+
+Leo:  Where have you been? 
+
+Mai:  I’ve been meeting with an agent.  You know I’ ve wanted to pursue a career in acting for a long time, but today I actually met  with a real agent.  She thinks I have potential. 
+
+Leo:  Is she going to sign you? 
+
+Mai:  She might.  She suggested a few improvements that are going to make me more salable as an actress. 
+
+Leo:  What did she suggest? 
+
+Mai:  Well, she thought I should get some hair exte nsions to make my hair look longer and fuller. 
+
+Leo:  There’s nothing wrong with your hair. 
+
+ Mai:  Well, she thought it could use some sprucing up.  She also recommended getting my teeth capped.  At the very least, she sa id I should have teeth whitening done. 
+
+Leo:  Your teeth look nice and natural.  There’s no thing wrong with them. 
+
+Mai:  She also suggested getting a spray tan, so I’ d look healthier.   
+
+Leo:  You already look healthy.  Is she crazy? 
+
+Mai:  No, I think she’s giving me good constructive  criticism.  I want to make myself as salable as possible. 
+
+Leo:  It sounds like she wants to stamp out all of your individuality and turn you into a clone of every other actress out there.   
+
+Mai:  I was thinking of taking her advice.  I want to be salable. 
+
+Leo:  You’re a person, not a piece of meat.  Salabl e, schmalable!  Don’t you even think about it! 
+
+[end of dialogue] 
+
+If you want to stamp out all of your problems in En glish just keep listening to the wonderful scripts by our own scriptwriter, the wond erful Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

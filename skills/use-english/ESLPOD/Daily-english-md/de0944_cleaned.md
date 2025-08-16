@@ -1,0 +1,80 @@
+# Working as an Intern
+
+Welcome to English as a Second Language Podcast num ber 944 – Working as an Intern.  
+
+This is English as a Second Language Podcast episod e 944. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California . . . even though  that wasn't very beautiful.  
+
+Our website is beautiful. Go to ESLPod.com. Become a member of ESL Podcast and download a Learning Guide for this episode.  
+
+This episode is a dialogue between Jonas and Crysta l about working as an intern in a company. Let’s get started.  
+
+[start of dialogue] 
+
+Jonas: How’s your new job? 
+
+Crystal: It’s not a job exactly. It’s an internship . 
+
+Jonas: Oh, so you’re working as somebody’s lackey a nd getting paid a pittance. 
+
+Crystal: No, not exactly. I’m doing a lot of scut w ork and I’m not getting paid a lot, but I’m getting very valuable on-the-job experience . 
+
+Jonas: Sure you are. You’re learning how to fetch c offee and run errands. Yippee! You don’t have to tell me any more. I know all about it. It’s slave labor. 
+
+Crystal: No, it’s not! I’m shadowing one of the man agers part of the day and I sit in on important meetings all the time. My mentor sh ows me how things are done in the business world and gives me great career adv ice. 
+
+Jonas: Well, then you’re lucky. Most interns who wo rk for our company learn diddly-squat and spend their time doing menial work . Some of them are even unpaid. What a racket! 
+
+Crystal: In that case, I’m glad I don’t work for yo ur  company! 
+
+[end of dialogue] 
+
+Our dialogue begins with Jonas asking Crystal, “How 's your new job?” Crystal says, “It's not a job exactly. It's an internship.”  When we say something isn't “exactly this” or “exactly that,” we’re saying that  it doesn't quite meet the full definition of whatever it is that we are trying to describe it as. Sometimes, we even use it with a little bit of sarcasm, trying to  make a joke: “Exercise isn't exactly fun, but it's good for your body.” Here, it 's being used more in the sense that the word that Jonas uses is not precisely or c ompletely correct. Jonas asked Crystal how her new job is, and Crystal says, “It's  not a job exactly.” That means it doesn't meet the definition of a job.  
+
+Instead, she says, “It's an internship.” An “intern ship” (internship) is a temporary position, typically in a business or an organizatio n, usually one that you don't get paid for. The purpose of internships is to give peo ple who don't have a lot of experience, especially students in college, a way o f learning more about the area that interests them, the kind of business that inte rests them. Internships are very popular for college students and for those who rece ntly graduated from college.  
+
+Jonas says, “Oh, so you're working as somebody’s la ckey and getting paid a pittance.” A “lackey” (lackey) is an older term for  a servant, someone who performs tasks for another person, usually things t hat aren’t very difficult or that don't require a lot of intelligence. A “lackey” is always someone who works for another person. It's definitely an insulting term. “To get paid a pittance” (pittance) is to receive a very small amount of money. A “pitt ance” is a very small amount of something, almost nothing. We often use that when t alking about how much someone gets paid or how much money they got from a  certain activity. If it's a very small amount, we might call it a pittance.  
+
+Crystal says, “No, not exactly,” meaning, once agai n, she's not exactly a lackey and getting paid a pittance, although there might b e some truth to that description. She says, “I'm doing a lot of scut wor k and I'm not getting paid a lot, but I'm getting very valuable on-the-job experience .” The expression “scut (scut) work” is used to describe work that is boring – wor k that is repetitive, that doesn't change. It's the same every day, every hour, even. “Scut work” is definitely the kind of work that you don't want to do but someone has to do.  
+
+“On-the-job experience” is professional experience you get working at a job, not studying in school. “On-the-job” simply means “whil e you are working.” Jonas says, “Sure you are.” Jonas is joking here. He's be ing sarcastic. Crystal is saying that she's getting valuable on-the-job experience, even though she doing a lot of scut work and not getting paid very much. Jonas doe sn't really believe what Crystal says when she says she's getting this on-th e-job experience.  
+
+Jonas says, “You're learning how to fetch coffee an d run errands.” “To fetch” (fetch) means to go get something for someone and b ring it back to them. “To fetch” means to obtain. It's often used when talkin g about a dog going and fetching something, some object, and bringing it ba ck to his owner. The classic example of this would be having the dog fetch your newspaper. When your newspaper is delivered to your house in the morning , you could send your dog out to fetch it. I don't have a dog, so I fetch my own newspaper.  
+
+Jonas is talking about “fetching coffee,” meaning g etting coffee for the bosses, and he also mentions the task of “running errands.”  An “errand” (errand) is something you have to do away from your house or wh ere you are working. “To run an errand” means to go to, for example, somewhe re like the post office or a grocery store or the pharmacy, when you have, usual ly small things that you need to do, at some place away from where you are w orking or living. “Errands” are usually things that aren’t very important and d on't take that much time to complete. We use the verb “to run” with the noun “e rrands.” We talk about “running errands” – that means going and doing diff erent things outside of your house. 
+
+“Yippee!” says Jonas. “You don't have to tell me an y more. I know all about it. It's slave labor.” Jonas uses the word “yippee” (yippee) . This is a word that is used to show excitement, to show joy, to show happiness. Ho wever, nowadays it's used mostly by people who are joking, who are being sarc astic. “I went to Las Vegas and gambled and I won ten dollars. Yippee!” I'm bei ng sarcastic there, since winning ten dollars isn't something you would norma lly celebrate or be really happy about, although I guess it's better than losi ng ten dollars. Most people lose a lot more when they go to places like Las Vegas to  gamble.  
+
+But in our story, there's no gambling. There is jus t what Jonas calls “slave labor.” A “slave” (slave) is a person who is owned by anoth er person, who is treated as property, as a thing that you would own. “Slave lab or” would be work done by slaves. Once again, Jonas isn't saying that Crystal  is literally – actually – a slave, but she is working under conditions like a slave. S he is working basically for little or no pay.  
+
+Crystal disagrees. She says, “No, it's not!” – it's  not slave labor – “I'm shadowing one of the managers part of the day, and I sit in o n important meetings all the time.” “To shadow” (shadow) here means to follow a person around to see what they do during the day. This is popular in some com panies with some internships. Young college students are allowed to come into the building and follow a boss, follow an executive, around during t he day to see what he or she does. They probably don't shadow them to the bathro om . . . I don't think.   
+
+ Crystal says she sits in on important meetings. “To  sit in on” means to go to a meeting but not actually be a participant – to go t o a meeting or an event but not actually participate in the event. You’re just obse rving. Crystal says that her mentor shows her “how things are done in the busine ss world” and gives her “great career advice.” Her mentor gives her suggest ions about what to do in her future life as an employee or as a worker.  
+
+Jonah says, “Well, then you're lucky. Most interns who work for our company learn -squat.” “Diddly (diddly) -squat (squat)” is an old, somewhat funny term meaning little or nothing. “I didn't do diddly-squa t today.” That means I didn't do hardly anything. Don't tell my boss. Jonas says tha t the interns at his company “learn diddly-squat” – that is, nothing – “and spen d their time doing menial work.” “Menial” (menial) is something that is not very imp ortant, that doesn't require very much skill. Jonas says, “Some of them” – some of th e interns – “are even unpaid,” meaning they don't receive any money for w orking at the company.  
+
+Finally, he says, “What a racket!” The expression “ What a racket” (racket) is used to talk about something that is either illegal or u nethical, something that involves cheating another person, typically. Jonas is saying  that his company is cheating the employees by making them work and do things tha t aren’t very important and not paying them. Crystal says, “In that case, I'm g lad I don't work for your company!” Crystal says if what Jonah says is true a bout his company, she's glad she doesn't work for his company. She's glad that s he's an intern at a different company. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Jonas: How’s your new job? 
+
+Crystal: It’s not a job exactly. It’s an internship . 
+
+Jonas: Oh, so you’re working as somebody’s lackey a nd getting paid a pittance. 
+
+Crystal: No, not exactly. I’m doing a lot of scut w ork and I’m not getting paid a lot, but I’m getting very valuable on-the-job experience . 
+
+Jonas: Sure you are. You’re learning how to fetch c offee and run errands. Yippee! You don’t have to tell me any more. I know all about it. It’s slave labor. 
+
+Crystal: No, it’s not! I’m shadowing one of the man agers part of the day and I sit in on important meetings all the time. My mentor sh ows me how things are done in the business world and gives me great career adv ice. 
+
+Jonas: Well, then you’re lucky. Most interns who wo rk for our company learn diddly-squat and spend their time doing menial work . Some of them are even unpaid. What a racket! 
+
+Crystal: In that case, I’m glad I don’t work for yo ur  company! 
+
+[end of dialogue] 
+
+Our scriptwriter doesn't sit around doing diddly-sq uat. She's working. She's writing scripts. Thank you, Dr. Lucy Tse, for your wonderful scripts. 
+

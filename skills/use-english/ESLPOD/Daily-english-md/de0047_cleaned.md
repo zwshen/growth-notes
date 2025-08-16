@@ -1,0 +1,114 @@
+# Teamwork
+
+Welcome to English as a Second Language Podcast num ber 47 – Teamwork. 
+
+This is English as a Second Language Podcast episod e 47. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+In this episode, we're going to discuss getting alo ng with people, whether at work or at school. Let’s get started.  
+
+[start of dialogue] 
+
+Jeff: So, does that sound okay with you?  
+
+Lucy: What? Oh, I'm sorry. I didn't hear what you s aid.  
+
+Jeff: You seem preoccupied today. What's up? 
+
+Lucy: Oh, it's this guy I know from this class I'm taking. His name is Richard. I think I've mentioned him before. 
+
+Jeff: Yeah, sure, the guy you're working on a proje ct with, right? 
+
+Lucy: Yeah, that's him. The four of us are supposed  to be working as a team on this project, and I'm having a lot of trouble deali ng with him. 
+
+Jeff: What do you mean? 
+
+Lucy: Well, he doesn't know how to express his opin ion without putting other people down. And, he always has to be right. 
+
+Jeff: He sounds a little immature.  
+
+Lucy: Yeah, I think it's partly that. He doesn't kn ow how to be diplomatic with people. 
+
+Jeff: He doesn't know how, or he doesn't want to? 
+
+Lucy: I don't know, but I do know that sometimes he  really gets the better of me.  
+
+Jeff: Well, he sounds pretty hard to get along with . Are the other people in your group feeling the same way? 
+
+Lucy: Yeah, in fact, they're fed up with him. I kee p having to run interference when our discussions get too heated. Actually, I fe el really sorry for the guy. He doesn't seem to have too many friends, and he alway s seems so unhappy.  
+
+Jeff: Well, I think you're helping just by putting up with him.  
+
+Lucy: Thanks for trying to make me feel better. Ok,  now what were you saying? 
+
+[end of dialogue] 
+
+Our dialogue begins with me saying to Lucy, “So, do es that sound okay with you?” The expression “to sound (sound) okay with so meone” or “to someone” means “Does it seem like a good idea?” Do you think  this is acceptable? Does it sound okay? Lucy says, “What? Oh, I'm sorry. I didn 't hear what you said.” Lucy, of course, is not paying attention to what I am say ing. This happens all the time.  
+
+I say, “You seem preoccupied today. What's up?” “To  be preoccupied” (preoccupied) means to be distracted, not to be foc used on what you are doing – thinking about something else instead of what you s hould be thinking about. That's being “preoccupied.” The word “occupied” mea ns to be busy. “To be preoccupied” means to be busy in your mind, thinkin g of lots of different things, too busy to focus on what you should be doing. Jeff  then says – and that's me – “What's up?” meaning “What's going on?”  
+
+Lucy says, “Oh, it's this guy I know from this clas s I'm taking.” Now, we learned that Lucy is a student and she's thinking about a g uy – a man – in this case from her class that she is taking, that she is studying in. She says, “His name is Richard. I think I've mentioned him before.” I say,  “Yeah sure, the guy you're working on a project with, right?” – the person tha t you are working on some sort of project for the class with. Lucy says, “Yeah, th at's him. The four of us are supposed to be working as a team on this project, a nd I'm having a lot of trouble dealing with him.”  
+
+So, there are four people in this group that are su pposed to be working on a project together, perhaps writing a paper – writing  an essay or something similar. She says that she's “having a lot of trouble dealin g with” Richard. “To deal with” someone is a phrasal verb meaning to handle someone , to manage someone, to be able to get along with and work with someone or some problem. We will  
+
+sometimes say, “I need to deal with this problem ri ght now.” That means “I need to work on this problem – manage it, solve it.”  
+
+I then say to Lucy, “What do you mean?” What are yo u trying to tell me, Lucy? Lucy says, “Well, he doesn't know how to express hi s opinion without putting other people down.” “To put other people down” or “ to put down other people” means to criticize them, to insult them by talking as though they weren't as good as you. When you “put someone down,” you are saying  they are not as good as you. You are saying something mean or critical abou t that person. Don't confuse this with “putting down” an animal. “To put down” a n animal means to kill the animal. We’re not talking about killing anyone here . Not yet.  
+
+Lucy says that Richard “always has to be right.” So meone who “always has to be right” always has to be the person who is correct i n any situation or any discussion. So, if you are married or have a girlfr iend, for example, you learn very quickly that your wife or girlfriend is always righ t. If you don't learn that quickly, you won't have a wife or girlfriend for a very long  time. Well, back to the story. I say that Richard “sounds a little immature.” “To be  immature” (immature) is to be not mature. “To be mature” means to be grown-up, to  be an adult, to act responsibly like an adult, like a person who is old er. “To be immature” means to act like a child – not to do things that you would expect from someone over the age of 18 or 21.  
+
+Lucy says, “Yeah, I think it's partly that.” That's  part of the reason. She says, “He doesn't know how to be diplomatic with people.” “To  be diplomatic” (diplomatic) means to be polite, to be nice, to be sensitive, to  be able to talk to people in a way that everyone is happy – in a way that doesn't anger anyone. That’s to be diplomatic. The adjective comes from the noun “dipl omat,” who is a person who goes, usually, to another country, representing his  or her own country. An “ambassador” would be an example of a diplomat.  
+
+Well, unfortunately, Richard is not very diplomatic , according to Lucy. I say, “He doesn't know how, or he doesn't want to?” What I'm saying here is that, is it the case that Richard doesn't know how to be diplomatic , or that he knows how but he doesn't want to be diplomatic? 
+
+Lucy says, “I don't know, but I do know that someti mes he really gets the better of me.” “To get the better (better) of” someone mea ns to defeat them, to win against them. That would be “to get the better of s omeone.” A situation could get the better of you. This heat is getting the better of me. It's making me tired and hot and angry. Well, not angry. Sometimes heat make s people angry, though – at least, it doesn't help. Cold can also make people a ngry.   
+
+ I continue by saying, “Well, he sounds pretty hard to get along with.” I'm saying that Richard appears to be a person who is difficul t to get along with, to be friends with, to work with. I then ask, “Are the ot her people in your group feeling the same way?” Do they have the same opinion? Lucy says, “Yeah,” which is an informal way of saying yes. “In fact, they're fed u p with him.” ”To be fed (fed) up with” someone is a phrasal verb meaning to be tired  of someone – to be bothered or annoyed by a person or situation. You d on't want to tolerate it anymore. You can't take it anymore, we might say. 
+
+Lucy says the other people in her group are “fed up  with Richard.” She says, “I keep having to run interference when our discussion s get too heated.” “To run interference” means to try to prevent people from f ighting, to calm people down who are arguing about something, especially people who may be difficult to deal with. When we say a discussion gets “heated” (heate d), we mean it becomes intense. It becomes an argument with strong emotion s that people begin to express – maybe people are yelling at each other, s houting at each other.  
+
+Lucy says, “Actually, I feel really sorry for the g uy.” “To feel sorry for” someone means to feel upset for someone because of the situ ation that person is in. If I feel sorry for you, I am empathetic. I am thinking about you and understanding that you are going through a difficult situation. L ucy says, “Richard doesn't seem to have too many friends” – that is, very many frie nds. I say, “Well, I think you're helping just by putting up with him.” “To put up wi th” someone or some situation means to tolerate – to accept – a situation even th ough you're not very happy about it.  
+
+At the end of the dialogue, Lucy then thanks me. Sh e says, “Thanks for trying to make me feel better. Okay, now what were you saying ?” She's asking me to repeat what I was saying to her at the beginning of  the dialogue.  
+
+Now let's listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Jeff: So, does that sound okay with you?  
+
+Lucy: What? Oh, I'm sorry. I didn't hear what you s aid.  
+
+Jeff: You seem preoccupied today. What's up? 
+
+Lucy: Oh, it's this guy I know from this class I'm taking. His name is Richard. I think I've mentioned him before. 
+
+Jeff: Yeah, sure, the guy you're working on a proje ct with, right? 
+
+Lucy: Yeah, that's him. The four of us are supposed  to be working as a team on this project, and I'm having a lot of trouble deali ng with him. 
+
+Jeff: What do you mean? 
+
+Lucy: Well, he doesn't know how to express his opin ion without putting other people down. And, he always has to be right. 
+
+Jeff: He sounds a little immature.  
+
+Lucy: Yeah, I think it's partly that. He doesn't kn ow how to be diplomatic with people. 
+
+Jeff: He doesn't know how, or he doesn't want to? 
+
+Lucy: I don't know, but I do know that sometimes he  really gets the better of me.  
+
+Jeff: Well, he sounds pretty hard to get along with . Are the other people in your group feeling the same way? 
+
+Lucy: Yeah, in fact, they're fed up with him. I kee p having to run interference when our discussions get too heated. Actually, I fe el really sorry for the guy. He doesn't seem to have too many friends, and he alway s seems so unhappy.  
+
+Jeff: Well, I think you're helping just by putting up with him.  
+
+Lucy: Thanks for trying to make me feel better. Ok,  now what were you saying? 
+
+[end of dialogue] 
+
+Thanks to our great scriptwriter, Dr. Lucy Tse, for  all of her hard work. And thanks to you for listening. 
+
+From Los Angeles, California, I'm Jeff McQuillan. C ome back and listen to us again here on ESL Podcast. 
+

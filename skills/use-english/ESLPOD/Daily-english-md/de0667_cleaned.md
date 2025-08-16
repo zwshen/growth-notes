@@ -1,0 +1,80 @@
+# Trying to Remember
+
+Welcome to English as a Second Language Podcast num ber 667: Trying to Remember. 
+
+This is English as a Second Language Podcast episod e 667.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California, where the sun is  shining and there are no clouds in the sky. 
+
+Go to our website at eslpod.com and download a Lear ning Guide for this episode to help you improve your English – and to have a li ttle more sunshine in your life! 
+
+This episode is a dialogue between Randal and Marjo rie.  It’s about trying to remember something, phrases related to when you for get something, something that happens to…um…well…let’s get started. 
+
+[start of dialogue] 
+
+Randal:  Hurry up.  Rob will be here any minute. 
+
+Marjorie:  I can’t remember the combination to this  lock.   
+
+Randal:  I thought you knew it by heart. 
+
+Marjorie:  It’s on the tip of my tongue, but I can’ t seem to remember the last two digits.  It’s 73 or 63 or 38…  
+
+Randal:  You said you had it down cold! 
+
+Marjorie:  I do know it, but it’s just slipped my m ind.  I’ll figure it out.  I used a mnemonic to remember those last two digits.  I just  need to jog my memory.  The last digits have to do with my birthday, or is it R ob’s birthday…   
+
+Randal:  I only let you in on this little joke we’r e going to play on Rob because you said you knew the combination to the lock on hi s bike.  I should have known you were lying through your teeth. 
+
+Marjorie:  I wasn’t lying.  I really do know it.  I f you’ll just stop talking so I can concentrate…  
+
+Randal:  Too late.  Here comes Rob.  Run for your l ife, if you know what’s good for you! 
+
+[end of dialogue]  
+
+Randal says to Marjorie, “Hurry up.”  “Hurry up” is  a two-word phrasal verb meaning to do something more quickly than what you are doing now, to rush, to do it faster.  Randal is telling Marjorie to hurry up, meaning finish what she is doing faster, because Rob will be here any minute –  Rob will be here soon. 
+
+Marjorie says, “I can’t remember the combination to  this lock.”  A “lock” is a device, something you use to make sure no one opens  or goes in a certain place. You can have a lock on your door so that no one can  open your door without having a key.  You can also have a lock on a bicycl e, and often those locks don’t have keys.  They have instead what’s called a “comb ination.”  The “combination” is the series of numbers that you need to know, and  you turn a little wheel back and forth to these numbers, and when you go to the right numbers – the right combination – then the lock will open.  “Combinatio n” has some other meanings as well; take a look at our Learning Guide for some  additional explanations.   
+
+Randal says, “I thought you knew it by heart.”  “To  know (something) by heart” means to have something memorized, to be able to sa y it without reading it.  We often know our passwords by heart, or at least some  of them.  You may know the names of all of your cousins by heart.  I sure don’ t; I have too many.  I barely know the names of my brothers and sisters.  I do kn ow my wife’s name – usually! 
+
+Well, Randal says to Marjorie, “I thought you knew (this combination to the lock) by heart.”  Marjorie says, “It’s on the tip of my t ongue.”  The “tip” is the end part of something in this case.  But the expression “to be on the tip of your tongue” means that you normally remember but you have tempo rarily forgotten it.  You think you will be able to remember it soon, but you  can’t think of it at this very moment – right now.  Marjorie says, “I can’t seem t o remember the last two digits,” which in this case means numbers.  She say s, “It’s 73 or 63 or 38…” Randal then says, “I thought you had it down cold!”   “To have (something) down cold” is the same as knowing it by heart; it means to memorize it, you memorize it so well you will never forget it 
+
+Marjorie says, “I do know it, but it’s just slipped  my mind.”  When we say something “slips (slips) your mind” we mean you nor mally remember it but you are not able to remember it right now.  It’s simila r to “being on the tip of your tongue.”  However, we often use “it slipped my mind ” when we are talking about things that we forgot, such as an appointment.  “I was supposed to got to the  
+
+doctor today, but I got very busy at my work and it  slipped my mind.”  I forgot it; I did not remember it.  Marjorie says, “I’ll figure i t out (I’ll somehow remember and solve this problem).”  She says, “I used a mnemonic  to remember those last two digits.”  A “mnemonic” (mnemonic – notice the first  letter, “m”, is silent; you do not pronounce it) is a mental trick, I guess we could s ay, to remember something, often something that is sort of silly or unusual.  Or, it could be a song or an expression that somehow helps you remember somethin g else.  That’s what Marjorie says she used to remember the last two dig its, or two numbers, of the combination to the lock.  She says, “I just need to  jog (jog) my memory.”  “To jog your memory” means to do something that helps you r emember something. Sometimes, for example, I go into the kitchen from the living room of my house wanting to get something and I forget what it is I was going to get.  So I go back into the living room, where I had originally though t of it, and sometimes just being in that same place jogs my memory.  Or you may have  other things that jog your memory.  You may be listening to the radio and they  have an announcement about healthcare, and you think, “Oh, yeah.  I have  to pay my health insurance this month.”  That story on the radio jogged your m emory.  Marjorie says, “The last digits have to do with my birthday, or is it R ob’s birthday…”  “To have to do with (something)” means to be related to or connect ed to something.  You might say, “This book has to do with the American Revolut ion,” that’s what it is about, that is what it is connected or related to.  In thi s case, the numbers are somehow related to Marjorie’s birthday; but she isn’t sure,  maybe it was Rob’s birthday.   
+
+Randal then says, “I only let you in on this little  joke we’re going to play on Rob because you said you knew the combination to the lo ck on his bike.”  “To let (someone) in on (something)” is an expression that means to let someone know about something secret.  In fact, sometimes we use the phrase “I’m going to let you in on a little secret,” I’m going to tell you s omething that no one else knows. Randal says that he only let Marjorie in on this jo ke that they are going to “play on” Rob, meaning they are going to do to Rob, “beca use you said you knew the combination to lock on his bike.”  So they’re going  to play some trick, we might call it a “prank” (prank), on Rob, do something tha t they think will be funny. Randal says, “I should have known you were lying th rough your teeth.”  “To lie through your teeth” means to say something with a l ot of confidence that you know is not true.  It’s something that is very bold , we might say, something that is perhaps a very big lie but you say it confidently.  In other words, Randal thinks Marjorie was lying – was not telling him the truth – when she told him that she knew the combination to Rob’s bike lock.   
+
+Marjorie says, “I wasn’t lying.  I really do know i t.  If you just stop talking so I can concentrate…”  “To concentrate” means to focus, to think very clearly about something and not be distracted, not think about ot her things that you shouldn’t  
+
+be worrying about right now.  Randal says, “Too lat e (meaning it’s too late).  Here comes Rob.”  So Rob is now arriving to wherever Ran dal and Marjorie are. Randal says, “Run for your life, if you know what’s  good for you!”  “To run for your life” means to run as quickly as you can, as f ast as you can.  The idea is if you don’t you might be killed; you might lose your life.  Normally it’s not that serious.  We use this expression to mean to run ver y quickly, to get away from somewhere as fast as you can.  Randal says to Marjo rie, “Run for your life, if you know what’s good for you!”  That phrase is used to show that your advice – what you are telling them or recommending to them – is s omething that will help them, they will benefit from your advice.  “If you know w hat’s good for you,” you’re saying what I am telling you will help you, it will  be a good thing for you. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Randal:  Hurry up.  Rob will be here any minute. 
+
+Marjorie:  I can’t remember the combination to this  lock.   
+
+Randal:  I thought you knew it by heart. 
+
+Marjorie:  It’s on the tip of my tongue, but I can’ t seem to remember the last two digits.  It’s 73 or 63 or 38…  
+
+Randal:  You said you had it down cold! 
+
+Marjorie:  I do know it, but it’s just slipped my m ind.  I’ll figure it out.  I used a mnemonic to remember those last two digits.  I just  need to jog my memory.  The last digits have to do with my birthday, or is it R ob’s birthday…   
+
+Randal:  I only let you in on this little joke we’r e going to play on Rob because you said you knew the combination to the lock on hi s bike.  I should have known you were lying through your teeth. 
+
+Marjorie:  I wasn’t lying.  I really do know it.  I f you’ll just stop talking so I can concentrate…  
+
+Randal:  Too late.  Here comes Rob.  Run for your l ife, if you know what’s good for you! 
+
+[end of dialogue]  
+
+ If you’re a regular listener to ESL Podcast you sho uld know the name of our scriptwriter by heart; you should have it down cold .  If you don’t, let me jog your memory.  Her first name is Lucy.  That’s right, it’ s Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m…I forget who I am .  Thank you for listening. Come back and listen to us again on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

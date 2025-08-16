@@ -1,0 +1,84 @@
+# Using a Video-Sharing Website
+
+Welcome to English as a Second Language Podcast num ber 683: Using a Video-Sharing Website. 
+
+This is English as a Second Language Podcast episod e 683.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website, you know, it’s eslpod.com.  Go there, you know what to do. 
+
+This episode is called “Using a Video-Sharing Websi te.”  Let’s get started. 
+
+[start of dialogue] 
+
+Melissa:  You’re looking at the next overnight sens ation.  I’m uploading my video right now, and by this time tomorrow, I wouldn’t be  surprised if it’s had over 100,000 views.  It’s going to go viral.   
+
+Frank:  You and your amateur videos.  Who is going to watch something with such low production value? 
+
+Melissa:  You’d be surprised.  I have my own channe l on YouGube, with over 5,000 subscribers. 
+
+Frank:  Are you sure that’s not because your userna me is AngelinaJolie? 
+
+Melissa:  No, it’s because people enjoy my videos, mark them as their favorites, and share them with their friends.  Word of mouth –  that’s why I’m so popular. 
+
+Frank:  But what about the comments on your videos?   How many of those are positive and how many are negative? 
+
+Melissa:  I don’t read the comments.  I assume they ’re all positive, and my videos have never been flagged.   
+
+Frank:  All right, so is this another video of you dancing with your cat? 
+
+Melissa:  No, my cat and I are dancing and singing.   That’s why we’re both going to be the next big thing.   
+
+Frank:  Right, I’ll get in line right now to buy ti ckets to your upcoming Vegas show. 
+
+[end of dialogue] 
+
+Our dialogue begins with Melissa saying to Frank, “ You’re looking at the next overnight sensation.”  “Overnight” (one word) means  from today till tomorrow, in 24 hours.  If a company says we’ll deliver that to you overnight that means it will be there the next day.  “Overnight,” however, can a lso mean very quickly, suddenly.  This is the meaning that Melissa has in mind when she says “the next overnight sensation.”  A “sensation” here means som ething that is very popular; something that has become very popular very quickly  is called an “overnight sensation.”  Melissa says, “I’m uploading my video right now.”  “To upload” (upload – one word) means to move a file from a com puter – a computer’s hard drive – up to another computer on the Internet or o n a network of computers. Melissa says that by this time tomorrow, in 24 hour s, “I wouldn’t be surprised if it’s had over 100,000 views.”  She’s saying that sh e expects that her video will, in 24 hours, have 100,000 views.  A “view,” when we’re  talking about a video website, means that something has been watched by 1 00,000 people or 100,000 times.  Maybe one person watches it 100,000 times; I’m not sure exactly how that works.  But, 100,000 views usually means that 100,000 people have seen the video.  “It’s going to go viral,” Melissa says.   The expression “to go viral” (viral) means something becomes very popular on the  Internet very quickly.  Like a virus causes illness – sickness to spread quickly  from one person to another, “viral” means something moves very quickly on the I nternet; it becomes popular very quickly.   
+
+Frank says, “You and your amateur videos.”  “Amateu r” is the opposite of “professional,” something done by someone who isn’t  getting any money for it typically.  Also, it means not very good, not very sophisticated.  That’s the idea that Frank is saying; he’s saying that you are maki ng another amateur video. “Who’s going to watch something with such low produ ction value?”  “Production value” is the quality of the video or the quality o f the movie.  It could be the sound, it could be the way it looks, the special ef fects.  All of these are part of the production value.  “Production” comes from the word  “produce,” meaning to make.  “Value,” here, is how good or bad it is.  It ’s a term you hear a lot in Los Angeles when people talk about movies and films: “p roduction value.”   
+
+Melissa says, “You’d be surprised.”  That expressio n “you’d be surprised” means you will be surprised at the quality of my video.  She says, “I have my own channel on YouGube, with over 5,000 subscribers.”  A “channel” here is a group of things that are related to each other; it typica lly refers to something on the  
+
+radio or the television that is created and can be found in the same place every time.  On video-sharing sites, this one is called “ YouGube,” similar I think to YouTube, you can have your own channel.  So, you ca n put all of your videos in one place and people can find them easily.  They ca n also “subscribe” to your channel, meaning every time you put a new video on your channel they get an email telling you hey, there’s a new video on this person’s channel.  A “subscriber” is someone who has signed up or paid t o receive copies of something such as a newspaper, a magazine, or in th is case emails on the Internet.  Notice when pronounced quickly, the word  “Internet” often loses that “t” in the middle when we say it quickly: “ Inernet ” instead of “Internet.” 
+
+Anyway, Frank says, “Are you sure that’s not becaus e your username is AngelinaJolie?”  A “username” (one word) is a name that you select for an email account or when you register or subscribe to someth ing on the Internet.  It’s a name that you can pick that doesn’t necessarily hav e to be your name.  One of my usernames is ESLPod; that’s not my name, but I c an use it as my username. That’s my username on Twitter; you can follow me on  Twitter if you want to. Frank says Melissa has a username of AngelinaJolie,  who you may know is a famous, beautiful actress who lives with another ac tor, some guy by the name of Brad…Brad…what is it?  Brad Pitt, yeah, Brad Pitt.  Who ever heard of him?   
+
+Anyway, AngelinaJolie is the username Melissa uses,  and of course people would subscribe to her channel thinking that she wa s the real Angelina Jolie. Melissa says, however, “No,” that isn’t true.  She has 5,000 subscribers she says, “because people enjoy my videos, mark them as  their favorites, and share them with their friends.”  On many websites you can  indicate which things on the site are your favorite things, and that’s what Meli ssa is referring to.  People also share her videos; they send an email perhaps with a  “link” (the website address) so the person can then look at that video, or they put on their Facebook page or perhaps they put it on their Twitter feed by tweeti ng it.  Melissa says, “Word of mouth – that’s why I’m so popular.”  “Word of mouth ” is an expression that means that one person tells another person and then  they tell their friend and then that friend tells someone else, and pretty soo n you’re very popular because everyone has been telling everyone else.  Normally we use this expression to compare it to another way of getting people to come  to your website or go to your store, which would be a commercial on the televisio n for example, or in the newspaper.  But, “word of mouth” is advertising tha t takes place when one person tells another.  It doesn’t cost you any mone y; it’s the best kind of advertising.  Melissa says, “that’s why I’m so popu lar (that’s why everyone likes me).” 
+
+Frank says, “But what about the comments on your vi deos?”  A “comment” is something that you write to express your opinion, e specially on a website.  Frank asks, “How many of those (comments) are positive an d how many are negative?” Melissa says, “I don’t read the comments.  I assume  they’re all positive, and my videos have never been flagged.”  She thinks everyo ne loves her videos, but she doesn’t read their comments with their actual opini ons.  She says her videos have never been flagged.  “To be flagged” (flagged)  means to indicate that something on the Internet has either broken a rule for the website or is somehow unusual in some way.  So if you go to YouTube and y ou put up a video of a television program that is illegal, someone could f lag your video.  They could indicate to the owner of the website that you are d oing something wrong. 
+
+Frank says, “All right, so is this another video of  you dancing with your cat?” That’s Melissa’s video, her dancing with her cat.  Melissa says, “No, my cat and I are dancing and singing.  That’s why we’re both goi ng to be the next big thing.” “The next big thing” is the next thing that will be  very popular and well known among many people.  It’s the next, we might call it , “trend,” or “fad” (fad), something that’s popular for a while, but only brie fly – only for a short time, and then it’s not so popular.   
+
+Melissa says she thinks she and her cat will be the  next big thing.  Frank says, “Right,” but he says it in a way that really means wrong.  He says the word “right” meaning I don’t believe you.  So sometimes the mean ing of the word can be the opposite depending on how the person says it.  He s ays, “I’ll get in line (I’ll start waiting) right now to buy tickets to your upcoming Vegas show.”  “Upcoming” (one word) means happening in the near future, some thing that will be happening soon.  “Vegas” refers to the city of Las Vegas in N evada, about five hours by car east of Los Angeles.  It’s where you can go and see  a lot of famous singers, they have shows – they have performances that you go and  watch.  Frank, of course, is making a joke. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Melissa:  You’re looking at the next overnight sens ation.  I’m uploading my video right now, and by this time tomorrow, I wouldn’t be  surprised if it’s had over 100,000 views.  It’s going to go viral.   
+
+Frank:  You and your amateur videos.  Who is going to watch something with such low production value? 
+
+Melissa:  You’d be surprised.  I have my own channe l on YouGube, with over 5,000 subscribers. 
+
+Frank:  Are you sure that’s not because your userna me is AngelinaJolie? 
+
+Melissa:  No, it’s because people enjoy my videos, mark them as their favorites, and share them with their friends.  Word of mouth –  that’s why I’m so popular. 
+
+Frank:  But what about the comments on your videos?   How many of those are positive and how many are negative? 
+
+Melissa:  I don’t read the comments.  I assume they ’re all positive, and my videos have never been flagged.   
+
+Frank:  All right, so is this another video of you dancing with your cat? 
+
+Melissa:  No, my cat and I are dancing and singing.   That’s why we’re both going to be the next big thing.   
+
+Frank:  Right, I’ll get in line right now to buy ti ckets to your upcoming Vegas show. 
+
+[end of dialogue] 
+
+Why is ESL Podcast so popular?  Well, the big reaso n I think is our scriptwriter, the wonderful Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast.  A ngelina, call me! 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

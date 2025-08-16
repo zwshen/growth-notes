@@ -1,0 +1,74 @@
+# Preferring Different Work Styles
+
+Welcome to English as a Second Language Podcast epi sode 732: Preferring Different Work Styles.   
+
+This is English as a Second Language Podcast episod e 732.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Join us now on Facebook ; our Facebook address is Facebook.com/eslpod – makes sense!  You can get a L earning Guide for this episode on our website by becoming a member of ESL Podcast.  When you become a member, you get all the cool, secret stuff  that only members get like our Learning Guide. 
+
+This episode is a dialogue between Hugo and Melissa .  They’re going to talk about the way that people work – the style, the man ner that different people work, describing those different work styles that y ou might find at a job or in life generally.  Let’s get started. 
+
+[start of dialogue] 
+
+Hugo:  How do you like working with Leo?  Is it wor king out? 
+
+Melissa:  No, it’s not.  Our work styles completely  clash and we butt heads at every turn. 
+
+Hugo:  Really?  I thought you were partnered up bec ause you complemented each other’s strengths. 
+
+Melissa:  Yeah, but that doesn’t mean we can work w ell together.  I’m collaborative and like to talk things out.  Leo lik es to go solo.  He goes off on his own and comes back with a finished product, without  consulting with me at all.   
+
+Hugo:  Yeah, I’ve worked with Leo before and he lik es having autonomy, but he has to realize that the point of collaboration is t hat the sum is greater than the parts.  Two people pooling ideas will make the prod uct better. 
+
+Melissa:  That’s the idea, anyway.  Hey, I have a b etter idea.  What do you think of you and me teaming up?  We’re both collaborative .  We’d make a great team. 
+
+Hugo:  Yeah, but we also have the same skills.  Tha t’s why you’re working with Leo and I’m working with Lamar, remember? 
+
+Melissa:  Yeah, I remember.  I’m starting to think that collaboration is overrated. 
+
+[end of dialogue] 
+
+Hugo begins by saying, “How do you like working wit h Leo?”  He’s asking Melissa, “Is it working out?”  “To work out” is a t wo-word phrasal verb meaning, in this case, to be successful, to be effective, to be  the way that you hope or expect something to be.  “I hope this relationship works o ut with my girlfriend; I really like her.”  Or, “I hope my new job works out,” I hope th ings go well.  “To work out” can also mean to exercise at a gym, for example. 
+
+Melissa says, “No, it’s not (it is not working out) .  Our work styles completely clash and we butt heads at every turn.”  Oh dear, s adness here in our story. Melissa says that her work style and Leo’s work sty le completely clash.  “Work style” is the way that you work.  Some people like to work with other people, some people like to work alone, some people like to  do everything early, some people like to do everything at the very end, and s o forth.  When we say something “clashes” (clash), in this case it means the two things don’t go well together, they don’t match; they’re very different,  so it is a very bad combination of elements or of things.  “Clash” can have several  other meanings, and you can find those in the Learning Guide. 
+
+Melissa says that she and Leo butt heads at every t urn.  The phrase “to butt (butt) heads at every turn” means that you are alwa ys fighting, you’re often disagreeing about things, you’re constantly having arguments.  Hugo says, “Really?  I thought you were partnered up because y ou complemented each other’s strengths.”  “To partner up” is a phrasal v erb meaning to put people in groups of two for some purpose.  We might also say,  “to pair up.”  A teacher in a classroom might partner up the students to work on an activity: “Johnny, you work with Julie; and Bobby, you work with Billy,” a nd so forth.  Melissa and Leo in our story were partnered up because they complement ed each other’s strengths. “To complement” (complement) means to be a good mat ch or combination for someone or something.  If you like to draw and I li ke to write, and we have to make a children’s book, our talents – our abilities  complement each other.  They complete each other, you might think of it as.  “Co mpliment” can also be spelled with an “i” in the middle (compliment).  That “comp liment” is when you say something nice to someone: “You have beautiful red shoes on today my dear, my beautiful wife.”  I always compliment my wife on he r shoes and her hair, and that’s what a good husband does.  And if you want t o be a good husband, and  
+
+you don’t compliment your wife, well, you just need  to go back and study the book on how to become a good husband.  Unfortunatel y, they no longer make that book I think! 
+
+Anyway, our story talks about Melissa and Leo compl ementing each other’s strengths.  Your “strengths” are things that you do  well.  Melissa says, “Yeah, but that doesn’t mean we can work well together.  I’m c ollaborative and like to talk things out.”  “To be collaborative” means to do thi ngs as part of a team, to work well with other people.  “To talk things out” means  to talk about your ideas with another person so that you can get better ideas, or  perhaps you can become clearer in your thinking.  Someone who likes to tal k things out likes to have long conversations about something because they think th at will help them do a better job, and that’s what Melissa likes to do.  Leo is c ompletely different; “Leo likes to go solo.”  “To go solo” means to work by yourself.  “Solo” is one, or by yourself. Melissa says that Leo goes off on his own (meaning he goes somewhere else and works by himself) and comes back with a finishe d product (a completed project), without consulting with me at all.  “To c onsult (someone)” means to ask someone’s opinion before you do something or before  you make a decision.  Leo doesn’t consult with Melissa, he just does his proj ect without asking her opinion. 
+
+Hugo says, “Yeah, I’ve worked with Leo before and h e likes having autonomy.” “Autonomy” (autonomy) means independence, the abili ty to do things without having to ask other people for their opinion or for  their permission.  This word is often used in politics.  In certain countries there  are groups that want autonomy, or different parts of the country that want autonom y; they don’t want to be controlled by the national government.  Here in the  United States, each of our 50 states has a certain autonomy, things it can do by itself.  Hugo says that Leo has to realize that the point (or the purpose) of colla boration (of working with each other) is that the sum is greater than the parts.  This phrase, “the sum (sum) is greater than the parts,” while in some ways a logic al impossibility, is used to mean that people who work together are often able t o accomplish more than those people working by themselves.  It can also be  used, this phrase, to mean that a situation is very complicated and can’t be d escribed by individual elements or factors, or that when you put all those things t ogether you get something greater than what you would expect by just looking at the individual elements or parts.  So Hugo says that the point of collaboratio n is that the sum is greater than the parts.  “Two people pooling ideas will make the  product better.”  “To pool” (pool), used here as a verb, means to share or comb ine, to use two or more things together at the same time.  There are other meanings of the word “pool.” You can find out what they are by looking at the Le arning Guide for this episode. 
+
+Melissa says, “That’s the idea, anyway.  Hey, I hav e a better idea.  What do you think of you and me teaming up?”  “To team up” is a  phrasal verb meaning the same as to pair up, to partner up, to work with som eone else as a team.  Melissa says, “We’re both collaborative.  We’d make a great  team.”  Now, I’m not sure if Melissa actually wants to work with Hugo because he ’s a good worker.  Perhaps Melissa is interested in Hugo, and doesn’t like Leo .  You never know.  In an office, there are always these romantic attractions  or connections.   
+
+Melissa wants to work with Hugo.  Hugo says, “Yeah,  but we also have the same skills (we know how to do the same things; they don ’t complement each other). That’s why you’re working with Leo and I’m working with Lamar, remember?” Lamar is, I guess, another worker – a male worker.  Melissa says, “Yeah, I remember.  I’m starting to think that collaboration  is overrated.”  When we say something is “overrated” (one word), we mean that w e think of it more highly than it deserves to be, or we value it more highly than it deserves to be, than the actual or real value of something.  When people say  someone or something is “overrated,” they’re saying that people say it’s go od, they say it’s great, but it’s not as good as people say.  So for example: “That m ovie I saw last week was overrated.  Everyone said it was great, eh, it wasn ’t that great.”  Or, “This restaurant is overrated.  The food is good, but it’ s not great.” 
+
+Now let’s listen to the dialogue at a normal speed.  
+
+[start of dialogue] 
+
+Hugo:  How do you like working with Leo?  Is it wor king out? 
+
+Melissa:  No, it’s not.  Our work styles completely  clash and we butt heads at every turn. 
+
+Hugo:  Really?  I thought you were partnered up bec ause you complemented each other’s strengths. 
+
+Melissa:  Yeah, but that doesn’t mean we can work w ell together.  I’m collaborative and I like to talk things out.  Leo l ikes to go solo.  He goes off on his own and comes back with a finished product, without  consulting with me at all.   
+
+Hugo:  Yeah, I’ve worked with Leo before and he lik e to have autonomy, but he has to realize that the point of collaboration is t hat the sum is greater than the parts.  Two people pooling ideas will make the prod uct better. 
+
+Melissa:  That’s the idea, anyway.  Hey, I have a b etter idea.  What do you think of you and me teaming up?  We’re both collaborative .  We’d make a great team. 
+
+Hugo:  Yeah, but we also have the same skills.  Tha t’s why you’re working with Leo and I’m working with Lamar, remember? 
+
+Melissa:  Yeah, I remember.  I’m starting to think that collaboration is overrated. 
+
+[end of dialogue] 
+
+There’s nothing overrated about our scriptwriter; s he’s the best in the world of podcasting, Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

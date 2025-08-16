@@ -1,0 +1,112 @@
+# Describing Old and New Clothes
+
+Welcome to English as a Second Language Podcast number 5 14: Describing Old and New Clothes. 
+
+This is English as a Second Language Podcast episode 514.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode.  The Learning Guide contains all of the vocabu lary, definitions, sample sentences, additional definitions, cultural notes, compreh ension questions, and a complete transcript of everything we say on this episode.  You can also find out about becoming a member and supporting us here at ESL  Podcast, or you can also make a donation on our website. 
+
+This episode is a dialogue between Ellen and Hiro.  It ’s going to be using vocabulary that you would use to describe clothing, both o ld clothing and new clothing.  Let’s get started. 
+
+[start of dialogue] 
+
+Ellen:  What are you wearing to the party? 
+
+Hiro:  Your guess is as good as mine. 
+
+Ellen:  Let’s look through your closet and I’ll help you pick something out. 
+
+Hiro:  Okay, but I have to warn you.  I have a pretty li mited wardrobe. 
+
+Ellen:  Let’s see, these black pants are nice, but they’re  frayed on the bottom. How about these jeans?   
+
+Hiro:  You don’t think they’re too faded?  There’s also  a rip in the back. 
+
+Ellen:  No, I guess those jeans won’t work.  I like this sh irt, though. 
+
+Hiro:  Did you see the stain on the front?  The zipper is also stuck, I think. 
+
+Ellen:  How about shoes?  Do you have any shoes that ar e presentable? 
+
+ Hiro:  Well, I always wear these, but they’re scuffed on the top and the sole is pretty worn.   
+
+Ellen:  Okay, desperate times call for desperate measures.   Come on! 
+
+Hiro:  Where are we going? 
+
+Ellen:  We’re going to a magical place with brand spa nking new clothes and where everything is flawless. 
+
+Hiro:  Where’s that? 
+
+Ellen:  The mall! 
+
+[end of dialogue] 
+
+Our dialogue begins with Ellen asking Hiro, “What are you wearing to the party (what clothes are you going to wear to the party)?”  Hiro says, “Your guess is as good as mine.”  This phrase, “your guess is as good as mine, ” means I don’t know, meaning that you don’t know any more than the per son who is asking you the question.   
+
+Ellen says, “Let’s look through your closet (let’s look in you r closet) and I’ll help you pick something out.”  The “closet” is a small opening i n the wall, usually covered by a door where you could store or keep your clot hing.  “To pick something out,” or “to pick out something” is a two-word  phrasal verb meaning to select something from many different options.  Usually it’ s a physical thing; you go to a store and you pick out a dress to wear.  I do thi s at least once a month! That’s to pick out something or to pick something out – ei ther way. 
+
+Hiro says, “Okay, but I have to warn you.  I have a prett y limited wardrobe.”  “I have a pretty limited wardrobe” means I have a very limi ted (not very big) wardrobe.  “Wardrobe” here means all the clothing tha t you own, a collection of all of your shirts and pants and ties and dresses and u nderwear and socks – all of that is part of your wardrobe. 
+
+Ellen says, “Let’s see, these black pants are nice, but they’ re frayed on the bottom.”  When something is “frayed” (frayed) we mean it is worn out; it is falling apart.  When we talk about clothing, frayed clothing usu ally means that the clothing is beginning to come apart; you can see the ind ividual threads – the individual pieces of the clothing, especially at the edge  of the clothing, at the end of a sleeve on a shirt or on the bottom of your pants.  
+
+ Ellen says, “How about these jeans?” meaning what do you  think of these jeans. Hiro says, “You don’t think they’re too faded?”  When w e say something – a piece of clothing is “faded” (faded) we mean that the color isn’t as bright as it used to be.  This happens when you buy blue jeans.  When  you buy them and you put them on the first time the blue may be very blue  – very dark.  But later, as you wash them over and over again, they may become ligh ter – they may become faded, we would say. 
+
+Hiro says, “There’s also a rip (rip) in the back (of the j eans).”  A “rip” is the same as a tear; it’s a small hole when two things are separat ed from each other – or something, rather, is separated into two pieces we say tha t it has a rip.  That’s especially used when talking about clothing.  If you’re a man with big muscles, like me, and you put on a shirt that’s too small – tha t’s too tight and then you try to move your arms up and down, you might rip the shirt.  The shirt might get a rip in it (notice it can be a verb or a noun), a tear – i t will come apart.  I have this problem!   
+
+Ellen says, “No, I guess those jeans won’t work.  I like th is shirt, though (I like this shirt, however).”  Hiro says, “Did you see the stain (stain ) on the front?”  A “stain” is where there is a color on the fabric that shouldn’t be there.  For example, if you are drinking coffee and you have a white shirt on, and  some of the coffee drops fall onto your shirt, you spill it, then you will have a coffee stain – a brown stain on your white shirt.  Another word for this is a “discolo ration.” 
+
+Hiro says, “The zipper is also stuck, I think.”  The “zipper” is the long strip of metal, usually, that you use to keep something together,  but also allows you to open something up.  So on a pair of jeans, for example , there is a zipper in the front at the very top that goes down about, maybe – I d on’t know, one or two inches, and that allows you to take the pants off and pu t them on easily.  It also allows men to use the bathroom, with their pants, more  easily – in ways we shall not describe here!  Hiro complains that the zipper is st uck.  When something is “stuck,” we mean that it isn’t able to move.  It should m ove, it’s supposed to move, but something is wrong with it and it doesn’t move .  You could even get your hand stuck, for example, in a hole.  You put your ha nd into a small hole and then you can’t get it out – your hand is stuck.  Well her e, the zipper is stuck, meaning that it won’t move up and down the way it shou ld. 
+
+Ellen says, “How about shoes (meaning what shoes are you g oing to wear)?  Do you have any shoes that are presentable?”  The term “prese ntable” here means they are good enough for other people to see; they are  acceptable or appropriate for whatever occasion that you are going to or being a part of.  Hiro says, “Well, I  
+
+ always wear these, but they’re scuffed on the top and the  sole is pretty worn.” “Scuffed” means that there are marks, usually on, for e xample, a pair of shoes or perhaps a wooden floor.  Scuffs are usually caused by two things rubbing together hard.  It causes a discoloration of the shoe; t hat is, there’s a mark on the shoe – maybe not a discoloration, although the scuff is usu ally a different color. “Scuff” can be a verb or a noun.  Hiro says his shoes are scu ffed, which is very common when you wear your shoes a lot.  “The sole is prett y worn,” he says. The “sole” (sole) is the bottom of your shoe, in thi s case.  You can also refer to the bottom of your feet as your sole: “the soles of my fe et.”  “Sole” is also a type of fish – which usually tastes better than your feet, at least my feet!  He complains, Hiro does, that his sole is pretty (again, very ) worn (worn).  “Worn” damaged, old, used; in this case, too thin.  You could see, perhaps, a hole in the bottom of the shoe.  That would be a sole that was wor n.  “Worn,” like the word “stain” we discussed earlier, has a couple of different m eanings in English that are explained – you guessed it – in the Learning Guide.  
+
+Ellen says, “Okay, desperate times call for desperate measure s.”  “To be desperate” means that you don’t have any other options and you must do something that you might not otherwise do.  “Measures,”  here, means things that you do, tasks, methods; things that you try to do to, in this case, fix a situation. So this common expression, “desperate times call for despe rate measures,” means that when you have a very difficult situation someti mes you have to do some things that you would not normally do.  The verb h ere, “to call for,” means to require.   
+
+So Ellen says, “Come on!” to Hiro, meaning follow me.  Hiro says, “Where are we going?”  Ellen says, “We’re going to a magical place wi th brand spanking new clothes and where everything is flawless.”  Couple of term s here: a “magical place” would be a place with special powers, where impo ssible things can happen.  “Brand,” in the sense of “brand new,” means co mplete new, entirely new.  “Brand spanking new” is just a way of emphasizing it  even more – it’s very new; it’s completely new.  You could say, “this is brand new,” that would be the common way of describing something that you just bought  that no one else has used.  “Brand spanking new” is a little informal; it’s j ust giving more emphasis to this idea that it’s new. 
+
+Ellen says this place they’re going is a place where everythi ng is flawless.  A “flaw” (flaw) is a problem, a mistake, an error.  “Fla wless” (with a l-e-s-s at the end) means that it’s perfect, there are no flaws – no p roblems.  Hiro says, “Where’s that?”  Ellen says, “The mall!” meaning the sh opping mall.  So, Ellen is going to take Hiro to buy some new clothing. 
+
+ Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Ellen:  What are you wearing to the party? 
+
+Hiro:  Your guess is as good as mine. 
+
+Ellen:  Let’s look through your closet and I’ll help you pick something out. 
+
+Hiro:  Okay, but I have to warn you.  I have a pretty li mited wardrobe. 
+
+Ellen:  Let’s see, these black pants are nice, but they’re  frayed on the bottom. How about these jeans?   
+
+Hiro:  You don’t think they’re too faded?  There’s also  a rip in the back. 
+
+Ellen:  No, I guess those jeans won’t work.  I like this sh irt, though. 
+
+Hiro:  Did you see the stain on the front?  The zipper is also stuck, I think. 
+
+Ellen:  How about shoes?  Do you have any shoes that ar e presentable? 
+
+Hiro:  Well, I always wear these, but they’re scuffed on the top and the sole is pretty worn.   
+
+Ellen:  Okay, desperate times call for desperate measures.   Come on! 
+
+Hiro:  Where are we going? 
+
+Ellen:  We’re going to a magical place with brand spa nking new clothes and where everything is flawless. 
+
+Hiro:  Where’s that? 
+
+Ellen:  The mall! 
+
+[end of dialogue] 
+
+The magical script for this episode was, I think you’ll ag ree, flawless.  It was written by Dr. Lucy Tse.   
+
+ From Los Angeles, California, I am Jeff McQuillan.  I thank you for listening. Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

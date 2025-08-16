@@ -1,0 +1,108 @@
+# Seeing a Dentist
+
+Welcome to English as a Second Language Podcast number 5 03: Seeing a Dentist. 
+
+This is English as a Second Language Podcast episode 503.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode that contains all of the vocabulary, definitions, sample sentences, additional definitions, comprehension questions, cultural  notes, and, most importantly, a complete transcript of everything we say on  this episode. 
+
+This episode is about doing something I love to do, goi ng to see the dentist.  It’ll be a dialogue between Dr. Chung and Luis about some w ork that Luis needs to have done on his teeth.  Let’s get started. 
+
+[start of dialogue] 
+
+Dr. Chung:  Hello, Luis, I’m Dr. Chung.  You’re here  for a check-up and a cleaning, is that right? 
+
+Luis:  Yes, that’s right.   
+
+Dr. Chung:  Okay, let’s take a look.  Have you had your wi sdom teeth taken out?   
+
+Luis:  No, I haven’t.   
+
+Dr. Chung:  Hmm…You may need to do that soon.  You’ve had a root canal? 
+
+Luis:  Yes, about three years ago.   
+
+Dr. Chung:  Does that hurt? 
+
+Luis:  Ow!   
+
+Dr. Chung:  I guess I hit a nerve.  The bad news is that  you may need another root canal soon.  Let’s see if you have any cavities.  Oh, I think there’s one here in your left molar.  You’ll need to come back for a fil ling.  Are you experiencing any sensitivity? 
+
+ Luis:  Yes, I am! 
+
+Dr. Chung:  I’m not surprised.  Your gums have receded and some of the root is showing.  Do you use dental floss? 
+
+Luis:  Um, yes. 
+
+Dr. Chung:  I’ll have the dental hygienist show you how  to brush and floss better so you can prevent the buildup of plaque and tartar.  A ny questions for me before the hygienist starts on your cleaning? 
+
+Luis:  No, I’m just glad you didn’t say I need dentures!    
+
+Dr. Chung:  No, you don’t.  Not yet. 
+
+[end of dialogue] 
+
+Our episode begins with Dr. Chung introducing herself to her “patient,” the person she is taking care of, Luis.  She says, “Hello, Luis,  I’m Dr. Chung.  You’re here for a check-up and a cleaning, is that right?”  Typi cally, every six months or so it’s recommended that you go to a dentist and get a c heck-up.  A “check-up” is another word for an exam,  where a dentist or a doctor  looks at your general health to see if there are any problems.  A dentist wi ll look at your teeth to make sure that there aren’t any problems inside your mouth.  A “cleaning” is when a dental professional – it could be the doctor, but more typically it’s someone who works with the doctor, someone we would call a “hygienist”  – comes and cleans your teeth, removes anything on your teeth that shouldn’t  be there. 
+
+Luis says, “Yes, that’s right (yes, I’m here for a check-up an d a cleaning).”  Dr. Chung says, “Okay, let’s take a look (let’s look at you).  H ave you had your wisdom teeth taken out?”  Your “wisdom teeth” are the four large teeth that are in the back of your mouth; they usually begin to appear in your late teens or early 20s.  Many people need to have these teeth removed becau se there isn’t enough room in their mouth.  Except me; I have a big mouth, so , at least that’s what my mother told me!  Well, to remove these teeth means to  have a special surgery, and it can sometimes be a little painful.  So, this is what your wisdom teeth are. Not quite sure why they’re called your wisdom teeth; I su ppose you don’t get them until you’re older and, we hope, a little wiser  – a little smarter. 
+
+Luis says, “I haven’t,” meaning I have not had my wisdom te eth taken out.  “To take out” means to remove.  Dr. Chung says, “Hmm…You may ne ed to do that soon.”  Then she says, “You’ve had a root canal?”  A “roo t (root) canal” is a  
+
+ procedure, which can be painful, where a dentist takes o ut a damaged part of your tooth that is below the skin, so it’s actually inside of your mouth, and the dentist will often have to make a hole in your teeth i n order to repair the damage underneath your teeth.  I’ve had a couple of root cana ls; they’re not fun.  I wouldn’t do one just because it feels good; in fact, it doesn’t feel very good at all! The “root” is the bottom of your teeth.  That word, “ root,” is also used with a tree or a plant, and that refers to the part of the tree  or the plant that is below the ground, that is in the dirt.  So, your root for your t eeth are underneath the skin. “Canal,” here, just means a hole. 
+
+Luis says that he had a root canal about three years ago.  Dr. Chung touches the tooth where the root canal was and asks, “Does that hurt ?” and Luis says, “Ow!” which is how you express pain, at least in English.  Dr. C hung says, “I guess I hit a nerve.”  The “nerves” of your body are the parts that  carry messages to your brain, sending information about pain, about tempera ture, about touch.  It’s something that if you touch it and there’s a problem wi th the nerve – if the nerve is damaged – it can be very painful.   
+
+Dr. Chung says, “The bad news is that you may need anothe r root canal soon.” Even though he had a root canal that was supposed to fi x the problem the first time, it didn’t, and now he has to have another root canal.  Lucky Luis!  Dr. Chung also says that she wants to look at Luis to see if he has any cavities. “Cavity” (cavity) is a small hole; in this case, a small hol e in a tooth, and if you don’t fix the hole – if don’t fill in the hole (put something there), it could damage or hurt your teeth.  In fact, Dr. Chung says that Luis ha s to come back to her office to get a filling.  A “filing” is a small amoun t of metal that is put into this little hole – this cavity – to cover and protect the teeth so tha t they are not damaged further.  He has a cavity in his left molar (molar).  Y our “molars” are your large teeth.  They don’t have a pointed top on them.  They’r e usually – well, they’re always in the back of your mouth.  We use these for chewin g our food.  So, he has a cavity in one of his molars.  The doctor then asks him,  “Are you experiencing any sensitivity?”  “Sensitivity,” in this case, wo uld mean some sort of pain when you touch something, even if you just touch i t very lightly – you just barely touch it, you could have sensitivity and that woul d cause pain. 
+
+Luis says, “Yes, I am!” meaning I am experiencing this pain ful sensitivity.  Dr. Chung says, “I’m not surprised.  Your gums have receded and  some of the root is showing.  Don’t you use dental floss?”  Your “gums” i n your teeth are the pink skin that covers the bottom of your teeth.  When we say some thing has “receded,” we mean that it has moved back or pulled awa y from something else. So, if your gums are in a poor condition, one thing th at can happen is that the gums begin to pull away from the teeth, to go down, a nd that can cause  
+
+ problems.  One of the problems is that some of the root  of the tooth could be exposed, and that can cause pain.  The root is the part, remember, of the tooth that is below the surface, that you can’t normally see. 
+
+Dr. Chung asks Luis if he’s using dental floss.  “Dental floss” is a long piece of thin string that you usually hold between your two finge rs, and you move it in between your teeth in order to clean your teeth.  It’ s something you would do in addition to brushing your teeth, which, of course, is to  take a small toothbrush and move it back and forth against the front and back of the teeth to clean them. Floss is something that goes in between the teeth. 
+
+Luis says he uses dental floss, though we’re not quite sure .  Dr. Chung then says, “I’ll have the dental hygienist show you how to brush and floss better so you can prevent the buildup of plaque and tartar.”  Co uple of different words there: First, the dental hygienist is the person who wo rks with the dentist, who is not usually a doctor, whose job it is to clean your teeth  and to check your teeth. The dental hygienist is going to show Luis how to brush a nd floss better so he can prevent the buildup of plaque and tartar.  “Build up” means accumulation, when you have a little bit of material and you keep ad ding, over a long period of time, a little more and a little more and a little more.  That can happen on your teeth.  It can happen with two things called “plaque ” (plaque) and “tartar” (tartar). “Plaque” is a thin layer of food and bacteria that cover s your teeth after you eat that you need to remove after you eat with a toothbrus h.  Otherwise, it can damage or hurt your teeth.  “Tartar” is a hard yellow layer on your teeth.  When you do not remove the plaque regularly, then you can get  this yellow layer, and that’s why some people have yellow teeth, because the plaq ue has built up so much that it has now become tartar.  By the way, I’m not  a dentist so I hope I got that explanation right! 
+
+Dr. Chung says, “Any questions for me before the hygienist  starts on your cleaning?” and Luis says, “No, I’m just glad you didn’t say I need dentures!” “Dentures” are basically false teeth, fake teeth, artifi cial teeth that you wear instead of your real teeth.  So, Dr. Chung is not saying  that Luis’s teeth are so bad he needs dentures.  She says, “Not yet,” meaning if y ou don’t change your ways it may be something you need in the future. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Dr. Chung:  Hello, Luis, I’m Dr. Chung.  You’re here  for a check-up and a cleaning, is that right?  
+
+ Luis:  Yes, that’s right.   
+
+Dr. Chung:  Okay, let’s take a look.  Have you had your wi sdom teeth taken out?   
+
+Luis:  No, I haven’t.   
+
+Dr. Chung:  Hmm…You may need to do that soon.  You’ve had a root canal? 
+
+Luis:  Yes, about three years ago.   
+
+Dr. Chung:  Does that hurt? 
+
+Luis:  Ow!   
+
+Dr. Chung:  I guess I hit a nerve.  The bad news is that  you may need another root canal soon.  Let’s see if you have any cavities.  Oh, I think there’s one here in your left molar.  You’ll need to come back for a fil ling.  Are you experiencing any sensitivity? 
+
+Luis:  Yes, I am! 
+
+Dr. Chung:  I’m not surprised.  Your gums have receded and some of the root is showing.  Do you use dental floss? 
+
+Luis:  Um, yes. 
+
+Dr. Chung:  I’ll have the dental hygienist show you how  to brush and floss better so you can prevent the buildup of plaque and tartar.  A ny questions for me before the hygienist starts on your cleaning? 
+
+Luis:  No, I’m just glad you didn’t say I need dentures!    
+
+Dr. Chung:  No, you don’t.  Not yet. 
+
+[end of dialogue] 
+
+The script for this episode was written by someone who’s so smart, I think she has extra wisdom teeth, Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.  
+
+ English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

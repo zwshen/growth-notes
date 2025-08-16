@@ -1,0 +1,74 @@
+# Cleaning Up and Putting on Make-Up
+
+Welcome to English as a Second Language Podcast num ber 32: Cleaning Up and Putting on Make-up. 
+
+This is English as a Second Language Podcast episod e 32. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development, in beautiful Los Angeles, California.  
+
+In this episode, we're going to see Lucy cleaning u p and putting on her make-up. Let's get started. 
+
+[Start of story] 
+
+I share a bathroom with my roommate, which is usual ly not a problem.  We each try to keep the sink, the tub, and the toilet clean , and we have separate medicine cabinets to keep our things.  There’s also room und er the sink for our hairdryers and tampons.   
+
+I start out by rinsing my mouth with some mouthwash  before flossing.  Then, I take out my toothbrush and toothpaste and brush my teeth.  I only wash my hair every other day so I put on a shower cap and don’t have to get out my shampoo and conditioner.  I like to take bubble baths when I have time, but on a busy morning, a shower will have to do.  I lather up qui ckly and give my legs a quick shave.   
+
+I don’t wear a lot of make-up to work so I just put  on a little blush and a light- colored lipstick, and skip the mascara and eye shad ow.  I put a few hot curlers in my hair and I’m ready for breakfast! 
+
+[End of story] 
+
+To clean up is to clean yourself - to make yourself  ready to go out of your house usually.  To put on make-up needs to put something,  usually, on your face that makes you look better.  This is something that wome n do.  I need make-up to make me look better because I'm so ugly, but I don' t normally wear make-up. But, more about that later! 
+
+Episode two begins with Lucy saying that she shares  a bathroom with her roommate - the other woman that she lives with in h er apartment.  They share the bathroom - they have only one bathroom, this "i s usually not a problem,"  
+
+however.  Lucy says that each of them tries "to kee p the sink, tub, and the toilet clean."  The sink, "sink," is where you put the wat er - where you pour the water into in order to clean.  A tub, "tub," sometimes ca lled a bathtub, is a place where you put water.  It's usually a long box in your bat hroom that you put water into it and you then get into the water and you clean yours elf, kind of like when you go swimming.  You go in - your whole body goes into th e water.  Well, that's what a tub is, it's a large, long container that you put w ater into in order to take a bath.  A toilet, "toilet," is what you use when you go to th e bathroom, when you get rid of things out of your body. 
+
+In this bathroom, both Lucy and her roommate "have separate medicine cabinets."  They each have their own medicine cabin et.  A medicine cabinet, "medicine," cabinet, "cabinet," is something that y ou use to put your things - your bottles, your medicine, your toothpaste - things yo u use in your bathroom, you put them in a medicine cabinet.  It's a cupboard - it's a small area where you can put things.  Usually medicine cabinets have a mirro r on the front, which is also the door, and you can open up the medicine cabinet and get things out of it. 
+
+Lucy and her roommate "have separate medicine cabin ets."  Lucy says that "There’s also room under the sink for our hairdryer s and tampons."  When we say there is room, we mean there is space - there i s a place for you to put things. The word room also refers to a part of your house o r a part of a building - the bedroom, the dining room, and so forth.  But here, it's used to mean space, so there is "room under the sink for" their "hairdryer s and tampons."  Hairdryers and tampons are two things that I do not use as a man.  A hairdryer, "hairdryer," (one word) is a machine that you use to, you can guess, dry your hair.  So, when you wash your hair and it is wet, you can use a hairdry er to make sure that it becomes dry.  I don't use a hairdryer because I don 't have any hair.  When I was young man and a boy I had hair, and I would use a h airdryer, but not anymore. 
+
+A tampon, "tampon," is something that I have never used.  A tampon is something that a woman or a girl would use, a girl between the age of 12 and up to a women of the age of 55 or 60 perhaps would hav e to use a tampon every month.  This is something that men do not have to d o.  Basically, a tampon is a long, thin piece of cotton that a woman puts in her  body to absorb or to prevent blood from coming out of her body during each month .  I don't think I need to say more.  A woman has something happen to her every mo nth, what we would call her period, "period."  Her period is when blood lea ves her body, and that is part of her menstrual cycle.  Menstrual, "menstrual," me ans monthly.  So, this is something that men do not have to worry about.  But  in this case, Lucy has hairdryers and tampons in her bathroom.  
+
+ "I start by rinsing my mouth," Lucy says.  That is,  when she first walks in to her bathroom she begins to clean up by rinsing her mout h out, or "rinsing her mouth." To rinse, "rinse," means to clean with water.  She rinses "with some mouthwash before" she flosses.  So, she takes some liquid mou thwash, "mouthwash," (one word) which is a kind of liquid soap for your teeth .  It helps clean your teeth and make your breath smell better, or at least it's sup posed to.  So, she rinses her mouth with mouthwash and then she flosses.  To flos s, "floss," means to take a piece of string and put it between your teeth to ge t food from between your teeth - to get rid of - to remove that small piece food t hat might be in your teeth. 
+
+After, Lucy takes out, or gets, her toothbrush and toothpaste and brushes her teeth.  So, she gets her toothbrush and puts on too thpaste, which is a kind of soap for your teeth, and she brushes, or cleans, he r teeth.  She only washes her "hair every other day."  That means that she doesn' t clean her hair every day, she does it every other day - Monday, Wednesday, Fr iday, Sunday, Tuesday, Thursday - every other day. 
+
+So, she puts "on a shower cap."  A shower, "shower, " cap, "cap," (two words) is a piece of plastic that you put on your head, and it covers your hair.  You put it over your hair so your hair does not get wet when you ta ke a shower.  It's called a shower cap.  Again, this is something that I do not  need. 
+
+Lucy says she doesn't need to "get out her shampoo and conditioner."  She doesn't need to get out, meaning she doesn't mean t o remove it from the medicine cabinet.  Shampoo, "shampoo," is a liquid soap for your hair. Conditioner, "conditioner," is a liquid that you pu t on your hair after you shampoo to make your hair soft and nice.  That's shampoo, w hich cleans your hair, and conditioner that makes your hair soft, if you have hair. 
+
+Lucy likes "to take bubble baths when" she has time .  A bubble bath, "bubble," bubble bath, "bath," (two words) is a bath where yo u get into the tub and you have a liquid that you put into the water, usually it makes the water smell nice.  It is something that makes bubbles.  Bubbles are parts  of water that have air in them.  They are very light, and sometimes they go u p into the air.  It's like a little ball of water that has air in it; that's a bubble. 
+
+Lucy likes "to take bubble baths when" she has time , "but on a busy morning" she does not have time to take a bubble bath, so sh e has to take a shower.  She says, "a shower will have to do."  The expression, "have to do," means it will be  
+
+sufficient - it will be enough - it will be good en ough.  So, "a shower will have to do" - it will have to be good enough. 
+
+Then, she lathers up quickly and gives her "legs a quick shave."  To lather, "lather," up (two words) means to put liquid on you r body - soap or shampoo or what we would call shaving cream and move it back a nd forth - mix it with water until you have bubbles that cover your skin - this is to lather up - or covers your hair, to lather up with shampoo on your hair.  Lucy  lathers up and gives her "legs a quick shave."  Shave, "shave," can be a noun and a verb.  To shave means to remove hair from your body - from your skin.  Lucy says she gives her "legs a quick shave."  Women in the United States usually s have their legs - they get the hair off of their legs.  They'll also shave under t heir arms, what we would call their armpit, "armpit."  Your armpit is that space undern eath your arm that connects your arm to the rest of your body.  Men do not shav e their legs; they do sometimes shave their face, or like me, shave their  head. 
+
+Lucy says that she doesn't "wear a lot of make-up t o work," meaning she doesn't put on a lot of things on her face in order to go t o work.  She just puts "on a little blush and light-colored lipstick."  Blush, "blush,"  is a pink powder that women put, usually, on their cheeks.  That is the place undern eath or below your eyes, next to your nose - on either side of your nose, those a re your cheeks.  It's a pink powder.  Powder is when you take something and you break it up into very small pieces, and it's so small that you can take your ha nd and the pieces will stick to your hand - they'll be on your hand; this is powder .  So, blush is a powder that you put on your cheeks, well, women, usually, put o n their cheeks. 
+
+Lipstick, "lipstick," (one word) is a color that yo u put on your lips - the part of your mouth.  Women often put on red lipstick.  Lucy says  she puts on "light-colored lipstick," so not very dark - a very light color.  I do not wear lipstick usually, but women often wear lipstick; it makes their lips look  better. 
+
+Lucy says that she skips "the mascara and eye shado w."  To skip, "skip," means that she doesn't use it.  She doesn't use mascara, "mascara."  Mascara is a black or brown liquid that a woman puts on her eyelashes.   Your eyelash, "eyelash," (one word) are the little hairs that come out of yo ur eyes or come out of what we would call your eyelid, "lid," that's the piece of skin that covers your eyes.  On the end of your eyelid are eyelashes, and these are lit tle pieces of hair.  Women sometimes try to make those darker by putting on ma scara. 
+
+Eye shadow, "shadow," (two words) eye shadow is ano ther kind of powder, but it's powder that a woman puts on the eyelid - the s kin that covers the eye.  So, it has some color to it; that is called eye shadow. 
+
+Lucy says she puts "a few hot curlers in" her "hair  and" she's "ready for breakfast."  A curler, "curler," is a small piece o f round plastic that women use to make their hair look better.  They heat up the plas tic, and usually there's some metal that they heat up, and they put it in their h air to make their hair more curly. Curly, "curly," is the opposite of straight.  Women  can put curls in their hair by putting hot curlers in them, and then their hair wi ll be curly. 
+
+Now let's listen to the story, this time at a norma l speed. 
+
+[Start of story] 
+
+I share a bathroom with my roommate, which is usual ly not a problem.  We each try to keep the sink, the tub, and the toilet clean , and we have separate medicine cabinets to keep our things.  There’s also room und er the sink for our hairdryers and tampons.   
+
+I start out by rinsing my mouth with some mouthwash  before flossing.  Then, I take out my toothbrush and toothpaste and brush my teeth.  I only wash my hair every other day so I put on a shower cap and don’t have to get out my shampoo and conditioner.  I like to take bubble baths when I have time, but on a busy morning, a shower will have to do.  I lather up qui ckly and give my legs a quick shave.   
+
+I don’t wear a lot of make-up to work so I just put  on a little blush and a light- colored lipstick, and skip the mascara and eye shad ow.  I put a few hot curlers in my hair and I’m ready for breakfast! 
+
+[End of story] 
+
+Thanks to our wonderful scriptwriter, Dr. Lucy Tse,  for her hard work. And thanks to you for listening. From Los Angeles, California,  I’m Jeff McQuillan. Come back and listen to us again here on ESL Podcast. 
+
+This course has been a production of the Center for  Educational Development, in beautiful Los Angeles, California.  Visit our websi te at eslpod.com. 
+
+This course was produced by Dr. Jeff McQuillan and Dr. Lucy Tse.  Copyright 2006.
+

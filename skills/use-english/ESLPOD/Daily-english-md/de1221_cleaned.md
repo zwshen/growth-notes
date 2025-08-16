@@ -1,0 +1,124 @@
+# Buffing Up Home Security
+
+Welcome to English as a Second Language Podcast num ber 1,221 – Buffing Up Home Security. 
+
+This is English as a Second Language Podcast episod e 1,221. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to ESLPod.com and become a member of ESL Podcast  or take a look at our ESL Podcast Store, which has additional courses in Business and Daily English that I know you’re going to like.  
+
+This episode is a dialogue between Joselyn and Mart in about increasing or improving your security at home – making sure you a re safe in your house. Let’s get started. 
+
+[start of dialogue] 
+
+Martin: Why do you look so upset? 
+
+Joselyn: Our neighbor’s house was broken into last night. The burglar stole her laptop and some jewelry. Like us, she doesn’t have a security system. 
+
+Martin: Burglar alarms aren’t foolproof. Well, I’m not letting any burglars get close to our house. Let’s go. 
+
+Joselyn: Where are we going? 
+
+Martin: To the home improvement store. We need to b uff up our security. I want to install motion detectors, floodlights, and secur ity cameras to the outside of the house.  
+
+Joselyn: I suppose that’s a good idea. 
+
+Martin: I also want to put a timer on our indoor li ghts and a better deadbolt for the front door. 
+
+Joselyn: Those will probably help. 
+
+Martin: We can find out the cost of metal bars for the windows and a security door.  
+
+ Joselyn: Whoa, I think that might be a bit much. 
+
+Martin: Nonsense. If we’re going to do something, w e’re going to do it right. Barbed wire on top of our fence would probably be n ext . . . 
+
+Joselyn: That’s not a good idea . . . 
+
+Martin: And last but not least, we’ll need an attac k dog. 
+
+Joselyn: An attack dog?! This is sounding more like  a military compound than a home. 
+
+Martin: That’s right. When I’m done, Fort Knox will  have nothing on us! 
+
+[end of dialogue] 
+
+Martin asks Joselyn, “Why do you look so upset?” “U pset” (upset) means angry or concerned or worried. Joselyn says, “Our neighbo r’s house was broken into last night.” The house of Joselyn’s neighbor – the person who lives next to her – was “broken into.” The phrasal verb “to break into”  means to go into someone’s house or a building or a car without permission, us ually to steal something. If the house was “broken into,” the house was entered by s omeone who probably went in to steal something.  
+
+In fact, that’s exactly what happened, as we learn in the next sentence. Joselyn says, “The burglar stole her laptop and some jewelr y.” A “burglar” (burglar) is another word for a person who steals things – a “th ief,” we might also call him. This “burglar” stole her neighbor’s laptop computer  and some jewelry. Joselyn says, “Like us, she doesn’t have a security system. ”  
+
+Joselyn’s neighbor does not have a “security system ,” which is an electronic system that makes a loud noise or automatically cal ls the police if someone goes into a home or building without permission. Where I  live here in west Los Angeles, lots of houses have security systems. Some times security systems are called “burglar alarms.” An “alarm” (alarm) is a no ise or some sort of signal that tells you that there is a problem or that indicates  that something needs your attention. A “burglar alarm” is another term for a security system.  
+
+Martin says, “Burglar alarms aren’t foolproof.” If something is “foolproof” (foolproof), it is very easy to use and cannot fail . The idea is that even a foolish or stupid person can use it correctly. Here it also re fers to something that will  
+
+always work, that will always be effective. But Mar tin says burglar alarms are not foolproof. Then he says to Joselyn, “I’m not lettin g,” or allowing, “any burglars get close to our house. Let’s go.”  
+
+Joselyn says, “Where are we going?” Martin says, “T o the home improvement store.” A “home improvement store” is a store that sells things for fixing your house or making changes to your house. Martin says,  “We need to buff up our security.” The phrasal verb “to buff (buff) up” mea ns to make stronger or to increase the size or quantity of something. If you’ re going “to buff up” your security, you’re going to make it stronger or incre ase your security.  
+
+We also use this word when talking about the human body. If you’re going “to buff up,” you’re going to make yourself stronger. Y ou’re going to have bigger muscles. We might describe a man or a woman who has  big muscles as being “buff.” That’s an adjective. As a verb, “to buff up ” means to increase strength or size. Martin wants to buff up his security.  
+
+He says, “I want to install motion detectors, flood  lights, and security cameras to the outside of the house.” These are three ways of increasing your security or how safe you are in a given place. One thing Martin  wants to install, or put in, is a “motion detector.” The word “detector” comes from t he verb “to detect” (detect). “To detect” means to notice or identify. A “motion detector” is an object that can notice or detect when someone is moving in front of  it. A motion detector usually has a light attached to it so when you walk in fron t of it, the light automatically comes on.  
+
+“Floodlights” (floodlights) are large lights that p roduce a lot of illumination, a lot of light over a large area. They’re very strong lights . “Security cameras” are cameras that record videos of a certain area. Some buildings, for example, have security cameras. Martin wants to get security came ras for his house. Jocelyn says, “I suppose that’s a good idea,” referring to the idea of buffing up their security.  
+
+Martin says, “I also want to put a timer on our ind oor lights and a better deadbolt for the front door.” A “timer” (timer) is a device,  a little machine that automatically turns something on or off at a certain time every d ay. A timer on your indoor lights would automatically turn, say, a lamp or oth er light on inside your house so that people think that there is someone home, there  is someone inside your house, even when you’re not there.  
+
+A “deadbolt” (deadbolt) is a lock on your door that  is basically a piece of metal that goes through a hole. You have to use a key to turn the deadbolt to get the  
+
+piece of metal to come out of the hole so you can o pen the door. It’s a more secure kind of lock on your door. Joselyn agrees th at these things will probably help in buffing up home security. Martin continues,  however: “We can find out the cost” – we can find out how much the price is – “of  metal bars for the windows and a security door.”  
+
+Martin thinks perhaps they should get “metal (metal ) bars (bars).” “Metal bars” are long, heavy or thick pieces of metal that go ov er your windows. In some houses here in Los Angeles, especially in some of t he poorer neighborhoods, you will see metal bars on the windows. This preven ts people from coming into the window. You can’t just break the window and ent er the house because the metal bars will block you. Martin wants metal bars,  or at least he wants to investigate putting metal bars on the windows of th eir house.  
+
+He also wants to get a security door. A “security d oor” is a very thick, strong door, often made of metal, but it could just be woo d that is put on the front of a house or a building to protect it. Joselyn now thin ks that Martin is perhaps overreacting – doing too much. She says, “Whoa,” me aning stop or wait, “I think that might be a bit much,” meaning too much. Martin  says, “Nonsense.” He disagrees with Joselyn. That’s what that word “nons ense” means in this case: “I disagree strongly.” “If we’re going to do something , we’re going to do it right,” meaning we’re going to do it correctly.  
+
+He then says, “Barbed wire on the top of our fence would probably be next.” “Barbed (barbed) wire” are long, thin pieces of met al that have short, what we would describe as “spiky” bits to them – parts to t hem that will cut you if you touch them. You will sometimes see barbed wire on t he top of fences or walls around some very secure area – a military installat ion or some other area where the business wants to prevent people from getting i nto that area.  
+
+“Barbed wire” is a pretty serious thing to put on t op of your fence, and some cities don’t allow barbed wire unless you get special perm ission to put it there. Joselyn doesn’t think this is a good idea. Martin says, “An d last but not least” – meaning this is the last thing I will mention, but it isn’t  the least important – “we’ll need an attack dog.” An “attack dog” would be a dog that ha s been trained to attack people when ordered to do so, You could think of a big dog such as a German Shepherd or a Doberman Pincher.  
+
+Joselyn is now surprised at what Martin is saying. She says, “An attack dog? This is sounding more like a military compound than  a home.” A “military compound” (compound) is an area of land that is own ed by the army or some  
+
+other military organization that is protected with a lot of security. Martin says, “That’s right. When I’m done, Fort Knox will have n othing on us.”  
+
+“Fort Knox” (Knox) is an army base located in the s tate of Kentucky in the United States, where the United States government traditio nally has stored gold as part of the property of the U.S. government. Fort Knox i s considered one of the most secure places in the U.S., or at least, traditional ly was considered that way. People use that place now as sort of a representati on of a very, very secure place. To say that my house is like Fort Knox means  that my house is as secure or as safe as Fort Knox because it is protected ver y well.  
+
+That’s why Martin says when he’s done, Fort Knox wi ll have nothing on them. When you use the expression “to have nothing on” so meone, you mean that it will not be as good as what you have. So if you say , “He has nothing on me,” you mean he is not better than I am. I am better than h e is, or at least I’m as good as he is. I could say, for example, “Well, Brad Pitt i s handsome, but he has nothing on me when it comes to charm, when it comes to pers onality, when it comes to not having any hair.” He has nothing on me. He’s no t better than me in those areas.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Martin: Why do you look so upset? 
+
+Joselyn: Our neighbor’s house was broken into last night. The burglar stole her laptop and some jewelry. Like us, she doesn’t have a security system. 
+
+Martin: Burglar alarms aren’t foolproof. Well, I’m not letting any burglars get close to our house. Let’s go. 
+
+Joselyn: Where are we going? 
+
+Martin: To the home improvement store. We need to b uff up our security. I want to install motion detectors, floodlights, and secur ity cameras to the outside of the house.  
+
+Joselyn: I suppose that’s a good idea. 
+
+Martin: I also want to put a timer on our indoor li ghts and a better deadbolt for the front door.  
+
+ Joselyn: Those will probably help. 
+
+Martin: We can find out the cost of metal bars for the windows and a security door. 
+
+Joselyn: Whoa, I think that might be a bit much. 
+
+Martin: Nonsense. If we’re going to do something, w e’re going to do it right. Barbed wire on top of our fence would probably be n ext . . . 
+
+Joselyn: That’s not a good idea . . . 
+
+Martin: And last but not least, we’ll need an attac k dog. 
+
+Joselyn: An attack dog?! This is sounding more like  a military compound than a home. 
+
+Martin: That’s right. When I’m done, Fort Knox will  have nothing on us! 
+
+[end of dialogue] 
+
+Oscar-winning scriptwriters have nothing on our scr iptwriter, Dr. Lucy Tse. She writes the best scripts here in Los Angeles.  
+
+From the home of Hollywood, I am Jeff McQuillan. Th ank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

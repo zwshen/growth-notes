@@ -1,0 +1,120 @@
+# Bargaining with a Seller
+
+Welcome to English as a Second Language Podcast num ber 84: Bargaining with a Seller. 
+
+You’re listening to English as a Second Language Po dcast episode 84. I’m your host, Dr. Jeff McQuillan, from the Center for Educa tional Development in beautiful Los Angeles, California.  
+
+Today’s podcast is about bargaining with a seller. Let’s go shopping! 
+
+[start of dialogue] 
+
+It was Saturday afternoon and I was shopping in the  garment district in downtown L.A. If you want to find good deals on clothes, sho es, and accessories, this is the place to come. To get the best deal, though, you ha ve to be ready to bargain.  
+
+I walked by a stall and saw a purse I liked. The ow ner had just finished making a sale.  
+
+Lucy: Does this come in any other colors?  
+
+Man: Yeah, we have this one in white and blue. I al so have this other style in green. 
+
+Lucy: How much is the blue one? 
+
+Man: It's $32.  
+
+Lucy: $32? What about the green one? 
+
+Man: That's $30. 
+
+Lucy: That seems a little high. Can you do better o n the price? 
+
+Man: This is a designer bag and it's good quality. It's a bargain at that price. 
+
+Lucy: Is that your best offer? 
+
+Man: That's the best I can do. 
+
+Lucy: Well, I don't know. I think I'll shop around.   
+
+Man: Okay, how about $28.  
+
+Lucy: That's still more than I wanted to spend. Wha t if I take the blue one and the green one? 
+
+Man: I'll give you both of them for $55. 
+
+Lucy: That's not much of a break on the price. How about $50 for both? 
+
+Man: You drive a hard bargain. The best I can do is  $54. You won't find it cheaper anywhere else.  
+
+Lucy: Why don't we split the difference and make it  $52? 
+
+Man: Okay, okay. You've got a deal.  
+
+[end of dialogue] 
+
+In this podcast, we go shopping in the “garment dis trict” in downtown Los Angeles. The “garment district” (garment) – a “garm ent” is a piece of clothing. It’s something you wear. And a garment district is a pla ce, usually, where you can buy clothes cheaper than other places. It’s a place  where factories -- people who make clothing will often sell their clothes directl y to the public. There’s a garment district in Los Angeles, there’s a garment district  in New York City and in many cities throughout the world. This is often the plac e and a “district” is just a place or a neighborhood where you find a lot of companies  that make clothing. The person in this particular podcast wants to find a “ good deal.” When you say, “I’m looking for a good deal,” you’re saying, “I’m looki ng for a cheap price, a low price, something that’s not expensive,” at least it is les s than what you would normally pay. If you want a good deal, you often have to wai t until there is a sale on what you want to buy when they lower the price.  
+
+In this particular example, Lucy is looking for som e clothes, some shoes, and “accessories.” “Accessories” are what women wear in  addition to their dress or their shoes.  That would include earrings or a neck lace around your neck.  Those are accessories. A man can also have “accessories,”  like a watch or a belt and so forth. Lucy is ready to “bargain” in the garment  district. “To bargain,” the verb (bargain), means that you are going to try to get a  lower price than the price that the person selling it wants to give it to you for. And you don’t normally bargain in a regular store in the United States but you can ba rgain at certain places, and the  
+
+garment district in Los Angeles or many other place s, there are many people selling different things all next to each other – i s a place where you can often bargain. When you go to a market that has lots of d ifferent people selling, usually we talk about each little store as a “stall.” A “st all” (stall) is a small place in a market where someone is selling their goods. You co uld have a “stall” in a grocery market or, in this case, in the garment dis trict market.  
+
+The owner, according to Lucy – she went up to one o f the stalls and saw a purse she liked. And the owner was finish “making a sale. ” “To make a sale” just means that he was selling something to someone else. The dialogue begins with Lucy asking the seller, “Does this purse come in any oth er colors?” The expression “to come in” here just means “Do you make it?” Do you h ave that particular purse, in this case, in another color or in other colors? You  can say, for example, “This car comes in black, white, and blue,” meaning you can b uy one that’s painted black, painted white, or painted blue. You can talk about the way things “come in” for size as well. You want to buy a shirt and the one t hat you see is too small, you could ask, “Does this come in a large?” In this cas e, Lucy asked the man if this purse comes in any other colors and the seller says , “Yes, we have this one in white and blue.” The expression “to have something in a color” is the same as “it comes in a color.” 
+
+Lucy asked the price for the blue one and the man s ays, “It’s $32,” and Lucy says, “That seems a little high.” When you are barg aining with someone, of course, you don’t want to accept the first price th at they give you and so she is indicating here, politely, that this price is too h igh for her. “That seems a little high.” That’s too much. Then she asked the seller, “Can you do better on the price?” This is a very standard question in English  when you are trying to see if the person selling it will lower the price. “Can yo u do better on the price?” “Can you give me a lower price?” is what we’re asking. O f course, the seller doesn’t want to give a lower price and so, here, he tries t o justify, or give you a reason, why the price is as it is. This seller says that th e purse is a “designer bag and it’s good quality.” The “bag” here (bag), or bag, just r efers to a purse, in this case. A “bag” is anything that you can carry something in t hat is usually a not solid, that is flexible. A “designer bag” or a “designer purse” is  one that’s made by a famous company, designed by a famous designer, someone who  figures out what style should be. Gucci, for example, is a famous Italian designer. 
+
+The man selling the purse says that, “It’s a bargai n at any price.” Here, a “bargain” is a noun, not a verb. We know that “to b argain” – means to try to get a lower price. A “bargain” is the same here as a good  deal. If I say, “That’s a bargain” we mean that’s a very good deal. Lucy then  says, “Is that your best offer?” When you ask someone that’s selling somethi ng, “Is that your best offer?”  
+
+you’re saying, “Is that the lowest price you can gi ve me?” The man says, “Yes, that’s the best I can do,” meaning that’s the lowes t price. And Lucy says, “Well, I think I’ll shop around.” “To shop around” means to go somewhere else to buy things or to look at things. Of course, what normal ly happens when you start leaving in your bargaining with someone is that the y decide to lower the price to get you to stay, to get you to buy. And so the sell er says, “Oh, how about $28?” And Lucy says, “That’s still more than I wanted to spend.” This is another polite way of saying that the price is still too high. “Th at’s more than I want to pay.” “That’s more than I want to spend.” Lucy then offer s to buy two purses, one green and one blue, and asked the man what the pric e would be and the seller says, “$55.” Lucy then responds, “That’s not much o f a break on the price.” When we say that there is a “break (break) on the price, ” we mean that it’s a discount, that it is a lower price. We say sometimes also, “G ive me a break on this price” – means give me a lower price, take some of the money  off of the price. 
+
+Lucy then offers $50 and the man responds by saying , “You drive a hard bargain.” This is kind of a common expression for s omeone who likes to bargain a lot and try to get the absolute lowest price. “Yo u drive a hard bargain” means that you are trying to get a much lower price than I want to give. The man then says, “The best I can do is $54.” “The best I can d o” means this is the lowest price I can give you. It’s like the best offer. Fin ally Lucy uses a good bargaining strategy. Lucy wants to pay $50. The man wants to c harge her $54. So, Lucy says, “Why don’t we split the difference and make i t $52?” “To split the difference” means that we are going to take the pri ce right in the middle. So, 50, 54, “to split the difference” would be $52. Finally  the man says, “Okay, okay. You’ve got a deal.” Here the word “deal” means that  I agree to do it, you have a sale. “You’ve got a deal.” It’s saying, “Okay, I wi ll sell that to you at that price.” 
+
+Now let’s listen to the dialogue this time at a nat ive rate of speech. 
+
+[start of dialogue] 
+
+It was Saturday afternoon and I was shopping in the  garment district in downtown L.A. If you want to find good deals on clothes, sho es, and accessories, this is the place to come. To get the best deal, though, you ha ve to be ready to bargain.  
+
+I walked by a stall and saw a purse I liked. The ow ner had just finished making a sale.  
+
+Lucy: Does this come in any other colors?  
+
+Man: Yeah, we have this one in white and blue. I al so have this other style in green. 
+
+Lucy: How much is the blue one? 
+
+Man: It's $32.  
+
+Lucy: $32? What about the green one? 
+
+Man: That's $30. 
+
+Lucy: That seems a little high. Can you do better o n the price? 
+
+Man: This is a designer bag and it's good quality. It's a bargain at that price. 
+
+Lucy: Is that your best offer? 
+
+Man: That's the best I can do. 
+
+Lucy: Well, I don't know. I think I'll shop around.   
+
+Man: Okay, how about $28.  
+
+Lucy: That's still more than I wanted to spend. Wha t if I take the blue one and the green one? 
+
+Man: I'll give you both of them for $55. 
+
+Lucy: That's not much of a break on the price. How about $50 for both? 
+
+Man: You drive a hard bargain. The best I can do is  $54. You won't find it cheaper anywhere else.  
+
+Lucy: Why don't we split the difference and make it  $52? 
+
+Man: Okay, okay. You've got a deal.  
+
+[end of dialogue] 
+
+The scripts for all of the English as a Second Lang uage Podcast, the text of the dialogue or story are all on our website. Go to www .eslpod.com and click on “scripts.”   
+
+ From Los Angeles, California, I’m Jeff McQuillan. W e’ll see you next time on ESL Podcast. 
+
+ESL Podcast is produced by the Center for Education al Development in Los Angeles, California. This podcast is copyright 2005 . No part of this podcast may be sold or redistributed without the expressed writ ten permission of the Center for Educational Development.
+

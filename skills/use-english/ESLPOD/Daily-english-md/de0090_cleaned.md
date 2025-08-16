@@ -1,0 +1,122 @@
+# Room Service
+
+Welcome to English as a Second Language Podcast num ber 90: Room Service. 
+
+You’re listening to English as a Second Language Po dcast episode 90. I’m your host, Dr. Jeff McQuillan, from the Center for Educa tional Development in beautiful Los Angeles, California.  
+
+Today’s podcast is about room service in a hotel. L et’s eat! 
+
+[start of dialogue] 
+
+I was staying at a nice resort hotel in Arizona on a short vacation. I had been out on the golf course playing a round of golf. When I got back into the room, I was feeling pretty hungry. I was meeting some friends f or a late dinner around 8:30. I wanted a snack. I took a look at the room service m enu and called their number. 
+
+Woman: Room service. What would you like to order? 
+
+Jeff: Hi, I'm in room 1201 and I'd like an order of  the calamari and a slice of cheesecake. 
+
+Woman: Do you want the calamari appetizer or the en trée? 
+
+Jeff: I'd like the appetizer. 
+
+Woman: Anything to drink? 
+
+Jeff: A diet Coke. About how long will that take? 
+
+Woman: It'll be about 30 minutes.  
+
+Jeff: Okay. Thanks. 
+
+There was a knock on my door about a half hour late r. 
+
+Jeff: Who is it?  
+
+Woman: Room service...Hi. Where would you like me t o put the tray? 
+
+Jeff: On the desk would be fine. 
+
+Woman: The total is $16.75. 
+
+Jeff: Oh, that's higher than I'd expected.  
+
+Woman: There's a 12% service charge for room servic e and there's also the usual food tax. 
+
+Jeff: Oh, I see. Can I charge it to the room?  
+
+Woman: Sure. Just fill in the total here, write in your room number, and sign at the bottom. 
+
+Jeff: Okay, there you go. Thanks. 
+
+Woman: Thank you and have a nice day. 
+
+The calamari and the cheesecake really hit the spot . 
+
+[end of dialogue] 
+
+In this podcast we are on a short vacation in Arizo na, the state next to California – one of the states next to California. Very dry, l ots of desert. Anyway, we are in a nice “resort hotel.” A “resort hotel,” or simply a “resort,” is a hotel that has other services such as a golf course, maybe a spa where y ou can get a massage and so forth. More luxurious, more expensive hotels som etimes are resorts and the idea is that you can go and spend your whole vacati on and you would have plenty of things to do at the hotel. The “golf course” is where you play the game of “golf,”  where you hit a little light ball with a stick and the “golf course” is the place whe re golf is played. That’s (course) “course,” and a game of golf can called ei ther “a game of golf” or a “round of golf.” A “round of golf” means that you a re playing either nine holes because in golf you have possible 18 holes. You hit  the ball from one hole to the other. You can play 9 holes or 18 holes and a “roun d of golf” could be either one of those.  
+
+I said I was meeting some friends for a late dinner  at around 8:30 but I wanted a “snack.” And a “snack” (snack) is a small amount of  food, usually between meals. So, you have breakfast at 8 in the morning. You mig ht have a “snack,” say, an apple or a banana at 10 o’clock and then, if you’re  working in the United States, you would have lunch around noon. If you want to ge t food at a hotel and you want the food delivered to you, you call “room serv ice.” “Room service,” two  
+
+words, is the name that we give that service in a h otel that delivers you food from their restaurant or their kitchen.  
+
+So, I call room service and the first thing I do is  say, “I’m in room 1201 and I’d like an order of calamari and a slice of cheese cake.” T he expression, “I’d like an order of,” is how you say, “I want to have one plat e or one dish of” that particular food. Notice also that we say, “I want an order of the calamari.” You can also say, “I want an order of calamari” – means the same. “Ca lamari” (calamari) is squid. “Squid” (squid) is a type of seafood. It’s a small – what’s called a “mollusk” in English (mollusk) and it’s a type of seafood, and y ou fry it up in oil and you get “calamari.”  I also wanted a “slice of cheesecake.”  A “slice of cake” is a piece of cake. We often use that for anything where you can cut up, like a “slice of pie,” a “slice of cake,” even a “slice of bread” when you h ave a big loaf of bread and you cut it up into small “slices” or pieces. “Cheesecak e” is a very rich desert that has cream and soft cheese and a – what we call a “crust ” (crust). That’s what’s on the bottom and the side. That’s the “crust” of the chee secake. I happen to love cheesecake but it can make you a little overweight so you have to be careful. Don’t eat too much cheesecake. 
+
+The woman asks me if I wanted the calamari “appetiz er” or the “entrée.” An “appetizer” is the first course, what you have befo re your main course, and that main course is called the “entrée” (entrée), anothe r one of the French words that we borrowed in English. And the “entrée” is your ma in course, your main dish. I said I wanted the appetizer. In fact, I said, “I’d like the appetizer,” meaning I want the appetizer or smaller size of calamari, not the entrée. The woman then asked if I wanted anything to drink. She said, simply, “A nything to drink?” – which is just a short version of, “Would you like anything to dri nk?” I ordered a diet Coke and then I asked, “About how long will that take?” mean ing, “How much time do I have to wait for my food?”  “How long will it take? ” When we say, “How long will it take?” – you can use that about any amount of time.  For example, your brother needs to go to the store and he asked you to drive him and you say, “Well how long will that take?” meaning, “How much time is th at going to take me?” 
+
+The woman comes back with my food and she knocks on  the door and I say, “Who is it?” That’s what we would say when someone knocks on your door and you don’t know who it is. “Who is it?” You’re askin g them to identify themselves. She comes in, she gives me the food, and the price or the total is more than I thought it was going to be and I say, “That was hig her than I expected,” meaning it cost more than I thought it would. And the woman  from room service says that there’s a 12% “service charge.” A “service charge” is what a hotel will charge you for bringing that food up to your room, so there’s the price of the food and then there’s the price of the service. It’s kind of like  a tip, but usually in American  
+
+hotels people add a dollar or two after the service  charge, though you don’t have to do that. I asked the woman if I can “charge it t o the room.” When you “charge something to your room” in a hotel, what you’re say ing is that you want this to go on your bill and you will pay for everything when y ou leave or check out of the hotel, and it’s pretty common if you eat room servi ce or in the restaurant of a hotel. You can ask to put something on your bill. T he woman says, “Of course,” asked me to write my name and my room number so tha t they can find my bill at the front desk of the hotel, and after she leaves, I say that the cheesecake and calamari “really hit the spot.” When we say somethi ng “hits the spot” we mean that the food really was very satisfying and I am n o longer hungry. “That hit the spot. I really felt like it and I ate it and now I’ m not hungry anymore.” 
+
+Now let’s listen to the dialogue this time at nativ e rate of speech. 
+
+[start of dialogue] 
+
+I was staying at a nice resort hotel in Arizona on a short vacation. I had been out on the golf course playing a round of golf. When I got back into the room, I was feeling pretty hungry. I was meeting some friends f or a late dinner around 8:30. I wanted a snack. I took a look at the room service m enu and called their number. 
+
+Woman: Room service. What would you like to order? 
+
+Jeff: Hi, I'm in room 1201 and I'd like an order of  the calamari and a slice of cheesecake. 
+
+Woman: Do you want the calamari appetizer or the en tree? 
+
+Jeff: I'd like the appetizer. 
+
+Woman: Anything to drink? 
+
+Jeff: A diet Coke. About how long will that take? 
+
+Woman: It'll be about 30 minutes.  
+
+Jeff: Okay. Thanks. 
+
+There was a knock on my door about a half hour late r. 
+
+Jeff: Who is it?  
+
+Woman: Room service...Hi. Where would you like me t o put the tray? 
+
+Jeff: On the desk would be fine. 
+
+Woman: The total is $16.75. 
+
+Jeff: Oh, that's higher than I'd expected.  
+
+Woman: There's a 12% service charge for room servic e and there's also the usual food tax. 
+
+Jeff: Oh, I see. Can I charge it to the room?  
+
+Woman: Sure. Just fill in the total here, write in your room number, and sign at the bottom. 
+
+Jeff: Okay, there you go. Thanks. 
+
+Woman: Thank you and have a nice day. 
+
+The calamari and the cheesecake really hit the spot . 
+
+[end of dialogue] 
+
+Remember to visit our website at www.eslpod.com for  the script for this podcast and  for information about our other podcasts.  
+
+From Los Angeles, I’m Jeff McQuillan. We’ll see you  next time on ESL Podcast 
+
+ESL Podcast is produced by the Center for Education al Development in Los Angeles, California. This podcast is copyright 2005 . No part of this podcast may be sold or redistributed without the expressed writ ten permission of the Center for Educational Development.
+

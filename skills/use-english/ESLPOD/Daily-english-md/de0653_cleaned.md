@@ -1,0 +1,94 @@
+# Reading Product Reviews
+
+Welcome to English as a Second Language Podcast num ber 653: Reading Product Reviews. 
+
+This is English as a Second Language Podcast episod e 653.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development here in Los Angeles – beautiful Los Angeles, California.  
+
+Our website is eslpod.com.  Download a Learning Gui de for this episode from our website, where you can get all the extra vocabu lary, definitions, sample sentences, cultural notes, and a complete transcrip t of this episode. 
+
+Our dialogue today is between Dominic and Andrea.  It’s going to be about when you are looking to buy something and you decide to see what other people think of that product, what we would call a “product revi ew.”  Let’s get started. 
+
+[start of dialogue] 
+
+Dominic:  Do you want some help with that box? 
+
+Andrea:  Sure, thanks.   
+
+Dominic:  What is it?   
+
+Andrea:  It’s a new TV.  My old one has been on the  fritz for a week and I needed a new one.   
+
+Dominic:  Is this a highly-rated model?   
+
+Andrea:  Highly-rated?  I just went to the electron ics store and bought it.  It was on sale. 
+
+Dominic:  You mean you didn’t read up on it before you bought it?  You didn’t look at the reviews? 
+
+Andrea:  No, I never do that.  I think that’s a was te of time.  I go with my gut. 
+
+Dominic:  But if you read the reviews, you’ll know which product gives you the best value, which is the most reliable and durable,  and which company has good customer support.  Nobody wants to buy something th at’s defective or poorly designed.  Don’t you care about those things?  
+
+ Andrea:  Maybe, but who has time to do that?  Inste ad, I go to the store and see which one I like overall.  If it’s on sale, that’s all the better.  That’s worked for me so far. 
+
+Dominic:  Is that how you bought your old TV? 
+
+Andrea:  Yeah. 
+
+Dominic:  Enough said. 
+
+[end of dialogue] 
+
+Dominic asks Andrea, “Do you want some help with th at box?”  Andrea says, “Sure, thanks.”  Dominic asks, “What is it?”  Andre a says, “It’s a new TV (a new television).  My old one has been on the fritz for a week and I needed a new one.”  The expression “to be on the fritz” (fritz) is an informal one meaning it isn’t working very well; it is unreliable; undependable; sometimes it works, sometimes it doesn’t. 
+
+Dominic says, “Is this (meaning this TV) a highly-r ated model?”  Something that is “highly-rated” (rated) is something that people have a good opinion of, something that is made well.  A “model,” in this ca se, is one particular design of a machine or a product by some company.  For example,  Toyota (car company) has different models: the Corolla, the Camry, and s o forth.  They have different kinds of cars – different looks to their cars.  Tha t’s all part of the particular or specific model.  Dominic asks if this TV is a highl y-rated model.  Andrea says, “Highly-rated?  I just went to the electronics stor e,” places where you would buy a TV or a radio, possibly a computer – these are all electronics.  She says, “I just went to the electronics store and bought it.  It wa s on sale.”  Something that is “on sale” usually means that it has a lower price t han normal; it is discounted, you can buy it for less. 
+
+Dominic says, “You mean you didn’t read up on it be fore you bought it?”  “To read up on (something)” – notice the two prepositio ns: “up” and “on” – means to read a lot of information about something, to learn  a lot about something.  “I need to read up on American history for my history test tomorrow.”  Or, “I need to read up on investing money, because I’m getting old and I don’t want to be poor when I’m old.”  The verb “to read” has lots of different  phrasal verbs associated with it; take a look at our Learning Guide for some examples  of those.  Dominic says, “You mean (that is, do you mean) you didn’t read up  on it before you bought it? You didn’t look at the reviews?”  A “review” is som eone’s, usually printed but it  
+
+could be spoken, opinion about a particular product ; what they think is good, what they think is bad about it.  You can find thes e in magazines and newspapers; you can find them very easily on the In ternet.  Apparently, Andrea did not read the reviews; in fact, she says, “No, I  never do that (I never read the reviews).  I think that’s a waste of time.”  Someth ing that is a “waste (waste) of time” is something that is not worth spending time on, something that you shouldn’t spend a lot of time on because it isn’t g oing to give you very much. Andrea says, “I go with my gut (gut).”  This expres sion, “to go with your gut,” means to do what you feel is right without doing an y research or asking other people’s opinions, or at least not listening to the m if you do.  Your “gut” is an informal way of describing the stomach, the middle part of your body.  The idea is that you’re not necessarily using your brain – your  intellect, you’re using your feelings and emotions to make a decision. 
+
+Dominic tells her, “But if you read the reviews, yo u’ll know which product gives you the best value.”  “Value” means the relationshi p between how much something costs and how good it is.  If you buy a r eally good car at a low price, we would say that you are getting good value.  Domi nic says that the reviews will tell you which product gives you the best value, wh ich is the most reliable and durable, and which company has good customer suppor t.  Something that is “reliable” (reliable) is something you can trust, s omething that is dependable. “Durable” (durable) is something that is strong, so mething that will not break easily.  The opposite of “durable” is “fragile” (fr agile).  Here, Dominic is really using the word to mean that it will last a long tim e, that you can use it for many years and it will still be good.   
+
+Dominic also mentions finding a company that has go od “customer support,” we might also say “customer service.”  That is, a comp any where if you have a problem you can call them or email them and they wi ll help you with the problem. Or, if there’s a serious problem they will give you  a refund or allow you to get something else.  That’s good customer support.  Dom inic says, “Nobody wants to buy something that’s defective or poorly designed.”   Something that is “defective” is not working properly, something that has a serio us problem or a flaw, probably because it was made wrong.  The company that made i t did something wrong – it’s defective.  When we say something is “poorly d esigned,” we mean that it is a bad design.  There’s a problem in the way that the pieces go together; there’s a problem in the way that the company decided to make  it, maybe the shape is wrong, or the pieces don’t fit together very well.  That would be something that is poorly designed.  A umbrella that had holes in it w ould be poorly designed.  The purpose of an umbrella is to keep the rain from fal ling on you.  If the umbrella had holes in it, that would be obviously a very poor de sign.   
+
+Dominic says, “Don’t you care about those things?”  Andrea says, “Maybe, but who has time to do that (to do all that research)?  Instead, I go to the store and see which one I like overall.”  “Overall” (overall)  means considering everything together, comprehensively, when we consider all the  different parts of something. Andrea says, “If it’s on sale (if the television, i n this case, is on sale), that’s all the better.”  The expression “all the better” means eve n better, something that is an improvement in the situation, that makes it more pl easant or cheaper or more beneficial.  “That’s worked for me so far,” Andrea says, meaning that is how I’ve always done things and I have been successful. 
+
+Dominic says, “Is that how you bought your old TV ( the one that doesn’t work anymore)?”  Andrea says, “Yeah.”  Dominic says, “En ough said.”  “Enough said” is an informal phrase that we use when something is  so obvious that you don’t need to add any additional information.  What Domin ic is saying here is that because Andrea doesn’t read the product reviews she  buys things like her old television that don’t work, and this is going to th e perhaps a problem with her new television.  He doesn’t need to detail this arg ument; he doesn’t need to explain this anymore, it should be obvious to Andre a what the problem is with her thinking – with her logic.  That’s why he just says , “Enough said.” 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Dominic:  Do you want some help with that box? 
+
+Andrea:  Sure, thanks.   
+
+Dominic:  What is it?   
+
+Andrea:  It’s a new TV.  My old one has been on the  fritz for a week and I needed a new one.   
+
+Dominic:  Is this a highly-rated model?   
+
+Andrea:  Highly-rated?  I just went to the electron ics store and bought it.  It was on sale. 
+
+Dominic:  You mean you didn’t read up on it before you bought it?  You didn’t look at the reviews? 
+
+Andrea:  No, I never do that.  I think that’s a was te of time.  I go with my gut.  
+
+ Dominic:  But if you read the reviews, you’ll know which product gives you the best value, which is the most reliable and durable,  and which company has good customer support.  Nobody wants to buy something th at’s defective or poorly designed.  Don’t you care about those things? 
+
+Andrea:  Maybe, but who has time to do that?  Inste ad, I go to the store and see which one I like overall.  If it’s on sale, that’s all the better.  That’s worked for me so far. 
+
+Dominic:  Is that how you bought your old TV? 
+
+Andrea:  Yeah. 
+
+Dominic:  Enough said. 
+
+[end of dialogue]  
+
+We think our ESL Podcasts provide you with good val ue, thanks to the wonderful scripts by Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

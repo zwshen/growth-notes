@@ -1,0 +1,98 @@
+# Eating Spicy Foods
+
+Welcome to English as a Second Language Podcast num ber 1,165 – Eating Spicy Foods. 
+
+This is English as a Second Language Podcast episod e 1,165. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to ESLPod.com and take a look at our ESL Podcast  Store. Go shopping for courses in Business and Daily English. You can also  become a member of ESL Podcast and download the Learning Guide for this ep isode. All of that, right on our website.  
+
+This episode is a dialogue between Akim and Wendy a bout eating food that is spicy. Let’s get started. 
+
+[start of dialogue] 
+
+Akim: Oh, this is so good! Why are your eyes wateri ng? 
+
+Wendy: It’s so spicy! When you invited me over for curry, I didn’t know it’d be so hot. 
+
+Akim: This is mild or maybe medium. I make another version of this that’s much hotter. In fact, I like mine with some extra pepper s and some hot sauce. Do you want any? 
+
+Wendy: Are you kidding me?! The roof of my mouth is  on fire. 
+
+Akim: You must have very sensitive taste buds. This  has a little kick to it and it’s pungent and zesty, but it’s not too spicy. 
+
+Wendy: You must have no taste buds at all if you th ink this is mild. My mouth needs to cool down from all that heat. I need more water – now! 
+
+Akim: All right, but you don’t want to fill up on w ater. I’ve made a special dessert. 
+
+Wendy: Is that supposed to be mild, too? 
+
+Akim: No, that really is spicy! 
+
+[end of dialogue] 
+
+This episode is about eating spicy food. The adject ive “spicy” (spicy) refers to a very strong flavor in your mouth that feels like yo ur mouth is on fire, that your mouth is burning. When you eat spicy food, you migh t have to immediately drink some water because it’s as if your mouth were on fi re. Of course, it isn’t actually on fire, but that’s the meaning of this adjective “ spicy” when describing food.  
+
+Akim says, “Oh, this is so good!” Then he asks Wend y, “Why are your eyes watering?” If your eyes “water,” your eyes begin to  fill with what we call “tears” (tears), which is basically fluid that is in your e ye that is more than what your eye needs, and of course if there’s more fluid there, t hen the fluid – the tears come out of your eyes and go down your face. Usually peo ple have their eyes water when they are sad, when they are in pain, or as in the case of our dialogue, perhaps when the food is very spicy.  
+
+Wendy says, “It’s so spicy,” referring to the food.  “When you invited me over for curry, I didn’t know it’d be so hot.” “Curry” (curr y) is a dish usually associated with India, in which you cook meat and or vegetables in a spicy sauce. There are other kinds of curry as well. There’s Japanese curr y, which I really like. I also like Indian curry, just to be fair. However, here it app ears that Wendy and Akim are eating Indian curry.  
+
+Wendy was “invited over” by Akim, meaning Akim said , “Come to my house and we will eat a meal.” Curry can also be one of those  foods that is very hot because of the, what we would call, “spices” (spices). The word “spicy” of course comes from the word “spice.” We usually describe spicy fo od as being “hot.” The word “hot” can be used to describe food in two different  ways.  
+
+A food or a dish is “hot” when it is physically at a high temperature. The opposite of “hot” in that case would be “cold.” So, food can  be hot. Food can be cold. Here, however, “hot” means very spicy. The opposite  of “spicy food” is not “cold,” but “mild” (mild). So, we have “hot” and “cold” foo d, referring to temperature. We have “hot” and “mild” food, referring to the spicin ess of the food. 
+
+Akim says, “This is mild or maybe medium.” In betwe en “hot” and “mild” food, in terms of spiciness, is “medium” (medium). “Medium s picy” is a little spicy but not too spicy. Of course, that really depends on your t aste for food whether you think something is “mild” or “medium.”  
+
+Lots of other kinds of dishes can be spicy. Mexican  food, for example, can often be spicy. So can food from Thailand and many other countries. I know there are  
+
+many different types of food out there. I could spe nd all day mentioning the different kinds of food, but today we’re using as a n example Indian curry as being “hot,” “mild,” or “medium.”  
+
+Akim says, “I make another dish of this” – that is,  of curry – “that’s much hotter. In fact, I like mine,” meaning my curry, “with some ex tra peppers and some hot sauce.” “Peppers” (peppers) are vegetables that can  often make food very spicy, especially the seeds inside of the peppers. Peppers  come in different colors, and many peppers aren’t spicy at all, but some of them can be very spicy. Akim also mentions “hot sauce.” Hot sauce is a liquid that so me people put on their food that is usually made from spicy peppers.  
+
+Akim says, “Do you want any?” meaning any extra pep pers and hot sauce. Wendy says, “Are you kidding me?” That expression “ Are you kidding me?” when said in a certain way, means “Are you joking with m e? Are you crazy?” In other words, it’s said in disbelief – you can’t believe t he person is actually telling you what he’s telling you. In this case, Wendy can’t be lieve Akim actually thinks she wants her food to be even spicier.  
+
+She says, “The roof of my mouth is on fire.” The “r oof (roof) of your mouth” is the top part of your mouth, the part above your tongue.  You have a roof on your house, of course – that’s the top of your house. Th e roof of your mouth is the top of your mouth. “To be on fire” can mean to be actua lly burning with a flame, but here it just means to have a burning feeling or sen sation because the food is so spicy.  
+
+There’s another meaning of the expression “on fire”  that’s a little more recent in terms of its use. “To be on fire” can also mean to be doing something very well, to really be excelling or performing in a way that is the best that you can do, perhaps the best that anyone around you is doing.  
+
+For example, if you’re a basketball player and you’ re scoring a lot of points in a single game, we might describe you as being “on fir e,” meaning you’re doing really, really well. We could also say that you’re “hot.” In baseball, a “hot hitter” is someone who’s getting a lot of hits, especially in a short period of time. There is also the song you might have heard by Alicia Keys a  few years ago: “This girl is on fire.” Well, she sang it a little better than I did. I’m not really on fire when it comes to my singing right now.  
+
+Back to the dialogue. Akim says, “You must have ver y sensitive taste buds.” “Taste buds” (buds) are those points on your tongue  and in the inside of your mouth that can sense the taste of food. We call tho se “taste buds.” Akim says,  
+
+“This,” meaning this curry, “has a little kick to i t.” When we describe food as having “a little kick (kick) to it,” we mean it’s a  little bit spicy. It’s not very spicy.  
+
+Akim says, “The food is pungent and zesty, but it’s  not too spicy.” “Pungent” (pungent) means having a very strong smell or taste . “Zesty” (zesty) usually refers to food that has a slightly spicy flavor. It ’s mild but it’s a little bit spicy. Wendy says, jokingly perhaps, to Akim, “You must ha ve no taste buds at all if you think this is mild. My mouth needs to cool down  from all that heat. I need more water – now!” Wendy says that Akim must not ha ve any taste buds if he doesn’t think this food is spicy.  
+
+She says, “My mouth needs to cool down from all tha t heat.” “To cool down” means to lower the temperature of something. Here i t just means to feel less of the burning sensation. “Heat” (heat), again, means here something that is caused by very spicy food. People often drink water after they eat spicy food thinking that that will cool down their mouth and make the sensat ion of the burning disappear. I’m not sure if that actually happens, but people d o it. I heard somewhere that if you put salt in your mouth, that will help with the  burning sensation. I don’t know. Don’t ask me. I’m not an expert. 
+
+Anyway Akim tells Wendy not to “fill up on water” b ecause he’s made a special dessert. “To fill up on” something means to eat or drink a lot of something, so much so that you’re no longer hungry. If you are go ing to someone’s house for dinner and you have, say, a bag of Macadamia nuts ( which are my favorite kind of nuts, by the way, in case anyone’s looking for a  Christmas present to buy me), you don’t want to eat all of your bag of nuts. You don’t want to fill up on the macadamia nuts, because then you won’t be hungry fo r the dinner that you are going to go and eat, or are supposed to eat. 
+
+Akim says, “I’ve made a special dessert” (dessert).  A “dessert” is usually, in the United States anyway, a sweet food that is served a t the end of a meal. Wendy says, “Is that supposed to be mild, too?” She wants  to know if the dessert is going to be mild. Akim says, “No, that’s really spi cy.” Akim, of course, thinks his curry is mild, so if the dessert is supposed to be spicy, well then it will be really spicy for Wendy.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Akim: Oh, this is so good! Why are your eyes wateri ng? 
+
+Wendy: It’s so spicy! When you invited me over for curry, I didn’t know it’d be so hot. 
+
+Akim: This is mild or maybe medium. I make another version of this that’s much hotter. In fact, I like mine with some extra pepper s and some hot sauce. Do you want any? 
+
+Wendy: Are you kidding me?! The roof of my mouth is  on fire. 
+
+Akim: You must have very sensitive taste buds. This  has a little kick to it and it’s pungent and zesty, but it’s not too spicy. 
+
+Wendy: You must have no taste buds at all if you th ink this is mild. My mouth needs to cool down from all that heat. I need more water – now! 
+
+Akim: All right, but you don’t want to fill up on w ater. I’ve made a special dessert. 
+
+Wendy: Is that supposed to be mild, too? 
+
+Akim: No, that really is spicy! 
+
+[end of dialogue] 
+
+We serve our English spicy here at ESL Podcast. Tha t’s because our scriptwriter is on fire – Dr. Lucy Tse, of course. 
+
+From Los Angeles California, I’m a very mild Jeff M cQuillan. Thanks for listening. Come back and listen to us again right here on ESL Podcast. 
+

@@ -1,0 +1,102 @@
+# Hotel Tour Desk
+
+Welcome to English as a Second Language Podcast num ber 138: Hotel Tour Desk. 
+
+You’re listening to English as a Second Language Po dcast episode 138. I’m your host, Dr. Jeff McQuillan, coming to you from the Ce nter for Educational Development in beautiful Los Angeles, California. 
+
+On this podcast, we’re going to be talking about ma king a reservation in a hotel to take a tour. Let’s go! 
+
+[start of dialog] 
+
+Sam: Hi, is this where I can get information on tou rs? 
+
+Nan: Yes, I can help you with that. What type of to ur are you thinking about? There are some great city tours that are half-day o r full- day.  
+
+Sam: You know, we've explored the city a lot since we've been here. I was actually thinking of a side trip. 
+
+Nan: Oh, sure. We have excursions to nearby attract ions. There are one-day trips or two-day overnight trips, depending on whic h one you pick. 
+
+Sam: I think I'm interested in a hiking trip to the  mountains. I'm big on nature. Are the overnight trips expensive?  
+
+Nan:  Not at all. They are very moderately priced, starting at $120 and up. Here's a brochure on the three hiking tours that are avail able. All three are guided tours, and meals and transportation are included.  
+
+Sam: Do I need to book ahead? 
+
+Nan: Yes, this company requires that you make a res ervation 24 hours ahead.  
+
+Sam: Great. I'll take a look at the brochure. Can I  book that here at the hotel tour desk, or do I call the company directly?  
+
+Nan: I can book that for you. Just stop by when you 've made a decision and I'll take care of it for you. 
+
+Sam: That's great. Thanks a lot for your help. 
+
+Nan: It's my pleasure. Let me know if you have any questions.  
+
+Sam: I will. Thanks. 
+
+[end of dialog] In this podcast, we are at a hotel and we are talki ng to the person who works at the tour desk – the place where you can go in a goo d hotel to reserve a tour. A “tour” (tour) can be anything from a couple of hour s to a couple of weeks. A “tour” is a general term we use for – usually for when som eone takes you somewhere and serves as your, we would call “guide” (guide) –  and they’re called “the tour guide.” And that’s the person who knows all of the information and tells you the information and takes care of all of the arrangemen ts that you need when you are travelling.  
+
+In the dialog, Sam asks Nan – the person working at  the tour desk – if this is the place to get information on tours. She says it is, and asked “What kind of tour are you thinking about?” What are you planning? “There are some great city tours that are half-day and full-day,” she says. A “city tour” (city) – a “city tour,” of course, would be a tour of whatever city you are in . So, here in Los Angeles, the city tour would take you to the beach. It would tak e you to Hollywood and so forth.  
+
+A “half-day tour” (half-day) – “half-day,” of cours e, would be four hours usually – three to four hours. So, from eight in the morning until 12 noon or from one in the afternoon until five PM – that would be a half day tour. And a “full-day tour,” of course would be the entire eight hours or 10 hours.  Sometimes, you go in a tour. It can last as much, a day tour of 12 hours.  
+
+Well, Sam says that they’ve explored the city and s o he doesn’t want to take a city tour. To say “We have explored (explored) the city” means we’ve already looked around at the things to see here in the city . “To explore” usually means to go somewhere where very few people or no one has go ne before, and we talk about the great explorers – people who went places where no one had gone before them. But here, as a verb, “to explore” just  means to look at, to visit different places.  
+
+Sam says he’s actually thinking of a “side trip.” A  “side (side) trip” – two words – would be, for example, you go to a big city like Lo s Angeles, but you want to travel down to see San Diego, which is about 2 hour s from here, driving. So, you go down to San Diego, then you come back to Los Ang eles, and stay in Los  
+
+Angeles some more time. So, San Diego is a “side tr ip.” It’s a trip you take from the place where you are visiting. 
+
+Nan says that “We have excursions to nearby attract ions.” An “excursion” (excursion) is usually, a short trip to somewhere, to some interesting place, usually, less than one day. So, we’re going to take  an excursion to the Los Angeles Zoo, for example, to see the animals and th e actors. We keep the actors in cages in a zoo here. I’m just kidding. We should , but we don’t.  
+
+So, you take an excursion to the zoo – that would b e a short trip – or an excursion to the beach. An “attraction” (attraction ) – an “attraction” is just an interesting place to visit, usually for someone who  is a tourist. And, of course a “tourist” (tourist) is someone who is visiting – so meone who is on vacation. And attractions could be, for example, Disneyland – cou ld be an attraction. Venice Beach is an attraction – any place that’s interesti ng to visit is an attraction. The tour person also says that they have overnight trip s. And of course, an “overnight (overnight) trip” is when you go somewhere and you stay at a hotel, maybe for one or two nights and then you come back to the hot el where you are staying. So, a side trip could be an overnight trip as well.   
+
+Sam says that he’s interested in a “hiking trip.” A nd “to hike” (hike) is to walk – usually in the mountains or somewhere out away from  the city. He says that he’s “big on nature.” To say you are “big (big) on somet hing” is an informal expression. It just means that you like it a lot. “ I am big on singing.” I like to sing – not very well, but I am big on it. I like it. I enj oy it.  
+
+Sam asks if the tours are expensive and the tour op erator – we would probably call her, or the tour desk person – says that they are moderately priced. When we say something is “moderately (moderately) priced  (priced)” – to say something is “moderately priced” means it’s not exp ensive but it’s not “cheap” (cheap) either. “To be cheap” means to be very inex pensive – not to cost very much money. So, it’s not a lot of money, but it’s n ot a little money either. It’s somewhere in between – moderately priced.  
+
+The prices of the tours, according to the tour desk  person, are “$120 and up.” When we use the expression with money, “and up” (up ), we mean that it can be more expensive. It can cost more money. So, “The to urs are $120 and up” means the cheapest tour, the least expensive tour, is $120, but there are more expensive tours also available - $140, $160 and so forth. So, the expression “and up” is used when you’re giving the lowest price of something but also telling the person that there are more expensive items or thing s that you are selling.  
+
+The person – Nan – then gives Sam a brochure, and a  “brochure” (brochure) is a piece of paper – sometimes with pictures on it, som etimes it’s folded, and it gives you information about something that you are intere sted in buying. Usually – often we use brochures for tours, travel tours, so people can see pictures of where they are going to be visiting, get informatio n about how long the tour lasts and so forth. You can also have a brochure for some thing you are selling. You’re selling, for example – if you are going to buy a ca r and you go to the place where they sell cars – what we would call a “car dealersh ip” or a “car dealer” (dealer), someone who sells new cars – you can get a brochure  about the car that will give you pretty pictures and information about it. 
+
+Nan says that all of the tours they have are “guide d” tours – (guided) – “guided tours” and “to be guided” means, we’ve said before,  that the person who runs the tour is the tour guide. Well, a “guided tour” is a tour that has someone who is in charge – someone who is giving you information and is the person who works for the tour company. Sam asks if he needs to “book ahe ad.” “To book,” (book) you probably know, means to make a reservation, to rese rve. And “to book ahead” (ahead) means to make a reservation in advance – a day before or two days before you are going to go.  
+
+Nan says that “You do need do make a reservation 24  hours ahead.” Sam says, “Can I book here or do I call the company – the tou r company – directly?” When we say, “I’m going to call them directly” (directly ) we mean I’m going to call their headquarters. I’m going to call their company and m ake a reservation with the home or the main office. Nan says, “No. You can mak e the reservation here at the hotel. Just stop by when you’ve made a decision .” “To stop (stop) by (by)” – two words – means to go somewhere and in this case,  to go back to the tour desk and give the information. So, “to stop by” mea ns to return or to go somewhere for a short period of time.  
+
+Now let’s listen to the dialogue this time at a nat ive rate of speech. 
+
+[start of dialog] 
+
+Sam: Hi, is this where I can get information on tou rs? 
+
+Nan: Yes, I can help you with that. What type of to ur are you thinking about? There are some great city tours that are half-day o r full- day.  
+
+Sam: You know, we've explored the city a lot since we've been here. I was actually thinking of a side trip.  
+
+ Nan: Oh, sure. We have excursions to nearby attract ions. There are one-day trips or two-day overnight trips, depending on whic h one you pick. 
+
+Sam: I think I'm interested in a hiking trip to the  mountains. I'm big on nature. Are the overnight trips expensive?  
+
+Nan:  Not at all. They are very moderately priced, starting at $120 and up. Here's a brochure on the three hiking tours that are avail able. All three are guided tours, and meals and transportation are included.  
+
+Sam: Do I need to book ahead? 
+
+Nan: Yes, this company requires that you make a res ervation 24 hours ahead.  
+
+Sam: Great. I'll take a look at the brochure. Can I  book that here at the hotel tour desk, or do I call the company directly?  
+
+Nan: I can book that for you. Just stop by when you 've made a decision and I'll take care of it for you. 
+
+Sam: That's great. Thanks a lot for your help. 
+
+Nan: It's my pleasure. Let me know if you have any questions.  
+
+Sam: I will. Thanks. 
+
+[end of dialog] 
+
+The script for today’s podcast was written as alway s, by Dr. Lucy Tse and we thank Lucy for her work.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. We’ll see you next time on ESL Podcast. 
+
+English as a Second Language podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. This podcast is copyr ight 2006.
+

@@ -1,0 +1,92 @@
+# Shopping for a Hat
+
+Welcome to English as a Second Language Podcast number 5 47: Shopping for a Hat. 
+
+This is English as a Second Language Podcast episode 547.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+If you enjoy listening to these audio files, consider be coming a member of ESL Podcast to support this effort.  You can go to our websit e at eslpod.com.  Not only will you be helping us continue to provide these fre e audio files, but you’ll also improve your English even faster with our Learning Guides. 
+
+This episode is called “Shopping for a Hat.”  Christine and Eric are trying to buy a hat, and we’ll, of course, be introduced to lots of vocab ulary related to hats.  Let’s get started. 
+
+[start of dialogue] 
+
+Christine:  What do you think of this one?   
+
+Eric:  We’re here to buy hats to protect us from the sun while we’re on vacation. Do you think a beret will do that? 
+
+Christine:  No, but it looks great on me, don’t you th ink?  Isn’t it great to be getting away to the beach in the middle of winter!  I  already picked out a straw hat with a wide, floppy brim, so I’m all set for the t rip. 
+
+Eric:  In that case, help me pick one out.  How about t his baseball cap? 
+
+Christine:  Well, the brim gives your face plenty of shade , but it leaves the back of your head exposed.  How about this helmet? 
+
+Eric:  Very funny.  Do you want me to suffocate in this t hing?  Okay, hand me that cowboy hat. 
+
+Christine:  That looks cute on you, but it’s huge and it ’s going to get squished in the luggage.  Hey, try these two hats on! 
+
+Eric:  Stop messing around.  I don’t need a top hat, a nd that one looks like a bonnet!  
+
+ Christine:  Okay, okay, how about this straw hat?  Like min e, it’s soft enough to travel in a suitcase.   
+
+Eric:  Hey, this one isn’t bad.  How do I look? 
+
+Christine:  Just like the tourist that you are, but that makes two of us.   
+
+Eric:  I couldn’t care less.  I don’t care if I look cool on vacation as long as I am cool! 
+
+[end of dialogue] 
+
+Christine says to Eric, “What do you think of this one?”  S he’s showing Eric a “hat,” something you put on your head.  Eric says, “We’ re here to buy hats to protect us from the sun while we’re on vacation.”  “T o protect (something)” means to keep it safe or to keep it out of danger.  Er ic wants to protect his face and his neck so that the sun doesn’t hit it and give him “sunburn,” when the sun makes your skin red and dry.  Eric says, “Do you think a bere t will do that?”  A “beret” is a small, round hat, with a tight piece next  to the head.  It’s traditionally something associated with the French, and it would almost  certainly be too small to protect against much of the sun.  You don’t see ber ets very often in the U.S., although at certain times they were popular.  There wa s a song by the rock singer Prince that was called “Raspberry Beret.”  [Jeff sin gs]  She wore a raspberry beret... See, it’s about a girl he likes that is wearing a beret  that is the color of a raspberry, which is a small red fruit. 
+
+Anyway, Christine tells Eric that no, the beret will not  protect against the sun. She says, “it looks great on me, don’t you think (the bere t)?  Isn’t it great to be getting away to the beach in the middle of the winter !”  “To get away” means usually to go on a vacation, to go to another part of the country or the world. Christine says, “I already picked out a straw hat with a w ide, floppy brim, so I’m all set for the trip.”  A “straw hat” is a hat made fr om dried pieces of hay or grass that have been put together; we would say they’ve been “woven” together.  This hat has a wide, floppy brim.  The “brim” (brim) is th e part of the hat that extends, or sticks out, beyond the head to protect your face.  It can  also go around and protect the back of your neck.  So the brim is the part of  the hat is not directly on your head; it extends out in front, sometimes on the side s and in the back.  A “floppy brim” is one that is flexible; it moves easily.  “F loppy,” as an adjective, means something that usually hangs down a little bit, is flexible.  You can think of the ears of a dog.  Some dogs have floppy ears; they hang  down and they’re flexible.    
+
+ Christine says she’s all set for the trip, meaning she’s rea dy for the trip.  Eric says, “In that case, help me pick one out (help me select on e).  How about this baseball cap?”  He means what do you think of: “How abou t this baseball cap?” A “cap” is just another word for a hat that is very small,  that fits, we would say, closely around the head.  But there’s a part in front t hat sticks out – there’s a brim that sticks out in front.  We call these baseball caps becau se they’re the kind of caps, or hats, that baseball players wear.  If you ever h ave seen an American baseball game, you know what these hats look like.  They’re  very popular for people not playing baseball as well.  I have a couple of  baseball caps that I use to keep the sun away from my face – to protect my face fro m the sun. 
+
+Christine says, “Well, the brim gives your face plenty of sh ade, but it leaves the back of your head exposed.”  “Shade” is an area of darkness that is created when the sun or some bright light is blocked, so that you  can’t see the light.  For example, if you are in a park, and there’s a tree, and  the sun is coming up in the sky, you can stand by the tree so that the tree is blocking th e sun.  You would be in the shade; the tree is shading you, it’s giving you p rotection from the sun.  The word “shade,” along with the word “brim,” has other m eanings; take a look at our Learning Guide for some additional explanations.  Chri stine says the baseball cap gives Eric shade in the front, but not in the back.  S he says, “the back of your is head exposed.”  “To be exposed” can mean that other people can see you or see something.  Here, it really means not protected.  In  other words, the back of the head will not be protected from the sun.  Christin e suggests to Eric, “How about this helmet?” meaning what do think about this h elmet, here’s something else you can wear.  A “helmet” (helmet) is a very large,  heavy, strong hat.  It’s typically used by people who are riding motorcycles; they oft en wear helmets. Soldiers in an army will often have a helmet to protect  their head.  That’s a helmet.   
+
+Of course, Christine isn’t serious, because you would not wear a helmet just to protect your head from the sun.  So Eric says, “Very funny ,” which is an expression that we use sometimes to mean that’s not very f unny, I don’t think you’re very funny.  So Eric says, “Very funny.  Do you want me to suffocate in this thing?”  “To suffocate” means to not be able to b reathe, usually because something is covering your mouth.  Eric says, “Okay, hand me that cowboy hat.” A “cowboy hat” is a large hat that has a soft top and a very large brim – a large, circular area that goes around the entire head.  Tradi tionally, it was a hat worn by men in the American West when they rode horses.  So if yo u ever have seen a movie, which we would call a “Western,” about 19th century in the western part of the U.S., you have seen, no doubt, a cowboy hat.  Cowbo y hats are still worn by men in some parts of this country, not so much here in S outhern California.  
+
+ Eric wants the cowboy hat, and Christine says that it looks cute on him, meaning it looks nice on him; it looks good when he’s wearing it .  “But,” she says, “it’s huge (it’s very big) and it’s going to get squished in th e luggage.”  “To get squished” (squished) means to put a lot of pressure on som ething, and you, without wanting to, will make it smaller and it will lose its shape.  There’s a similar verb, “to squash,” which doesn’t help you very much.  You  can think of a soft hat, like a baseball cap or a cowboy hat, that has a big book o n top of it.  Well, the book will press against the hat and make it flat; it wil l squish it.   
+
+Christine then gives Eric two more hats to try on, meanin g to put on to see if he likes them.  Eric says, “Stop messing around,” meaning sto p joking, stop fooling around.  She has given him two hats that he is obviously n ot going to wear as a joke.  One of them is a top hat.  A “top hat” is a very tall hat, usually black or gray, that is sometimes, not very often, worn by men for a  formal occasion. Abraham Lincoln, our 16th president, is often pictured in a top hat.  It’s an ol d- fashioned kind of hat that you don’t see very much anymor e.  Christine also gave Eric a bonnet (bonnet).  A “bonnet” is a hat worn by w omen, where you put a certain piece of fabric over the head, and then there’ s a string down below that that you tie underneath your chin.  Once again, it’s an  old-fashioned hat for the most part, not that common anymore. 
+
+Christine says, “Okay, okay, how about this straw hat?  Like  mine, it’s soft enough to travel in a suitcase.”  Eric says, “Hey, this on e isn’t bad (meaning it’s pretty good).  How do I look?”  Christine says, “Just like the tourist that you are,” meaning you look like a “tourist,” someone who obviously i s visiting a place. “But,” she says, “that makes two of us.”  The phrase “tha t makes two of us” is used to show that the same thing is true for you, often when you agree with what someone says or what applies to their situation applies to your situation. Someone could say to you, “I’m worried about losing my j ob in this economy,” and the other person says, “That makes two of us.”  They me an they are also worried about losing their job. 
+
+Eric says, “I couldn’t care less (meaning it doesn’t bother me that I look like a tourist).  I don’t care if I look cool on my vacation as long as I am  cool!”  Here, “cool” has two different meanings.  In the first case, “i f I look cool” means if I look attractive, interesting, something that other people wo uld like.  “Cool,” as an adjective, used to describe things that are popular, at least it was a few years ago.  “Cool” can also mean a comfortable temperature, a temperature that is not too hot.  So, Eric is using both meanings here.  He says a s long as I am cool, meaning I’m not hot, I don’t care if I don’t look cool , meaning if I don’t look attractive, if people don’t think what I’m wearing is a ttractive.  
+
+ Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Christine:  What do you think of this one?   
+
+Eric:  We’re here to buy hats to protect us from the sun while we’re on vacation. Do you think a beret will do that? 
+
+Christine:  No, but it looks great on me, don’t you th ink?  Isn’t it great to be getting away to the beach in the middle of winter!  I  already picked out a straw hat with a wide, floppy brim, so I’m all set for the t rip. 
+
+Eric:  In that case, help me pick one out.  How about t his baseball cap? 
+
+Christine:  Well, the brim gives your face plenty of shade , but it leaves the back of your head exposed.  How about this helmet? 
+
+Eric:  Very funny.  Do you want me to suffocate in this t hing?  Okay, hand me that cowboy hat. 
+
+Christine:  That looks cute on you, but it’s huge and it ’s going to get squished in the luggage.  Hey, try these two hats on! 
+
+Eric:  Stop messing around.  I don’t need a top hat, a nd that one looks like a bonnet! 
+
+Christine:  Okay, okay, how about this straw hat?  Like min e, it’s soft enough to travel in a suitcase.   
+
+Eric:  Hey, this one isn’t bad.  How do I look? 
+
+Christine:  Just like the tourist that you are, but that makes two of us.   
+
+Eric:  I couldn’t care less.  I don’t care if I look cool on vacation as long as I am cool! 
+
+[end of dialogue] 
+
+The scriptwriter for this episode was the always cool Dr. Lucy Tse.   
+
+ From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

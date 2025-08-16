@@ -1,0 +1,100 @@
+# Being a Job-Hopper
+
+Welcome to English as a Second Language Podcast num ber 1,288 – Being a Job-Hopper. 
+
+This is English as a Second Language Podcast episod e 1,288. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+This episode is a dialogue between Simon and Maggie  about a person who doesn’t work at one job for very long. Let’s get st arted. 
+
+[start of dialogue] 
+
+Simon: Hey Maggie, I just stopped by to say good-by e. This is my last week. 
+
+Maggie: What? You’re leaving? You’re not being fire d, are you? 
+
+Simon: No, I have another job lined up. It’s with a  bigger company. 
+
+Maggie: But you’ve worked here for less than a year . You’re quitting? 
+
+Simon: Yeah, I’ve been putting out feelers for the past couple of months. I’m ready for a change. 
+
+Maggie: Are you sure this is the right move? You do n’t want to be labeled as a job-hopper. 
+
+Simon: I appreciate your concern, but I’m not a lif er, that’s for sure. 
+
+Maggie: But you’ve moved three times in the past th ree years. Aren’t you afraid of being considered unstable or disloyal? It’s norm ally considered career suicide to move from job to job. 
+
+Simon: I know that some people spend 20 years in th e same company, climbing the corporate ladder and working toward their pensi on, but that’s just not me. 
+
+Maggie: Aren’t you afraid companies won’t invest in  you because they’re afraid you’ll jump ship? 
+
+Simon: Nope. It hasn’t happened yet. 
+
+Maggie: Well, then I wish you all the best. Maybe I ’ll cross paths with you again in your twentieth or thirtieth job. 
+
+[end of dialogue] 
+
+This episode is about a “job-hopper” (hopper). A “j ob-hopper” is someone who moves jobs frequently, who doesn’t stay at any one job for a very long time. Simon begins our dialogue by saying, “Hey Maggie, I  just stopped by to say good-bye.” The phrasal verb “to stop by” (by) means  to visit somewhere or to go somewhere for a very short time, usually for an inf ormal visit with someone. “I’m going to stop by at my brother’s house on my way to  work just to say hello.”  
+
+Often we use this phrasal verb when we aren’t plann ing on doing something in advance, but decide perhaps at the last minute or o n very short notice to do something. That’s not always the way this phrasal v erb is used, however. It could be something that we also planned. You could say, “ I’m going to stop by the grocery store to buy some milk on my way to my brot her’s house.” So, “to stop by” can also be used when we are going to stop or g o more than one place before we reach our destination, before we go to th e final place we are planning on going.  
+
+Simon is saying good-bye to Maggie because this is his “last week” – his last week of work. Maggie is surprised. She says, “You’r e not being fired, are you?” “To be fired” (fired) means to lose your job becaus e your boss or your company says you can no longer work there. There are two wa ys to stop working somewhere. One is to “quit” (quit), which is when y ou decide that you don’t want to work at a place. The other way to end your emplo yment is “to be fired.” That’s when your company says, “We don’t want you working here anymore.”  
+
+Simon is not being fired. He says, “I have another job lined up.” “To be lined (lined) up” means to be ready to use or waiting for  you to use. In this case, it means that Simon has another job that he is going t o move to. He says this other job is with a bigger, a larger, company. Maggie say s, “But you’ve worked here for less than a year. You’re quitting?”  
+
+Simon says, “Yeah,” meaning yes. “I’ve been putting  out feelers for the past couple of months,” he says. The phrase “to put out feelers” (feelers) means to ask other people or to tell other people about some thing that you have that you think they may want, to see if they are interested.  “To put out feelers” means to determine whether other people, in this case, are i nterested in giving you a job.  
+
+You may mention to your friend who works at another  company, for example, that you are interested in leaving your company. Yo u want to find out if your friend’s company may be interested in hiring you – that is, in giving you a job. That would be an example of “putting out feelers.” You don’t necessarily go to the company directly, but you tell people about your si tuation to see if someone may be interested in hiring you.  
+
+Simon says he’s ready for a change. Maggie asks, “A re you sure this is the right move?” meaning this is the correct decision or the right thing to do. “You don’t want to be labeled as a job-hopper,” she says. “To be labeled” (labeled) as something means to be seen in a certain way, especi ally something that perhaps you don’t want to be seen as. If you are labeled as  a lazy person, that means people think you are lazy, and of course you don’t want people to think you are lazy, normally.  
+
+Maggie is concerned that Simon will be considered o r labeled as a “job-hopper,” someone who doesn’t stay at a job very long. Many p eople think this is a bad thing, that a person who is considered a job-hopper  will have difficulty finding jobs because no one will want to hire that person k nowing the person will leave in a few months, say. Simon says, “I appreciate your c oncern,” meaning I thank you for being worried about me, “but I’m not a lifer, t hat’s for sure.” The term “lifer” (lifer) refers to a person who works for one compan y his entire career or his entire life. Simon says he’s not a lifer.  
+
+Maggie says, “But you’ve moved three times in the p ast three years,” meaning he’s had three different jobs in three years. “Aren ’t you afraid of being considered unstable or disloyal?” “To be unstable” (unstable) means to be not stable. That prefix “un” means “not,” usually. “To be not stable ” means that you aren’t reliable. You are not dependable. You’re not steady or consis tent. If someone is “unstable,” someone may change next week or a month  from now. “To be disloyal” (disloyal) means to be not loyal. The pre fix “dis” is often used like the prefix “un” to mean “not.”  
+
+So if you are “disloyal,” you are not loyal. “To be  loyal” means to be committed to a person, to defend a person, or to stay with that person – or in this case, a company – for a long time. Maggie is saying that Si mon will be considered disloyal if he continues to job-hop. “It’s normally  considered career suicide to move from job to job,” she says. “Career” (career) refers to your job history or your work life, what you do to make money. “Suicide ” (suicide) normally means to kill yourself. “Career suicide,” then, is a phrase that means to ruin your chances of having a good career, of having good jobs.  
+
+Simon says, “I know that some people spend 20 years  in the same company, climbing the corporate ladder and working toward th eir pension, but that’s just not me.” The expression “to climb (climb) the corporate  (corporate) ladder (ladder)” means to work in a single company, going from one j ob to the next, each time getting a better job, but doing it slowly.  
+
+So you begin in one job, and then you get another j ob in the same company that is better paying and has more responsibility, and t hen you get another job a few years later in the same company, higher up in the c ompany. That would be “climbing the corporate ladder.” A “pension” (pensi on) is money that the company gives you after you retire, money that you will liv e on after you retire. Maggie says, “Aren’t you afraid companies won’t invest in you because they’re afraid you’ll jump ship?”  
+
+“To invest” (invest) in a person, in someone, means  to spend money and time on a person, perhaps giving that person more skills or  training so that that person will be a better employee, a better worker for you.  Maggie is saying that if companies think he’s not going to stay very long, t hey won’t invest in him. They won’t give him a lot of extra training. They’ll be afraid that he will “jump (jump) ship (ship).” The expression “to jump ship” means t o leave a company or an organization and move to a different one, often whe n the company is having a difficult time.  
+
+If you can imagine a ship out on the ocean, a large  boat, and the boat is beginning to sink, beginning to go down into the wa ter, the first thing you would want to do is jump to another ship. You would want to move to another ship that was not sinking. A person who moves from a failing company, from a company that doesn’t seem to be doing very well, to a more successful company could be said to be “jumping ship” – to be moving to the bet ter company. Simon is not afraid that companies will be afraid to invest in h im. He says, “It hasn’t happened yet.”  
+
+Maggie says, “Well, then I wish you all the best,” meaning good luck. “Maybe I’ll cross paths with you again in your twentieth or thi rtieth job.” Maggie is making a joke, saying that Simon may end up having twenty or  thirty jobs if he keeps moving all the time. She says, “Maybe I’ll cross pa ths with you.” “To cross (cross) paths (paths)” means to meet someone in the future by chance, by luck, not by planning it. If you tell someone, “Perhaps our path s will cross in the future someday,” you mean “Maybe someday you and I will se e each other again even when we don’t plan on it.” 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Simon: Hey Maggie, I just stopped by to say good-by e. This is my last week. 
+
+Maggie: What? You’re leaving? You’re not being fire d, are you? 
+
+Simon: No, I have another job lined up. It’s with a  bigger company. 
+
+Maggie: But you’ve worked here for less than a year . You’re quitting? 
+
+Simon: Yeah, I’ve been putting out feelers for the past couple of months. I’m ready for a change. 
+
+Maggie: Are you sure this is the right move? You do n’t want to be labeled as a job-hopper. 
+
+Simon: I appreciate your concern, but I’m not a lif er, that’s for sure. 
+
+Maggie: But you’ve moved three times in the past th ree years. Aren’t you afraid of being considered unstable or disloyal? It’s norm ally considered career suicide to move from job to job. 
+
+Simon: I know that some people spend 20 years in th e same company, climbing the corporate ladder and working toward their pensi on, but that’s just not me. 
+
+Maggie: Aren’t you afraid companies won’t invest in  you because they’re afraid you’ll jump ship? 
+
+Simon: Nope. It hasn’t happened yet. 
+
+Maggie: Well, then I wish you all the best. Maybe I ’ll cross paths with you again in your twentieth or thirtieth job. 
+
+[end of dialogue] 
+
+It’s a good idea to invest in yourself by improving  your English by listening to the wonderful scripts written by our wonderful scriptwr iter, Dr. Lucy Tse.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st.   
+

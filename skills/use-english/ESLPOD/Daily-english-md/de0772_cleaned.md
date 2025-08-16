@@ -1,0 +1,82 @@
+# Types of People at Work
+
+Welcome to English as a Second Language Podcast num ber 772: Types of People at Work. 
+
+This is English as a Second Language Podcast episod e 772.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there, become a memb er, and download a Learning Guide for this episode that will help you improve your English faster than ever. 
+
+This episode is a dialogue between Raul and Ursula about the kind of people you may work with.  Let’s get started. 
+
+[start of dialogue] 
+
+Raul:  Thanks for showing me around on my first day .   
+
+Ursula:  It’s no problem.  I want to give you the l ay of the land and tell you about the people you’ll be working with.  For instance, t hat’s Julie over there.  She’s really nice, but she’s also a perfectionist.  If yo u ever work with her, remember that she’s a stickler about everything. 
+
+Raul:  Okay, I’ll remember that. 
+
+Ursula:  And Phil over there?  He’s a slacker and a  troublemaker.  Stay away from him, far, far away. 
+
+Raul:  Thanks for the warning. 
+
+Ursula:  And that’s Luis.  You’ll be working under him.  He’s a slave driver and a workaholic, and he expects everybody else to be one , too. 
+
+Raul:  That doesn’t sound good. 
+
+Ursula:  Don’t sweat it.  Standing next to Luis is Gil.  He’s a yes-man and very, very ambitious, almost ruthless.  Don’t get in Gil’ s way. 
+
+Raul:  Okay, I won’t.  Thanks for showing me around .  By the way, who’s the office gossip?  
+
+ Ursula:  Oh, we don’t have one of those around here . 
+
+[end of dialogue] 
+
+Raul begins by saying, “Thanks for showing me aroun d on my first day.”  “To show (someone) around” means to give someone a tour  or what we might call an “orientation,” showing them or teaching them where things are.  We often would say that to someone who is new to an office: “Let m e show you around,” let me introduce you to the people who work here, let me t ell you where things are in the office, and so forth.  You could also show someone around who is visiting you from another country or another place.   
+
+Raul thanks Ursula for showing him around on his fi rst day – his first day at work. Ursula says, “It’s no problem.  I want to give you the lay of the land.”  The expression “the lay (lay) of the land” here means h ow things are organized, where things are found.  It might be used in a very  general way to tell someone how something is organized.  It could be a report o r a book; it could be the people in an organization.  In this case, it’s the people in the office.  Ursula says she wants to give Raul the lay of the land and tell  him about the people he’ll be working with.  “For instance (for example), that’s Julie over there,” she says, “She’s really nice, but she’s also a perfectionist. ”  “To be perfect” means to have nothing wrong.  A “perfectionist” wants everything to be without an error – without a mistake; everything has to be perfect.  Someone w ho always wants to be perfect is a perfectionist; that can be a good thin g, that can sometimes be a bad thing.  Ursula says, “If you ever work with Julie, remember that she’s a stickler about everything.”  “To be a stickler” (stickler) m eans to follow the rules exactly, and insist – make sure – that everyone else follows  the rules exactly.  It can also be another word to describe a perfectionist.  Someo ne might say, “I’m a stickler for details.”  That is, I want every little thing t o be correct.  You can be a stickler for something: something that you are very strict a bout, something that you want to make sure is absolutely perfect. 
+
+Raul says, “Okay, I’ll remember that (Julie is a st ickler about everything).”  Ursula says, “And Phil over there?  He’s a slacker and a t roublemaker.”  “To be a slacker” (slacker) is to be lazy, someone who doesn ’t work very hard, someone who doesn’t do their job or do what they’re suppose d to do at their job.  You don’t want to be working with a slacker, someone who neve r does what they’re supposed to do.  “My nephew is a slacker.  He never  works very hard; he doesn’t get very much done.”  I just won’t tell you which n ephew of my 20 nephews I’m talking about, but you know who you are, nephew!  U rsula also says that Phil is a troublemaker.  A “troublemaker” (all one word) is a  person who creates problems,  
+
+who makes trouble, who creates difficulties for oth er people.  Sometimes we talk about a student in school being a troublemaker, cau sing problems in class or getting into trouble outside of school.  But you co uld also be a troublemaker in an organization or a business, where you are always pe rhaps complaining or causing problems.  Ursula says that Raul should sta y away from Phil, far, far away, meaning don’t have anything to do with him.  Raul says, “Thanks for the warning.”  A “warning” is advice about something th at is dangerous or difficult that might happen in the future.  If someone says, “Be careful walking on the ground there, it’s very icy, you could slip and fal l,” that’s a warning, that’s telling you something bad could happen in the future if you ’re not careful. 
+
+Ursula continues, “And that’s Luis.  You’ll be work ing under him.”  “To work under (someone)” means that someone will be your boss, th at person under whom you are working.  “I work under John,” that means John is my boss; John is the person who is my manager, who tells me what I’m sup posed to do.  Ursula calls Luis a “slave driver.”  A “slave” is a person who i s owned by someone else – who is the property of someone else.  Slavery, of cours e, is illegal in almost every country, if not every country.  When slavery was le gal, the people who were in charge of the slaves – who made the slaves work har d – were called the “slave drivers,” and that’s where this expression comes fr om.  It’s someone who makes you work very hard, even if you’re not technically or legally a slave.  Ursula says that Luis is a workaholic.  A “workaholic” (workaho lic) is someone who works constantly; we might say that he is addicted to wor k, someone who works very, very hard all day, even at night.  Someone perhaps who loves to work a lot, that’s usually the idea.  When someone says, “I’m a workah olic,” that means that they like to do it.  They’re addicted to it, just like w e have the expression “alcoholic,” that’s where “workaholic” comes from; that’s where we created that word from.   
+
+Well, Ursula says that Luis is not only a workaholi c, “he expects everyone else to be one, too.”  Everyone else must also work as hard  as he does.  Raul says, “That doesn’t sound good.”  Remember, Luis is going  to be Raul’s boss.  Ursula says, “Don’t sweat it.”  The expression “don’t swea t (sweat) it” means don’t worry about it, don’t get too concerned.  I’m not sure wh y; I would be concerned!  Then Ursula says, “Standing next to Luis is Gil.  Gil is  a yes-man (yes-man).”  Ursula says that Gil is a yes-man.  A “yes-man” is someone  who is always agreeing with his boss or the supervisor, someone who wants to ma ke his or her boss happy so they always say, “Oh, yes, that’s right.  Oh, ye s, I agree with you.”  They never say no to anything their bosses tell them.  Ursula says that Gil is very “ambitious.”  He wants to succeed; he wants to move  up in the company; he wants to get a better job, be more successful.  Urs ula calls Gil “almost ruthless.” “To be ruthless” (ruthless) is to not care about an yone else’s feelings, to not care  
+
+who you hurt; you’re going to get what you want and  it’s not important to you if you hurt other people.   
+
+Ursula says to Raul, “Don’t get in Gil’s way.”  “To  get in (someone’s) way” (way) means to interfere with someone, to prevent someone  from doing something they want to do.  Raul says, “Okay, I won’t (I won’t get  in Gil’s way).”  He says, “Thanks for showing me around.  By the way” – we us e “by the way” as a way of saying oh, one more thing, or I forgot to tell you or forgot to ask you – “By the way, who’s the office gossip?”  A “gossip” (gossip)  is a person who tells other people secrets, who gives private information about  someone else to another person.  Usually these are negative things about so meone else.  “To gossip” can be a verb; it means to talk in this way, to talk ab out other people’s problems: “Did you hear that John didn’t come home last night and that his wife is really angry at him?”  Well, that would be gossip, telling bad thin gs, usually, about other people. Generally speaking, that’s a bad idea.  Ursula answ ers by saying, “Oh, we don’t have one of those around here.”  Of course, Ursula is the office gossip; she’s the one who’s telling Raul all these negative things ab out his coworkers. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Raul:  Thanks for showing me around on my first day .   
+
+Ursula:  It’s no problem.  I want to give you the l ay of the land and tell you about the people you’ll be working with.  For instance, t hat’s Julie over there.  She’s really nice, but she’s also a perfectionist.  If yo u ever work with her, remember that she’s a stickler about everything. 
+
+Raul:  Okay, I’ll remember that. 
+
+Ursula:  And Phil over there?  He’s a slacker and a  troublemaker.  Stay away from him, far, far away. 
+
+Raul:  Thanks for the warning. 
+
+Ursula:  And that’s Luis.  You’ll be working under him.  He’s a slave driver and a workaholic, and he expects everybody else to be one , too. 
+
+Raul:  That doesn’t sound good. 
+
+Ursula:  Don’t sweat it.  Standing next to Luis is Gil.  He’s a yes-man and very, very ambitious, almost ruthless.  Don’t get in Gil’ s way. 
+
+Raul:  Okay, I won’t.  Thanks for showing me around .  By the way, who’s the office gossip? 
+
+Ursula:  Oh, we don’t have one of those around here . 
+
+[end of dialogue] 
+
+Our scriptwriter is no slacker; that’s because we h ave the perfectionist Dr. Lucy Tse.  Thank you, Lucy.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

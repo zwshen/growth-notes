@@ -1,0 +1,130 @@
+# Describing a Musical Performance
+
+Welcome to English as a Second Language Podcast  number 409: Describing a Musical Performance. 
+
+This is English as a Second Language Podcast episode 409.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California.  
+
+Visit our website  at eslpod.com.  Download a Learning Guide for this e pisode, which will help you improve your English even faster.  
+
+This episode is called “Describing a Musical Performance.”  It’s a dialogue between Janine and Calvin about a musical “performance,”  when yo u go to listen to someone who is playing an instrument or singing.  The y’re going to use a lot of vocabulary we might use to describe music and someone perfor ming music.  The dialogue is actually between two people who are selectin g, or deciding, who is going to be a member of the musical group that they are in charge of.  So, they’re going to listen to people playing music and then decide if this person is good enough to be part of their group.  Let’s get started.  
+
+[start of dialogue] 
+
+Janine:  Okay, we need to find one more act for this year ’s show.  How many more people are waiting to audition? 
+
+Calvin:  There are two more.  Should I call in the fi rst one?  
+
+Janine:  Yup.  Let’s get this over with. ... 
+
+Calvin:  What did you think of that performance?   
+
+Janine:  I thought she was flawless.  She plays with a l ot of passion.  
+
+Calvin:  Yeah, that’s true, but I wouldn’t call her a virtuoso.  The piece she played was pretty rudimentary.  
+
+Janine:  True enough, but I still think she’s a winner.   
+
+Calvin:  Let’s hear the next one. ...  
+
+These materials are copyrighted by the Center f or Educational Development (2008).  Posting of these materials on another website or distributing them in any wa y is prohibited. 6 Calvin:  Well?  
+
+Janine:  He certainly played with a lot of flair.   
+
+Calvin:  He has amazing chops, I think.  I haven’t seen an yone play with such artistry in a long time.   
+
+Janine:  Nobody can fault him on mastery of the music, bu t don’t you think he lacked originality and expressiveness? 
+
+Calvin:  No, I don’t.  I think he’s a winner. 
+
+Janine:  It’s clear that it’s a stalemate.  I want the f irst performer and you want the second.  What should we do? 
+
+Calvin:  I think we should duke  it out and the winner gets his or her choice.  
+
+Janine:  I have a better idea.  We add them both to t he bill.   
+
+Calvin:  That’s brilliant!  That’s why they pay you the big bucks.  
+
+Janine:  I would be flattered if we weren’t all volu nteers!  
+
+[end of dialogue] 
+
+Our dialogue begins with Janine saying, “Okay, we need to  find one more act for this year’s show.”  They’re looking for one person or one group that can perform in a show with other musical groups, so there’s actually mo re than one group in this performance –  this show.  She says, “How many more people are waiting  to audition?”  To “audition” means to sing, or play a musi cal instrument, act, or dance for a short period of time so that someone can see and listen and decide if you are good enough to be part of this performance.  S o for example here in Los Angeles, in Hollywood, people go on auditions – and that’s the expression we use, “to go on an audition.”  They go on an audition to be part of a movie or to be part of a television series and it’s usual ly quite short; it’s usually a minute, two minutes, maybe five or 10 minutes, not a long time.  If  you’re interested in this topic be sure to listen to English Café number 132, whe re we interview an actor here in Los Angeles.  
+
+So, Janine is asking how many  people are waiting to audition.  Calvin says, “There are two more.  Should I call in the first one? ” – should I tell the first person  
+
+These materials are copyrighted by the Center f or Educational Development (2008).  Posting of these materials on another website or distributing them in any wa y is prohibited. 7 to come in now?  Janine says, “Yup” (yup), which is a short,  informal way of saying yes.  She says, “Let’s get this over with.”  To “get something over with” means to do something as fast as you can, often because it isn’t very pleasant. You’re trying to get something done that you really do n’t want to do.  
+
+So, they listen to the musical performance and then they talk about  it.  Of course, we don’t actually get to hear the musical performance.  Calvin says, “What did you think of that performance?” –  what was your opinion?  Janine says, “I thought she was flawless” (flawless).  To be “flawless” means to be perfect.  A “flaw”  is an error or a mistake, so to be “flawless” means to have no mistakes, no errors.  Janine says, “She plays with a lot of passion.”  “ Passion,” here, means enthusiasm, a very strong love of something, someone who really loves it and is enthusiastic about  it. 
+
+Calvin says, “Yeah (meaning yes), that’s true, but I would n’t call her a virtuoso.” A “virtuoso” is a very good musician who plays very, very well.   Yo-Yo Ma is a famous American virtuoso on the cello.  Calvin says, “The pi ece she played was pretty rudimentary.”  “Rudimentary” means basic and simple, not very advanced or difficult.  Janine says, “True enough (meaning yes, th at’s true, I agree), but I still think she’s a winner.”  Calvin says, “Let’s hear the n ext one,” and of course, then they listen  to the next performance.  Afterwards, they come back and talk about it.   
+
+Calvin says, “Well?” meaning what is your opinion.  Janine  says, “He certainly played with a lot of flair.”  “Flair” (flair), here,  means with a lot of style, in a very interesting , perhaps unusual, way.  “He has a lot of flair” – he does things in interesting and unusual ways.  Calvin says, “He has amazing ch ops, I think.” “Chops” (chops), here, means ability or skill to do someth ing.  It’s often used to describe someone who is ve ry good at music, but it could be used for anything. You could say, “He has great cooking chops,” meaning he ha s a lot of ability or skill or talent to do that thing.  “Chop” has a number  of different meanings in English; take a look at the Learning Guide  for some additional explanations. 
+
+Calvin says, “I haven’t seen anyone play with such artistry in a long time.” “Artistry” means with a lot of talent –  a lot of artistic talent, someone who has a lot of skills in music, for example, or singing, or acting, some thing in what we would call “the arts.”  He has a lot of artistry. 
+
+Janine doesn’t really agree.  She says, “Nobody can fault him on mastery of the music.”  To “fault” someone means to say that someone did something wrong, to say that this person is not very good at something.  You may say, “I won’t fault you for not knowing how to type” –  I won’t blame you, I won’t say you did  
+
+These materials are copyrighted by the Center f or Educational Development (2008).  Posting of these materials on another website or distributing them in any wa y is prohibited. 8 something wrong.  She says no one “can fault him on maste ry of the music.” “Mastery” (mastery) means expertise, having a ful l or complete knowledge of something or ability to do something.  It’s another way of saying to be very good at something.   
+
+Janine says, “don’t you think he lacked originality and expre ssiveness?”  She doesn’t think that this performer was very original.   “He “lacked (or didn’t have) originality,” meaning he wasn’t different, he wasn’t u nique, he didn’t do something that no one else has done before.  “Expressivene ss” is a word we would use to describe someone who has an ability to show yo u how they feel o r think, usually through their art – through their music, their singing, their dance, their acting.  Someone who is very expressive shows their emo tions; you can feel what they are feeling.  
+
+Calvin says, “No.  I think he’s a winner.”  Janine says, “It’ s cl ear that it’s a stalemate.”  When you have a “stalemate” (stalemate – one word) you have a situation where neither person can win.  It’s often use d to describe a situation where two people cannot agree: “We’re at a stalemate, ” or “We have a stalemate.”   
+
+Janine says, “I want the first performer and you want the  second.  What should we do?”  So they don’t agree on which person should b e the final act – the final performer in this show that they are putting on – that they are putting together, organizing.  C alvin says, “I think we should duke it out and the winner gets his or her choice.”  He’s joking here, because to “duke something out” means to fight someone in order to decide an argument.  To actually hi t them, that sort of fighting: “to duke it out.”  “The two boxers duked it out” – they fought each other. 
+
+Well, of course, Calvin is just joking –  we hope!  Janine says, “I have a better idea.  We add them both to the bill.”  “Bill,” here , means a written list of who will be performing in a play or at a co ncert.  “Bill” has many different meanings in English, but this one means a list of those who will be performing at a certain concert or play.  
+
+Calvin says, “That’s brilliant (that’s a great idea)!  Th at’s why they pay you the big bucks.”  When someone says, “They pay him the big bucks,” they  mean they pay him a lot of money.  A “buck” is another word for a d ollar, “bucks” (plural) means money in general, and “big bucks” means a lot of money.  
+
+Janine says, “I would be flattered if we weren’t all vol unteers!”  To “be flattered” means to be happy that someone said something nice about  you, to be happy that someone likes you or what you have done.  A beautifu l woman comes up to  
+
+These materials are copyrighted by the Center f or Educational Development (2008).  Posting of these materials on another website or distributing them in any wa y is prohibited. 9 me and says, “May I have your telephone number?”  Well,  I’m flattered – I’m also, of  course, married!  Janine says, “I would be flattered if we weren’t all volunteers,” meaning we don’t get paid for this, if w e did get paid for this, then I would be – conditional –  I would be flattered.  But of course, they don’t get paid anything. 
+
+Now l et’s listen to the dialogue, this time at a normal spee d. 
+
+[start of dialogue] 
+
+Janine:  Okay, we need to find one more act for this year ’s show.  How many more people are waiting to audition?  
+
+Calvin:  There are two more.  Should I call in the fi rst one?  
+
+Janine:  Yup.  Let’s get this over with. ... 
+
+Calvin:  What did you think of that performance?   
+
+Janine:  I thought she was flawless.  She plays with a l ot of passion.  
+
+Calvin:  Yeah, that’s true, but I wouldn’t call her a virtuoso.  The piece she played was pretty rudimentary. 
+
+Janine:  True enough, but I still think she’s a winner.   
+
+Calvin:  Let’s hear the next one. ... 
+
+Calvin:  Well?  
+
+Janine:  He certainly played with a lot of flair.   
+
+Calvin:  He has amazing chops, I think.  I haven’t seen an yone play with such artistry in a long time.   
+
+Janine:  Nobody can fault him on mastery of the music, bu t don’t you think he lacked originality and expressiveness? 
+
+Calvin:  No, I don’t.  I think he’s a winner. 
+
+These materials are copyrighted by the Center f or Educational Development (2008).  Posting of these materials on another website or distributing them in any wa y is prohibited. 10 Janine:  It’s clear that it’s a stalemate.  I want the f irst performer and you want the second.  What should we do? 
+
+Calvin:  I think we should duke it out and the winner gets his or her choice.  
+
+Janine:  I have a better idea.  We add them both to t he bill.   
+
+Calvin:  That’s brilliant!  That’s why they  pay you the big bucks. 
+
+Janine:  I would be flattered if we weren’t all volu nteers!  
+
+[end of dialogue]  
+
+The script today was by someone who has great writing chops,  Dr. Lucy Tse!   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  This podcast is copyright 2008 .
+

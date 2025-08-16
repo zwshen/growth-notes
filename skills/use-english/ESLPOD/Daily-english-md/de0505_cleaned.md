@@ -1,0 +1,84 @@
+# Teaching Children About Safety
+
+Welcome to English as a Second Language Podcast number 5 05: Teaching Children About Safety. 
+
+This is English as a Second Language Podcast episode 505.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode to help improve your English even faster. 
+
+This episode is called “Teaching Children About Safety.”   It’s about a teacher, Ms. Sanchez, who goes to class thinking that she needs to tel l her students all about safety, but she gets a surprise at the end.  Let’ s get started. 
+
+[start of dialogue] 
+
+Ms. Sanchez:  Okay, kids.  I’m Ms. Sanchez, your substitute fo r this week.  I’m taking all of you on the field trip tomorrow.  Listen  up.  There are some ground rules we need to go over.  First, each of you will have a  partner and you will hold hands while we cross the streets.   
+
+Student:  Ms. Sanchez…? 
+
+Ms. Sanchez:  I’ll take questions later.  Let me get thr ough all of my instructions first.  Remember, don’t talk to strangers.  There are p redators out there who are looking to lure children away from their family and fri ends and to abduct them, so don’t let your guard down. 
+
+Student:  Ms. Sanchez…  
+
+Ms. Sanchez:  As I said, I’ll take questions later.  If you  need to step away from the group, ask permission first.  If a stranger tries to a ccost or waylay you, run away as fast as you can. 
+
+Student:  Uh, Ms. Sanchez? 
+
+Ms. Sanchez:  Yes? 
+
+Student:  I think you’ve got the wrong classroom.  We’re the eighth graders.  The first graders are on the second floor.  
+
+ Ms. Sanchez:  Where are my glasses?  Oh, here they are.  Oh !  You’re not my first-graders!  Why didn’t anyone say anything earlier?! 
+
+[end of dialogue] 
+
+Our dialogue begins with the teacher, Ms. Sanchez, saying to her students, “Okay, kids.  I’m Ms. Sanchez, your substitute for this week. ”  “Substitute,” here, stands for a substitute teacher, who is a teacher who teach es a class temporarily when the regular teacher is sick or for some reason cannot be in class.  Here in the United States most school districts – most schools have a list of teachers they can call in the morning and say, “Well, we need some one to teach this class,” and the substitute teacher comes in and takes over t he class for that day, not necessarily teaching the class.  Often you get substitute  teachers who don’t know anything about the topic, but at least there is an adult standing in front of the children so they don’t – uh, I don’t know – jump o ut the window!   
+
+In this case, Ms. Sanchez is the substitute teacher for the week.  She says, “I’m taking all of you on the field trip tomorrow.”  A “fi eld trip” is an experience where students go somewhere outside of the school; they go on a little trip organized by the school so they can learn something.  They may go to a museum; they may go to a park; they make go to see some performance, a pl ay for example; all of these would be field trips.  Students always love field t rips because they don’t have to stay in their regular boring class anymore. 
+
+Ms. Sanchez says to the students, “Listen up,” meaning ever yone listen.  “There are some ground rules we need to go over.”  “Ground ru les” are basic rules, things that everyone must do.  She says we need to go over  these ground rules. “To go over” is a phrasal verb meaning to review, to tal k about something together, and make sure that everyone understands it.  “ Go,” as you know, has many meanings depending on the preposition you put afte r it; take a look at our Learning Guide for some more phrasal verbs with “to go. ” 
+
+Ms. Sanchez says, “First, each of you will have a partner a nd you will hold hands while we cross the streets.”  A “partner” is one half of a pair.  One person with another person, those two people are together; we co uld call them partners.  You can be married and call your wife or husband your partn er.  But in school, many times children work in pairs, two children work together  or are together – sit together.  In this case, the children are going to have partners and they will need to hold hands while they cross the streets.  “To hold hand s” means to put your hand into someone else’s hand, and, in this case, you’re  going to hold the other person’s hand while you walk across a street.  This is especial ly true for young  
+
+ children so that the children don’t run off in a numbe r of different directions when they’re crossing the street; that would be dangerous. 
+
+So, one of the students in Ms. Sanchez’s class says, “Ms. Sanc hez…?” trying to ask a question.  But Ms. Sanchez says, “I’ll take questions lat er.”  She continues, “Let me get through all of my instructions first.”  “To  get through (something)” is a phrasal verb meaning to finish something, to complete so mething.  Ms. Sanchez wants to get through all of her instructions – all of h er rules first.  She then says, “Remember, don’t talk to strangers.”  A “stranger” is som eone that you don’t know, someone who you have never met before.  It’s very com mon, again, for young children to tell them not to talk to strangers.  P arents are afraid of what other adults might do with their children.  She says, “T here are predators out there who are looking to lure children away.”  A “pred ator” (predator) is a person who tries to chase or tries to hurt another person.  Usually here, when we’re talking about children, we’re talking about someone who  may be a sexual predator, so obviously this would be very dangerous, so Ms. Sanchez is telling them that they need to be careful.  Of course, you woul dn’t use the word “predator” with a young child; a good teacher would no t use that word since the children wouldn’t know what it meant.  Moreover, you p robably wouldn’t want to go into the reasons for children not talking to strang ers, at least not too much.   
+
+But Ms. Sanchez is not a great teacher, she says, “There ar e predators out there who are looking to children away.”  “To the lure” (lu re) means to get to someone to do something, especially if it’s bad or wrong, by makin g it seem fun and exciting.  Well, she’s warning against predators who try t o lure children – who get the children to leave their family and friends in orde r to abduct them.  “To abduct (someone)” means to kidnap them, to take someone away wh en he or she does not want to be taken away.  Ms. Sanchez says, “don’t let  your guard down.”  The expression “to let your guard down” means to stop being careful or cautious for a period of time.  She’s telling children do not let you r guard down, always be careful, don’t relax. 
+
+Ms. Sanchez, once again, gets a question from a student, b ut she says that she’ll take questions later and she continues talking.  She says to the children, “If you need to step away from the group, ask permission first.”  “To step away from” means to leave an area or a group of people and go in  another direction.  She tells the children to ask permission.  “Permission” is appr oval that someone gives you to do something; your boss, or your parent, or your t eacher may give you permission to do something; that is, they are saying it’s okay for you to do that. Ms. Sanchez says, “If a stranger tries to accost you or waylay you , run away as fast as you can.”  “To accost” (accost) means to walk up to so meone in a threatening way or an aggressive way, often to walk up t o someone because you  
+
+ want to hurt that person.  The person may try to accost o r waylay you.  “To waylay” (waylay) means to stop someone from going where h e or she had planned to go, usually by talking to that person or pe rhaps even attacking and hurting that person.  The instructions Ms. Sanchez gives is t hat the children should run away as fast as they can. 
+
+Finally, the student is able to ask Ms. Sanchez a question – or tell her something. The student says to Ms. Sanchez, “I think you’ve got the wro ng classroom (you’re in the wrong classroom).  We’re the eighth grad ers.  The first graders are on the second floor.”  An “eighth grader” is a group of students who are at a particular level in school; in this case at the eighth le vel, so they would be about 14-15 years old.  The “first graders” would be five or si x years old.  It’s obvious that the instructions that Ms. Sanchez is giving are for young children, not for a 14- or 15-year-old, so the student is telling Ms. Sanche z that she’s in the wrong class. 
+
+Ms. Sanchez asks, “Where are my glasses?”  She says, “Oh, here they are.  Oh! You’re not my first-graders!” realizing now she’s in the wrong place, “Why didn’t anyone say anything earlier?!”  Of course, someone did tr y to say something but she wouldn’t let the student talk! 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Ms. Sanchez:  Okay, kids.  I’m Ms. Sanchez, your substitute fo r this week.  I’m taking all of you on the field trip tomorrow.  Listen  up.  There are some ground rules we need to go over.  First, each of you will have a  partner and you will hold hands while we cross the streets.   
+
+Student:  Ms. Sanchez…? 
+
+Ms. Sanchez:  I’ll take questions later.  Let me get thr ough all of my instructions first.  Remember, don’t talk to strangers.  There are p redators out there who are looking to lure children away from their family and fri ends and to abduct them, so don’t let your guard down. 
+
+Student:  Ms. Sanchez…  
+
+Ms. Sanchez:  As I said, I’ll take questions later.  If you  need to step away from the group, ask permission first.  If a stranger tries to a ccost or waylay you, run away as fast as you can.  
+
+ Student:  Uh, Ms. Sanchez? 
+
+Ms. Sanchez:  Yes? 
+
+Student:  I think you’ve got the wrong classroom.  We’re the eighth graders.  The first graders are on the second floor. 
+
+Ms. Sanchez:  Where are my glasses?  Oh, here they are.  Oh !  You’re not my first-graders!  Why didn’t anyone say anything earlier?! 
+
+[end of dialogue] 
+
+We did not have a substitute scriptwriter for this episo de; it was our regular wonderful writer, Dr. Lucy Tse.  Thank you, Lucy. 
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

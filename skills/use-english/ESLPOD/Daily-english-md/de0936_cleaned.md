@@ -1,0 +1,89 @@
+# Working With the IT Department
+
+Welcome to English as a Second Language Podcast num ber 936 – Working with the IT Department.  
+
+This is English as a Second Language Podcast episod e 936. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Our website is ESLPod.com. You probably know that a lready, but did you know that you can become a member of ESL Podcast and dow nload a Learning Guide? You did? You knew that? Oh, okay. 
+
+Our topic today is working with an IT or Informatio n Technology department – those are the people in your company who know how y our computer is supposed to work. Let's get started.  > Whenever I have a technology problem at work, I try  to solve it myself. It’s not that I know a lot of about technology. In fact, the  opposite is true. I’m pretty much a computer illiterate, but I still try. 
+> Why do I bother? The answer is the IT department in  my company. Every time I consult one of the IT specialists, they make me fee l like an idiot. But this time, I had no choice but to call in the experts. 
+> *** 
+> Leah: What seems to be the problem here? 
+> Steve: My computer is acting up and I can’t get thi s file to open. 
+> Leah: Move. Let me take a look. Ha, of course your computer is acting up. I don’t know what you did to it, but it’s really screwed up .   
+> Steve: I’m not sure how I could have done that. 
+> Leah: Me neither. This is configured all wrong. And  the reason you can’t open this file is because it’s encrypted. Did that occur  to you? 
+> Steve: No, I guess I didn’t.   
+> Our story begins with Steve describing his situatio n at work. He says, “Whenever I have a technology problem at work, I try to solve  it myself.” “Technology” refers to anything, really, that is made by humans that he lps you accomplish some goal or task. Normally, nowadays, we associate technolog y with things like computers and phones and other electronic devices. Steve is s aying that if he has a problem at work with technology, he tries to solve it himse lf – to find the answer himself.  
+
+He says, “It's not that I know a lot about technolo gy. In fact, the opposite is true.” If, for example, the water is cold and your friend says, “Oh, the water is hot,” you can say, “No, the opposite is true.” The opposite o f “hot” would be “cold.” In our story it's a little confusing because Steve says, “ It's not that I know a lot about technology.” We know that Steve does not know a lot  about technology, because he's saying “it's not that,” which means “it is not  true that.” The statement that is not true is, “I know a lot about technology.” Then,  Steve says, “The opposite is true” – the opposite of that statement, “I know a l ot about technology,” is true. In other words, Steve does not know very much about te chnology.  
+
+He says, “I'm pretty much a computer illiterate, bu t I try.” “Pretty much” means primarily, mostly, for the most part. “Literate” (l iterate) usually refers to your ability to read and write in a given language. “Illiterate”  (illiterate) means that you cannot read or write. However, we use “literate” nowadays sometimes to means “skilled” – to have knowledge about something. “Computer illi terate” means he doesn't know very much about computers.  
+
+Steve says, “Why do I bother?” “Why do I bother” me ans “Why do I trouble myself?” Why do I make an effort to do something th at may not be successful? “The answer is the IT department in my company,” St eve says. The “IT department” is the Information Technology departmen t – the part of a company that is responsible for computers and other electro nic devices.  
+
+Steve says, “Every time I consult one of the IT spe cialists, they make me feel like an idiot.” “To consult” (consult) can mean a couple  of different things. Here it  
+
+means to ask for someone's assistance, to ask for s omeone's help. We often use that in a professional or business context when we are asking for assistance from, in this case, another person in our company.  
+
+“Consult” can also be used as a verb to refer to th e act of you providing additional services to another company. “I'm consul ting for a textbook company” – I'm working for a company that makes books for st udents. The verb “consult” has those two meanings, one which means to provide assistance – usually for some small issue within your company, in this case.  And, it can mean to work for another company temporarily, to help them with some  larger problem.  
+
+The company where Steve works has “IT specialists.”  A “specialist” (specialist) is anyone who knows a lot about a certain topic. You c ould have a specialist in ancient archaeology. You could have a specialist in  Renaissance poetry. You could have a specialist in neurosurgery. All of tho se are possible uses of the word “specialist.” Here, we're talking about someon e who knows a lot about computers. These IT specialists at Steve's company make Steve feel like an idiot; they make him feel stupid. Maybe that's beca use Steve is stupid. I don't know, I've never met Steve.  
+
+Steve says, “But this time, I had no choice but to call in the experts,” When you say you “have no choice but to,” that means you hav e no other options. You have to do a certain thing. I have no choice but to eat this piece of chocolate cake. If I don’t eat it, it will be wasted. I'll have to throw  it out. I have no choice but to eat it. Steve has no choice but to call in the experts. “To  call someone in” is a phrasal verb meaning to ask someone to come in and help you  – in this case, with your problem.  
+
+So, then we begin our dialogue. Leah says, “What se ems to be the problem here?” Leah is one of the IT specialists. Steve say s, “My computer is acting up and I can't get this file to open.” The phrasal ver b “to act up” here means to cause problems – to not work or function properly. Steve cannot get a file to open on his computer. A “file” is just a general term fo r any sort of electronic document. It could be a Microsoft Word file. It cou ld be a PDF file. It could be an MP3 file. There are lots of different electronic fi les.  
+
+Steve cannot get this file to open. He wants to loo k at it or listen to it and he's unable to do that. Leah says, “Move.” “Move” means move over, leave your seat. There was actually a very funny comedy show a few y ears ago about an IT specialist, and the IT specialist was very rude – w as very condescending, meaning he would talk to people as though they were  idiots, as though he were  
+
+the only person who knew anything about computers. That's what Leah is doing here. She’s saying, “Move. Let me take a look” – le t me examine this situation.  
+
+She says, “Ha, of course your computer is acting up . I don't know what you did to it, but it's really screwed up.” “To be screwed up”  means to have a lot of problems, to have a major problem. Steve says, “I'm  not sure how I could have done that.” Leah says, “Me neither.” Notice that in  informal English, we usually don't say, “I neither.” That would sound very stran ge to most native speakers of English. We say, “Me neither,” even though it's not  technically grammatically correct. Leah is saying, “I don't know either.”  
+
+She says, “This is configured all wrong.” “To confi gure” (configure) means to establish the settings for a computer device or a p iece of software – to go in and determine how it's supposed to operate normally. “T his is configured all wrong,” Leah says. We're not sure what “this” is – perhaps the software program that Steve is trying to use. If it's “configured all wro ng,” it is configured incorrectly.  
+
+Leah says, “And the reason you can't open this file  is because it's encrypted.” “Encrypted” (encrypted) comes from the verb “to enc rypt.” “To encrypt” means to protect something with a special code so that no on e can understand what it is or no one, in this case, can open the file because you  put some sort of special protection on it.  
+
+You can have encrypted messages where you are sendi ng messages to someone, and perhaps you’re changing the letters in  the words so that no one can understand what you're saying except the person  who knows how to “decrypt” the code. “To decrypt” means to figure ou t what the message is trying to say because you know how it was encrypted. You k now the way that they try to protect it. Sometimes, for security purposes, fi les are encrypted so that they are protected. No one can read them unless they kno w how to decrypt them.  
+
+Leah says, “Did that occur to you?” Did you think a bout that as being a possibility? Steve says, “No, I guess I didn't.” Le ah says, “I’ll fix everything, but try not to screw it up again.” Leah is saying, “Try not  to break it again” or “Try not to do something that would cause it to act up again.” Steve says, “I'll do my best,” meaning “I'll try not to.”  
+
+Then, at the end of the story, we hear Steve say, “ See what I mean?” That expression, “See what I mean?” as a question is use d to indicate that you have just shown an example or given evidence for some st atement that you made previously. At the beginning of the story, Steve wa s saying that he didn't like to call someone from the IT department because the peo ple who worked there were  
+
+not very nice to him. They made him feel like an id iot. Then he gives us an example of this in his dialogue with Leah.  
+
+So, at the end of the story, he can say, “See what I mean?” meaning “I was right.” I showed you. Here is the evidence, and you  should, therefore, agree with my statement. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of story] 
+
+Whenever I have a technology problem at work, I try  to solve it myself. It’s not that I know a lot of about technology. In fact, the  opposite is true. I’m pretty much a computer illiterate, but I still try. 
+
+Why do I bother? The answer is the IT department in  my company. Every time I consult one of the IT specialists, they make me fee l like an idiot. But this time, I had no choice but to call in the experts. 
+
+*** 
+
+Leah: What seems to be the problem here? 
+
+Steve: My computer is acting up and I can’t get thi s file to open. 
+
+Leah: Move. Let me take a look. Ha, of course your computer is acting up. I don’t know what you did to it, but it’s really screwed up .   
+
+Steve: I’m not sure how I could have done that. 
+
+Leah: Me neither. This is configured all wrong. And  the reason you can’t open this file is because it’s encrypted. Did that occur  to you? 
+
+Steve: No, I guess I didn’t.  
+
+Leah: I’ll fix everything, but try not to screw it up again. 
+
+Steve: I’ll do my best. 
+
+*** See what I mean?  
+
+ [end of story] 
+
+Our scriptwriter is not illiterate; the opposite is  true. She's one of the best scriptwriters on the Internet. Thank you, Dr. Lucy Tse. 
+

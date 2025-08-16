@@ -1,0 +1,102 @@
+# A Christmas Feast
+
+Welcome to English as a Second Language Podcast number 228: A Christmas Feast.   
+
+Ho, ho, ho!  Merry Christmas!  
+
+This is English as a Second Language Podcast  number 228.  I'm your host, Dr. Jeff McQuillan, coming to you from beautiful Los Angeles, California.  I want to thank Santa Claus for coming on our program today and wishing us all a Merry Christmas and Happy Holidays to everyone on this Christmas holida y edition of ESL Podcast.  
+
+Remember to visit our website and give yourself a Christmas/Chanukah holiday gift by becoming a member of ESL Podcast.  If you do that, your present will be a Learning Guide for each episode of this podcast that includes all of t he vocabulary, definitions, cultural notes, additional definitions that we don't talk about on the podcast, as well as a complete transcript of each episode.  
+
+Our topic today is called “A Christmas Feast.”  Let's get started.  
+
+[Start of story]  
+
+This year, our family decided that the more the merrier and invited Adriano and his family to have Christmas dinner with us.  We were thrilled when they accepted our invitation.   
+
+Lucy:  I’m so glad you guys could all make it.  
+
+Adriano:  We wouldn’t have missed it f or anything.  We brought a fruitcake.  
+
+Lucy:  Oh, thanks.  Make yourselves comfortable.  We’re just about to sit down to dinner.   
+
+Adriano:  Wow, it looks like you’ve prepared a feast.   
+
+Lucy:  Yeah, we did go a little overboard this year.  We’ve got a t urkey, a roast and a ham, and all the trimmings: stuffing, yams, mashed potatoes, and cranberry sauce.  Help yourself to some eggnog.  
+
+Adriano:  Thanks.  Did you do all of the cooking yourself?   
+
+Thes e materials are copyrighted by the Center for Educational Development (2006).   Posting of these materials on another website or distributing them in any way is prohibited.  6 Lucy:  I had some help and everybody brought different desser ts.  Save room for the pumpkin pie, the gingerbread house, and the Christmas cookies.  Okay everybody, dinner’s ready.  Adriano, would you carve the bird?  
+
+Adriano:  I’d be happy to do the honors.    
+
+[End of story]  
+
+Our dialogue today begins by Lucy sayin g that “This year” her “family decided that the more the merrier and invited Adriano and his family to have Christmas dinner with us.”  The expression the more the merrier, “merrier,” means the more people you have, the more fun or the more happy something  will be.  To be merry, “merry,” means to be happy, which is why we say, “Merry Christmas.”  We don't normally say, “Happy Christmas” in English, we say, “Merry Christmas.” We do say, “Happy New Year.”  Merry is just another word for happy.  The expressio n the more the merrier means more people will be more fun.  
+
+Lucy says her family was “thrilled when” Adriano and his family “accepted our invitation.”  To be thrilled, “thrilled,” means to be very happy - to be delighted.  “I am thrilled that my wife is go ing to give me a new fifth generation iPod for Christmas.”  She doesn't know that yet, but she will!  
+
+Lucy begins the dialogue by saying, “I’m so glad you guys could all make it.” Notice the use of the word guys, “guys,” here; it's an informal way of refe rring to you all.  We don't have in English, as in many languages, a plural you, so “you guys” is an informal way of communicating that idea.  
+
+Lucy says that she is glad that Adriano and his family could make it, meaning could come to the party.  Adriano s ays, “We wouldn’t have missed it for anything,” it was very important for us, in other words.  He says, “We brought a fruitcake.”  A fruitcake, “fruitcake,” (one word) is a traditional Christmas cake that usually contains little pieces of dried fruit.  My mother used to make fruitcake every year, and we would give the fruitcake to our teachers for Christmas. Maybe that's why I didn't get very good grades when I was in school, I don't know.  I'm kidding, of course.  My mother made wonderful fruitcake!  
+
+The expression fruitcake is also sometimes used to mean someone who's crazy - someone who's not very intelligent.  “He's a fruitcake” means he's kind of weird - he's odd - he's unusual.  
+
+Thes e materials are copyrighted by the Center for Educational Development (2006).   Posting of these materials on another website or distributing them in any way is prohibited.  7 Lucy says to Adriano, “ Oh, thanks.  Make yourselves comfortable.  We’re just about to sit down to dinner.”  The expression to sit down to dinner is one that we usually use when we are at home and we are going to eat, in this case, dinner. We probably wouldn't say that in a restaurant.  But if someone calls you on the phone an d you don't want to talk or you don't have time to talk, you could say, if it's five, six, seven o'clock, “We're just about to sit down to dinner” - we're just about to eat.  This is a good excuse.  There is an expression, a sit down dinner, and that just means a dinner where it is more formal - where everyone is sitting down versus going to McDonald's, for example.  
+
+Adriano says, “Wow, it looks like you’ve prepared a feast.”  A feast, “feast,” is a large meal, usually for many different people with lots of  different types of food. Lucy says, “Yeah, we did go a little overboard this year.”  To go overboard means to do beyond what you would normally do - to do a lot, usually to do too much.  To be too enthusiastic about something, that would be to go overboa rd. So, if you have a fight your friend - a disagreement with your friend - and you decide to go and buy him a new car because you want him to be happy, that would be going overboard.  That would be doing too much, unless of course, you had ruined or dest royed his car, in which case it would not be going overboard.  
+
+Well, Lucy says she's gone overboard, and then she says all of the things that they're going to eat.  She says, “We’ve got a turkey,” which is traditional for both Thanksgiving and Christmas in  the United States.  She also says that they have “a roast and a ham.”  These are other two popular foods for Christmas.  A roast, “roast,” is a large piece of beef or pork that you cook in an oven.  A ham, “ham,” is a kind of pork - meat that comes from a  pig.  Beef comes from a cow; pork comes from a pig.  But we don't say, “I'm going to eat some cow,” or “I'm going to eat some pig,” we say, “I'm going to eat some beef,” or if it's from a pig, “we're going to eat pork.”  One type of pork is ham, “ham,” wh ich is, I believe, from the top part of a pig's leg.  I don't normally kill my own pigs, but I think that's where it comes from.  
+
+Lucy also says that they're going to have all of “the trimmings.”  The trimmings, when we talk about food, are the things othe r than the main meat dish, and she lists what those are.  She says they're going to have stuffing, “stuffing,” which is a mix of bread and vegetables, sometimes even fruit, and it's often put inside the turkey or a chicken, maybe duck, and it's cooked insi de.  It's like little pieces of cooked bread.  
+
+Yams, “yams,” is a vegetable - it's an orange vegetable.  It's like a sweet potato; sometimes people use the same term but they are a little different.  Don't ask me  
+
+Thes e materials are copyrighted by the Center for Educational Development (2006).   Posting of these materials on another website or distributing them in any way is prohibited.  8 what the difference it is because I don't l ike yams or sweet potatoes, but Lucy didn't invite me to dinner, did she?  She invited Adriano, so it doesn't matter if I like yams or not, I'm not going to eat them!  
+
+Mashed potatoes are a type of potato, which again is a vegetable that grows in the groun d.  Mashed potatoes is when you take the vegetable - the potato - you take the skin off of it - the outside - and you mash it.  To mash, “mash,” means to crush - to make into small, little pieces.  Normally with mashed potatoes you put some milk in, usuall y some butter, you mix it altogether and it's - it's very good!  
+
+Cranberry sauce, “cranberry” sauce is very popular with turkey, especially at Thanksgiving.  Cranberry is a fruit.  It is usually combined with some sugar; it's almost like a desert, and it o ften served with turkey.  
+
+Finally, at Lucy's feast they're going to have eggnog, “eggnog.”  Eggnog is a special holiday drink that is made from milk and eggs and usually a little alcohol. You can have eggnog with alcohol or without alcohol.  Although eggn og and fruitcake are both traditionally popular at Christmas, a lot of people don't like them.  
+
+Adriano says, “Thanks.  Did you do all of the cooking yourself?”  Lucy says that she “had some help and everybody brought different desserts.”  She then says to Adriano, “Save room for the pumpkin pie, the gingerbread house, and the Christmas cookies.”  The expression to save room for something means don't eat too much now so that you can eat something different later, in this case the dessert, what you eat after  the main meal.  
+
+A couple of popular desserts for the holidays are pumpkin pie, “pumpkin” pie.  A pumpkin is a vegetable that is usually associated with Halloween.  The inside of the pumpkin is mixed together with other ingredients, and you make it into a pie that you bake in the oven.  You can eat it hot or cold.  A gingerbread house is a traditional Christmas dessert that is made of cookies.  The cookies are ginger cookies, a type of cookie.  You put them into the shape of or you make a little house from the cookies.  I, myself, have never eaten a, or part of a gingerbread house, but it is a traditional kind of desert.  
+
+Lucy says, “Okay everybody, dinner’s ready.  Adriano, would you carve the bird?” To carve, “carve,” the bird usually means to cut the tur key that has been in the oven.  You take it out of the oven and you have to cut the pieces of meat off of it. You can also carve a chicken or a duck as well.  You put them in a plate - the pieces of meat on a plate and then people can take what they want.   
+
+Thes e materials are copyrighted by the Center for Educational Development (2006).   Posting of these materials on another website or distributing them in any way is prohibited.  9 Adriano says, “I’d be happy to do the honors.”  The expression to do the honors means usually to do something important, often something official, but here it just means that he will do the carving of the turkey.  The expression to do the honors has some  different meanings, if you look at today's Learning Guide, you can find out what the other uses of that expression are, as well as the expression to go a little overboard.  
+
+Now let's listen to the dialogue, this time at a normal speed.  
+
+[Start of story]  
+
+This year, our family decided that the more the merrier and invited Adriano and his family to have Christmas dinner with us.  We were thrilled when they accepted our invitation.   
+
+Lucy:  I’m so glad you guys could all make it.  
+
+Adriano:  We wouldn’t have  missed it for anything.  We brought a fruitcake.  
+
+Lucy:  Oh, thanks.  Make yourselves comfortable.  We’re just about to sit down to dinner.   
+
+Adriano:  Wow, it looks like you’ve prepared a feast.   
+
+Lucy:  Yeah, we did go a little overboard this year.  W e’ve got a turkey, a roast and a ham, and all the trimmings: stuffing, yams, mashed potatoes, and cranberry sauce.  Help yourself to some eggnog.  
+
+Adriano:  Thanks.  Did you do all of the cooking yourself?  
+
+Lucy:  I had some help and everybody brought diff erent desserts.  Save room for the pumpkin pie, the gingerbread house, and the Christmas cookies.  Okay everybody, dinner’s ready.  Adriano, would you carve the bird?  
+
+Adriano:  I’d be happy to do the honors.    
+
+[End of story]  
+
+Thes e materials are copyrighted by the Center for Educational Development (2006).   Posting of these materials on another website or distributing them in any way is prohibited.  10 Everyone here at ESL Podcas t wishes you and your family a very happy holiday season.  
+
+The script for today was written, as always, by Dr. Lucy Tse.   
+
+From Los Angeles, California, I'm Jeff McQuillan.  Thanks for listening.  We'll see you next time on ESL Podcast.  
+
+English as a Seco nd Language Podcast is written and produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  This podcast is copyright 2006.
+

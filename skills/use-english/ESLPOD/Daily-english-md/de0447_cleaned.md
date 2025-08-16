@@ -1,0 +1,84 @@
+# Heating and Cooling a Home
+
+Welcome to English as a Second Language Podcast number 4 47: Heating and Cooling a Home. 
+
+This is English as a Second Language Podcast number 447.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  On it, you can download a Lea rning Guide for this episode to help you improve your English even faster.  Yo u can also take a look at our ESL Podcast Store, which has some additional cours es in business and daily English we think you’ll be interested in. 
+
+This podcast is a dialogue between Carla and Trent.  T hey’re going to be using some common vocabulary to talk about “heating,” making yo ur house warmer, or “cooling,” making your house cooler.  Let’s get started. 
+
+[start of dialogue] 
+
+Carla:  It’s freezing in here!  Why is the air condition er on? 
+
+Trent:  I just finished exercising and I’m sweating like a pig. 
+
+Carla:  That’s no reason to turn the A/C on full blast !  I’m cold.  I’m turning on the heat for a little while. 
+
+Trent:  Are you crazy?  It’s 70 degrees outside!   
+
+Carla:  I’m no crazier than you are.  How come you can t urn on the A/C and I can’t turn on the heat?   
+
+Trent:  I only turned on the A/C because it’s so humid outside, and it was taking a long time for me to cool down.  If you’re cold, just op en the windows and doors, and we’ll get some ventilation in here.  It’ll heat u p again pretty quickly.   
+
+Carla:  What should I do in the meantime?  Put on my winter coat or crawl under the covers? 
+
+Trent:  Go sit outside.  I’ll get myself a glass of iced t ea and I’ll get you a cup of hot tea.  How does that sound? 
+
+ Carla:  Leave it to you to come up with the best idea of the day! 
+
+[end of dialogue] 
+
+Carla begins the dialogue by saying, “It’s freezing in h ere!”  “Freezing,” in this case, means very cold, extremely cold.  It doesn’t necessarily me an that the temperature is below 32 degrees Fahrenheit or zero deg rees Celsius; it just means it’s very cold in here.  Carla asks, “Why is the air co nditioner on?”  The “air conditioner,” sometimes called simply the “A/C,” is a  machine that makes the air colder in a room.  It’s something you would use duri ng the warm season, in the summer in the northern hemisphere. 
+
+Trent says, “I just finished exercising and I’m sweating li ke a pig.”  This is an expression: “to sweat (sweat) like a pig.”  To “sweat” mea ns that you have water that is coming out of small holes in your skin, what we cal l “pores” (pores), and if you are exercising or working very hard you may sweat.  Anoth er verb for this is “to perspire.”  That sounds a little better; sweat is a little more informal.   
+
+Trent says he’s sweating like a pig.  Carla says, “That’s n o reason to turn the A/C on full blast!”  “That’s no reason to (do something)” is a phrase we use to show that what the other person is doing is unnecessary or sill y, perhaps even illogical. “That’s no reason to turn the A/C on.”  To “turn somet hing on” means to start the machine running; in this case, the machine is an air condi tioner – the A/C.  The expression “full blast” (blast) means at the highest or m ost powerful setting, at full power.  So, Trent has turned the air conditioning ont o the coolest possible temperature and the highest possible fan setting.  The “fan” is the part of machine that blows the air out of the machine. 
+
+Carla says, “I’m cold.  I’m turning on the heat for a l ittle while.”  The “heat,” in this case, would simply mean the “heater,” a machine that war ms your house.  Trent says, “Are you crazy?  It’s 70 degrees outside!”  A “degree” is a measurement of heat.  In the United States we use Fahrenheit; in mo st other countries the degrees are measured in Celsius – we’re a little slow he re in the United States!   
+
+Carla says, “I’m no crazier than you are,” meaning you ar e as crazy as I am. “How come (or why) you can turn on the A/C and I can’t  turn on the heat?”  Trent says, “I only turned on the A/C because it’s so humid outsi de.”  “Humid” (humid) means there’s a lot of water in the air – a lot of wa ter vapor in the air.  Trent says, “it was taking a long time for me to cool down.”  To “ cool down” is a two-word phrasal verb meaning to help your body become less hot; to  help your body, in this case, relax after exercising.  That’s also called coolin g down.  If you exercise very hard you need to cool down – your body needs to cool  down.  To “cool  
+
+ down” has a couple of different meanings in English; ta ke a look at our Learning Guide for some additional explanations. 
+
+Trent says, “If you’re cold, just open the windows and d oors, and we’ll get some ventilation in here.”  “Ventilation” is the movement o f air within a room, going in and out of a room.  Trent is suggesting Carla open the  windows so they can get more movement of the air, which would heat the room u p a little bit.  Trent says, “It’ll heat up again pretty quickly.”  To “heat up” me ans to increase the temperature of something, to make something hotter, i n this case, the air in the room.  Notice that word “up” is used a lot with verbs in  English to mean many different things.  Unfortunately, there isn’t one hin t – one thing I can tell you about what “up” means with the verb because it means something with each verb, typically. 
+
+Carla says, “What should I do in the meantime?”  The exp ression “in the meantime” means before something else happens, while yo u’re waiting for something else to happen.  So for example, if your wife  or husband says to you, “Dinner will be prepared (will be done) in 10 minut es.  In the meantime, please set the table” – please put things on the table for u s so that we can eat: dishes, cups, that sort of thing.  In the meantime is that tim e before something else happens. 
+
+Well, Carla says, “What should I do in the meantime?” b ecause, of course, she’s cold.  She says, “Put on my winter coat or crawl under th e covers?”  She’s saying, well, should I put on my winter jacket – my winter  coat – to keep me warm, or should I crawl under the covers.  To “crawl” (cra wl) in this case means to go underneath the covers.  The “covers” are sheets, bla nkets, what we call “comforters,” large blankets that keep you warm when you are sleeping on your bed.  So to “crawl under” means to get underneath, be low so that they are covering your body.  That’s why they’re called covers.  “Cover”  has several different meanings in English, however, so take a look at that Learning Guide. You know what you’ll find there!  To “crawl” also can m ean to get down on your hands and knees and slowly move your body forward.  A littl e baby usually starts crawling, and then they start walking.  So they go from  being on hands and knees to just being on their two legs. 
+
+Trent says, “Go sit outside.  I’ll get myself a glass of ice d tea and I’ll get you a cup of hot tea.  How does that sound?”  Carla says, “Leav e it to you to come up with the best idea of the day!”  The expression “leave i t to you (to do something)” is a phrase we used to show that the other person has som e special gift or talent for doing something, or is very good at doing something.   Although, it isn’t necessarily always a compliment – it isn’t always a nice thin g to say.  Someone  
+
+ may say you, “Oh, leave it to you to get into an accident. ”  That means you have some sort of special talent for doing that, even though it’s not a good thing.  But here, Carla is saying that Trent has come up with a good  idea, the best idea of the day. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Carla:  It’s freezing in here!  Why is the air condition er on? 
+
+Trent:  I just finished exercising and I’m sweating like a pig. 
+
+Carla:  That’s no reason to turn the A/C on full blast !  I’m cold.  I’m turning on the heat for a little while. 
+
+Trent:  Are you crazy?  It’s 70 degrees outside!   
+
+Carla:  I’m no crazier than you are.  How come you can t urn on the A/C and I can’t turn on the heat?   
+
+Trent:  I only turned on the A/C because it’s so humid outside, and it was taking a long time for me to cool down.  If you’re cold, just op en the windows and doors, and we’ll get some ventilation in here.  It’ll heat u p again pretty quickly.   
+
+Carla:  What should I do in the meantime?  Put on my winter coat or crawl under the covers? 
+
+Trent:  Go sit outside.  I’ll get myself a glass of iced t ea and I’ll get you a cup of hot tea.  How does that sound? 
+
+Carla:  Leave it to you to come up with the best idea of the day! 
+
+[end of dialogue] 
+
+Leave it to Dr. Lucy Tse to come up with such a great scrip t for this episode!   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+ English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  Copyright 2009, by the Cen ter for Educational Development.
+

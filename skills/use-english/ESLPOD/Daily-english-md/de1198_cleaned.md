@@ -1,0 +1,96 @@
+# Failed Government Projects
+
+Welcome to English as a Second Language Podcast num ber 1,198 – Failed Government Projects. 
+
+This is English as a Second Language Podcast episod e 1,198. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to ESLPod.com and become a member of ESL Podcast . If you do, you can download a Learning Guide for this episode that con tains a complete transcript of everything we say.  
+
+This episode is a dialogue between Mariana and Klau s about government projects that don’t seem to be very successful. Let ’s get started. 
+
+[start of dialogue] 
+
+Mariana: How long do you think it will be before th e stadium is finished? 
+
+Klaus: Don’t hold your breath. The plan for the sta dium is fundamentally flawed, but the government rammed it down the throats of th e voters. 
+
+Mariana: Do you really think the project is doomed?  
+
+Klaus: Haven’t you heard the reports of corruption and poor management? They’re cutting corners left and right. I wouldn’t be surprised if the stadium is being built with shoddy materials. 
+
+Mariana: Then the entire thing is a joke! 
+
+Klaus: Yes, and the joke is on us. Government offic ials are going through the motions, not caring about the results. All they car e about is lining their pockets. 
+
+Mariana: I have heard about the cost overruns. Do y ou think the city will ever recoup the money spent on this project? 
+
+Klaus: Maybe a little, if we can sell the entire th ing as scrap metal! 
+
+[end of dialogue] 
+
+Mariana begins by asking, “How long do you think it  will be before the stadium is finished?” A “stadium” (stadium) is a large buildin g with many seats – many places to sit in it, usually – that is used for spo rting events or other large gatherings such as music concerts.  
+
+Most large cities in the U.S. and in most cities in  the world have stadiums that are used for playing sports. It may be a football stadi um in many parts of the world. Here in the U.S. there are baseball stadiums and fo otball stadiums. Some stadiums are used for playing more than one kind of  sport. Here in Los Angeles we have several large stadiums used for sporting ev ents and concerts – not only professional sporting events, but also ones for col lege sport teams.  
+
+Mariana is asking when the stadium is going to be f inished. Klaus says, “Don’t hold your breath.” The expression “Don’t hold (hold ) your breath (breath)” means don’t expect too much to happen very soon, or don’t  expect this to be completed anytime soon. We use this expression when we’re tel ling someone that they shouldn’t get too excited or they shouldn’t look fo rward to something too much because it is not likely it will happen anytime soo n.  
+
+The expression “to hold your breath” means to take air into your lungs and not to breathe out. We hold our breath when we, for exampl e, go under water. If you hold your breath for too long, of course, you could  eventually lose consciousness. You could, what we would say in Engl ish, “pass out.” “To pass out” means to become unconscious suddenly. That’s w hat would happen if you held your breath for too long. So the expression “D on’t hold your breath” means that you shouldn’t be waiting for something. If you  actually held your breath, you would probably pass out before anything good would happen.  
+
+Klaus says, “The plan for the stadium is fundamenta lly flawed, but the government rammed it down the throats of the voters .” To say something is “flawed” (flawed) means there is something wrong wi th it. It isn’t going to work properly. To say something is “fundamentally flawed ” means that the problems are so serious that you can’t fix it, that you migh t as well start again or get a new one. If you say that a plan is “fundamentally flawe d,” you’re saying that it’s so bad, it’s never going to work.  
+
+Klaus says that the plan for the stadium “is fundam entally flawed, but the government rammed it down the throats of the voters .” “To ram (ram)” something “down the throat” (throat) of someone or of a group  of people means to force someone or some group to do something that he or th ey didn’t really want to do. “To ram something down someone’s throat” is to say that they have to do it. They  
+
+don’t have any other choice. Even though it may loo k like they are saying yes to something, in fact they had no other option.  
+
+The “voters” are the people who vote in an election  in a democracy. So, “to ram something down the throats of the voters” is to tel l people voting they have no choice, they have to accept this. Sometimes we use this expression when you actually do have a choice. If you’re a voter, you c an always vote no on something. But we use it when the government is usi ng some pressure or using some “tactic,” some strategy to make people do some thing that they don’t really want to do. They are persuading people to do someth ing by using arguments, perhaps, that aren’t completely honest.  
+
+Mariana says, “Do you really think the project is d oomed?” If something is “doomed” (doomed), it is expected to fail. It is so mething that will not work, will not be successful. If something or someone is “doom ed,” that thing or that person will not be successful – bad things will happen. Kl aus says, “Haven’t you heard the reports of corruption and poor management?” “Co rruption” (corruption) is when people in power, especially in the government,  do things that are dishonest, illegal, or unethical, often because the y are getting money illegally to do something. Corruption is a problem in all govern ments in every country in the world.  
+
+Klaus says, “They’re” – meaning the government – “T hey’re cutting corners left and right.” “To cut corners” (corners) means to not  do what you are supposed to do, in order to get something done more quickly. “T o cut corners” means to find a cheaper, faster way to do something, but in a way t hat lowers the quality of whatever it is you are doing. We usually use this e xpression “to cut corners” to mean to lower the cost of doing something to try to  save money, but often you’re saving money by doing something that you shouldn’t do or that might even be dangerous.  
+
+The expression “left and right” here means “in many  different places” or “in many different areas.” We put the two together – “to cut  corners left and right” – and we get an expression that means to try to save money i n many different parts of the project. Klaus says, “I wouldn’t be surprised if th e stadium is being built with shoddy materials.” “Shoddy” (shoddy) is an adjective meaning of low qu ality – something that is poorly made, something that won’t last very long.  
+
+Mariana says, “Then the entire thing is a joke.” Wh en she says, “the entire thing is a joke” (joke), she doesn’t mean that it’s suppo sed to make you laugh. Here the word “joke” means that it wasn’t being done pro perly, and therefore is a  
+
+complete failure. Here the word “joke” is used in a n insulting way to describe some action or some plan or some project as being v ery poorly done and not worth taking seriously. Klaus says, “Yes, and the j oke is on us.” Here we see another meaning of the word “joke” in the expressio n, “The joke is on us.” “The joke is on us” means that someone has made us look stupid – someone has tricked us, someone has fooled us.  
+
+He says, “Government officials are going through th e motions not caring about the results.” “To go through the motions” (motions)  means to do something but not with very much commitment – to do something wit hout trying very hard, to do something without being very enthusiastic about it.  “To go through the motions” means to do your job, to do what you’re supposed to  do, but not very well or not with very much dedication and interest. Klaus says,  “All they” – meaning the government officials, the people who work for the g overnment – “care about is lining their pockets.”  
+
+The expression “to line (line) one’s pockets (pocke ts)” means to do something in order to make a lot of money, usually to do it in a  corrupt way – illegally or unethically. It’s an expression we often use when w e’re talking about corrupt government officials. They are getting money illega lly. They’re only doing what they are doing in order to make money. They are “li ning their pockets.” Your “pockets” are those things in your pants that you u se to put coins in or your keys in or your cellphone in. So, in effect they are put ting money into their own pockets and getting rich.  
+
+Mariana says, “I have heard about the cost overruns .” “Cost overruns” (overruns) refers to when a project costs more than you though t it would. You thought it would cost 100 million dollars and it ends up costi ng 500 million dollars. That’s a “cost overrun.” Most government projects have cost overruns. They say they’re only going to cost this amount of money, but then y ou find out it costs twice that much.  
+
+Mariana says, “Do you think the city will ever reco up the money spent on this project?” “To recoup (recoup) the money” means to g et the money back, to regain the money. What happens often in U.S. cities  is that the local government will help build the stadium. They will pay money to  build the stadium with the idea that eventually all the business that the stadium w ill bring will get that money back to them through taxes – that the city will, in  the end, make more money than it spent. Usually that’s not what happens.  
+
+Klaus says, “Maybe a little,” meaning maybe the cit y will get some of the money back that it spent to build this stadium. It will r ecoup some of the money. That will  
+
+happen, however, “only if we can sell the entire th ing as scrap metal.” “Scrap” (scrap) is something that is no longer used anymore  for what it was made to be used for. You could talk about “scraps of food” – f ood that you are not going to eat anymore or very small pieces of food. Some peop le feed their dog “scraps” from the table. The food that they are not eating, they give to the dog.  
+
+“Scrap metal” (metal) are small pieces of metal tha t are no longer being used and that are usually melted down and used for something  else. Klaus is saying the only way the city will make money or recoup some of  its money on this project is if they tear the stadium down and sell it as scrap metal.  
+
+Now, let’s listen to the dialogue, this time at a n ormal speed. 
+
+[start of dialogue] 
+
+Mariana: How long do you think it will be before th e stadium is finished? 
+
+Klaus: Don’t hold your breath. The plan for the sta dium is fundamentally flawed, but the government rammed it down the throats of th e voters. 
+
+Mariana: Do you really think the project is doomed?  
+
+Klaus: Haven’t you heard the reports of corruption and poor management? They’re cutting corners left and right. I wouldn’t be surprised if the stadium is being built with shoddy materials. 
+
+Mariana: Then the entire thing is a joke! 
+
+Klaus: Yes, and the joke is on us. Government offic ials are going through the motions, not caring about the results. All they car e about is lining their pockets. 
+
+Mariana: I have heard about the cost overruns. Do y ou think the city will ever recoup the money spent on this project? 
+
+Klaus: Maybe a little, if we can sell the entire th ing as scrap metal! 
+
+[end of dialogue] 
+
+We never cut corners with our scripts here at ESL P odcast. Nothing but the highest quality comes from the pen of Dr. Lucy Tse,  our scriptwriter. Thank you, Lucy.   
+
+ From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

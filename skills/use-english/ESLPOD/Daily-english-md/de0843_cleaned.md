@@ -1,0 +1,102 @@
+# Passing Through Airport Security
+
+Welcome to English as a Second Language Podcast num ber 843: Passing Through Airport Security. 
+
+This is English as a Second Language Podcast episod e 843. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Eslpod.com is our website. Go there to download a L earning Guide for this episode and become a member of ESL Podcast. 
+
+This episode is a dialog between Roland and Natalie  about going to the airport and having to pass through or go through security. Let’s get started. 
+
+[start of dialog] 
+
+Roland:  Why are you so nervous about flying? 
+
+Natalie:  I’m not nervous about being in the air. I t’s going through security. I hear it’s a hassle and I don’t want to end up being stri p-searched. 
+
+Roland:  You won’t be strip-searched. All you need to do is to follow a few simple rules. When you get to security screening, put your  carry-on bag and all metal objects in a bin so that it can go through the scan ner.   
+
+Natalie:  But I heard I couldn’t bring any liquids with me. 
+
+Roland:  You’re only allowed three ounces of liquid s, aerosols, or gels. Those should go inside a zip-top bag and be placed in a b in.   
+
+Natalie:  Do I have to take off my shoes and get on e of those body scans? 
+
+Roland:  You don’t have to take off your shoes, but  you do have to get a body scan. 
+
+Natalie:  I knew it! They’re going to bombard me wi th harmful rays. And you wonder why I’m nervous about flying!   
+
+Roland:  You won’t be bombarded with any harmful ra ys. You walk through the metal detector and stand in front of the scanner. I t’s not dangerous. 
+
+Natalie:  Oh, why do they have to treat every passe nger like a potential hijacker or terrorist? Do I look like a terrorist? I feel li ke walking through security with my hands up saying, “I am not a terrorist. I am not a terrorist.” 
+
+Roland:  I wouldn’t do that if I were you. That’s a  sure way to get the TSA’s attention. Just stay calm and follow the instructio ns. 
+
+Natalie:  Just like a lamb to the slaughter? 
+
+[end of dialog] 
+
+Our dialog begins with Roland saying to Natalie, “W hy are you so nervous about flying?” Why are you so anxious about going into an  airplane? Natalie says, “I’m not nervous about being in the air.” I’m not worrie d about actually flying, she says. “It’s going through security.” “Security” (se curity) at an airport, or at some sort of public venue – that is, some sort of place where lots of different people go in and out of – is the process of checking people t o make sure they don’t have anything dangerous. Especially in the last 10 years  or so, in the United States, there has been a lot more airport security, where t hey check each person coming into the airport, each person who is flying, each p assenger, for any sort of dangerous materials they may have. Obviously, this is in response to the attacks of 9/11.  
+
+Natalie says, “I hear it’s a hassle and I don’t wan t to end up being strip- searched.” Natalie has heard that it’s a “hassle” ( hassle) to go through security at the airport. A “hassle” is a pain, something that i s inconvenient, something that is unpleasant. “To be strip-searched” means they take all of your or most of your clothing off, and this is typically done when they are looking for drugs or something else that you might try to sneak on the a irplane, to get onto the airplane without permission. Most security at airpo rts in the United States, do not do strip-searches, at least not for the average pas senger. “To strip” (strip) means to take your clothes off. The word is also used for  women who take their clothes off slowly, for reasons of sexual entertainment, sh all we say.  
+
+Roland says, “You won’t be strip-searched. All you need to do is to follow a few simple rules. When you get to security screening, p ut your carry-on bag and all metal objects in a bin.” So, Roland is saying it’s not that difficult. And he’s right. It really isn’t that difficult to go through security at an American airport if you understand a few simple things. Roland talks about “security screening” (screening). “Screening” is the process of looking something over very carefully, in this case, searching for things that should not be there. So, when you go into an American airport, there’ll be a long line of peo ple waiting to go through the  
+
+screening area. That’s the place where the governme nt officials or the airport security people look at you and make sure that you don’t have anything you’re not supposed to have. 
+
+Roland says, “When you get to security screening, p ut your carry-on bag and all metal objects in a bin.” Your “carry-on bag” is the  piece of luggage or baggage that you are taking with you in your hand. That’s w hy it’s called “carry-on,” because you can carry it onto the plane. Metal obje cts would be keys, coins, anything made of metal. All of those have to go int o a little bucket, a small container which is called a “bin” (bin). Actually, it’s not that little. A bin is typically a large bucket but the bins at the airport are not huge. They’re enough to put a small bag in, a few shoes, a computer, that sort of  thing. When you go through an American airport now, they have to put those obj ects into a “scanner” (scanner). A “scanner” is the machine that looks fo r anything that should not be there. Basically, it’s a kind of video camera that is looking at all of your stuff and seeing that there isn’t any hidden objects, there a ren’t any hidden objects, there aren’t any things that shouldn’t be there.  
+
+Natalie says, “I heard I couldn’t bring any liquids  with me.” “Liquids” (liquids) are things that are wet, things like water, soda – thos e are all liquids. Roland says, “You’re only allowed three ounces of liquids, aeros ols, or gels.” So, you can bring small amounts of liquid, three ounces or less. You can also bring three ounces of aerosols or gels. “Aerosols” (aerosols) is liquid t hat is dispensed or delivered by pressing a little button on the top of a container.  So, “hairspray,” for example, might be an aerosol that you would bring with you. I always bring hairspray on the airplane with me. “Gels” (gels) are thick, wet liquids. Again, you might find these for hair. There are certain kinds of things t hat women put on their hair, and men, that are called “gels.” It’s kind of a very th ick liquid. But it’s not water. It’s thicker than that.  
+
+Roland says, “Those should go inside a zip-top” – o r a zip-lock – “bag and placed in a bin.” A “zip (zip) – top (top) bag” is a clear  plastic bag that has a little, what looks like a zipper on the top of it, so you can op en and close it easily. A “zip-top bag” – and I call them “zip-lock bags,” because the re’s a company that makes these kinds of bags called “zip-lock” (lock) at the  end – “zip-top” or “zip-lock” bag is used to put your small containers of liquids int o, before they go through the scanner. It’s required that you take them out of yo ur carry-on bags and put them into these little plastic bags so that the security  people can see them.  
+
+Natalie says, ”Do I have to take off my shoes and g et one of those body scans?” In many American airports, it used to be required a nd I think it might still be – these rules change a lot – that you have to take yo ur shoes off before you go  
+
+through the security scanner. Now it’s always the c ase, I think, that you have to do that. A “body scan” is an image of a person’s en tire body. Some airports in the United States, recently, here in 2012, have started  to put these machines that scan the entire body. A lot of people don’t like th is. Basically, it’s like an X-ray, a picture of your entire body that the security peopl e can see. Roland says, “You don’t have to take off your shoes but you do have t o get a body scan.” I’ve gone through the airport many times. Usually, here in Lo s Angeles, you have to take your shoes off and you often will get a body scan, not always, but many times.  
+
+Natalie says, “I knew it. They’re going to bombard me with harmful rays.” “To bombard (bombard) someone” means to, usually to att ack them. It’s a word we would use, for example, during a war, where one sid e is dropping bombs on the other side – “to bombard.” But here, Natalie means she’s just going to get a lot of something, in this case, a lot of harmful “rays” (r ays). “Ray” here is referring to “X-rays,” what a doctor would give you to see, for example, if you had broken a bone. “And you wonder why I’m nervous about flying, ” Natalie says. She doesn’t want to get all of these harmful X-rays. Roland cor rects her by saying, “You won’t be bombarded with any harmful rays. You walk throug h a metal detector and stand in front of the scanner. It’s not dangerous.”  A “metal detector” is the usual way that you are screened at an airport or somewher e. A metal detector just determines whether you have any metal on your body,  such as a gun, for example. A “body scanner” actually takes a photogra ph of your entire body. Most airports have metal detectors, not body scanners, a lthough a lot of the larger U.S airports now have body scanners and metal detectors . But Roland says these are not dangerous.  
+
+Natalie says, “Oh, why do they have to treat every passenger” – every person flying – “like a potential hijacker or terrorist?” A “hijacker” (hijacker) is a person who takes control of a plane illegally, usually to take that plane to a different place or to get money, or in the case of 9/11, to a ttack different buildings. That’s a hijacker. You can hijack a plane, but you could a lso hijack a bus or even a car. It’s to take control of something by force. A “terr orist” is a person who is involved in using violence to threaten or to scare other peo ple in order to get them to do what he or she wants them to do.  
+
+Natalie says, “Do I look like a terrorist? I feel l ike walking through security with my hands up saying, ‘I am not a terrorist. I am not  a terrorist.’” Roland says, “I wouldn’t do that if I were you.” He’s saying that’s  not a good idea. You don’t want to make any jokes when you go through security even  if you think they’re funny. He says, “That’s a sure way” – a certain way – “to get the TSA’s attention.” The TSA, here in the United States, is the Transportati on Security Administration. It’s  
+
+the part of the U.S government that is now responsi ble for safety at our airports. Roland says, “Just stay calm and follow the instruc tions.”  
+
+Natalie says, “Just like a lamb to the slaughter?” This phrase, a “lamb,” which is a kind of an animal, “to the slaughter,” which is whe n you kill an animal, is used to describe someone who is calmly and obediently doing  something that will end up in trouble, pain, or possibly even death, because t hey don’t realize what they are doing. The most common way of saying this is a “lam b led (led) to the slaughter” – someone is leading the, someone is taking them an d they are going quietly and without any sort of protest to something that may b e very harmful for them. Natalie, of course, is exaggerating here. Airport s ecurity really isn’t that bad in the United States. It’s not that bad of an experience, considering the benefits of having a system like what we have.  
+
+Now let’s listen to the dialog this time at a norma l speed. 
+
+[start of dialog] 
+
+Roland:  Why are you so nervous about flying? 
+
+Natalie:  I’m not nervous about being in the air. I t’s going through security. I hear it’s a hassle and I don’t want to end up being stri p-searched. 
+
+Roland:  You won’t be strip-searched. All you need to do is to follow a few simple rules. When you get to security screening, put your  carry-on bag and all metal objects in a bin so that it can go through the scan ner.   
+
+Natalie:  But I heard I couldn’t bring any liquids with me. 
+
+Roland:  You’re only allowed three ounces of liquid s, aerosols, or gels. Those should go inside a zip-top bag and be placed in a b in.   
+
+Natalie:  Do I have to take off my shoes and get on e of those body scans? 
+
+Roland:  You don’t have to take off your shoes, but  you do have to get a body scan. 
+
+Natalie:  I knew it! They’re going to bombard me wi th harmful rays. And you wonder why I’m nervous about flying!   
+
+Roland:  You won’t be bombarded with any harmful ra ys. You walk through the metal detector and stand in front of the scanner. I t’s not dangerous.  
+
+ Natalie:  Oh, why do they have to treat every passe nger like a potential hijacker or terrorist? Do I look like a terrorist? I feel li ke walking through security with my hands up saying, “I am not a terrorist. I am not a terrorist.” 
+
+Roland:  I wouldn’t do that if I were you. That’s a  sure way to get the TSA’s attention. Just stay calm and follow the instructio ns. 
+
+Natalie:  Just like a lamb to the slaughter? 
+
+[end of dialog] 
+
+Improving your English is never a hassle if you lis ten to the wonderful scripts by Dr. Lucy Tse.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. Copyright 2012 by the  Center for Educational Development.
+

@@ -1,0 +1,90 @@
+# Wanting Peace and Quiet
+
+Welcome to English as a Second Language Podcast num ber 914 – Wanting Peace and Quiet.  
+
+This is English as a Second Language Podcast episod e 914. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Our website is ESLPod.com. Go there and become a me mber of ESL Podcast to download a Learning Guide.  
+
+This episode is a dialogue between Carl and someone  working at a hotel. Let's get started.  
+
+[start of dialog] 
+
+After three days of travel and meetings, I returned  to my hotel room ready for some downtime.  All I wanted was some peace and qui et so I could get a good night’s sleep. ... 
+
+[phone rings]  Carl:  Hello. 
+
+Hotel staff:  Hello, Mr. Mendez.  I’m calling to we lcome you to our hotel.  I hope you’re finding everything to your satisfaction.  
+
+Carl:  Yes, yes.  Everything’s fine.  I just want t o get some rest right now. 
+
+Hotel staff:  Of course, Mr. Mendez.  If there’s an ything we can do for you, don’t hesitate to ask. ... 
+
+I hung up the phone and turned off the ringer.  I d idn’t want any more unsolicited phone calls.  But then, there was a knock on the do or. ... 
+
+Hotel staff:  Hello, sir.  I’m here to turn down yo ur bed.  May I come in? 
+
+Carl:  I don’t need the bed turned down, thanks. ... 
+
+Before I closed the door, I put the do-not-disturb sign on my door.  I wanted no more interruptions. 
+
+All of a sudden, a loud alarm went off.  I opened m y door and a hotel employee was explaining that there was a small fire in the k itchen and that the guests were being evacuated.  We would have to leave the buildi ng immediately. 
+
+I left my hotel room and wondered if there was a va st conspiracy to rob me of my sleep or if I’m just the unluckiest guy in the worl d! 
+
+[end of dialog] 
+
+We begin with Carl saying, “After three days of tra vel and meetings” – that is, after three days of traveling and meeting with othe r people – “I returned to my hotel room ready for some downtime.” “Downtime” is where you are able to relax, where you don't have anything scheduled. Carl says,  “All I wanted was some peace and quiet so I could get a good night’s sleep .” The expression “peace (peace) and quiet (quiet)” means a period of time w hen you don't hear any loud noises. You don't hear other people. You have silen ce. That's what peace and quiet is. We often use this expression, “peace and quiet,” when we’re talking about there being noise from your neighbors, or in this case, at a hotel. You want some peace and quiet. You want people to be quiet s o that there is less noise and you can relax. 
+
+Carl wants to get a “good night’s sleep.” A “good n ight’s sleep” is a night where you sleep well, where you're not interrupted by noi se in the middle of the night while you're sleeping. Carl then gets a phone call.  Carl says, “Hello” and someone from the hotel staff, someone who works at the hotel, says, “Hello Mr. Mendez, I'm calling to welcome you to our hotel. I hope you're finding everything to your satisfaction.” The hotel staff member is ca lling Carl to make sure everything is “to his satisfaction.” The expression  “to your satisfaction” means that it is doing what you expected it to do, that i t is meeting your requirements, that it is meeting your needs.  
+
+Carl says, “Yes, yes. Everything is fine. I just wa nt to get some rest now.” The hotel staff member says, “Of course, Mr. Mendez. If  there's anything we can do for you, don't hesitate to ask.” “To hesitate” mean s to not do something, to stop something that you want to do. We use the expressio n “Don't” – do not – “hesitate” to do something when we want to make sur e the other person feels as though they can ask you or do whatever you are tell ing them they can do without any worries, without any problems.  
+
+Then Carl says that he “hung up” the phone, he put the phone down, and turned off the “ringer.” The “ringer” is what makes noise inside of a telephone. Back in the old days, there used to be an actual bell in th e telephone. If you are old enough, you can remember those kinds of phones. Now  it's all electronic. “To turn off the ringer” would be to turn off the sound  so that when the phone rings, when someone calls you, it doesn't actually make a noise. It doesn't actually ring. “To ring” is to make a noise, usually with a small bell…or big bell.  
+
+Carl says, “I didn't want any more unsolicited phon e calls.” “Unsolicited” mean not solicited. “To solicit” means, in general, to a sk for something. “Unsolicited” would be things that you didn't ask for. Carl doesn 't want any unsolicited phone calls, but then he says, “There was a knock on the door.” A “knock” (knock) is the noise that's made when you hit your hand against so me object, usually a piece of wood. So, “knocking on a door” would sound somethin g like [knocks on wood] – something like that.  
+
+Then Carl gets up out of bed, I guess, and opens th e door. The hotel staff member says, “Hello, sir. I'm here to turn down you r bed.” “To turn down your bed” is what some more expensive hotels do. They co me in and they pull the blankets and the sheets back so that you are able t o go and use the bed without any problems. It's often done in order to make sure  that the blanket and the sheets are warm for you when you are ready to actua lly go to bed. This is something that is done, as I say, at more expensive  hotels, not the ones that I stay at.  
+
+Carl says, “I don't need the bed turned down. Thank s.” He says, “Then, before I closed the door, I put the do-not-disturb sign my d oor.” “To disturb” (disturb) means to bother someone, to interrupt them. “Do not  disturb” means do not bother me. Do not interrupt me. A “do-not-disturb” sign is a little, usually piece of plastic, that you put on the door handle of your ho tel door telling the people who work for the hotel that you don't want them to knoc k on the door. You don't want them to disturb you. This is a good idea if you wan t to sleep and you don't want the hotel staff to wake you up early in the morning  or as we see here, to bother you late at night.  
+
+Carl says, “I wanted no more interruptions.” An int erruption is when someone or something stops you from doing what you're doing. “ Interruptions” often cause us to lose our focus. We can't focus on what we're doi ng. We can't concentrate on what we're doing. Carl says, “All of a sudden” – su ddenly – “a loud alarm went off.” An “alarm” (alarm) is a very loud noise. “To go off” is a two-word phrasal verb that, in this case, means “to sound.” When the  alarm begins to make a noise, we would say it “goes off.” “Go off” as a ph rasal verb can be used in a  
+
+couple of different ways. You can “go off on  someone.” That would mean yell at someone, make a lot of noise by yelling and screami ng at someone with whom you're angry. “To go off” can also mean to leave. “ I'm going to go off and be by myself.” 
+
+Carl says that he opened his door after the alarm w ent off, and a hotel employee – someone who works for the hotel – was explaining that there was a small fire in the kitchen, and that the guests – the people stayi ng at the hotel – “were being evacuated.” “To be evacuated” (evacuated) means to be told that you have to leave the place where you are, usually because ther e's something dangerous that might happen to you.  
+
+For example, if there is a flood near your home, wh ere a river has too much water and so the water starts to go on the other pa rts of the land, you might be asked to evacuate, to leave your house, because it' s dangerous if you stay there. Carl says, “We would have to leave the building imm ediately.” That's what he was told by the hotel employee. He said he left his  hotel room and wondered if there was a “vast conspiracy to rob” him of his sle ep. “Vast” (vast) means very large or extensive. “Conspiracy” (conspiracy) is a secret plan that two or more people have to do something bad, to do something wr ong, usually against the law. A “vast conspiracy to rob” him would be a cons piracy to take something away from him. “To rob (rob) someone” means to stea l something from someone.  
+
+Carl is making a joke here. He doesn't really belie ve there is a vast conspiracy to rob him of his sleep. He doesn't believe that all o f the employees at the hotel are secretly trying to keep him from sleeping. He says he wonders if there was a vast conspiracy to rob him of his sleep, or if he's just  the “unluckiest guy in the world.” “To be unlucky” means to have bad luck, to have bad  things happen to you, and that certainly is the case with poor Carl. 
+
+Now let’s listen to the dialogue this time at a nor mal speed.  
+
+[start of dialog] 
+
+After three days of travel and meetings, I returned  to my hotel room ready for some downtime.  All I wanted was some peace and qui et so I could get a good night’s sleep. ... 
+
+[phone rings]  Carl:  Hello. 
+
+Hotel staff:  Hello, Mr. Mendez.  I’m calling to we lcome you to our hotel.  I hope you’re finding everything to your satisfaction.  
+
+Carl:  Yes, yes.  Everything’s fine.  I just want t o get some rest right now. 
+
+Hotel staff:  Of course, Mr. Mendez.  If there’s an ything we can do for you, don’t hesitate to ask. ... 
+
+I hung up the phone and turned off the ringer.  I d idn’t want any more unsolicited phone calls.  But then, there was a knock on the do or. ... 
+
+Hotel staff:  Hello, sir.  I’m here to turn down yo ur bed.  May I come in? 
+
+Carl:  I don’t need the bed turned down, thanks. ... 
+
+Before I closed the door, I put the do-not-disturb sign on my door.  I wanted no more interruptions. 
+
+All of a sudden, a loud alarm went off.  I opened m y door and a hotel employee was explaining that there was a small fire in the k itchen and that the guests were being evacuated.  We would have to leave the buildi ng immediately. 
+
+I left my hotel room and wondered if there was a va st conspiracy to rob me of my sleep or if I’m just the unluckiest guy in the worl d! 
+
+[end of dialog] 
+
+We hope our wonderful scripts are to your satisfact ion. We thank Dr. Lucy Tse for them.  
+

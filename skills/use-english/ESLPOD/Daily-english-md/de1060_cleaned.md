@@ -1,0 +1,104 @@
+# Disposing of Sensitive Documents
+
+Welcome to English as a Second Language Podcast num ber 1,060 – Disposing of Sensitive Documents.  
+
+This is English as a Second Language Podcast episod e 1,060. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Become a member of  ESL Podcast and download the Learning Guides for our recent episode s. This episode is a dialogue between Marcus and Rebecca about disposing  of, or getting rid of, sensitive documents – pieces of paper or files that  have information you would not want other people to know. Let’s get started.  
+
+[start of dialogue] 
+
+Marcus: All right, let’s get started. These documen ts won’t sort themselves. 
+
+Rebecca: I really don’t think sorting through docum ents is the best use of my time. Can’t the company find an intern to do this? 
+
+Marcus: We have confidential information in these f iles, and unless we want a security breach, only people who are authorized to see it are allowed to do this job. 
+
+Rebecca: Lucky us. 
+
+Marcus: Okay, we need to purge these files of outda ted material. Let’s start by sorting them into two piles for either retention or  destruction. 
+
+Rebecca: And then what? 
+
+Marcus: Then we have to further sort the destructio n pile, either for disposal in the recycling bin or to be shredded. 
+
+Rebecca: And who are the lucky people who get to do  the shredding? 
+
+Marcus: We get that honor, too. 
+
+Rebecca: You’re kidding! I’m all for safeguarding c onfidential information, but couldn’t we just burn it all in a giant bonfire?  
+
+ Marcus: And who do you think would be responsible f or doing that, and for extinguishing the wildfire we start? 
+
+[end of dialogue] 
+
+Marcus begins our dialogue by saying to Rebecca, “A ll right, let’s get started.” “All right” here means, “Okay, let’s begin.” “These  documents won’t sort themselves.” “To sort” (sort) is to organize a grou p of items or things, dividing them into smaller groups or putting them in some so rt of order. For example, if you had a bunch of books, you could put the books i n alphabetical order. The books that begin with an “A” would go first, the bo oks that begin with a “B” would go second, and so forth.  
+
+You can sort things into many different kinds of or ders. This is what Marcus and Rebecca are doing, but they’re sorting “documents,”  which is a general term for either pieces of paper or possibly electronic files  on your computer. Rebecca says, “I really don’t think sorting through documen ts is the best use of my time.” Rebecca is saying that she’s an important person – she has more important things to do than this rather simple task, this rat her easy job of sorting documents.  
+
+“Can’t the company find an intern to do this?” she asks. An “intern” (intern) is a person, often a college student, who is working in a temporary position, usually receiving little or sometimes no pay, no money, in order to get experience in a particular job or a particular kind of job. An “int ernship” is a job where you work as an intern, either paid or unpaid (meaning you do n’t get any money).  
+
+Marcus says, “We have confidential information in t hese files, and unless we want a security breach, only people who are authori zed to see it are allowed to do this job.” “Confidential” (confidential) means i nformation that is secret or private or that you don’t want anyone else to have.  Marcus is saying that there is confidential information in these files, and “unles s we want a security breach,” only people who are supposed to see this informatio n should be allowed to sort the documents. 
+
+A “security (security) breach (breach)” is when you  have a – I guess we could describe it “break” in security, when somehow somet hing that is secret is no longer secret. Someone finds a way of getting that information. This is, as you know, a huge problem nowadays on the Internet. When  companies have a security breach, people – thieves – come in and ste al the information, often credit card numbers, from the company.   
+
+ So, security breaches are very serious, or at least  they can be very serious. That’s why Marcus is saying that we don’t want to l et just an intern get access to this confidential information. He says, “Only peopl e who are authorized to see it are allowed to do this job.” “To be authorized” (au thorized) means to be allowed, to be permitted, to have permission to do something . That’s the meaning of the term “authorized.”  
+
+Rebecca says, somewhat sarcastically – somewhat jok ingly – “Lucky us.” I say “sarcastically” because she doesn’t really believe that it’s lucky that she and Marcus have to do this sorting. She’s making a joke . To say something that has the opposite meaning is to use “sarcasm,” or to be “sarcastic.” Marcus says, “Okay, we need to purge these files of outdated mat erial.” “To purge” means to get rid of something, to throw something away. “Out dated” refers to something that is no longer current – something from the past , often something that no longer works or is no longer useful.  
+
+Marcus says, “Let’s start by sorting them” – meanin g the files – “into two piles for either retention or destruction.” A “pile” (pile) i s the same as a “stack” (stack), which is a group of things placed one on top of the  other. You could have a pile of papers on your desk like I have. I’m looking at a pile of papers that I have to look at. I don’t want to look at them, but it’s par t of my job.  
+
+Well, Marcus is dividing these documents into two p iles. One pile is for the files that they are going to keep, or retain. The word “r etention” (retention) comes from the verb “to retain,” meaning to keep something. Th e opposite, in this case, of “retention” is “destruction.” “Destruction” (destru ction) comes from the verb “to destroy” (destroy), which means to get rid of somet hing, to throw something out, possibly even to rip it up or to burn it.  
+
+Rebecca asks, “And then what?” What do we do after we put these documents into these two piles? Marcus says, “Then we have to  further sort the destruction pile either for disposal in the recycling bin or to  be shredded.” “Further” (further) means to do more of something, to continue doing so mething. In this case, they have to continue sorting the destruction pile into two groups: one for files that they will put in the recycling bin and another for files that need to be shredded.  
+
+“Recycling bins” (bins) are containers where you pu t usually paper that is going to be reprocessed. It’s going to be used again some how. You can dispose of documents in one of two ways. “To dispose” (dispose ) means to get rid of. You then get rid of the documents or dispose of them by  putting them in a recycling  
+
+bin where they’re not destroyed, Somebody could, fo r example, go into the recycling bin and read one of the documents, or you  can shred the document.  
+
+“To shred” (shred) is to rip the document up, the p iece of paper up into small little pieces so nobody can read what was on the piece of paper. We use this verb “to shred” when we’re talking about paper. A “shredder”  is a machine that shreds things. Rebecca says, “And who are the lucky people  who get to do the shredding?” “Shredding” is not a very interesting o r exciting job, so Rebecca is once again being sarcastic here when she says “luck y people.” She means just the opposite: “unfortunate people.”  
+
+Marcus says, “We get that honor, too.” An “honor” ( honor) is, in this case, a privilege – something that you are given because yo u’ve done something well, or in recognition of some accomplishment that you have . Once again, though, sarcasm is at work here. Marcus isn’t saying that t his is really an honor. He’s saying the opposite. Rebecca says, “You’re kidding, ” meaning “You’re joking.” “I’m all for safeguarding confidential information,  but couldn’t we just burn it all in a giant bonfire?” “To safeguard” (safeguard) – all one word – means to protect something, to keep something safe.  
+
+Rebecca is saying that she wants to keep this confi dential, secret information safe, but she doesn’t think that they have to go th rough and shred every single piece of paper. Instead, she proposes, or suggests,  another idea which is to burn the paper in a giant bonfire. A “bonfire” (bonfire)  is basically a large fire that’s outdoors, often in an area in the woods where the f ire won’t damage anything around it.  
+
+When I was a child growing up in Minnesota, especia lly out in the areas outside of the city, you would often see bonfires, especial ly in the fall, in the autumn – in September, October, and November. People would burn  the leaves from the trees in a giant bonfire. I think they don’t allow that anymore, or at least in most areas that’s not allowed. But that was certainly so mething that we did when we were growing up. Well, that’s what Rebecca wants to  do. She wants to create a big fire and just burn all of this paper.  
+
+Marcus says, “And who do you think would be respons ible for doing that and for extinguishing the wildfire we start?” Marcus is rem inding Rebecca that to create a bonfire would still be work, and more importantly, it would be dangerous. A “wildfire” (wildfire) is a very large fire that bur ns through a forest or other areas in ways that you can’t control very easily. We have wi ldfires here in California – Southern California – quite frequently, and many ti mes these fires burn down homes. They can be quite dangerous.   
+
+ What do you do with a wildfire? Well, you have to p ut the fire out, and the verb we use for that concept is “to extinguish” (extingu ish). “To extinguish a fire” means to make the fire stop burning – “to put the f ire out,” we would say. Marcus is reminding Rebecca that if they create a bonfire,  they’ll probably start a wildfire, and then they would have to put the fire out. So, i t wouldn’t really save them very much. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Marcus: All right, let’s get started. These documen ts won’t sort themselves. 
+
+Rebecca: I really don’t think sorting through docum ents is the best use of my time. Can’t the company find an intern to do this? 
+
+Marcus: We have confidential information in these f iles, and unless we want a security breach, only people who are authorized to see it are allowed to do this job. 
+
+Rebecca: Lucky us. 
+
+Marcus: Okay, we need to purge these files of outda ted material. Let’s start by sorting them into two piles for either retention or  destruction. 
+
+Rebecca: And then what? 
+
+Marcus: Then we have to further sort the destructio n pile, either for disposal in the recycling bin or to be shredded. 
+
+Rebecca: And who are the lucky people who get to do  the shredding? 
+
+Marcus: We get that honor, too. 
+
+Rebecca: You’re kidding! I’m all for safeguarding c onfidential information, but couldn’t we just burn it all in a giant bonfire? 
+
+Marcus: And who do you think would be responsible f or doing that, and for extinguishing the wildfire we start? 
+
+[end of dialogue]  
+
+ There’s nothing outdated about the English that you  learn here on ESL Podcast. That’s thanks to the wonderful scripts written by o ur wonderful scriptwriter, Dr. Lucy Tse. Thank you, Lucy. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+
+English as a Second Language Podcast was written an d produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. This podcast is copyright 2014 by the Center for Educational Development.
+

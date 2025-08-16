@@ -1,0 +1,76 @@
+# Making a Medical Diagnosis
+
+Welcome to English as a Second Language Podcast number 6 30: Making a Medical Diagnosis. 
+
+This is English as a Second Language Podcast episode 630.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Visit our website at eslpod.com.  Download a Learning Guide for this episode, an 8- to 10-page guide that gives you the vocabulary, defin itions, sample sentences, additional definitions, comprehension questions, cultural  notes, and a complete transcript of this entire episode. 
+
+This episode is called “Making a Medical Diagnosis,” when you go to a doctor and he or she tells you what your medical problem is.  Le t’s get started. 
+
+[start of dialogue] 
+
+Terrell:  Where have you been? 
+
+Sally:  At the hospital, again.  My doctor is putting me  through another battery of tests.   
+
+Terrell:  She still hasn’t been able to zero in on th e cause of your pain and make a diagnosis?   
+
+Sally:  No, she hasn’t.  Part of the problem is that my symptoms are intermittent, and they seem to flare up only when I’m not under obse rvation.  The symptoms themselves are ambiguous, so finding the root cause hasn’t  been easy. 
+
+Terrell:  I can see how that would be mystifying and fr ustrating.  Are you still in a lot of pain? 
+
+Sally:  The mild pain in my legs seems to be chronic, bu t the severe pain in my back is occasional. 
+
+Terrell:  I guess you’re not up for going out tonight . 
+
+Sally:  After a day of being poked and prodded like a g uinea pig, all I want to do is to curl up with a hot cup of tea and a good book!  
+
+ [end of dialogue] 
+
+Terrell begins by asking Sally, “Where have you been?”  Sally says, “At the hospital, again.  My doctor is putting me through anoth er battery of tests.”  Her doctor is putting her through, meaning making her do s ome things that are perhaps not very pleasant, not very nice, or require a lot  of work.  What she needs to go through – what her doctor is putting her through is another battery (battery) of tests.  A “battery” is a series of things, a group of things.  It’s often used with the word “test.”  A battery of tests could be  used to determine which classes you will take at an English language school.  They m ay give you a speaking test, a writing test, a listening test; we would  call those a “battery of tests.”  This is a battery of medical tests.  A few years ag o I went to the doctor because I was having problems with my allergies.  My nose w ould start to run, my eyes would water, my throat would sometimes make me coug h; all of these things were related to allergies.  So my doctor put me through a battery of allergy tests to determine what the problem was.  You can tell  today that I still have allergies because my voice is what we would say a little “ hoarse” (hoarse). When your voice is hoarse you don’t sound normal; your voice  is often lower, more difficult perhaps to understand. 
+
+That’s enough of my medical problems!  Now back to the di alogue: Sally has gone through a battery of tests.  Terrell says, “She (mea ning her doctor) still hasn’t been able to zero in on the cause of your pain an d make a diagnosis?” “To zero in on (something)” means to identify one thing , one explanation that solves a problem or that gives you an answer, eliminating all of the other possibilities.  The doctor is supposed to zero in on the ca use of Sally’s pain and make a diagnosis.  “To make a diagnosis,” or simply “to dia gnose” as a verb, is when a doctor identifies what your illness or medical pr oblem is.  Sally’s doctor has not been able to make a diagnosis.  Sally says, “No, she  hasn’t (she hasn’t zeroed in on the cause yet).  Part of the problem is tha t my symptoms are intermittent, and they seem to flare up only when I’m not under observation.”  A “symptom” (symptom) is some usually physical sign that shows yo u have some illness or disease.  So for example if your head starts to  hurt and you start to get a fever, where the temperature of your body goes up, th at is a symptom perhaps that you have some illness – some disease.  Sally’s symptoms are  intermittent. Something that is “intermittent” comes and it goes; it ’s not constant.  It will happen sometimes but then sometimes it won’t happen, so it’s difficult to determine what is going on.  “To flare up” is a two-w ord phrasal verb meaning for a disease or an illness to become worse, often without an y warning.  Suddenly my nose starts to run, I start to sneeze, I might say my alle rgies are flaring up;  
+
+ they’re getting worse suddenly.  The word “flare” has several meanings in English, some of those are found in your Learning Guid e for this episode. 
+
+Sally’s symptoms seem to flare up – get worse – only when she’s not “under observation,” meaning only when she isn’t being watched carefully.  She isn’t being monitored, we might say.  So when the doctor isn’ t looking, basically, her symptoms get worse.  “The symptoms themselves,” she continues, “are ambiguous.”  Something that is “ambiguous” has more th an one possible explanation.  It’s also a word we use to describe somethin g that is confusing, unclear, difficult to understand.  Often when somethin g could have more than one meaning and it isn’t clear which meaning is meant, we say that thing is ambiguous.  A question could be ambiguous, for example.   Sally’s symptoms are ambiguous – it’s hard to tell what they mean, so findi ng the root cause hasn’t been easy.  The “root (root) cause” of something is the m ain cause, the main reason why something is happening. 
+
+Terrell says, “I can see how that would be mystifying and  frustrating.”  When something is “mystifying” it is related the idea of a myste ry, something we don’t understand.  In more general terms, something that is confusing, something that is not clear to you.  Terrell asks, “Are you still in a lot  of pain?”  Sally says, “The mild pain in my legs seems to be chronic, but the severe pa in in my back is occasional.”  We have two different kinds of pain: we have  “mild” pain, which is not strong, not too bad, not serious; and we have “sever e” pain, which is very strong, very serious, the opposite of mild.  We also have t wo different descriptions of when this pain occurs – when it happens.  “Chronic” (chronic) pain continues for a long time, especially when it is re lated to a disease that doesn’t have a cure – there’s no way to make the illness go  away.  “Occasional” pain is pain that happens every once in a while.  Maybe  once a day, twice a day, maybe every other day, that would be occasional pain.   
+
+Sally says, “The mild pain in my legs seems to be chronic, bu t the severe pain in my back is occasional.  Terrell says, “I guess you’re not up for  going out tonight.” A couple of phrasal verbs there: “to be up for (somethin g)” means to have the energy to do something, to be interested in doing somet hing.  “To go out” means to leave your house and have a good time: go a movie, g o to a nice restaurant, have fun with someone outside your house. 
+
+Sally says, “After a day of being poked and prodded like a guinea pig, all I want is to curl up with a hot cup of tea and a good book!”  “T o be poked (poked) and prodded (prodded)” means that you are being touched ma ny times, usually by a doctor or someone who’s examining you for some medical pr oblem.  It could be  
+
+ part of a test that they are doing; they could be takin g your blood, they could be checking your temperature, lots of things that would requ ire that you are touched many times.  The idea of “poked and prodded” is that i t is somewhat painful, although it isn’t always necessarily that way.  It’s usuall y used in talking about medical exams that require a lot of tests and that requi re that you be at the doctor’s office or the hospital for a long time.  A “ guinea pig” is a small animal; it’s like a hamster.  It’s used here, however, because guinea p igs traditionally have been used in medical experiments and biological experimen ts.  It’s now a general term to talk about people who are being used to test so mething new, especially a new kind of medicine.  It’s often used in a negative way,  meaning that the person who is giving them this medicine or doing something to t hem is using them without really knowing whether that thing is going to  work or not; it’s an experiment. 
+
+Sally says, “After a day of being poked and prodded like a guinea pig, all I want is to curl up with a hot cup of tea and a good book!”  “T o curl up with” here means to relax comfortably, sitting on a couch or a sofa perhaps with a book or a magazine and/or something to drink.  “I want to curl up  with a good book” is a common expression meaning I want to go home, sit in a co mfortable chair, and read a good book. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Terrell:  Where have you been? 
+
+Sally:  At the hospital, again.  My doctor is putting me  through another battery of tests.   
+
+Terrell:  She still hasn’t been able to zero in on th e cause of your pain and make a diagnosis?   
+
+Sally:  No, she hasn’t.  Part of the problem is that my symptoms are intermittent, and they seem to flare up only when I’m not under obse rvation.  The symptoms themselves are ambiguous, so finding the root cause hasn’t  been easy. 
+
+Terrell:  I can see how that would be mystifying and fr ustrating.  Are you still in a lot of pain? 
+
+ Sally:  The mild pain in my legs seems to be chronic, bu t the severe pain in my back is occasional. 
+
+Terrell:  I guess you’re not up for going out tonight . 
+
+Sally:  After a day of being poked and prodded like a g uinea pig, all I want to do is to curl up with a hot cup of tea and a good book! 
+
+[end of dialogue] 
+
+There’s nothing mystifying about who the scriptwriter is.   You know, Dr. Lucy Tse.  Thank you, Lucy.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us again here at ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

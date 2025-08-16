@@ -1,0 +1,96 @@
+# Doing Spring Cleaning
+
+Welcome to English as a Second Language Podcast num ber 993 – Doing Spring Cleaning.  
+
+This is English as a Second Language Podcast episod e 993. I’m your host, Dr Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Like us on Faceboo k at facebook.com/eslpod, and follow us on Twitter at @eslpod.  
+
+This episode is a dialogue about cleaning the house . Let’s get started.  
+
+[start of dialogue] 
+
+Malcolm: Do we really need to start doing spring cl eaning today? 
+
+Lorna: We really should. The drapes need to be wash ed, the walls need to be wiped down, and the attic needs cleaning out. And w e really should clean the upholstery on the sofa and dining chairs. 
+
+Malcolm: That’s a lot of work for two people.  
+
+Lorna: And I haven’t even mentioned what needs to b e done in the kitchen. We need to defrost the freezer, clean the oven, clean out the cabinets, and scrub the floors. 
+
+Malcolm: I’m not sure I have the energy for all tha t. 
+
+Lorna: We also need to wash the windows, window scr eens, and windowsills, steam clean the carpets, and sweep out the garage. 
+
+Malcolm: If we hope to do all of that this weekend,  then I think we need reinforcements. 
+
+Lorna: What do you have in mind? 
+
+Malcolm: I’m not the high school football coach for  nothing. Lorna: You mean . . .? 
+
+Malcolm: I think the guys need an extra-hard workou t this weekend.  
+
+ [end of dialogue] 
+
+We begin this episode with Malcolm asking Lorna, “D o we really need to start doing spring cleaning today?” “Spring cleaning” is something that Americans traditionally do in the springtime. It means to cle an your entire house – to give a very thorough, detailed, if you will, cleaning of y our house and organizing of things before summertime, I guess. We tend to do it  in the spring – at least, that is what has traditionally been the case – but reall y the expression refers to a very thorough cleaning and organization of your house.  
+
+Malcolm wants to know if they have to start doing s pring cleaning today, and Lorna says, “We really should” – we really ought to . “The drapes need to be washed, the walls need to be wiped down, and the at tic needs cleaning out.” The “drapes” (drapes) are the coverings, that are typic ally made of cloth, that cover your windows. You can have a lot of different thing s that cover your windows. You could have shades, you could have blinds, or yo u could have drapes. Drapes are made of cloth, usually – a thick materia l that hangs down and covers the window when you want it covered.  
+
+“To wipe down” something is to clean it, usually by  using a paper towel or a cloth that is wet. You take the cloth or the towel and yo u move it in an up-and-down direction in order to clean something. In this case , we’re wiping down the walls, which are probably dirty. Finally, Lorna mentions the attic that needs cleani ng out. The “attic” (attic) is located at the very top of a house, immediately bel ow the roof. Not all houses have attics. If your roof is flat, you don’t have a n attic. But if your roof comes to a point, then you typically will have some space betw een the wall and the top of the house, whatever floor that is.  
+
+If you have a two-story house, a two-level house, t here’ll be space between the ceiling of the second floor and the top of the roof . That space is called an “attic” and is typically used for storage, for keeping thin gs – boxes and other things – that you don’t need to have out to use, but want to  keep. In some big houses, the attic is actually finished off – that is, walls are  put up so that you can actually sleep there. In my house that I grew up in as a chi ld, our attic was finished, which meant that you could go up there and sleep – and in deed, that’s where four of my brothers slept when I was growing up, and I eventua lly slept there when I got older.  
+
+But enough about me – back to Malcolm and Lorna and  the attic that needs cleaning out. “To clean out” is a two-word phrasal verb meaning to clean  
+
+completely. The “out” is used mostly for emphasis h ere to indicate that you are doing something very thoroughly. “I need to clean o ut my desk.” I need to get everything out of my desk. That actually is a phras e that you might hear if you are fired. You may tell someone to clean out their desk, meaning take all of your things with you because you don’t work here anymore . Here we’re just talking about cleaning out the attic in the house.  
+
+Lorna continues, “And we really should clean the up holstery on the sofa and dining chairs.” “Upholstery” (upholstery) is the cl oth that covers the chair or the couch or some place where you sit. You have upholst ery in your car, for example, over the seats that you sit on. You have u pholstery on a sofa or a couch. You have upholstery, typically, on nice chai rs. If the chair is made of wood and there is no cushion on it, then it doesn’t have  any upholstery, typically. But if there is a cushion that makes it soft and nice to s it on, then usually that will have upholstery on it – that chair will have upholstery.   
+
+Malcolm, who obviously doesn’t want to work very ha rd, says, “That’s a lot of work for two people.” Lorna continues, “And I haven ’t even mentioned” – I haven’t even said anything about – “what needs to b e done in the kitchen. We need to defrost the freezer, clean the oven, clean out the cabinets, and scrub the floors.” “To defrost (defrost) a freezer (freezer)”  is to turn the freezer off and let all of the ice – if there is ice inside of the freezer – melt in order to clean it out thoroughly.  
+
+A “freezer” is a place where you put food that you want to keep frozen – below 32 degrees Fahrenheit. “To defrost” means to clean out  all the ice. And the old freezers – and I don’t think this is as common anym ore – you used to have to defrost your freezer every few months or so if you wanted to clean it, because it would collect all sorts of ice inside of the freeze r. At least, when I was growing up, that was the case with the freezer we had.  
+
+“Cabinets” (cabinets) are also called “cupboards” ( cupboards). They’re basically wooden boxes with a door on them that are in your k itchen or other parts of your house where you keep things. “Kitchen cabinets” usu ally have dishes and pans and probably some food in them. Lorna is talking ab out cleaning out the cabinets – taking everything out of them and cleaning them. She also mentions “scrubbing the floors.” “To scrub” (scrub) usually means to ru b something very hard in order to clean it – to move a cloth or perhaps some other  instrument in order to clean something that is dirty and that requires that you use some physical force to get it clean.  
+
+Malcolm, again, seems to question whether he really  has the strength to do this. He says, “I’m not sure I have the energy for all th at.” But Lorna continues, “We also need to wash the windows, window screens and w indowsills, steam the carpets, and sweep out the garage.” The “window scr eens” (screens) are basically thin pieces of wire or plastic that are p ut up in your window to allow you to open the window without having insects and other  things from the outside come inside your house. So you open up, say, your g lass window, but you don’t want bugs or mosquitoes or something to fly into yo ur house, so you put up a metal screen that allows the air to come in and out , but nothing else.  
+
+Lorna says they have to wash the “window screens an d windowsills” (windowsills). A “windowsill” is a flat piece of wo od at the bottom of the window. It’s sort of the bottom part of the window. Lorna m entions “steam cleaning the carpets.” “To steam (steam) clean the carpets” is t o use a machine that cleans the carpets or other cloth furniture that you have using water vapor, which is what steam is. If you take water and you heat it up, you  will create water vapor, or steam. These are machines that used to be popular –  I’m sure you can still find them today; they’re still used today – that clean c arpets quickly and thoroughly by using hot steam as part of the process.  
+
+Lorna also mentions sweeping out the garage. “To sw eep” (sweep) is to use a broom in order to push dust and dirt on the floor i nto something called a “dustpan” in order to clean the floor. The use of t he word “out” here is once again mostly for emphasis. “To sweep out” means to clean and sweep very thoroughly.  
+
+Malcolm says, “If we hope to do all of that this we ekend, then I think we need reinforcements.” “Reinforcements” here refers to ot her people who can help you. Normally, we use that term in the military when we’ re talking about fighting a war and you need more soldiers, you need more troops. Y ou bring in new men and women to help you fight. Those would be reinforceme nts. Here, Malcolm is using it sort of as a joke. He’s not actually talking abo ut fighting a war. He’s talking about doing the cleaning.  
+
+Lorna says, “What do you have in mind?” Malcolm say s, “I’m not the high school football coach for nothing.” We use an expression s uch as this, “I’m not a high school football coach for nothing,” to indicate tha t there is some benefit to this situation – some additional benefit, in this case, to the situation. What Malcolm is suggesting is that, because he is the coach of the local high school football team, he can get the boys from the football team to come over and help do the spring cleaning.  
+
+Lorna says, “You mean . . .?” Malcolm then replies,  “I think the guys need an extra-hard workout this weekend.” A “workout” (work out) is a period of time when you exercise, which for me is usually never. What M alcolm is saying here is that he’s going to bring the members of the football tea m into his house to help him clean it. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Malcolm: Do we really need to start doing spring cl eaning today? 
+
+Lorna: We really should. The drapes need to be wash ed, the walls need to be wiped down, and the attic needs cleaning out. And w e really should clean the upholstery on the sofa and dining chairs. 
+
+Malcolm: That’s a lot of work for two people.  
+
+Lorna: And I haven’t even mentioned what needs to b e done in the kitchen. We need to defrost the freezer, clean the oven, clean out the cabinets, and scrub the floors. 
+
+Malcolm: I’m not sure I have the energy for all tha t. 
+
+Lorna: We also need to wash the windows, window scr eens, and windowsills, steam clean the carpets, and sweep out the garage. 
+
+Malcolm: If we hope to do all of that this weekend,  then I think we need reinforcements. 
+
+Lorna: What do you have in mind? 
+
+Malcolm: I’m not the high school football coach for  nothing. Lorna: You mean . . .? 
+
+Malcolm: I think the guys need an extra-hard workou t this weekend. 
+
+[end of dialogue] 
+
+I’d like to thank our wonderful scriptwriter, Dr. L ucy Tse, for her wonderful scripts. 
+
+ From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

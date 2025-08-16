@@ -1,0 +1,88 @@
+# Employee Performance Review
+
+Welcome to English as a Second Language Podcast num ber 120: Employee Performance Review. 
+
+You’re listening to English as a Second Language Po dcast episode 120. I’m your host, Dr. Jeff McQuillan, coming to you from the Ce nter for Educational Development in beautiful Los Angeles, California. 
+
+Today’s podcast is called “Employee Performance Rev iew.” Let’s get started! 
+
+[start of dialogue] 
+
+Don: So how did your end-of-the-year review go? 
+
+Becky: Oh, it was okay. I had my meeting with Mitch  this morning and his bottom line is that he thinks I need to show more initiati ve. He thinks that I need to start being more creative.  
+
+Don: Did he actually say that?  
+
+Becky: Well, not in so many words. But I know that productivity is a big issue for him. Oh, he said the usual things like "Keep up the  good work" and "Thanks for your hard work," but he also said that he's thinkin g about bringing some employees into my department. That, to me, means he 's not satisfied with what I've been doing. 
+
+Don: Are you sure you're not reading too much into what he said?  
+
+Becky: No, I don’t. Either I shape up or my job is on the line.  
+
+Don: Well, I think you may be overreacting. Mitch l ikes to give everybody constructive criticism and I think that's what he w as doing.  
+
+Becky: Do you really think so? 
+
+Don: Yes, I do. If you ask around, other people wil l tell you the same thing.  
+
+Becky: Maybe you're right. Thanks, Don. I feel bett er. 
+
+Don: I'm glad to hear it.  
+
+ [end of dialogue] 
+
+The title of today’s podcast is called “Employee Pe rformance Review.” An “employee,” of course, is someone who works for a c ompany. “Performance” (performance) is how well or how hard you work. And  a “review” is when the boss sits down with you and talks about how you have don e over the past three months or six months. Here, it is the end of the ye ar – after one year. And in many companies, there is an “Employee Performance R eview” every year where each person has to talk to the boss, their boss, an d say how much they’ve done and how well they have done it.  
+
+The dialogue begins with Don asking Becky, “So how did your end of the year review go?” “End of the year” – which is usually or  often hyphenated – it could be just “end of the year.” But “end of the year review ” means, of course, in December or in January, or after one year of workin g for the company – and “review,” we know already, is when you sit down and  you talk about something. You “go over” something, we would say. “To go over”  means to talk about. Becky says it was okay – her end of the year review. She met with her boss, Mitch, and his “bottom line” was that he thinks she needs to s how more “initiative.” The “bottom line” – two words – “bottom (bottom) line ( line)” – the “bottom line” is his final message. The expression or the term “bottom l ine” refers, usually, to the profit that a company makes. They sell so much and it costs them. They spend so much and the bottom line is how much they made o r how much they lost. But here, the expression is used to mean after all sort s of discussion, after everything else is said, what’s the real message – what’s the most important idea. So the bottom line for her boss is that Becky needs to sho w more “initiative.” “Initiative” (initiative) means that you are willing to try new things. And you are willing to do things without anyone telling you to. You start thi ngs on your own. The verb “to initiate” means to begin or to start something new.  So, when her boss tells her she needs to “show” (show) more initiative – and th at’s the verb we usually use – “to show initiative” means she has to demonstrate. She has to actually do things that are new and start things on her own.  
+
+The boss also thinks that Becky needs to more “crea tive.” “Creative” (creative) here means she needs to think of new original diffe rent ideas. “To be creative” means that you come up with some intelligent and or iginal solutions to problems or ideas. Don says, “Well, did he actually say that ?” meaning is that what  her boss said to her. And she says, “Well, not in so ma ny words.” The expression “not in so many words” means not exactly. Those wer en’t his exact words, but that was the message. That was the idea that he was  telling me or he was communicating to me. So, someone says, “Well, I ask ed my wife if we could go  
+
+to a movie tonight. And she said, “Absolutely not.”  And you ask me, “Well, did she actually say that?” and I say, “Well, not in so  many words, but she turned on the television set and started watching TV.” In oth er words, she gave me the message without actually telling me that. I think s he wants me to wash the dishes and not go to the movies. So, that is telling me, b ut not in so many words. 
+
+Becky says that she knows that “productivity is a b ig issue” for her boss. “Productivity” (productivity) – “to be productive” or “productivity” means that you get a lot done. You accomplish a lot in a short amo unt of time. In companies, businesses are always wanting to “increase producti vity,” meaning their employees, their workers, do more and more for the same amount of time, so they get more done.  
+
+Well, her boss says what she calls “the usual thing s,” meaning the normal things, to her in her end of the year review. “Keep up the good work.” When you say to someone “keep up the good work,” “to keep up” means  to continue. So, it’s a very common expression, both formally and informal situations. When someone is doing a good job, you want them to continue. You  say, “Keep up the good work.” Her boss says, also, “Thanks for your hard w ork.” Once again, “thanks for” is expressing their appreciation – their thanks.  
+
+But Becky says her boss also wants to bring in some  new employees – in other words, to get or “hire” (hire) means someone gets a  new job, you hire someone into their department. She says, “That, to me, mean s he’s not satisfied.” “That, to me,” meaning in my opinion, means he’s not satisfie d. Well, Don says, “Are you sure you’re not reading too much into what he said? ” “To read into something” means that you are trying to interpret. You are try ing to figure out what someone is talking about even if they don’t say that exact thing. “To read too much into something” is to think of something as more serious  than it really is or to interpret or understand something in the wrong way because yo u are thinking about it perhaps too much. So, when my wife sits down to wat ch television and points over at the dishes that I’m supposed to wash, to cl ean – if I thought, “Hmm, I think she wants to divorce me.” “I think she wants to leave me because she wants me to do the dishes” – well, maybe, but that would be “reading too much into her actions or her words.” 
+
+Well, Becky says she doesn’t think she’s reading to o much into what her boss said. She said, “Either I shape up or my job is on the line.” “To shape up” – two words – (shape) “up” – means to improve. You say to   somebody “shape up” – means you should do better. There’s a common expres sion “Shape up or ship out.” “To shape up” means to improve. “To ship (shi p) out” means to leave; so, either you improve or you leave. She says that if s he doesn’t shape up, her job is  
+
+on the line – three words – “on the line” – means t hat she could be fired. When you say your job is “on the line” it means you may lose your job. It’s possible that you will get fired. You will lose your job at the c ompany.  
+
+Don thinks that Becky is “overreacting.” “To overre act” – all one word – means to – “to react” – means somebody does something and yo u do something because of what they did. So, if I try to punch you, if I t ry to hit you. You would react by protecting yourself or hitting me first, perhaps. W ell, “to overreact” means that you do too much. So, I try to hit you and you pull out a gun and you shoot me. Well, that’s overreacting and overreacting also can  happen when somebody says something to you and then you get very angry or you  think something very bad or serious is going to happen. 
+
+Mitch, according to Don, Becky’s boss, likes to giv e “constructive criticism.” “Constructive criticism” (constructive) – “construc tive” and “criticism” (criticism) – “criticism” – “constructive criticism” – means that  you are giving someone comments in order to help them, not to punish them,  not to say they are bad but you want them to do better. So, “criticism,” which is something negative, you often say to someone. “Constructive criticism” mean s good criticism – things that will help the person. And Becky’s not sure and Dan says, “Well, if you ask around, other people will say the same thing.” “If you ask around” – “to ask around” means to ask other people, to talk to other  people.  
+
+Now let’s listen to the dialogue at a native rate o f speech. 
+
+[start of dialogue] 
+
+Don: So how did your end-of-the-year review go? 
+
+Becky: Oh, it was okay. I had my meeting with Mitch  this morning and his bottom line is that he thinks I need to show more initiati ve. He thinks that I need to start being more creative.  
+
+Don: Did he actually say that?  
+
+Becky: Well, not in so many words. But I know that productivity is a big issue for him. Oh, he said the usual things like "Keep up the  good work" and "Thanks for your hard work," but he also said that he's thinkin g about bringing some employees into my department. That, to me, means he 's not satisfied with what I've been doing. 
+
+Don: Are you sure you're not reading too much into what he said?   
+
+ Becky: No, I don’t. Either I shape up or my job is on the line.  
+
+Don: Well, I think you may be overreacting. Mitch l ikes to give everybody constructive criticism and I think that's what he w as doing.  
+
+Becky: Do you really think so? 
+
+Don: Yes, I do. If you ask around, other people wil l tell you the same thing.  
+
+Becky: Maybe you're right. Thanks, Don. I feel bett er. 
+
+Don: I'm glad to hear it. 
+
+[end of dialogue] 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. We’ll see you next time on ESL Podcast. 
+
+ESL Podcast is a production of the Center for Educa tional Development in Los Angeles, California. This podcast is copyright 2005 . No part of this podcast may be sold or redistributed without the expressed writ ten permission of the Center for Educational Development.
+

@@ -1,0 +1,138 @@
+# Paying for College
+
+Welcome to English as a Second Language Podcast num ber 1,127 – Paying for College.  
+
+This is English as a Second Language Podcast episod e 1,127. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to ESLPod.com and take a look at our ESL Podcast  Store. While you’re there, you can also take a look at our ESL Podcast Blog. If you’re on Facebook, you can like us on Facebook. Go to facebook.com/esl pod.  
+
+On this episode, we’re going to listen to a dialogu e between Chris and Marcella about getting enough money to go to college. Let’s get started.  
+
+[start of dialogue] 
+
+Chris: Which colleges are you applying to? 
+
+Marcella: None. I can’t afford to go to college. Ev en if I lived at home, tuition, fees, and books are just too expensive. 
+
+Chris: You could apply for financial aid. 
+
+Marcella: I don’t want to get a bunch of loans and be in debt for the next 10 to 20 years. It’s not worth it. 
+
+Chris: Loans aren’t so bad, especially ones that ar e federally subsidized. Apart from that, you could get need-based grants or work- study. Put all of that together and college can be affordable. 
+
+Marcella: I don’t want to go into debt of any kind.  
+
+Chris: You could go to a community college and tran sfer to a four-year university after two years. Community college tuition is much lower. 
+
+Marcella: But who has the time? I have to work full -time to pay my bills. 
+
+Chris: Then think about a program that has a servic e commitment. 
+
+Marcella: What do you mean?  
+
+ Chris: There are teaching, military, or community s ervice programs that will forgive or pay off your loans if you work for the o rganization for a few years after graduating. 
+
+Marcella: And be an indentured servant? No, thank y ou! 
+
+Chris: Okay, but most good jobs nowadays require a college degree. 
+
+Marcella: Not if you really have talent. 
+
+Chris: Talent? 
+
+Marcella: Yeah, haven’t you seen me mime? That’s my  ticket to a great career. 
+
+Chris: I’m happy to hear you have such a practical plan mapped out for your future. 
+
+[end of dialogue] 
+
+Chris asks Marcella, “Which colleges are you applyi ng to?” Which colleges are you trying to get into, are sending applications to ? Marcella says, “None. I can’t afford to go to college.” Marcella says she “can’t afford to go to college,” meaning she doesn’t have any money. She says, “Even if I li ved at home, tuition fees and books are just too expensive.” “Tuition” (tuition) is the money that you pay to a school, including a college or university, to be a student there. It’s the money you pay for your classes.  
+
+Usually, American universities charge a certain amo unt of money for a full-time student, which allows that student to take anywhere  between three and five classes. Of course, you want to take as many classe s as possible to get the most from your money. Not all colleges work that way. So me colleges will charge you for each class you take, so it doesn’t really make a difference, but that’s the idea of “tuition.” It’s money you pay to a school so tha t you can be a student there.  
+
+Chris says, “You could apply for financial aid.” “F inancial aid” (aid) is money that is either given to a student by the college, an org anization, or the government, or money that is loaned to a student by a bank or the government to pay for the costs of being a student. That would include tuitio n, living expenses, books, and so forth. The national or federal government has a financial aid program that it uses to give money to students all over the country .  
+
+Each state also typically has a financial aid progr am, so a student may be getting money from the federal government as well as the st ate government. And of course, individual universities also will sometimes  give students money, although most of the financial aid comes from either the fed eral or the state government, either in the form of what we call “grants” (grants ) or loans. A “grant” is money the government gives you and you don’t have to pay it back. It’s like a gift.  
+
+Marcella says, “I don’t want to get a bunch of loan s and be in debt for the next 10 to 20 years. It’s not worth it.” A “loan” (loan) is , you probably know, money that someone gives you temporarily, with the idea that y ou will give that money back to the person. “To be in debt” (debt) – notice the “b” is silent – means to owe money to other people or to a bank. “To be in debt”  means that you have to pay money back to people. It means that you have loans,  that is. Marcella says she does not want to be in debt for the next 10 to 20 y ears. She says, “It’s not worth it” – it’s not something that I think is a good ide a for my future.  
+
+Chris says, however, “Loans aren’t so bad,” meaning  it’s not that bad for you to get a loan, “especially,” he continues, “ones that are federally subsidized.” “To be subsidized” (subsidized) means to receive financial  support from some other organization, especially from the government. In “f ederally subsidized loans,” the government pays some of the interest on the loan. “ Interest” on a loan is money you pay to borrow the money. It’s like the price of  the loan. The “federally subsidized loans” are loans for which the U.S. nati onal, or federal, government will pay a certain amount of the interest on it.  
+
+Chris says, “Apart from that,” meaning separate fro m that, “you could get need- based grants or work-study.” Something that is “nee d (need) – based (based)” is something that depends upon how much money you make  or have. A “need- based grant” is money that the government gives you  based upon how poor you are.  
+
+“Work-study” is a special program that, again, the government often pays for, where you work on the campus of the university or c ollege. You work when you are a student for the college, doing things like cl eaning and working in the library and helping out in the offices. That would be a wor k-study situation, and that’s a kind of financial aid. They only give those jobs to  the students who need them.  
+
+Chris says, “Put all of that together,” meaning com bine all of those things, “and college can be affordable.” Something that is “affo rdable” (affordable) is something that is not too expensive. It doesn’t cos t too much money. You can pay for it. You have enough money for it. Marcella says, “I don’t want to go into debt of any kind.” Marcella doesn’t want to have an y loans is what she’s saying.   
+
+ Chris says, “You could go to a community college an d transfer to a four-year university after two years. Community college tuiti on is much lower.” A “community college” – what we used to call a “junio r college” in most states – is a college that usually has only two years of schoolin g available. Many times community colleges will offer what’s called an “AA”  or an “Associate of Arts” degree or an “AS” – an “Associate of Science” degre e. These are usually for specific kinds of jobs or things that don’t require  a four-year university degree, a bachelor’s degree.  
+
+Sometimes people will study at community colleges t o do all of their general education requirements before transferring or movin g from the community college to a four-year college or university where they get their bachelor’s degree. This is very common in California because t he tuition at community colleges is cheaper than the tuition at four-year u niversities, or universities that give bachelor’s degrees.  
+
+It’s quite common here in Los Angeles, for example,  for international students to come over and study at a community college such as Santa Monica College, which is close to where I live, and then after two years, after taking their general classes and improving their English, they transfer to either USC (University of Southern California) or UCLA (the University of Cal ifornia, Los Angeles) or another university here in California.  
+
+When I say they take “general education classes,” I  mean that they take classes that most universities require they take – English classes, math classes, usually some sort of science and history classes – classes that are usually required by most universities in order to graduate with a four- year degree.  
+
+Marcella says, “But who has the time? I have to wor k full-time to pay my bills.” Chris says, “Then think about a program that has a service commitment.” A “service commitment” is an agreement or a contract where you agree to work at a certain kind of job when you finish your educatio n, and by agreeing to do that, the government or an organization will give you mon ey.  
+
+This is common, for example, for teachers, because there are many schools, especially in cities like Los Angeles, that need te achers. The government may give you money to become a teacher, but you have to  agree to work for one of the schools for a certain number of years. If you d on’t, then you have to pay the money back to the government as a loan.  
+
+I got my teaching license back in Minnesota many ye ars ago on one of these service commitment grants. Although I didn’t actual ly work long enough in the schools to meet the agreement, so I had to pay some  of it back as a loan. But that’s not the point of the story. The point of the  story is that you can sometimes get money by signing one of these service agreement s for certain kinds of jobs.  
+
+There aren’t very many jobs that the government wil l do this for you. Sometimes it does it for doctors. They will pay the loans of doctors who agree to work in certain parts of the country that need doctors. Mar cella says, “What do you mean?” And then Chris explains. “There are teaching , military, or community service programs that will forgive or pay off your loans if you work for the organization for a few years after graduating.” Chr is mentions the military. The U.S. military will also give you money to go to col lege if you agree, of course, to go into the military for a certain number of years after.  
+
+The verb “to forgive a loan” refers to not requirin g you to pay the loan back. So, if the government gives you a loan and forgives the lo an, the government is saying you don’t have to give us the money that we gave yo u for the loan. “To pay off a loan” is to actually pay usually a bank that has lo aned you the money, the money that you owe. But Marcella doesn’t like this idea, either. She says, “And be an indentured servant? No, thank you!” An “indentured servant” was a person who signs an agreement to work for another person witho ut getting paid for a certain amount of time.  
+
+We don’t have indentured servants anymore. It’s not  legal in the United States to have an indentured servant. It was something that w as more popular in the nineteenth century and before. Wealthy families, fo r example, would pay immigrants to come and work on their farms or at th eir houses, and these workers would have to work for those people for a c ertain amount of time in order to, in effect, pay off the loan that the rich famil y gave the immigrants in order to come to the United States.  
+
+Chris says, “Okay, but most jobs nowadays require a  college degree.” A “degree” is a document saying that you have completed certai n requirements at the university. Marcella says, “Not if you really have talent.” She’s saying that not all jobs require a college degree if you have talent. C hris says, “Talent?” Marcella says, “Yeah, haven’t you seen me mime?” “To mime” ( mime) is to use your body and your face and your hands to show some action wi thout actually saying anything. Marcella thinks she has a talent for mimi ng.  
+
+She says, “That’s my ticket to a great career.” You r “ticket” here refers to your path to success, the way that you’re going to make a lot of money. Chris says,  
+
+ “I’m happy to hear you have such a practical plan m apped out for your future.” “To map out” something is to plan it, to know what all the details are of the plan that you are going to carry out. We use this expres sion not just in talking about using physical map to find out how to get from one place in the city to another, but more generally to refer to someone making detai led plans about his or her future.  
+
+Chris, of course, is being a little sarcastic here.  He’s making a joke. He doesn’t think that trying to become a professional mime is a very good plan for Marcella.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Chris: Which colleges are you applying to? 
+
+Marcella: None. I can’t afford to go to college. Ev en if I lived at home, tuition, fees, and books are just too expensive. 
+
+Chris: You could apply for financial aid. 
+
+Marcella: I don’t want to get a bunch of loans and be in debt for the next 10 to 20 years. It’s not worth it. 
+
+Chris: Loans aren’t so bad, especially ones that ar e federally subsidized. Apart from that, you could get need-based grants or work- study. Put all of that together and college can be affordable. 
+
+Marcella: I don’t want to go into debt of any kind.  
+
+Chris: You could go to a community college and tran sfer to a four-year university after two years. Community college tuition is much lower. 
+
+Marcella: But who has the time? I have to work full -time to pay my bills. 
+
+Chris: Then think about a program that has a servic e commitment. 
+
+Marcella: What do you mean? 
+
+Chris: There are teaching, military, or community s ervice programs that will forgive or pay off your loans if you work for the o rganization for a few years after graduating.  
+
+ Marcella: And be an indentured servant? No, thank y ou! 
+
+Chris: Okay, but most good jobs nowadays require a college degree. 
+
+Marcella: Not if you really have talent. 
+
+Chris: Talent? 
+
+Marcella: Yeah, haven’t you seen me mime? That’s my  ticket to a great career. 
+
+Chris: I’m happy to hear you have such a practical plan mapped out for your future. 
+
+[end of dialogue] 
+
+We are all in debt to the wonderful Dr. Lucy Tse fo r her wonderful scripts. Thank you, Lucy.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

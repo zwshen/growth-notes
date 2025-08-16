@@ -1,0 +1,104 @@
+# Claiming Credit for an Invention
+
+Welcome to English as a Second Language Podcast num ber 1,298 – Claiming Credit for an Invention. 
+
+This is English as a Second Language Podcast episod e 1,298. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+This episode is a dialogue between Kitty and Albert o about saying that you came up with, or created, a new idea or a new thing when  you didn’t. Let’s get started. 
+
+[start of dialogue] 
+
+Kitty: Wait a second. We invented the Macanator. It  was one of the most important technical achievements of our country. 
+
+Alberto: What? You can’t claim credit for the Macan ator. We beat you to it.  
+
+Kitty: You may have invented the precursor to the m odern-day Macanator, but we’re the ones who are the recognized inventors.  
+
+Alberto: That’s disputed. Just because we didn’t do cument the achievement, doesn’t mean it didn’t happen. 
+
+Kitty: You mean it’s a case of “If a tree falls in the forest and no one is around to hear it, does it make a sound?” 
+
+Alberto: I don’t think so. 
+
+Kitty: The fact is, you can try to rebut our claims  all you like, but you still have no proof.  
+
+Alberto: The proof is in the pudding. Don’t we make  the best Macanators in the world today?  
+
+Kitty: That’s beside the point. Okay, I will conced e that your country makes the best Macanators today, if you’ll concede that we in vented it. 
+
+Alberto: Never! 
+
+[end of dialogue]  
+
+ This dialogue is all about “inventions” (inventions ). “Inventions” as a word comes from the verb “to invent.” “To invent” means to cre ate or develop something that has never been made before. Usually inventions are physical things – things that you make with your hands or with a machine. That’s normally how we would think of an invention, though I suppose nowadays, w ith software and computer programming, we might think of it a little differen tly.  
+
+In any case, our dialogue begins with Kitty saying to Alberto, “Wait a second,” meaning stop. “We invented the Macanator. It was on e of the most important technical achievements of our country.” Kitty is sa ying that “we,” meaning she or someone from her country invented this machine or t his thing called a “Macanator.” We’re not sure what a Macanator is and  it’s not important.  
+
+What is important is that Kitty believes that it wa s “one of the most important technical achievements” of her country. A “technica l achievement” would be some great accomplishment, some great thing that in volves technology or tools, that makes life better in some way. A technical ach ievement would be, for example, the invention of the television or the sma rtphone or the wireless radio.  
+
+Alberto says, “What?” He’s very surprised. He says,  “You can’t claim credit for the Macanator. We beat you to it.” So, it appears t hat Kitty and Alberto are from two different countries, and Alberto is saying that  “we,” by which I think he means his country or someone from his country, “invented the Macanator,” and therefore Kitty’s country can’t “claim (claim) credit (credit ).”  
+
+“To claim credit” is to say that you are responsibl e for something that was done and that therefore you should receive the praise or  the recognition or the reward for it. You can claim credit for an idea just as we ll as for an invention. Usually when we use this expression “to claim credit,” we’r e saying that someone falsely claimed credit – that someone said that he invented  something or he thought of something when he really didn’t, just so that he co uld get the praise or recognition for it.  
+
+So, let’s say you and your coworker, a person you w ork with, are talking about an idea that you have. Well, later your coworker goes to your boss and claims credit for that idea, says that she thought of the idea. T hat would be an example of claiming credit for something. Alberto says that Ki tty’s country cannot claim credit for the Macanator. He says, “We beat you to it.” “T o beat (beat) someone to” something means to do something before another pers on does, or to be the first group or first person to do a certain thing. “The A mericans beat other countries to the moon” – they got there before other countries l anded on the moon.  
+
+ Kitty says, “You may have invented the precursor to  the modern-day Macanator, but we’re the ones who are the recognized inventors .” Kitty uses the word “precursor” (precursor). A precursor is something t hat happens before another event, and that leads to it in some way or is respo nsible for the later event that takes place. For example, the typewriter, the manua l typewriter, was in some ways the precursor to modern computer word processo rs – computers that did the same thing as a typewriter only in a better or different way.  
+
+Kitty says that Alberto’s country “invented the pre cursor to the modern-day,” or current, “Macanator,” this strange and unknown mach ine, “but we’re the ones who are the recognized inventors,” she says. “To be  recognized” means that you are acknowledged or seen by others as having done a  certain thing or to have accomplished a certain thing. We might say, “This r unner is recognized as the fastest man in the world.” Everyone knows him and a grees that yes, he is the fastest man in the world.  
+
+Alberto says, “That’s disputed.” Something that is “disputed” (disputed) is something that people do not agree on or something that is controversial – that is, people have different opinions about it and oft en disagree, sometimes with great emotion about it. Alberto says, “Just because  we didn’t document the achievement, doesn’t mean it didn’t happen.” “To do cument” (document) something is to write it down or to do something th at makes a permanent or visible record of it.  
+
+Nowadays we might record a video to document someth ing happening. The word “document” is often used to describe pieces of pape r that have writing on them, or any kind of writing, such as a Microsoft Word do cument. That would be an electronic file that has information, written infor mation, on it. “To document” as a verb, however, means more generally to do something , to record a certain event in a permanent way that others can go and look at t o see that it actually happened.  
+
+Alberto says, “Just because we didn’t,” we did not,  “document the achievement” – that is, the invention of this machine – “does no t mean it didn’t happen.” It’s kind of hard to understand in that sentence because  there are a lot of negatives there. Basically what Alberto is saying is that eve n though we didn’t record it or document it, it still happened. Just because there’ s no evidence doesn’t mean it didn’t happen. It did happen, even though there is nothing to show or prove it happened.  
+
+Kitty then uses a famous expression in English abou t this exact situation. She says, “You mean it’s a case of ‘If a tree falls in the forest and no one is around to hear it, does it make a sound?’” This expression is  used sometimes to question whether something has value or meaning if no one is  actually there to see it or hear it. The obvious answer to this question, of co urse, is yes; things make sounds even though no one is there to hear the soun d waves that move through the air.  
+
+The expression is sometimes used jokingly, as thoug h it were some sort of great philosophical question. A “forest” (forest) is a la rge group of trees in a single area. Alberto says, “I don’t think so,” meaning “I don’t think this is an example of that case of the tree falling in the forest and no one being around to hear it.” Kitty then says, “The fact is, you can try to rebut our c laims all you like, but you still have no proof.” The expression “the fact is” is oft en used to emphasize that you are telling the truth or that what you are saying i s a fact. It is real. It is true.  
+
+The verb “to rebut” (rebut) means to present an opp osing view or opinion of something, to argue against something. Usually we u se this verb after another person has disagreed with us, so we present an argu ment, and the other person presents another argument against ours. We then “re but” his argument. So it’s usually, if you will, the third time that the quest ion has been addressed, although it’s not always used quite in that technical manner , the way we might use it in a formal debate or disagreement about a topic.  
+
+I published a scientific article about vocabulary n ot too long ago, and someone wrote an article disagreeing with me. I then was al lowed to rebut his argument. I wrote a second article disagreeing with the things he said about my article. Who was right? Who was correct? Well, I was, of course.  Kitty says that Alberto and his country can try to rebut her country’s “claims”  (claims) all they like. A “claim” is when you say something is true.  
+
+Kitty says, however, that Alberto has no “proof” (p roof). “Proof” is evidence, something that shows that you are correct. It could  be documents or other things that show that you are telling the truth. Alberto t hen uses another popular expression in his response, although it doesn’t mak e a lot of sense. He says, “The proof is in the pudding” (pudding). The word “ pudding” in British English is often used simply to mean what in American English we would call “dessert” (dessert) – something sweet that you eat at the end  of a meal. For short, it sometimes simply called a “pud” (pud).  
+
+In American English, a pudding is one kind of desse rt, a particular kind of dessert that often has what we would call a “creamy consist ency.” It has a creamy texture  
+
+or feel to it. In any case, the expression “The pro of is in the pudding” means that whether you are right or not is determined by wheth er you are successful. If something actually works, then that is the proof. T he proof or the evidence that you are correct is that something works.  
+
+The reason Alberto says that here is because he the n claims that his country makes the best Macanators in the world, and if that ’s true, therefore, he thinks they must have invented the Macanator. Of course, t hat isn’t really logical but that’s what Alberto is saying. Kitty, however, says , “That’s beside the point.” The expression “to be beside (beside) the point (point) ” means it’s not important. It’s not related to this topic. It’s irrelevant, we migh t also say. Something that is “irrelevant” is something that doesn’t matter. It’s  not important, especially when you are arguing about something or trying to make a  case for something.  
+
+Kitty says, “I will concede that your country makes  the best Macanators today.” “To concede” (concede) means to admit that somethin g is true when earlier you said it wasn’t true – you said it was false – to sa y, “Okay, you’re right. I was wrong about this.” Kitty says that she will concede  that Alberto’s country makes the best Macanators today, but she will only conced e that – she will only agree to say she was wrong – if Alberto concedes that her co untry invented the Macanator.  
+
+And Alberto says, “Never!” meaning no, he will not agree to that statement. He will not concede that Kitty’s country invented the Macanator. What is the Macanator? Well, it’s a mystery.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Kitty: Wait a second. We invented the Macanator. It  was one of the most important technical achievements of our country. 
+
+Alberto: What? You can’t claim credit for the Macan ator. We beat you to it.  
+
+Kitty: You may have invented the precursor to the m odern-day Macanator, but we’re the ones who are the recognized inventors.  
+
+Alberto: That’s disputed. Just because we didn’t do cument the achievement, doesn’t mean it didn’t happen. 
+
+ Kitty: You mean it’s a case of “If a tree falls in the forest and no one is around to hear it, does it make a sound?” 
+
+Alberto: I don’t think so. 
+
+Kitty: The fact is, you can try to rebut our claims  all you like, but you still have no proof.  
+
+Alberto: The proof is in the pudding. Don’t we make  the best Macanators in the world today?  
+
+Kitty: That’s beside the point. Okay, I will conced e that your country makes the best Macanators today, if you’ll concede that we in vented it. 
+
+Alberto: Never! 
+
+[end of dialogue] 
+
+Our scriptwriter is, or should be recognized as, on e of the great scriptwriters on the internet. I speak, of course, of the wonderfull y talented Dr. Lucy Tse.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st.  
+

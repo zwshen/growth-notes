@@ -1,0 +1,74 @@
+# A Complaint Letter to a Tour Company
+
+Welcome to English as a Second Language Podcast num ber 153: A Complaint Letter to a Tour Company. 
+
+You’re listening to English as a Second Language Po dcast episode 153. I’m your host, Dr. Jeff McQuillan, coming to you from the Ce nter for Educational Development in beautiful Los Angeles, California. 
+
+Today’s podcast is called “A Complaint Letter to a Tour Company. Let’s listen! 
+
+[start of letter] 
+
+To Whom It May Concern: 
+
+I am writing regarding a tour that my wife and I to ok with your company on February 26, 2006. The brochure stated that we woul d see some of the most interesting sights of the city. Since we had visite d the city before, we looked forward to seeing some new attractions.  
+
+On the morning of February 26, our tour guide picke d us up in a small van. It did not look like any tour bus I had ever seen. Our tou r guide drove us to the waterfront area and said that we could explore the area on our own. The tour guide said that he had to leave for a short time to  arrange for our lunch.  
+
+By the time the tour guide came back, three hours h ad gone by! I was very angry and confronted him. I told him that this was the wo rst tour I had ever been on.  
+
+I am asking for a complete refund of the price of t he tour. Please send a check to the address above for $150.00 at your earliest conv enience. I have enclosed a copy of the receipt for the tour.  
+
+Sincerely, Kanye East 
+
+[end of  letter] 
+
+We listened to a complaint letter in this podcast. A “complaint letter” (complaint) is a letter that you send a company or organization  to tell them that they did something wrong. The verb is “to complain” (complai n). And here we have the word “complaint” to describe the letter. Now, this is a tour company – a company  
+
+that arranges and takes people who are visiting to different places. The letter begins with “To Whom It May Concern:” “To Whom (who m) It May Concern:” – the entire expression is capitalized. So, every wor d: “To Whom It May Concern” begins with a capital letter. This is what we use i n, many times, in a business letter, when we don’t know who to write the letter to. You don’t know if it’s Mr. Smith or Ms. Jones. You don’t have a name of a pers on to write the letter to. So, what we are saying in “To Whom It May Concern” is t o the person who is responsible for what I am talking about in my lette r. So, that’s a very common way to open a business letter when you don’t know t he person or a person in that particular organization or company. It ends with a colon and we use a colon in a formal business letter, instead of a coma. Even if you know the name and it’s a formal business letter, you would still use a colon  – “Dear Dr. Johnson:” If it’s a friendly letter, an informal letter, then we would use a coma – “Dear John,” for example. 
+
+Well, the first paragraph of the letter begins by s aying, “I am writing regarding a tour that my wife and I took with your company.” Th at word “regarding” (regarding) means I am writing about something. So,  here the word “regarding” just means about. “I want to talk to you regarding the money that is missing from my wallet” – that would be the same as “I want to t alk to you about that topic.” It’s a little more formal. It’s a little more common in a business situation to use that word “regarding.” Sometimes in a business letter, y ou will see the top of the letter will have the address – name and address – of the p erson you are writing. And then you’ll see a line – a space – and the next lin e will say, “RE:” and then some short phrase – couple of words. The “RE:” there mea ns “regarding.” So, you’re saying, “Here’s what the subject of this letter is. ” It’s sort of like in an email. You have a subject line, where you tell somebody what t he subject is, using “RE:” in the top of the letter. It goes between the address and what we call the “salutation” – the greeting. So, here the salutatio n is, “To Whom It May Concern:” It could be, “Dear Dr. Johnson.” So it goes above t hat and below the address, and again it means “regarding.” 
+
+Well, back to the letter. The letter says that “The  brochure for the tour stated that we would see some of the most interesting sights of  the city.” The “brochure” (brochure) is a description of the tour. It’s usual ly on a nice piece of color paper with photographs – that’s a brochure. You can have a brochure for a tour. You can have a brochure for your company to tell people  what it is that you do. You can use a brochure for any of those things. The bro chure “stated” (stated) – that simply means the brochure “said” – past tense of th e verb to state, is to say. “The brochure stated that we would see some of the most interesting sights of the city.” Notice the use of the grammatical constructi on here, “would see,” meaning because we’re saying stated in the past, we use the  verb “would see” here – that  
+
+word “would” – means that it is thinking about the future but in the past. It’s a little confusing. “He told me he would go to the store.” S o, he said that to me yesterday but when he said it to me, he was talking  about the future. So, in this sentence it says, “The brochure stated” – in the pa st – “that we would see” – thinking about the future – “some of the most inter esting sights of the city. 
+
+A “sight” (sight) is an interesting place. Someone says, “I want to see the sights of Los Angeles” means they want to see the most int eresting things in Los Angeles, like the beaches and the Hollywood stars a nd Jeff McQuillan’s house. You know – all of the famous things. So, the letter  continues – “Since we had visited the city before, we looked forward to seein g some new attractions.” “Attractions” (attractions) – an “attraction” is ju st a famous or interesting place that someone who is visiting would want to see.  
+
+Well, the next paragraph begins – “On the morning o f February 26.” Notice the use there of “on.” “On the morning of.” We don’t sa y, “In the morning of.” And the reason is that we are talking about a time during a  specific day. “On the evening of July 27th,” “On the afternoon of May 3rd,” “On t he morning of February 26th” – that just means in that period of time, but for a s pecific day. If you say, “In the morning,” you’re usually talking about a specific t ime. “I am going to leave at 6 o’clock in the morning. But you would not say, “I’m  going to leave at 6 o’clock on the morning.” You would say, “In the morning” when there’s a specific time. You would not say, “In the morning of February 26th.” Y ou have to say, “On the morning.”  
+
+The letter continues – “Our tour guide picked us up  in a small van.” Well, the “tour guide” (guide) is the person who is responsib le for the tour, who is giving the tour, who is telling you about all the differen t sights and attractions. “The tour guide picked us up,” meaning they came with their v an or their big car and we got into their car. When you say, “Someone’s going to p ick me up,” you mean they’re going to drive over to where you are and take you w ith them in their car. Now, this is not a car but it’s a “van” (van). And a “va n” – it’s like a big car or big truck that you can put many different people in there – f ive, six, maybe ten people in a big van. Well, the letter says that this van did no t look like any tour bus I had ever seen. A “tour bus,” obviously, is a bigger vehicle that you can put many more people in – looks the same as any other kind of bus . “The tour guide drove us down to the waterfront area.” The “waterfront” (wat erfront) – all one word – “waterfront” is, of course, down in the area next t o some water, like the ocean or a river, or a lake – all of those could have “water front.” If someone says to you, “I have waterfront property.” That means they own land  near the water – that’s right on or touches whatever water you’re talking about. 
+
+Well, the tour guide said that they should explore the area on their own. “To explore” here just means to look around, to go by y ourself, and look. “On your own,” means by yourself, without the tour guide. We ll, the tour guide then said, he was going to “leave to arrange for our lunch,” m eaning to make plans for our lunch. “By the time the tour guide came back, three  hours had gone by.” “By the time” – that expression means at the hour, at the t ime that the tour guide came back. But we use that expression “By the time” when  it’s been a long time and we are going to say something – usually often that has  a negative outcome – a negative result. “By the time my brother came over to my house, all of the work was already done.” “I asked him to come over and he lp me, but by the time he got here, the work was finished.” So, we’re using t hat expression “By the time” with the idea that a long time has gone by - has pa ssed -  and something bad has happened because the person was very late. Usua lly, we use this when someone is late for a meeting or an event. In this case, three hours had gone by. “To go by” – when we say “Time goes by” (goes) (by)  – or here, in the past – “gone” – “had gone by” – means that it has passed, that it is over. Three hours “went by,” meaning we were there for three hours.  
+
+Well, obviously, he’s very angry and the person in the letter here, Kanye East, says, “I confronted him.” I confronted the tour gui de. “To confront” (confront) – “to confront someone” means that you talk to them, but usually in order to complain about something or because you are angry. So, that verb “to confront” has a negative meaning again, just like “By the time.” Wh en we say, “I confronted him” – means I went up to him. I talk to him and I proba bly said something negative, something like a complaint to him.  
+
+Well, the letter ends by the person asking for a “c omplete refund” of the price of the tour. A “refund,” of course, (refund) is when a  company gives you money back. A “complete refund” would mean you want all o f the money that you spent back. And the expression used here is the “complete  refund of the price of the tour,” meaning of the money. So, we wouldn’t say, “ A complete refund of the money of the tour,.” we would say, “Of the price of  the tour.” He asks in the letter that the company send the check to the address abov e – that means to the address that’s on the top of the letter which would , of course, be your address. So, send the check to the address above or the addr ess, rather, above. Notice the pronunciation there. If it’s a noun, it’s “addr ess.” If it’s a verb, it’s “address.” So, “I’m going to address a letter” means I’m going  to write the person’s address on the letter. Well, he asked for the refund to be sent at your “earliest convenience” – that’s an expression we use in a bus iness letter to mean “as soon as possible” – right away. “I want my money no w man.” “At your earliest convenience” is a polite way of saying, “I want you  to do this right away” – soon. 
+
+He says he’s “enclosed” a copy of the receipt. “To enclose in a letter” (enclose) means to put with the letter. So, if you “enclose” the receipt, you put the letter in an envelope and the receipt in the same envelope – that’s to enclose. And often on a business letter, at the bottom of the letter, you’ll see the words “ENC.” And after that, it will say. “Receipt,” or the name of a document, the name of another piece of paper that’s with the letter – telling you  that there is an enclosure – and that is the noun. An “enclosure” (enclosure) is wha t you enclose or put with a letter when you send it.  
+
+The letter ends with “Sincerely,” and that is a bus iness way, a polite way, of ending a letter – “Sincerely,” – you can also say, “Sincerely yours,” and “Sincerely” is capitalized – (Sincerely) but “yours ” is not capitalized. So, there’s a capital S for sincerely – a small “y” for “yours” c oma. 
+
+Now let’s listen to the letter this time at a nativ e rate of speech. 
+
+[start of letter] 
+
+To Whom It May Concern: 
+
+I am writing regarding a tour that my wife and I to ok with your company on February 26, 2006. The brochure stated that we woul d see some of the most interesting sights of the city. Since we had visite d the city before, we looked forward to seeing some new attractions.  
+
+On the morning of February 26, our tour guide picke d us up in a small van. It did not look like any tour bus I had ever seen. Our tou r guide drove us to the waterfront area and said that we could explore the area on our own. The tour guide said that he had to leave for a short time to  arrange for our lunch.  
+
+By the time the tour guide came back, three hours h ad gone by! I was very angry and confronted him. I told him that this was the wo rst tour I had ever been on.  
+
+I am asking for a complete refund of the price of t he tour. Please send a check to the address above for $150.00 at your earliest conv enience. I have enclosed a copy of the receipt for the tour.  
+
+Sincerely, Kanye East 
+
+[end of  letter] 
+
+ Remember to visit our website at eslpod.com for mor e information about this podcast.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. We’ll see you next time on ESL Podcast. 
+
+English as a Second Language podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. This podcast is copyr ight 2006.
+

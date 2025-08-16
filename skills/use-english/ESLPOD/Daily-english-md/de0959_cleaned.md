@@ -1,0 +1,94 @@
+# A Territorial Dispute
+
+Welcome to English as a Second Language Podcast num ber 959 – A Territorial Dispute.  
+
+This is English as a Second Language Podcast episod e 959. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California, U.S.A.  
+
+Our website is ESLPod.com. Go there to become a mem ber of ESL Podcast. When you do, you can download the Learning Guide fo r this episode.  
+
+This episode is a dialogue between Roberta and Eli about territorial disputes – when two countries have disagreements about who own s a certain piece of land. Let’s get started.  
+
+[start of dialogue] 
+
+Roberta: So this is McQuillanland! 
+
+Eli: Well, that depends on whom you ask. This area has been under territorial dispute since 1963.  
+
+Roberta: Who else claims it?  
+
+Eli: Its neighbor, Tseland. Tseland annexed it afte r the brief war in 1963, but McQuillanland refuses to recognize the change in bo undaries. 
+
+Roberta: I didn’t know that. 
+
+Eli: McQuillanland contends that the demarcation fo r the border is this river, but Tseland says that it rules over this entire valley.  Since most of the people who live here consider themselves McQuillanlanders, the y say possession is nine- tenths of the law. 
+
+Roberta: Wasn’t there a treaty at the end of the co nflict? 
+
+Eli: There was, but the wording was vague and the d ispute has continued to this day. 
+
+Roberta: So if we committed a crime right here, rig ht now, which country would have jurisdiction?   
+
+ Eli: Let’s not find out. 
+
+[end of dialogue] 
+
+Our dialogue begins with Roberta saying to Eli, “So  this is McQuillanland!” Eli says, “Well, that depends on whom you ask.” It depe nds on the person you ask, Eli is saying, whether this is McQuillanland or not . He says, “This area has been under territorial dispute since 1963.” When we say something is “under dispute” (dispute), we mean that people disagree about it. O ften it's a disagreement that has been going on for many years. A “territorial (t erritorial) dispute” is a disagreement about who owns a certain piece of land . The word “territorial” comes from the noun “territory,” which is another w ay of referring to land owned by a certain country.  
+
+Roberta says, “Who else claims it?” “To claim” (cla im) here means to say that you own it, that it is yours. If I say, for example , “The United States claims the island of Guam in the South Pacific,” I mean the Un ited States says that they own Guam, that it is theirs. Here, the word refers to owning a certain piece of territory, a certain area of land. Eli says that th e neighbor of McQuillanland – Tseland – claims this area.  
+
+“Tseland annexed it after a brief war in 1963,” Eli  tells us. “To annex” (annex) means to add some area of land to your land, to say  it is yours. In Los Angeles, for example, the city of Los Angeles over the years  has annexed certain areas that were not part of the city, but then became par t of the city. The city is taking ownership of a certain part of land.  
+
+Countries can “annex” certain areas of land from ot her countries. Basically, they’re stealing it from other countries, but they often have reasons and justifications for why they are taking the land. Ts eland annexed this land where Eli and Roberta are standing after a brief, or shor t, war in 1963. “But,” Eli continues, “McQuillanland refuses to recognize the change in boundaries.” A “boundary” (boundary) is a line that separates two different pieces of land, usually. That's how it's been used here. We might a lso say “border” (border). That's what separates two pieces of land – in this case, two different countries.  
+
+“McQuillanland refuses to recognize the change in b oundaries.” “To recognize” is to say, “Okay, yes, we agree.” In this case, McQuil lanland would have to agree that Tseland owns that particular piece of land. Of  course they don't. Everyone knows that Tseland does not own this piece of land,  that they illegally took the land back in 1963. But for the sake of the story, f or the purposes of the story, we  
+
+will not take sides. We will not decide who is righ t, McQuillanland or Tseland. We all know McQuillanland is right, but I won't say th at, at least more than three or four more times.  
+
+Roberta says, “I didn't know that.” She didn't know  that McQuillanland refused to recognize the change in boundaries. Eli says, “McQu illanland contends that the demarcation for the border is this river, but Tsela nd says that it rules over this entire valley.” To say that McQuillanland “contends ” (contends) that something is true means that McQuillanland says this in an argum ent or in a dispute. We use the verb “to contend” in this context when we are t alking about two people who disagree about something. What I “contend” is what I think is true.  
+
+“McQuillanland contends that the demarcation for th e border is this river.” Demarcation” (demarcation) refers to the process of  setting, or establishing, boundaries or borders, especially when these are be ing changed from the way they were before. The “demarcation” for the border would be the determination of where the border is – where the border between, in this case, McQuillanland and Tseland is. McQuillanland says the demarcation for the border is this river, “but Tseland says that it rules over this entire valley. ” “To rule over” an area means to be in charge of, to own, to officially be the owner  of that area.  
+
+Usually we talk about countries ruling over certain  areas. Tseland says it “rules over this entire valley.” A “valley” (valley) is th e place or land in between two hills or two mountains, more typically. A valley often ha s a river that goes through it. Eli says, “Since most of the people who live here c onsider themselves McQuillanlanders, they say possession is nine-tenth s of the law.” Most of the people who live in this area consider themselves – that is, they think of themselves – as being citizens of McQuillanland. Th at is what a “McQuillanlander” would be, I guess.  
+
+“They say possession is nine-tenths of the law.” Th is is an old expression that means that when there is a disagreement about who o wns something, the person, or in this case the country, that actually has possession of it – that actually has it with them or has it, in this case, under their control – is the legal owner. “To possess” something means to have it. You  can possess something that you don't own. You can own something that you don't possess. “To own” something means that it legally belongs to you. “To  possess” something means to actually have it. So, I own a car, but if someon e steals my car, I no longer possess my car. “I don't have it in my possession,”  we could say.  
+
+“Possession is nine-tenths of the law” means that i f you actually have it, that's the most important thing, and that in some ways that is  more proof that you own  
+
+something. Of course, that isn't really true, but i t's an expression that people use to indicate that it doesn't matter what other peopl e say about who owns a certain thing; it's actually having it that is the best way  of determining the true owner. I'm not talking about the way American law actually wor ks, however. This has nothing to do with the laws of the U.S. or any othe r country. It has to do with the way people think about things.  
+
+Roberta says, “Wasn't there a treaty at the end of the conflict?” A “treaty” (treaty) is a formal agreement between two countries about s ome important issue or topic. A “conflict” (conflict) is a war when two co untries are fighting, or when two people are fighting. That could also be called a “c onflict.” Roberta is asking if there was a treaty at the end of the 1963 conflict.  Eli says, “There was, but the wording was vague and the dispute has continued to this day.” “Wording” (wording) refers to the language that was used to e xpress something, especially if it's in an official or legal document.  
+
+The word “vague” (vague) means unclear, uncertain, difficult to understand. If someone is being “vague” with you, they're not givi ng you a clear answer. We would say they're “not giving you a straight answer .” If the wording is vague, it's not clear when you read the treaty what it actually  says. That's true with a lot of laws, I think. Eli says, “The dispute” – the disagr eement – “has continued to this day,” meaning up until the present time. Roberta sa ys, “So if we committed a crime right here, right now, which country would ha ve jurisdiction?”  
+
+“To commit a crime” means to break the law – to do something against the law, like stealing my car, for example. “Jurisdiction” ( jurisdiction) is the official, legal power that a government has over people in a certai n area. In the United States, for example, there are many different cities within  a state. The police in each city have jurisdiction over the people in that city, but  they can't go to another city and arrest people. The police don't have jurisdiction i n the other cities. States and cities and other governments talk about jurisdictio n to refer to who has the authority, who has the power, to determine what hap pens in this specific area.  
+
+Eli doesn't want to find out which country would ha ve jurisdiction if they committed a crime, and that's why he ends our dialo gue by saying, “Let's not find out,” meaning let's not do something wrong and then , by that process, discover who has jurisdiction. That sounds like a pretty goo d idea to me. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Roberta: So this is McQuillanland! 
+
+Eli: Well, that depends on whom you ask. This area has been under territorial dispute since 1963.  
+
+Roberta: Who else claims it?  
+
+Eli: Its neighbor, Tseland. Tseland annexed it afte r the brief war in 1963, but McQuillanland refuses to recognize the change in bo undaries. 
+
+Roberta: I didn’t know that. 
+
+Eli: McQuillanland contends that the demarcation fo r the border is this river, but Tseland says that it rules over this entire valley.  Since most of the people who live here consider themselves McQuillanlanders, the y say possession is nine- tenths of the law. 
+
+Roberta: Wasn’t there a treaty at the end of the co nflict? 
+
+Eli: There was, but the wording was vague and the d ispute has continued to this day. 
+
+Roberta: So if we committed a crime right here, rig ht now, which country would have jurisdiction?  
+
+Eli: Let’s not find out. 
+
+[end of dialogue] 
+
+There is no relationship between our scriptwriter, Dr. Lucy Tse, and Tseland in this script. It’s just a coincidence. 
+

@@ -1,0 +1,80 @@
+# Childhood Illnesses and Diseases
+
+Welcome to English as a Second Language Podcast num ber 725: Childhood Illnesses and Diseases.   
+
+This is English as a Second Language Podcast episod e 725.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there today and beco me a member of ESL Podcast.  The world will be a happier place if you do! 
+
+This episode is on the always-happy topic of childh ood illnesses and diseases. We’re going to talk about the names of some common illnesses and diseases that, unfortunately, children sometimes get.  Let’s  get started. 
+
+[start of dialogue] 
+
+Rebecca:  You look exhausted!  Another tough day at  the daycare center? 
+
+Puneet:  Yeah, it was.  This is a record year for t he kids getting sick.  The chicken pox is going around.  Last year, it was the  measles.  The year before that, it was the mumps.  This year, it’s the chicke n pox. 
+
+Rebecca:  You sent the kids home, right?   
+
+Puneet:  Yeah, but today, a couple of the kids look ed like they have pink eye, and I had to call their parents to let them know.   
+
+Rebecca:  What happened to simple nosebleeds and ea raches?   
+
+Puneet:  Oh, we have kids with those, too, but it’s  the contagious diseases that really take its toll.  I’m not sure, but I think on e of the little kids has strep throat, and a couple of the really little kids have croup.  I wish there were a way to immunize all of them from every illness and disease  out there. 
+
+Rebecca:  Are you sure you’re working in a daycare center? 
+
+Puneet:  Yeah, why? 
+
+Rebecca:  Because it just sounds like you’re workin g at the Center for Disease Control.  Tomorrow, I suggest wearing a gas mask to  work.  
+
+ [end of dialogue] 
+
+Rebecca begins by saying to Puneet, “You look exhau sted (meaning you look very tired)!  Another tough day at the daycare cent er (another difficult day at the daycare center)?”  “Daycare centers” are places whe re you can take young children, and they will take care of them for you d uring the day – pretty logical. Daycare is usually something provided for children who are not yet old enough to go to school, so anyone from being a baby to, say, five or six years old, although some programs also have after school care, where yo u can take a child after they finish school.  However for the most part, day care is for men and women who work during the day and need someone to watch t heir young children. 
+
+Puneet says, “Yes, it was (it was a tough day).  Th is is a record year for the kids getting sick.”  A “record year” is a year where you  have the highest level or highest amount of something, a year with more of so mething than any other year. So if you said, “This is a record year for rainfall ,” for the amount of rain that has fallen from the sky in this area, that means that n o other year has had as much rain as this year.  “Record” has a couple of differ ent meanings in English; you can find those in our wonderful Learning Guide. 
+
+Puneet says the kids are getting sick this year mor e than any other year, so it’s a record year.  “The chicken pox is going around.”  “ Chicken pox” (pox) is an infection that is easily shared among children, and  sometimes among adults.  It is a disease that can give you a fever – a high temper ature, it causes you to be tired, and more importantly, it produces small, lit tle red spots or marks on your skin that are “itchy,” meaning you want to take you r fingers and move them back and forth over them, what we would call “scratch” t hem.  That’s chicken pox; it’s a very common disease – illness among children.  I ha d chicken pox.  I think you can get chicken pox typically just once, and I cert ainly remember having it when I was a young child.  When we say something is “going  around,” we mean that many different people seem to be getting this illne ss or this sickness.  We could talk about the flu is going around – influenza; man y people are getting sick from it.  In this case, “The chicken pox is going around .  Last year, it was the measles,” meaning last year the disease that was po pular, that was going around among the children was measles.  “Measles” (measles ), which I believe the more technical name would be rubeola; it’s a disease tha t also causes fever – high temperature, as well as coughing, red eyes, and lik e chicken pox, many red spots on the skin.  I’m not sure if I had measles w hen I was young; I don’t think so.  I don’t remember; it was so many years ago.   
+
+So, Puneet says that last year the popular disease was measles, “The year before that, it was the mumps” (mumps).  The “mumps ” is another disease that causes pain in your what we call “salivary glands.”   It’s the part of the body that produces liquid inside of your mouth.  So you often  have pain near your ears, and it’s technically an “inflammation.”  That is, i t causes it to grow – to swell. Although I’m not a real doctor, so if I’m not descr ibing these perfectly, and you’re a doctor, please don’t email and say, “Jeff, no, ac tually it’s…” – well, you get the idea, right?  It’s not fun, the mumps.  Did I have the mumps?  I don’t remember; you’ll have to ask my mother!   
+
+Puneet says, “This year, it’s the chicken pox.”  Re becca says, “You sent the kids home, right?” meaning the children could not stay a t the daycare if they were sick, because then other kids would get sick.  Pune et said, “Yeah (meaning yes, I did send them home), but today, a couple of kids (t wo or three) looked like they have pink eye, and I had to call their parents to l et them know.”  “Pink eye” is another disease – another illness that can be caugh t from one person to another, what we would say a “contagious” disease.  Its tech nical name is conjunctivitis, and it is an infection on the white part of your ey e; your eye actually becomes pink, and it can be quite painful as well. 
+
+Rebecca says, “What happened to the simple noseblee ds and earaches?”  A “nosebleed” is when blood comes out of your nose an d you can’t stop it quickly; usually it just lasts for a few minutes.  If you hi t your nose you might get a nosebleed.  “Earaches” are when you have pain in yo ur ears.  Nosebleeds and earaches are not serious illnesses; they’re not ser ious medical problems.  They are something that children often get, and that’s w hy Rebecca is saying, “What happened to simple nosebleeds and earaches?”  She’s  really saying it used to be kids would only get simple problems, and now it see ms the problems are getting worse.  That’s sort of the idea of her question. 
+
+Puneet says, “Oh, we have kids with those, too, but  it’s the contagious diseases that really take its toll (or that really take thei r toll).”  “Contagious” means, as I mentioned earlier, that it is easy for the disease to go from one person to another.  A “disease” is just another name for an i llness or a sickness.  When we say something is “taking its toll,” we mean that it  is having a negative impact on something; it is having a bad effect on something.  Puneet says, “I’m not sure, but I think one of the little kids has strep throat .”  “Strep (strep) throat” is when you have an infection in your throat that makes it very painful.  I had strep throat more than once when I was a child, I’m pretty sure.   In any case, I was a very sickly child.  You see, I…I was always sick it seem s.  No, not really, just my memory I think.  You remember the bad things more t han the good things sometimes, right?    
+
+ Anyway, Puneet says, “a couple of the really little  kids have croup” (croup). “Croup” is a more serious illness that makes it dif ficult for young children to breathe and makes them cough a lot.  Puneet says, “ I wish there were a way to immunize all of them from every illness and disease  out there.”  “To immunize” (immunize) means to protect someone from getting a disease by either giving them a shot of a drug or having them swallow someth ing that helps their body fight against those diseases if they are exposed to  them – if they come in contact with them.  Immunizations are very important for ch ildhood health.  Unfortunately, for a variety of reasons, there are still many pare nts who do not immunize their children.  That’s dangerous to their children; it’s  dangerous to other children, but we won’t talk about that here. 
+
+Rebecca says, “Are you sure you’re working in a day care center?”  Puneet says, “Yeah, why?”  Rebecca says, “Because it just sounds  like you’re working for the Center for Disease Control.”  The Center for Diseas e Control is a U.S. government organization or agency whose job it is t o investigate diseases and educate people how to prevent them.  It’s located i n Atlanta, Georgia, and most people know it simply by the initials, the CDC.  Re becca says, “Tomorrow, I suggest wearing a gas mask to work.”  A “gas mask” (mask) is something that you wear over your mouth and nose, sometimes your e yes, to allow you to breathe even though you have been exposed to danger ous chemicals in the air. In World War I, when both sides in the war in Europ e used gas to try to kill or hurt the other side, many of the soldiers would have gas  masks to protect themselves so they could breathe without getting sick from the  poisonous gas.  Of course, Rebecca is making something of a joke here, saying that the place – the daycare center where Puneet works is so dangerous maybe he should wear a gas mask to work tomorrow. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Rebecca:  You look exhausted!  Another tough day at  the daycare center? 
+
+Puneet:  Yeah, it was.  This is a record year for t he kids getting sick.  The chicken pox is going around.  Last year, it was the  measles.  The year before that, it was the mumps.  This year, it’s the chicke n pox. 
+
+Rebecca:  You sent the kids home, right?   
+
+Puneet:  Yeah, but today, a couple of the kids look ed like they have pink eye, and I had to call their parents to let them know.   
+
+Rebecca:  What happened to simple nosebleeds and ea raches?   
+
+Puneet:  Oh, we have kids with those, too, but it’s  the contagious diseases that really take its toll.  I’m not sure, but I think on e of the little kids has strep throat, and a couple of the really little kids have croup.  I wish there were a way to immunize all of them from every illness and disease  out there. 
+
+Rebecca:  Are you sure you’re working in a daycare center? 
+
+Puneet:  Yeah, why? 
+
+Rebecca:  Because it just sounds like you’re workin g at the Center for Disease Control.  Tomorrow, I suggest wearing a gas mask to  work. 
+
+[end of dialogue] 
+
+It’s been a record year for wonderful scripts here at ESL Podcast.  That’s thanks to the wonderful work by our own Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

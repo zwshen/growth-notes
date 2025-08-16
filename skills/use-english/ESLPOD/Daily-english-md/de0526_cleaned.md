@@ -1,0 +1,88 @@
+# Talking About Age
+
+Welcome to English as a Second Language Podcast number 5 26: Talking About Age. 
+
+This is English as a Second Language Podcast episode 526.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+You can visit our website at eslpod.com.  Go there to do wnload a Learning Guide for this episode.  Consider becoming a member of ESL P odcast or sending a donation to help support this free audio service. 
+
+This episode is called “Talking About Age.”  It’s dialogu e between Gabby and Cherif.  It’s going to be using a lot of vocabulary that  we use to describe how old someone is.  Let’s get started. 
+
+[start of dialogue] 
+
+Gabby:  Another birthday!  I’m going to stop celebrati ng.  What’s there to celebrate – getting old and decrepit?   
+
+Cherif:  Are you kidding me?  We’re in the prime of o ur lives.  Who’s decrepit? I’m not. 
+
+Gabby:  If I’m in my prime, then why do I feel so middl e age? 
+
+Cherif:  It’s a matter of perspective.  It’s true that we’re not spring chickens anymore, but who wants all of the angst of youth?  Not me.  I like living these mature years without the insecurity and uncertainty of you th. 
+
+Gabby:  It’s not that.  I don’t miss the awkwardness of my teenage years, and I definitely don’t miss the struggles I had to go through  in my 20s.  What I miss is the excitement of seeing and experiencing things for the  first time.  If I’m nostalgic, then I’m nostalgic for the innocence of youth. 
+
+Cherif:  Come on.  There’s nothing stopping you from seeing and trying new things now.  Don’t tell me that you’ve seen and done ev erything. 
+
+Gabby:  No, I haven’t.   
+
+ Cherif:  Then you’ll come with me next Saturday, and I guarantee you a new experience. 
+
+Gabby:  What new experience? 
+
+Cherif:  Have you ever tried skydiving? 
+
+Gabby:  No, I haven’t and I don’t plan to now.  I may be old, but I’m not ready to kick the bucket yet! 
+
+[end of dialogue] 
+
+Gabby begins by saying to Cherif, “Another birthday!  I’ m going to stop celebrating.  What’s there to celebrate – getting old and decrepit?”  Gabby is obviously not too happy because it’s her birthday.  She doe sn’t want to celebrate – she doesn’t want to have a party or be happy because t here’s nothing to be happy about.  She says, “What’s there to celebrate – get ting old and decrepit?” “Decrepit” (decrepit) means when someone is getting ver y old, or something is getting very old and it stops working or it is falling ap art, we would say that it’s decrepit.  This old bookcase I have that holds all of my b ooks, it’s old and decrepit, it’s starting to fall down.   
+
+Cherif says, “Are you kidding me?  We’re in the prime of  our lives.”  “To be in the prime (prime) of your life” means to be living in the best period of your life, when you’re happy and healthy and having fun.  To be in the prime of your life means to be in the best years of your life.  Gabby says, “If I’ m in my prime, then why do I feel so middle age?”  “Middle age” depends on the cou ntry and the period of history you’re in.  Nowadays, middle age is someone who’s not young but not old, maybe between 45 and 55 or 40 and 60.  It depen ds on how old you are, whether you think you’re middle age.  I think I’m defin itely middle age! 
+
+Cherif says, “It’s a matter of perspective.”  “Perspective,” here, means it’s a matter of the way you look at things, your point of view .  This is a common expression: “it’s a matter of perspective,” meaning it’s an  issue of perspective. Cherif says, “It’s true that we’re not spring chickens anymor e.”  A “spring chicken” is an informal term, sort of an old-fashioned term for  a young person.  Cherif is probably using it here to be sort of funny, because we d on’t hear that expression very often.  But a spring chicken would be a young chicken –  a young person. He says, “who wants all of the angst of youth?  Not me.”  “Angst” (angst) is when you’re worried, when you’re uncertain.  You don’t know what’s going to happen next, so you feel uncomfortable; that’s angst.  He says he doesn’t want the angst of youth, “I like living these mature years without the insecurity and uncertainty of  
+
+ youth.”  If we’re describing someone as “mature,” here i t means someone who is an adult, someone is grown up and no longer a child.  “Maturity” has a couple of different meanings – the word “mature.”  Take a look a t the Learning Guide for some more explanations. 
+
+Cherif says that living in these mature years, he doesn’t have insecurity and uncertainty.  “To be insecure” means to be not secure.  In English, sometimes we put the word “in” in front of a word to mean “not,”  sometimes we put the letters “un” – technically, the prefix “un” in front of a word to mean “not,” it depends on the word.  This word is “insecurity,” it means not feeli ng secure; in this case, not knowing how to act, not having confidence.  “Uncertaint y” means not certain, meaning you don’t know what’s going to happen next.  Yo u don’t know what you should do, how you should live your life; this would be u ncertainty.  So, being mature means not being insecure and not being uncertai n, or secure and certain. 
+
+Gabby says, “It’s not that,” meaning that’s not why she fee ls sad.  She says, “I don’t miss the awkwardness of my teenage years.”  “Awkwardne ss” is a feeling of being uncomfortable, of not knowing what to say, per haps not knowing what to do with your body.  People who are teenagers, someone between the ages of 13 and 19, often are sometimes awkward; they’re uncomfortab le, their body is growing, they may not feel comfortable in the way they talk or the way they look. This is not uncommon for teenagers.  Gabby says she doesn’t  miss the awkwardness of her teenage years – notice we use it as an a djective to mean the time I was a teenager.  She says, “I definitely don’ t miss the struggles I had to go through in my 20s.  What I miss is the excitement of see ing and experiencing things for the first time.”  She says, “If I’m nostalgic,  then I’m nostalgic for the innocence of youth.”  “To be nostalgic” (nostalgic) means  to remember things from your past and wishing, perhaps, that you could do th ose things again or experience those things again.  I’m sometimes nostalgic for  the years that I was in graduate school, when I was studying for my degree aft er I finished my bachelor’s degree.  It seemed to be, now, a wonderful time, although when I was there, at that time, hmm, not so much.  But now that I’m older, I think, “Oh, those were wonderful years.”  Actually, I think these are wonde rful years, too, so I’m not that nostalgic.  Well, Gabby says she’s nostalgic for th e innocence of youth. “Innocence” is a state where you may not know very much abo ut the real world – about the bad things that happen in the world.  We o ften think of young children as being in an “age of innocence.”  “Innocent” has many d ifferent meanings, and you know where to go to find out those meanings.  The L earning Guide, that’s right! 
+
+Cherif says, “Come on.  There’s nothing stopping you fro m seeing and trying new things now.  “Come on” is here used to mean don’t be si lly or that’s not the right  
+
+ view.  He says, “Don’t tell me that you’ve seen and done e verything.”  Cherif is saying there’s lots of new things in life to experience.  Gabby says, “No, I haven’t.”  Cherif then says, “Then you’ll come with me ne xt Saturday, and I guarantee you a new experience.”  Cherif is going to show Gabby something she has not experienced before.  Gabby says, “What new experi ence?”  Cherif says, “Have you ever tried skydiving?”  “Skydiving” is when you jump  out of an airplane with a “parachute,” which is a large piece of fabric – o f material that helps you slow down your fall.  To parachute out of a plane mean s to jump out of a plane as it’s high above the ground, and then you have your pa rachute that helps you come down to the ground slowly.  We also call that skydivin g. 
+
+Gabby says, “No, I haven’t and I don’t plan to now,” me aning I don’t plan to skydive now.  “I may be old,” she says, “but I’m not ready to  kick the bucket yet!” The expression “to kick the bucket” means to die, to pass away,  to no longer be living.  She’s making a joke here, saying that if she trie d skydiving she could kill herself, and she’s not ready to die – she’s not ready to ki ck the bucket.  It’s an informal expression. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Gabby:  Another birthday!  I’m going to stop celebrati ng.  What’s there to celebrate – getting old and decrepit?   
+
+Cherif:  Are you kidding me?  We’re in the prime of o ur lives.  Who’s decrepit? I’m not. 
+
+Gabby:  If I’m in my prime, then why do I feel so middl e age? 
+
+Cherif:  It’s a matter of perspective.  It’s true that we’re not spring chickens anymore, but who wants all of the angst of youth?  Not me.  I like living these mature years without the insecurity and uncertainty of you th. 
+
+Gabby:  It’s not that.  I don’t miss the awkwardness of my teenage years, and I definitely don’t miss the struggles I had to go through  in my 20s.  What I miss is the excitement of seeing and experiencing things for the  first time.  If I’m nostalgic, then I’m nostalgic for the innocence of youth. 
+
+Cherif:  Come on.  There’s nothing stopping you from seeing and trying new things now.  Don’t tell me that you’ve seen and done ev erything. 
+
+ Gabby:  No, I haven’t.   
+
+Cherif:  Then you’ll come with me next Saturday, and I guarantee you a new experience. 
+
+Gabby:  What new experience? 
+
+Cherif:  Have you ever tried skydiving? 
+
+Gabby:  No, I haven’t and I don’t plan to now.  I may be old, but I’m not ready to kick the bucket yet! 
+
+[end of dialogue] 
+
+The script today was written by somebody in the prime of h er life, Dr. Lucy Tse. Thank you, Lucy.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

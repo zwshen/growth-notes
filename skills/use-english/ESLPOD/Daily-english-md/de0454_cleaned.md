@@ -1,0 +1,104 @@
+# Hailing and Taking a Taxi
+
+Welcome to English as a Second Language Podcast number 4 54: Hailing and Taking a Taxi. 
+
+This is English as a Second Language Podcast number 454.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Go now to our website at eslpod.com and download a Lea rning Guide for this episode.  You can follow along with the transcript of  everything we say and also have a list of vocabulary words, cultural notes, comprehensi on questions, and some additional definitions not found on the audio po rtion of this episode. 
+
+This episode is called “Hailing and Taking a Taxi.”  To “ hail a taxi” means to stop a taxi, to get a taxi’s attention so that the car will st op.  This episode is going to be using some very typical vocabulary that you might use if you take a taxi in the U.S.  Let’s get started. 
+
+[start of dialogue] 
+
+My company sent me on my first business trip, and I was suppo sed to travel around the city in taxis.  Having never ridden in a taxi b efore, I had problems from start to finish. 
+
+First, I had trouble hailing a cab.  I didn’t realize  that when the taxi’s light is off that the cabbie is off duty.  No wonder they took no no tice of me.   
+
+Then, a cab did pull over and I told him where I want ed to go.  He said, though, that he wouldn’t take me because he wouldn’t be able t o get a return fare!   
+
+I was looking around for a taxi stand when another cab p ulled over, but my troubles didn’t stop there. 
+
+Cabbie:  Where to? 
+
+Ignacio:  I’d like to go the Hamilton Building downto wn.  There’s a flat rate, isn’t there? 
+
+Cabbie:  No, we don’t have flat rates. 
+
+Ignacio:  But a flat rate to downtown is required by l aw, isn’t it?  
+
+ Cabbie:  Do you want to go downtown or not?  I’ve alr eady started the meter. 
+
+Ignacio:  Where are your posted rates? 
+
+Cabbie:  We don’t have any.  The first mile is $3.50 a nd each quarter mile is $2.00. 
+
+Ignacio:  That doesn’t sound right to me.  I think I’ll  try another cab. 
+
+Cabbie:  Suit yourself! 
+
+I remembered what my co-worker told me.  She said to ste er clear of private cabs, like this one.  The cabbies don’t have licenses and so me of them will really take you for a ride – and not the kind you want! 
+
+[end of dialogue] 
+
+This episode is about Ignacio who is on a business trip.  H e says, “My company sent me on my first business trip, and I was supposed to t ravel around the city in taxis.”  He was “supposed to,” it was recommended or orde red that he do that. He has to travel around in “taxis,” which is the plural f or taxi or taxicab or cab; all of those words mean the same thing.  It’s a car that you basically pay the driver to take you to where you want to go.  He says, “Having ne ver ridden in a taxi before (meaning having never taken a taxi – been inside a taxi), I had problems from start to finish.”  The expression “from start to fin ish” is a common one to mean the entire time, for the entire time that I wa s doing something.  For example: “The professor walked into class and spent an enti re hour yelling at his class from start to finish” – the entire time. 
+
+He says, “First, I had trouble hailing a cab.”  As we said  before, “to hail” (hail) a cab or a taxi or a taxicab means to get their attention,  often by waving your hand so that they will stop for you.  This is very common in some cities such as New York City, where you, if you are in what they call in N ew York City “the City,” Manhattan – the main island where the businesses are most ly in New York City, you can stand at the corner or stand in the street and wa ve your hand to get a taxicab to stop for you.  Here in Los Angeles that is not  common, taxis are not as common here in L.A.  In fact, in most places you cannot hail a cab, you have to go to what’s called a “cab stand,” which we’ll talk abo ut in a minute. 
+
+Back to our story: He says that he had trouble hailing a cab.  He didn’t realize that when the taxi’s light is off that the cabbie is of f duty.  The taxi cars have  
+
+ lights usually on the top of the car, if the light is on  that means that the taxi is available, they can stop and pick you up.  If the light is off, that means that they are already occupied and they will not stop.  Well, Igna cio, since he doesn’t have much experience with taxis (and apparently has never seen a  movie with a taxi!) didn’t realize that the taxi’s light is off, and he was trying to hail the cabs.  He says, “the cabbie (when the light is off) is off duty.”  The “cabbie” is same as the taxicab driver; cabbie is the person who drives the cab or t he taxi.  To be “off duty” means to be not working or no longer on the job.   If the taxi’s cab light is off, he could have someone already in his car or he could be o ff duty.  Ignacio then says, “No wonder they took no notice of me.”  To “take no tice of someone” means to realize that they are there, to acknowledge th em, to show or indicate that you see them.  But, because the taxicabs were eithe r busy or off duty, they took no notice of Ignacio – they didn’t stop.   
+
+“Then,” he says, “a cab did pull over and I told him wh ere I wanted to go.”  To “pull over” is a two-word phrasal verb meaning to have a car or a truck stop at the side of the road; to stop the car and usually park it on the side of the road, at least temporarily.  So, one of the cabs did pull over –  did stop.  “He said, though (he said, however), that he wouldn’t take me because he wouldn’t be able to get a return fare!”  A “fare” (fare) when we’re talking about taxis is a person who is paying for the taxi.  So, the taxicab driver has a fare, meaning they have a customer.  In this case, “return fare” means that the ta xicab driver will go to a certain place then they’ll turn around and come back, if  they have someone with them that they pick up on the way back that would be a re turn fare.  Some taxis don’t want to go to certain places because there aren’t very many people there and they won’t have anyone paying them to drive back to th e main part of the city. 
+
+“I was looking around for a taxi stand,” Ignacio says, “whe n another cab pulled over.”  A “taxi stand” is a place, often by a hotel or a busy public area, where there are taxis that are parked one behind another, us ually several taxis, and you can go there and get a taxi.  Here in Los Angeles, for example, when you come out of the airport there are several taxi stands where t here are several taxis waiting for people who want a ride – who need a rid e.  That’s a taxi stand.  Here Los Angeles, you can get a taxi by going to a taxi stand o r by calling a taxi company to come to your house or business.  It is not norma lly possible to hail a taxi in Los Angeles. 
+
+Well, Ignacio was still having some problems.  The cabbie asks him, “Where to?” meaning where do you want to go.  Ignacio says, “I’d like  to go the Hamilton Building downtown.  There’s a flat rate, isn’t there? ”  A “flat rate” is a single fixed price; “rate” is the same as price, here.  So, a “fixed r ate” is one price that you  
+
+ pay – that everyone pays, usually from a certain area of t own to another area of town.  Again, using Los Angeles as an example, if you arr ive at the airport and you want to go to a hotel in the downtown area there ’s a flat rate.  No matter which hotel you go to (some may be closer than others) you will be charged the same fare.  Notice that “fare” here means that same amo unt of money; it can mean both the person who’s paying the money and the mon ey you receive. 
+
+Well, the cabbie says, “No, we don’t have flat rates.”  Ignacio says, “But a flat rate to downtown is required by law, isn’t it?”  He’s sa ying that the taxicab driver must him to pay only the flat rate.  The cabbie, however , says, “Do you want to go downtown or not?” meaning I’m not going to charge  you the flat rate, and if you don’t want to pay more, I’m going to leave.  The ca bbie says, “I’ve already started the meter.”  The “meter” in a taxi is a little  machine that tells you how far or how long you’ve traveled, and in most cities the amou nt that you pay depends on how far you go.  The meter tells you how far you’ve gone or how long you’ve been in the car. 
+
+Ignacio then asks the cabbie, “Where are your posted rates? ”  Every city has laws that determine how much a taxicab driver can charge per mile or per half mile or quarter mile, and these are supposed to be rat es that you can find inside the taxicab – in the car.  The cabbie says, however, “We d on’t have any.  The first mile is $3.50 and each quarter mile is $2.00.”  I gnacio says, “That doesn’t sound right to me,” meaning that is wrong, that’s too much.  “I think I’ll try another cab,” he very wisely – very intelligently says.  First intell igent thing Ignacio has done!  The cabbie says, “Suit yourself!” meaning do what ever you want.  The expression “suit yourself” means you do whatever you want, I ’m not going to bother you or be bothered by you.  Usually we use this exp ression when you don’t agree with what the person is doing, and you are  telling them to go ahead and do it but you think they’re wrong, basically. 
+
+Ignacio says that his “co-worker,” someone he works with, h ad warned him to steer clear of private cabs.  To “steer (steer) clear of” so mething or someone means to avoid, to not go near, to not get involved wit h.  He should steer clear of private cabs, cabs that do not have “licenses,” official p ermission from the city to operate as a taxicab driver.  “They really will take you f or a ride,” he says.  “They will really take you for a ride” means they will really st eal your money.  To take someone for a ride usually means, in this case, to steal  their money or to charge more money than they should – to cheat them.  It can also  mean simply to get into a car and drive somewhere, but that’s the double m eaning that Ignacio was using here.  He says, “They will really take you for a rid e – and not the kind you want!” meaning not an actual ride, but using the mean ing of the expression to take your money.  
+
+ Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+My company sent me on my first business trip, and I was suppo sed to travel around the city in taxis.  Having never ridden in a taxi b efore, I had problems from start to finish. 
+
+First, I had trouble hailing a cab.  I didn’t realize  that when the taxi’s light is off that the cabbie is off duty.  No wonder they took no no tice of me.   
+
+Then, a cab did pull over and I told him where I want ed to go.  He said, though, that he wouldn’t take me because he wouldn’t be able t o get a return fare!   
+
+I was looking around for a taxi stand when another cab p ulled over, but my troubles didn’t stop there. 
+
+Cabbie:  Where to? 
+
+Ignacio:  I’d like to go the Hamilton Building downto wn.  There’s a flat rate, isn’t there? 
+
+Cabbie:  No, we don’t have flat rates. 
+
+Ignacio:  But a flat rate to downtown is required by l aw, isn’t it? 
+
+Cabbie:  Do you want to go downtown or not?  I’ve alr eady started the meter. 
+
+Ignacio:  Where are your posted rates? 
+
+Cabbie:  We don’t have any.  The first mile is $3.50 a nd each quarter mile is $2.00. 
+
+Ignacio:  That doesn’t sound right to me.  I think I’ll  try another cab. 
+
+Cabbie:  Suit yourself! 
+
+I remembered what my co-worker told me.  She said to ste er clear of private cabs, like this one.  The cabbies don’t have licenses and so me of them will really take you for a ride – and not the kind you want! 
+
+ [end of dialogue] 
+
+The script for this episode was written by someone who wil l never take you for a ride, Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  Copyright 2009, by the Cen ter for Educational Development.
+

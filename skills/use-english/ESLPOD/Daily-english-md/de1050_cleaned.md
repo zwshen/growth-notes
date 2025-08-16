@@ -1,0 +1,75 @@
+# Describing Stomach Problems
+
+Welcome to English as a Second Language Podcast num ber 1,050 – Describing Stomach Problems.  
+
+This is English as a Second Language Podcast episod e 1,050. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Take a look at our  ESL Podcast special courses in Business and Daily English. You can also  take a look at our ESL Podcast Blog on our website, and why not like us on  Facebook at facebook.com/eslpod.  
+
+This story is about describing problems with your s tomach. Let’s get started.  > There’s nothing I enjoy more than spending a couple  of hours relaxing at a café. I sit drinking my tea and reading. What could be bett er? 
+> Woman: So I think I may have to see a doctor soon. You know I’ve had these terrible pains in my stomach. My digestion is terri ble, and now I think I might have an ulcer! 
+> Well, I was having a relaxing time until I started overhearing the woman at the next table talking loudly on her cell phone. 
+> Woman: No, I don’t think it could be lactose intole rance. My bowels are working fine. I don’t have the runs or feel constipated. I just get a really upset stomach and these terrible pains. 
+> This was definitely not a conversation I waned to l isten to. I looked around for another table, somewhere I could escape to. 
+> Woman: Yes, I do feel some heartburn and bloating. Do you really think it could be acid reflux? I do have a problem with too much g as and burping a lot. Will an antacid help, do you think? 
+> By this time, I was in panic mode. If I didn’t get away from this woman soon, I’d surely be sick to my stomach! 
+> I begin our story by saying, “There is nothing I en joy more than spending a couple of hours relaxing at a café.” I enjoy going to a café and relaxing, not doing any work. “I sit drinking my tea and reading,” I sa y. “What could be better?” Then I hear a woman who’s talking next to me. She says, “So I think I may have to see a doctor soon.” The woman is not talking to me. I’m  sitting in a café and I can hear the woman talking to someone else. She says sh e may have to go see the doctor soon. Why? Well, she then tells us. “You know I’ve had these terrible pains in my stoma ch.” Your “stomach” (stomach) is the part of your body that processes t he food and drink so that you have energy for your body. The woman is having pain s in her stomach. Her stomach hurts. She continues, “My digestion is terr ible, and now I think I might have an ulcer.” “Digestion” (digestion) is the biol ogical process of converting food into energy for your body. The stomach is part of y our “digestive system” – part of the system in your body that converts food into energy.  
+
+The woman says her digestion is “terrible.” And, sh e says she thinks she might have an ulcer. An “ulcer” (ulcer) is basically a so re on the inside surface of your stomach that produces pain. Ulcers can be very pain ful. Many ulcers are caused not by food, but by a type of bacteria. We discover ed in the last 20 years or so that there is a kind of bacteria that causes a lot of ulcers, but we won’t go into that.  
+
+This woman thinks she might have an ulcer. I then r eturn in the story and comment. I say, “Well, I was having a relaxing time  until I started overhearing the woman at the next table talking loudly on her cell phone.” “To overhear” (overhear) does not mean to hear too much, but rath er it means to hear something without trying to hear it, simply because  you are close to whatever is making that sound. Usually, we use this verb “to ov erhear” when we’re talking about hearing the conversation of another person.  
+
+I’m sitting at the café and there is a woman next t o me who is talking loudly on her cell phone. This is one of the things that I be lieve should be illegal, and I will vote for any politician that makes it illegal for y ou to talk loudly on your cell phone inside a café. There, I’ve said it. Now, I’m overhe aring the woman at the next table, and she continues with her conversation abou t her stomach problems. She says, “No, I don’t think it could be lactose intole rance.”  
+
+I’m only hearing one side of the conversation – one  person in the conversation. So, we hear the woman responding probably to a ques tion from the person with whom she’s speaking. The woman says she doesn’t thi nk it could be lactose  
+
+intolerance. “Lactose” (lactose) refers to a kind o f sugar that is found in milk and milk products. If you have an “intolerance” (intole rance) to some kind of food, your body reacts negatively when you eat that food,  or drink that drink.  
+
+The prefix “in-” usually means “not,” and that’s wh at it means here – not tolerant. If your body is tolerant of something, it . . . it doesn’t mind it. It doesn’t react negatively. Many people have what is called “lactos e intolerance,” which means they cannot drink milk or other milk products witho ut getting sick. Other people have what is called “carbohydrate intolerance,” whe re your body reacts negatively when they eat too many carbohydrates – t hings like bread and pasta and cake and cookies, all the good stuff.  
+
+This woman continues telling us about her problems.  She says, “My bowels are working fine.” Your “bowels” (bowels) are your inte stines. Your intestines are these long tubes inside your body that help to dige st food and to get rid of the food that you no longer need, or that your body doe sn’t need for energy. The woman says, “I don’t have the runs or feel constipa ted.”  
+
+Well, here, now we’re getting into some somewhat un pleasant descriptions. The term “the runs” (runs) is used informally in Englis h to refer to what is more properly known as “diarrhea” (diarrhea). “Diarrhea”  is basically waste that comes out of your body – out of your butt, to put it more  explicitly – that isn’t solid. It can be quite painful. “To be constipated” (constipated)  means that you have difficulty getting rid of waste from your body. The woman says  she is not constipated.  
+
+She says, “I just get a really upset stomach and th ese terrible pains.” An “upset (upset) stomach” is a feeling of sickness in your s tomach, as though you might vomit or throw up. We might also use the word “naus ea” (nausea) to describe this condition more technically, more medically. “U pset” normally means angry. When we talk about a person being upset, we mean th e person is mad, but an “upset stomach” means that your stomach isn’t feeli ng right – that you feel “sick to your stomach,” we might also say. Another word w e might use in this case is “queasy” (queasy).  
+
+I then say in the story, “This was definitely not a  conversation I wanted to listen to.” I say, “I looked around for another table,” me aning I looked in the café to find another table. “Somewhere I could escape to,” I say . “To escape” (escape) to somewhere means to go to somewhere that is safer th an where you are now, or perhaps more comfortable than where you are now. Th e verb “to escape” means also to leave some sort of imprisonment or confinem ent. You could talk about a prisoner in jail “escaping” – getting out of the ja il (illegally, of course) and running away.   
+
+ I’m not in jail in this story. I’m in a café, but s till I need to escape to somewhere more comfortable. But again, we hear the woman spea king. She says, “Yes, I do feel some heartburn and bloating.” “Heartburn” (hea rtburn) is a painful or uncomfortable burning feeling, usually inside of yo ur chest or just below your chest. It sometimes caused by eating, for example, spicy food, food that is hot. (Hot in the sense of being spicy, not hot in the se nse of having a high temperature.) Many different things could cause hea rtburn, I suppose.  
+
+The other thing the woman says she feels is some “b loating” (bloating). “Bloating” is when your body – your stomach or your intestines  – has extra liquid or perhaps gas, and it increases the size of your body, or par ts of your body. The woman says, “Do you really think it could be acid reflux? ” “Acid (acid) reflux (reflux)” is a medical condition in which the acid in your stomach , a liquid in your stomach, moves up into the esophagus, which is the tube that  carries the food from the mouth to the stomach. Once again, it can be quite p ainful.  
+
+The woman says, “I do have a problem with too much gas and burping a lot.” “Gas” (gas) here refers to someone who has air come  out of their butt, and it’s often not very pleasant smelling. The more technica l word would be “flatulence” (flatulence). A somewhat cruder, informal word is “ fart” (fart). I’ll have to thank Dr. Tse for writing this script for me to explain later  on. But, back to the script.  
+
+The woman says she has a problem with “too much gas  and burping a lot.” “To burp” (burp) means for air to come out of your mout h, usually in a way that is “involuntary” – that you don’t mean to happen – alt hough I guess you can make yourself burp, to a certain extent. A “burp“ is gas  coming out of your mouth rather than out of your butt, to put it that way.  
+
+The woman then asks, “Will an antacid help, do you think?” An “antacid” (antacid) is a kind of medicine or drug you take to  reduce the amount of acid in your stomach. Remember, the acid in your stomach he lps break down or divide up the food that you are eating in order to convert  it into energy. If you have too much of this acid, it can be painful. That’s why yo u would take an antacid, something to stop or reduce the amount of acid.  
+
+I conclude the story by saying, “By this time, I wa s in panic mode.” “To panic” (panic) means to become alarmed, to become perhaps even a little frightened or scared. “Panic mode” (mode) would refer to a situat ion where I feel a lot of anxiety or fear that I need to run away from. I say , “By this time, I was in panic mode. If I didn’t get away from this woman soon” – if I didn’t move away from this  
+
+woman – “I’d surely be sick to my stomach.” “To be sick to your stomach” is, as we explained earlier, the same as to have an upset stomach or to be queasy.  
+
+Now let’s listen to this very fun dialogue one more  time, at a normal speed.  
+
+[start of story] 
+
+There’s nothing I enjoy more than spending a couple  of hours relaxing at a café. I sit drinking my tea and reading. What could be bett er? 
+
+Woman: So I think I may have to see a doctor soon. You know I’ve had these terrible pains in my stomach. My digestion is terri ble, and now I think I might have an ulcer! 
+
+Well, I was having a relaxing time until I started overhearing the woman at the next table talking loudly on her cell phone. 
+
+Woman: No, I don’t think it could be lactose intole rance. My bowels are working fine. I don’t have the runs or feel constipated. I just get a really upset stomach and these terrible pains. 
+
+This was definitely not a conversation I waned to l isten to. I looked around for another table, somewhere I could escape to. 
+
+Woman: Yes, I do feel some heartburn and bloating. Do you really think it could be acid reflux? I do have a problem with too much g as and burping a lot. Will an antacid help, do you think? 
+
+By this time, I was in panic mode. If I didn’t get away from this woman soon, I’d surely be sick to my stomach! 
+
+[end of story] 
+
+Dr. Lucy Tse writes all of our scripts, and most of  them are wonderful.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to listen to us again right here on  ESL Podcast. 
+

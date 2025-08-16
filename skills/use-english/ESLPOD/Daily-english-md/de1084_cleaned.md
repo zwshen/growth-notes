@@ -1,0 +1,118 @@
+# Learning a New Operating System
+
+Welcome to English as a Second Language Podcast num ber 1,084 – Learning a New Operating System.  
+
+This is English as a Second Language Podcast episod e 1,084. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Become a member of  ESL Podcast. When you do, you can download the Learning Guide for our cur rent episodes.  
+
+This episode is a dialogue between Vanessa and Reza  about learning a new kind of computer software. Let’s get started. 
+
+[start of dialogue] 
+
+Vanessa: [gasps] What happened to my computer overn ight? This can’t be my computer. 
+
+Reza: It is. The tech guys installed a new operatin g system on all of the computers after hours. 
+
+Vanessa: But my desktop looks completely different.  Where is the menu bar? I don’t know how to open any of my applications. 
+
+Reza: You’ll have to get used to a completely diffe rent user interface. It’s been completely revamped.  
+
+Vanessa: But I had the old operating system customi zed with special settings.  
+
+Reza: Well, those settings are gone. You’ll have to  start over. 
+
+Vanessa: I don’t even know where to begin. 
+
+Reza: With this new operating system, you’re suppos ed to navigate around using those icons. They’re supposed to make multitasking easier by allowing you to minimize and maximize applications more quickly. 
+
+Vanessa: How can that be when I don’t know what any  of the icons represent?  
+
+Reza: Search me. Here’s one of the tech guys now. Y ou can ask him all your questions. 
+
+Vanessa: I only have one. 
+
+Reza: Only one? 
+
+Vanessa: Yes. Can he restore my old operating syste m? 
+
+[end of dialogue] 
+
+Our dialogue begins with Vanessa surprised at somet hing. She says, “What happened to my computer overnight?” “This can’t be my computer,” she says. Reza says, “It is. The tech guys installed a new op erating system on all of the computers after hours.” So, Vanessa and Reza work f or a company. The company has people, as many companies do, who take care of the technical aspects – including the maintenance and service – o f the computers.  
+
+Sometimes these people are called the “IT personnel ” – the IT workers, “IT” standing for “information technology” – but more in formally, people may refer to them simply as the “tech crew” or the “tech guys.” Notice the use of the word “guys” (guys) here. “Guys” can mean both men and wo men when you’re not really sure, although many times it’s used just to describe men. But anyway, Reza is saying that the tech guys installed, or put  in, a new operating system.  
+
+An “operating system” is the software that runs the  whole computer. The two big operating systems are the one by Apple Computer and  the one by the makers of Windows. There are of course other operating system s as well, such as Linux and a few others. Reza says that the tech guys inst alled this new operating system “after hours.” The term “after hours” refers  to the hours that come after the end of the work day. So, if the business normal ly closes at five, “after hours” would be anything after five o’clock.  
+
+Vanessa says, “But my desktop looks completely diff erent.” Your “desktop” (desktop) on your computer is the main screen that you see typically when you turn your computer on. Vanessa says, “Where’s the m enu bar?” The “menu (menu) bar (bar)” is a list of the programs that yo u have on your computer that is often found either on the bottom, the side, or the top of the computer screen. The menu bar can also refer to the specific options you  have within a given computer program.  
+
+Vanessa says, “I don’t know how to open any of my a pplications.” Your “applications” are your programs. “Applications” is  just another word for a piece of computer software. Nowadays, it’s become popular  to refer to these simply as “apps” (apps), although some people use “apps” to r efer to computer software on a phone or a tablet versus on a full-sized computer , I guess we could call it.  
+
+Reza says, “You’ll have to get used to a completely  different user interface.” The “user (user) interface (interface)” is the thing th at a person sees when he’s looking at the computer screen. Every computer prog ram has an interface. The word “interface” usually refers to something that c onnects one thing to another or the point at which two different kinds of systems c ome together.  
+
+Now of course, computer programs are written in a s pecial language that the average person doesn’t understand, and so rather th an working in that computer language, the computer operating system has ways of  making the running of the programs – the way you operate the programs – much easier for the person who is using the program. We would call that person the  “user.” So, the “user interface” is what the person using the program see s and manipulates when using a particular computer program.  
+
+Reza says that the operating system has been “compl etely revamped.” The verb “to revamp” (revamp) means to redo and revise somet hing, usually to improve it. A company might revamp its website – it might chang e its website and improve it. Usually when you revamp something, you’re making ma jor or large changes to something.  
+
+Vanessa is not happy with this new operating system . She says, “I had the old operating system customized with special settings.”  “To customize” (customize) means to design or create something so that it is p articularly useful for one person or for one sort of thing. “To customize your  computer” would be to change your computer in such a way that it works exactly t he way you want it to work. Another person might make it work a different way a nd might customize it to his or her particular preferences.  
+
+The “settings” (settings) of a computer program are  the features that are adjusted or can be changed by the individual user. So, for e xample, if you have a tablet, such as the Kindle or an iPad, you might – when you  get old like me – want to adjust the size of the letters so that the letters are bigger and are easier to read. This is one of the settings that you can change on a tablet. Settings are used in many different kinds of computer programs so that y ou can change things so that the computer program works in the way you want it t o work.  
+
+Reza says, “Well, those settings are gone. You’ll h ave to start over.” The phrasal verb “to start over” means to begin again – to do s omething from the beginning, if you will. If someone is telling you a story, and yo u don’t really understand the story and you want the person to begin at the begin ning once more, you could say to the person, “Could you start over?” Could yo u tell me the story from the beginning? Reza is telling Vanessa that she’ll have  to start over when it comes to customizing the settings of her favorite computer a pplications.  
+
+Vanessa says, “I don’t even know where to begin.” R eza says, “With this new operating system, you’re supposed to navigate aroun d using these icons.” “To navigate” (navigate) means to find a path or a way from where you are now to where you want to go. If you’re in your car, you na vigate in order to arrive at the place where you are driving to. When we’re talking about computer applications, “to navigate” refers to the process of actually usi ng the program to get done the things you want to get done.  
+
+Reza says that you’re supposed to navigate in this new operating system using these “icons.” An “icon” (icon) in a computer opera ting system is a small symbol that represents some action or, in many cases, the program that you want to use. In order to open a program, you often click on or d ouble-click on an icon in order to open the program. On your phone or tablet, you m ay use your finger and “tap” (tap) on the icon in order to open the program.  
+
+Reza continues, “They’re,” meaning the icons, “supp osed to make multitasking easier by allowing you to minimize and maximize app lications more quickly.” “To multitask” (multitask) means to do more than one th ing at a time. Many psychologists now say that true multitasking is alm ost impossible. You have to be paying attention to either one thing or the other.  
+
+Some people say that it is, in fact, very inefficie nt to multitask, but people do it anyway, especially those stupid people who drive an d try to text at the same time, or  talk on the phone while driving, which is  another thing that really bothers me because it has been found to be very dangerous. But people are stupid, and what can you do about that, right? Anyway, what was  I saying? Ah, yes, our dialogue. 
+
+Reza is talking about making things easier to “mini mize” (minimize) and “maximize” (maximize). “Minimize” and “maximize” ar e verb forms of the nouns “minimum” and “maximum.” “To minimize” means to mak e something smaller, as small as possible. On your computer, to minimize th e program would be to make it small so that you can’t see it anymore on your s creen. “To maximize” would  
+
+mean to make the program bigger in the sense that y ou see it on your screen in a larger size.  
+
+Vanessa says, “How can that be when I don’t know wh at any of these icons represent?” When she says, “How can that be?” she’s  saying how is it possible that the icons are supposed to make it easy for me when I don’t even know what the icons represent (what the icons are supposed to  mean)?  
+
+Reza doesn’t really know either. He uses a common e xpression that we would have in informal conversation, which is “Search me. ” “Search me” is a phrase we use when you don’t have an answer for the question either. When someone says, “I don’t know how to do this. Do you?” And th e person says, “Search me,” the person means that he doesn’t understand or he d oesn’t have the answer either. 
+
+Reza says, “Here’s one of the tech guys now” (one o f the IT guys is obviously entering the room) “You can ask him all your questi ons.” Vanessa says, “I only have one.” Reza says, “Only one?” meaning “You only  have one question?” Vanessa says, “Yes. Can he restore my old operating  system?” “To restore” (restore) means to return something to how it was b efore. “To restore a computer application” would be to bring it back to the way i t was before you changed it, or perhaps even before you accidentally erased it.  
+
+Vanessa wants her old operating system back, and we  – which is all of us who deal with computers – know that sometimes new opera ting systems can be somewhat confusing because things are done differen tly.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Vanessa: [gasps] What happened to my computer overn ight? This can’t be my computer. 
+
+Reza: It is. The tech guys installed a new operatin g system on all of the computers after hours. 
+
+Vanessa: But my desktop looks completely different.  Where is the menu bar? I don’t know how to open any of my applications. 
+
+Reza: You’ll have to get used to a completely diffe rent user interface. It’s been completely revamped.   
+
+ Vanessa: But I had the old operating system customi zed with special settings.  
+
+Reza: Well, those settings are gone. You’ll have to  start over. 
+
+Vanessa: I don’t even know where to begin. 
+
+Reza: With this new operating system, you’re suppos ed to navigate around using those icons. They’re supposed to make multitasking easier by allowing you to minimize and maximize applications more quickly. 
+
+Vanessa: How can that be when I don’t know what any  of the icons represent?  
+
+Reza: Search me. Here’s one of the tech guys now. Y ou can ask him all your questions. 
+
+Vanessa: I only have one. 
+
+Reza: Only one? 
+
+Vanessa: Yes. Can he restore my old operating syste m? 
+
+[end of dialogue] 
+
+Our scriptwriter helps you navigate through the dif ficult obstacles that you might find in improving your English. I speak, of course,  of the wonderful Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

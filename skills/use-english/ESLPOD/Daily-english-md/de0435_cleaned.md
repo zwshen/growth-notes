@@ -1,0 +1,82 @@
+# Describing Aches and Pains
+
+Welcome to English as a Second Language Podcast number 4 35: Describing Aches and Pains. 
+
+This is English as a Second Language Podcast episode 435.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in the beautiful City of Los Angeles, California. 
+
+Visit our website at eslpod.com.  You can download a L earning Guide for this episode that will help you improve your English even fast er. 
+
+This episode is called “Describing Aches and Pains.”  It’s a dialogue between Nivia and Michael that uses a lot of vocabulary we use whe n talking about the body and when we have pain in our body.  Sounds like fun !  Let’s get started. 
+
+[start of dialogue] 
+
+Nivia:  Why are you walking funny? 
+
+Michael:  Oh, I pulled a muscle in my right leg while p laying with my kids last weekend.  It’s hard to walk without feeling a twinge o f pain. 
+
+Nivia:  I’m sorry to hear that.  Why are you sitting in t hat awkward position? 
+
+Michael:  I strained my back while exercising.  Initially, I  felt a sharp pain and I thought it was something serious, but it doesn’t hurt m uch now.  There’s just a dull pain when I sit up straight.  That’s why I’m sittin g like this, leaning to the side. 
+
+Nivia:  That’s too bad.  Why are you holding your arms t hat way? 
+
+Michael:  I got up in the middle of the night last n ight to go to the bathroom and bumped into the door.  I got a huge bruise on my arm.   It feels better if I hold it over my head. 
+
+Nivia:  Why are you shaking your fingers that way? 
+
+Michael:  I helped my daughter finish her science project for school.  I – I mean we – glued over 100 wooden sticks together.  My fingers a re really sore and stiff, and they won’t stop throbbing.  
+
+ Nivia:  I’m afraid to ask you any more questions.  I don’ t think any man could survive any more injuries than what you already have! 
+
+[end of dialogue] 
+
+Our dialogue begins with Nivia saying to Michael, “Why ar e you walking funny?” Here, “funny” just means unusual, oddly, we might even say “weirdly.”  “Why are you walking funny?” – why are you not walking normally?  M ichael said, “Oh, I pulled a muscle in my right leg while playing with my kid s last weekend.”  To “pull a muscle” means to hurt a part of your body – in your arm s, in your legs, in your back, in your neck, wherever you have a muscle.  The “muscle” is what connects bones together, and allows you to move your bones.  So, “ pulling a muscle” means injuring or harming your muscle.  Michael says, “It’s hard to walk without feeling a twinge of pain.”  Well, “pain,” you probab ly know, is when something feels uncomfortable; it hurts.  A “twinge” is a sudden feeling, but it doesn’t last very long.  So, Michael is saying he feels twinges of pain  when he walks; it’s not constant, it’s not all the time but it happens quickly and  then it goes away. 
+
+Nivia says, “I’m sorry to hear that.  Why are you sitting in  that awkward position?” “Awkward” means not relaxed, uncomfortable.  Michael says, “I strained my back while exercising.”  To “strain” (strain) means to hurt p art of your body because you were working too hard or because you tried to do som ething that was too difficult.  I never strain my back because I never work too hard!  But Michael strained his back while exercising.  “Initially,” he says, “I  felt a sharp pain.” “Sharp,” here, means very strong; it may not last for a l ong time, but it’s a very strong pain.  We might say it’s a very “acute” (acute) pain .  He says he “felt a sharp pain, and thought it was something serious, but it  doesn’t hurt much now.” Now, he says, “There’s just a dull (dull) pain” when he tries to sit up straight – when he tries to sit normally.  “Dull” is the opposite o f sharp; it describes a pain that is not strong, but it lasts a long time.  “Dull” has a couple of different meanings in English; take a look at the wonderful Learn ing Guide that Dr. Lucy Tse prepares for some additional explanations. 
+
+Michael says that’s the reason, or  “That’s why I’m sitting like this, leaning to the side.”  To “lean” (lean) means to put your body in one  direction, not straight. You’re usually resting against another object, such as the wall.  So, if you lean against the wall, you’re standing up but your shoulders are touching the wall; the wall is supporting you.  In English, people refer to th e famous tower in the City of  
+
+ Pisa, in Italy, as the Leaning Tower of Pisa, because the  building is not vertical completely.  It goes off to one side; it leans to one sid e. 
+
+Nivia says, “That’s too bad (that’s unfortunate).  Why are  you holding your arms that way?”  Michael says, “I got up in the middle of th e night last night to go to the bathroom and bumped into the door.”  To “bump into”  something means to accidentally hit something with your body.  Normally, you d on’t bump into a thing on purpose; you’re not trying to do it.  The expression “ to bump into” can also means something very different if you are talking about a person.  You may say, “I bumped into an old friend of mine at the coffee sh op yesterday.”  There, it means I met or saw someone that I wasn’t expecting to s ee; I wasn’t planning on it, it just was a coincidence.   
+
+Well, poor Michael bumped into the door and he got a  huge bruise on his arm.  A “bruise” (bruise) is an often painful spot on your skin.  Usually it has a different color; it’s either dark purple, or brown, maybe even a l ittle green.  It’s caused by bleeding underneath your skin – there’s blood underneat h the skin.  It often happens when you are hit very hard by someone or by someth ing.  If you are in a fight – a physical fight with someone and that person hi ts you, for example, with their fist – with their hands, you may have a bruise th e next day, you may have this spot on your skin. 
+
+So, Michael has a bruise on his arm.  Nivia says, “Why are you shaking your fingers that way?”  Michael says, “I helped my daughter finish her science project for school.”  Young children are often given “homework,”  things to do at home for their school.  A “science project” is usually something that  you make at home that shows some sort of scientific principle or applies some sort o f scientific principle (idea).  Parents often help their children with their  schoolwork, including their science projects.  Michael says, “I – I mean we...” – of cou rse, the child should be doing the project but parents sometimes do more than t he child does.  He says, “I – I mean we – glued over 100 wooden sticks together. ”  To “glue” something means to connect two things or to make two things stick tog ether using a white liquid (or a clear liquid) that will dry between the two pieces and keep them together.  You often use glue, for example, in school.  Children will use glue to put pieces of paper together, or other things.  This is a science project where they had to glue some small wooden sticks.  For some reason , these are popular in schools.  They’re sometimes called “popsicle sticks” because i t’s the same small wooden stick that you get with a certain kind of fr ozen desert called a “Popsicle.” 
+
+ Well, Michael was gluing together all these sticks, and hi s fingers got very sore and stiff.  “Sore” (sore) means in pain, usually because yo u’ve worked your part of the body too hard – the part that is sore.  It’s wha t may happen, for example, after you strain – after you work your arms or your legs to o hard.  Let’s say you’re running and you’re not used to running, the next day you r muscles may be sore – they may hurt.  “Sore” has a couple of different meani ngs in English; take a look at the Learning Guide for some additional explanation s.  “Stiff” means unable to move easily, inflexible – not flexible.  So, your arm ma y be stiff, that means it’s hard to move it up and down or left and right because you injured it – because you hurt it.  He says his fingers “won’t stop throbbing.”   To “throb” means to have pain that starts and stops repeatedly, almost like in a r hythm.  So if you hit your thumb, for example, it may hurt – it may throb.  It ma y have this strange sort of pulse, sort of rhythm that causes you pain. 
+
+Nivia says, “I’m afraid to ask you any more questions.  I don ’t think any man could survive any more injuries than what you already have!”   To “survive” means to continue to exist even though it’s a difficult situati on.  An “injury” is a problem with some part of your body, usually caused by an accident, or, perhaps, someone was fighting you.  If you run too fast and you hu rt your legs, that would be an injury.  Or, in the case of Michael, if he was str aining his fingers and now they’re sore, that could be called an injury. 
+
+One more thing before we conclude: the name of this ep isode was “Describing Aches and Pains.”  An “ache” is a kind of pain; usually it’ s a dull pain.  It’s not necessarily serious, however. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Nivia:  Why are you walking funny? 
+
+Michael:  Oh, I pulled a muscle in my right leg while p laying with my kids last weekend.  It’s hard to walk without feeling a twinge o f pain. 
+
+Nivia:  I’m sorry to hear that.  Why are you sitting in t hat awkward position? 
+
+Michael:  I strained my back while exercising.  Initially, I  felt a sharp pain and I thought it was something serious, but it doesn’t hurt m uch now.  There’s just a dull pain when I sit up straight.  That’s why I’m sittin g like this, leaning to the side.  
+
+ Nivia:  That’s too bad.  Why are you holding your arms t hat way? 
+
+Michael:  I got up in the middle of the night last n ight to go to the bathroom and bumped into the door.  I got a huge bruise on my arm.   It feels better if I hold it over my head. 
+
+Nivia:  Why are you shaking your fingers that way? 
+
+Michael:  I helped my daughter finish her science project for school.  I – I mean we – glued over 100 wooden sticks together.  My fingers a re really sore and stiff, and they won’t stop throbbing. 
+
+Nivia:  I’m afraid to ask you any more questions.  I don’ t think any man could survive any more injuries than what you already have! 
+
+[end of dialogue] 
+
+We hope the script for this episode did not cause you any pain.  It was written by the wonderful Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  This podcast is copyright 2008 .
+

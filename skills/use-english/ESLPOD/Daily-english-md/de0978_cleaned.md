@@ -1,0 +1,104 @@
+# Getting Access to Restricted Areas
+
+Welcome to English as a Second Language Podcast num ber 978 – Getting Access to Restricted Areas.  
+
+This is English as a Second Language Podcast episod e 978. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Our website is ESLPod.com. Go there and download a Learning Guide for this episode. You can do that after you become a member of ESL Podcast.  
+
+This episode is a dialogue between a security offic er – someone who tries to guard things or prevent people from using things th at they’re not supposed to – and Carl. Let’s get started.  
+
+[start of dialogue] 
+
+Security officer: Excuse me, sir, but this is a res tricted area. Only authorized personnel are permitted. 
+
+Carl: I just want to take a quick look. Is this rea lly where the president will be speaking? 
+
+Security officer: I can neither confirm nor deny th at, sir. Please step aside. 
+
+Carl: What if I have press credentials? Could I get  in then? 
+
+Security officer: Only if you’ve been screened by s ecurity. Really, sir, I must ask you to leave this area. It’s off-limits to you. 
+
+Carl: Couldn’t I just hang around and watch while p eople arrive? I won’t say a word. 
+
+Security officer: No, and if you persist, I’ll have  to have you shown out. 
+
+Carl: I’m not causing any trouble. I’m an American citizen and this is a free country! I can stand wherever I want to. 
+
+Security officer: Not on private property. Jim, cou ld you please escort this gentleman off the premises? 
+
+Carl: Hey, this is a travesty! I’m going to file a formal protest! 
+
+Security officer: You do that. Just do it off the p remises. 
+
+[end of dialogue] 
+
+Our dialogue begins with a security officer talking  to a man named Carl. “Security” (security) refers to safety or keeping t hings safe – making sure that secret things remain or stay secret. This is a “sec urity officer,” a person whose job it is to protect a certain area. She says, “Exc use me, sir, but this is a restricted area.” Notice the use of the word “sir” (sir) here. “Sir” is a polite, formal way of talking to – or “addressing,” we might say –  a man. If it were a woman, we might say “ma’am,” as in “Excuse me, ma’am.” 
+
+She says, “This is a restricted area.” Something th at is “restricted” (restricted) is something – or in this case, an area – that only ce rtain people are allowed to use or go into. “Only authorized personnel are permitte d,” the security officer says. “To be authorized” (authorized) means to have permi ssion to do something, to be able to do something because someone has told you y ou are able to do it. “Personnel” (personnel) is another word for employe es, or people who work for a certain organization. “Authorized personnel” would be people in this organization that have permission to, in this case, go into a sp ecific area. “Permitted” here means allowed.  
+
+“Only authorized personnel are permitted,” the secu rity officer says. Carl says, “I just want to take a quick look. Is this really wher e the president will be speaking?” We’re not sure which president Carl is referring to , perhaps the president of the United States. The security officer says, “I can ne ither confirm nor deny that, sir. Please step aside.” This is a very formal expressio n. “To confirm or deny” means to say, “Yes, this is true” or “No, this isn’t true .” Government officials who are trying to keep something secret will sometimes use this expression, “I can neither confirm nor deny.” That means I cannot confirm and I cannot deny. I can’t say yes and I can’t say no.  
+
+The security officer asks Carl to “step aside,” mea ning move from where you are standing right now. Usually, “step aside” means to move to the left or to the right to get out of someone’s way. Carl says, “What if I have press credentials?” “Press” (press) refers to newspapers, magazines, ra dio, and television stations, Internet websites – anyone or any organization that  reports the news, that provides information to other people about some eve nt. The word “credentials” (credentials) refers to badges or cards perhaps tha t indicate, in this case, that you are a journalist.   
+
+ Usually, when you have a large public event where t he media or the press want to report on the story, the members of the press – the “reporters” they are sometimes called – are given badges or pieces of pa per that indicate that they have permission to be there. Carl wants to know if he could “get in” – if he could enter into this area – if he had press credentials.  The security officer answers him by saying, “Only if you have been screened by secur ity.” “To be screened” (screened) means to be examined or checked for some thing.  
+
+When you go to an airport, before you can go into t he airport to get on your plane, you have to be screened. They have to look a t you. Sometimes, they put you through a special machine to make sure that you ’re not carrying anything dangerous. The word “security” in this sentence is a noun, not an adjective as it is in the term “security officer.” As a noun, “secu rity” refers to the people who are responsible, in this case, for screening people, fo r checking – or investigating – on someone. Carl is told that he would need to be s creened by security.  
+
+Then the security officer says, “Really, sir, I mus t ask you to leave this area.” The security officer is trying to be polite but very in sistent with Carl. She says, “I must ask you” – I have to ask you now – “to leave this a rea.” She says, “It’s off-limits to you.” If something is “off-limits,” it is not allow ed. It is not permitted. We often use that in talking about a physical area. A parent may  tell his or her child that a certain area in the house is off-limits; they’re no t allowed to go in there.  
+
+Carl, however, does not leave. He says instead, “Co uldn’t I just hang around and watch while people arrive? I won’t say a word.” “To  hang around” is a phrasal verb meaning to spend time in an area, either relax ing or not doing anything very important. It means to remain, however, in that are a. “I’m going to hang around until my friend shows up” – until my friend arrives ; I’m going to stay here until my friend arrives. The security officer tells Carl tha t he cannot hang around.  
+
+She says, “If you persist, I’ll have to have you sh own out.” “To persist” (persist) means to continue to do something despite difficult ies, even though it is hard to do it. Another way of saying this would be “to not give up” – to not stop doing what you’re doing. The security officer says, “If y ou persist,” meaning if you stay here, “I’ll have to have you shown out.” “To be sho wn (shown) out” is a polite way of saying to be made to leave, to have someone come  and perhaps even physically remove you from an area where you are no t supposed to be. 
+
+Carl says, “I’m not causing any trouble. I’m an Ame rican citizen and this is a free country! I can stand wherever I want to.” Carl says  he’s an “American citizen.” A “citizen” is a person who is officially a member, i f you will, of a country. Carl says,  
+
+“This is a free country!” A “free country” would be  a nation where people are allowed to do what they want, within certain limits . We use this expression in the United States here, often to simply refer to a situ ation where someone perhaps is trying to restrict our actions or tell us there are  things that we cannot do that we believe we have the legal right to do.  
+
+So, if someone says, “Well, you can’t criticize the  government,” you can say, “Well, yes, I can. It’s a free country.” “Free” her e relates to freedom, not to the idea that something doesn’t cost any money. We some times use this expression jokingly, or in a way that indicates to another per son that he can do whatever he wants – he doesn’t need your permission or approval  to do what he wants.  
+
+So, if someone says, “Well, I’m going to go down to  the beach and sit in the sun all day, even though I may get burned,” you can say , “Well, it’s a free country. Go ahead.” There’s a little bit of the idea there that  you don’t agree with that or you don’t think that’s a good idea. You might even thin k it’s a stupid idea, but you say it to the person as a way of saying, “Well, if that ’s your choice, then go ahead and do that.” Here, Carl is using the phrase more to sa y that he has a right to do this. The security officer says that he does not have a r ight. She says, “Not on private property.”  
+
+“Private property” is land or a building that belon gs to someone other than the government. If it belongs to the government, it wou ld be public property. The security officer says that Carl has no right to sta nd on private property unless he has permission. Then she turns to, or looks at, ano ther security officer by the name of Jim and says, “Jim, could you please escort  this gentleman off the premises.” “To escort” (escort) means to go with so meone, “to accompany” someone, we might say. “Off the premises” (premises ) means away from this particular area, away from this particular location .  
+
+Carl was not happy. He says, “Hey, this is a traves ty!” A “travesty” (travesty) is something that is very bad, especially something th at has not turned out how you expected it to turn out. Carl says, “I’m going to f ile a formal protest.” A “protest” (protest) here refers to a complaint. A “formal pro test” would be an official complaint where you write a letter or you go talk t o someone complaining about the way someone acted or someone behaved.  
+
+The security officer says, “You do that.” That expr ession “you do that,” said in that particular way, indicates to the person that y ou don’t really care what they do. You’re not concerned. Often we say this when so meone threatens us or someone says they’re going to get us in trouble. “I ’m going to talk to your brother and I’m going to tell him all the things you’ve don e.” You could say, “Well, you do  
+
+that.” You’re indicating that you don’t care about this and that you’re not frightened by this action.  
+
+The security officer says, “Just do it off the prem ises,” meaning file your complaint somewhere else – you have to leave this a rea, these premises.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Security officer: Excuse me, sir, but this is a res tricted area. Only authorized personnel are permitted. 
+
+Carl: I just want to take a quick look. Is this rea lly where the president will be speaking? 
+
+Security officer: I can neither confirm nor deny th at, sir. Please step aside. 
+
+Carl: What if I have press credentials? Could I get  in then? 
+
+Security officer: Only if you’ve been screened by s ecurity. Really, sir, I must ask you to leave this area. It’s off-limits to you. 
+
+Carl: Couldn’t I just hang around and watch while p eople arrive? I won’t say a word. 
+
+Security officer: No, and if you persist, I’ll have  to have you shown out. 
+
+Carl: I’m not causing any trouble. I’m an American citizen and this is a free country! I can stand wherever I want to. 
+
+Security officer: Not on private property. Jim, cou ld you please escort this gentleman off the premises? 
+
+Carl: Hey, this is a travesty! I’m going to file a formal protest! 
+
+Security officer: You do that. Just do it off the p remises. 
+
+[end of dialogue] 
+
+I can confirm that our scriptwriter is, in fact, Lu cy Tse. Thank you, Lucy, for your hard work.  
+
+ From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

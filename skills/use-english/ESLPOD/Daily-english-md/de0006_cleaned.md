@@ -1,0 +1,94 @@
+# The Commute to Work
+
+Welcome to English as a Second Language Podcast num ber 6: The Commute to Work 
+
+This is English as a Second Language Podcast episod e number six. I’m your host, Dr. Jeff McQuillan, coming to you from the Ce nter for Educational Development in beautiful Los Angeles, California. 
+
+In this episode, the fifth of our 10-part special s eries on daily English, I’ll talk about commuting or traveling to work.  
+
+Let’s get started! 
+
+[Start of story] 
+
+I open my car door and throw my briefcase in the ba ck seat, and get comfortable for my drive.  I put my coffee mug into the cup hol der, put the keys in the ignition, find the gas pedal, and start the car.  My wife dro ve the car last night, so I have to re-adjust the rear view mirror and the side mirr ors.  I turn on the radio to listen to the drive time traffic report.  I take the trans mission out of park and into reverse, back out into the driveway into the street , close the garage door, and put the car into drive.  I used to drive a stick shift,  but as I get older, I like my automatic transmission more and more. 
+
+I usually take the freeway to the office, so I get on the onramp for the freeway and drive to where I have to get off.  My office is  only a few miles from the exit.  I pull into the parking garage, swiping my key card t o get in.  I park, grab my briefcase and coffee, and head toward the elevator.   And that only took 40 minutes! 
+
+[End of story] 
+
+Part five is called “The Commute to Work.”  “Commut e” (commute) can be both a noun and a verb.  It means to go from your house to  your work.  Usually, if you live a long distance from your work, you would say,  “I have a long commute.”  Or, if you live close to work, you would have a short c ommute.  If it's a very long commute with lots of traffic, you might say, “I hav e a terrible commute” - a very bad commute. 
+
+ESL Podcast 6 - The Commute to Work  
+
+The story begins by me saying that “I open my car d oor and throw my briefcase in the back seat.”  So, I open my “front door” - th e door that we would call the driver's side, where the driver gets in, and in an American car, that is on the left side.  Cars in Britain are on the right side, is th e driver's side.  So, I get into the left side in the front door.  If you have a car tha t has a back seat, you could have a two-door car or a four-door car.  “Four doors” me ans that you have separate doors for the back seat.   
+
+The “seat” (seat) is what you sit in.  So, the back  seat is where people can sit behind you - behind the driver and behind the perso n next to the driver.  We call the seats the passenger seats and the driver's seat .  The right side of the car is usually called the passenger side of the car. 
+
+I “get comfortable for my drive” - for my commute -  notice we use drive there as a noun; it can be a verb and a noun.  “I put my coffe e mug into the cup holder.”  A “mug” (mug) is just a big cup.  We talk about coffe e mugs, they're big cups that you put your coffee into.  In many cars, there is a  special place for a cup or a bottle, and that's called a “cup holder” (holder).  It holds the cup so you can have your coffee in your car. 
+
+I “put the keys in the ignition.”  The “keys” are, of course, what starts your car. It's the piece of metal that you open your car door  with - you unlock it.  Well, you also start the car with your keys, and you put them  into something called the “ignition.”  And, the “ignition” (ignition) is the part of the car that starts the engine. Usually it makes a certain sound - a certain noise,  and once the engine starts, then you don't have to put the key forward, you jus t leave the key there, you take your hand off of it.  The word ignition comes from the verb “to ignite” (ignite) which means to start a fire - to start something bu rning, and of course, a car burns gasoline, that's what the engine does in orde r to make the car move. 
+
+After I put the keys into the ignition, I “find the  gas pedal.”  A “pedal” (pedal) is something you use to control with your feet usually  the speed of something.  So the gas pedal is the pedal that you press down to g o faster, it gives the engine more gas.  That word, pedal, can also be used as a verb.  If you are on a bicycle, in order to make the bicycle move, you have to peda l because the things that your feet are on, on a bike, or a bicycle, are call ed pedals.  Well, you don't pedal your car, but you do have a gas pedal. 
+
+I “start the car,” and because “My wife drove the c ar last night, I have to re-adjust the rear view mirror.”  “To re-adjust” means to adj ust again.  That prefix (re) means again in English, usually.  “To adjust means”  to-to move them so that I  
+
+ESL Podcast 6 - The Commute to Work  
+
+can see properly - I can see into the mirror.  Ther e are two types of mirrors on your car: there's the “rear (rear) view (view) mirr or” and that is in the front of the car, on the front window of the car.  The front win dow of your car is called your “windshield” (windshield) – the windshield.  So, on  your windshield, on the top in the middle, is your rear view mirror, and that allo ws you to see cars behind you. There are also mirrors on the side of the car, usua lly on both sides, and those are called the side mirrors. 
+
+“I turn on the radio to listen to the drive time tr affic report.”  “Drive time” is the time of day when most people are either going to wo rk or coming back from work.  So, in the morning the drive time in Los Ang eles, for example, is 7:30 to 9:30.  Most people are going to work during those h ours.  In other cities it could be different; in some cities, it's earlier than tha t.  There's also a drive time at the end of the day, between 5:00 and 7:00 here in Los A ngeles, that's when people are coming home from work. 
+
+So, the drive time traffic report is an announcemen t on the radio telling you if there are any accidents on the roads, if there is a ny “construction” - that is the government is fixing the road and it may be closed.   And, it tells you if you are going to take a long time or not a long time.  So, traffic reports tell you how fast the cars are moving on different, usually, freeways  in American cities. 
+
+“I take the transmission out of park and into rever se.”  The “transmission” (transmission) is the part of the car that determin es how fast you go.  It also determines if you go forward or backwards - if you' re going straight ahead or behind; that's the transmission.  Sometimes it's ca lled a “transmission box” (box) and inside of that box there are little wheels call ed “gears” (gears) and depending on the gear you are in, we would say, depending on the gear you are using, you will either go very fast or not very fast, or you w ill go in “reverse” (reverse).  To go into reverse means to go backwards - the car moves backwards. 
+
+Well, before I go anywhere, I have to “take the tra nsmission out of park,” (park). “Park” is when the car is not going forward or goin g backwards.  We say you put the transmission into park, and you take it out of park.  And when you take it out of park, you either go forward or backwards.  Well,  here I'm going in reverse, and I “back out into the driveway.”  “To back out” mean s to go backwards.  Usually that verb, to back out, is used when you are talkin g about a car or a truck that is leaving a garage, and it's going in reverse - you b ack out of the garage.  “I back out into the driveway” onto the street, or “into th e street.”  The “driveway” (driveway) is what connects the garage to the stree t.  It's the space that is in between your street and where your car is parked, y our garage.  
+
+ESL Podcast 6 - The Commute to Work  
+
+ Some people actually don't have a garage, and so th ey park in their driveway. They drive off the street and they park their car i n the driveway, that piece of land where you can put your car.  I like to park my car on my neighbor's driveway so I have more room on my driveway.  He doesn't like it though.  So, I back out of the garage, and then I “close the garage door, and put the car into drive.”  Here's another use of that word, drive.  In this case, it means I'm putting it in a gear that will take me forward.  So, to put a car into drive means that you change the position of the transmission so that your car will go forward and not backwards. 
+
+“I used to drive a stick shift, but as I get older,  I like my automatic transmission more and more.”  There are two kinds of transmissio ns - two kinds of cars.  One is what we call an automatic transmission, where yo u put your car either into reverse or into drive, and that's it.  You don't ha ve to change anything.   
+
+Another kind of car is called a stick shift, or a m anual transmission.  “Manual” (manual) is the opposite of automatic; it means by hand.  So, if you have a manual transmission, or a stick shift, you have to move the transmission each time you want to go faster or slower.  The word “st ick (stick) shift (shift)” (two words) is the same as a manual transmission.  Some people say, “I drive a stick,” they mean, “I drive a stick shift.”  
+
+The word “shift” is also a verb, “to shift,” and th at means to change.  So, if you have a manual transmission - a stick shift - you sh ift from one gear to another.  If you want to go faster, you have to shift into a hig her gear.  Well, if you don't have a manual transmission, you don't have to worry abou t it. 
+
+If you have a stick shift, you have an extra pedal in the car.  Remember, we said that a pedal can be a gas pedal - something that ma kes you go faster.  You also have a brake pedal that will slow or stop your car.   And, if you have a stick shift, you have a third pedal, which we call the “clutch” (clutch). And in order to change from one gear to another, to go faster or slower or  to go into reverse, if you have a stick shift, you have to press on or put your foo t on the clutch so that you can change, or shift, gears. 
+
+“I usually take the freeway to the office, so I get  on the onramp for the freeway.” The “onramp” (onramp) is what connects the street t o the freeway.  So, just like a driveway connects the street to your garage, an onr amp connects the street to the freeway.  The opposite of an onramp would be, o f course, an off ramp, and that's where you go off of the freeway and back to the street. 
+
+ESL Podcast 6 - The Commute to Work  
+
+Well, I get onto the onramp, or “I get on the onram p and I drive to where I have to get off.  My office is only a few miles from the ex it.”  The “exit” (exit) is where you leave the freeway.  It can be a noun or it can be a  verb.  “To exit” means to leave, and normally, in a public building, a hotel or othe r areas, they have a sign that says, “exit,” so you know in case there is an emerg ency how to leave the room or leave the building.  On an airplane, we have someth ing called the emergency exits, and those are doors that you use if the plan e is having problems.  I hope you never have to use the emergency exits. 
+
+Well, this is an exit from the freeway, and “my off ice is only a few miles” after I get off of the freeway.  “I pull into the parking g arage,” the place at my work where you park or keep your car, and I swipe my key  card to get in.  A “key card” (key card) – two words – is like a credit card.  It 's an electronic card that the company gives you that allows you to get in and out  of a garage, in and out of the building, maybe even in and out of your office, and  it's an electronic card, like a credit card.  To swipe is the verb we use when we t alk about credit cards or key cards.  “To swipe,” (swipe) means to take the card and put it into what we would call a reader very quickly.  So, for a credit card,  the clerk will swipe the card - will put it through the machine very quickly.  For a key  card, you put it through the machine so you can get into somewhere.  It's a key - an electronic key. 
+
+I “park my car,” I “grab my briefcase and my coffee ” - very important, my coffee - and I “head toward the elevator.”  “To head toward something” means to walk in that direction or move in that direction.  So, I wa lk toward the elevator, and my whole trip “only took 40 minutes.”  
+
+Americans love to complain about how terrible their  commutes are.  In some cities, 30 or 40 minutes is considered a long commu te, and in some cities, like Los Angeles, it's considered an average commute.  I n other countries, some people commute an hour or an hour and a half in ord er to get to their work. 
+
+Now let's listen to the story, this time at a regul ar speed. 
+
+[Start of story] 
+
+I open my car door and throw my briefcase in the ba ck seat, and get comfortable for my drive.  I put my coffee mug into the cup hol der, put the keys in the ignition, find the gas pedal, and start the car.  My wife dro ve the car last night, so I have to re-adjust the rear view mirror and the side mirr ors.  I turn on the radio to listen to the drive time traffic report.  I take the trans mission out of park and into reverse, back out into the driveway into the street , close the garage door, and put  
+
+ESL Podcast 6 - The Commute to Work  
+
+the car into drive.  I used to drive a stick shift,  but as I get older, I like my automatic transmission more and more. 
+
+I usually take the freeway to the office, so I get on the onramp for the freeway and drive to where I have to get off.  My office is  only a few miles from the exit.  I pull into the parking garage, swiping my key card t o get in.  I park, grab my briefcase and coffee, and head toward the elevator.   And that only took 40 minutes! 
+
+[End of story] 
+
+That concludes part five of “A Day in the Life of J eff: The Commute to Work.”  In part six, we actually get to work and go to lunch. 
+
+This course has been a production of the Center for  Educational Development, in beautiful Los Angeles, California.  Visit our websi te at eslpod.com. 
+
+This course was produced by Dr. Jeff McQuillan and Dr. Lucy Tse.  Copyright 2006. 
+
+______ 
+
+Contributors to this series are Jeff McQuillan, Luc y Tse, and Jessica Brown.
+

@@ -1,0 +1,64 @@
+# Getting Childcare
+
+Welcome to English as a Second Language Podcast num ber 75 – Getting Childcare. 
+
+This is English as a Second Language Podcast episod e 75. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Become a member of  ESL Podcast and download the Learning Guide for this episode.  
+
+Today’s podcast is going to be about getting childc are, or getting someone to take care of your children. Let’s go! > My friend Susan is an engineer, and she's also a si ngle mom. She has been working some odd hours lately and was having a toug h time finding childcare for her four-year-old daughter and her eight-year-old s on.  
+> Her daughter, Kimberly, is enrolled in a preschool,  and Susan is able to drop her off on her way to work. But the preschool closes at  6:00 p.m., and sometimes Susan can't get there in time to pick her up. 
+> Her son, Paul, is in the second grade and goes to a  public school near their house. Paul gets out of school at 3:00 p.m., but Su san never gets off work before 6:00 p.m., and sometimes later.  
+> So, what can she do with the kids after school? I w ent with Susan to check out a latchkey program at the local community center. It seemed like a good idea. Paul would be picked up from his school, and he could st ay at the center to do his homework and to play in the center until as late as  7:00 p.m. The tuition was fairly low and there was rolling admission. The tro uble was, there was very little supervision of the kids, and the staff seemed inexp erienced.  
+> Now, Susan is considering hiring a nanny. The nanny  would pick both kids up from their schools and bring them home. The nanny c ould make dinner for them and stay with them until she got home. This would b e ideal, but a good nanny is hard to come by and is very expensive to hire, even  the ones who don't live in.  
+> I don't envy Susan. Single moms – and dads – have i t tough.  
+> In this episode, we’re talking about “childcare” (c hildcare), which is when you have someone look after or take care of your childr en while you are working. I talk about my friend Susan, who is an engineer and a single mom. A “mom” is a mother, and a “single mom” is a mother who isn’t ma rried. She could never have been married, or she could have divorced, or her hu sband could have died. In any event, she is on her own. She is a “single mom. ”  
+
+This friend of mine “has been working some odd hour s.” “To work odd (odd) hours” means to not work during the usual working h ours, normally eight or nine o’clock in the morning until five o’clock in the af ternoon – those would be normal hours, or business hours. “Odd hours” would be if y ou had to work, for example, from ten o’clock at night until six o’clock in the morning. That might be considered working “odd hours.” Another use of that expression  is when you do not have a regular schedule. For example, some days you work f rom eight o’clock in the morning until three o’clock in the afternoon, other  days from noon until eight o’clock at night, and so forth.  
+
+I say that Susan “was having a tough time finding c hildcare.” “Tough” here means difficult – Susan was having a difficult time  finding childcare for her two children. “Her daughter, Kimberly, is enrolled in a  preschool.” A “preschool” (preschool) – all one word – is what we call a scho ol for young children especially between the ages of three to five. Sometimes presch ools go a little younger than that, but normally it is for ages three to five. He re in the U.S., children go to preschool, and then when they finish preschool –usu ally around age five – they go into kindergarten, and after kindergarten they g o into grade school: first grade, second grade, and so forth.  
+
+Preschool is optional; children don’t have to go to  preschool. There are some people who like to keep their children at home beca use they can stay home to watch them, or who prefer to put them in some other  program. Susan’s daughter, Kimberly, goes to a preschool, and Susan “is able t o drop her off on her way to work.” “To drop off” means to leave someone or some thing at a certain place. “On her way to work” means somewhere between her ho use and her work. She can drop off her daughter at this preschool, which is located on her way to work. 
+
+“But the preschool closes at 6:00 p.m., and sometim es Susan can't get there in time to pick her up.” “In time” means before some d eadline, before it is too late. “Did you get there in time?” means “Did you get the re before it was too late?” So,  
+
+for example, if a movie starts at 7:00 p.m., and yo u get there at 7:05 p.m., you didn’t get there in time. The movie already started .  
+
+Susan’s son, Paul, “is in the second grade and goes  to a public school near their house.” In the United States, a “public school” is a school that the government operates, that the government runs. The opposite of  a “public school” would be a “private school.” This is different than in British  English.In Britain, the term “public school” means “private school,” so it can be very c onfusing. But in the United States, a “public school” or a “public” anything is  usually something that the government operates. And in the United States, each  school system is governed, or run, by a local school board – a group of people  who are elected to run the school system in their area.  
+
+“Susan never gets off work before 6:00 p.m.” “To ge t off work” means to be finished with work. “I get off work at five” means I am done working at five. Susan and I went “to check out” or to investigate – “a la tchkey program at the local community center.” A “latchkey (latchkey) program” is a program in which school- age kids can go to a special place after school and  there’s someone there to take care of them until the parents come and pick them u p, usually after five or six o’clock in the afternoon. This is called a “latchke y program.”  
+
+A “key” is what you open a door with, and the word “latchkey” refers to the key to the front or main door of a house. Here in the Unit ed States, the school day is usually over at around three o’clock in the afterno on, sometimes a little later, and many working parents don’t have a place for their c hildren to go after school. So, for that hour or two hours before the parent can ge t home from work, a lot of children are on their own, and they have to use the ir key – their “latchkey” – to get into their house. Kids who do this are sometime s referred to as “latchkey kids.” 
+
+A “latchkey program” is a program where these kids can come together in one place where there are adults to take care of them. One place that may have a “latchkey program” is a “community center.” A “comm unity center” is usually a government building in a neighborhood, or a section  of a city, that different organizations can use for various things. Usually t here will be a big room like an auditorium for concerts or plays. Community centers  will often offer classes that are free or inexpensive. Many cities have a communi ty center, operated by the city government.  
+
+I say, “the tuition was fairly low” at the latchkey  program. “Tuition” is money you pay to go to a school. We often talk about tuition being “low” or “high.” “Low tuition” is not very expensive; “high tuition,” how ever, is expensive. I say this  
+
+latchkey program has “rolling admission.” “Rolling admission” is when there isn’t a deadline for applying or signing up to get into s omething. You can join the program at any point during the year.  
+
+But the problem with this program was that “there w as very little supervision of the kids, and the staff seemed inexperienced.” “Sup ervision” is the act of looking after or taking care of someone or something. The v erb is “to supervise,” and a person who supervises is called a “supervisor.” At this latchkey program, “there was very little supervision of the kids,” meaning t he kids weren’t being watched very well. Also, “the staff seemed inexperienced.” Someone who is “experienced” has been doing something for a long time and has “e xperience” doing it. “Inexperienced” is the opposite of “experienced” – someone who is “inexperienced” has not been doing something for a long time. 
+
+Susan is now considering “hiring a nanny.” A “nanny ” (nanny) – what the French might call an “au pair” – is a person, often a youn g woman, who comes to a house and takes care of the children while the pare nts aren’t there. Often, a nanny cleans the house and makes meals for the fami ly. Sometimes nannies are “live- (live) in (in),” meaning they sleep and stay  with the family full-time. There are also nannies who will just come during the day and leave at night. I say that a good nanny “is hard to come by.” When we say someth ing is “hard to come by,” we mean it’s difficult to get. For example, “It’s h ard to come by really good movies nowadays.” Well, I think so.  
+
+I say that, “I don’t envy Susan.” “Envy” (envy) is similar to “jealousy.” When someone has something that you want, you “envy” the m for having that thing. I say that “I don’t envy Susan,” because she has a di fficult situation – it is not a situation that I would want. I end by saying, “Sing le moms – and dads – have it tough.” “To have it tough” means to be in a difficu lt situation or circumstance – to have things harder than some.  
+
+Now let's listen to the story, this time at a norma l speed.  
+
+[start of story]  
+
+My friend Susan is an engineer, and she's also a si ngle mom. She has been working some odd hours lately and was having a toug h time finding childcare for her four-year-old daughter and her eight-year-old s on.  
+
+Her daughter, Kimberly, is enrolled in a preschool,  and Susan is able to drop her off on her way to work. But the preschool closes at  6:00 p.m., and sometimes Susan can't get there in time to pick her up.  
+
+ Her son, Paul, is in the second grade and goes to a  public school near their house. Paul gets out of school at 3:00 p.m., but Su san never gets off work before 6:00 p.m., and sometimes later.  
+
+So, what can she do with the kids after school? I w ent with Susan to check out a latchkey program at the local community center. It seemed like a good idea. Paul would be picked up from his school, and he could st ay at the center to do his homework and to play in the center until as late as  7:00 p.m. The tuition was fairly low and there was rolling admission. The tro uble was, there was very little supervision of the kids, and the staff seemed inexp erienced.  
+
+Now, Susan is considering hiring a nanny. The nanny  would pick both kids up from their schools and bring them home. The nanny c ould make dinner for them and stay with them until she got home. This would b e ideal, but a good nanny is hard to come by and is very expensive to hire, even  the ones who don't live in.  
+
+I don't envy Susan. Single moms – and dads – have i t tough. 
+
+[end of story] 
+
+Thanks to our wonderful scriptwriter, Dr. Lucy Tse,  for all her hard work, and thanks to you for listening. 
+

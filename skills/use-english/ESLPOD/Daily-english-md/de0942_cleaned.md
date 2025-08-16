@@ -1,0 +1,104 @@
+# Daily Chores on a Farm
+
+Welcome to English as a Second Language Podcast num ber 942 – Daily Chores on a Farm.  
+
+This is English as a Second Language Podcast episod e 942. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is ESLPod.com. Become a member of ESL P odcast by going to our website.  
+
+This dialogue is between Cesar and Karol about work ing on a farm, a place where they have animals and other exciting things. Let’s get started.  
+
+[start of dialogue] 
+
+Cesar: Rise and shine! It’s time to get to work. 
+
+Karol: What?! It’s four o’clock in the morning. The  sun isn’t even up yet. 
+
+Cesar: You live on a farm now. We have a lot of cho res to do before sunup and we need to start doing them now.  
+
+Karol: I’ll milk the cows later. Let me sleep to a decent hour. 
+
+Cesar: All right, you can milk the cows a little la ter, but we have to feed and water the animals now. We also have to clean out the stal ls and groom the animals before we start repairs on the fences. 
+
+Karol: Why can’t we do those things when the sun is  up and we can see what we’re doing? 
+
+Cesar: Because we’ll need daylight hours to tend to  the crops. We’re done with planting, but we’ll need to do the watering and wee ding. Just be glad that the harvest is three months away. 
+
+Karol: I don’t think I’m cut out to be a farmhand.  
+
+Cesar: You should have thought of that before agree ing to spend the summer at your uncle’s farm. Now move! 
+
+Karol: But I thought I’d spend the days learning ho w to ride horses. 
+
+Cesar: City girls! 
+
+[end of dialogue] 
+
+Our dialogue begins with Cesar saying to Karol, “Ri se and shine!” This expression, “Rise (rise) and shine (shine),” is use d when you want to wake someone up, someone who is sleeping. This is especi ally used when you want to seem very happy, when you want to seem what we woul d call “cheerful.” “Rise and shine everyone!” You are telling everyone to wa ke up.  
+
+Sometimes it's used sarcastically or jokingly when you are telling someone that they have been sleeping too long. You might say thi s to your children, for example, on Saturday morning if they are sleeping t oo late. You might say, “Rise and shine everyone.” Typically, it's used when you have somewhere to go or something to do and you need everyone to wake up in  order to do it. The verb “to rise” means to get up, to get out of your bed. “Shi ne” here, I guess, could mean happy. If you're telling someone to shine, you want  them to do well. You want them to be smiling, perhaps.  
+
+Cesar is telling Karol to rise and shine because it 's time to get to work. Karol says, “What?! It's four o'clock in the morning.” It 's four a.m. “The sun isn't even up yet.” When we say “the sun is up,” we mean the s un is in the sky. It is no longer nighttime. Cesar says, “You live on a farm n ow.” A “farm” is a place where you grow plants for food. You can also have animals  that are also used to produce food. Sometimes the animals are the food. C hickens, for example, produce eggs which you can eat and then you can eat  the chicken. Cesar and Karol are on a farm.  
+
+Cesar says, “We have a lot of chores to do before s unup and we need to start doing them now.” “Chores” (chores) are tasks that y ou have to perform, especially related to cleaning or taking care of so mething such as your house or, in this case, animals. Farm chores would probably b e related to doing things that are required to keep the farm operating. In general , the word “chore” is used for a task that is not very pleasant, that you don't real ly want to do. Cesar says that he and Karol have to do these chores before “sunup” (s unup). “Sunup” is sunrise – the time when the sun appears in the sky and the da y begins.  
+
+Karol says, “I’ll milk the cows later.” “To milk (m ilk) a cow (cow)” is to take your hands or to use a machine to take milk from a cow. A “cow” is an animal that  
+
+produces milk. We also get beef from a cow. We call  the meat of the cow “beef” – steaks, hamburgers, that sort of thing. That meat i s called “beef,” and it comes from a cow. “Milk” is also a noun referring to the liquid that comes out of a cow. You can also have other kinds of milk from other an imals, such as goat’s milk. Karol says she'll milk the cows later. “Let me slee p to a decent hour,” she says. A “decent (decent) hour” here means a time that isn't  too early or too late, a time that is considered normal for doing certain kinds o f tasks.  
+
+Cesar says, “All right, you can milk the cows a lit tle later, but we have to feed and water the animals now.” “To feed (feed) and water t he animals” means to take care of the animals by giving them food to eat and fresh water to drink. Cesar says, “We also have to clean out the stalls and gro om the animals before we start repairs on the fences.” “To clean out” is a t wo-word phrasal verb that means basically the same as to clean. The word “out” is j ust used for emphasis. It could mean to completely remove everything from a place. “I'm going to clean out my desk” means I'm going to remove everything from my desk. That's what you do if you lose your job. You have to clean out your desk.  Here, we’re talking about making something cleaner – getting rid of the dirt and whatever else is there.  
+
+Cesar and Karol need to clean out the “stalls” (sta lls). A “stall” is a small section, a small area, in a barn that is separated from othe r areas by a wall and is used usually to keep an animal in, such as a horse. A “b arn” is a large building where you keep animals and farm equipment. The verb “to g room” (groom) means to clean an animal, often including brushing its fur, its hair. It may also mean to do other things to the animal in order to keep it clea n and healthy.  
+
+The verb “to groom” can also be used with humans. Y ou can talk about “grooming” yourself. That might include cutting you r hair, shaving, making sure you look handsome or pretty. I try to groom myself so that I don't look too ugly. I look ugly even after I groom myself, but not as ugl y as I would if I didn't groom myself. The word “groom,” interestingly enough, is also used for a man who is about to get married. The woman is called a “bride”  (bride) and the man is called the groom. I'm not sure if there's a connection the re between husbands and animals, quite possibly. 
+
+Cesar says they need to groom the animals “before w e start repairs on the fences.” A “fence” (fence) is a short wall that goe s around a certain area, a certain piece of property, that is usually made fro m wood or metal. A fence is designed either to keep something in, such as your animals so they don't escape, or to keep something out, such as your neighbors. T hat's a fence. There's an old expression, “Good fences make good neighbors,” mean ing be careful what kind of fence you put up to separate you from your neigh bor. You want to make sure  
+
+that you don't make them angry by putting up your f ence. I made my former neighbor angry by putting up a fence, but that's an other story.  
+
+Karol says, “Why can't we do those things when the sun is up and we can see what we're doing?” Cesar says, “Because we’ll need daylight hours to tend to the crops.” Karol wants to wait until the sun is up, bu t Cesar says no, we have to save that time, those “daylight hours to tend to” –  or take care of – “the crops.” The term “daylight hours” refers to the time of the  day when the sun is out, when the sun is in the sky. “Crops” (crops) refers to pl ants that you grow in order to eat or sometimes to make clothing or, for some of you, to smoke.  
+
+Cesar says, “We’re done with the planting, but we’l l need it to do the watering and weeding. Just be glad the harvest is three mont hs away.” “Planting” refers to putting seeds in the ground so that you can grow ne w plants. You can also plant a plant. The word “plant” can be used as a noun, to  refer to the things that grow out of the ground. It's also used here as a verb me aning to put things into the ground so that they grow.  
+
+Cesar says they need to do the watering and weeding . “To weed” (weed) means to get rid of the unwanted plants, the plants that you don't want from your garden nor from your farm. Cesar says, “Just be glad,” mea ning you should be happy, “that the harvest is three months away.” The “harve st” (harvest) is the process of taking all the plants out of where they are growing  – out of the “fields,” we would say – and bringing them in so you can sell them or eat them or do whatever you’re going to do with them.  
+
+Karol says, “I don't think I'm cut out to be a farm hand.” The expression “to be cut out to be” something means to be qualified or prepa red to do something. Perhaps you don't have the interest or you don't ha ve the right attitude or, simply, you don't have the skills to do something. I am not  cut out to be a professional baseball player. I would like to be, but I am not c ut out to be. I don't have the preparation or the skills. But I can watch baseball  on television, so that's almost as good as being a real player.  
+
+Karol says she's not cut out to be a “farmhand” (fa rmhand), one word. A “farmhand” is a person who works on a farm, especia lly one who does physical work – “physical labor” we would call it. Cesar say s, “You should have thought of that before agreeing to spend the summer at your un cle's farm.” Karol, we now learn, is “spending the summer” – staying for the m onths of June, July, and August – at her uncle's farm. Karol says, “But I th ought I'd spend the days learning how to ride horses.” Karol thought that go ing to a farm was going to  
+
+mean riding horses and doing fun things, not gettin g up early and milking the cows.  
+
+Cesar ends our dialogue by saying, “City girls!” A “city girl” or a “city boy” is an insulting phrase to describe someone who lives in t he city and doesn't know anything about farming. People who live on farms wo uld use this term about people who live in cities and don't know how to do anything that needs to be done on a farm. I am, for example, definitely a cit y boy.  
+
+Now let's listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Cesar: Rise and shine! It’s time to get to work. 
+
+Karol: What?! It’s four o’clock in the morning. The  sun isn’t even up yet. 
+
+Cesar: You live on a farm now. We have a lot of cho res to do before sunup and we need to start doing them now.  
+
+Karol: I’ll milk the cows later. Let me sleep to a decent hour. 
+
+Cesar: All right, you can milk the cows a little la ter, but we have to feed and water the animals now. We also have to clean out the stal ls and groom the animals before we start repairs on the fences. 
+
+Karol: Why can’t we do those things when the sun is  up and we can see what we’re doing? 
+
+Cesar: Because we’ll need daylight hours to tend to  the crops. We’re done with planting, but we’ll need to do the watering and wee ding. Just be glad that the harvest is three months away. 
+
+Karol: I don’t think I’m cut out to be a farmhand.  
+
+Cesar: You should have thought of that before agree ing to spend the summer at your uncle’s farm. Now move! 
+
+Karol: But I thought I’d spend the days learning ho w to ride horses. 
+
+Cesar: City girls! 
+
+ [end of dialogue] 
+
+Thanks to our city girl scriptwriter, Dr. Lucy Tse,  for milking the English cow in order to feed us another wonderful dialogue.  
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. Copyright 2013 by the  Center for Educational Development.
+

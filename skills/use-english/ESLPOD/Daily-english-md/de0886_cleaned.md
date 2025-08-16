@@ -1,0 +1,80 @@
+# Driving Through a Speed Trap
+
+Welcome to English as a Second Language Podcast num ber 886: Driving Through a Speed Trap.  
+
+This is English as a Second Language Podcast episod e 886. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Our website is ESLPod.com. Become a member of ESL P odcast by going to the website.  
+
+This episode is a dialogue between Angel and Georgi na about driving too fast in your car and what happens when you do. Let’s get st arted.  
+
+[start of dialog] 
+
+Angel:  Why are you driving at a snail’s pace? 
+
+Georgina: This is an infamous speed trap.  I don’t want to get a ticket – again. 
+
+Angel:  I don’t see any squad cars along the road.  Are you sure this is the right stretch of road? 
+
+Georgina: I’m sure.  Those cops are crafty.  They h ide out behind big rocks or a bend in the road, and as soon as you let your guard  down and go over the speed limit, they nab you.   
+
+Angel:  But you’re not exceeding the speed limit.  In fact, you’re driving way under the speed limit. 
+
+Georgina: You can’t be too careful.  You never know  if those speed guns are accurate, and I don’t want there to be any doubt th at I’m being a law-abiding citizen. 
+
+Angel:  But at this pace, we could get home faster if we walked! 
+
+Georgina: Don’t exaggerate.  You might be able to r un home faster, but not walk. 
+
+[end of dialog] 
+
+Our dialogue begins with Angel saying to Georgina, “Why are you driving at snail’s pace?” This is an expression – “at a snail’ s pace.” It means very slowly. A “snail” (snail) is a small little animal that moves  very slowly when it moves across the ground. “Pace” (pace) here means speed. So, “at  a snail’s pace” means as fast as a snail, which means very, very slowly. Ang el is asking Georgina why she's driving so slowly.  
+
+Georgina says, “This is an infamous speed trap.” “I nfamous” (infamous) is an adjective meaning very famous for being bad or evil . “Infamous” is always a negative thing. If someone says, “He's infamous,” t hey mean that he's well known, everyone knows about him, but for the bad th ings that he's done. A “speed trap” is an area where the police typically look for cars that are driving too fast so that they can stop the driver and give him what's called a “ticket.” A “ticket” is not like a ticket to the movies or an a irline ticket. It's a piece of paper saying that you broke the law and that you have to pay money to the government because you broke the law.  
+
+So a speed trap is an area on a road or a highway o r anywhere that you drive, where the police know that people are often going t o drive fast in that one area. For example, here in Los Angeles, there is a speed trap right as you drive into the city of Beverly Hills, where all the rich peopl e live. There is an area on Santa Monica Boulevard that is a speed trap. I know becau se I've seen people there who have been stopped by the police. So, everyone d rives very slowly through that section because they know the police are waiti ng for them. The best way to find a speed trap, if you are new to an area or a c ity, is to drive really fast on all of the major or large streets and wait until you get s topped by the police, and then you will know where the speed trap this. (You're we lcome.)  
+
+Georgina is talking about an infamous, a well-known  speed trap. She says, “I don't want to get a ticket again.” Angel says, “I d on't see any squad cars along the road.” A “squad (squad) car” is another word fo r a police car, a car that police officers drive, usually around the neighborhood or part of the city in order to make sure there aren't any problems. You also have policemen and policewomen who drive motorcycles, but a squad car is a regular, four-door car. Angel says, “Are you sure that this is the right st retch of road?” “Stretch” (stretch) here means length of road or section of road – a pa rt of a road between this point and that point, between this place and that place. Stretch has a couple of other meanings as well. You can see those in our Learning  Guide.  
+
+Georgina says, “I'm sure.” I'm sure this is the rig ht or correct stretch of road. She says, “Those cops are crafty.” A “cop” (cop) is a s lang or informal word for a police officer – a man or woman who works for the p olice. “Crafty” (crafty) here  
+
+means clever or sneaky, someone who may use some di shonest ways of cheating you or trying to catch you.  
+
+Georgina thinks the police are crafty. She says, “T hey hide out behind the big rocks, or a bend in the road, and as soon as you le t your guard down and go over the speed limit, they nab you.” There are a co uple of expressions to explain here – first, “hide out.” “Hide (hide) out” is a tw o-word phrasal verb meaning to go somewhere where no one can see you. It's a verb, “t o hide out,” but it's also a noun, a “hideout” A “hideout” is a place  where you go so that no one will find you. Sometimes we use that noun to describe a place wher e criminals, people who have broken the law, go so that the police don't fi nd the. But it can also be used, for example, for a place where someone is hiding, s omeone is waiting for someone and they don't want to be seen. That's real ly the meaning here.  
+
+Georgina using the verb “to hide out” is talking ab out the police who don't want you to see them. They hide behind big rocks, or a b end in the road. A “bend” (bend) is a curve where the road turns a little eit her to the left or to the right. It doesn't continue going straight. That's a bend (ben d) in the road. We would also describe it, as I said, as a “curve” (curve). “To l et your guard (guard) down” means to relax, to not be worried, to not be cautio us, to not worry about what happens or how other people are reacting to you. Th at's to let your guard down. We might say that, for example, about a man or a wo man on a date. They're nervous about what the other person thinks of them so they don't want to let their guard down. They don't want to be normal, if you wi ll, they don't want to relax. 
+
+Georgina is saying that the police “Hide behind roc ks, or a bend in the road, and as soon as you let your guard down” – as soon as yo u relax – “and go over the speed limit,” meaning go too fast, go faster than y ou're supposed to – “they” – the police – “nab you.” “To nab (nab) someone” is to ca tch someone. Often, it means to arrest someone when the police come and take som eone away. They nab them. But it can also be used, for example, if some one is kidnapping another person, taking that person away and asking the fami ly to give them money in order to get the person back. We might use nab in t hat respect as well. But it's probably more commonly used in talking about the po lice. 
+
+Angel says, “But you're not exceeding the speed lim it.” “To exceed” (exceed) means to go beyond some limit. In this case, we’re talking about the speed limit – the maximum speed that you can drive on a road. Ang el says, “In fact, you're driving way under the speed limit.” The use of the word “way” here is as an adverb. It means very much or extremely. It's somew hat informal but it's very common in conversational English. People say, for e xample, “Oh, this is way  too difficult.” This is much too difficult. This is ver y difficult.   
+
+ Georgina says, “You can't be too careful,” meaning it's not possible to worry too much because you have to protect yourself. Georgina  says, “You never know if those speed guns are accurate.” A “speed gun” is no t a regular gun that you would kill someone with. A “speed gun” is also call ed a radar gun. It's a device that determines how fast a car is driving down the street. Georgina says, “I don't want there to be any doubt that I'm being a law-abi ding citizen.” A “law-abiding (abiding) citizen” is a responsible person who foll ows the laws, who obeys the rules.  
+
+Angel says, “But at this space,” – at this speed – “we could get home faster if we walked.” It would be faster to walk than to drive i n this car. That's what Angel is saying. Georgina says, “Don't exaggerate.” “To exag gerate,” (exaggerate) means to describe something as being bigger than it reall y is, or more serious than it really is, to try to make a situation more serious or more dramatic, perhaps, than it really has to be. So, if you say, for example, “ It's so hot outside. It's a million degrees out there,” well, of course, it's not actua lly a million degrees. You're exaggerating. You're using language that makes some thing seem bigger than it really is. Georgina says, “Don't exaggerate. You mi ght be able to run home faster but not walk.” So Georgina is sort of agreeing with  Angel. Yes, she's driving very slowly, but it would not be faster to walk home, al though it might be faster to run home.  
+
+Now let’s listen to the dialogue this time at a nor mal speed  
+
+[start of dialog] 
+
+Angel:  Why are you driving at a snail’s pace? 
+
+Georgina: This is an infamous speed trap.  I don’t want to get a ticket – again. 
+
+Angel:  I don’t see any squad cars along the road.  Are you sure this is the right stretch of road? 
+
+Georgina: I’m sure.  Those cops are crafty.  They h ide out behind big rocks or a bend in the road, and as soon as you let your guard  down and go over the speed limit, they nab you.   
+
+Angel:  But you’re not exceeding the speed limit.  In fact, you’re driving way under the speed limit. 
+
+Georgina: You can’t be too careful.  You never know  if those speed guns are accurate, and I don’t want there to be any doubt th at I’m being a law-abiding citizen. 
+
+Angel:  But at this pace, we could get home faster if we walked! 
+
+Georgina: Don’t exaggerate.  You might be able to r un home faster, but not walk. 
+
+[end of dialog] 
+
+Our scripts are way better than any other scripts h ere on the Internet in the world of podcasting. That's because they're written by th e wonderful, the only, Dr. Lucy Tse. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. Copyright 2013 by the  Center for Educational Development.
+

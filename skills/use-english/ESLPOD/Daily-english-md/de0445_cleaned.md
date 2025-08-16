@@ -1,0 +1,82 @@
+# Problems with Drugs and Medical Devices
+
+Welcome to English as a Second Language Podcast number 4 45: Problems with Drugs and Medical Devices. 
+
+This is English as a Second Language Podcast episode 445.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Visit our website at eslpod.com.  Download a Learning Guide for this episode, an 8- to 10-page guide that contains all of the vocabulary,  definitions, sample sentences, additional definitions, cultural notes, compreh ension questions, and, best of all, a complete transcript of everything we say on  this episode. 
+
+This episode is called “Problems with Drugs and Medical De vices.”  It’s a conversation between Suzanne and Abdul using a lot of voca bulary that we might find in a hospital or in a medical situation.  L et’s get started. 
+
+[start of dialogue] 
+
+Suzanne:  Don’t take that!  I’m reading an article in the newspaper about all of the drugs and medical devices that have been recalled in t he past year and you wouldn’t believe how long this list is. 
+
+Abdul:  I’m just taking something for my headache.  I’m sure this medicine is fine. 
+
+Suzanne:  Don’t be so sure.  I’m just reading about thi s drug that was contaminated and before it was recalled, it caused 13 de aths.   
+
+Abdul:  Contaminated drugs are one in a million.  No w can I take my medicine? 
+
+Suzanne:  Listen to this.  Over 400 people had terrible  side effects before this drug was recalled, and a drug recalled six months ago cau ses birth defects. Here’s a medical device for people with heart problems t hat’s defective and eight people died as a result.   
+
+Abdul:  Okay, I’ve heard enough. 
+
+Suzanne:  No, wait, there’s more.  You’ve got to see th is list of alerts that the government issued warning people against over-the-counte r drugs like the one you’re about to take.  You’d better check to see if it’s o n this list. 
+
+ Abdul:  Don’t be ridiculous.  I’ve been taking this for months.  If there were something wrong with it, don’t you think the pharmaceu tical company would have taken out full-page ads in the papers? 
+
+Suzanne:  I doubt it.  Do you think they want to encoura ge litigation?   
+
+Abdul:  Here, you check it against that list.  If you fin d it on there, you can say you’ve saved my life! 
+
+[end of dialogue] 
+
+Our dialogue begins with Suzanne telling Abdul, “Don’ t take that!”  What she is talking about here is a pill that Abdul is about to swa llow.  We usually talk about drugs using the verb “to take” – “to take drugs,” “to ta ke your drugs.”  This means to, usually, to swallow a pill.  Suzanne says to Abdul, “D on’t take that!  I’m reading an article in the newspaper about all of the drugs and medical devices that have been recalled in the past year.”  “Drugs,” as yo u probably know, is just another word for medicine, usually chemical substances th at you swallow to make you feel better, although drugs can also refer to things that you get, for example, in a shot, when the doctor takes a needle and p uts it into your arm or other parts of your body.  “Medical devices” is a general t erm referring to a piece of electronics or other equipment that helps you do bet ter in terms of your health. For example, if you have a bad heart, you may have a “p acemaker,” which is a small electronic device they put into your body to help you r heart.  That’s a medical device.  To “recall,” in this case, means for a co mpany to say that there is some problem with their drug, or some problem with their medical device, or whatever they sell, and you need to bring it back to wher e you bought it and get a new one or get your money back.  These so-called “recall s” are not too common, but it does happen when a company makes something that they discover later is not safe.  They will do a recall – they will recall the  item.  “Recall” has a couple of different meanings in English; take a look at our Lear ning Guide for some additional explanations. 
+
+Well, Suzanne is worried about the drugs and medical de vices that have been recalled in the past year; she says, “you won’t believe ho w long this list is.”  The expression “you won’t believe” is often used when you are t elling someone something that you think is surprising.  Abdul, however, sa ys, “I’m just taking something for my headache.  I’m sure this medicine is fine .”  “Medicine,” again, is another word for drugs.  Suzanne says, “Don’t be so sure,”  meaning maybe you are wrong.  “I’m just reading about this drug that wa s contaminated and before it was recalled, it caused 13 deaths.”  To be “contaminated ” means that there is  
+
+ something dirty, something impure, or perhaps even poison ous in a food or a drug.  If a drug is contaminated it could hurt you, eve n kill you. 
+
+Abdul says, “Contaminated drugs are one in a million.”  The expression “one in a million” means very unusual, very rare, uncommon.  Abdul s ays, “Now can I take my medicine?”  Suzanne says, “Listen to this.  Over 400 peop le had terrible side effects before this drug was recalled.”  A “side effect” (two words) is an unintended consequence of something, that is to say, somet hing that happens that you didn’t mean to happen, especially when we are talking about drugs and medicine.  So for example, some drugs, when you take them , you become sleepy – you want to sleep.  Even though the drug isn’t d esigned to make you sleep, that is one of the side effects – one of the thin gs that happens in addition to what the drug is supposed to do.  Suzanne says, “a dru g recalled six months ago causes birth defects.”  “Birth” is when you are born,  when a little baby comes out of his or her mother.  A “defect” is something that  is wrong, something that is not right with a person or a thing.  Usually defects are  things that we refer to when we are talking about objects: “The chair has a def ect in it, one of the legs is too short.”  But, a “birth defect” is something that a baby is born with, some sort of health problem.  Suzanne says, “Here’s a medical device for people with heart problems that’s defective and eight people died as a res ult,” or because of the device.  “Defective” comes from the word “defect,” it mean s with a problem, not working correctly.   
+
+Abdul says, “Okay, I’ve heard enough,” meaning stop tellin g me this.  Suzanne, of course, says, “No, wait, there’s more (there’s more inf ormation I have to tell you).  You’ve got to see this list of alerts that the go vernment issued warning people against over-the-counter drugs.”  An “alert” (al ert) is a warning, a notification, an important message usually about a probl em.  A “warning” is similar to an alert; the verb is “to warn,” meaning to  tell someone about something bad or dangerous that might happen.  The exp ression “over-the- counter” refers to drugs that are sold in a store witho ut permission from a doctor, without what we would call a “prescription,” which is w hen the doctor has to give you specific permission to take a drug.  Some drugs, like fo r example aspirin, do not require a prescription; they are over-the-counter drugs.  The United States has a lot of over-the-counter drugs, and every country is different in terms of the number of over-the-counter drugs you might find.  One doctor from a European country told me that the U.S. has a lot more over-the-co unter drugs than other countries, but each country is different.   
+
+Suzanne says to Abdul, “You’d better check to see if it’s on  the list.”  Abdul says, “Don’t be ridiculous.  I’ve been taking this for months.  If there were something wrong with it, don’t you think the pharmaceutical compan y would have taken out  
+
+ full-page ads in the papers?”  A “pharmaceutical company ” is a company that makes drugs – that makes medicine.  Abdul is saying that i f there was a problem with the drug he is taking for his headache, the company  that makes the drug would have told people by, for example, taking out an a dvertisement in the newspaper.  Suzanne says, “I doubt it.  Do you think they w ant to encourage litigation?”  “Litigation” is legal action, a lawsuit.   When someone does something wrong to you and you try to get money from them, that  would be an example of litigation, something involving the courts and a judge .   
+
+Abdul says, “Here, you check it against that list.”  He’s aski ng Suzanne to look and see if the drug he is going to take is on the list.   To “check something against something” means to look for something on a list, to see  if it is on the list.  Abdul says, “If you find it there, you can say you’ve saved my life !” 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Suzanne:  Don’t take that!  I’m reading an article in the newspaper about all of the drugs and medical devices that have been recalled in t he past year and you wouldn’t believe how long this list is. 
+
+Abdul:  I’m just taking something for my headache.  I’m sure this medicine is fine. 
+
+Suzanne:  Don’t be so sure.  I’m just reading about thi s drug that was contaminated and before it was recalled, it caused 13 de aths.   
+
+Abdul:  Contaminated drugs are one in a million.  No w can I take my medicine? 
+
+Suzanne:  Listen to this.  Over 400 people had terrible  side effects before this drug was recalled, and a drug recalled six months ago cau ses birth defects. Here’s a medical device for people with heart problems t hat’s defective and eight people died as a result.   
+
+Abdul:  Okay, I’ve heard enough. 
+
+Suzanne:  No, wait, there’s more.  You’ve got to see th is list of alerts that the government issued warning people against over-the-counte r drugs like the one you’re about to take.  You’d better check to see if it’s o n this list. 
+
+ Abdul:  Don’t be ridiculous.  I’ve been taking this for months.  If there were something wrong with it, don’t you think the pharmaceu tical company would have taken out full-page ads in the papers? 
+
+Suzanne:  I doubt it.  Do you think they want to encoura ge litigation?   
+
+Abdul:  Here, you check it against that list.  If you fin d it on there, you can say you’ve saved my life! 
+
+[end of dialogue] 
+
+The script for this episode was written by a one in a mil lion scriptwriter, Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  Copyright 2009, by the Cen ter for Educational Development.
+

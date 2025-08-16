@@ -1,0 +1,102 @@
+# Being in Debt
+
+Welcome to English as a Second Language Podcast number 4 24: Being in Debt. 
+
+This is English as a Second Language Podcast episode 424.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in the beautiful City of Los Angeles, in the State of Cal ifornia, in the country of the U.S.A. 
+
+Visit our website at eslpod.com.  You can download a L earning Guide for this episode which contains all of the vocabulary, definitions,  sample sentences, additional definitions, cultural notes, comprehension qu estions, sodoku puzzles, and a complete transcript of this program. 
+
+This episode is a dialogue between Chang and Ilya about  being in debt (owing other people money), which is a common phenomenon (a com mon situation) nowadays.  Let’s get started. 
+
+[start of dialogue] 
+
+Chang:  I don’t mean to be nosey, but all of those bi lls are red or pink.  Are you behind on all of those bills? 
+
+Ilya:  I am, but it’s no big deal.  I can catch up on th em next month. 
+
+Chang:  You know that being late on bills is bad for yo ur credit score, right?  You also have to pay exorbitant interest if you have credit ca rd debt. 
+
+Ilya:  Don’t worry about it.  Everything will be fine. 
+
+Chang:  I’m only speaking from experience.  When I first started working, I had a loan that I defaulted on and I ran up my credit cards.   I had to borrow money from my family and friends to pay my bills.  I was so desperate at one point, I even went to see a loan shark. 
+
+Ilya:  Did he lend you money? 
+
+Chang:  I decided against borrowing money from him aft er talking to my brother about it.  With his help, I found a good credit counse lor and got my finances under control.  My two main creditors agreed to defer p ayment for a couple of months, but not before I sold my car and most of what I owned to raise money.    
+
+ Ilya:  Maybe I can do that. 
+
+Chang:  Do what? 
+
+Ilya:  Work with a credit counselor so I don’t have to p ay my bills. 
+
+Chang:  You’ve got it all wrong.  It took me years to p ay off those bills.  I just didn’t have debt collectors calling me at all hours of th e day, that’s all.  A little advice: A little restraint now will save you a lot of pai n. 
+
+Ilya:  Okay, okay.  I got the message.  Remind me never to  pay my bills in front of you again! 
+
+[end of dialogue] 
+
+Chang begins by saying “I don’t mean to be nosey.”  To b e “nosey” (nosey) means that you are asking questions about something that d oes not concern you; it’s not any of your business, we would say.  It’s not something you should be asking about.  But Chang asks anyway.  He says, “all of t hose bills are pink or red.”  In the U.S., when you are late paying your bill , say from the telephone company or the gas company, they will send you a bill, but  the ink will be in pink or red.  That means that you are late. 
+
+So, Ilya’s bills are all red or pink.  Chang says, “Are you  behind on all of those bills?”  To be “behind on” something is an expression whi ch means to be behind schedule, to be doing things later than when you shoul d be doing them.  So if the bill is due on October first and you don’t send it in un til October 15th, you are behind on your bills. 
+
+Ilya says, “I am (I am behind), but it’s no big deal (it ’s not important).  I can catch up on them next month (I can get back to where I should be next month).” Chang says, “You know that being late on bills is bad for  your credit score, right?” Here in the U.S., there are organizations that keep tr ack of how good you are in making your payments, and they give you a score which the ba nks will use.  If, for example, you want to get a loan, you have to have a good “credit score,” a good credit history.  You have to show that you pay your b ills on time. 
+
+Chang says, “You also have to pay exorbitant interest if you  have credit card debt.”  “Exorbitant” (exorbitant) means a number or an  amount of money that is much higher than normal, much higher than it should be , too high.  “Interest” is  
+
+ the amount of additional money that you have to pay whe n you borrow money from someone else.  It’s the price of that money that you  are borrowing.  If you borrow $1,000 from the bank at 10 percent interest, you  have to give the bank $1,100 (one thousand, one hundred dollars) back to pay f or the loan and the interest.  “Credit card debt” is when you owe some mone y to usually Visa or MasterCard or American Express or another credit card comp any.  “Debt,” in general” is money you owe to other people. 
+
+Ilya says, “Don’t worry about it.  Everything will be fine .”  Chang says, “I’m only speaking from experience.”  The expression to “speak from experience” means to give someone advice or tell someone how something works based upon your own experience with that situation.  Chang says, “When I first started working, I had a loan that I defaulted on and I ran up my credit  cards.”  A “loan” is the money that someone gives you, a bank or a person.  To “de fault” on a loan means not to make the payments that you are supposed to ma ke.  So if you borrow $1,000 and have to pay it back in 10 months, you w ould pay $100 a month – plus interest, of course.  To default on your l oan is to miss one of your payments or two of your payments.  This, of course, can cause  problems for you. 
+
+Chang also says he ran up his credit card.  To “run up” so mething means to spend a lot of money or to use a lot of something that one has to pay a lot.  So, “I ran up my credit card” means I charged a lot of things on  my credit cards.  Chang says, “I had to borrow (I had to ask someone for) money f rom my family and friends to pay my bills.  I was so desperate (I was so in a difficult situation) at one point, I even went to see a loan shark.”  A “loan shark” (shark) is someone who lends other people money but charges a very high intere st, and when those people don’t pay the money back they might use violence (or  hurt you) if you don’t pay them back.  That would be a “loan shark.” 
+
+Ilya said, “Did he (did the loan shark, and she’s assumin g it was a man – could have been a woman) – did he lend you money?”  To “lend ” means to give someone money or to give someone something else with the  understanding that that person will give that back to you.  “Lend” has a cou ple of different meanings in English, as does the expression to “run up.”  Where can  you find more information?  That’s right, our Learning Guide! 
+
+Chang says, “I decided against borrowing money (from the  loan shark) after talking to my brother about it.  With his help, I foun d a good credit counselor and got my finances under control.”  A “credit counselor” is a person who helps someone with a lot of debt, especially credit card debt , to fix the problem. Usually they make an agreement (an arrangement) with th e different companies,  
+
+ and they help the person pay back the money.  They don’t give them the money, but they help the person be organized and to come up wi th a plan to pay their debts off (to pay them back). 
+
+“My two main creditors,” Chang says, “agreed to defer pa yment for a couple of months.”  Your “creditor” is the person or organization to whom you owe money; it’s the person who lends you money.  Could be a bank, c ould be another person. To “defer” something means to wait until later before  you do it.  We might also say to “put it off,” to do it later than when it was o riginally scheduled.  So, Chang was deferring payment, he was going to pay them later than he was supposed to, but he had to sell his car and most of what he owned t o raise money.  To “raise money” means to get money for a specific purpose, usually fr om different sources.  You might work, you might ask somebody for anothe r loan; all of these would be ways of getting money (of raising money). 
+
+So, Ilya says, “Maybe I can do that.”  And Chang says, “Do what?” meaning what can you do.  Ilya says, “I can work with a credit counselor so I don’t have to pay my bills.”  Well, of course, this is not what a credit co unselor does.  Chang says, “You’ve got it all wrong,” meaning you are completely incorrect.  He says, “It took me years to pay off those bills.”  To “pay off” is a two- word phrasal verb meaning to give the money back to someone who has lent you money.  Chang says, “I just didn’t have debt collectors calling me at all hours of th e day.”  So, going to the credit counselor stopped the debt collectors from calling him.  A “debt collector” is a person or company whose job it is to get you to pay your bills, and what they’ll do is they’ll call you, and keep calling you, to remind you  to pay your bills. 
+
+Chang says, “A little advice: A little restraint now will  save you a lot of pain,” meaning a lot of pain later.  “Restraint” is when you  don’t do something even though you could.  To “show restraint” means I’m not goi ng to do something even though I could do it for some higher reason (for some  better reason). 
+
+Ilya says, “Okay, okay.  I got the message (I understand).  Re mind me never to pay my bills in front of you again!”  Of course, Ilya didn ’t really get the message, did she? 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Chang:  I don’t mean to be nosey, but all of those bi lls are red or pink.  Are you behind on all of those bills?  
+
+ Ilya:  I am, but it’s no big deal.  I can catch up on th em next month. 
+
+Chang:  You know that being late on bills is bad for yo ur credit score, right?  You also have to pay exorbitant interest if you have credit ca rd debt. 
+
+Ilya:  Don’t worry about it.  Everything will be fine. 
+
+Chang:  I’m only speaking from experience.  When I first started working, I had a loan that I defaulted on and I ran up my credit cards.   I had to borrow money from my family and friends to pay my bills.  I was so desperate at one point, I even went to see a loan shark. 
+
+Ilya:  Did he lend you money? 
+
+Chang:  I decided against borrowing money from him aft er talking to my brother about it.  With his help, I found a good credit counse lor and got my finances under control.  My two main creditors agreed to defer p ayment for a couple of months, but not before I sold my car and most of what I owned to raise money.   
+
+Ilya:  Maybe I can do that. 
+
+Chang:  Do what? 
+
+Ilya:  Work with a credit counselor so I don’t have to p ay my bills. 
+
+Chang:  You’ve got it all wrong.  It took me years to p ay off those bills.  I just didn’t have debt collectors calling me at all hours of th e day, that’s all.  A little advice: A little restraint now will save you a lot of pai n. 
+
+Ilya:  Okay, okay.  I got the message.  Remind me never to  pay my bills in front of you again! 
+
+[end of dialogue] 
+
+Our script today was written by Dr. Lucy Tse, who is never b ehind on writing her scripts!   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+ English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  This podcast is copyright 2008 .
+

@@ -1,0 +1,96 @@
+# Making an Emergency Medical Call
+
+Welcome to English as a Second Language Podcast number 4 53: Making an Emergency Medical Call. 
+
+This is English as a Second Language Podcast number 453.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in (guess where?) beautiful Los Angeles, California. 
+
+In case you don’t know, we have a website; it’s at eslpod.c om.  If you go there, you can download this episode’s Learning Guide, which wil l help you improve your English.  It will also make you stronger and more b eautiful! 
+
+This episode is called “Making an Emergency Medical Call.”  It’s a telephone conversation between an “emergency operator” (somebody wh o answers the phone calls for the government’s police and fire emergen cy system) and someone who has an emergency.  Let’s get started. 
+
+[start of dialogue] 
+
+Operator:  Emergency operator.  State your emergency. 
+
+Dirk:  We need an ambulance right away. 
+
+Operator:  What is your name? 
+
+Dirk:  Dirk, Dirk Omora. 
+
+Operator:  Can you tell me what happened? 
+
+Dirk:  There was a car accident. 
+
+Operator:  Where are you? 
+
+Dirk:  I’m not sure.  I was driving in my car when I saw the pileup.  I’m somewhere on Blossom Road.  Can you trace my location? 
+
+Operator:  Yes, we’ll try to do that.  Can you see if  anyone is hurt? 
+
+Dirk:  One of the drivers is lying on the ground unconsciou s, and the other one is bleeding.  There’s someone trapped in the back of her c ar, too.  We need to rescue her before the car explodes!  I’m going to see if  I can help.  
+
+ Operator:  Sir, I need you to stay on the line.  I’m se nding an ambulance right now, and they’ll have the Jaws of Life and other equipm ent to do the job.  The paramedics will be there very soon. 
+
+Dirk:  Okay, but hurry! 
+
+[end of dialogue] 
+
+In the United States when you have an emergency, you dia l three numbers on your telephone: 9-1-1.  So, this is a case where someone calls 9-1-1 and the operator answers saying, “Emergency operator.”  An “emerg ency” is an unexpected situation that is dangerous or very serious; it’ s something that you have to react to right away.  The operator says to Dirk, the person calling, “State your emergency.”  To “state” here means to say something, to give the information.  If you go, for example, to a court in the United States, the judge may ask you: “State your name,” meaning tell me what your na me is.  “State” has several meanings in English; take a look at our Learning Guide for a complete explanation. 
+
+Dirk says, “We need an ambulance right away.”  An “ambul ance” is a special car (a van) that is driven usually very quickly, with loud noises and bright lights, to help people who have urgent or emergency medical condit ions.  The ambulance goes and picks the person up and takes them to the nearest hospital.  The ambulance is allowed to go faster than anyone else, and if you hear or see an ambulance that has its lights on and is making noises with what we would call the “sirens” of the ambulance, you are required in the U.S.  to stop your car, to move it to the side of the road so the ambulance can go thro ugh. 
+
+Well, Dirk says they need an ambulance right away.  The op erator says, “What is your name?”  Dirk says, “Dirk, Dirk Omora.”  The operator then says, “Can you tell me what happened?”  The operator is asking for mo re specific information. Dirk says, “There was a car accident.”  A “car accident” is a collision (or a crash) between two or more cars, when one car hits another car  or when one car hits an object, like a tree for example.   
+
+The operator says, “Where are you?”  Dirk says, “I’m not su re.  I was driving in my car when I saw the pileup.”  A “pileup” is a large, serious car accident that involves many different cars.  For example, if it is very icy o n the freeway, or if there is a lot of fog and it is difficult for drivers t o see, one car could hit the car in front of it, then the car behind it hits that car, the n another car, then another car. Sometimes these pileups can be 20, 30, 50, or more cars.   Usually this is caused  
+
+ in part because people are driving too close to each othe r, but sometimes it’s simply because of bad weather. 
+
+Dirk says that he was driving in his car when he saw this pil eup.  He says he’s somewhere on Blossom Road.  He then asks the operator, “C an you trace my location?”  To “trace” (trace) means to figure out wher e something is or where something is coming from.  In the U.S., if you are call ing from a phone that is in your house or at a building and you call 9-1-1, usually they know exactly where you are – they can tell where you are.  If you have a cell  phone it is, of course, much more difficult, although now in many places they can also figure out approximately where you are, even when you have a cell ph one. 
+
+The operator says, “Yes, we’ll try to do that” (we can tr ace your location).  She says, “Can you see if anyone is hurt?”  To be “hurt” means to be injured.  You break your leg, you break your arm, maybe you hit your he ad; those would be “injuries.”  Dirk says, “One of the drivers is lying on the ground unconscious, and the other one is bleeding.”  To be “unconscious” means t hat you’re not aware of what is around you.  Usually your eyes are closed, you can’t h ear anyone; it’s basically like being asleep, but it’s often caused because yo u hit your head hard against something. 
+
+Well, one person is unconscious on the road (on the gro und), and one is bleeding.  To “bleed” (bleed) means to lose blood, wh en blood is coming out of your body – that red liquid that comes out of your bod y if you cut yourself, for example.  Dirk says, “There’s someone trapped in the back o f her car, too.”  To be “trapped” means to be somewhere where you can’t move , you can’t get out, you can’t leave a place usually because something is in your way – a person or a thing.  “Trap” can also be a noun.  If somebody says, “thi s is a trap,” they mean someone is trying to get us in trouble or cause us problem s on purpose in order to do something bad to us afterwards.  Here, it means to be unable to move, not to be able to leave a place. 
+
+So, there’s someone trapped in the back of the car.  Dir k says, “We need to rescue her before the car explodes!”  Sounds like a televi sion program!  “We need to rescue her.”  To “rescue” someone means to save so meone, to help someone get out of a difficult or dangerous situation.  The person is trapped in the back of the car, and because there is gasoline in th e car, when there’s an accident there’s a danger that the car might catch on fi re – might explode.  To “explode” means to make a large noise and to break into smaller pieces usually with fire, and in this case, that’s what would be the situation: the car could catch on fire. 
+
+ Dirk says, “I’m going to see if I can help.”  The operato r then says, “Sir, I need you to stay on the line.”  To “stay on the line” means n ot to hang up the phone, not to stop or disconnect your phone connection, to conti nue to talk to someone and not leave to do something else.  So, the operator  is saying I need you to stay on your phone – to stay on the line.  “I’m sending an ambulance right now, and they’ll have the Jaws of Life and other equipment to do  the job.”  The “Jaws of Life” is a large machine that can cut a hole in somethi ng to help people get out of a car, for example, after a serious accident.  So, it’s a  special machine.  The operator is sending this machine and other equipment to  do the job.  “To do the job” means to do something well, to do something correct ly.  The operator says, “The paramedics will be there very soon.”  A “paramedic”  is a person who is not a nurse or a doctor, but who is trained to help people in medical emergencies, someone who picks them up in the ambulance and then take s them back to the hospital.  One of my brother-in-laws is a paramedic (wor ks in an ambulance). 
+
+Finally Dirk says, “Okay, but hurry!”  To “hurry” means to d o something quickly, to rush, to get it done right away. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Operator:  Emergency operator.  State your emergency. 
+
+Dirk:  We need an ambulance right away. 
+
+Operator:  What is your name? 
+
+Dirk:  Dirk, Dirk Omora. 
+
+Operator:  Can you tell me what happened? 
+
+Dirk:  There was a car accident. 
+
+Operator:  Where are you? 
+
+Dirk:  I’m not sure.  I was driving in my car when I saw the pileup.  I’m somewhere on Blossom Road.  Can you trace my location? 
+
+Operator:  Yes, we’ll try to do that.  Can you see if  anyone is hurt? 
+
+ Dirk:  One of the drivers is lying on the ground unconsciou s, and the other one is bleeding.  There’s someone trapped in the back of her c ar, too.  We need to rescue her before the car explodes!  I’m going to see if  I can help. 
+
+Operator:  Sir, I need you to stay on the line.  I’m se nding an ambulance right now, and they’ll have the Jaws of Life and other equipm ent to do the job.  The paramedics will be there very soon. 
+
+Dirk:  Okay, but hurry! 
+
+[end of dialogue] 
+
+I will now state the name of the person who wrote th is episode: Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  Copyright 2009, by the Cen ter for Educational Development.
+

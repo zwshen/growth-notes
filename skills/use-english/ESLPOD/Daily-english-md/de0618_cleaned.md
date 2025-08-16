@@ -1,0 +1,102 @@
+# Eating at a Casual Restaurant
+
+Welcome to English as a Second Language Podcast number 6 18: Eating at a Casual Restaurant.     
+
+This is English as a Second Language Podcast episode 618.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode.  If you are serious in improving your English, t hen you’ll want to look at our Learning Guide. 
+
+This episode is called “Eating at a Casual Restaurant.”  It’s a dialogue between Russell and Nadia using vocabulary you associate with eating at a casual or less expensive restaurant.  Let’s get started. 
+
+[start of dialogue] 
+
+Russell:  Why aren’t you eating?  Is there something the matter with your food? 
+
+Nadia:  No, the food is fine.   
+
+Russell:  What’s wrong?   
+
+Nadia:  I’m not sure how to put this.  I really like go ing to diners and hole in the walls with you, and I love mom and pop restaurants as much  as you do.  For me, it’s the food that counts, not the ambiance, but… 
+
+Russell:  I thought you’d love this place.  It’s my favorite  greasy spoon.   
+
+Nadia:  I do like it.  It’s just that when you invited m e out for my birthday and said that it would be something really special, I thought you  might take me somewhere else. 
+
+Russell:  Is that why you wore that nice new dress?  You t hought I was taking you to a fancy restaurant, with tablecloths, mood lightin g, and snooty waiters. 
+
+Nadia:  Well… 
+
+ Russell:  This is much better, don’t you think?  We get to  sit in this comfortable booth, listen to the jukebox, and watch our food being  cooked behind the counter.  I can’t think of a better dining experience.  Don’t you agree? 
+
+Nadia:  Uh, sure. 
+
+Russell:  And don’t think you’re not getting something special for your birthday.  I planned it all ahead of time. 
+
+Nadia:  You did?  Really?  What is it? 
+
+Russell:  I ordered you a whole pie! 
+
+[end of dialogue] 
+
+Russell begins our dialogue by asking Nadia, “Why aren’t y ou eating?  Is there something the matter with your food?”  The expression “ something the matter with” means a problem with something, something that isn’t right, something isn’t correct.  This is a very common expression in American English:  “Is there’s something the matter with you?”  That means is there som ething wrong with you, is there a problem.  Or you might say, “There’s something  the matter with the television.  It isn’t working correctly.”  It’s a good expre ssion to know; it is very common in conversational English. 
+
+Nadia says, answering Russell’s question, “No, the food is f ine.”  The food is okay.  Russell then says, “What’s wrong?”  Nadia says, “I’m no t sure how to put this.”  The phrase “how to put this” or “how to put it ” is used when you want to say something but you are afraid that what you are goin g to say will hurt the other person’s feelings or that it will make them angry or upset.  So you might say, “Well, I don’t know how to put this, but you should really not wear that dress. It doesn’t look good on you.”  Husbands, I recommend thi s with your wives.  You should just tell them that they don’t look good in thei r dresses.  I’m kidding, of course.  If you believe that you won’t be married very l ong!   
+
+Nadia says, “I really like going to diners and hole in th e walls with you, and I love mom and pop restaurants as much as you do.”  Nadia describ es three kinds of restaurants, similar kinds of informal, casual, less expensive restaurants.  The first is a diner.  A “diner” typically has a kitchen that i s somewhat in the open; you can see it.  There’s typically a long what we would call a  “counter,” which is a place where people can sit, sort of like a bar where the re’s a long piece of wood – a long piece of furniture that everyone sits in fron t of.  In other words, it’s not  
+
+ like a table, where you sit on one side and I sit on the  other.  Now, diners will also have tables.  Sometimes they’ll have a special kind of tabl e, which we call a “booth.”  Actually, what’s special about it is the seats.  Instead of being individual chairs, a booth has sort of like a little couch on each side  of the table.   
+
+Well, anyway.  Diners serve informal, inexpensive meals.  D iners are often associated with the 1950s and 60s.  That’s when they were very popular, when America started driving and diners were places you could dr ive to and eat and get a cheap meal.  A “hole in the wall” describes any bu siness, including a restaurant, that doesn’t look very nice, especially from t he outside, and is not expensive or fancy.  A hole in the wall could be a bar, i t could be a restaurant, it’s an informal place.  Somewhat of a negative description:  a hole (hole) in the wall. A “mom and pop” business refers to any business that is typica lly owned by a family, usually a mother and a father.  “Mom” is mother ; “pop” is a old word for father – dad.  But we don’t say “a mom and dad store, ” we say “a mom and pop store,” any business, restaurant, store that is owned by a f amily – a small family. It’s their business; both mother and father, and often children work in the business. 
+
+So, Nadia says that she likes going to diners and hole in the walls and mom and pop restaurants.  “For me,” she says, “it’s the food that counts, not the ambiance.”  “The food that counts” is a form of a more  general expression: “it’s the (something) that counts.”  This phrase is used to sho w that one particular thing is what is really important, what really matters.  For some people, if they go on vacation they don’t care about how much it costs, they d on’t care about what kind of room they have at the hotel, it’s the temperatu re – it’s the weather that counts.  That’s the most important for them, that it be  warm for example.  Well that’s what Nadia is saying, the most important thing i s the food at a restaurant, not the ambiance.  I should mention that there are som e other meanings coming from that expression, “it’s the (something) that counts,” and those can be found in the Learning Guide.  Getting back to “ambiance” (amb iance), that’s a general word to describe the environment, or more specifically her e, the way that a place looks, especially a restaurant or a bar.  How it feels, wh at kind of lighting it has, what the furniture is like, all of these things are par t of the ambiance.   
+
+So you can get the idea here that Nadia is probably goi ng to complain about the ambiance, even though she says the food is the most import ant thing, because at the end of this sentence she says “but…” – “it’s the food th at counts, not the ambiance, but…” and Russell says, “I thought you’d love thi s place (meaning I thought you would love this place).  It’s my favorite gr easy spoon.”  A “greasy (greasy) spoon,” like the spoon you eat with, is a small r estaurant that serves  
+
+ informal foods, so it’s similar to the other expressions we  used, but specifically it often serves fried foods such as hamburgers and French fr ies.  Well, hamburgers aren’t fried, but the French fries are.  That’s what a greasy spoon is.  “Grease” is another word here for “fat.”  It’s usually a negative w ay of describing a restaurant. 
+
+Russell says that it’s his favorite greasy spoon, the restauran t where they are now.  Nadia says, “I do like it.  It’s just that” – this i s another way of saying “however” – “It’s just that when you invited me out for  my birthday and said that it would be something really special (really nice), I though t you might take me somewhere else.” 
+
+Russell says, “Is that why you wore that nice new dress?  You thought I was taking you to a fancy restaurant.”  “Fancy” (fancy) means ve ry nice, very expensive.  A fancy restaurant would have, for example, “ tablecloths” on the tables.  This is a piece of material – a piece of cloth yo u put on top of the table to make it look nice, typically white.  You might also find m ood (mood) lighting. “Mood lighting” is when the lights are used to create a  certain atmosphere – a certain ambiance.  Often the lights are lower than the y would be, less bright for example.  A fancy restaurant might also have snooty waiter s.  “Snooty” (snooty) is a good word.  Someone who is snooty is someone who th inks they are better than other people, and therefore does not treat the other people very well.  I say it’s a good word not because it’s a good word to describ e someone, it’s a negative way of describing someone, but it’s a common word .  Other words that mean something similar are “snobby” (snobby), and more informally “stuck-up” (stuck-up).  All of these are describing someone who thinks they are better than the other people around them and doesn’t treat them  very well.  So, a fancy restaurant might have snooty “waiters,” the people who co me and ask what you want to eat and bring you your food. 
+
+Nadia says, “Well…”  Russell then replies, “This is much bett er, don’t you think? We get to sit in this comfortable booth,” remember the  booth is where you have two something like small couches, although they are usuall y made from plastic, around the sides of the table.  Russell says, “We get to si t in this comfortable booth, listen to the jukebox, and watch our food being  cooked behind the counter.”  A “jukebox” (jukebox – one word) is a large ma chine that you put money into and it will play a song for you.  Some bars a nd restaurants have jukeboxes, especially diners that we talked about earlier.   A “counter,” we also talked about earlier, is like a very long table where t he people sit on one side and on the other side there is usually part of the kitchen, a nd there is a waiter or waitress that works on the other side of the counter, so e veryone is facing the same direction.  That’s a counter.    
+
+ Russell says, “I can’t think of a better dining experience ( a better place to eat). Don’t you agree?”  Nadia, of course, does not agree, bu t she wants to be nice to Russell.  She says, “Uh, sure.”  Russell says, “And don’t thi nk you’re not getting something special for your birthday.  I planned it all ahead of time (I planned it all in advance).”  “Ahead of time” means before something  happens.  Nadia gets excited about this special thing she’s going to get.  She says, “You did?  Really? What is it?”  And Russell, very disappointingly says, from  Nadia’s perspective, “I ordered you a whole pie!” (pie), which is a dessert mad e usually by baking fruit in a round container that has what we would call “pastry”  or dough on the bottom and on the top.  There are different ways of making pi es.  Of course, a pie is not really what Nadia was hoping for in terms of a special g ift.  So Russell, we think, clearly needs to understand women better! 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Russell:  Why aren’t you eating?  Is there something the matter with your food? 
+
+Nadia:  No, the food is fine.   
+
+Russell:  What’s wrong?   
+
+Nadia:  I’m not sure how to put this.  I really like go ing to diners and hole in the walls with you, and I love mom and pop restaurants as much  as you do.  For me, it’s the food that counts, not the ambiance, but… 
+
+Russell:  I thought you’d love this place.  It’s my favorite  greasy spoon.   
+
+Nadia:  I do like it.  It’s just that when you invited m e out for my birthday and said that it would be something really special, I thought you  might take me somewhere else. 
+
+Russell:  Is that why you wore that nice new dress?  You t hought I was taking you to a fancy restaurant, with tablecloths, mood lightin g, and snooty waiters. 
+
+Nadia:  Well… 
+
+ Russell:  This is much better, don’t you think?  We get to  sit in this comfortable booth, listen to the jukebox, and watch our food being  cooked behind the counter.  I can’t think of a better dining experience.  Don’t you agree? 
+
+Nadia:  Uh, sure. 
+
+Russell:  And don’t think you’re not getting something special for your birthday.  I planned it all ahead of time. 
+
+Nadia:  You did?  Really?  What is it? 
+
+Russell:  I ordered you a whole pie! 
+
+[end of dialogue] 
+
+There’s nothing the matter with today’s script.  That’s because it was written by our own Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

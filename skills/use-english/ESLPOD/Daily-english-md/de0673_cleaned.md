@@ -1,0 +1,96 @@
+# Walking or Running as Exercise
+
+Welcome to English as a Second Language Podcast num ber 673: Walking or Running as an Exercise. 
+
+This is English as a Second Language Podcast episod e 673.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com, you probably know that.  But did you know we also have Learning Guides for all of our current episode  on our website that you can download?  You knew that too, huh?  Okay.  You thin k you’re pretty smart, don’t you?!   
+
+This episode is called “Walking or Running as Exerc ise.”  Let’s get started. 
+
+[start of dialogue] 
+
+Reina:  Okay, I’m ready to walk my way to better fi tness! 
+
+Lars:  I’m glad you’re so enthusiastic about starti ng to exercise.   
+
+Reina:  I’m totally psyched!  Check out my new tenn is shoes.   
+
+Lars:  They’re brand new?  You haven’t broken them in yet?  I hope you don’t get blisters. 
+
+Reina:  Stop worrying.  Let’s go, I’m ready to work  up a sweat! 
+
+Lars:  Wait.  There are a few things you need to kn ow before we start.  It’s a good idea to stretch and to warm up to avoid injuri es. 
+
+Reina:  I stretched already and as soon as we get s tarted, I’ll warm up slowly. Let’s go! 
+
+Lars:  All right, here we go, nice and slow. 
+
+Reina:  Come on!  How are we supposed to increase o ur heart rate if we walk this slowly?  Pick up the pace! 
+
+Lars:  I don’t want to get shin splints.  It’s impo rtant that we start slowly and maintain a low-impact workout.  
+
+ Reina:  Forget it!  I’ll race you.  The last one to  the park buys lunch.  Ready, set, go! 
+
+Lars:  Wait! 
+
+[end of dialogue] 
+
+Reina begins our dialogue by saying to Lars, “Okay,  I’m ready to walk my way to better fitness!”  “Fitness” is the level of your he alth and your strength, your ability to complete certain physical activities without a l ot of difficulty.  If you have problems walking up 10 stairs you may need to work on your fitness; you may need to exercise – to do exercises.  Reina’s going to walk her way to better fitness, meaning she’s going to help her health and  her strength by walking; that’s her way – her method. 
+
+Lars says, “I’m glad you’re so enthusiastic about s tarting to exercise.”  To exercise,” of course, is to do some physical activi ty that will make your body stronger or healthier.  Reina says, “I’m totally ps yched!”  “To be psyched” (psyched) is an informal expression meaning to be v ery excited about something, to be very eager and enthusiastic to do something.  When it means this, it always ends in “ed” – “psyched.”  The word “psych” has oth er meanings, which are not found in our Learning Guide – not this one anyway.  Reina says, “Check out my new tennis shoes.”  “Tennis” is a game, but “tennis  shoes” are a kind of shoes that you can wear when playing tennis but you can a lso wear them for other sports.  It’s a type of shoe you would wear to part icipate in different physical or sporting activities, so it’s not just for tennis.  When spoken normally the two words run together so it sounds like “tennis-shoes. ”  Informally, you might even hear someone talk about their “tennies,” meaning th eir tennis shoes.   
+
+Lars says, “They’re brand new (referring to the ten nis shoes)?”  “To be brand new” means to be recently purchased; you bought the m yesterday or this morning.  They’ve never been used before, that’s an other meaning here of “brand new.”  Lars says, “You haven’t broken them i n yet?”  “To break (something) in,” or “to break in (something)” is a two-word phrasal verb meaning to wear something, especially shoes, for short peri ods of time until your feet get used to the shoes, until the shoes begin to perhaps  loosen up a little bit so that it isn’t uncomfortable to walk in them.  So when you b uy a new pair of shoes you may wear them the first day for a couple of hours, the second and third day for a couple of hours until gradually you’re wearing them  all the time, a little bit more each day.  There are other meanings of this express ion “to break in,” those can be found in our Learning Guide.  You see, those you  can actually find in the  
+
+Learning Guide!  Lars continues, “I hope you don’t get blisters.”  A “blister” (blister) is a small, usually painful, raised area of skin that is filled usually with some sort of clear liquid.  It’s caused when you ru b a certain part of your body against something for a long time.  So if you’re we aring shoes that are too small for you, the shoes will rub against your skin and y ou will get blisters. 
+
+Reina says, “Stop worrying.”  She’s not going to ge t blisters, that’s which she’s implying.  She says, “Let’s go, I’m ready to work u p a sweat!”  The expression “to work up a sweat” means to do very difficult physica l activity that will result or that will have the cause of water coming out of your ski n.  When that happens, or when you’re very hot, we say you are “sweating.”  T hat’s what Reina wants to do; she wants to sweat – to work up a sweat. 
+
+Lars says, “Wait.  There are a few things you need to know before we start.  It’s a good idea to stretch and to warm up to avoid injuri es.”  “To stretch” (stretch) here means to move the different parts of your body – yo ur arms and your legs, for example – in sort of unusual ways so that the muscl es begin to work, so that your muscles are more flexible.  You might put your hand s up in the air or put one hand against the other and start to pull.  That wou ld be stretching.  You’ll often see athletes stretch before they participate in the ir sport.  The theory is – and not everyone agrees this is true – but the theory is by  stretching you will avoid injuries, meaning you won’t hurt yourself.  For oth er meanings of the word “stretch” take a look at that Learning Guide.  “To warm up” means to do a physical activity gently or slowly for the first fe w minutes.  So for example, if you are going to go running you may run slowly for the first four or five minutes until your body and muscles start getting used to what yo u are doing, and then you may start running faster. 
+
+Reina says, “I stretched already and as soon as we get started, I’ll warm up slowly.  Let’s go!”  Reina just wants to start.  La rs says, “All right, here we go, nice and slow,” meaning very slowly, comfortably.  Reina says, “Come on!”  That expression, “come on,” when shouted at someone, can  mean that you are frustrated with them or it could mean that you want  them to go faster.  Reina probably has a little bit of both of those meanings .  She says, “How are we supposed to increase our heart rate if we walk this  slowly?  Pick up the pace!” Your “heart rate” is the speed at which your heart “beats” (beats), which is the verb we use for the movements of the heart – the mo vements that the heart muscle makes.  “To increase your heart rate” means that your heart will start beating faster; it will start working harder.   
+
+Reina wants Lars to pick up the pace (pace).  “To p ick up the pace” means to begin to do something more quickly, to move more qu ickly, to hurry.  Lars says, “I  
+
+don’t want to get shin splints.”  Your “shin” (shin ) is the part of your leg – the front of your leg between your knee and your foot.  “Shin  splints” is a condition where you experience pain in that part of your body, ofte n caused by running on very hard surfaces or wearing shoes that are not appropr iate, that aren’t good for running.  Lars says, “It’s important that we start slowly and maintain a low-impact workout.”  “Low-impact” is an exercise that doesn’t  require that your body be moving or jumping or running on a hard surface; it’ s also a general term for exercise that isn’t very difficult, it’s sort of ea sier than doing other kinds of exercise.  The noun “workout” is a session or a sho rt period of time of doing some sort of physical activity, especially if you d o it regularly.  I work out Monday through Friday by walking every morning; that’s my workout.  Notice I also used “work out” (two words) as a verb, meaning to exerci se.  Here it’s used as a noun; it means that period of time when you are exercisin g. 
+
+So Lars wants to do a low-impact workout.  Reina sa ys, “Forget it!” meaning I’m frustrated with you, I’m tired of you, I’m not goin g to do that.  Reina says, “I’ll race you.”  “To race (someone)” is to see who can run, i n this case, the fastest, who can do the activity the quickest.  Reina says, “The  last one to the park buys lunch,” meaning they’re going to race – they’re goi ng to compete against each other, and the last person to arrive at the park wh ere they’re going in their run or walk has to buy lunch.  If you lose, in other words , you have to buy lunch.  Reina says, “Ready, set, go!”  These three words are trad itionally used to begin a race. “Ready, set, go,” and then you begin after the word  “go.”  It’s sort of like “three, two, one,” but we use this expression, at least in American English, “ready, set, go.”   
+
+We’re not sure, in this dialogue, if Lars is lazy o r Reina is not too smart and may injure herself! 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Reina:  Okay, I’m ready to walk my way to better fi tness! 
+
+Lars:  I’m glad you’re so enthusiastic about starti ng to exercise.   
+
+Reina:  I’m totally psyched!  Check out my new tenn is shoes.   
+
+Lars:  They’re brand new?  You haven’t broken them in yet?  I hope you don’t get blisters. 
+
+Reina:  Stop worrying.  Let’s go, I’m ready to work  up a sweat! 
+
+Lars:  Wait.  There are a few things you need to kn ow before we start.  It’s a good idea to stretch and to warm up to avoid injuri es. 
+
+Reina:  I stretched already and as soon as we get s tarted, I’ll warm up slowly. Let’s go! 
+
+Lars:  All right, here we go, nice and slow. 
+
+Reina:  Come on!  How are we supposed to increase o ur heart rate if we walk this slowly?  Pick up the pace! 
+
+Lars:  I don’t want to get shin splints.  It’s impo rtant that we start slowly and maintain a low-impact workout. 
+
+Reina:  Forget it!  I’ll race you.  The last one to  the park buys lunch.  Ready, set, go! 
+
+Lars:  Wait! 
+
+[end of dialogue] 
+
+Our dialogues are always brand new; that’s because they’re written by our own scriptwriter, Dr. Lucy Tse.  Thank you, Lucy.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again, won’t you, on ESL Podc ast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

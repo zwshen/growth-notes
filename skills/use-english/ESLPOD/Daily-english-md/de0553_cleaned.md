@@ -1,0 +1,66 @@
+# A Homeowners¡¦ Association
+
+Welcome to English as a Second Language Podcast number 5 53: A Homeowners’ Association. 
+
+This is English as a Second Language Podcast episode 553.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Go to our website at eslpod.com and consider supporting t his podcast by becoming a member of ESL Podcast and getting our Learn ing Guides for these episodes, or by making a small donation. 
+
+This episode is called “A Homeowners’ Association.”  It’s a  dialogue between Cuca and Emiliano using some information about being i n a situation, perhaps a difficult situation, when you are in an organization of  homeowners.  Let’s get started. 
+
+[start of dialogue] 
+
+Cuca:  What possessed you to agree to become the head of the homeowners’ association? 
+
+Emiliano:  I’m just tired of all of the waste and not  having a say.  Our dues keep going up and there seems to be special assessments every year.   I’m not even sure the association is following the bylaws anymore.  I ju st felt I had to step up.   
+
+Cuca:  That’s really admirable, but I hope you know what  you’re getting into. There’s been a lot of mismanagement, and you’ll have to  do battle with some entrenched members.  They’re not going to look kindly on the tough questions you’ll be asking.   
+
+Emiliano:  Believe me, I’m not looking forward to it,  but it’s got to be done.   
+
+Cuca:  Talk about a thankless job. 
+
+Emiliano:  Don’t I know it.  I guess I’m just a glutto n for punishment! 
+
+[end of dialogue] 
+
+Our dialogue begins with Cuca asking Emiliano, “What po ssessed you to agree to become the head of the homeowners’ association?”  The  expression “what  
+
+ possessed you to (do something)” is an informal phrase we use to ask why someone did something that seems strange, unexpected, even irrational or illogical.  We might also say, “Why on earth did you (do  something)?”  Cuca says, “What possessed you to agree to become the head (the lea der) of the homeowners’ association?”  A “homeowners’ association” is an  organization of people who all own houses or condominiums in a partic ular area, and this association enforces some certain rules that everyone has to follow on this property.  Homeowners’ associations also take care of what are called “common areas,” places everyone can use, such as a pool for example. 
+
+Cuca doesn’t seem to understand why Emiliano wanted to be head of the homeowners’ association.  Emiliano said, “I’m just tired  of all of the waste and not having a say.”  “Waste” is using too much of something, usi ng more of something than is necessary, especially when we’re talking about mon ey or time or other resources.  Emiliano is tired of all the waste and “not having a say,” meaning not being able to give your opinion or your ideas.  This is e specially true when we’re talking about a group or an organization; you want eve ryone to have a say, meaning be able to participate, give their opinion.  Emiliano says, “Our dues keep going up.”  “Dues” (dues), as a noun, is money that you h ave to pay to an organization to belong to it.  “Due” (due) has several  different meanings in English however; take a look at the Learning Guide for those 
+
+Emiliano says, “There seems to be special assessments every yea r.”  An “assessment” is money that people in the organization – in  the homeowners’ association have to pay, usually in what we call a “one-t ime fee,” meaning you pay it once, but it’s not something you normally have to p ay.  So if the homeowners’ association was going to put in a brand new pool, it might have a special assessment to pay for the pool.  You would only pay it once; it wouldn’t be part of your regular yearly dues, that’s why we say it’ s a “special assessment.” Sometimes cities will make their homeowners (people wh o own homes in the city) pay a special assessment if they are, for example puttin g in new light poles or improving the roads.  There are special assessments that  property owners (people who own a home) have to pay.  Emiliano says, “I’ m not even sure the association is following the bylaws anymore.”  The “bylaws” (bylaws) are the official rules for an organization.  Usually when you crea te an organization, or a new business organization, you create bylaws that tell you what you’re going to do, how your company is organized, and so forth.  Someti mes the state will require you to have bylaws for your organization.  Emili ano says, “I just felt (I just thought or believed) I had to step up.”  The phrasal verb “to step up” means to volunteer or agree to do something, especially when nob ody else wants to do it because it’s unpleasant or it’s a difficult job. 
+
+ So, Emiliano wanted to step up; he wanted to voluntee r and do the difficult work. Cuca says, “That’s really admirable.”  Something that is “ admirable” is something that you can “admire,” that is, that you have a good im pression of, that you think is very good.  It’s admirable, Cuca says, that you are stepp ing up to be the head of the homeowners’ association, “but,” she says, “I hope yo u know what you’re getting into,” meaning I hope you understand what th is involves, what this requires you to do.  “There’s been a lot of mismanage ment, and you’ll have to do battle with some entrenched members.”  A couple of thi ngs there: “There’s been a lot of mismanagement.”  “Management” is running an  organization; “mismanagement” is doing a very bad job at running an o rganization or a business or a company.  Mismanagement – not doing it very w ell, not managing very well.  “To do battle” means to fight, to argue wi th, to be in opposition to something or someone, usually someone.  “I’m going to do  battle with my boss” means I’m going to have an argument with my boss; we’re  going to disagree with each other about something.   
+
+Cuca says Emiliano will have to do battle with some entre nched members. “Entrenched” means having a very strong opinion or positio n about something, especially if you’ve had that position or opinion for a l ong time and you don’t want to change it.  That would be an entrenched position.  So an “entrenched member” would be other people in the organization w ho will not want to change their mind.  Cuca says, “They’re not going to look kindly on the tough questions you’ll be asking.”  “To look kindly on” means to understa nd, appreciate, to think that it is good, to like something: “The girl looked kindly on the boys who opened the door for her so she could walk in.”  “People don’t look kindly on a government that is full of waste and mismanagement.”  In this case,  Cuca’s saying that these other members are not going to like the tough question s Emiliano will be asking. “Tough” means difficult or challenging; so “tough quest ions” would be things that may be difficult for the other person to answer, or pe rhaps embarrassing. 
+
+Emiliano says, “Believe me (meaning trust me), I’m not l ooking forward to it, but it’s got to be done (it has to be done).”  Cuca says, “Ta lk about a thankless job.” The phrase “talk about” is used to give emphasis on whate ver comes next; it’s used to show that this is a particularly good example of something else.  For example: “I went to see the new Star Trek  movie.  Talk about great science fiction!”  I’m saying that this movie is an example of gre at science fiction.  In the dialogue Cuca says, “Talk about a thankless job.”  “Thankle ss” is when nobody thanks you; so a “thankless job” is a job that is difficult but nobody appreciates it, nobody says “thank you.”  In this case, the thankless job is b eing head of the homeowners’ association, what Emiliano is doing. 
+
+ Emiliano says, “Don’t I know it.”  The phrase “don’t I kn ow it” is an informal way of saying that you agree with someone, with what someone  else has said, because you also have personal experience with it.  Emili ano is saying that he knows it’s a thankless job.  He says, “I guess I’m just a glut ton for punishment!” The expression “to be a glutton (glutton) for punishmen t” means that you are someone who likes to do things that have a negative conseq uence; something that you do even though you know it’s very difficult or ver y unpleasant.  The word “glutton” actually comes from “gluttony,” which is when yo u eat too much or drink too much; usually that’s what gluttony is.  So a glutton is somebody who normally eats too much or drinks too much.  But here, they’re “a g lutton for punishment,” meaning they get too much punishment; they somehow want to have this extra punishment.  It’s meant to be a joke, of course; althou gh I’m sure for Emiliano it was no joke!  Emiliano should have listened to Cuca, just as all husbands should listen to their wives – like I do! 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Cuca:  What possessed you to agree to become the head of the homeowners’ association? 
+
+Emiliano:  I’m just tired of all of the waste and not  having a say.  Our dues keep going up and there seems to be special assessments every year.   I’m not even sure the association is following the bylaws anymore.  I ju st felt I had to step up.   
+
+Cuca:  That’s really admirable, but I hope you know what  you’re getting into. There’s been a lot of mismanagement, and you’ll have to  do battle with some entrenched members.  They’re not going to look kindly on the tough questions you’ll be asking.   
+
+Emiliano:  Believe me, I’m not looking forward to it,  but it’s got to be done.   
+
+Cuca:  Talk about a thankless job. 
+
+Emiliano:  Don’t I know it.  I guess I’m just a glutto n for punishment! 
+
+[end of dialogue] 
+
+Today’s admirable script was written by Dr. Lucy Tse.  Talk a bout a great scriptwriter! 
+
+ From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

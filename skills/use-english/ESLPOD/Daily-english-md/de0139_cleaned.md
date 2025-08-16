@@ -1,0 +1,82 @@
+# Job Layoffs
+
+Welcome to English as a Second Language Podcast num ber 139: Job Layoffs. 
+
+This is English as a Second Language Podcast episod e 139. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+On this podcast, we’re going to learn about people who, unfortunately, may lose their jobs. Let’s get started! 
+
+[start of dialog] 
+
+Phillip: So, have you heard the news?  
+
+Mary: No, what's up?  
+
+Phillip: I just heard that the company is planning to lay off 20 percent of the employees in the next two months. 
+
+Mary: You're kidding! I knew they were looking for some way to cut costs with the lower profits this quarter, but I didn't think that   they would start laying people off. 
+
+Phillip: Yeah, it's hard to believe. That'll be hun dreds of people losing their jobs. It's not just the salary. It means losing benefits,  too. You know, I hope it's not going to be Sebastian. With three kids and a wife w ho's sick, that would really be a blow.  
+
+Mary: When will we know who's getting axed?  
+
+Phillip: I don't know if we'll get any warning. We might just get a pink slip on a Friday afternoon. Well, I'm going to start job hunt ing right now.  
+
+Mary: That's a good idea. The first thing I'm going  to do is to call all of my friends and business contacts to let them know I'm on the m arket. Hopefully, I'll get a line on something soon. Thanks for letting me know. 
+
+Phillip: Sure. If I hear anything else, I'll let yo u know.  
+
+Mary: Thanks. I'll do the same. 
+
+[end of dialog] 
+
+Today’s podcast is about job layoffs. And a “layoff ” is when a company fires some of its employees. “It lets them go” is another  expression we may use. So, “a layoff” is basically when you lose your job. The  dialog begins with Philip saying, “Have you heard the news?” – meaning have y ou heard the piece of information – important piece of information. Someb ody says, “Have you heard the news?” means do you know about this important n ews. And Mary says, “No. What’s up?” “What’s up” means, of course, what is g oing on? What is happening? And Philip says that he heard the compan y that they work for is planning to “lay off” twenty percent of the employe es. “To lay off” is, of course, the verb (lay off) – two words – “to lay off” is th e verb for letting someone go – someone firing someone. Mary says, “You’re kidding, ” meaning, of course, you’re joking. She doesn’t believe him. She says, “I thoug ht they were looking for some way to cut costs with the lower profits this quarte r but I didn’t think they would start laying people off.” She says, “I knew they we re looking for some way to cut costs.” “To cut (cut) costs (costs)” is to reduce o r to lower the amount of money that the company spends. What they spend are their costs. The opposite of costs would be their “income” or their “profit” – the mon ey they make.  
+
+Well, they’re trying to cut costs because they have  lower profits this quarter. “Lower” means less. We talk about lower profits, hi gher profits. “Profits” (profits) is the money that a company makes. It’s the money t hey make, the income they receive minus the costs. So, for example, if a comp any sells an automobile, a car, that costs $20,000 and the price is $20,000 bu t it only cost the company $10,000 to make the car, they make a $10,000 profit . I’m not good at the math here, I guess. Anyway, they lower their profits – t hey’ve had lower profits – the company has – this “quarter.” And “quarter” (quarte r) – when we talk about business is three months. And there are four quarte rs in a year. And normally, those are numbered, 1st quarter, 2nd quarter, 3rd q uarter, 4th quarter –so the first three months, the second three months, and so  forth.“Quarter,” of course, means 25 percent of something and in the United Sta tes, the 25 cent coin is called a “quarter.”  
+
+Well, Philip says that it’s hard to believe that th ey are going to lay off people. He says that “Hundreds of people will be losing their jobs,” meaning, of course, they’re going to be fired. “It’s not just the salar y,” Philip says, “it means losing benefits too.” Your “salary” (salary) is the money that the company gives you. It is your pay every week or every two weeks or every mon th, however often you are paid. “Benefits” (benefits) are things like health insurance and life insurance – those would be examples of benefits – vacation time  – those are all part of things  
+
+that the company pays for but it’s not money. It’s something other than money that they give you like insurance or maybe free cof fee. I don’t know.  
+
+Philip goes on to say that he’s worried about one o f his co-workers, one of the people that he works with, Sebastian, because he ha s three kids, three children. And if he lost his job, that would be a real “blow. ” A “blow” (blow) – as a noun – usually means when you hit someone. If you say, “Bo y, that was a blow” means – here it would mean that was a very bad thing, a v ery negative thing – something that would hurt them – not necessarily ph ysically but financially – in terms of money.  
+
+Mary asks when the employees will find out – will k now – who’s getting “axed.” “To get axed” (axed) is an informal way of saying g etting fired, being laid off. You can say, “I am being axed,” or “I was axed.” You ca n also say, “I got the axe.” “I got the axe” is the same as “I was axed.” “I was fi red.” Well, Philip says that he doesn’t know if they’ll get any warning – meaning a ny advance notice – they’ll tell them before they actually fire them. He says, “We m ight get a pink slip on Friday afternoon.” A “pink (pink) slip (slip)” is a tradit ional way of saying – a notice that you are being fired. We call that a “pink slip.” Th e idea is that the piece of paper that gave you the bad news about losing your job wa s on a pink piece of paper. But really, no one knows exactly where that term co mes from. There are different opinions – different languages have similar express ions. I believe in German, there’s something like a blue letter. And if you ge t a blue letter that means you are being fired. So, I’m not really sure where that  term comes from. But a “pink slip,” everyone understands, means that you are bei ng fired. And to get a “pink slip” means that you are getting axed. 
+
+Well, Philip says, he’s going to start “job hunting ” right now. “To job hunt” – two words – to “job hunt” means to look for a job. “Hun ting” normally is when you go and you shoot animals or people, if you’re the vice  president of the United States. And “job hunting” is what you do when you are looki ng for a job. Mary says that it’s a good idea and that she is going to call all of her friends and business contacts. A “contact” (contacts) is a term that we use in business to mean a person I know – someone who I know – usually at a p articular company. So, you might say, “I have a contact at IBM” or “I have a c ontact in the Mayor’s Office” – something like that. It’s a person that you can cal l – person that you can contact. The verb “to contact” means to communicate, to talk  to someone. Mary’s going to let her contacts know that she is on the market. “T o be on the market” (market) means you are looking for the job, or a job, rather . “I’m on the market.” A thing can also be “on the market.” We say, “The car is on  the market” means the car is being sold – they’re trying to sell it. But for a p erson, it means you are looking for a job.   
+
+ Mary says that she “hopes to get a line on somethin g soon.” “To get a line (line) on something,” means that she will get some informa tion that will help her find a job about a particular or specific company. So, we would use this expression in many different ways. ”I have a line on a good used car” means I know someone who is selling a used car. I haven’t bought it yet,  but I have a line on it.  
+
+Mary then says, “Thanks for letting me know.” “To l et (let) someone know” means to tell them. If someone says to you, “Let me know when you are going to leave.” They’re saying, “Tell me when you are going to leav e.” 
+
+Now let’s listen to the dialogue this time at a nat ive rate of speech. 
+
+[start of dialog] 
+
+Phillip: So, have you heard the news?  
+
+Mary: No, what's up?  
+
+Phillip: I just heard that the company is planning to lay off 20 percent of the employees in the next two months. 
+
+Mary: You're kidding! I knew they were looking for some way to cut costs with the lower profits this quarter, but I didn't think that  they would start laying people off. 
+
+Phillip: Yeah, it's hard to believe. That'll be hun dreds of people losing their jobs. It's not just the salary. It means losing benefits,  too. You know, I hope it's not going to be Sebastian. With three kids and a wife w ho's sick, that would really be a blow.  
+
+Mary: When will we know who's getting axed?  
+
+Phillip: I don't know if we'll get any warning. We might just get a pink slip on a Friday afternoon. Well, I'm going to start job hunt ing right now.  
+
+Mary: That's a good idea. The first thing I'm going  to do is to call all of my friends and business contacts to let them know I'm on the m arket. Hopefully, I'll get a line on something soon. Thanks for letting me know. 
+
+Phillip: Sure. If I hear anything else, I'll let yo u know.  
+
+Mary: Thanks. I'll do the same. 
+
+[end of dialog] 
+
+The script for today’s podcast was written by our o wn, Dr. Lucy Tse and we thank her.  
+
+That’s all we have time for today. From Los Angeles , I’m Jeff McQuillan. Thanks for listening. We’ll see you next time on ESL Podca st. 
+
+English as a Second Language podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. This podcast is copyr ight 2006.
+

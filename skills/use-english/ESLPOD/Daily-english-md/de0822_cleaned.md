@@ -1,0 +1,108 @@
+# Having a Frightening Experience
+
+Welcome to English as a Second Language Podcast num ber 822: Having a Frightening Experience.   
+
+This is English as a Second Language Podcast episod e 822.  I’m your host, Dr. Jeff McQuillan, coming to you from beautiful Los An geles, California. 
+
+Go to our website at eslpod.com to get the Learning  Guide for this episode.  If you need to improve your English as fast as possibl e, well, the Learning Guide is what you need. 
+
+This episode is a dialogue between Oliver and Alena  about being scared, or having a frightening experience.  Let’s get started . 
+
+[start of dialogue] 
+
+Oliver:  I had the most hair-raising experience of my life this past weekend. 
+
+Alena:  What happened?   
+
+Oliver:  You know that George bought an old house, right?  Well, he’s been telling us that it’s haunted, so for a lark, a few of us decided to spend the weekend there to see if we would have any supernatu ral experiences. 
+
+Alena:  Are you telling me that you saw ghosts? 
+
+Oliver:  I’m not sure what we saw, heard, or felt.  Everything was fine when we got there, but then we started hearing strange nois es and I started to get goosebumps.  The other guys tried to play it off, b ut I know they were scared, too. 
+
+Alena:  What did George say about the noises? 
+
+Oliver:  He laughed when he saw us jump out of our skins, and told us we were wusses.  He said he heard those noises every night and they didn’t have him quaking in his boots. 
+
+Alena:  Did anything else happen? 
+
+Oliver:  Well, when we went to bed, the house got v ery cold and drafty, like there was something passing by me very closely, but I cou ldn’t see it.  That sent me over the edge.   
+
+Alena:  Has it ever occurred to you that George was  playing a prank on you guys?   
+
+Oliver:  A prank?  It was no prank.  In the middle of the night when we saw the strange faces in the windows, even George was scare d stiff.  By that time, all of us were petrified.  It was no prank.  That house is  haunted. 
+
+Alena:  Ooh, a real haunted house.  I’d love to spe nd the night there, too.  Do you think George would let you stay there again and let  me come, too? 
+
+Oliver:  You want me to go back to that house?  For get it!  Wild horses couldn’t drag me within 50 miles of that place again! 
+
+[end of dialogue] 
+
+Oliver begins by saying, “I had the most hair-raisi ng experience of my life this past weekend.”  I had the most hair (hyphen) -raisi ng experience.  Something that is “hair-raising” is something that is very sc ary, something that makes you afraid, something that is frightening.  It’s so sca ry, so frightening, that the hair on your arms or on your neck begins to stand up – begi ns to be affected somehow. The idea is when you’re very scared somehow your ha irs on your hands or your arms or your neck or your nose – well, maybe not yo ur nose – they become affected because you’re so scared.  Oliver had a ha ir-raising or scary experience this past weekend, meaning the weekend that just en ded. 
+
+Alena says, “What happened?”  Oliver says, “You kno w that George bought a new house, right?  Well, he’s been telling us that it’s haunted.”  When we say something is “haunted” (haunted) we mean that it is  being visited by ghosts, or spirits of dead people who’ve been dead for a long time; that’s haunted.  On Halloween, on October 31 st , we have haunted houses where children go and the idea is that the house has ghosts and other spirits  in it that try to scare the children.  It’s a lot of fun!   
+
+Well, George says his house is haunted, “so for a l ark,” Oliver says, “some of us decided to spend the weekend there to see if we wou ld have any supernatural experiences.”  The expression “for a lark” (lark) m eans for a joke, to be entertaining or funny.  So, Oliver and his friends stayed at this house to see if they would have any supernatural experiences.  “Sup ernatural” means not  
+
+explainable by science, something that seems imposs ible; something that is above nature, above the way things are supposed to work according to scientific laws. 
+
+Alena says, “Are you telling me that you saw ghosts ?”  A “ghost” (ghost) is the spirit of a person who has died.  Usually in the mo vies or on television you see this person as being sort of, I don’t know, sort of  cloudy, sort of unclear; that’s a ghost. 
+
+Oliver says, “I’m not sure what we saw, heard, or f elt.  Everything was fine when we got there, but then we started hearing strange n oises and I started to get goosebumps.”  So, Oliver and his friends go to this  house as a joke because their friend George said it was haunted, and now when the y get there they actually hear some strange, unusual noises.  Oliver says he started to get goosebumps (goosebumps – one word).  “Goosebumps” are when you ’re either very cold or very frightened you have these little bumps, these little areas of raised skin that you can feel on your arms and on your legs.  That’s  goosebumps.  Goosebumps could be, uh, a negative thing; it might also be a positive thing.  You might hear someone singing, and it was so good you get goosebu mps.  It’s like your body is somehow affected by it physically.  Goosebumps  was also the name of a popular book series for mostly young boys – fourth grade, f ifth grade boys, was very popular in the 90s and perhaps still is. 
+
+Oliver says, “The other guys (the other men) tried to play it off, but I know they were scared, too.”  “To play it off” means to prete nd that something is not important.  You’re trying to show how brave you are , how calm you are, and so you’re not paying attention to it.  We might also s ay, perhaps a little more commonly, “to laugh it off,” to say oh, that’s noth ing; you make a joke about it. Well, Oliver says that he thinks the other guys wer e scared or frightened or afraid, just like him. 
+
+Alena says, “What did George say about the noises?”   Oliver says, “George laughed when he saw us jump out of our skin.”  The expression means to be very frightened, to be very scared.  Oliver says that Ge orge told them that they were wusses.  A “wuss” (wuss) is an informal insult, som ewhat vulgar, that means that you are not brave, that you are very scared, that y ou don’t have any courage.  It’s usually something a man would say to another man, o r perhaps a boy would say to another boy: “Oh, you’re a wuss.”  You’re not br ave; you’re not strong; that’s the idea.  Another word would be a “coward” (coward ).  That’s probably a more polite and common word – well, not polite; if you’r e insulting someone you’re not trying to be polite.  But it’s a little more accept able in conversational English to  
+
+say someone is a “coward,” and that’s the word you would find in the newspaper or in a book that talked about this same idea. 
+
+Oliver continues by saying that George said he hear d those noises every night and they didn’t have him quaking in his boots.  “To  quake” (quake) means to shake.  “To quake in your boots” means to be very f rightened, to be very scared; your “boots” are like big shoes that you have to co ver your feet.  Well, “to quake in your boots” means to be so scared that you’re sh aking; that’s the idea. 
+
+Alena says, “Did anything else happen?”  Oliver rep lies, “Well, when we went to bed, the house got very cold and drafty, like there  was something passing by me very closely, but I couldn’t see it.”  So when they  went to bed, when they went to go to sleep, Oliver says that the house got very co ld and drafty (drafty).  “Drafty” means there’s a lot of air moving through the build ing, a lot of cold air, almost as though the walls have holes in them.  Oliver said i t was as if is something were passing by him, coming very close to him.  He says,  “That sent me over the edge.”  “To send (someone) over the edge” (edge) me ans that you become very frightened or perhaps very angry; it’s when you los e control of your emotions – of your thoughts, sort of like going crazy. 
+
+Alena says, “Has it ever occurred to you,” have you  thought about this possibility?  “Has it ever occurred to you that Geo rge was playing a prank on you guys?”  “Prank” (prank) is a trick, sometimes calle d a “practical joke,” where you do something that is funny, but you are doing it wi th someone else to make them look foolish or to make them look silly. 
+
+Oliver says, “A prank?  It was no prank,” meaning n o, it was not a joke.  “In the middle of the night when we saw the strange faces i n the window, even George was scared stiff.”  “To be scared stiff” (stiff) me ans to be very frightened, to be very scared.  So, Oliver says they saw some strange  faces in the window late at night and this made them scared stiff, even George.   “By that time, all of us were petrified.”  “To be petrified” (petrified) here mea ns to be very scared, to be very frightened.  Oliver says, “It was no prank,” he rep eats, “That house is haunted.” 
+
+Alena says, “Ooh, a real haunted house.”  Now when she says this, she’s being sarcastic; she’s making fun of Oliver.  Or, perhaps  she’s just interested in haunted houses!  She says, “I’d love to spend the n ight there, too (I’d like to go there and sleep there overnight).  Do you think Geo rge would let you stay there again and let me come, too?” meaning I would go wit h you.  Oliver says, “You want me to go back to that house?  Forget it!  Wild  horses couldn’t drag me within 50 miles of that place again!”  Oliver’s say ing no, I’m not going back to the house.  He uses an old expression “wild horses coul dn’t drag me.”  The phrase is  
+
+used to emphasize that something will not happen un der any circumstances, something that you absolutely will not do.  “Wild h orses could not drag me to go see the movie by Adam Sandler.”  Wild horses couldn ’t drag me.  “To drag” means to pull someone, usually against their will.  They don’t want to do something; but you pull than physically, perhaps by  the arm, so that they will come when you.  If you had wild horses running very  fast dragging you, that would be a lot of force, that would be very difficu lt to resist.  So, the expression is used to show that even if you did something terribl e to me or forced me, I would not do this thing.  In this case, for Oliver it’s g oing back to George’s haunted house. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Oliver:  I had the most hair-raising experience of my life this past weekend. 
+
+Alena:  What happened?   
+
+Oliver:  You know that George bought an old house, right?  Well, he’s been telling us that it’s haunted, so for a lark, a few of us decided to spend the weekend there to see if we would have any supernatu ral experiences. 
+
+Alena:  Are you telling me that you saw ghosts? 
+
+Oliver:  I’m not sure what we saw, heard, or felt.  Everything was fine when we got there, but then we started hearing strange nois es and I started to get goosebumps.  The other guys tried to play it off, b ut I know they were scared, too. 
+
+Alena:  What did George say about the noises? 
+
+Oliver:  He laughed when he saw us jump out of our skins, and told us we were wusses.  He said that he heard those noises every n ight and they didn’t have him quaking in his boots. 
+
+Alena:  Did anything else happen? 
+
+Oliver:  Well, when we went to bed, the house got v ery cold and drafty, like there was something passing by me very closely, but I cou ldn’t see it.  That sent me over the edge.   
+
+ Alena:  Has it ever occurred to you that George was  playing a prank on you guys?   
+
+Oliver:  A prank?  It was no prank.  In the middle of the night when we saw the strange faces in the windows, even George was scare d stiff.  By that time, all of us were petrified.  It was no prank.  That house is  haunted. 
+
+Alena:  Ooh, a real haunted house.  I’d love to spe nd the night there, too.  Do you think George would let you stay there again and let  me come, too? 
+
+Oliver:  You want me to go back to that house?  For get it!  Wild horses couldn’t drag me within 50 miles of that place again! 
+
+[end of dialogue] 
+
+There’s nothing scary about our wonderful scripts w ritten by our wonderful scriptwriter, Dr. Lucy Tse.  Thank you, Lucy.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

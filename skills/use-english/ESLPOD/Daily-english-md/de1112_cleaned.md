@@ -1,0 +1,114 @@
+# Doing Impressions
+
+Welcome to English as a Second Language Podcast num ber 1,112 – Doing Impressions.  
+
+This is English as a Second Language Podcast episod e 1,112. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to our website at ESLPod.com or download one of our Special Courses in Business and Daily English. You can also take a loo k at our ESL Podcast Blog. And why not like us on Facebook at facebook.com/esl pod.  
+
+This episode is a dialogue between Edison and Kay a bout imitating someone else’s voice. Let’s get started. 
+
+[start of dialogue] 
+
+Edison: [in a high-pitched woman’s voice] “I’m payi ng you less and working you harder. What are you complaining about?” 
+
+Kay: Ha, ha. You sound just like Justine! You reall y have a gift for doing impressions, but maybe we should shut the door. 
+
+Edison: Oh I’m not worried about Justine hearing me . She’s my boss, but she’s not the boss of me.  
+
+Kay: What would she say if she saw you imitating th e way she walks and the gestures she makes? 
+
+Edison: We all know what they say: Imitation is the  highest form of flattery. Right? 
+
+Kay: I’m not sure Justine would see it that way. It  sounds more like mockery to me. I think it’s all in the tone. 
+
+Edison: It’s a simple parody of how she normally ad dresses the staff. It’s all done in good fun. It’s not mean-spirited.  
+
+Kay: Of course not, but she might take it the wrong  way. 
+
+Edison: Then she would need to learn to laugh at he rself. It’s healthy for the ego.  
+
+ Kay: “Whatever you say, boss. You’re always right, boss.” 
+
+Edison: Who was that supposed to be?  
+
+Kay: Remember what you said about imitation being b e the highest form of flattery . . . 
+
+Edison: That was supposed to be me? Me?! 
+
+[end of dialogue] 
+
+Edison begins our dialogue speaking in a high-pitch ed voice.” A “high-pitched (pitched) voice” is a voice that sounds very high. We normally associate a higher- pitched voice with a woman and a lower-pitched voic e with a man. So, “high-” and “low-pitched” are the terms that we use. Edison , who is a man, speaks in a high-pitched voice in order to imitate, or sound li ke, another person at his job. He says, “I’m paying you less and working you harder. What are you complaining about?” He’s pretending as though he were this othe r woman by the name of Justine.  
+
+Edison is pretending that Justine is asking him wha t he is complaining about. “To complain” (complain) is to talk about things you do n’t like about something, the problems with something. It could be your meal at a  restaurant. It could be your job. It could be just about anything. Some people l ike to complain. They like to talk about the negative aspects of things or they l ike to tell other people about these problems in the hopes that they will be fixed . 
+
+Kay laughs at Edison’s imitation of Justine’s voice . She says, “You have a gift for doing impressions, but maybe we should shut the doo r.” “To do impressions” (impressions) is to imitate someone’s voice, usuall y to be funny, usually as entertainment. There are many famous comedians who imitate other famous people in order to make a joke about those people. Some people are very good at imitating, or sounding like, another person – th at is, some people are very good at doing impressions.  
+
+Kay thinks, however, that she and Edison should shu t or close the door so that, presumably, their boss doesn’t hear them making fun  of her. Edison, however, says, “Oh, I’m not worried about Justine hearing me . She’s my boss but she’s not the boss of me.” This is an interesting phrase. “No t the boss (boss) of me” is used to assert your independence, to say to someone  that that person doesn’t  
+
+have authority over you. A “boss” is a person who i s a manager, who is in charge of you at your workplace.  
+
+The expression “not the boss of me,” however, can b e used in pretty much any context where one person is trying to tell another person what to do, as if the person had authority. You might say to your brother , “You’re not the boss of me” if your brother tells you how to act or behave. For  some reason, Edison recognizes that Justine is his boss, but says that she’s not the boss of him, perhaps meaning that he can make his own decisions even though she is the boss.  
+
+Kay says, “What would she,” meaning Justine, “say i f she saw you imitating the way she walks and the gestures she makes?” Doing im pressions is usually related to imitating, or copying, someone’s voice, but you may also copy a person’s gestures. “Gestures” (gestures) are the mo vements that you make with your body, especially your hands.  
+
+Edison says, “We all know what they say: Imitation is the highest form of flattery. Right?” There’s an old expression: “Imitation is th e highest” – or best – “form of flattery” (flattery). The “form of” something is a kind of something, a type of something. “Flattery” is when you tell another pers on how good they are in order to make them feel good, but often in order for the person to do you a favor or to get the person to do you a favor.  
+
+The expression “imitation is the highest form of fl attery” – or “the best form of flattery” – refers to the idea that if you copy som eone else, you’re not doing it because you want to steal something from him or her ; you’re doing it almost as a compliment to that person, to say, “See, you’ve don e such a great job, I’m going to do the same thing.” And in doing that, I am prai sing you in a way. I am telling you how good you are at what you did. Of course, if  you are doing impressions of another person in order to make fun of that person,  it is very unlikely that person will consider what you are doing “flattery.”  
+
+But back to our story. Kay says, “I’m not sure Just ine would see it that way.” She doesn’t think that Justine would agree with Edison that this is a form of flattery. Kay says, “It sounds more like mockery to me. I thi nk it’s all in the tone.” “Mockery” (mockery) comes from the verb “to mock” ( mock), which means to make fun of someone in a cruel, mean way – to imita te someone in a way that makes them look bad or that makes fun of them, that  we might also say “ridicules” them.  
+
+Kay is saying that Edison’s imitations and impressi ons are going to be interpreted by Justine as a mockery. She says, “I think it’s al l in the tone” (tone). The “tone,” when referring to your voice, refers to the qualiti es of the voice, including whether it’s high-pitched or low-pitched, whether there is warmth, whether there is strength. It’s the particular way in which your voi ce sounds when you are saying something.  
+
+We all know that you can say something to someone t hat would make the person mad or happy depending on the tone. For example, if  you said to your girlfriend, “Oh, you’re crazy,” you say it in such a way that y ou’re kidding or joking and your girlfriend knows it. But if you say to your girlfri end, “You’re crazy,” your girlfriend will probably have a different reaction because you ’re using a different tone in your voice.  
+
+Edison says, “It’s a simple parody of how she norma lly addresses the staff.” A “parody” (parody) is an imitation of a person, but usually involves some sort of exaggeration in order to be funny. Normally, we thi nk of this word “parody” as it relates to some performance on a television show or  in a movie where they’re making fun of something in a way that exaggerates i t.  
+
+So, for example, if a politician normally scratches  his head when he talks, a parody of that perhaps would be a comedian who stan ds up and takes both hands and moves them up and down on the sides of hi s head in order to make fun of this politician. The comedian is exaggeratin g it. He’s trying to imitate the person in a way that would be funny. Parody doesn’t  involve just physical actions – it can also be the language you use.  
+
+Edison says his impressions of Justine are “a simpl e parody,” or exaggeration for comic effect, “of how she normally addresses,” or t alks to, “the staff” – the people who work at the company. “It’s all done in good fun . It’s not mean-spirited,” he says. “To do something in good fun” is to do someth ing funny without being mean, without trying to hurt someone. The opposite of “in good fun” would be, in fact, “mean-spirited.” Something that is “mean-spir ited” is something that is unkind or cruel, something that is funny but also n ot very nice.  
+
+Kay says, “Of course not,” meaning of course you’re  not doing this in a mean- spirited kind of way, “but she might take it the wr ong way.” “To take something the wrong way” is to understand something in the wr ong way, especially in a way that makes you feel offended or angry. It means “to  misinterpret” something, to take something the wrong way.  
+
+If someone says to you, “Wow, what happened to all of your hair?” Well, you might take that the wrong way. You might think the person is making fun of you because you are bald. I’m not sure what the right w ay to take that would be, however. Maybe there are some things you say that c an only be taken one way, no matter how the person says it. Anyway, Edison says that Justine “needs to learn to  laugh at herself.” “To laugh at yourself” means to find things that you do funny , especially mistakes that you make.  
+
+Edison says, “It’s healthy for the ego.” Your “ego”  (ego) is your sense of self- confidence, self-respect, how you believe yourself to be as a person. Kay says, “Whatever you say, boss. You’re always right, boss. ” That’s Kay imitating someone. Edison says, “Who was that supposed to be? ” Kay says, “Remember what you said about imitation being the highest for m of flattery?”  
+
+Kay is obviously trying to imitate Edison and show him that sometimes doing impressions of other people are not funny and they don’t take them to be funny. They don’t take them as a form of flattery. Edison says, “That was supposed to be me? Me?!” He doesn’t think that Kay’s impression  is very funny. Of course, Kay is trying to show him that making fun of other people by doing impressions of them can often be considered mean-spirited, even if  you think it’s all in good fun.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Edison: [in a high-pitched woman’s voice] “I’m payi ng you less and working you harder. What are you complaining about?” 
+
+Kay: Ha, ha. You sound just like Justine! You reall y have a gift for doing impressions, but maybe we should shut the door. 
+
+Edison: Oh I’m not worried about Justine hearing me . She’s my boss, but she’s not the boss of me.  
+
+Kay: What would she say if she saw you imitating th e way she walks and the gestures she makes? 
+
+Edison: We all know what they say: Imitation is the  highest form of flattery. Right? 
+
+ Kay: I’m not sure Justine would see it that way. It  sounds more like mockery to me. I think it’s all in the tone. 
+
+Edison: It’s a simple parody of how she normally ad dresses the staff. It’s all done in good fun. It’s not mean-spirited.  
+
+Kay: Of course not, but she might take it the wrong  way. 
+
+Edison: Then she would need to learn to laugh at he rself. It’s healthy for the ego. 
+
+Kay: “Whatever you say, boss. You’re always right, boss.” 
+
+Edison: Who was that supposed to be?  
+
+Kay: Remember what you said about imitation being b e the highest form of flattery . . . 
+
+Edison: That was supposed to be me? Me?! 
+
+[end of dialogue] 
+
+I have nothing to complain of when it comes to our wonderful scripts written by our wonderful scriptwriter, Dr. Lucy Tse. Thank you , Lucy.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

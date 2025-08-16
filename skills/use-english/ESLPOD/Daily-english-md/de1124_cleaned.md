@@ -1,0 +1,124 @@
+# Hiding Money Offshore
+
+Welcome to English as a Second Language Podcast num ber 1,124 – Hiding Money Offshore.  
+
+This is English as a Second Language Podcast episod e 1,124. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to our website at ESLPod.com and check out our S pecial Courses in Business and Daily English in our ESL Podcast Store .  
+
+This episode is a dialogue between Sabrina and Luis  about hiding your money so the government doesn’t find it. Let’s get started.  
+
+[start of dialogue] 
+
+Sabrina: Wait! Don’t deposit that money into our re gular bank account. I’ll take care of it. 
+
+Luis: Okay, but why? 
+
+Sabrina: I’ve come up with a way for us to avoid pa ying so much in taxes each year. I’ve opened an offshore account in the Crook Islands. We can funnel our money into that account and it’ll be untraceable. 
+
+Luis: But that’s tax evasion. 
+
+Sabrina: The banks in the Crook Islands have ways o f covering up the paper trail so no one will be the wiser. 
+
+Luis: That doesn’t make it legal.  
+
+Sabrina: They haven’t caught us yet. 
+
+Luis: You mean you’ve already started putting money  into that account?  
+
+Sabrina: I’ve been depositing money into it for nea rly a year. 
+
+Luis: And when were you going to tell me? 
+
+Sabrina: I’m telling you now. Trust me. These tax h avens are very popular with the rich. We’re just taking a page from their book on how to save money. 
+
+Luis: We’re going to get caught. We should come cle an now. 
+
+Sabrina: That’s why I didn’t tell you before! I kne w you’d make a fuss about it. 
+
+Luis: And you were right. We need to quietly close the account and bring the money back. 
+
+Sabrina: Then we’ll have to pay taxes on it and may be even a penalty, more than we would’ve had to pay in taxes originally. 
+
+Luis: Right, and that’s called poetic justice. 
+
+[end of dialogue] 
+
+Sabrina says to Luis, “Wait! Don’t deposit that mon ey into our regular bank account. I’ll take care of it.” “To deposit” (depos it) money into a bank account means to put money into your account – to give the bank money that the bank will keep for you until you need it. A “bank accoun t” (account) is basically an agreement or arrangement that you have with the ban k, where you can give them money and they will hold it for you, or at lea st give it back to you when you want it.  
+
+The bank doesn’t actually keep all the money people  give it. It, of course, lends the money to other people; it gives loans to people  and then makes money on your money. Well, in our dialogue, Sabrina doesn’t want Luis to deposit a certain amount of money into their regular or normal bank a ccount. Luis is confused. He says, “Okay, but why?” Sabrina says, “I’ve come up with a way,” meaning I have found or invented a way, “for us to avoid paying so  much in taxes each year.”  
+
+“Taxes” (taxes) is the money you pay to the governm ent. Usually it’s some percentage of your income – how much you make, how much money you earn each year. California, for example, has some of the  highest taxes because not only does the national government make you pay taxe s but most states also make you pay taxes. So, if you live in California, you pay relatively high taxes. Anyway, enough complaining about California.  
+
+Sabrina says, “I’ve opened an offshore account in t he Crook Islands.” An “offshore (offshore) account” is one that is in ano ther country, not the country you live in. It is possible to put your money in banks in other countries so that the  
+
+government doesn’t know how much money you really h ave. Well, that’s what Sabrina’s idea is. She’s actually opened an offshor e account in a fictional, imaginary place called the “Crook Islands.” The wor d “crook” (crook) is used in English to mean a thief, someone who steals somethi ng. So it’s a little joke here in our dialogue that Sabrina has put her money in a  bank in the Crook Islands.  
+
+Sabrina continues, “We can funnel our money into th at account and it’ll be untraceable.” “To funnel” (funnel) money is to send  something to one place or one person even when it comes from different places . You could take the money that you make, plus your wife makes, plus your frie nds make and you could funnel it into a single account. You would put it a ll into one account. A “funnel” (funnel) as a noun is something you use to pour liq uid into a container so that all the liquid goes into it. It’s like a cone, basicall y, if you remember your high school geometry. 
+
+Sabrina says that putting the money into this offsh ore account will make it “untraceable.” “Traceable” (traceable) means you ca n figure out where something comes from. “Untraceable” would mean that  you could not figure out where something came from. Well, if your money is “ untraceable,” it means the government can’t find it, can’t figure out what hap pened to it. Luis objects. He’s not sure this is a good idea. He says, “That’s a ta x evasion.” “Tax evasion” (evasion) is illegally trying to avoid paying taxes  to the government – by hiding your money, for example.  
+
+Don’t confuse tax evasion with “tax avoidance” (avo idance). “Tax avoidance” is when you legally try to pay the minimum amount of t axes possible. “Tax evasion” is when you illegally try to do the same thing. Sab rina says, “The banks in the Crook Islands have ways of covering up the paper tr ail so no one will be the wiser.” The phrasal verb “to cover up” means to hid e something so that it cannot be seen, especially something illegal – to make sur e that no one discovers illegal activities.  
+
+One of the problems very common in American politic s is that politicians will do something wrong – something dumb, but something tha t is not illegal. However, because they don’t want anyone to know about it, th ey try to cover it up, and often that is illegal, especially if the government  starts asking questions and you lie to the government. Well, the lying is illegal, and that is often what is a problem for some American politicians. Anyway, enough of Am erica’s problems. Back to our dialogue.  
+
+Sabrina says that these banks in the Crook Islands have ways of covering up the “paper trail” (trail). The term “paper trail” refer s to documents and other written  
+
+evidence that shows where someone has been and what  that person has done. Nowadays we don’t use paper as much. I guess you co uld call it the “electronic trail,” but we still call it the “paper trail.” It means evidence of things that you have done that, say, the police can discover and determi ne what exactly you did.  
+
+Sabrina says these banks cover up the paper trail “ so no one will be the wiser” (wiser). “To be wise” (wise) means to be smart, to be knowledgeable. “No one will be the wiser” is a phrase meaning no one will find out what happened. No one will be able to discover the truth. Luis says, “That doesn’t make it legal.” Sabrina says, “They,” meaning the government, “have n’t caught us yet.” Luis says, “You mean you’ve already started putting mone y into that account?”  
+
+Sabrina responds, “I’ve been depositing money into it for nearly a year.” Luis says, “And when were you going to tell me?” So, Lui s says this plan that Sabrina has is illegal. But Sabrina says, “Well, they haven ’t caught us yet,” meaning they haven’t found out what we have been doing. Luis is surprised that Sabrina has already started putting money into this illegal acc ount, and he asks, “When were you going to tell me?”  
+
+Sabrina says, “I’m telling you now. Trust me. These  tax havens are very popular with the rich.” A “tax haven” (haven) is a place wh ere you can put your money, a country where you can put your money and you don’t have to pay taxes on it, or you pay very little in tax. Sabrina says, “We are j ust taking a page from their book on how to save money.” The expression “to take a pa ge from someone’s book” means to study what other people have done and do t he same thing – to copy what someone else is doing.  
+
+Luis says, “We’re going to get caught.” “To get cau ght” means to have someone find out about something that you did wrong. Luis s ays, “We should come clean now.” “To come clean” means to admit what you did w rong, to say that you have done something illegal or wrong, to tell someone el se. Sabrina says, “That’s why I didn’t tell you before. I knew you’d make a fuss about it.” “To make a fuss” (fuss) is to complain about something or to become angry about something. It’s to not react calmly, to get all excited about somet hing in a bad way.  
+
+Luis says, “And you were right,” meaning yes, I am making a fuss about this; I am getting angry and complaining about it. He says,  “We need to quietly close the account and bring the money back,” meaning take  the money out of the bank in the Crook Islands and bring it back to the Unite d States. Sabrina says, however, “Then we’ll have to pay taxes on it and ma ybe even a penalty, more than we would have had to pay in taxes originally.”   
+
+Sabrina is complaining that if they bring this mone y back to the United States, they may have to pay taxes on it plus what’s called  a “penalty” (penalty). A penalty is a punishment for breaking a rule or a la w. Sabrina complains this amount of money they will have to pay will be more than what they would have had to pay in taxes originally if they had not trie d to hide their money.  
+
+Luis says, “Right,” meaning that’s correct, “and th at’s called poetic justice.” The phrase “poetic (poetic) justice” refers to a negati ve consequence, a bad result that happens from something you do that is an appro priate punishment for your bad actions. So in this case, the couple – Sabrina and Luis – may have to pay more in taxes by bringing the money back than they would have had to pay if they had just paid their taxes legally here in the United States. Luis calls that “poetic justice” because they deserve it. It’s a de served outcome, an appropriate punishment for what they did wrong.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Sabrina: Wait! Don’t deposit that money into our re gular bank account. I’ll take care of it. 
+
+Luis: Okay, but why? 
+
+Sabrina: I’ve come up with a way for us to avoid pa ying so much in taxes each year. I’ve opened an offshore account in the Crook Islands. We can funnel our money into that account and it’ll be untraceable. 
+
+Luis: But that’s tax evasion. 
+
+Sabrina: The banks in the Crook Islands have ways o f covering up the paper trail so no one will be the wiser. 
+
+Luis: That doesn’t make it legal.  
+
+Sabrina: They haven’t caught us yet. 
+
+Luis: You mean you’ve already started putting money  into that account?  
+
+Sabrina: I’ve been depositing money into it for nea rly a year. 
+
+Luis: And when were you going to tell me?  
+
+ Sabrina: I’m telling you now. Trust me. These tax h avens are very popular with the rich. We’re just taking a page from their book on how to save money. 
+
+Luis: We’re going to get caught. We should come cle an now. 
+
+Sabrina: That’s why I didn’t tell you before! I kne w you’d make a fuss about it. 
+
+Luis: And you were right. We need to quietly close the account and bring the money back. 
+
+Sabrina: Then we’ll have to pay taxes on it and may be even a penalty, more than we would’ve had to pay in taxes originally. 
+
+Luis: Right, and that’s called poetic justice. 
+
+[end of dialogue] 
+
+Many thanks to our wonderful scriptwriter, Dr. Lucy  Tse, for her wonderful scripts.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

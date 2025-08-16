@@ -1,0 +1,84 @@
+# Being Unsure and Unready
+
+Welcome to English as a Second Language Podcast num ber 764: Being Unsure and Unready. 
+
+This is English as a Second Language Podcast episod e 764.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Visit our website at eslpod.com.  You can also like  us on Facebook at facebook.com/eslpod, and you can follow us on Twitt er @elspod, and you can…well, you get the idea! 
+
+This episode talks about not being sure, not being certain, and not being ready. Let’s get started. 
+
+[start of dialogue] 
+
+Aida:  When our bigwigs from the Cleveland office a rrive next week, I think we’ll have a lot to show them. 
+
+Dale:  I wouldn’t be so sure about that.  Giselle t old me yesterday that it’s a toss up whether she’ll finish the program she’s working on by next week, but don’t quote me on that. 
+
+Aida:  I thought she was already done with it.   
+
+Dale:  I think that she’s still tinkering with it b ecause she isn’t 100 percent sure she’s worked out all of the bugs. 
+
+Aida:  All right.  I hope she gets a move on and fa st.  I’ll still have Joe’s prototype to show them, right? 
+
+Dale:  Well, the last time I spoke with Joe, he sai d that the prototype is still a work in progress.  Whether it’ll actually work is i ffy, at best.   
+
+Aida:  Are you trying to tell me that we’re not rea dy for this visit at all? 
+
+Dale:  I hate to be the bearer of bad news, but I w ouldn’t count on having much to show them, sorry. 
+
+Aida:  Then, what am I supposed to do when they wan t to see the progress on our work? 
+
+Dale:  I suggest some fast-talking and fancy tap da ncing! 
+
+[end of dialogue] 
+
+Aida says to Dale, “When our bigwigs from the Cleve land office arrive next week, I think we’ll have a lot to show them.”  A “bigwig”  (bigwig – one word) is an important person.  A supervisor, a boss, maybe the owner of the company, those are bigwigs.  Aida says that when our bigwigs from the Cleveland office – from the office in another city, in this case Cleveland,  Ohio, a state in the eastern half of the United States in the northern part – when th ese bigwigs arrive from the Cleveland office next week, “I think we’ll have a l ot to show them,” she says. 
+
+Dale says, “I wouldn’t be so sure about that,” mean ing I’m not sure, you shouldn’t think that.  “Giselle told me yesterday that it’s a  toss up whether she’ll finish the program she’s working on by next week, but don’t qu ote me on that.”  A “toss up” (toss up – two words) is something that may or may not happen.  The verb “to toss” means to throw.  And often, if we want to dec ide by chance or by luck some decision we may take a coin, a small piece of money , and toss it up in the air and depending on which side it lands on that will be th e answer to our question – that will be the solution to our problem.  That’s a toss  up, but in general the term is used to express something that is not sure.  We’re not sure, it could happen, it might not happen.  Giselle is not sure that she’s g oing to finish the program, whatever that is she’s working on, “but don’t quote  me on that,” Dale says.  The expression “don’t quote (quote) me on that” is used  to share information that is secret but you don’t want other people to know that  you gave them that information – don’t tell people I told you that, th at’s one use of it.  It can also be used when you’re just not sure that something is go ing to happen; you’re making a prediction.  “I think the Dodgers will win the Wo rld Series of baseball next year, but don’t quote me on that,” I could be wrong. 
+
+Aida says, “I thought she (Giselle) was already don e with it.”  Dale says, “I think she’s still tinkering with it because she isn’t 100  percent sure she’s worked out all of the bugs.”  “To tinker (tinker) with (something) ” means to make small changes in it to improve it or to make it better.  Usually it’s used when those efforts – those changes aren’t really very important or perhaps are n’t even successful.  “One hundred percent sure” means absolutely, completely certain, no doubt.  “To work out (something)” means to fix a problem, to resolve  a problem, or to resolve an issue.  “Bugs” (bugs) are errors in computer progra ms.  “Bug” has a couple of different meanings in English; take a look at our L earning Guide for some of  
+
+those.  Here, though, it means some sort of mistake  in a computer software program.  Dale says that Giselle is still tinkering  with the program because she isn’t 100 percent sure she’s worked out, or fixed, all of the bugs or problems. 
+
+Aida says, “All right (okay).  I hope she gets a mo ve on and fast.”  “To get a move on (something)” means to work on something quickly,  to try to do it as fast as possible because you need to get it done soon.  She  hopes that Giselle will get a move on means she’ll start working on it fast.  “I’ ll still have Joe’s prototype to show them, right?”  A “prototype” (prototype) is a model, it’s something you make or a company makes to decide whether they want to m ake more of it.  You make one, and you look at it and you say, “Well, maybe w e’ll change this or change that,” or maybe, “This is exactly what we want.  Le t’s make some more.” Prototype is like the first example of that particu lar thing.  Aida is saying to Dale that they have a prototype – Joe’s prototype, Joe w ould be the person who made it – to show the bigwigs next week, even if Giselle  isn’t finished with her program. 
+
+Dale said, “Well, the last time I spoke with (or I talked with) Joe, he said that the prototype is still a work in progress.”  When we ca ll something “a work in progress” (progress) we mean that it isn’t finished  yet; it’s still being developed; it’s still being changed or improved.  Dale says, “ Whether it’ll actually work is iffy, at best.”  Dale isn’t sure if Joe’s prototype, I gu ess of this program, will actually work.  He says it’s iffy (iffy).  “Iffy” is a somew hat informal word meaning uncertain, not exactly sure, questionable; it might , it might not.  The expression “at best” means the most optimistic way of thinking  or looking at the situation, the most positive way.  So, if we think in the most pos itive way possible, it might work or it might not.  Of course, that means it probably  won’t work!   
+
+Aida says, “Are you trying to tell me that we’re no t ready for this visit at all (not in any way)?”  Dale says, “I hate to be the bearer of bad news.”  “To bear (bear) (something),” as a verb, means to carry.  The “bear er” is the person who is carrying something.  At a wedding, you might have a  “ring-bearer,” usually a small boy – a young boy who carries the rings of th e two people getting married up to the couple that is getting married; that’s a ring-bearer.  But here, the word “bearer” is part of a common expression meaning som eone who brings you bad news, someone who gives you some unfortunate or sad  information.  Dale says, “I wouldn’t count on having much to show them, sorr y.”  “To count on” means to rely on, to depend on.  Dale says that he wouldn’t count on – he wouldn’t rely on having very much to show the bigwigs next week. 
+
+Well, of course, Aida isn’t very happy; she says, “ Then, what am I supposed to do when they see the progress on our work?” meaning , of course, they haven’t made very much progress.  Dale says, “I suggest som e fast-talking and tap  
+
+dancing!”  “Fast-talking” is when you talk in such a way as to mislead the person listening to you, or distract them.  When you want to hide something, you start saying this and you start saying that and you try t o sort of confuse the person so that they’re not really sure what’s happening.  “Ta p dancing” is a type of dancing, where you have little pieces of metal on your shoes  that make noise as you hit the ground.  But here, it’s used as an expression t o mean something similar to “fast-talking.”  You’re doing something that will d istract, that will put the attention of the person listening or watching you somewhere e lse so that they won’t think about the real problem that you’re trying to hide.  There aren’t a lot of people who do tap dancing anymore; it was popular in the 20 th  century.  I actually took tap dancing lessons when I was in second grade.  I must  have been, oh, eight or nine years old.  True story!  Maybe someday I’ll ma ke a video of myself tap dancing. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Aida:  When our bigwigs from the Cleveland office a rrive next week, I think we’ll have a lot to show them. 
+
+Dale:  I wouldn’t be so sure about that.  Giselle t old me yesterday that it’s a toss up whether she’ll finish the program she’s working on by next week, but don’t quote me on that. 
+
+Aida:  I thought she was already done with it.   
+
+Dale:  I think that she’s still tinkering with it b ecause she isn’t 100 percent sure she’s worked out all of the bugs. 
+
+Aida:  All right.  I hope she gets a move on and fa st.  I’ll still have Joe’s prototype to show them, right? 
+
+Dale:  Well, the last time I spoke with Joe, he sai d that the prototype is still a work in progress.  Whether it’ll actually work is i ffy, at best.   
+
+Aida:  Are you trying to tell me that we’re not rea dy for this visit at all? 
+
+Dale:  I hate to be the bearer of bad news, but I w ouldn’t count on having much to show them, sorry. 
+
+Aida:  Then, what am I supposed to do when they wan t to see the progress on our work? 
+
+Dale:  I suggest some fast-talking and fancy tap da ncing! 
+
+[end of dialogue]  
+
+I’m 100 percent sure that the best scriptwriter on the Internet is our own Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

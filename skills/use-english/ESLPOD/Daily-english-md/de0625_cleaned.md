@@ -1,0 +1,82 @@
+# Being Famous and Anonymous
+
+Welcome to English as a Second Language Podcast number 6 25: Being Famous and Anonymous. 
+
+This is English as a Second Language Podcast episode 625.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Visit our website at eslpod.com.  Support this podcast by becoming an ESL Podcast member or by making a donation on our website. 
+
+This episode is called “Being Famous and Anonymous.”  “Ano nymous” is the opposite of “famous,” no one knows who you are.  Let’s g et started. 
+
+[start of dialogue] 
+
+Erik:  Why are you wearing that getup? 
+
+Juliana:  I’m trying to stay under the radar.  I don’t want to create a mob by going outside without a disguise.  People are going to recog nize me.   
+
+Erik:  So?  Are you trying to tell me that you think you’ re famous after being in one play? 
+
+Juliana:  Of course!  I’ve had my name in lights and I ha ve to expect people to know who I am.  Losing my privacy is the price of fame.  E verybody knows that. 
+
+Erik:  I think you may be overestimating the size of your ad oring public.  How many people went to see your play? 
+
+Juliana:  Enough.  By tomorrow, the newspapers will ha ve my picture plastered across their pages and I’ll have to say good-bye to my anon ymity.   
+
+Erik:  If the papers don’t come out until tomorrow, wh y are you going around incognito? 
+
+Juliana:  I’m just getting ready to meet my fans. 
+
+Erik:  Depending on whether the reviews are good or ba d, you may be famous – or infamous.  
+
+ [end of dialogue] 
+
+Erik begins our dialogue by asking Juliana, “Why are you we aring that getup?” “Getup” (getup – one word) is an informal way to say a n unusual set of clothing, an unusual what we might call “outfit” (outfit).  You r outfit refers to the clothes that you are wearing.  I could talk about my shirt, my pants, a nd my shoes as being part of my outfit.  My dress could be part of my outfit.  Well not my dress, I mean…well, you know what I mean!  Well, a getup is a ver y unusual outfit, something strange that someone is wearing. 
+
+Juliana says to Erik, “I’m trying to stay under the radar ( I’m wearing this getup to stay under the radar).”  This expression means to not be noticed, or to be unnoticed, not to draw attention to yourself.  “He’s tr ying to stay under the radar,” he doesn’t other people to pay attention to him.  Juli ana, who apparently is normally famous and people know who she is doesn’t want p eople to recognize her.  She says, “I don’t want to create a mob by going outside without a disguise.”  A “mob” (mob) is a large group of people, often people who are angry or are very emotional about something, and they’re tog ether in one place and they are making noise or they are causing problems.  That’ s a mob.  “Mob” actually has a couple of different meanings in English; none of them are explained in the Learning Guide however.  But you will  get an explanation of the word “getup.”  That does also have additional explanati ons that are in the Learning Guide. 
+
+So, Juliana doesn’t want to create a mob by going outsi de without a disguise.  A “disguise” (disguise) is something that changes the way you l ook so that people don’t know who you are.  “People,” Juliana says, “are go ing to recognize me (they’re going to identify me if I don’t wear this di sguise).”  Erik says, “So (meaning so what, why is that important)?  Are you tryin g to tell me that you think you’re famous after being in one play?”  “To be famous ” means that you are very well known; people know who you are.  If you walk down  the street, they’ll say, “Hey, there’s Lucy Tse!  I saw her picture on the Interne t.”  Really?  Well, it’s just an example.  So, Juliana thinks that she’s going to be fa mous because she was in a “play,” which is a performance – a public performa nce at a theater typically. You could be in one of Shakespeare’s plays for example.   
+
+Well, Juliana says that she is in fact famous because she was i n a play.  She says, “Of course!  I’ve had my name in lights and I have to  expect people to know who I am.”  The expression “to have your name in lights” means literally that your name is being displayed typically on a large board – a la rge area in front of a  
+
+ theater so that people can see your name, people know who is performing in that play or movie.  That’s to have your name in lights, to be  a famous actor or actress and for people to know who you are because you’ve ha d your name in lights.  She says, “I have to expect people to know who I  am.  Losing my privacy is the price of fame.  Everybody knows that.”  Your “privacy ” (privacy – what in Britain they would pronounced as privacy) refers to keepin g information about yourself secret, not letting other people know about you r personal information. “Fame” (fame) means being famous, it’s when people know  who you are.  That’s to have fame.  There was a popular television show many ye ars ago called Fame about young students who were trying to become famous in the world of dance and theater.  There was a song from that show that ma ny people would recognize: Remember my name.  Fame!  I’m gonna live forever.  I’ m going to learn how to fly.  High!  “Remember my name,” meaning I am going to be famous.  “Fame!  I’m going to live forever.”  The idea  is that if you are famous people will always know who you are, even after you die.   “I’m going to live forever.  I’m going to learn how to fly.  High!”  If you could learn how to fly by yourself, you would definitely be famous – and I don’t mean smoking marijuana people! 
+
+Back to the dialogue: Juliana thinks that she is now famou s.  Erik says, “I think you may be overestimating the size of your adoring public.”   “To overestimate” means to think something is bigger or larger than it re ally is.  “To adore” (adore) someone is to show them a lot of love.  So, “adoring p ublic” refers people who would love you, your “fans,” people who think that you a re a celebrity.   
+
+Erik says, “How many people went to see your play?”  Juliana  says, “Enough,” sufficient numbers to be famous.  She says, “By tomorrow (b efore tomorrow), the newspapers will have my picture plastered across their page s and I will have to say good-bye to my anonymity.”  When we say something is “pla stered” (plastered) in this context we mean displayed in many plac es, easy for people to see because it is everywhere.  Here in Los Angeles when the re is a new movie, many times the movie companies will put up big signs annou ncing the movies. They plaster them everywhere – they put them everywhere.  “Plastered” has a very different meaning – a couple of different meaning s, and those can be found in the Learning Guide. 
+
+Well, Juliana thinks that she’s going to be famous, and t herefore she will have to say good-bye to her anonymity.  “Anonymity” (anonymity) mea ns that no one knows who you are, to be anonymous in other words.  She’s saying that I will no longer be anonymous; people will know me.  Erik says, “If  the papers (meaning the newspapers) don’t come out until tomorrow (meaning  they won’t be published  
+
+ – they won’t be released until tomorrow), why are you g oing around incognito?” “Incognito” (incognito) is another way of saying in disgu ise, without letting people know who you really are. 
+
+Juliana says, “I’m just getting ready to meet my fans,” the  people who love me so much.  Erik says, “Depending on whether the reviews are go od or bad, you may be famous – or infamous.”  “Reviews” here refers to an a rticle in a newspaper or a magazine that tells why someone likes or didn’t like a p articular book, or TV show, movie, song, restaurant, play.  Reviews are any descr iptions of someone’s opinion about a certain thing.  People often look at the reviews for books and movies before buying them; they want to know what other  people think.  Well, Erik says that depending on whether the reviews of the pl ay are good or bad, you may be famous if they are good reviews, or if they are ba d reviews you will be infamous (infamous).  “To be infamous” means to be fam ous in the sense that you are well-known, but for bad things that you have don e.  Everyone knows who you are, but they know about the bad things you did.  S o if you say someone is infamous, you mean that they are well-known but they ar e well-known for having done something wrong or something bad.  A similar wor d would be “notorious” (notorious), which is the same thing, to be famous for so mething that is bad or negative typically.  Although, I’ve noticed in recent years many people using notorious to mean the same as famous instead of infamous,  so the meaning is changing in the language, but the dictionary definitio n would tell you that it is being famous for something bad. 
+
+We hope you’re not famous for anything bad.  In either  case, even if you are, let’s listen now to the dialogue at a normal speed. 
+
+[start of dialogue] 
+
+Erik:  Why are you wearing that getup? 
+
+Juliana:  I’m trying to stay under the radar.  I don’t want to create a mob by going outside without a disguise.  People are going to recog nize me.   
+
+Erik:  So?  Are you trying to tell me that you think you’ re famous after being in one play? 
+
+Juliana:  Of course!  I’ve had my name in lights and I ha ve to expect people to know who I am.  Losing my privacy is the price of fame.  E verybody knows that. 
+
+ Erik:  I think you may be overestimating the size of your ad oring public.  How many people went to see your play? 
+
+Juliana:  Enough.  By tomorrow, the newspapers will ha ve my picture plastered across their pages and I will have to say good-bye to my an onymity.   
+
+Erik:  If the papers don’t come out until tomorrow, wh y are you going around incognito? 
+
+Juliana:  I’m just getting ready to meet my fans. 
+
+Erik:  Depending on whether the reviews are good or ba d, you may be famous – or infamous. 
+
+[end of dialogue] 
+
+Our scriptwriter tries to stay under the radar for sure, but it’s not possible.  We all know she is a wonderful writer, and her name is Dr. Lucy Tse.   
+
+From Los Angeles, California, I am Jeff McQuillan.  Th ank you for listening. Come back and listen to us again, won’t you, on ESL Pod cast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

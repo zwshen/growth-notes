@@ -1,0 +1,116 @@
+# Having Plumbing Problems
+
+Welcome to English as a Second Language Podcast number 4 78 – Having Plumbing Problems. 
+
+This is English as a Second Language Podcast episode 478.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode.  The Learning Guide will help you improve your  English even faster. 
+
+This episode is called “Having Plumbing Problems.”  It’s a  dialogue between Mickey and Colleen, and uses a lot of vocabulary that you would associate with plumbing.  Let’s get started. 
+
+[start of dialogue] 
+
+Mickey:  Hello, McQuillan Plumbing. 
+
+Colleen:  Hi, I’m having a lot of plumbing problems.  Can you send a plumber out to my house right away? 
+
+Mickey:  Yes, we can.  But first, let’s find out what the problems are. 
+
+Colleen:  Well, to start, my toilet won’t flush and it ’s overflowing. 
+
+Mickey:  An overflowing toilet – check.  What else? 
+
+Colleen:  The sink in the bathroom is stopped up and th e pipes underneath the sink are leaking.   
+
+Mickey:  A stopped up sink and leaking pipes – check.  What el se? 
+
+Colleen:  The garbage disposal in the kitchen is making f unny noises and the water won’t drain. 
+
+Mickey:  A busted garbage disposal – check.  Is that all? 
+
+Colleen:  No, the faucet in the shower is stuck and I can’t shut off the water.   
+
+Mickey:  A stuck faucet – got it.  What else?  
+
+ Colleen:  That’s it.   
+
+Mickey:  You’ve got some really big problems there.   
+
+Colleen:  Yes, I know.  That’s what I’ve been trying to tell you.  Can you send someone out right away? 
+
+Mickey:  Sure, no problem.  How about next Tuesday? 
+
+Colleen:  Next Tuesday?!  Didn’t you hear me?  These ar e emergencies! 
+
+Mickey:  Yes, but all of our plumbers are booked up unti l next Tuesday.  Should I put you down for a morning appointment? 
+
+Colleen:  Forget it!  By next Tuesday, I’ll be under 10  feet of water! 
+
+[end of dialogue] 
+
+Our dialogue begins with Mickey answering the phone: “He llo, McQuillan Plumbing.”  Colleen says, “Hi, I’m having a lot of plum bing problems.” “Plumbing” is a general term we use to talk about the water that moves through a building, especially in long metal tubes.  Sometimes the  water is moving into the building – the clean water, the dirty water is moving out of the building.  Both of these are part of your plumbing.  Colleen says, “Can you  send a plumber out to my house right away?”  A “plumber” is the person who fi xes problems with your plumbing.  She is asking Mickey to send a plumber out to h er house, meaning to send the plumber to where she lives.  Mickey says, “Yes, we can .  But first, let me find out what the problems are.”  Colleen says, “We ll, to start (meaning the first thing is), my toilet won’t flush and it’s overflow ing.”  Your “toilet” is a large, usually white thing in the bathroom that has a large hole on the top of it where you sit to get rid of things that are inside your body –  I think you understand! “Flush” is to move water through something to clean it, especially a toilet.  So after you finish using the toilet, you flush the toilet  – you use water to take that out of the pipes and out of your building or house.  “ Flush” actually has a couple of different meanings in English, so be sure to take a look at our Learning Guide for some additional explanations. 
+
+Colleen says the toilet is overflowing.  “To overflow” me ans to have water coming over the top of something and out of it because there ’s too much water.  If you have a toilet or a sink that is overflowing when you turn  the water on, that usually means that there is something blocking or preventing the water from escaping.   
+
+ Colleen says that her toilet is overflowing; Mickey says, “An  overflowing toilet – check.”  The word “check” here is used to show that you heard  and understood what the other person has said, often because you are ma king a list of something.  It’s a little informal, but Mickey is trying t o indicate to Colleen that he’s taking notes and he’s making a list of her problems.   Colleen says, “The sink in the bathroom is stopped up and the pipes underneath  the sink are leaking.” The “sink” (sink) is a large open container that holds w ater.  It’s used in bathrooms and in kitchens to clean things.  In the bathr oom, it is used to clean your face and your hands; in the kitchen, it’s used for clea ning dishes and so on. “Sink” has a couple of meanings in English, however, so a gain, take a look at the Learning Guide for some additional explanations. 
+
+“The sink in the bathroom is stopped up,” Colleen says.  “To stop up” is a two- word phrasal verb meaning to become blocked, to stop worki ng properly, especially something like a pipe or a tube that water or  liquid is going through. Another word we use for this is “clog” (clog).  If someon e says the pipes that are below the sink, the tubes that come from the sink and le ad the water out of your house, are “clogged,” they mean that they are stopped up , there is something in them that is preventing the water from moving and flo wing, we would say, freely. “Pipes,” as I just mentioned, are long, hard, either p lastic or metal tubes that you use to move a liquid or a gas through.  In this case, it ’s for the water.  Colleen says that the pipes underneath (below) the sink are leakin g.  Something that is “leaking” is something that has water coming out of it,  usually very slowly.  If you have a roof on your house that is leaking, that means th at there is water coming through it.  Another word we use is “leaky” (leaky), which  is the adjective. 
+
+Mickey then repeats back to Colleen what she said to indicat e that he has understood.  He says, “A stopped up sink and leaking pipes – check.  What else?”  Colleen says, “The garbage disposal in the kitchen is making funny noises and the water won’t drain.”  The “garbage dispo sal” is a small machine that is underneath, or below, your sink that cuts up food  into very small pieces so that it will fit in the pipes and be washed away wit h the water down the pipe. “Garbage” is another general word meaning the same as “trash,” things that you don’t want anymore and are throwing out.  Here, the garbage is going to be food that you don’t want anymore.  “To dispose of (something) ” means to get rid of something, so the garbage disposal is the machine that he lps you get rid of the unwanted food that you didn’t eat or simply didn’t wan t.  Colleen says the garbage disposal is making “funny noises,” meaning it’s maki ng a noise that is not usual.  She also says the water won’t drain.  “To dr ain” means to make the water go through something or away from something.  In  this case, the water is going to go from the sink into the pipes and then out of your house.  Mickey then  
+
+ says, “A busted garbage disposal – check.”  “Busted” is an inf ormal word indicating broken, not working properly. 
+
+Colleen says that the faucet in the shower is stuck and she can’t shut off the water.  The “faucet” is a little piece of metal above the sink or the bathtub that water flows through.  It’s a place where you can turn t he water on and off – you can start the water moving out of the pipe or stop it from moving out of the pipe. So, faucets are for the water coming into your house.  T his faucet is “stuck,” meaning it won’t move.  When something is stuck you can’t  change its position, you can’t move it.  “To shut off” is a phrasal verb meanin g to turn something off, to stop something from continuing.  A parent might say t o his son or daughter, “Turn off the television,” meaning stop watching the TV  – unplug it or turn off the switch.  A wife may say that to her husband, who’s watching  baseball instead of paying attention to her, “Shut off the TV.”  Colleen  wants to shut off the water, meaning she wants to stop the water from flowing out of the faucet. 
+
+Mickey says, “A stuck faucet – got it,” which is the same as “I understand it,” or as we said earlier, “check.”  “What else?” he asks.  Colleen  says, “That’s it (that’s all, there are no more problems).”  Mickey says, “You’ve got some really big problems there.”  Colleen says, “Yes, I know.”  She says, “C an you send someone out right away (can you have someone come to my ho use immediately)?”  Mickey says, “Sure, no problem.  How abou t next Tuesday?” Colleen says, “Next Tuesday?!  Didn’t you hear me?  Thes e are emergencies (these are things that I need to have fixed today)!”  M ickey says, “Yes, but all of our plumbers are booked up until next Tuesday.”  To be “ booked up” means to be unavailable because your schedule is full; you already h ave other appointments.  If you’re sick and you call your doctor, the  secretary may tell you that the doctor is booked up today.  This happens a lot o n Mondays, so you should try not to be sick on Monday!   
+
+In this case, Mickey’s plumbers are booked up until next Tuesd ay; they don’t have any free time to go over to Colleen’s house.  Colle en says, “Forget it!  By next Tuesday, I’ll be under 10 feet of water!”  “I’ll  be under 10 feet of water” means that because of the plumbing being broken, her ho use will be filled with water if she waits to fix it until next Tuesday. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Mickey:  Hello, McQuillan Plumbing. 
+
+ Colleen:  Hi, I’m having a lot of plumbing problems.  Can you send a plumber out to my house right away? 
+
+Mickey:  Yes, we can.  But first, let’s find out what the problems are. 
+
+Colleen:  Well, to start, my toilet won’t flush and it ’s overflowing. 
+
+Mickey:  An overflowing toilet – check.  What else? 
+
+Colleen:  The sink in the bathroom is stopped up and th e pipes underneath the sink are leaking.   
+
+Mickey:  A stopped up sink and leaking pipes – check.  What el se? 
+
+Colleen:  The garbage disposal in the kitchen is making f unny noises and the water won’t drain. 
+
+Mickey:  A busted garbage disposal – check.  Is that all? 
+
+Colleen:  No, the faucet in the shower is stuck and I can’t shut off the water.   
+
+Mickey:  A stuck faucet – got it.  What else? 
+
+Colleen:  That’s it.   
+
+Mickey:  You’ve got some really big problems there.   
+
+Colleen:  Yes, I know.  That’s what I’ve been trying to tell you.  Can you send someone out right away? 
+
+Mickey:  Sure, no problem.  How about next Tuesday? 
+
+Colleen:  Next Tuesday?!  Didn’t you hear me?  These ar e emergencies! 
+
+Mickey:  Yes, but all of our plumbers are booked up unti l next Tuesday.  Should I put you down for a morning appointment? 
+
+Colleen:  Forget it!  By next Tuesday, I’ll be under 10  feet of water! 
+
+[end of dialogue] 
+
+ The script for this episode was written by someone who is o verflowing with good ideas, Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

@@ -1,0 +1,120 @@
+# Dealing With Foot Problems
+
+Welcome to English as a Second Language Podcast num ber 1,190 – Dealing with Foot Problems. 
+
+This is English as a Second Language podcast episod e 1,190. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Become a member of  ESL Podcast – why not? If you do, you can download the Learning Guide for this episode that contains a complete transcript of everything we say, along wit h a vocabulary list, definitions, sample sentences, and culture notes related to this  episode.  
+
+The dialogue today is between Walt and Francesca ab out problems with your feet. Let’s get started. 
+
+[start of dialogue] 
+
+Walt: What are you doing? 
+
+Francesca: I’m selecting and organizing my photos f or a presentation. 
+
+Walt: Oh, can I see? All of these photos are of fee t! 
+
+Francesca: Well, I am a podiatrist and I’m giving a  talk about foot conditions. 
+
+Walt: Ew, some of these are really disgusting!  
+
+Francesca: You’re looking at some of the most commo n foot conditions: blisters, corns, bunions, calluses, and athlete’s foot. 
+
+Walt: What is that? 
+
+Francesca: That’s an ingrown toenail and those are infected toenails. 
+
+Walt: I’m really glad I don’t have either one of th ose problems. 
+
+Francesca: You should be even happier you don’t hav e one of the more serious conditions such as fallen arches, a clubfoot, or ar thritis in your feet. 
+
+Walt: But I do have one problem. Let me take these shoes off and show you.  
+
+ Francesca: Pee-ew! I don’t even need to look at the m to know you have very bad foot odor.  
+
+Walt: What should I do? 
+
+Francesca: Get some new shoes, keep them dry, and c hange your socks every day. 
+
+Walt: Every day? You mean I have to own more than o ne pair? 
+
+[end of dialogue] 
+
+Walt asks Francesca, at the beginning of our dialog ue, “What are you doing?” Francesca says, “I’m selecting and organizing my ph otos for a presentation.” A “presentation” is when you give a little talk or sp eech to a group of people, giving them information about something. Often during a pr esentation, you will have something to show the audience – the people listeni ng to you.  
+
+In this case, Francesca is going to be showing them  some photos – some photographs, some pictures. Walt says, “Oh, can I s ee? All of these photos are of feet!” Your “feet,” of course, are what you walk on . Francesca says, “Well, I am a podiatrist and I’m giving a talk about foot conditi ons.” A “podiatrist” (podiatrist) is a foot doctor, a medical doctor who specializes in feet.  
+
+Walt says, “Ew, some of these are really disgusting .” Walt is looking at the photos and he thinks some of the photos are “disgus ting” (disgusting). Something that is “disgusting” makes you feel sick. Something  that is very unpleasant to look at might be described as “disgusting.” Walt begins actually by saying, “Ew,” which we would usually spell (ew). It’s a noise you  make to show that you are disgusted with something – that you find something very gross or unpleasant.  
+
+Francesca says, “You’re looking at some of the most  common foot conditions: blisters, corns, bunions, calluses, and athlete’s f oot.” Francesca explains that these photos Walt is looking at are of some very co mmon problems people have with their feet. The first problem is “blisters” (b listers).  
+
+A “blister” is a red-colored area of skin that is s ort of like a bubble. It is what we would call a “raised” area of skin. The bubble ofte n has a clear liquid in it that is caused usually by either heat – that is, if you bur n your skin you might get a blister – or by rubbing your skin against something . That may also cause a blister. Blisters are very common. Everyone gets bl isters. If you wear a pair of  
+
+shoes that are too tight, you might get blisters on  your feet because your skin is rubbing against the shoe.  
+
+“Corns” (corns) are small thick spots of dead skin,  especially on your feet. Once again, these are caused usually by pressure or rubb ing your feet against something. Many people have corns, little bits of d ead skin, on their feet. “Bunions” (bunions) are painful bumps that are foun d on your toe – your “big toe,” we would call it. Your hand has 10 fingers. Your fe et have 10 “toes” (toes). The biggest toe is the first one, and that is where you  would find a bunion. Bunions can be very painful.  
+
+“Calluses” (calluses) are large areas of hard, dead  skin that once again are often found on the bottom of your feet, although you coul d have calluses on your hands as well. If you work a lot with your hands, u se your hands a lot, you might eventually develop areas of hard, dead skin on your  hands. We would call those “calluses.” You could have calluses on your hands. You could have calluses on your feet.  
+
+Finally, there is a condition called “athlete’s foo t.” An “athlete” is someone who participates in sports or who does a lot of physica l activity such as running or swimming or playing football. All of those activiti es involve athletes – people who are physically fit. “Athlete’s foot,” however, is a ctually a kind of infection that grows on your feet. It’s what we would call a “fung al (fungal) infection,” often found between your toes or underneath your toenails .  
+
+Francesca, then, has photographs of all these diffe rent conditions. Walt then asks, “What is that?” He doesn’t understand one of the photos, or what is in one of the photos. Francesca explains, “That’s an ingro wn toenail and those are infected toenails.” A “toenail” (toenail) is the ha rd part at the end of your toes. You have fingernails at the end of your fingers.  
+
+Usually you have to cut or trim your fingernails be cause they grow and get too long. The same is true with your toenails. An “ingr own (ingrown) toenail” is a toenail that starts to grow into your foot and can be very painful. If something is “infected” (infected), it has some sort of bacteria  that causes it to be painful and perhaps turn red. “Infected” comes from the verb “t o infect” (infect) and is related to the noun “infection.” You can have an “infection ” in many different parts of your body, not just in your feet.  
+
+Walt says, “I’m really glad I don’t have either of those problems.” Francesca says, “You should be even happier you don’t have on e of the more serious conditions such as fallen arches, a clubfoot, or ar thritis in your feet.” Francesca  
+
+describes three other problems you could have with your feet. The first one is “fallen (fallen) arches (arches).”  
+
+The “arch” of your foot is that part between the fr ont and back of the foot on the side that goes up. It’s the part of your foot the d oesn’t touch the ground when you put your feet on the ground. If you have “fallen ar ches,” your arches do touch the ground and that can cause additional problems.  
+
+A “clubfoot” (clubfoot) is a condition that some pe ople are born with, in which one of the feet is twisted. It’s turned inward and prev ents the bottom of the foot from being placed flat on the ground. “Clubfoot” is a co ndition that nowadays is often corrected with surgery or other kinds of early trea tment with children.  
+
+“Arthritis” (arthritis) is something that can affec t your bones and different parts of your body. It is when the joints of your bone – whe re the bones connect together, where they come together – become swollen and often  painful. You can have arthritis in your feet. You could have arthritis in  your legs. You could have arthritis in your hands.  
+
+So, Francesca is describing these other, more serio us conditions that can affect one’s feet. Walt says, “But I do have one problem. Let me take these shoes off and show you.” So, Walt is taking his shoes off and  Francesca reacts to the smell that she notices. She say, “Pee-ew!” “Pee-ew” is a phrase that we use that means something smells very bad or unpleasant. She says, “I don’t even need to look at them” – meaning your feet – “to know you ha ve very bad foot odor.” “Odor” (odor) is smell, an unpleasant smell.  
+
+Walt says, “What should I do?” Francesca says, “Get  some new shoes, keep them dry,” meaning your shoes dry, “and change your  socks every day.” Doesn’t everyone change their socks every day? Walt says, “ Every day? You mean I have to own” – I have to have – “more than one pair ?” (more than one pair of socks). That is kind of weird, isn’t it, that Walt only has one pair of socks? I don’t think I’d want to be next to him when he took off h is shoes, either.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Walt: What are you doing? 
+
+Francesca: I’m selecting and organizing my photos f or a presentation. 
+
+Walt: Oh, can I see? All of these photos are of fee t! 
+
+Francesca: Well, I am a podiatrist and I’m giving a  talk about foot conditions. 
+
+Walt: Ew, some of these are really disgusting!  
+
+Francesca: You’re looking at some of the most commo n foot conditions: blisters, corns, bunions, calluses, and athlete’s foot. 
+
+Walt: What is that? 
+
+Francesca: That’s an ingrown toenail and those are infected toenails. 
+
+Walt: I’m really glad I don’t have either one of th ose problems. 
+
+Francesca: You should be even happier you don’t hav e one of the more serious conditions such as fallen arches, a clubfoot, or ar thritis in your feet. 
+
+Walt: But I do have one problem. Let me take these shoes off and show you. 
+
+Francesca: Pee-ew! I don’t even need to look at the m to know you have very bad foot odor.  
+
+Walt: What should I do? 
+
+Francesca: Get some new shoes, keep them dry, and c hange your socks every day. 
+
+Walt: Every day? You mean I have to own more than o ne pair? 
+
+[end of dialogue] 
+
+If you have to make a presentation in English, you’ ll be glad that you’ve been listening to our wonderful scripts by our wonderful  scriptwriter, Dr. Lucy Tse. They’ll teach you a lot of good English.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

@@ -1,0 +1,118 @@
+# Missing Person, Part 9: ¡§At the Beach.¡¨
+
+Welcome to English as a Second Language Podcast num ber 69 – Missing Person , Part 9: “At the Beach.” 
+
+This is English as a Second Language Podcast episod e 69. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+This episode is the ninth in our 12-part special se ries: Missing Person , a murder mystery. In our previous episode, we learned that A nne, the sister of the kidnapped woman, was in a car accident. Fortunately , she was able to get the license plate number of the car that hit her, and s he gave the information to Dr. Reeves. He called his friend Officer Cho, of the Lo s Angeles Police Department, and asked him to find out whom the car belongs to.  
+
+Dr. Reeves then went to see one of the suspects in the crime – an ex-employee of Prado Computers named Lenny MacKay – to find out  where he had been at the time of the kidnapping. Lenny didn’t really wan t to speak with him, but finally told him that he had been in Las Vegas with his gir lfriend. Dr. Reeves talked to the girlfriend, who said the same thing – that they  had been in Las Vegas. Dr. Reeves then went back to his apartment, where he fo und a message on his voice mail that said, “Darren Reeves, stop trying t o find Sarah Salas! If you don’t stop looking for her now, you will die!”  
+
+Now, we continue with part 9 of Missing Person : “At the Beach.” 
+
+[start of the story] 
+
+So now someone wanted to kill me. But how did anyon e know I was working on this case? Was Lenny part of this kidnapping in som e way? I still had more questions than I had answers about this case. 
+
+I called my friend Officer Cho back at the police s tation. He had the car registration information I requested earlier. The m ysterious red car that hit Anne last night on the freeway belonged to John Costello , age 37, living in Santa Monica. Tomorrow I would visit Costello. Tonight, I  just needed to get some sleep. 
+
+The next morning I got up early and went to visit A nne in the hospital. Luckily, she was doing just fine. I told her I would pick he r up later in the afternoon and give her a ride home.   
+
+ First, I went to visit June Brown, the other ex-emp loyee of Prado Computers that Anne and Bill thought might be involved in the kidn apping. She now worked at a clothing store on the beach, Stern’s Fashions. I lo ve going to the beach in L.A. The sun is always shining, the surfers are riding t he waves, and the people all look so beautiful, just like movie stars.  
+
+I walked into the clothing store and looked around.  The customers were mostly college students. “Excuse me, miss?” I said to the young sales clerk. “I’m looking for one of the employees here, a June Brown?” 
+
+“Who’s looking for her?” she asked, a little suspic ious. 
+
+“My name is Darren Reeves. I just wanted to ask her  a few questions.” 
+
+“What kind of questions do you want to ask her?” sh e replied. 
+
+“Just some questions. Look, is June Brown here toda y or not?” I was getting impatient with this girl. 
+
+“I’m June Brown, and I don’t know if I want to answ er your questions, mister.” She crossed her arms and looked at me with a very u nfriendly face. “Who do you work for? The police?” 
+
+“No, I don’t work for the police. I’m a, eh . . . p rivate detective,” I answered. “I just want to know where you were three days ago, in the morning. Can you just tell me that?” 
+
+“I don’t remember. I think I was with my boyfriend, ” she said with a smile. “Yeah, that’s right, I was with my boyfriend.”  
+
+“Can I talk to your boyfriend?” 
+
+“No, you can’t,” she said, suddenly getting very an gry. 
+
+“Why not?” I asked. 
+
+“Because he doesn’t want to talk to you!” June said . “Look, buddy, I don’t have to answer your questions. Now why don’t you just get o ut of my store?” She turned around and walked away.  
+
+I couldn’t force her to talk to me, so I didn’t try . I left the store and got back in my car. Maybe this girl was involved in the kidnapping . Maybe she and her boyfriend were trying to get even with Prado Computers. Maybe , maybe, maybe. 
+
+[end of story] 
+
+Our story begins with Dr. Reeves wondering who migh t have called and left him that threatening message. He asks, “Was Lenny part of this kidnapping in some way?” meaning “Was Lenny somehow connected with thi s kidnapping?” He says that he has “more questions than answers about this  case.” This is a common construction in English: “more” something “than” so mething else. He calls Officer Cho and finds out that the red car that hit Anne – that is, that crashed into Anne’s car – belongs to someone named “John Costello.” “To  belong to” means to be owned by.  
+
+Dr. Reeves then visits Anne in the hospital, and he  tells her that he will “pick her up later in the afternoon and give her a ride home. ” “To pick someone up,” means to go meet someone at their house or wherever  they are – in this case, the hospital – and to drive them somewhere. Dr. Ree ves is going to “give her a ride home.” “To give someone a ride home” means to drive the person back to his or her home. 
+
+After visiting Anne, Dr. Reeves goes to find the ot her ex-employee of Prado Computers. Remember, in the last episode he visited  Lenny MacKay, an ex- employee of Prado Computers, the company that Anne and Sarah’s parents had owned. The other ex-employee’s name is June Brown, and she works at the beach in Los Angeles, probably Venice Beach.  
+
+Dr. Reeves says he loves going to the beach in L.A.  because “the sun is always shining” and “the surfers are riding the waves.” A “surfer” (surfer) is someone who stands on top of a long board – a “surfboard” –  and literally tries to ride on the waves. The waves are the water moving toward th e beach, and the surfers can actually stand on top of the waves with their b oards. That’s what “to surf” means, and there are a lot of surfers here in Los A ngeles. 
+
+When Dr. Reeves goes into the clothing store to fin d June Brown, he asked the sales clerk – the woman who works there – “Excuse m e, miss?” If you are an adult and you’re talking to a younger woman, you mi ght refer to her as “miss,” although you can actually say “miss” for a woman of  any age. If you’re trying to get a woman’s attention in a store or in a restaura nt, you might say, “Excuse me, miss.”  
+
+Then Dr. Reeves says he’s “looking for one of the e mployees here, a June Brown.” Notice the use of the indefinite article “a ” – “a June Brown.” He could just say, “I’m looking for one of the employees here, Ju ne Brown,” but you’ll often hear people put an “a” in front of the name when th ey’re asking about someone, particularly if they are looking for someone whom t hey haven’t met before. So, you could go into a restaurant and say, “I’m lookin g for a Mr. Smith,” meaning “I’m looking for Mr. Smith.”  
+
+The woman doesn’t want to answer his question, so,  Dr. Reeves says, “Look, is June Brown here today or not?” The word “look” is u sed in this way when you’re getting angry or impatient and you want the person to listen to you very carefully, to pay attention to what you are saying. He asks if  Julie Brown is “here today or not,” meaning “Is she or isn’t she – yes or no?” So metimes, informally, we might say, “Is she here or what?” “Or what” means the sam e as “or not,” but it’s much more informal. 
+
+The woman says, “I’m June Brown, and I don’t know i f I want to answer your questions, mister.” The word “mister” (mister) refe rs to an adult male, but in this particular usage, it sort of has a negative meaning . It expresses a certain impatience or dislike. For example, “Now look here mister, I don’t want you here.” It’s not a positive use of the word. The woman then  “crossed her arms,” meaning she linked her two arms together in front of her ch est. She then asks, “Who do you work for? The police?” Dr. Reeves says he’s a “ private detective,” which is someone who helps people solve crimes and does othe r things that the police would normally do.  
+
+June Brown says that she was with her boyfriend on the morning of the kidnapping, and Dr. Reeves says, “Can I talk to you r boyfriend?” She becomes angry and says, “He doesn’t want to talk to you!” T hen she says, “Look, buddy, I don’t have to answer your questions.” “Buddy” (budd y) or simply “bud” (bud) is another word for “guy,” and here again, it has a ne gative meaning to it. It’s something you would probably say to someone you’re angry with or don’t like. She tells Dr. Reeves, “Now why don’t you just get o ut of my store,” which is the same thing as telling him to leave her store. 
+
+Dr. Reeves leaves the store. He is still puzzled. H e doesn’t know if the girl was involved or not. He thinks, “Maybe she and her boyf riend were trying to get even with Prado Computers.” “To get even (even) with” so meone means that when someone does something wrong to you, you do somethi ng wrong to them in return. It’s like a type of revenge, when you try t o get back at or hurt someone who has hurt you. But, of course, Dr. Reeves doesn’ t really know the truth. He ends by saying, “Maybe, maybe, maybe.”  
+
+ On the next episode of Missing Person , Dr. Reeves tries to find the man who hit Anne Prado. 
+
+Now let’s listen to the story, this time at a norma l speed. 
+
+[start of the story] 
+
+So now someone wanted to kill me. But how did anyon e know I was working on this case? Was Lenny part of this kidnapping in som e way? I still had more questions than I had answers about this case. 
+
+I called my friend Officer Cho back at the police s tation. He had the car registration information I requested earlier. The m ysterious red car that hit Anne last night on the freeway belonged to John Costello , age 37, living in Santa Monica. Tomorrow I would visit Costello. Tonight, I  just needed to get some sleep. 
+
+The next morning I got up early and went to visit A nne in the hospital. Luckily, she was doing just fine. I told her I would pick he r up later in the afternoon and give her a ride home.  
+
+First, I went to visit June Brown, the other ex-emp loyee of Prado Computers that Anne and Bill thought might be involved in the kidn apping. She now worked at a clothing store on the beach, Stern’s Fashions. I lo ve going to the beach in L.A. The sun is always shining, the surfers are riding t he waves, and the people all look so beautiful, just like movie stars.  
+
+I walked into the clothing store and looked around.  The customers were mostly college students. “Excuse me, miss?” I said to the young sales clerk. “I’m looking for one of the employees here, a June Brown?” 
+
+“Who’s looking for her?” she asked, a little suspic ious. 
+
+“My name is Darren Reeves. I just wanted to ask her  a few questions.” 
+
+“What kind of questions do you want to ask her?” sh e replied. 
+
+“Just some questions. Look, is June Brown here toda y or not?” I was getting impatient with this girl. 
+
+“I’m June Brown, and I don’t know if I want to answ er your questions, mister.” She crossed her arms and looked at me with a very u nfriendly face. “Who do you work for? The police?” 
+
+“No, I don’t work for the police. I’m a, eh . . . p rivate detective,” I answered. “I just want to know where you were three days ago, in the morning. Can you just tell me that?” 
+
+“I don’t remember. I think I was with my boyfriend, ” she said with a smile. “Yeah, that’s right, I was with my boyfriend.”  
+
+“Can I talk to your boyfriend?” 
+
+“No, you can’t,” she said, suddenly getting very an gry. 
+
+“Why not?” I asked. 
+
+“Because he doesn’t want to talk to you!” June said . “Look, buddy, I don’t have to answer your questions. Now why don’t you just get o ut of my store?” She turned around and walked away.  
+
+I couldn’t force her to talk to me, so I didn’t try . I left the store and got back in my car. Maybe this girl was involved in the kidnapping . Maybe she and her boyfriend were trying to get even with Prado Computers. Maybe , maybe, maybe. 
+
+[end of story] 
+
+On the next episode of Missing Person , Dr. Reeves tries to find John Costello, the man who hit Anne Prado. Be sure to come back fo r part 10: “The Bartender Shows Up.”  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. This podcast is copyr ight 2006.
+

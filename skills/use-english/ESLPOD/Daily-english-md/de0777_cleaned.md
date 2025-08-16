@@ -1,0 +1,90 @@
+# Supplies for Outdoor Recreation
+
+Welcome to English as a Second Language Podcast num ber 777: Supplies for Outdoor Recreation. 
+
+This is English as a Second Language Podcast episod e 777 – or backwards, 777.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educational Development in beautiful Los Angeles, C alifornia. 
+
+Our website is eslpod.com.  Go there and check out our ESL Podcast Blog, where we twice a week provide some additional Engli sh help.  You can also look at our ESL Podcast Store, and get some of our premi um courses in English.   
+
+This episode is a dialogue between Jim and Fumiko a bout spending time outside having fun.  Let’s get started. 
+
+[start of dialogue] 
+
+Jim:  I shouldn’t have let my brother pack my suppl ies for this trip.  I was running late and he offered to do it. 
+
+Fumiko:  What’s the problem? 
+
+Jim:  He doesn’t know the first thing about hiking or camping.  Look at this!  My backpack is filled with bottles of water! 
+
+Fumiko:  What’s wrong with that? 
+
+Jim:  He should have just packed me a water filter,  instead of all these heavy bottles to lug around.  And he forgot some of the m ost important supplies, like bug spray and a flashlight. 
+
+Fumiko:  You’re welcome to borrow any of our suppli es.  Here’s some bug spray. Do you need matches?   
+
+Jim:  Yeah, I do.  My brother packed matches, but n ot in a waterproof bag.  One of the bottles of water leaked and got them all wet .  At least my tent and cook stove were spared.   
+
+Fumiko:  Maybe your brother is telling you somethin g. 
+
+Jim:  What?  
+
+ Fumiko:  Maybe he wants to be included in your camp ing trips.  Then, he’ll learn what to do and what to bring.   
+
+Jim:  You might have something there. 
+
+[end of dialogue] 
+
+Jim begins by saying, “I shouldn’t have (I should n ot have) let (or allowed) my brother pack my supplies for this trip.”  “Supplies ” are things that you need for some particular purpose.  It’s a very general term;  it can be used when talking about making something: we need certain materials –  certain things.  In this case, it’s about going on a trip, where you need to  bring certain things.  Jim says, “I was running late (meaning I was behind schedule)  and he offered to do it.”  So his brother – Jim’s brother – packed Jim’s supplies .  He put them all in a bag or in some suitcase for Jim to take with him. 
+
+Fumiko says, “What’s the problem?”  Jim says, “He ( my brother) doesn’t know the first thing about hiking or camping.”  When we say someone “doesn’t know the first thing about something” we mean they don’t  know anything; they have no knowledge at all about this topic – this subject.  In this case, it’s about hiking and camping.  “Hiking” (hiking) is when you go out and walk in a forest or on a mountain or by a lake, some area outside of perhaps  the city or in a park inside a city.  “To hike” is the verb; “hiking” is the noun.   “Camping” is when you go and you sleep away from your house outside – outdoors, not in a hotel.  That’s where I’ll be!  But you can be camping; that’s fine.  I’m  not a camper, I’m not really someone who likes to sleep outside, but some people  do and so that’s why we have this strange thing called “camping.”   
+
+So Jim then says, “Look at this!  My backpack is fi lled with bottles of water!” Your “backpack” is a large bag that you wear on you r back, and you put things in there that you will need for your camping trip or y our hiking.  In the United States, it’s very common in colleges and universities for s tudents to carry their books in backpacks.  This is different than what happens in other countries.  In other countries, only little children wear backpacks, but  in the United States it’s very common for college students to wear backpacks with all of their books and everything.  So, Jim has a backpack, not for books but to go camping. 
+
+Fumiko says, “What’s wrong with (filling your backp ack with bottles of water)?” Jim says, “He should have just packed me a water fi lter, instead of all these heavy bottles to lug around.”  A “water filter” is a small device that you put inside a water bottle that cleans the water so you can dri nk it, so you can use the water  
+
+that is outside – out in the park, or wherever you are – and the water filter will clean it.  That way, if you want clean water, you d on’t have to bring all of the bottles of water with you; you don’t have to lug th e bottles around.  “To lug” (lug) is to carry something that is very heavy, very diff icult to move.  “Lug around” just means to move from one place to another  
+
+Jim said his brother also forgot some of the most i mportant supplies, like bug spray and a flashlight.  “Bug (bug) spray (spray)” is a liquid you put on your skin to prevent or stop little mosquitoes and bugs from biting you.  A “flashlight” (flashlight – one word) is a small, portable light;  usually it has batteries.  Here in the U.S., a common kind of flashlight is a long tub e, usually 6 to 12 inches, and there’s a light at the end of it, but it could be o f a different shape, certainly.  So, Jim’s brother didn’t put a flashlight into his back pack for this trip. 
+
+Fumiko says, “You’re welcome to borrow any of our s upplies.”  “You’re welcome” is usually what you say when someone says “thank yo u” to you.  But in the expression “you’re welcome to (do something),” “you ’re welcome to use my matches,” that means that I don’t mind, I would be happy to share my matches with you; you can use them if you want.  “Matches” are usually small, little sticks of wood or paper that have a special chemical on th em that when you move the match against another surface it creates a flame – it causes a fire.  Of course, if you don’t have matches, then you just go eat in a r estaurant, and you don’t have to worry about lighting a fire!   
+
+Well, Fumiko says that Jim is welcome to borrow any  of their supplies, she says, “Here’s some bug spray,” then asks him if he needs matches.  Jim says, “Yeah (or yes), I do.”  He says his brother packed matche s, but not in a waterproof bag. Something that is “waterproof” (one word) does not allow water inside of that container or that thing.  So, if a bag is waterproo f, you could put it in the water or you could have rain fall on it and what is inside o f the bag would not get wet.  It prevents the water for going inside.  Jim says, “On e of the bottles of water (that were in his backpack) leaked.”  In other words, the  water came out of the bottle by accident, and that got all of the matches wet.  “At least my tent and cook stove were spared,” he says.  Your “tent” is a small thin g that you use to sleep in; it is usually made of a thin material and you use poles o r sticks to put it up.  It’s like a little house that you build, where you can put your self into and your supplies into when you are outside – when you are camping.  A “co ok stove” is a small thing you use to cook on when you are outside; you can co ok food on one of these little stoves.  The stove usually is powered by or has gas to produce the fire for the heat.  Jim says that his tent and cook stove we re spared.  “To be spared” (spared) means they were not hurt or harmed or affe cted by, in this case, the  
+
+water.  “Spare” has a number of meanings in English ; take a look at our Learning Guide for some of those. 
+
+Fumiko says, “Maybe your brother is telling you som ething.”  She means maybe his brother is trying to communicate some message t o him by the way that he packed his supplies.  Jim says, “What?”  Fumiko say s, “Maybe (your brother) wants to be included in your camping trips.  Then, he’ll learn what to do and what to bring.”  Jim says, “You might have something the re.”  The expression “you might have something there” is used to show that yo u believe what the other person said is correct, or at least is partially co rrect.  Maybe you don’t agree with everything, but most of what they say, or part of w hat they say is correct, is something you agree with. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Jim:  I shouldn’t have let my brother pack my suppl ies for this trip.  I was running late and he offered to do it. 
+
+Fumiko:  What’s the problem? 
+
+Jim:  He doesn’t know the first thing about hiking or camping.  Look at this!  My backpack is filled with bottles of water! 
+
+Fumiko:  What’s wrong with that? 
+
+Jim:  He should have just packed me a water filter,  instead of all these heavy bottles to lug around.  And he forgot some of the m ost important supplies, like bug spray and a flashlight. 
+
+Fumiko:  You’re welcome to borrow any of our suppli es.  Here’s some bug spray. Do you need matches?   
+
+Jim:  Yeah, I do.  My brother packed matches, but n ot in a waterproof bag.  One of the bottles of water leaked and got them all wet .  At least my tent and cook stove were spared.   
+
+Fumiko:  Maybe your brother is telling you somethin g. 
+
+Jim:  What? 
+
+Fumiko:  Maybe he wants to be included in your camp ing trips.  Then, he’ll learn what to do and what to bring.   
+
+Jim:  You might have something there. 
+
+[end of dialogue] 
+
+Our scriptwriter might not know the first thing abo ut camping, but she does know a lot about writing good scripts.  Thank you, Dr. L ucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

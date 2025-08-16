@@ -1,0 +1,132 @@
+# Adopting a Child
+
+Welcome to English as a Second Language Podcast num ber 841: Adopting a Child. 
+
+This is English as a Second Language Podcast episod e 841. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. Our website is e slpod.com. Become a member of ESL Podcast, and download the Learning Guide for  this episode. 
+
+This episode is a dialog between Scott and Roberta about adopting a child. Let’s get started! 
+
+[start of dialog] 
+
+Scott:  Hi, I thought I’d stop by to pick up those chairs I wanted to borrow.   
+
+Roberta:  Oh, sure. Here they are.   
+
+Scott:  What are you doing? 
+
+Roberta:  I’m looking through the material we got o n adoption. 
+
+Scott:  Are you and Robert thinking about adopting a child? 
+
+Roberta:  Yeah, we are. We’ve been thinking about i t for a long time, and we think we might be ready now.  
+
+Scott:  Have you decided on an international or dom estic adoption? 
+
+Roberta:  We’re going domestic. 
+
+Scott:  That means going through the foster care sy stem, right? 
+
+Roberta:  Yeah, it’s going to be a lot of work gett ing our house ready and all of the paperwork done. But after we pass inspection, w e’ll just need to wait for a call from a social worker with a placement. We hope it’l l happen quickly. 
+
+Scott:  I thought people had to wait months or year s for a baby.  
+
+Roberta:  They may, but we’re asking for a waiting child, maybe even one with special needs. We may even take more than one child , someone with siblings.  
+
+ Scott:  Wow, that’s a lot of responsibility. Wouldn ’t you rather do a private adoption? Then you can call the shots and even have  a closed adoption, if that’s what you want. 
+
+Roberta:  We don’t mind an open adoption, actually.  We’ve given it a lot of thought, and we think it’s best if the child knows who his or her birth parents are. That way, they won’t always be wondering. 
+
+Scott:  I hope everything goes smoothly. I’m sure y ou’ll both make great parents.   
+
+Roberta:  We’re not so sure, but we’ll do our best.  By the way, you can keep those chairs. 
+
+Scott:  Really? Why? 
+
+Roberta:  You have no children and they’re a hazard . We need to childproof this house and we’re starting with those chairs. 
+
+Scott:  Hey, that’s great. That big-screen TV looks  dangerous. I’d be more than happy to take it off your hands, too.   
+
+Roberta:  Hands off the TV! 
+
+[end of dialog] 
+
+Scott begins our dialog by saying to Roberta, “Hi, I thought I’d stop by to pick up those chairs I wanted to borrow.” “To stop by” mean s to go to a place, usually on your way to another place, though not always. “To p ick up,” here means to collect from, to get from. Scott is picking up some chairs.  Roberta says, “Oh, sure. Here they are.” Here, you can take them. Scott says, “Wh at are you doing?” Roberta says, “None of your business, Scott!”  No, she does n’t say that. She says, “I’m looking through the material we got on adoption.” “ Adoption” is the process of bringing a child into your family who is not biolog ically yours – that is, you’re not the mother or the father but for many different rea sons, the mother and/or father is not able to, or not willing, to keep the child. And so, the child may go to another family and become part of that family. We call that  process “adoption” (adoption).  
+
+Scott says, “Are you and Robert thinking about adop ting a child?” Roberta is married to Robert, I guess – that’s convenient. Rob erta says, “Yeah, we are. We’ve been thinking about it for a long time and we  think we might be ready now.” Scott says, “Have you decided on an internati onal or domestic adoption?”  
+
+“Domestic” (domestic) means within one country, usu ally the country where you are living. So a “domestic adoption,” in the United  States, would be adopting a child from the United States, who was born here, an d “international adoption,” of course, would be adopting a child from a different country. Roberta answers, “We’re going domestic,” meaning we are going to go for a domestic adoption. Scott says, “That means going through the foster ca re system, right?” The “foster (foster) care system” is the government system that  takes care of children whose parents can’t take care of them. Usually in the fos ter care system a child is taken from its mother or father and put into what we call  a “foster home.” They’re not adopted – at least, they don’t have to be adopted b y that family.  
+
+“Foster parents” take care of children who are not their own but don’t adopt them, or at least, they’re not required to adopt them. “T o adopt someone” means to make them legally part of your family. Roberta says , “Yeah. It’s going to be a lot of work getting our house ready and all of the pape rwork done” – all of the forms that they have to fill out. “But after we pass insp ection, we’ll just need to wait for a call from a social worker with a placement.” “To pa ss” means to be approved. “Inspection” is a detailed examination of whether s omeone has done what they are supposed to do.  
+
+If you’re going to be a foster parent in the United  States, in most places, you have to prepare your home. You have to go to a lot of interviews. You have to be investigated by the government and the government w ill usually send someone to inspect your home, to look at your house to make  sure it’s safe for a child to be there. That’s why Roberta says “after we pass inspe ction, we’ll need to wait for a call from a social worker.” A “social worker” is a person whose job it is to help children, to help families, who are having difficul ties. Usually the social worker works for the government. “Social workers” take car e of placing children into foster families, children who need someone to take care of them. That’s what a social worker does, or at least one of the things a  social worker does.  
+
+A “placement” (placement) is an arrangement, in thi s case, for a child to live with a foster family. So, once you are approved as a fos ter family, then you wait until the government has someone that needs taking care o f. They may call you and say, “Tomorrow, we’re going to bring by a five year  old girl,” or “Next week, you are going to have a ten year old boy,” and so forth . By agreeing to be a foster family, you agree to take the child that the govern ment gives you, although there’s some choice there in some cases, I would gu ess.  
+
+Scott says, “I thought people had to wait months or  years for a baby?” It’s true that in the United States, the adoption process tak es a very long time, especially if you are adopting domestically. It’s quicker in m any instances, in many cases, if  
+
+you adopt internationally. Roberta says, “They may.  But we’re asking for a waiting child, maybe even one with special needs.” A “waiting child” is a child who is waiting to be adopted. Sometimes the child i s first put into a foster family. If the foster family is also interested in adopting , they can, in some cases, adopt the child. Roberta mentions “special needs.” “Speci al needs” is a term we use to describe children who may have some physical or men tal disabilities, some problems. Maybe they have some physical problems. M aybe they’ve had some psychological problems – that would be a child with  special needs.  
+
+Roberta says, “We may even take more than one child , someone with siblings.” “Siblings” (siblings) are your brothers and sisters . I have ten siblings – eight brothers, two sisters. Scott says, “Wow, that’s a l ot of responsibility. Wouldn’t you rather do a private adoption?” A “private adoption”  is an adoption arranged between a family and the mother, or parents of a ch ild, without the help of the government, without the government being part of th e process, usually without the child going through the foster care system. Sco tt says, “Then you can call the shots and even have a closed adoption if that’s wha t you want.” “To call the shots” (shots) is an informal expression, meaning t o be making the decisions, to be the person who makes the important decisions. Th e boss calls the shots at his company, for example.  
+
+Scott recommends, or at least suggests, that Robert a and her husband have a closed adoption. A “closed adoption” is an adoption  where the mother or parents of the child never actually meet the people who are  adopting the child. They may not even know who that family is. Closed adoptions used to be very common in the United States. They are less common now. In fac t, I think most adoptions are not closed adoptions. If they are domestic adoption s in the U.S, they are instead “open adoptions.” “Open adoptions” is when the moth er or the mother and father know who the parents are. They may meet with the ne w adopting couple in order to find out if they like the couple, if that’s the family they want their child to be raised in. Open adoptions are much more common nowa days than they were, even 30, 40 years ago.  
+
+Roberta says, “We don’t mind an open adoption actua lly.” “We don’t mind” means we’re okay with that, that’s not a problem. “ We’ve given it a lot of thought.” We thought about it. “And we think it’s b est if the child knows who his or her birth parents are. Your “birth parents” are the  biological mother and father that you have. Everyone has a biological mother and  father, even if you don’t live with them or grow up with them. It’s not possible not  to have a biological mother and father. Roberta says, “That way, they won’t alw ays be wondering.” This is a, as you can imagine, a topic that a lot of adopting parents think about – whether  
+
+they want the child to know who their real – or bio logical, I should say – parents are or not.  
+
+Scott says, “I hope everything goes smoothly. I’ su re you’ll both make great parents.” Roberta says, “We’re not so sure but we’l l do our best. By the way, you can keep those chairs.” Scott says, “Really? Why?” Remember Scott came over to borrow some chairs from Roberta and Robert. Robe rta says, “You have no children and they’re a hazard.” “They” here means t he chairs, not children. Children could be a hazard too, I suppose. A “hazar d” (hazard) is something that is or could be dangerous. Roberta says, “We need to  childproof this house.” “To childproof” (childproof) – one word – means to make  an area safe for a baby or for young children, getting rid of things that migh t be dangerous. If you have guns in your house, you would probably have to remove th em or lock them up in order to childproof your house.  
+
+Scott says, “Hey, that’s great. That big screen TV looks dangerous.” Scott is joking now, saying, “Well, if you have to get rid o f things that are dangerous in your house, how about your television?” – which, of  course, is not dangerous, unless you watch it. Some of the programs are poten tially hazardous. Scott says, “I’d be more than happy to take it off your hands.”  “To take something off your hands” means to take something that another person doesn’t want anymore or doesn’t need any more. Roberta says, “Hands off the  TV.” The expression “hands (hands) off” means do not touch, don’t come close to. She, of course, is not going to let Scott take their big screen, their  large television, because that’s not part of childproofing a house.  
+
+Now let’s listen to the dialogue this time at a nor mal speed. 
+
+[start of dialog] 
+
+Scott:  Hi, I thought I’d stop by to pick up those chairs I wanted to borrow.   
+
+Roberta:  Oh, sure. Here they are.   
+
+Scott:  What are you doing? 
+
+Roberta:  I’m looking through the material we got o n adoption. 
+
+Scott:  Are you and Robert thinking about adopting a child? 
+
+Roberta:  Yeah, we are. We’ve been thinking about i t for a long time, and we think we might be ready now.   
+
+ Scott:  Have you decided on an international or dom estic adoption? 
+
+Roberta:  We’re going domestic. 
+
+Scott:  That means going through the foster care sy stem, right? 
+
+Roberta:  Yeah, it’s going to be a lot of work gett ing our house ready and all of the paperwork done. But after we pass inspection, w e’ll just need to wait for a call from a social worker with a placement. We hope it’l l happen quickly. 
+
+Scott:  I thought people had to wait months or year s for a baby.  
+
+Roberta:  They may, but we’re asking for a waiting child, maybe even one with special needs. We may even take more than one child , someone with siblings. 
+
+Scott:  Wow, that’s a lot of responsibility. Wouldn ’t you rather do a private adoption? Then you can call the shots and even have  a closed adoption, if that’s what you want. 
+
+Roberta:  We don’t mind an open adoption, actually.  We’ve given it a lot of thought, and we think it’s best if the child knows who his or her birth parents are. That way, they won’t always be wondering. 
+
+Scott:  I hope everything goes smoothly. I’m sure y ou’ll both make great parents.   
+
+Roberta:  We’re not so sure, but we’ll do our best.  By the way, you can keep those chairs. 
+
+Scott:  Really? Why? 
+
+Roberta:  You have no children and they’re a hazard . We need to childproof this house and we’re starting with those chairs. 
+
+Scott:  Hey, that’s great. That big-screen TV looks  dangerous. I’d be more than happy to take it off your hands, too.   
+
+Roberta:  Hands off the TV! 
+
+[end of dialog]  
+
+ When it comes to our scripts here on ESL Podcast, t he person who calls the shots is our own Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. Copyright 2012 by the  Center for Educational Development.
+

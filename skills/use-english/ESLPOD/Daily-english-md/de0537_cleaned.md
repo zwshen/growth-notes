@@ -1,0 +1,122 @@
+# Types of Bank Accounts
+
+Welcome to English as a Second Language Podcast number 5 37: Types of Bank Accounts. 
+
+This is English as a Second Language Podcast episode 537.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode that contains all of the vocabulary, definitions, sample sentences, additional definitions, cultural notes, comprehension qu estions, and a complete transcript of everything we say. 
+
+This episode is called “Types of Bank Accounts.”  It’s a dialo gue between Luiz and Iona, going through some of the common vocabulary we  use when talking about the special arrangements or agreements you have wit h a bank when you give them your money.  Let’s get started. 
+
+[start of dialogue] 
+
+Luiz:  Where are you going? 
+
+Iona:  I’m going to the bank to open an account. 
+
+Luiz:  What kind of account: a savings account, a checking accoun t, or a CD? 
+
+Iona:  Um, I’m not sure, but I’m sure someone at the bank can help me decide. 
+
+Luiz:  You’ll also need to decide if you want an intere st-earning account or not, and don’t forget to ask for free checking.  Pick a bank th at doesn’t have monthly service charges. 
+
+Iona:  Okay, thanks…  
+
+Luiz:  And make sure you know if there’s a minimum bala nce required, because if the account dips below that minimum, you’ll be charged a  fee.   
+
+Iona:  Yes, right, I’ll be sure to do that.  Well, I ’d better get going… 
+
+ Luiz:  You probably want to open a checking and a savings a ccount, so make sure you link those accounts.  That should give you overdraft  protection, in case you ever bounce a check.   
+
+Iona:  Okay, I’ll definitely keep all of that in mind.  I’d better go.  Samil is waiting for me. 
+
+Luiz:  Are you thinking of opening a joint account with your boyfriend? 
+
+Iona:  We’re considering it… 
+
+Luiz:  Pool your money and open a CD.  That way, you’ll  lock in a good interest rate and neither of you can touch the money until the CD matures. 
+
+Iona:  We’ll think about it.  Thanks. 
+
+Luiz:  Oh, and… 
+
+Iona:  Would you like to come with us to the bank and help us open our accounts? 
+
+Luiz:  Really?  But I don’t want to interfere. 
+
+Iona:  You, interfere?  I can’t imagine you ever trying  to interfere.   
+
+[end of dialogue] 
+
+Luiz begins by asking Iona, “Where are you going?”  Iona says, “I’m going to the bank to open an account.”  Luiz says, “What kind of account:  a savings account, a checking account, or a CD?”  A “savings account” is a bank account designed to hold your money that you are saving, and usually to pay you a small percentage of what we would call “interest.”  It’s mone y that the bank gives you for using your money, because banks, of course, don’t just t ake your money and put it in a safe place, they lend that money out to oth er people.  They let other people use your money, and those other people pay the b ank interest.  But here, the bank pays you interest – you extra money.  A “checking acc ount” is a bank account that holds money that you can use to write checks with .  A “check” is a small piece of paper; basically it’s a promise to pay a cert ain amount of money. You give someone this check, and they can take it to their b ank and the bank will get the money from your checking account.  Checking accounts so metimes also offer interest, it depends on the account.  A “CD” stand s for a certificate of deposit.  It’s a special bank account where you give the ban k usually a large  
+
+ amount of money, more than 10,000 dollars typically – i t could be up to a million dollars or more – and you give this to the bank and you a gree not to touch it for a certain amount of time.  It’s like a savings account, but  you can’t just go to the bank and take your money out; you have to leave it there for 60 days, 90 days, a year, maybe up to five years.  The bank then give you more  interest; it gives you a higher what we would call “rate of interest,” it a llows you to get more money for putting your money with this bank.  In the United State s, CDs are popular ways of saving a lot of money.  If you have a lot of money that yo u don’t want to invest – don’t want to put elsewhere, you can put it into a CD . 
+
+Iona says, “Um, I’m not sure, but I’m sure someone at the  bank can help me decide.”  Luiz says, “You’ll also need to decide if you wan t an interest-earning account or not.”  We’ve already described “interest” as the  percentage of money that the band gives you back for allowing the bank to u se your money.  “Interest- earning” just refers to an account that earns interest, that’s the verb we use.  You earn interest – you get money for your money.  The verb “earn” can also mean to get money from a job.  I work; I earn money from my job  – not a lot of money, but some money! 
+
+Luiz says, “don’t forget to ask for free checking.”  In some banks, the bank charges you a fee for having a checking account or for not h aving enough money in your checking account.  “Free checking” is a checking account where the bank does not charge you any money; it doesn’t charge you a fee.  Luiz says, “Pick a bank that doesn’t have monthly service charges.”  A “service cha rge” at a bank is the amount of money the bank makes you pay for certain ser vices such as using an automatic teller machine – an ATM, a machine that you go and you put a card into and you get money out of from your account.  Some  banks have service charges for using ATMs.  Some banks in the U.S. now have service charges if you want to go into the bank and talk to a real human being.  That’s sort of strange, but it’s true at a lot of banks, especially big b anks nowadays.  These would all be called service charges.   
+
+Iona says, “Okay, thanks…” but Luiz has more advice.  Luiz says, “ And make sure you know if there’s a minimum balance required.”  “Make sure” means get this piece of information, be confident about this piece  of information, that you know it, be sure.  He says, “make sure you know if there’s a minimum balance.” A “minimum balance” is the minimum, or least amount of  money that you have to keep in your bank account.  Usually, banks require a minimum  balance – “balance” is just the amount of money in your account – in  order to have an account without service charges.  So in some banks, you have t o have a minimum balance of, say, 1,000 dollars, or 5,000 dollar s.  If you don’t have that amount, the bank will charge you a service charge.  Luiz says,  “if the account  
+
+ dips below that minimum, you’ll be charged a fee,” a s ervice charge.  “To dip below” means to fall below a certain number or amoun t, to be less than a certain number or amount.  You could say, “The temperature dip ped below 30 degrees Fahrenheit last night,” meaning it got below; it wen t lower than 30 degrees.  So, if your bank has a 5,000-dollar minimum balance and you h ave less than 5,000 dollars, because you took some money out, you would dip b elow the minimum balance. 
+
+Iona says, “Yes, right, I’ll be sure to do that.  Well, I’d better get going…”  This is a polite way of saying I need to leave now.  Iona wants Luiz to stop talking to her, stop giving her advice.  Luiz, however, continues to give a dvice.  He says, “You probably want to open a checking and a savings account, so make sure you link those accounts.”  “To link” (link) is to connect, to tie th ings together.  At many banks, you can have both a savings account and a checking accoun t.  You link the accounts together so you can move money from one account  to the other easily.  Luiz says linking the checking and savings accounts will give Iona overdraft protection, “in case you ever bounce a check.”  “Ove rdraft protection” is a service where the bank will pay a check even if you don’t h ave enough money in your checking account.  It’s used to protect people in ca se, or in the event that, they bounce a check.  “To bounce a check” means to write a check, to give someone a promise that you are going to pay them, but n ot having enough money in your account.  So, if you give someone a check for  500 dollars, and you only have 250 dollars in your account, that would be bouncing a check. Some people do that accidentally; some people do it pur posely, in which case they can get into trouble, including legal trouble.  “ Bounce” has several different meanings in English, as does the word “link,” which we use d a minute ago.  For both of those words, take a look at our Learning Guide for additional explanations. 
+
+I should explain that the word “draft,” in this case, me ans the same as withdrawal.  “To withdraw” money from an account mea ns to take it out.  So, an “overdraft” is when you try to draw to much money out of your account, such as the example of our bounced check. 
+
+Iona says, “Okay, I’ll definitely keep all of that in mind  (I’ll try to remember all of that).  I’d better go.”  “I’d better go” is another polite way of saying I have to go now – shut up!  “Samil is waiting for me,” Iona says.  L uiz says, “Are you thinking of opening a joint account with your boyfriend?”  A “jo int account” is an account where you have two or more people who are officially or  legally on the account we would say, meaning both of their names are on the account, they both can use the account.  Luiz is asking Iona if she plans to open a joint account with her boyfriend, perhaps they’re getting married soon.  Iona says, “We’re considering it  
+
+ (we’re thinking about it).”  Luiz says, “Pool your money and open a CD.”  “To pool (pool) your money” means to combine your money.  To pool  anything means to combine things.  Usually, for example, if you are in a g roup and you all need to do something together, you might pool your resources, the  things that you have in order to accomplish your task or goal.  In this case, you would pool your money; you would put your money together and, Luiz is re commending, open a CD (a certificate of deposit).  He says, “That way, you’ll lock in a good interest rate.”  “To lock in” in this case means to agree on an in terest rate that will not change over time, or to agree on a price that will not  change over time.  When you buy a house in the United States and you get a special  loan for that house, what we call a “mortgage” from a bank, you can lock in yo ur interest rate.  You can say, “Okay, I want this particular interest rate,” and  the bank guarantees it; it agrees that it won’t change it; it won’t make it go up .  This is a way of protecting you. 
+
+Luiz says, “you’ll lock in a good interest rate,” remember the interest rate is the percentage of money that either the bank will pay you fo r putting money in a savings account or CD, or that you pay the bank when the ba nk loans you money.  Luiz says, “neither of you can touch the money unti l the CD matures.” “To touch the money,” here, means you can’t take the mon ey out.  That’s what a CD is; it’s when you give the money – your money to the b ank for a long period of time, and you are not allowed to take the money back.   “To mature,” here, means for a financial arrangement to reach the end of a specified or agreed period.  In other words, if you have a one-year CD it will mature 12 months from today, and on that date then you can get your money back  and get the interest that the bank paid you.  That’s what we mean by a CD ma turing, it comes to the end of the time that you agreed to leave the money the re. 
+
+Finally, Iona says, “We’ll think about it.  Thanks.”  Lu iz says, “Oh, and…”  Iona says, “Would you like to come with us to the bank and help  us open our accounts?”  Iona isn’t really serious, but she’s saying to L uiz you’re giving me too much advice now.  Luiz says, “Really?  But I don’t want to  interfere.”  “To interfere” means to become involved in someone else’s busin ess or someone else’s personal life, especially if that person doesn’t wan t you to be involved – doesn’t want you to help.  Iona says, “You, interfere?  I can’t imagine you ever trying to interfere.”  Iona’s being sarcastic; she’s making a joke because Luiz has been giving all of this advice that Iona didn’t actually ask him for. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+ Luiz:  Where are you going? 
+
+Iona:  I’m going to the bank to open an account. 
+
+Luiz:  What kind of account: a savings account, a checking accoun t, or a CD? 
+
+Iona:  Um, I’m not sure, but I’m sure someone at the bank can help me decide. 
+
+Luiz:  You’ll also need to decide if you want an intere st-earning account or not, and don’t forget to ask for free checking.  Pick a bank th at doesn’t have monthly service charges. 
+
+Iona:  Okay, thanks…  
+
+Luiz:  And make sure you know if there’s a minimum bala nce required, because if the account dips below that minimum, you’ll be charged a  fee.   
+
+Iona:  Yes, right, I’ll be sure to do that.  Well, I ’d better get going… 
+
+Luiz:  You probably want to open a checking and a savings a ccount, so make sure you link those accounts.  That should give you overdraft  protection, in case you ever bounce a check.   
+
+Iona:  Okay, I’ll definitely keep all of that in mind.  I’d better go.  Samil is waiting for me. 
+
+Luiz:  Are you thinking of opening a joint account with your boyfriend? 
+
+Iona:  We’re considering it… 
+
+Luiz:  Pool your money and open a CD.  That way, you’ll  lock in a good interest rate and neither of you can touch the money until the CD matures. 
+
+Iona:  We’ll think about it.  Thanks. 
+
+Luiz:  Oh, and… 
+
+Iona:  Would you like to come with us to the bank and help us open our accounts? 
+
+Luiz:  Really?  But I don’t want to interfere. 
+
+ Iona:  You, interfere?  I can’t imagine you ever trying  to interfere.   
+
+[end of dialogue] 
+
+In case you didn’t know, the script for this episode was w ritten by Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

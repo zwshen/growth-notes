@@ -1,0 +1,108 @@
+# Types of Humor
+
+Welcome to English as a Second Language Podcast num ber 979 – Types of Humor.  
+
+This is English as a Second Language Podcast episod e 979. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Our website is ESLPod.com. Become a member of ESL P odcast by going to our website. You could also like us on Facebook at face book.com/eslpod.  
+
+This episode is a dialogue between Kyle and Paulina  about kinds of humor – things that make you laugh. Let’s get started.  
+
+[start of dialogue] 
+
+Kyle: Are you watching that sitcom again? It’s so s tupid. There’s nothing witty or original about the humor.  
+
+Paulina: I don’t need highbrow jokes. I enjoy all k inds of comedy. 
+
+Kyle: You mean you like screwball and slapstick hum or.  
+
+Paulina: Yes, so? 
+
+Kyle: So? It’s so juvenile.  
+
+Paulina: I know that it’s hard for people like you who like satire to appreciate the more wacky kinds of humor, but you might try gettin g off your high horse once in a while. 
+
+Kyle: I’m not snooty. I’m just discriminating. I li ke comedians with a dry sense of humor like that self-deprecating guy on that show I  watch. 
+
+Paulina: That show is a snoozefest. That guy bores me to death.  
+
+Kyle: And this show does it for you? 
+
+Paulina: You bet. 
+
+Kyle: There’s no accounting for taste!  
+
+ [end of dialogue] 
+
+Kyle begins our dialogue by saying to Paulina, “Are  you watching that sitcom again? It’s so stupid.” A “sitcom” (sitcom) is a te levision show with a single group of characters, a single group of people, who do thi ngs that are supposed to be funny. If you remember the television show Friends , for example, which was popular in many countries around the world a few ye ars ago, then you know what a sitcom is. “Sitcom” is actually short for “situat ion comedy” – a comedy where you have the same people in different situations ea ch week.  
+
+Kyle thinks this sitcom is “stupid,” meaning it’s n ot very funny; it’s dumb. “There’s nothing witty or original about the humor,” Kyle sa ys. “Witty” (witty) means funny, but in an intelligent way – not funny just because somebody falls down or just because somebody says something stupid. “Witty” is an adjective used to describe humor that is clever, that is intelligent.  Kyle says, “There is nothing witty or original about the humor” – about the things tha t you are supposed to laugh at in the sitcom.  
+
+Paulina says, “I don’t need highbrow jokes. I enjoy  all kinds of comedy.” A “joke” is something that is told to make you laugh – usual ly a short story, often just a sentence or two. “Highbrow” (highbrow) refers to so mething that is more intelligent or sophisticated than the average perso n or the average, in this case, joke. “Highbrow” refers to things that are very int ellectual in nature, things that people think are very intelligent. Paulina says she  does not need highbrow jokes.  
+
+She enjoys all kinds of “comedy” (comedy). “Comedy”  is a category of movies or television shows or theatrical plays or anything, r eally, that makes you laugh. The category of comedy includes anything that is suppos ed to be funny. Kyle says, “You mean you like screwball and slapstick humor?” “Screwball” (screwball) is a somewhat old-fashioned term nowadays to refer to co medies that are silly. We might use also the adjective “goofy” (goofy) – the sorts of things that a child might laugh at. A lot of comedies by one of the great com edians of the twentieth century, Jerry Lewis, were screwball comedies – sil ly comedies.  
+
+“Slapstick (slapstick) humor” is humor that involve s physical actions. Someone walking down the street and suddenly falling – that  is slapstick humor. When you laugh at someone’s actions rather than what they ar e saying, especially if those actions involve falling down or doing something str ange with their body, that would be slapstick humor. Paulina says, “Yes” – she likes this kind of humor – “so?”  
+
+We use that word “so” as a question when we are say ing to the other person that you don’t think there’s anything wrong with that. F or example, you say to your wife, “This is the third time this week that we hav e had dinner at McDonald’s.” The idea behind this statement is that you’re not h appy about that, or you think that this is strange. Your wife, however, may say, “So?” When she says that, she’s saying that there is no problem with that – t hat there should be no complaint related to that fact. You could also say,  “So what?” meaning “Why is that important?” Paulina says, “Yes, so?”  
+
+Kyle says, “So?” The way that Kyle responds to Paul ina’s “So?” by saying “So?” indicates that he’s surprised that she doesn’t thin k this is important. He’s surprised at the fact that she doesn’t think there’ s anything wrong with what they were just talking about. Kyle says, “These comedies  are so juvenile.” “To be juvenile” (juvenile) means to be immature – somethi ng you would expect out of a child or teenager, not from an adult.  
+
+Paulina says, “I know that it’s hard for people lik e you who like satire to appreciate the more wacky kinds of humor, but you m ight try getting off your high horse once in a while.” “Satire” (satire) is a type  of humor that copies or exaggerates something else to make fun of it. It’s a kind of humor that sometimes can be done in a mean way, in a negative way, to ma ke people laugh at something, but often to make them think about why t his is a strange thing and why perhaps we should change it.  
+
+“Satire” is a kind of humor that is also a commenta ry on the way that we live our lives, often a negative commentary that is, of cour se, also meant to be funny. Paulina says that Kyle likes satire, which some peo ple might consider a more intelligent kind of humor, but that she likes wacky  kinds of humor. “Wacky” (wacky) is similar to screwball comedy. It’s comedy  that is silly – the sort of thing that a young child might find funny. As an adjectiv e, “wacky” also means crazy, weird, unpredictable, unexpected.  
+
+Paulina says that Kyle should try getting off his h igh horse once in a while. The expression “to get off your high horse” means to st op acting superior, to stop thinking that you are better than other people. If you can imagine someone on a horse riding by people who are walking, you get the  idea that the person on the horse is higher, and perhaps thinks that he’s bette r than the people down below who are walking. Paulina is telling Kyle that he sh ould not act so superior about what kind of humor he likes.  
+
+Kyle says, “I’m not snooty. I’m just discriminating .” “To be snooty” (snooty) means to be mean to others because you think you ar e better than they are.  
+
+Another word we might use here is “snobby” (snobby) . A “snob” (snob) is a person who thinks that they’re better than other pe ople. A more informal way of saying this is “to be stuck (stuck) up.” “Stuck up”  is an expression you would probably hear more often in high school among young  people, but you could also use it in this case as well.  
+
+Kyle says he is “discriminating.” “To be discrimina ting” here means to be selective. “To discriminate” can be a positive thin g: I am very picky, I’m very choosy, I’m very selective about the things that I like. I don’t like everything; I like only certain things. “Discriminate” can also be use d in a negative way to refer to the treatment of someone based on perhaps the color  of their skin or their sex (whether they’re male or female). That sort of “dis criminating” is a bad thing, we usually believe. However, here it’s used to mean se lective.  
+
+Kyle says, “I like comedians with a dry sense of hu mor like that self-deprecating guy on that show I watch.” A “dry (dry) sense of hu mor” is comedy that is considered perhaps a little bit more intellectual. A “dry sense of humor” would involve jokes that someone tells you in perhaps eve n a serious way. You have to then figure out that it’s supposed to be funny. Tha t’s the general idea here.  
+
+Kyle says he likes a certain comedian who is self-d eprecating. “To be self- deprecating” means to say bad things about yourself , but doing it in such a way that you are, in this case, being funny. “Self-depr ecating” is usually considered a good quality in someone, not just someone who’s try ing to be funny. If we say, “This man is self-deprecating,” we mean that he doe sn’t think he is superior to other people. He understands that he’s not perfect.  He recognizes his faults and problems.  
+
+Paulina says that this particular show that Kyle wa tches is “a snoozefest.” “To snooze” (snooze) means to sleep. “Fest” (fest) here  relates to a festival, a celebration. However, when Paulina uses this word, combining “snooze” with “fest,” she’s making a joke. She’s saying this show  is very boring. This show is not interesting. This show will make you fall aslee p it’s so boring. In fact, the next thing Paulina says is, “That guy bores me to death. ” “To bore (bore) someone to death” means to make someone feel very bored, to ma ke someone feel very uninterested.  
+
+Kyle says, “And this show does it for you?” The exp ression “to do it for you” here means to satisfy you, to give you something that yo u are looking for. Some people, for example, like to go to Disneyland becau se they like to ride on the big rides. That doesn’t do it for me, meaning that’s no t something I like to do. I last  
+
+went to Disneyland when I was nine years old. It’s not something I enjoy doing. Paulina says, “You bet,” meaning yes, this show doe s it for me; I like this show.  
+
+Kyle then says, “There’s no accounting for taste.” This is an old expression. “There is no accounting (accounting) for taste (tas te)” is used when another person has very different likes and dislikes from y ou. It’s used when another person likes certain things that you don’t like and  that you don’t think anyone, perhaps, should like. However, you don’t want to co ntinue talking about it, perhaps, or you don’t want to continue criticizing the other person. So you say, somewhat insultingly, really, “There’s no accountin g for taste,” meaning everyone has things that they like and dislike and there, in  a sense, is no real rational way for explaining why some people like some things and  other people like other things.  
+
+However, when you say this expression, you are sort  of insulting the other person. You’re saying, “Well, you have really bad t aste” – that is, you have very bad preferences. You like things that you shouldn’t  like, but there’s no way for me to explain that. That’s what’s meant by the phrase “there is no accounting for” something – there’s no way of trying to explain it,  and so I won’t try.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Kyle: Are you watching that sitcom again? It’s so s tupid. There’s nothing witty or original about the humor.  
+
+Paulina: I don’t need highbrow jokes. I enjoy all k inds of comedy. 
+
+Kyle: You mean you like screwball and slapstick hum or.  
+
+Paulina: Yes, so? 
+
+Kyle: So? It’s so juvenile.  
+
+Paulina: I know that it’s hard for people like you who like satire to appreciate the more wacky kinds of humor, but you might try gettin g off your high horse once in a while. 
+
+Kyle: I’m not snooty. I’m just discriminating. I li ke comedians with a dry sense of humor like that self-deprecating guy on that show I  watch. 
+
+ Paulina: That show is a snoozefest. That guy bores me to death.  
+
+Kyle: And this show does it for you? 
+
+Paulina: You bet. 
+
+Kyle: There’s no accounting for taste! 
+
+[end of dialogue] 
+
+The writer of our witty, humorous dialogues is the one and only Dr. Lucy Tse. Thank you, Lucy.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

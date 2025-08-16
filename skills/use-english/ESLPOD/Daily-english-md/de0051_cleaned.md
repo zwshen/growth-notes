@@ -1,0 +1,56 @@
+# Eating Fast Food
+
+Welcome to English as a Second Language Podcast num ber 51 – Eating Fast Food. 
+
+This is English as a Second Language Podcast episod e 51. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+In this episode, we're going to discuss eating at a  fast food restaurant. Let's get started. > My friend Julia called me the other day. She wanted  to grab some lunch and asked me if I wanted to go to the local fast food p lace down the street. I said sure, even though I knew it wouldn't be good for me . I hopped in my car and swung by to pick her up at her work. When we go t to the restaurant, there was already a long line at the drive-through. It wa s the lunch hour, so that is to be expected.  
+> We inched forward in the driveway and finally reach ed the order station. "Welcome to McApple's Restaurant. How can I help yo u today?" I leaned over to shout into the little box, "Uh, I'll have a cheeseb urger, and my friend will take a regular hamburger." "Would you like anything to d rink with that?" she asked. She had a very low voice. "Two Diet Cokes, please,"  I said. "And would you like any fries with that?" she asked again. "No, just th e hamburgers, thanks." "That'll be $8.75. Please pull forward."  
+> We drove up to the pick-up window and paid the cash ier. Our food was ready about 30 seconds later. "Thank you!" I said as we d rove away. We pulled over to the side of the road to eat our hamburgers. I knew I was going to regret it, but it sure did taste good!
+
+I told the story about going to a fast food restaur ant. A “fast food restaurant” is one where you get your food really fast. McDonald’s , for example, is a famous American fast food restaurant. I said that my frien d Julia called me “the other day.” The expression “the other day” just means som e day recently, within the last perhaps week or two. She said she “wanted to g rab some lunch.” “To grab,”  
+
+you probably know, means to reach out your hand to pick something up. But here, “to grab some lunch” means to go and eat lunc h, to go to get your lunch.  
+
+I said I “hopped in my car.” “To hop” normally mean s to jump up and down like a bunny rabbit. We say “The bunny rabbit jumped” – or  “hopped” – “up and down.” A kangaroo, like you would find in Australia, hops.  But when we use the expression “I hopped in my car,” we don’t mean that  we actually jump, but that we got into our car fairly quickly – right away – i n order to drive away.  
+
+I said that I “swung by” to pick my friend up. “To swing by” means to go to that place. We use this expression a lot. “When you are coming from work, dear, would you swing by the grocery store and buy me som e chicken?” – meaning “I want you to stop at the grocery store and get some chicken. If you don’t, you won’t eat tonight.” So, I do. 
+
+I was going to “pick her up” which is, of course, I  was going to have her come with me in my car. When we got to the restaurant, t here was “a long line at the drive-through.” A “drive-through restaurant” is a r estaurant where you can stay in your car. You don’t even have to leave your car. Yo u can pull up to a little driveway, or a little place where cars go, and you can order your food and pay for your food. It’s called a “drive-through restaurant. ” Not all fast food restaurants have a drive-through, but most drive-through restau rants are fast food restaurants. 
+
+I said that it was “the lunch hour,” meaning, of co urse, it was around noon, which is when Americans eat their lunch. I said that “we inched forward in the driveway.” “To inch forward” means to move very slo wly, inch by inch. So, we “inched forward” and we “finally reached the order station,” and that’s the place where they have the menu of the items for the resta urant and a little box that you have to shout into to place or to give your order.  
+
+The woman at the restaurant said, “Welcome to McApp le’s Restaurant.” “Welcome to” is a very common thing that you would say to someone who is entering a restaurant or is coming into a store. I said that I “leaned over.” “To lean” (lean) means to bend over, to take your body and bend it down towards the ground. Here, “I leaned over” means that I went ove r the side of my car in order to talk into the little box.  
+
+I said, “I’ll have a cheeseburger, and my friend wi ll take a regular hamburger.” When we are ordering at a restaurant, the most comm on expression is to say, “I’ll have a . . .” and then what you want. You can also say “I will take the filet mignon and the shrimp” –  because I’m a very big eater. Th at is the expression we use,  
+
+then: “I’ll have” or “I will take.” I said that the  cashier “had a very low voice.” A “low voice” is someone who speaks down here, and a “high voice” is someone who speaks up here. I don’t have a high voice or a low voice, I don’t think.  
+
+The cashier told me (that) “That’ll be $8.75.” When  someone is telling you how much money you owe them – at a store, sometimes at a restaurant – they’ll use the expression “that will be.” “That will be $575 t o fix your car, please.” That is the expression. It means “this is how much you have to pay me or give me.” She told us, at the restaurant, to “pull forward.” “To pull forward” just means to move your car up forward – going a little bit farther. We use  this expression usually for cars, automobiles: “Please pull forward.” You’ll hear tha t in a fast food – or drive- through, rather – restaurant. It usually refers to cars.  
+
+I said that we “drove up to the pick-up window and paid the cashier.” “To drive up” really just means to drive to a place. Once aga in, it’s that use of the preposition to emphasize the word. “We drove up to Sacramento” is the same as saying “We drove to Sacramento,” but it gives it a little more emphasis. The “pick-up window,” you can guess, is the place where  you pick up or get your food in a fast food restaurant. In some fast food restau rants, you have a cashier that you pay in one window or one place, and then you mo ve forward or pull forward a couple of feet and there is someone to give you y our food.  
+
+After we got our food, I said that we “drove away.”  “To drive away” means to drive away from a certain place. It is always relat ed to where you are going from. “She drove away from my house and left” means she w as at my house and now she is leaving my house. I said that we “pulled ove r to the side of the road to eat our hamburgers.” “To pull over” means to stop – to get out of the street or the lane where you are driving and to stop. The “side o f the road” means the place where you can park a car or stop a car in a street.   
+
+Finally, I said that I “was going to regret it,” bu t the hamburger “sure did taste good.” “To regret” something means that you wish yo u would not have done it. I wish I didn’t eat all those french fries. Now I fee l very sleepy. The expression “it sure did taste good” – “sure” here (sure) – sure me ans . . . is another way of emphasizing. “It sure was hot yesterday” means it w as really hot yesterday. 
+
+Now let’s listen to our story, this time at a norma l speed. 
+
+[start of story] 
+
+My friend Julia called me the other day. She wanted  to grab some lunch and asked me if I wanted to go to the local fast food p lace down the street. I said  
+
+sure, even though I knew it wouldn't be good for me . I hopped in my car and swung by to pick her up at her work. When we go t to the restaurant, there was already a long line at the drive-through. It wa s the lunch hour, so that is to be expected.  
+
+We inched forward in the driveway and finally reach ed the order station. "Welcome to McApple's Restaurant. How can I help yo u today?" I leaned over to shout into the little box, "Uh, I'll have a cheeseb urger, and my friend will take a regular hamburger." "Would you like anything to d rink with that?" she asked. She had a very low voice. "Two Diet Cokes, please,"  I said. "And would you like any fries with that?" she asked again. "No, just th e hamburgers, thanks." "That'll be $8.75. Please pull forward."  
+
+We drove up to the pick-up window and paid the cash ier. Our food was ready about 30 seconds later. "Thank you!" I said as we d rove away. We pulled over to the side of the road to eat our hamburgers. I knew I was going to regret it, but it sure did taste good! 
+
+[end of story] 
+
+Thanks to our great scriptwriter, Dr. Lucy Tse, for  all of her hard work. And thanks to you for listening.  
+
+From Los Angeles, California, I’m Jeff McQuillan. C ome back and listen to us again here on ESL Podcast. 
+
+ESL Podcast is produced by the Center for Education al Development in Los Angeles, California. This podcast is copyright 2006 .
+

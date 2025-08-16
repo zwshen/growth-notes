@@ -1,0 +1,92 @@
+# Describing Very Large and Small Sizes
+
+Welcome to English as a Second Language Podcast num ber 1,301 – Describing Very Large and Small Sizes.  
+
+This is English as a Second Language Podcast episod e 1,301. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+This episode is a dialogue between Ian and Shannon about describing the size of something. Let’s get started.  
+
+[start of dialogue] 
+
+Ian: Oh, look at your team. How cute! You’ve recrui ted the puniest players you could find. 
+
+Shannon: Are those your players? They’re humungous!  
+
+Ian: My players are the best around. They’re massiv e in size and massive in talent. They’ll crush your teeny-tiny team without breaking a sweat. 
+
+Shannon: Our teams are supposed to have players fro m the same age group, so why is it that I have normal-size players and yours  are gigantic? Something doesn’t smell right. 
+
+Ian: It all comes down to recruitment. I recruited the best players.  
+
+Shannon: Are you sure you don’t have a few ringers on your team, some who are a few years older than they’re supposed to be? 
+
+Ian: Of course I don’t. I can’t help it if the best  players gravitated toward my team and to my better coaching. Ready to be schooled? 
+
+Shannon: I think I’d better give my team a pep talk  first. A few of them look like they’re ready to bolt – or throw up! 
+
+[end of dialogue] 
+
+Ian begins our dialogue by saying to Shannon, “Oh, look at your team. How cute!” Normally the word “cute” is used to mean att ractive in some way, but here Ian is using it sarcastically – that is, he’s using  it in the opposite way we normally  
+
+do in order to be funny. He says, “You’ve recruited  the puniest players you could find.” We soon learn that Ian and Shannon are coach es, or managers of some sort of sports team.  
+
+Ian says to Shannon that she has “recruited the pun iest players.” “To recruit” (recruit) means to get someone to participate in an  organization, a company, or – as is the case in our dialogue – a team. “To recrui t” someone means to go and try to persuade that person to join your group. Ian  says that Shannon has “recruited the puniest (puniest) players.” “Puniest ” is the superlative form of “puny” (puny), which means very small and weak. “Pu ny” would describe a person or perhaps an animal who was, or that was, v ery small and weak.  
+
+Shannon asks, “Are those your players? They’re humu ngous!” “Humungous” (humungous) is a funny sounding word that means ext remely large. We might also say “huge” (huge). A “humongous player” would be someone who’s very tall and perhaps muscular or strong. Ian says, “My playe rs are the best around,” meaning the best anywhere. “They’re massive in size  and massive in talent.” Something that is “massive” (massive) is something that is very large, very big, perhaps also very heavy – something that weighs a l ot.  
+
+Ian says his players are “massive in size,” meaning  how big they are, “and massive in talent,” meaning how good they are at wh at they do, how good they are as players of this game. He says, “They’ll,” me aning his players, “crush your teeny-tiny team without breaking a sweat.” “Crush” (crush) as a verb means to destroy or to ruin something. In this case, however , it means to win a competition by a large score, or to beat another team very badl y so that you win with a much higher score than the other team.  
+
+Ian says his players will crush Shannon’s “teeny-ti ny team.” “Teeny (teeny) – tiny (tiny)” means very small. The word “tiny” by itself  means extremely small. So, “teeny-tiny” means really, really, really small. It ’s not a common term, “teeny- tiny,” but you will hear people use it to describe something that is very, very small. Ian is describing Shannon’s team as “teeny-t iny.”  
+
+He says his players will beat them “without breakin g (breaking) a sweat (sweat).” “Sweat” is the water or the liquid that comes out o f your body when you are very hot, perhaps because you are working a lot. “To bre ak a sweat” means to start sweating because you are working a lot, you are wor king hard. Ian is saying that his team will beat Shannon’s team “without breaking  a sweat,” meaning that they won’t have to work very hard because they are so mu ch better than Shannon’s team.  
+
+Shannon says, “Our teams are supposed to have playe rs from the same age group,” meaning about the same age. “So why is it that I ha ve normal-size players and yours are gigantic?” “Gigantic” (gigantic) means ve ry large, huge. It means the same in this case as “humungous” or “massive.” Shan non is wondering why, if the players on their teams are supposed to be about  the same age, why Ian’s players are so much bigger than hers.  
+
+She says, “Something doesn’t smell right.” The expr ession “Something doesn’t smell (smell) right” means something is suspicious.  The verb “to smell” is normally used to talk about the ability to detect o r to sense the odor of something using your nose. Your nose smells; your eyes see. B ut when someone says, “Something doesn’t smell right,” he means there’s s omething wrong with this situation. There’s something suspicious about what is happening here, something isn’t right.  
+
+Ian says, “It all comes down to recruitment.” The e xpression for something “to come down to” something else means it is a simple e xplanation, or the main reason something is true is because of this or that . We could say, for example, “Doing well at school comes down to studying hard,”  or doing all of the reading required. That would be the simplest explanation fo r why or how something is successful.  
+
+Ian says his success, the reason he has such big pl ayers, “comes down to recruitment.” “Recruitment” is the noun that comes from the verb “to recruit.” He means that he went out and got the best players. He  says, “I recruited the best players.” Shannon asks, “Are you sure you don’t hav e a few ringers on your team?” A “ringer” (ringer) is usually an athlete, s omeone who plays a sport, who is not eligible or shouldn’t actually be on that te am, usually because the player is too old to be on that team.  
+
+If you want to play basketball with your friends an d you brought a professional basketball player with you as a member of your team , the other team would say, “Well, he’s a ringer.” He doesn’t belong here. He’s , in this case, not qualified because he’s obviously not the same level or he’s n ot at the same level as the rest of the players. Ian says, “Of course I don’t,”  meaning I don’t have any players here who are ringers.  
+
+It does happen in American sports – in amateur spor ts, especially for children and teenagers – that some teams try to get players who are actually too old to be on that particular team. Ian says he’s not doing th at. He says, “I can’t help it,” meaning it’s not my fault or I’m not to blame, “if the best players gravitated  
+
+toward my team and to my better coaching.” The expr ession “to gravitate (gravitate) toward” something means to be intereste d in and want to have something to do with – or in this case, want to joi n this team.  
+
+He says the best players went to his team and to hi s “better coaching.” “To coach” (coach) means to give instructions to anothe r person to help that person do something better. That’s often used to describe the leader of the team – that’s the coach. He or she is the person who doesn’t play  on the team but helps the team be a better team, tells the team what to do.  
+
+Nowadays we use this term “coach” outside of the wo rld of sports. You could have a “business coach” or a “podcast coach” – some one who helps you do better what you want to do. Ian says then to Shanno n, “Ready to be schooled?” “To be schooled” means to be taught a lesson. Often  it is used to mean to be shown in a somewhat aggressive way how you are wron g, or to be proven wrong.  
+
+Shannon says, “I think I’d better give my team a pe p talk first.” A “pep (pep) talk” is when you talk to your team to try to get them mo re excited about playing, to motivate them. In American high schools, often befo re a big game, an important game such as a football game, the entire school wil l come together and have what’s called a “pep rally” (rally).  
+
+My high school used to have these every year. The p ep rally would be all of the students coming together in the gym and the athleti c team would be there and we would all yell and shout and try to give the tea m motivation to play well in that game, whatever it was. It sounds a little silly, bu t it is quite common in American high schools, or at least it used to be. Also quite  common is a coach giving a pep talk to his team to get them motivated.  
+
+Shannon wants to give a pep talk to her team. She s ays, “A few of them look like they’re ready to bolt – or throw up!” “To bolt” (bo lt) means to run away quickly and suddenly. Perhaps Shannon’s players are afraid of Ian’s team’s players. She says some look like they’re ready to bolt, and some  look like they’re ready “to throw up.” “To throw up” is a two-word phrasal verb  meaning here “to vomit” – for the contents or what’s inside of your stomach to co me out through your mouth. If you’re very scared, of course, that might happen.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Ian: Oh, look at your team. How cute! You’ve recrui ted the puniest players you could find. 
+
+Shannon: Are those your players? They’re humungous!  
+
+Ian: My players are the best around. They’re massiv e in size and massive in talent. They’ll crush your teeny-tiny team without breaking a sweat. 
+
+Shannon: Our teams are supposed to have players fro m the same age group, so why is it that I have normal-size players and yours  are gigantic? Something doesn’t smell right. 
+
+Ian: It all comes down to recruitment. I recruited the best players.  
+
+Shannon: Are you sure you don’t have a few ringers on your team, some who are a few years older than they’re supposed to be? 
+
+Ian: Of course I don’t. I can’t help it if the best  players gravitated toward my team and to my better coaching. Ready to be schooled? 
+
+Shannon: I think I’d better give my team a pep talk  first. A few of them look like they’re ready to bolt – or throw up! 
+
+[end of dialogue] 
+
+If you want a massive vocabulary, I suggest you lis ten to the wonderful scripts written by our wonderful scriptwriter, Dr. Lucy Tse .  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st.  
+

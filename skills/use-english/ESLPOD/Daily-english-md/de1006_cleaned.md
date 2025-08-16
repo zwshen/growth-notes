@@ -1,0 +1,106 @@
+# Taking a Campus Tour
+
+Welcome to English as a Second Language Podcast num ber 1006 – Taking a Campus Tour.  
+
+This is English as a Second Language Podcast episod e 1006. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Become a member of  ESL Podcast and download a Learning Guide for this episode.  
+
+This episode is about a student visiting a college to determine if she wants to go there, and in order to do that, she takes a campus tour. Let’s get started. 
+
+[start of dialogue] 
+
+Ji Won: Come on, Dad, the campus tour starts over t here. The guide is ready to begin the walking tour. 
+
+Guide: Welcome, prospective students and your paren ts. My name is Jaime and I’ll be conducting your tour today. This tour will last about an hour, and we’ll be making frequent stops so I can point out some of th e most important buildings and areas on this campus. 
+
+Ji Won: Dad, are you listening?  
+
+Guide: First, let’s stop on the quad. On your left,  you’ll see the administration building. On your right are the student union and b ookstore. Let’s continue. 
+
+Ji Won: Dad, stop checking your email. You promised  that you’d make these campus visits with me and help me make a decision a bout which university to attend. 
+
+Guide: We’re passing the sports stadium on your lef t and the arts complex on your right. Those buildings there are the dorms. Th e research library is just ahead. 
+
+Ji Won: Dad, where did you go? 
+
+Guide: Let’s stop here a moment so I can point out the science buildings and research labs. Is something the matter?  
+
+ Ji Won: I think I’ve lost my dad. I think we’ll hav e to take the self-guided tour! 
+
+[end of dialogue] 
+
+Our episode begins with Ji Won saying to her father , “Come on, Dad, the campus tour starts over there.” “Come on” means “hurry up. ” When you are telling someone to move faster or to come with you, you mig ht use this expression, “Come on.” The word “campus” (campus) refers to the  physical location of a university. The buildings of a university are locat ed on a campus.  
+
+Sometimes we use that word “campus” nowadays when w e’re talking about a large company or corporation that may have many dif ferent buildings located all on the same property, all in the same area. Sometim es those buildings or that collection of buildings is called a “campus,” but t he most common use of the word “campus” is to refer to a college or university cam pus. Sometimes we also refer to the place where you find high schools and school s for younger children “campuses” as well.  
+
+This student is taking a “campus tour,” where she i s going to go with someone from the university who is going to tell her about the university and the different buildings that they have there at the university. T he person that leads the tour is called a “guide” (guide). Ji Won says, “The guide i s ready to begin the walking tour.” A “walking tour” would be, of course, a tour  that has you walking around the campus. My guess is most campus tours are walki ng tours. If you’re taking a tour of the city, that would probably be a “bus tou r.”  
+
+The guide begins by saying, “Welcome prospective st udents and your parents.” A “prospective (prospective) student” would be a st udent who is thinking about attending this university. The word “prospective” h ere refers to something that might happen in the future. You might be a student at this university, so we will call you a “prospective student.” The guide’s name is Jaime. He says, “My name is Jaime and I’ll be conducting your tour today.” “ To conduct a tour” is to lead a tour, to be the leader of a tour.  
+
+“This tour will last,” or will take, “about an hour , and we’ll be making frequent stops so I can point out some of the most important  buildings and areas on this campus.” When Jaime says the group will be making f requent stops, he means they will be pausing or stopping to talk and look a t something in particular. Instead of walking the entire hour, the group will walk maybe five minutes, stop, talk a little, then walk another five minutes, and so forth.  
+
+The guide is going to “point out some of the most i mportant buildings and areas on this campus.” “To point out” is a very common tw o-word phrasal verb meaning to indicate something, to draw someone’s attention to something important. If you are on any kind of tour and you have a tour guide, the guide will typically mention important things as you go by them, either driving by them or walking by them. “To point out” is to indicate. The guide will be po inting out “the most important buildings and areas on the campus.”  
+
+Ji Won says to her father, “Dad, are you listening? ” Apparently, her father is not paying attention. I should mention that typically t hese tours are offered to high school students who are thinking of attending that particular university. Universities and colleges, just like any other sort  of business, need to get customers. They need students to come to their univ ersity. So, some parents take their children to these universities so that t he children, the teenagers, can get a better idea about the university, and the par ents can get a better idea about where they are sending their child.  
+
+I never took a campus tour. I didn’t have a lot of choices about the university that I was going to attend, and this wasn’t a very commo n practice, at least when I was in high school, at least for the students that I went to high school with. I did have some friends who went to other universities in  a different part of the country that took campus tours, but it’s often the more wea lthy families that are able to afford – that have enough money – to travel to diff erent parts of the country to take these campus tours. But back to our story . . .  
+
+The guide says, “First, let’s stop on the quad.” So , we’re taking a tour of the campus, and the first place the guide takes this gr oup is the “quad” (quad). The quad is an area in the central part of campus that is in the shape of a square or a rectangle. “Quad” is short for “quadrangle.” Usuall y, this is an area with grass in the middle of the campus that has the most importan t buildings around it, or some of the larger buildings around it.  
+
+A lot of campuses in the U.S. were built, and are b uilt, with this idea of having a central area, a central square, that students can g ather in and that can be a place for students and faculty (that is, the profes sors) to go and sit in – well, you know, waste time, which is what most students do at  the university. The guide takes them to the quad and then points out differen t buildings that are around the quad.  
+
+He says, “On your left, you’ll see the administrati on building.” An “administration building” is the building where the president of th e university and the people who are running the university work, or at least have o ffices. The “administration  
+
+building” in many campuses is a large building wher e the secretaries and the administrators, the managers of the university, wor k.  
+
+Administration buildings don’t typically have profe ssors or teachers in them. There are other buildings that have offices for the  professors who teach at the university. Many large universities have more than one administration building. The guide points out the “student union” and the “b ookstore” to the tour group. The “student union” (union) is a building for stude nts that typically has a restaurant or a café, places for students to have m eetings, offices for student organizations, and places for students to have even ts, activities.  
+
+When I went to the University of Minnesota, we had a student union that had a place for large meetings or dances on the weekends.  The student union had places to eat. It had offices for the student organ izations – all of these things could be found in the student union. It’s a place f or students to go before or after their classes to talk and to do other sorts of acti vities on campus.  
+
+The “bookstore” is the place where you can buy the very expensive books that are used at the university for the classes. Ji Won says to her father, “Dad, stop checking your email.” Her father is apparently look ing at his phone and checking his email. She says, “You promised that you’d make these campus visits with me and help me make a decision about which university to attend.” Ji Won then gives us the main reason why you take a campus tour , which is to decide if you want to go to that college or university.  
+
+The tour guide continues with the tour. He points o ut four other areas on the campus. The first is the “sports stadium.” A sports  stadium would be a large building, inside of which you play sports. Often sp orts stadiums are what we would call “open air” stadiums, so that the buildin g is sort of in a circle, and you play the sport in the middle, but there’s no roof. There is no top that goes over the place where you play the sport.  
+
+So, you can have a football stadium. You could have  a baseball stadium. You could have a soccer stadium. More typically, you wo uld just have one big stadium in which you would play all of these differ ent sports. Basketball would of course have to be played inside, so the stadium for  the basketball team would have to be a normal building with a roof on top.  
+
+The “arts complex” is a group of buildings where th e university has their art classes. “Dorms” (dorms) are places where the stude nts sleep. These are like apartments for the students. Typically, dorms have rooms for the students, but there aren’t any kitchens or cooking areas inside o f the rooms. Typically, if you  
+
+are staying in a university dorm, you eat downstair s in a cafeteria or a place where they have food for you to eat. The guide also  points out the “research library.” A “library,” as you probably know, is a p lace where you can go and get books.  
+
+In some large universities, such as the University of Minnesota, the University of Southern California, the University of California a t Los Angeles, there is more than one library. Often, there’ll be a library that  is especially designed for the professors and graduate students doing research. An d so, in that library you will have things like professional journals – scientific  magazines, if you will – for the professors to look at and the graduate students to look at. That’s what the guide is referring to here.  
+
+Ji Won says to her father, “Where did you go?” She doesn’t know what happened to her father, who obviously is not paying attentio n. The guide then says, “Let’s stop here a moment so I can point out the science b uildings and research labs.” The “research labs,” or “laboratories,” are places where the university has its science classes and where professors do their scien tific experiments.  
+
+The guide says to Ji Won, “Is something the matter? ” That phrase, “something the matter” (matter), refers to a problem – somethi ng that is unusual, something that is bad, something that has gone wrong. If some one asks you, “Is something the matter?” they mean, “Is there something wrong?”  “Is there a problem?” Ji Won says, “I think I’ve lost my dad. I think we’ll have to take the self-guided tour.”  
+
+A “self-guided tour” would be a tour in which you d o not have a guide. You do not have a leader. You have to go on your own and look at the different things. Ji Won thinks that she’ll have to take the self-guided  tour because she has to go and find her father, and of course, that would mean  leaving the guided tour that she is on now.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Ji Won: Come on, Dad, the campus tour starts over t here. The guide is ready to begin the walking tour. 
+
+Guide: Welcome, prospective students and your paren ts. My name is Jaime and I’ll be conducting your tour today. This tour will last about an hour, and we’ll be making frequent stops so I can point out some of th e most important buildings and areas on this campus.  
+
+ Ji Won: Dad, are you listening?  
+
+Guide: First, let’s stop on the quad. On your left,  you’ll see the administration building. On your right are the student union and b ookstore. Let’s continue. 
+
+Ji Won: Dad, stop checking your email. You promised  that you’d make these campus visits with me and help me make a decision a bout which university to attend. 
+
+Guide: We’re passing the sports stadium on your lef t and the arts complex on your right. Those buildings there are the dorms. Th e research library is just ahead. 
+
+Ji Won: Dad, where did you go? 
+
+Guide: Let’s stop here a moment so I can point out the science buildings and research labs. Is something the matter? 
+
+Ji Won: I think I’ve lost my dad. I think we’ll hav e to take the self-guided tour! 
+
+[end of dialogue] 
+
+The most important thing to point out is the fact t hat this script was written by the wonderful scriptwriter, Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

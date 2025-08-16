@@ -1,0 +1,98 @@
+# Diversity at Work
+
+Welcome to English as a Second Language Podcast num ber 93: Diversity at Work.  
+
+This is English as a Second Language Podcast episod e 93. I’m your host Dr. Jeff McQuillan, from the Center for Educational Developm ent in beautiful Los Angeles, California.  
+
+Today’s podcast is called Diversity at Work. Let’s get started! 
+
+[start of dialogue] 
+
+Jeff: What were you and Richard talking about earli er? It looked intense. 
+
+Lucy: Yeah, Richard said something to me that I did n't appreciate.  
+
+Jeff: Oh, no. I know how insensitive he can be. Wha t has he done now? 
+
+Lucy: He asked me how long it took me to learn Engl ish. 
+
+Jeff: But you were born and raised in California!  
+
+Lucy: Yeah, but I get that sometimes. It doesn't ma tter how many generations my family has lived in the U.S., we'll always be forei gners in their eyes.  
+
+Jeff: What a racist! How can you stand working with  the guy? 
+
+Lucy: You know, Richard isn't such a bad guy. He ma de the comment out of ignorance, not malice.  
+
+Jeff: So, what did you say when he asked you how lo ng it took you to learn English? 
+
+Lucy: I told him 28 years, and he knows I'm 28 year s old since I just celebrated my birthday last week. He was puzzled for a minute and then he got it.  
+
+Jeff: Are you sure he really got the message? 
+
+Lucy: Yeah, I'm pretty sure since I then asked him how long it took him to learn English.  
+
+ Jeff: That's hilarious! What did he say? 
+
+Lucy: He said, "36 years," and we both laughed abou t it. He apologized and now it's all good.  
+
+Jeff: I'm glad. I bet he won't make that mistake ag ain. 
+
+[end of dialogue] 
+
+We’re talking in this podcast about “diversity at w ork” and the word “diversity,” when used in business or in schools in the United S tates, means people – talking about people from different backgrounds, perhaps, d ifferent cultures and to be “diverse” is to have people represented from differ ent backgrounds and different cultures. In the discussion today, we’re talking ab out the assumption that some people make that if you look different, if you’re n ot, for example, Caucasian or white-looking, that you don’t speak English as a na tive speaker here in the United States. And that assumption is made by some people and that’s the problem that happens in today’s podcast. The podcas t begins with me asking Lucy what she and Richard were talking about and I say, “It looked intense.” “Intense” (intense), here, means something that was  very serious or very difficult. Something that involves a very strong emotion would  be “intense.”  
+
+Lucy says that “Yeah. Richard said something to me that I didn’t appreciate.” “Yeah” (yeah) is the same as yes – informal way of saying yes. When Lucy says she “didn’t appreciate it” – “I didn’t appreciate,”  she says, means, “I didn’t like it. It’s something that I didn’t want to hear.” I say t o Lucy that Richard is “insensitive.” “To be insensitive” means that you d o not understand or respect other people’s feelings or emotions. To say somethi ng that would hurt someone or to make someone mad or upset, that would be some one who is “insensitive.” I then asked Lucy, “What has he – Richard – done now? ” The expression “What has he done now?” doesn’t mean, “What did he do thi s very moment?” but we use that expression, particularly the word, “now,” to mean he’s done something bad in the past and now he’s done something again s o you would say that about someone who has already done something wrong in the  past. “What have you done now?” meaning you’ve done things wrong in the past about this topic.  
+
+Lucy explains that Richard asked how long it took h er to learn English and I say, “But you were born and raised in California,” meani ng she was born here and she was “raised” – she grew up here is what “raised ” means. And if you are “born and raised” in California or any other part of an E nglish speaking area, you would be a native speaker of English. Lucy says, “Yeah, b ut I get that sometimes.” The  
+
+expression, “I get that,” refers to that kind of co mment or that kind of question. And she goes on to say that “no matter how many gen erations” her family has lived in the U.S, they will always be foreigners “i n their eyes.” “Generations” means – different parts of a family have different “generations.” Your grandfather is one “generation” and your father is – or mother – is a second “generation,” – another “generation” and you are another “generatio n.” So, we talk about “generations,” we mean that part of the family that  is of the same line, we might say. To say something will be “in their eyes” means  in their opinion. It means they see everything in a certain way.  
+
+I respond by saying, “What a racist!” meaning Richa rd is a racist. “To be a racist” (racist) means you are someone who judges people ba sed upon their physical appearance, the color of their skin. Then I asked L ucy, “How can you stand working with the guy?” “How can you stand” means ho w can you tolerate, how can you put up with, how can you – how are you able  to work with him even though he causes problems. Lucy says that “Richard isn’t such a bad guy,” that he “made the comment out of ignorance not malice.” A couple of expressions there. “To make a comment out of” means the reason I made that comment. Here she says that Richard made the comment “out of  ignorance.” “To be ignorant” means that you don’t know and so, if you make a comment “out of ignorance,” you mean the person didn’t know. He mad e the comment out of ignorance not “malice.” “Malice” (malice) means to have a bad or evil intention.  
+
+So, I ask Lucy what she sad to Richard and Lucy say s she told him it took her 28 years to learn English. And, of course, she’s 28 ye ars old, meaning she’s learned English from the time she was a baby. “Richard was puzzled for a minute but then he got it.” “To be puzzled” (puzzled) is a ver b. “To puzzle” or “to be puzzled” means to be confused, not to know what the answer i s. As a noun, a “puzzle” (puzzle) is a game or a problem that you have to so lve. The expression, “He got it,” means he understood it, so Richard “got it.” I  then asked Lucy, “Are you sure he really got the message?” “To say, “Do you get th e message?” means do you understand the main point, the main idea that I am trying to communicate or tell you. “He didn’t get the message” means he didn’t un derstand. We often use this for when we are telling someone something that mayb e they don’t want to hear or that may be difficult for them and when you say,  “I got the message,” means “Okay, I understand. You don’t need to tell me anym ore.” 
+
+Lucy then asked Richard how long it took him to lea rn English and I said that that’s “hilarious.” “Hilarious” (hilarious) means v ery funny, or extremely funny. Lucy said that Richard apologized and now “it’s all  good.” The expression, “It’s all good,” is an informal expression, which means every thing is fine; there are no problems. We say that probably a younger – the youn ger generation would say  
+
+that – younger people. “It’s all good,” meaning no problems. You could also say that when life is going well for you and everything  seems to be successful for you. You could say, “It’s all good.” 
+
+Now let’s listen to the dialogue this time at nativ e rate of speech. 
+
+[start of dialogue] 
+
+Jeff: What were you and Richard talking about earli er? It looked intense. 
+
+Lucy: Yeah, Richard said something to me that I did n't appreciate.  
+
+Jeff: Oh, no. I know how insensitive he can be. Wha t has he done now? 
+
+Lucy: He asked me how long it took me to learn Engl ish. 
+
+Jeff: But you were born and raised in California!  
+
+Lucy: Yeah, but I get that sometimes. It doesn't ma tter how many generations my family has lived in the U.S., we'll always be forei gners in their eyes.  
+
+Jeff: What a racist! How can you stand working with  the guy? 
+
+Lucy: You know, Richard isn't such a bad guy. He ma de the comment out of ignorance, not malice.  
+
+Jeff: So, what did you say when he asked you how lo ng it took you to learn English? 
+
+Lucy: I told him 28 years and, he knows I'm 28 year s old since I just celebrated my birthday last week. He was puzzled for a minute,  and then he got it.  
+
+Jeff: Are you sure he really got the message? 
+
+Lucy: Yeah, I'm pretty sure since I then asked him how long it took him to learn English. 
+
+Jeff: That's hilarious! What did he say? 
+
+Lucy: He said, "36 years," and we both laughed abou t it. He apologized and now it's all good.   
+
+ Jeff: I'm glad. I bet he won't make that mistake ag ain. 
+
+[end of dialogue] 
+
+That’s going to do it for today. I want to thank yo u for listening. From Los Angeles, California, we’ll see you next time on ESL  Podcast. 
+
+ESL Podcast is a production of the Center for Educa tional Development in Los Angeles, California. This podcast is copyright 2005 . No part of this podcast may be sold or redistributed without the expressed writ ten permission of the Center for Educational Development.
+

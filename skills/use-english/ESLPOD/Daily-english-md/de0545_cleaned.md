@@ -1,0 +1,106 @@
+# Getting Around Without a Car
+
+Welcome to English as a Second Language Podcast number 5 45: Getting Around Without a Car.   
+
+This is English as a Second Language Podcast episode 545.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com, but you probably already know th at.  You probably know that you can go there to download a Learning Guid e for this episode to help you improve your English even faster.  You might know tha t the Learning Guide contains all of the vocabulary, definitions, sample sentence s, additional definitions, comprehension questions, cultural notes, and a complete transcript of this episode. 
+
+What you probably don’t know is that this episode is a di alogue between Caitland and Bruno, talking about different ways that you can tra nsport yourself from one place to another without having a car.  Let’s get start ed. 
+
+[start of dialogue] 
+
+Caitland:  How are you planning on getting to school a nd to your job without a car? 
+
+Bruno:  I’ve got it covered.  I have my skateboard.   
+
+Caitland:  Your skateboard won’t be any use on those d irt roads.   
+
+Bruno:  No big thing.  I’ll just take my bike.   
+
+Caitland:  Your bike was stolen, along with your roller blades, remember?   
+
+Bruno:  Oh, yeah.  Maybe I’ll save up and buy a Segwa y. 
+
+Caitland:  Those things are really expensive.  What’ll yo u do in the meantime? 
+
+Bruno:  Maybe I’ll take the bus.  Worst case scenario, I give myself more time and I walk.  Why are you so interested in how I’m going to commute?  Fess up. 
+
+Caitland:  I care about your well-being, that’s all. 
+
+ Bruno:  Oh, yeah?  I don’t buy it.  There’s got to be  an ulterior motive.   
+
+Caitland:  Well, I do have an old scooter that would b e just what you need to get back and forth from school and work.  It uses very little g as and I’ll let you have it for next to nothing.   
+
+Bruno:  I knew it.  You’re trying to pawn off that ol d scooter on me.  Forget it! 
+
+Caitland:  I’m just looking out for your best interest,  that’s all. 
+
+Bruno:  Isn’t that what all con artists say? 
+
+[end of dialogue] 
+
+Caitland begins the dialogue by saying to Bruno, “How are you planning on getting to school (“how are you going to get to school, ” she could say) and to your job without a car?”  Bruno says, “I’ve got it covered .”  When we say “we have (something) covered,” or “we have got it covered,” we  mean to say that we have the situation under control.  You know what you’re  going to do to handle, or deal with, this situation or this problem.  So Bruno sa ys, “I’ve got it covered,” I know what I’m going to do.  He says, “I have my skateboard. ”  “Skateboards” are flat, rectangular boards, usually with rounded edges and  they have four small wheels on them, and you can put your foot on the skatebo ard and use your other foot to push yourself, and you then use the wheels of the  skateboard to go faster than you could by walking.  Skateboards have been popular among teenagers for many years.  They weren’t popular when I was a teenager;  but then again, they had not yet invented the wheel! 
+
+So, Bruno says that he’s going to take his skateboard.  Cai tland says, “Your skateboard won’t be any use on those dirt roads.”  When we say “it won’t be any use,” we mean that it will not be able to be used.  “Dirt roads” are also called “unpaved roads.”  A “paved road” is a road that has cemen t or asphalt, something hard that a car can easily drive on.  “Unpaved” would be a road that is just the ground – just the earth, with nothing on top  of it.   
+
+Caitland says that your skateboard won’t be any use on those  dirt roads, and Bruno says, “No big thing.”  “No big thing” is an infor mal way of saying it’s not important, it’s not something to be worried about.  We might also say “it’s no big deal.”  It’s no big thing – it’s no big deal.  “I’ll just take my bike (my bicycle),” which of course is a vehicle with two wheels and a seat, a nd you move the wheels around using something called “pedals,” which go o n your feet.  Your feet push the pedals, move them up and down to make the whee ls move.  
+
+ Caitland says, “Your bike was stolen, along with your rol lerblades, remember?” “Rollerblades” are special shoes that have a single line  of wheels on the bottom; they’re similar to roller skates.  “Roller skates” are shoe s that have four wheels on them, just like a skateboard, one in each corner.  “Rollerblades” have just a single row of small wheels.  Rollerblading is still pop ular especially here in California.  If you go over to Venice Beach or the San ta Monica Beach you can see people rollerblading.  I tried rollerblading once  or twice, but was not very good at it. 
+
+Bruno says, “Oh, yeah.  Maybe I’ll save up (maybe I’ll save my money) and buy a Segway.”  A “Segway” (Segway) is an electric machine with  two wheels and a small, flat area that you stand on.  It sort of looks like  the old Roman chariots, except there aren’t any horses in front.  “Chariots” wer e vehicles that they used with horses to move around in.  They used to have chariot races in the Roman Empire – the ancient Roman Empire.  Well, Segways are sort of like chariots. They’re two wheels and a flat space to stand, and then yo u have something that comes up vertically that you can hold onto and steer the S egway.  You can think of it as a little car, with just two wheels, in some w ays.  But it’s only used for moving along the sidewalk, it’s not fast enough to go on  the street; it’s not like a motorcycle, for example. 
+
+Caitland says, “Those things (meaning Segways) are really (or very) expensive. What’ll you do in the meantime (what will you do in t he meantime)?”  “In the meantime” means while you’re waiting for something el se to happen, or until something else happens.  I’m sitting at a cafe waiting f or my friend, it’s 2:30 in the afternoon, my friend is arriving at 3:00.  So in the m eantime, I’m going to read the newspaper. 
+
+Bruno says, “Maybe I’ll take the bus.  Worst case scenario, I  give myself more time and I walk.”  “Worst case scenario” means in the wor st possible situation; the worst situation that could happen.  A “scenario” is a  likely event, a certain situation that will take place in the future.  “Worst ca se” means the worst possible situation.  Bruno says, “Why are you so interested in how I ’m going to commute?” “To commute” is to travel between your home and where yo u work – unless you work at home, of course.  Bruno says, “Fess up.”  “Fess up” i s short for confess. “To confess” means to tell the truth, or tell something that perhaps you did wrong that you want to keep a secret.  If the police arrest you  after you robbed a bank – after you stole money from a bank, they may ask you to confe ss, meaning tell them what happened.  Of course if you do, you’re gonna  go to jail.  If you don’t, you’ll probably go the jail, too.  So, depends on the situation.  The last time I robbed a bank, oh, probably 10 years ago, I decided not to fess up, and for my  
+
+ punishment they made me teach at the university.  So, you  have to be careful about these things! 
+
+Where were we?  “To fess up” means to, again, to confe ss.  So, Bruno knows that Caitland is asking these questions for some reason, he’s trying to find out why.  Caitland says, “I care about your well-being, that’ s all.”  Your “well-being” is your physical, mental, and emotional health; all of tho se things combined.  Bruno says, “Oh, yeah?  I don’t buy it (meaning I don’t believe  it).  There’s got to be an ulterior motive.”  An “ulterior motive” is a secret reaso n for wanting to do something.  You’re pretending like you’re doing it for  one reason, but you’re really doing it for another reason.  So, you see a beautiful woman at the café, and you’re unmarried, and you walk over there, and you ask her  what book she’s reading.  Well, you really don’t care what book she’s r eading, you’re just looking for an excuse to talk to her; you have an ulterior motive  for asking the question. 
+
+Caitland says, “Well, I do have an old scooter that would  be just what you need to get back and forth from school and work.”  A “scooter ” is sort of like a very small motorcycle.  It can also be a flat, rectangular boa rd, kind of like a skateboard, but it has either an engine on it – a very sm all motorcycle-like engine, or some scooters are basically just like skateboards e xcept they have a stick that comes up vertically that you can hold onto to steer  the scooter.  So, Caitland has a scooter she wants to sell to Bruno that he  can use to go back and forth to school and work.  This scooter has a motor on it , because Caitland says, “It uses very little gas and I’ll let you have it for ne xt to nothing,” meaning I’ll sell it to you at a low price – next to nothing. 
+
+Bruno says, “I knew it.  You’re trying to pawn off that old scooter on me.  Forget it!”  “To pawn (pawn) off (something)” is a phrasal ver b meaning to get rid of something by selling it, especially if it isn’t worth very m uch money.  You just are trying to get rid of it, and you try to get the best p rice you can.  The word “pawn” has a couple of other meanings in English as well, very d ifferent meanings.  Find those in the Learning Guide for this episode. 
+
+Caitland says, “I’m just looking out for your best interest , that’s all.”  To look out for (someone’s) best interest” means that you are trying to do what is best for the other person; you’re trying to help the other person.  Bruno says, “Isn’t that what all con artists say?”  A “con (con) artist” is a person wh o makes money by tricking other people – by fooling other people, making them t hink they are doing something to help them, when actually they are basically st ealing their money.  A “con” is when someone tricks you out of your money.  It stand s for “confidence.” You get the person’s confidence – you get them to trust yo u, and then you steal their money.  That’s basically what a con artist does.  
+
+ Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Caitland:  How are you planning on getting to school a nd to your job without a car? 
+
+Bruno:  I’ve got it covered.  I have my skateboard.   
+
+Caitland:  Your skateboard won’t be any use on those d irt roads.   
+
+Bruno:  No big thing.  I’ll just take my bike.   
+
+Caitland:  Your bike was stolen, along with your roller blades, remember?   
+
+Bruno:  Oh, yeah.  Maybe I’ll save up and buy a Segwa y. 
+
+Caitland:  Those things are really expensive.  What’ll yo u do in the meantime? 
+
+Bruno:  Maybe I’ll take the bus.  Worst case scenario, I give myself more time and I walk.  Why are you so interested in how I’m going to commute?  Fess up. 
+
+Caitland:  I care about your well-being, that’s all. 
+
+Bruno:  Oh, yeah?  I don’t buy it.  There’s got to be  an ulterior motive.   
+
+Caitland:  Well, I do have an old scooter that would b e just what you need to get back and forth from school and work.  It uses very little g as and I’ll let you have it for next to nothing.   
+
+Bruno:  I knew it.  You’re trying to pawn off that ol d scooter on me.  Forget it! 
+
+Caitland:  I’m just looking out for your best interest,  that’s all. 
+
+Bruno:  Isn’t that what all con artists say? 
+
+[end of dialogue] 
+
+The script for this episode was written by Dr. Lucy Tse.   
+
+ From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

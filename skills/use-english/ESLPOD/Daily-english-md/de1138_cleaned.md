@@ -1,0 +1,110 @@
+# Dating Nice Guys and Bad Boys
+
+Welcome to English as a Second Language Podcast num ber 1,138 – Dating Nice Guys and Bad Boys.  
+
+This is English as a Second Language Podcast episod e 1,138. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development, oh yeah, in beautiful Los Angeles, California.  
+
+Go to ESLPod.com and become a member of ESL Podcast . When you do, you can download the eight- to ten-page Learning Guide we provide for all of our current episodes. It gives you a complete transcrip t of everything we say, plus a complete glossary with all of the key terms, defini tions, sample sentences, and more.  
+
+This episode is a dialogue between Jack and Alison about dating nice guys and bad boys. Let’s get started.  
+
+[start of dialogue] 
+
+Jack: I’ve had it. I’m going to start treating wome n like dirt. I’d get more dates. 
+
+Alison: What brought this on?  
+
+Jack: I got dumped again by a woman who thinks I’m too nice – too nice! She says she wants to be with someone who’s more assert ive and unpredictable. She didn’t say it in so many words, but that means she thinks I’m a wimp and I’m boring. 
+
+Alison: My guess is she wants a bad boy. A lot of w omen go through that phase. We want excitement and drama, the thrill of the cha se. 
+
+Jack: You mean they choose to be with selfish, irre sponsible jerks because it’s exciting? 
+
+Alison: I hate to say it, but it’s true. But I’m te lling you, this phase doesn’t last in most women. When we want to settle down, that’s whe n we look for the nice guys. 
+
+Jack: You mean I have to wait until then to get a n ice girlfriend? 
+
+Alison: No, I simply mean that until then, nice guy s finish last.  
+
+ Jack: Well, I’m not willing to wait.  
+
+Alison: Where are you going? 
+
+Jack: I’m going to work on my swagger and my sneer.  
+
+[end of dialogue] 
+
+Jack says to Alison, “I’ve had it.” When someone sa ys, “I’ve had it,” he means he no longer wants to continue in this situation. He i s frustrated or tired of something and will no longer continue doing what he has been doing. Jack says, “I’ve had it. I’m going to start treating women like dirt. I’d ge t more dates.” “To treat women like dirt” (dirt) means to treat them very poorly a nd rudely, with very little respect. It’s an odd thing to say. How would treating women badly get you more women interested in you? Jack will explain in a minute.  
+
+Alison asks him, “What brought this on?” The questi on “What brought this on?” is used when you are surprised by what another person has said or done, and you want to understand what caused him or her to do wha t he or she did. “What brought this on?” is usually used when someone does  something or says something that surprises us, something for which we  don’t understand the reason.  
+
+Jack says, “I got dumped again by a woman who think s I’m too nice.” “To get dumped” (dumped) is to be told by your boyfriend or  girlfriend that the relationship you have is now over. “To get dumped” means the other person says, “You know what, I don’t want to go out with y ou anymore. I don’t want to be in a romantic relationship with you anymore.” Jack says he got dumped again by a woman who thinks he’s too nice. The woman, accord ing to Jack, says that she “wants to be with someone who’s more assertive and unpredictable.”  
+
+“Assertive” (assertive) is used to describe someone  who has a lot of confidence – someone who isn’t shy, someone who does what he wan ts and gets what he wants. “Unpredictable” is the opposite of “predicta ble” (predictable). “To be predictable” means to do things that someone expect s you to do. “To be unpredictable” means to do things that other people  don’t think you will do, or don’t expect you to do. Jack says this woman who ju st dumped him wants to be with someone who’s more assertive and unpredictable .  
+
+Well, actually, we find out the woman didn’t actual ly say that. Jack says, “She didn’t say it in so many words.” The expression “in  so many words” is used to  
+
+mean “in those exact words,” “in that exact way.” S o, if you tell your boss, “Well, John isn’t coming in today. He says that he went ou t drinking last night and now he feels sick,” your boss may ask you, “What? Is th at what he said?” And you say, “Well, not in so many words,” meaning he didn’ t actually say that, but that’s what you think he meant. You’re not a very nice fri end to John, are you, if you say that to your boss? But back to our story.  
+
+Jack says that this now ex-girlfriend of his didn’t  say exactly that she wants someone who’s more assertive and unpredictable, “bu t that means she thinks I’m a wimp and I’m boring.” Jack is saying that the fac t that this woman said that he was “too nice” means that she thinks Jack is a wimp  and that he is boring. A “wimp” (wimp) is a person who is scared, who is not  strong, who perhaps is a coward. Jack is saying that the woman is telling hi m that he is a wimp.  
+
+Alison says, “My guess is that she,” this now ex-gi rlfriend of Jack, “wants a bad boy. A lot of women go through that phase.” A “bad (bad) boy” is a young man, typically (or boy, teenager) who does things that a re against the rules, who perhaps even breaks laws, because that makes him se em brave, daring, cool, popular, and attractive to at least some girls.  
+
+“To be a bad boy” means to be the young man who doe s things that are dangerous, and there are, of course, many girls who  are attracted to that sort of boy or man. I should say a little bit about the exp ression “bad boy.” It may refer not to someone who is a teenager or a boy, but to s omeone who is in fact over 18 years old, someone who we would normally call a “man.” The term “bad boy” does not mean the same as the term “bad guy.” I’ll explain that in a few minutes. Let’s go back to the dialogue, though.  
+
+Alison says that this now ex-girlfriend of Jack wan ts a bad boy. She says, “A lot of women go through that phase” (phase). A “phase” is what we would also describe as a “stage” in the development of a perso n, or it could be the stage in the development of a project. It’s a period of time , in other words, when certain things happen. What Alison is saying is that some g irls and women go through a phase, or a period in their life, when they want no t a nice guy, but a bad boy – someone who is a little, perhaps, dangerous.  
+
+Alison explains, “We want excitement and drama, the  thrill of the chase.” The expression “the thrill (thrill) of the chase (chase )” means the excitement of trying to get something that is challenging or difficult. Alison is describing what almost certainly is a very common feature in many cultures , of girls and women being attracted to men who seem very strong and sometimes  even a little dangerous.  
+
+Jack says, “You mean they choose to be with selfish , irresponsible jerks because it’s exciting?” Jack is describing these bad boys n ot as being exciting, but rather as being “selfish, irresponsible jerks.” “To be sel fish” (selfish) means to only think about your needs and your desires – not to care abo ut anyone else, including in this case, your girlfriend.  
+
+“To be a jerk” (jerk) means to be a person who beha ves badly, who is annoying to other people. The term “jerk” is an insult. You definitely don’t want to call anyone a “jerk,” unless perhaps you want to start a  fight. “Irresponsible” (irresponsible) is the opposite of, of course, “res ponsible.” Someone who is “irresponsible” is someone who is not reliable, som eone who doesn’t do what he’s supposed to do. Jack is describing these young  men that women seem to be attracted to as being “selfish, irresponsible je rks.”  
+
+Alison says, “Well, yes, actually.” Women are attra cted to these guys, these men, even though they are selfish and irresponsible, bec ause it is exciting. Alison says, “But I’m telling you, this phase doesn’t last  in most women.” In other words, most women get out of this phase at some point and no longer want to date bad boys.  
+
+She says, “When we want to settle down, that’s when  we look for the nice guys.” “To settle (settle) down” is a two-word phrasal ver b meaning to have a more predictable, steady life. Traditionally that means getting married, buying a home, and having children, starting a family. That’s usua lly what we mean by this phrasal verb “to settle down.” If you are asked by your father or mother, “When are you going to settle down?” you are being asked when are you going to get married, buy a house, have children, and so forth.  
+
+Alison says that when women want to settle down, th en they stop dating bad boys and look for the nice guys. A “nice guy” is a young man who is nice, responsible, treats other people with respect. The term “nice guys” is opposite to the term “bad boys.” Now, it’s a little confusing, because we don’t say “bad guys” to mean the opposite of “nice guys.” A “bad guy” is  someone who is truly evil, someone who is perhaps a criminal, someone who want s to hurt us. Similarly, a “good boy” is not the opposite of a bad boy. A “goo d boy” is someone who obeys the rules, who always does what he is told.  
+
+So, there are two sets of opposites here. One is “b ad boy/nice guy.” The other is “good guys/bad guys.” A “bad guy” is, for example i n a movie, the person who tries to kill other people or to hurt someone. The opposite of a “bad guy” is a “good guy.” The “good guy” is the hero, the person who does things right, the person who is the honest, trustworthy person. We of ten use “good guy” and “bad  
+
+guy” when we’re talking about movies. So Alison say s to Jack that when women are ready to settle down, they look for the nice gu ys, not the bad boys.  
+
+Jack says, “You mean I have to wait until then to g et a nice girlfriend?” Alison says, “No, I simply mean that until then, nice guys  finish last.” This expression “nice guys finish last” means really that good, res ponsible men normally don’t have success in romantic relationships, especially when they are young. Now, this changes, as Alison says, when women decide the y want to have a family. That depends on the culture and the people involved , of course.  
+
+Is there an age at which American women stop lookin g for bad boys and start wanting to settle down? I don’t know. People are ge tting married much later, much older than they used to. I would say maybe whe n I was growing up, around the ages of, say, 22 through 25, women stopped look ing for bad boys and started looking for nice guys – at least, that’s the way it  worked for me. Anyway, Jack says, “Well, I’m not willing to wait.” Alison says,  “Where are you going?”  
+
+Jack says, “I’m going to work on my swagger and my sneer.” “Swagger” (swagger) describes here a very confident powerful way that a man walks. If you have a certain swagger, you walk in a certain way t hat makes you look powerful and strong. A “sneer” (sneer) is a mean smile, usua lly on only one side of your mouth. You might sneer at someone you think is not as good as you if you want to show contempt of that person, if you want to ind icate that you don’t think that person is at perhaps the same level as you are. It’ s not a very nice thing, to sneer. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Jack: I’ve had it. I’m going to start treating wome n like dirt. I’d get more dates. 
+
+Alison: What brought this on?  
+
+Jack: I got dumped again by a woman who thinks I’m too nice – too nice! She says she wants to be with someone who’s more assert ive and unpredictable. She didn’t say it in so many words, but that means she thinks I’m a wimp and I’m boring. 
+
+Alison: My guess is she wants a bad boy. A lot of w omen go through that phase. We want excitement and drama, the thrill of the cha se. 
+
+ Jack: You mean they choose to be with selfish, irre sponsible jerks because it’s exciting? 
+
+Alison: I hate to say it, but it’s true. But I’m te lling you, this phase doesn’t last in most women. When we want to settle down, that’s whe n we look for the nice guys. 
+
+Jack: You mean I have to wait until then to get a n ice girlfriend? 
+
+Alison: No, I simply mean that until then, nice guy s finish last. 
+
+Jack: Well, I’m not willing to wait.  
+
+Alison: Where are you going? 
+
+Jack: I’m going to work on my swagger and my sneer.  
+
+[end of dialogue] 
+
+There’s nothing unpredictable about our scriptwrite r. She always writes wonderful scripts. Thank you, Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

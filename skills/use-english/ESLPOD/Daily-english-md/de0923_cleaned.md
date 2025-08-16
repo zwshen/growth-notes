@@ -1,0 +1,104 @@
+# Having Bad Credit
+
+Welcome to English as a Second Language Podcast num ber 923 – Having Bad Credit. 
+
+This is English as a Second Language Podcast episod e 923. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is ESLPod.com. Go there. Become a membe r. Download a Learning Guide for this episode.  
+
+This episode is a dialogue between Alicia and James  about having problems getting someone to lend you money. Let’s get starte d. 
+
+[start of dialogue] 
+
+Alisha: This is the second time I’ve been turned do wn for a credit card in a month. I don’t know what I’m doing wrong.  
+
+James: Have you checked your credit report recently ? Maybe you have a bad credit rating. 
+
+Alisha: I have a full-time job with a good income, which they can easily verify, and I don’t have any outstanding debt, so what coul d be the problem? 
+
+James: Have you had a credit card before? 
+
+Alisha: Yes. 
+
+James: Did you always make your payments on time? 
+
+Alisha: Well, no. 
+
+James: Then that may be your answer. Your payment h istory makes a big difference with the credit bureau. If you’ve missed  payments or been late, that’s a big strike against you.  
+
+Alisha: You mean if I were late a few times, I woul dn’t be able to get another credit card? 
+
+James: A few times? How many times?  
+
+ Alisha: Well, maybe a lot of times.  
+
+James: And why do you need another credit card if y ou already have one? 
+
+Alisha: Had one, past tense. The credit card compan y cancelled it.  
+
+James: Aha, I think we’ve just found the crux of th e problem. 
+
+[end of dialogue] 
+
+Alisha says, to begin our dialogue, “This is the se cond time I’ve been turned down for a credit card in a month.” A “credit card”  is like a Visa or a MasterCard that you use to buy things with. “To be turned down ” means to be denied, to be rejected. It’s a two-word phrasal verb meaning not to allow someone to have something or to do something. In this case, Alisha has tried to get a credit card, but the credit card company said no. They turned he r down. She says, “I don’t know what I’m doing wrong.” 
+
+James says, “Have you checked” – have you looked at  – “your credit report recently?” A “credit report” is a written statement , usually from one of three large companies that produce these statements, about whet her you have paid your credit card bills and your other loans from banks a nd other places on time. If you don’t pay your bills on time, if you send the money  in late, that will show up on – that is, that will appear on – your credit report. And if you do that a lot, companies are not going to give you a credit card if they see  that you have not paid your credit card bills in the past – your credit card bi lls from other banks and companies.  
+
+“Credit reports” are things that every American who  uses a credit card has. Most Americans do not have a very good credit report – a  very good “credit record,” we would say. They have problems. There are ways of  correcting the problems but it takes a little time. But let’s continue with  our dialogue. 
+
+James says, “Maybe you have a bad credit rating” (r ating). What these companies do, that produce the credit reports, is c alculate how well you do on paying your bills, and they give you a number. A hi gh number is good. A low number is bad. So, having a low, or bad, or negativ e credit rating is to have a number that indicates that you have had problems pa ying your bills on time in the past. Many credit card companies look at your credi t rating and decide if they’re going to give you a loan or not. Banks also look at  this information to decide whether they’re going to loan you money.   
+
+ Alisha says, “I have a full-time job with a good in come.” “Income” (income) is the money you get from working. Alisha says they can ve rify that information easily. “To verify” (verify) means to check to make sure it ’s true. We might also say here, “to confirm.” Alisha says, “I don’t have any outsta nding debt, so what could be the problem?” “Debt” (debt) is money that you owe o ther people, that you have borrowed from other people and that you have to pay  back to them. “Outstanding debt” is money that you have not yet paid back – mo ney that you still have to give back to the bank, or the credit card company, or whatever person or institution you borrowed money from.  
+
+James says, “Have you had a credit card before?” Al isha says, “Yes.” “Did you always make your payments on time?” Your “payments”  is the money that you give the credit card company for your bill. “On tim e” means before or on the day that you are supposed to pay it. So, if you need to  pay your bill by June 10th and you don’t pay it until June  15th, you are not paying on time. You are late, and  this will show up – this will appear – on your credit re port and result in a bad credit rating. Alisha says, “Well, no.” No. I didn’t alway s make my payments on time.  
+
+James says, “Then that may be your answer.” That’s the reason, possibly. “Your payment history makes a big difference with the cre dit bureau.” Your “payment history” is a report about how often you’ve been la te in paying your bills. The “credit bureau” (bureau) is a company that keeps tr ack of that, organizes this information that produces the credit report, and gi ves the credit ratings. There are actually three large companies in the United States  that do this. Most credit card companies use one of those three credit bureaus to decide whether they’re going to give you a credit card or not. Once again, banks  do the same thing. They use one of the credit bureaus, one of the credit compan ies, to see whether you are a good person to loan money to.  
+
+James continues, “If you’ve missed payments or been  late, that’s a big strike against you.” “To miss a payment” means not to do s omething you should have done, and in this case it would mean not paying you r bill when you should have done. Sometimes people pay their credit card bills,  but they pay them late. If you do this, James says, “that’s a big strike (strike) against you.” The expression “a strike against someone” means something that will m ake it more difficult to do something well, or something that makes other peopl e have a negative or bad opinion about you. Usually, though, it’s the first meaning, referring to things that will make it difficult for you to do something that  you want to do. If your parents don’t have any money and you’re not able to go to s chool, that’s a big strike against you. That’s a big problem in terms of you t rying to be successful.  
+
+Now, the word “strike” actually comes from the game  of baseball, when the pitcher of one team – the person who throws the bal l – throws the ball, and the person who is trying to hit the ball, the batter, s wings at the ball – moves the large stick, the bat, to try to hit the ball – but misses. That’s called a “strike.” There are other ways of getting a strike, too. If y ou hit the ball and it doesn’t stay within the lines that it’s supposed to stay in the field, that could also be considered a “strike.” I don’t want to go into the rules of baseball, but the term, you should know, comes from baseball.  
+
+Alisha says, “You mean if I were late a few times, I wouldn’t be able to get another credit card?” James says, “A few times?” – a small number of times. Then he asks, “How many times?” How many times has she been late? Alisha says, “Well, maybe a lot of times” – many times. Ja mes says, “And why do you need another credit card if you already have one?” Alisha says, “Had one, past tense.” Alisha is saying that she does not have a c redit card anymore. Remember, James asked why she needs another credit card if she already has one. He says, “if you already have one,” because “y ou” – we use the verb form “have.” However, Alisha is saying that it’s not som ething she still has. It’s something that she used to have, and that’s why she  uses the past tense “had” (had).  
+
+Alisha says, “I had one, past tense.” The term “pas t tense” is used in grammar to indicate that the verb is indicating time that has already passed, that an action has already taken place in the past and that it’s f inished, over and done. Alisha says, “The credit card company cancelled it” – canc elled her card. “To cancel” (cancel) means to end something, to no longer be us ing a certain service or paying for something.  
+
+James says, “Aha! I think we’ve just found the crux  of the problem.” “Aha” is an informal expression we use when you’ve found the so lution to a problem, and James has found the solution to Alisha’s problem. H e says, “I think we’ve just found the crux of the problem.” The “crux” (crux) i s the most important part of a situation or a story, or in this case, a problem – the main thing, the main idea that’s important in understanding the problem. In A lisha’s case, she’s missed her payments and the credit card companies have cancell ed her card. This is why other credit card companies won’t give her another card. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Alisha: This is the second time I’ve been turned do wn for a credit card in a month. I don’t know what I’m doing wrong.  
+
+James: Have you checked your credit report recently ? Maybe you have a bad credit rating. 
+
+Alisha: I have a full-time job with a good income, which they can easily verify, and I don’t have any outstanding debt, so what coul d be the problem? 
+
+James: Have you had a credit card before? 
+
+Alisha: Yes. 
+
+James: Did you always make your payments on time? 
+
+Alisha: Well, no. 
+
+James: Then that may be your answer. Your payment h istory makes a big difference with the credit bureau. If you’ve missed  payments or been late, that’s a big strike against you.  
+
+Alisha: You mean if I were late a few times, I woul dn’t be able to get another credit card? 
+
+James: A few times? How many times? 
+
+Alisha: Well, maybe a lot of times.  
+
+James: And why do you need another credit card if y ou already have one? 
+
+Alisha: Had one, past tense. The credit card compan y cancelled it.  
+
+James: Aha, I think we’ve just found the crux of th e problem. 
+
+[end of dialogue] 
+
+It’s easy to verify the quality of our scripts. Jus t listen to them. They’re all written by the wonderful Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

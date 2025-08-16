@@ -1,0 +1,94 @@
+# Ending a Bad Date
+
+Welcome to English as a Second Language Podcast number 4 55: Ending a Bad Date. 
+
+This is English as a Second Language Podcast episode 455.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+We have a website, it’s eslpod.com.  On it, you can find a  Learning Guide for this episode that contains additional information to help yo u improve your English even faster. 
+
+This episode is called “Ending a Bad Date.”  It’s a dial ogue between Fatima and Rob, who are on a romantic date together that doesn’t  go very well.  Let’s get started. 
+
+[start of dialogue] 
+
+I was on a date from hell.   
+
+I agreed to go out with this guy who lives in the same a partment building as I do, but he’s turned out to be a real creep.  He was nice en ough at the start of the date, but then he started drinking.  Now he’s drunk and  I’m miserable.   
+
+I wanted to let him down gently since I’d be seeing him  around the apartment building, but I didn’t want to spend another minute with him. 
+
+Fatima:  Listen, Rob, I just don’t think we’re hitting  it off.  You’re a really nice guy, but I just don’t think we have much chemistry.   
+
+Rob:  Are you kidding?  I’m having the time of my life.   We’re just getting started here.  Bartender, another round! 
+
+I realized that I needed to be more straightforward w ith him in case I was giving him mixed signals. 
+
+Fatima:  I’m sorry, Rob, but I think this is the end of the road for this date. Thanks a lot for the drinks and I’ll see you around. 
+
+Rob:  What?  You’re leaving?  How about a goodnight kiss?  Come over here and give me that kiss.  
+
+ I wanted to keep my cool, but when he tried to kiss me, t hat did it! 
+
+Fatima:  You’re stinking drunk and this date is over.  C apisce?   
+
+I got up and left.  What is it about alcohol that tu rns Prince Charming into a frog? 
+
+[end of dialogue] 
+
+Fatima begins our story by saying, “I was on a date from h ell.”  The expression “from hell” means as bad as something can possibly be, ter rible, horrible.  “I’m on a date from hell” means I’m on a very bad date.  A “da te,” of course, is when two people romantically interested in each other go to dinn er or to a movie, do something together. 
+
+Well Fatima, unfortunately, is on a terrible date – a  date from hell.  She says, “I agreed to go out with (to go on a date with) this gu y who lives in the same apartment building as I do, but,” Fatima says, “he’s tu rned out to be a real creep.” When we say someone has “turned out to be (something),” we mean that our initial impressions (what we thought at the beginning ) has changed because the person has demonstrated that they are not what we thoug ht they were.  A “creep” (creep) is a very unpleasant person who makes you feel uncom fortable.  “Creep” has a couple of different meanings in English; take a lo ok at the Learning Guide for some additional explanations. 
+
+Fatima says that this guy was nice enough at the start of the date, but then he started drinking – drinking alcohol.  “Now he’s drunk and  I’m miserable.”  When we say is someone is “drunk,” we mean that they are intoxica ted, meaning that they have drank too much wine or beer or alcohol, and now they are not acting normally because of the influence of the alcohol on thei r behavior.  Fatima says, “I wanted to let him down gently.”  To “let (someone ) down” means to disappoint someone, to do or say something that makes the other per son feel sad.  In this case, what Fatima means is that she wants to tell him “no ,” but doesn’t want to hurt him or hurt his feelings.  That’s why she says, “I w anted to let him down gently.”  “Gently” means nicely, in this case.  He lives in  the same apartment building as Fatima, but she did not want to be on thi s date any more, so she says to him, “Listen, Rob, I just don’t think we’re hittin g it off.”  To “hit it off” is an expression that means to enjoy spending time with someone,  to be friendly with someone right after you meet them.  So, you meet them  and immediately you are comfortable with them, you enjoy being with them.  We would say, “they hit it off.” It can be used in a romantic situation, but it could also  be used in a business  
+
+ situation: “The saleswoman and the manager hit it off ,” they got along very well together. 
+
+Fatima says to Rob, “You’re a really nice guy, but I just  don’t think we have much chemistry.”  “Chemistry,” here, means the feelings between  two people, whether they are romantically interested in each other.  Chemistr y can also refer to chemicals or the study of chemicals in the world, but here it means the romantic feelings.  Fatima is saying she doesn’t think that there are romantic feelings between them.   
+
+Rob is quite surprised.  Of course, he’s drunk so almost anyt hing would probably surprise him!  He says, “Are you kidding (are you joking)?   I’m having the time of my life.”  When someone says they’re “having the time of t heir life” they mean they’re having one of the best experiences or moments of  their life; they’re doing something that they enjoy very much.  Rob says, “We’re just  getting started here,” we’re just beginning our date.  Then he calls o ut to the “bartender,” the person who prepares and gives you your drinks in a bar.  H e says, “Bartender, another round!”  A “round” is usually a series of events,  a group of things that are repeated different times.  Here, in a bar, the term “round” means another set of drinks – another drink.  So, someone may say for example, “I’ll buy the next round of drinks,” they mean the next drink that you want to order I’ll pay for.  Rob, here, is asking the bartender for another drink – anot her round.  “Round” has several meanings in English, as you probably know; take a lo ok at our Learning Guide for some more explanations of that term. 
+
+Poor Fatima says that she realized she needed to be more  straightforward with Rob.  When we say you need to be “straightforward” (on e word) we mean that you need to be more direct, you need to say something more clearly.  Instead of saying, “Oh, well, um, I don’t think so, probably not,” you need to say, “No, absolutely not.”  So Fatima needs to be more direct – m ore straightforward with Rob.  She doesn’t want to give him mixed signals.  The expression “mixed signals” means using actions or words that indicate one thi ng but really mean something else.  Or, mixed signals can mean confusing message s, when a person can’t understand what you mean because you say one th ing that’s good then maybe one thing that’s bad and it isn’t very clear.  
+
+Well, Fatima doesn’t want to send mixed signals to Rob; she doesn’t want Rob to think that she is romantically interested in him.  We wou ld say she doesn’t want to “lead him on,” which is when a woman or a man make s the other person think that they are interested in them, but are really not.  So, Fatima says, “I’m sorry, Rob, but I think this is the end of the road for this d ate.”  “The end of the road” is the end of something, it’s the finish, it cannot go on any more.  If your girlfriend  
+
+ says to you, “This is the end of the road for you and for our relationship,” you might want to start looking for another girlfriend.  I’ve been to the end of the road many times! 
+
+Fatima says, “Thanks a lot for the drinks and I’ll see you around,” meaning I’ll see you later.  Rob still doesn’t believe what is happening .  He says, “What?  You’re leaving?  How about a goodnight kiss?”  A “goodnight kiss”  is a kiss at the end of a date.  Usually when a man takes the woman back to where  she lives, he says “good night” and gives her a kiss.  That’s a goodnight kiss;  it’s a romantic kiss usually on your first or one of your first dates with a wo man or a man. 
+
+Rob wants to give Fatima a goodnight kiss, which, of course , Fatima is not interested in.  She says, “I wanted to keep my cool,” me aning I wanted to stay calm, to remain in control, not to get angry.  “But wh en he tried to kiss me, that did it!” meaning that was enough, that caused me to ch ange my actions.  She then says to Rob, “You’re stinking drunk and this date is o ver.”  “Stinking drunk” is a phrase that is used to describe someone who has had to o much alcohol and whose words and actions are very unpleasant, someone who sta rts yelling or screaming or saying bad things after they drank too much a lcohol.  Fatima then says, “Capisce?”  “Capisce” we use in English to mean do you understand.  It comes originally from the Italian, but Americans give it their own American pronunciation: we say “capisce,” the Italian pronunciatio n I think would be “capisce,” but we say “capisce.” 
+
+Fatima says she got up and left.  Then she asks, “What is it about alcohol that turns Prince Charming into a frog?”  “Prince Charming”  is a handsome, brave man in a children’s story.  Prince Charming saves the bea utiful woman – the princess – and falls in love with her.  We use this term , “Prince Charming,” to refer to the ideal husband or the ideal man for a wo man, the person that every woman is looking for – her Prince Charming.  The refer ence to the frog is that in some children’s stories when a girl kisses a frog, the frog becomes (turns into) a man – this beautiful, handsome man, Prince Charming.   I think the idea here is that a woman can take a man and change him, which is pro bably not the best philosophy to have if you are looking for a husband or a  wife.  Men are more difficult to change than it appears – trust me! 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+I was on a date from hell.   
+
+ I agreed to go out with this guy who lives in the same a partment building as I do, but he’s turned out to be a real creep.  He was nice en ough at the start of the date, but then he started drinking.  Now he’s drunk and  I’m miserable.   
+
+I wanted to let him down gently since I’d be seeing him  around the apartment building, but I didn’t want to spend another minute with him. 
+
+Fatima:  Listen, Rob, I just don’t think we’re hitting  it off.  You’re a really nice guy, but I just don’t think we have much chemistry.   
+
+Rob:  Are you kidding?  I’m having the time of my life.   We’re just getting started here.  Bartender, another round! 
+
+I realized that I needed to be more straightforward w ith him in case I was giving him mixed signals. 
+
+Fatima:  I’m sorry, Rob, but I think this is the end of the road for this date. Thanks a lot for the drinks and I’ll see you around. 
+
+Rob:  What?  You’re leaving?  How about a goodnight kiss?  Come over here and give me that kiss. 
+
+I wanted to keep my cool, but when he tried to kiss me, t hat did it! 
+
+Fatima:  You’re stinking drunk and this date is over.  C apisce?   
+
+I got up and left.  What is it about alcohol that tu rns Prince Charming into a frog? 
+
+[end of dialogue] 
+
+This is the end of the road for this episode.  We’d like  to thank Dr. Lucy Tse for writing the script for this episode.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  Copyright 2009, by the Cen ter for Educational Development.
+

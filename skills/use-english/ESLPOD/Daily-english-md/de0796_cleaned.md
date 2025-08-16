@@ -1,0 +1,122 @@
+# Setting Up Conference Calls and Videoconferences
+
+Welcome to English as a Second Language Podcast num ber 796: Setting Up Conference Calls and Videoconferences. 
+
+This is English as a Second Language Podcast episod e 796.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Become a member of ESL Podcast today, and download a Learning Guide for this episode that wil l help you improve your English even faster. 
+
+This episode is a dialogue about setting up or gett ing ready for a conference call and videoconferences.  Let’s get started. 
+
+[start of dialogue] 
+
+Ewan:  Who’s running the videoconference next week?  
+
+Petra:  I am.  Desmond put me in charge of it last week. 
+
+Ewan:  Oh, somebody’s moving up in the world.  It’s  nice that he’s giving you more responsibility. 
+
+Petra:  Yeah, but I’m not sure I’m ready.   
+
+Ewan:  I’ve set up conference calls and videoconfer ences before.  Maybe you can tell me what you’ve already done and I can see if you’ve missed anything. 
+
+Petra:  That would be great.  Okay, I’ve scheduled the meeting for 3:00…  
+
+Ewan:  Stop right there.  If the videoconference is  at 3:00 here, it’s already 6:00 on the East Coast.  That’s too late to start the me eting, don’t you think? 
+
+Petra:  Oh, I didn’t factor in time zones!  But I s till have time to reschedule, I think, so it’s not a total catastrophe.   
+
+Ewan:  Good.  Be sure to initiate the call or the c onnection at least 10 minutes before the time of the meeting, and make sure you k now how to reconnect someone if they get disconnected during the meeting . 
+
+Petra:  I still need to figure that out.   
+
+Ewan:  Are you facilitating the meeting, too? 
+
+Petra:  I don’t know.  I guess so. 
+
+Ewan:  In that case, make sure you identify each pe rson by greeting them by name. 
+
+Petra:  I was hoping to lurk in the background in c ase something went wrong.  I’d be ready to troubleshoot.   
+
+Ewan:  If Desmond put you in charge of setting up t he meeting, he’ll want you to take a more active part.   
+
+[Petra breathing heavily] 
+
+Ewan:  What are you doing? 
+
+Petra:  Hyperventilating.  I don’t think I’m ready for this.   
+
+[end of dialogue] 
+
+Our dialogue begins with Ewan saying to Petra, “Who ’s running the videoconference next week?”  “Who’s running” meanin g who’s organizing, who is the person who is managing the videoconference.  A “videoconference” (one word) is a meeting where people in different locati ons, different cities perhaps different countries, talk to each other by using ei ther a telephone line or an Internet line that allows you to see the person lik e you’re talking to them on a television set.  It’s a video of all of the members  who are part of this meeting – this conference.  Petra says, “I am (I’m running th e videoconference).  Desmond put me in charge of it last week.”  “To put (someon e) in charge of (something)” means to say that they are going to organize it, th ey are going to run it. 
+
+Ewan says, “Oh, somebody’s moving up in the world.”   “To move up in the world” is an expression meaning to be doing well or to be doing better professionally: to be getting more money, more responsibility, a bette r job.  That’s to move up in the world.  Ewan is sort of making a joke here.  Ew an says, “It’s nice that he’s giving you more responsibility.”  Petra says, “Yeah , but I’m not sure I’m ready.” She’s not sure she’s ready for this new responsibil ity.  Don’t worry Petra, you’re ready!  I know you.  Well, I don’t know you because  you don’t exist.  But if you did, you’d be ready.    
+
+ Ewan says, “I’ve set up conference calls and videoc onferences before.” “Conference calls” are meetings where, like a video conference, you have people in different places, perhaps in the country or even  in the world, but typically they don’t involve any video.  It’s just the telephone, or nowadays it might be on the Internet using a service like Skype.  So Ewan says that he has set up conference calls and videoconferences before, and we all know what an idiot Ewan is, so if Ewan can do it certainly Petra can do it.  That’s m y opinion.  Ewan says, “Maybe you can tell me what you’ve already done and I can see if you missed anything,” if there’s something you didn’t think of. 
+
+Petra said, “That would be great.”  “Okay,” she say s, “I’ve scheduled the meeting for 3:00.”  Ewan says, “Stop right there,” meaning don’t say anything else. Usually we use this expression in a conversation wh en a person has said something that’s either wrong or perhaps not what y ou should be saying or should have done.  So for example, I could say, “We ll, I’m going to Europe.  The first thing I’m going to do is buy myself a little boat so that I can get to Europe,” and someone would say, “Oh, stop right there.  Ther e’s no way you can take a little boat to Europe.  It will take you a very lon g time.”  That’s just an example. 
+
+Petra says she wants to schedule the meeting, or ha s scheduled the meeting for 3:00.  Ewan says, “Stop right there.  If the videoc onference is at 3:00 here (meaning if it’s at 3:00 where we are, let’s say Lo s Angeles), it’s already 6:00 on the East Coast,” meaning there’s a time difference between Los Angeles and the East Coast of the United States where New York and Washington and Boston and Atlanta and other big cities are – Philadelphia , and so forth.  Well, she scheduled the meeting at three, but it will already  be 6:00 in New York and, of course, people may have already gone home. 
+
+Ewans say, “That’s too late to start the meeting, d on’t you think?”  Petra says, “Oh, I didn’t factor in time zones!”  “To factor (f actor) in” means to consider something in your decision.  If you’re going to tak e a small boat from New York to France, you have to factor in all of the time it’s going to take you to take your boat from one side of the Atlantic to the other.  S o that’s to factor in, to consider. “Time zones” are one of the 24 geographic areas in the world that we divide up into different hours, so that when it is 3:00 in th e afternoon here in Los Angeles it’s 4:00 in Las Vegas, it’s 5:00 in Chicago, and i t’s 6:00 in New York.  Three o’clock in the afternoon would be, I think, midnigh t in Rome – in central Europe.  I think that’s right.  Anyway, Petra says that she sc heduled this meeting at three, and of course that won’t work.  She says, “I didn’t  factor in time zones.  But I still have time to reschedule (to pick a new time), so it ’s not a total catastrophe,” she says.  A “catastrophe” is a disaster, something tha t is very serious, very negative.   
+
+Normally we use this word in talking about an earth quake or a hurricane.  Those would be, well, this would be disasters; if they ca used a lot of damage they could be catastrophes.  Or, if you lose a million dollars , that would be, for most people, a catastrophe. 
+
+Ewan says, “Good,” meaning good that you can resche dule it.  He says, “Be sure to initiate (or begin) the call (the telephone call ) or the connection at least 10 minutes before the time of the meeting.”  The “conn ection” would be the connection, in this case, between two or more peopl e; it could be on the Internet, it could be on a telephone line.  Ewan says, “make sure you know how to reconnect someone if they get disconnected during t he meeting.”  So, “to get disconnected” means that, for example, you’re talki ng to someone and then suddenly your phone line stops working, or your Int ernet connection isn’t working and you get disconnected; you are no longer talking  or communicating with that person.  So if that happens, you have to get “recon nected,” connected again. 
+
+Petra says, “I still need to figure that out,” mean ing I still need to understand how to do that.  Ewan says, “Are you facilitating the m eeting, too?”  “To facilitate” (facilitate) means, really, to run the meeting, to be the person who is in charge of getting people to accomplish what they’re supposed to accomplish.  Petra says, “I don’t know.  I guess so.”  She’s not sure if she ’s running or facilitating the meeting.  Ewan says, “In that case (in that instanc e), make sure you identify each person by greeting them by name.”  “To greet (greet ) (someone)” means to say hello to someone.  “By name” means you use their na me: “Hello Jeff, hello Petra, hello Newman.” 
+
+Petra says, “I was hoping to lurk in the background  in case something went wrong.”  “To lurk” (lurk) means that you are presen t, you are there, but you’re sort of hidden.  Other people aren’t listening to you or  observing you; you’re not participating.  Petra says she wants to lurk in the  background.  The “background” here means in the environment, but not where everyo ne can see her.  “To be in the background” means that no one is really paying attention.  You’re there, you may even be influencing things, but no one sees you , no one talks to you, no one thinks about you.  Petra says, “I’d be ready to tro ubleshoot.”  “To troubleshoot” (one word) means to figure out what the problem is and how to solve it.  So Petra wants to be part of the conference – the videoconfe rence, but she doesn’t want be actively participating, we could say.  She wants  to lurk in the background and if there’s a problem she will troubleshoot it; she will figure out what the problem is and what the solution should be. 
+
+Ewan says, “If Desmond put you in charge of setting  up the meeting, he’ll want you to take a more active part.”  “To take a more a ctive part” means to be an actual participant, to be talking and to be asking questions and so forth. 
+
+Petra then begins to breathe heavily; she starts br eathing so that you can hear her breathe.  Ewan says, “What are you doing?”  Pet ra says, “Hyperventilating.  I don’t think I’m ready for this.”  “To hyperventilat e” means to breathe very quickly and deeply, usually because you are very nervous or  you’re frightened about something.  Someone who starts to hyperventilate is  breathing very fast and it could be dangerous; if they’re very nervous or very  excited that might happen. So Petra isn’t really ready to facilitate, much les s to set up the conference call or videoconference.  Maybe she’s not as smart as I tho ught she was! 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Ewan:  Who’s running the videoconference next week?  
+
+Petra:  I am.  Desmond put me in charge of it last week. 
+
+Ewan:  Oh, somebody’s moving up in the world.  It’s  nice that he’s giving you more responsibility. 
+
+Petra:  Yeah, but I’m not sure I’m ready.   
+
+Ewan:  I’ve set up conference calls and videoconfer ences before.  Maybe you can tell me what you’ve already done and I can see if you’ve missed anything. 
+
+Petra:  That would be great.  Okay, I’ve scheduled the meeting for 3:00…  
+
+Ewan:  Stop right there.  If the videoconference is  at 3:00 here, it’s already 6:00 on the East Coast.  That’s too late to start the me eting, don’t you think? 
+
+Petra:  Oh, I didn’t factor in time zones!  But I s till have time to reschedule, I think, so it’s not a total catastrophe.   
+
+Ewan:  Good.  Be sure to initiate the call or the c onnection at least 10 minutes before the time of the meeting, and make sure you k now how to reconnect someone if they get disconnected during the meeting . 
+
+Petra:  I still need to figure that out.    
+
+ Ewan:  Are you facilitating the meeting, too? 
+
+Petra:  I don’t know.  I guess so. 
+
+Ewan:  In that case, make sure you identify each pe rson by greeting them by name. 
+
+Petra:  I was hoping to lurk in the background in c ase something went wrong.  I’d be ready to troubleshoot.   
+
+Ewan:  If Desmond put you in charge of setting up t he meeting, he’ll want you to take a more active part.   
+
+[Petra breathing heavily] 
+
+Ewan:  What are you doing? 
+
+Petra:  Hyperventilating.  I don’t think I’m ready for this.   
+
+[end of dialogue] 
+
+Our scriptwriter, Dr. Lucy Tse, works in the backgr ound.  You don’t see her, but she’s there, certainly taking an active part by wri ting these wonderful scripts.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

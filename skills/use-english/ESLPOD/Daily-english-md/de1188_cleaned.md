@@ -1,0 +1,86 @@
+# Advertising to Children
+
+Welcome to English as a Second Language Podcast num ber 1,188 – Advertising to Children. 
+
+This is English as a Second Language podcast episod e 1,188. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit ESLPod.com – on the Internet, of course – and  become a member of ESL Podcast. When you do, you can download the Learning  Guide for this episode that contains a complete transcript of everything w e say.  
+
+This episode is a dialogue between James and Vicky about television ads for children. Let’s get started. 
+
+[start of dialogue] 
+
+James: Look at that! It’s commercial after commerci al. It’s terrible how advertisers are going after kids. 
+
+Vicky: They’re just doing their job, marketing to a  lucrative demographic. 
+
+James: But just look at what our kids are bombarded  with: toy commercials and junk food ads! 
+
+Vicky: Children’s television is no different from a ny other type of programming. Commercials are a fact of life. 
+
+James: But don’t you think it’s wrong to manipulate  young viewers with these commercials? Aren’t they more susceptible to false advertising? 
+
+Vicky: Shh! That’s our company’s product commercial . It really gets your attention, doesn’t it? 
+
+James: Yeah, it’s grand, just grand. 
+
+[end of dialogue] 
+
+James begins our dialogue by saying to Vicky, “Look  at that! It’s commercial after commercial.” A “commercial” (commercial) is a comme rcial advertisement. The word “commercial” refers to making money in this ca se, or businesses. However,  
+
+we use the word “commercial” nowadays to mean the s ame as an “advertisement,” which is some sort of announcement  on television, radio, or nowadays YouTube that tries to get you to do someth ing or to buy something – usually to buy something.  
+
+James is talking about all of the commercials on te levision. He says, “It’s commercial after commercial,” meaning first there’s  one commercial, then there’s another one. He’s complaining about how many commer cials there are. He says, “It’s terrible how advertisers are going after kids .” “Advertisers” are the people who pay for the commercials – the ads or advertisem ents. It could be a company – it usually is – but it could also be an organizat ion.  
+
+Advertisers, according to James, are “going after k ids.” “To go after” is a two- word phrasal verb meaning to try to influence a par ticular group of people or to try to get your message to a particular group of pe ople. In this case, the group of people are “kids” (kids). “Kids” are children. Vick y says, “They’re just doing their job.” She’s referring to these advertisers. These a dvertisers are “just doing their job.” In other words, they’re not trying to do anyt hing bad. They’re just doing what they’re supposed to do.  
+
+And what exactly is their job? According to Vicky, it’s “marketing to a lucrative demographic.” “Marketing” (marketing) comes from th e verb “to market” (market) which means to get people to know about your produc t or service, usually so that they will buy more of whatever it is you’re selling . “To market” isn’t exactly the same as “to advertise.” “Marketing” refers to anyth ing you do to get people to become aware of or to know about your product or se rvice. “Advertising” is one way that you can market your product or service.  
+
+Advertising refers usually to paying a television s tation or a website to put some sort of announcement – an “ad” – about your product  or service. So, advertising is one way of marketing your product to get people aware of your product. Vicky is talking about these companies “marketing to a lu crative demographic.” “Lucrative” (lucrative) means very profitable, some thing you can make a lot of money from. You might describe playing professional  sports, like professional baseball or professional soccer, as being “lucrativ e.” You can get a lot of money doing that.  
+
+A “demographic” (demographic) as a noun refers to a  section or group of people who have similar characteristics. It could be a gro up of women. It could be a group of children. It could be a group of people wh o are all learning English. Those are all examples of “demographics” – groups w ithin a larger population. Children are a “lucrative demographic” according to  Vicky, meaning that  
+
+companies can make a lot of money from them. Of cou rse, they’re really making the money from their parents.  
+
+James says, “But just look at what our kids are bom barded with: toy commercials and junk food ads.” “To bombard” (bombard) can mean  to drop bombs – explosive devices – on a certain area, but it’s use d more commonly nowadays to refer to the act of sending lots of different messa ges or images to a certain group of people over and over again – so many that this g roup can’t pay attention or think about anything else.  
+
+You might say, for example, that advertisers “bomba rd you with emails” to get you to buy things from them, or that you are “bomba rded with requests” from people at your company to help them with their proj ects. Notice we use the proposition “with.” You are “bombarded with” someth ing. Well, in this case we’re talking about children who are “bombarded with ads”  – advertisements – advertisements for toys and junk food.  
+
+“Toys” are objects designed to entertain and amuse children. “Junk (junk) food” refers to food that doesn’t have a lot of nutrition al value, that tastes good but usually isn’t very good for your body – things like  McDonald’s hamburgers, for example. Vicky responds, “Children’s television is no different from any other type of programming. Commercials are a fact of life ,” she says. “Children’s television” refers, of course, to television progra ms or shows that are made for children.  
+
+“Programming” here refers to the kinds of TV shows or movies that are shown on a particular channel or a particular station on tel evision. “A fact of life” is something that you have to accept, something that i s very common and you can’t change. Usually we use this expression “a fact of l ife” when we are referring to something that isn’t very pleasant, isn’t very nice , but that you can’t avoid. If you live in Los Angeles, traffic – lots of cars on the road – is “a fact of life.” If you want to live here, you just have to understand that and put up with it. You have to tolerate it.  
+
+James says, “But don’t you think it’s wrong to mani pulate young viewers with these commercials?” “To manipulate” (manipulate) me ans to change or influence someone, but usually in a negative way by using som e sort of secret or hidden approach or tactic. If someone “manipulates” you, t hat person is trying to get you to do something, say something, or think something by, in a way, tricking you or not telling you that he’s trying to get you to chan ge your mind or to think in a certain way.  
+
+We don’t like to be manipulated by other people. We  don’t like other people to try to get us to say something or do something by a way  that isn’t honest, that isn’t open. James thinks that these advertisers are “mani pulating young viewers” (viewers). A “viewer” is a person that views or wat ches, in this case, television programs. If you are listening to the radio or to a  podcast, you are a “listener.” For a television program you would be a “viewer,” e ven though of course you’re also listening to the television program as well as  watching it or “viewing” it.  
+
+James asks, “Aren’t they,” meaning children, “more susceptible to false advertising?” “To be susceptible” (susceptible) mea ns to be easily influenced or affected by someone or something – influenced in su ch a way that something negative will happen, something bad will happen to you. James is worried that children are “susceptible to false advertising.” “F alse advertising” would be advertising that tells lies, which some people thin k refers to almost all advertising. But that’s not true, of course.  
+
+Vicky says, “Shh!” She’s telling James to be quiet.  “That’s our company’s product commercial. It really gets your attention, doesn’t it?” Now we understand, at the end of this dialogue, that Vicky works for a compan y that has advertisements for children on television. She says, “That’s our compa ny’s product (product) commercial.” The word “product” usually refers to a  physical object that you sell. Some companies sell products. Some companies sell s ervices. They don’t give you anything physical, but they do something for yo u.  
+
+James says at the end, “Yeah, it’s grand, just gran d.” The word “grand” (grand) usually means wonderful or great. But here, James i s being sarcastic. He’s using the word in one way to mean something the opposite.  He’s trying to make a joke by saying, “Oh yeah, it’s grand.” But the way he sa ys it indicates that he’s making a joke. He doesn’t like the idea, I guess, that Vic ky’s company advertises to children.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+James: Look at that! It’s commercial after commerci al. It’s terrible how advertisers are going after kids. 
+
+Vicky: They’re just doing their job, marketing to a  lucrative demographic. 
+
+James: But just look at what our kids are bombarded  with: toy commercials and junk food ads!  
+
+ Vicky: Children’s television is no different from a ny other type of programming. Commercials are a fact of life. 
+
+James: But don’t you think it’s wrong to manipulate  young viewers with these commercials? Aren’t they more susceptible to false advertising? 
+
+Vicky: Shh! That’s our company’s product commercial . It really gets your attention, doesn’t it? 
+
+James: Yeah, it’s grand, just grand. 
+
+[end of dialogue] 
+
+Our dialogues on ESL Podcast are just grand – and I  say that not to be sarcastic, but to say that they really are wonderful. Thanks t o our wonderful scriptwriter, Dr. Lucy Tse.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

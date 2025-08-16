@@ -1,0 +1,110 @@
+# Making a Comeback
+
+Welcome to English as a Second Language Podcast num ber 1,181 – Making a Comeback. 
+
+This is English as a Second Language Podcast episod e 1,181. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Take a look at our  ESL Podcast Store with additional courses in Business and Daily English. Y ou can also like us on Facebook. Go to facebook.com/eslpod. And why not fo llow us on Twitter at @eslpod. 
+
+This episode is a dialogue between Eileen and Dex a bout someone who was popular a long time ago who wants to be popular aga in. Let’s get started. 
+
+[start of dialogue] 
+
+Eileen: What are you doing with all that band equip ment? 
+
+Dex: The guys in the band are planning a reunion. I t’s time for our comeback. It will be the stuff of legends! 
+
+Eileen: Aren’t you afraid of being called has-beens  after all these years? 
+
+Dex: Bite your tongue. There is a groundswell of su pport for this reunion and we’re not going to disappoint the fans. 
+
+Eileen: Groundswell? Are you referring to that loca l news article about one-hit wonders asking, “Where are they now?”  
+
+Dex: There was a lot of good response to my quote a bout our possible reunion. After a 20-year hiatus, I think fans are ready for more music from us. It should lead to a tour. 
+
+Eileen: Resurrecting your music career might be har der than you guys think. 
+
+Dex: Stop being such a killjoy. This reunion could lead to an entire new generation of fans. 
+
+Eileen: Or you could become the laughingstock of th e music world.  
+
+ Dex: Okay, that’s enough. You’re officially out of the band. 
+
+Eileen: I didn’t know I was in the band. 
+
+Dex: I had considered making you a backup singer, b ut I can’t deal with your negativity. 
+
+Eileen: Oh, poor me. I’ll never find stardom. 
+
+Dex: You’ve had your chance! 
+
+[end of dialogue] 
+
+The title of this episode is “Making a Comeback” (c omeback). A “comeback” is usually when a famous person, someone in sports or entertainment, becomes popular after many years of no longer being popular . So, they’re popular, and then they’re not popular, and then they become popu lar again. Some old actors and singers try to make a comeback. They try to bec ome popular again after 10, 15, or 20 years of not being popular. You see this a lot in music, and that’s the topic of today’s dialogue.  
+
+Eileen says to Dex, “What are you doing with all th at band equipment?” “Band” (band) is a group of musicians who perform together . Guitars, drums, speakers – those are things that might be part of the “band eq uipment” that Eileen is talking about. Dex says, “The guys,” meaning probably the m en in the band, “are planning a reunion.” A “reunion” (reunion) is an ev ent that is for people who used to be related in some way to get back together agai n and have a party or have some sort of celebration.  
+
+The members of Dex’s band are planning a reunion. H e says, “It’s time for our comeback. It will be the stuff of legends!” The exp ressions “stuff (stuff) of legends (legends)” means that it is going to be very famous , something that is well known, something that will be popular, that many pe ople will be talking about. Eileen says, “Aren’t you afraid of being called has -beens after all these years?”  
+
+The term “has (has) – been (been)” refers to someon e who used to be popular and successful but is no longer popular, but this p erson continues to talk about it. You can find lots of has-been actors here in Los An geles. The term “has-been” is definitely an insulting one. It is used to refer to  someone who isn’t famous anymore but was once famous. It could also refer to  someone who was once good at something but is no longer good at that thi ng.   
+
+ Dex responds to Eileen, “Bite your tongue.” This ex pression “to bite (bite) your tongue (tongue)” means be silent, be quiet, don’t s ay what you want to say right now. “There is a groundswell of support for this re union,” Dex says, “and we’re not going to disappoint the fans.” A “groundswell” (groundswell) is an increase in something, especially in public opinion – when peop le start liking something. Usually this happens very quickly.  
+
+A “fan” (fan) is someone who likes a particular per son or thing. It could be a celebrity. It could be a movie. It could be a sport s team. It could be even a particular kind of food. “I’m a fan of shrimp.” Tha t means I really like shrimp. Or “I’m a fan of the Los Angeles Dodgers.” I really li ke that baseball team. Eileen, however, doubts that Dex is correct about this grou ndswell. She says, “Groundswell? Are you referring to that local news article about one-hit wonders asking, ‘Where Are They Now?’”  
+
+A “one-hit wonder” (wonder) is a person or a group that had one popular song and then nothing else. The person or group only had  one popular song that everybody knows and everybody can sing, but that wa s it. That was the only hit, the only success they had. That’s a “one-hit wonder .” Eileen says there was an article in the newspaper – or perhaps the Internet website – about one-hit wonders, asking what these people or what these gro ups are doing now. Dex says, “There was a lot of good response to my quote  about our possible reunion.”  
+
+So apparently Dex was interviewed for this article,  and there is something that he said in the article. That’s what he means by “my qu ote” (quote). “After a 20-year hiatus, I think fans are ready for more music from us.” A “hiatus” (hiatus) is a break, a pause, often a very long pause, in some ac tivity – in this case, a 20-year break. “It should lead to a tour,” Dex says. He’s r eferring to this reunion concert that they are planning on giving. A “tour” (tour) i s when a musician or a band travels from city to city giving performances.  
+
+Eileen says, “Resurrecting your music career might be harder than you guys think.” “To resurrect” (resurrect) refers to bringi ng something or someone back to life. More generally, it means to try to make somet hing popular that was once popular in the past but is no longer so. Dex says, “Stop being such a killjoy.” A “killjoy” (killjoy) is a person who makes it diffic ult for other people to enjoy something, who makes it difficult for other people to have fun, perhaps by making negative comments.  
+
+Eileen doubts that Dex and his band will be able to  make a comeback, but Dex says, “Stop being such a killjoy. This reunion coul d lead to an entire new  
+
+generation of fans,” meaning a whole new group of y ounger people who will like their music. Eileen says, “Or you could become the laughingstock of the music world.” A “laughingstock” (laughingstock) – one wor d – is a person that other people make fun of, that other people laugh at, usu ally because that person is doing something embarrassing or stupid that other p eople laugh at.  
+
+Eileen thinks that Dex and his band will be “the la ughingstock of the music world,” meaning everyone else who is involved in ma king and selling music. Dex says, “Okay, that’s enough. You’re officially out o f the band,” meaning you will not be a member of the band. Eileen says, “I didn’t  know I was in the band.” Dex responds, “I had considered making you a backup sin ger, but I can’t deal with your negativity.”  
+
+A “backup singer” is someone who provides help for the lead or main singer in a band. You still see this in some musical groups. Th ere will usually be two people, maybe more, who are standing in the back who are al so singing the song, helping the main singer of the song – the person we  would call the “lead (lead) singer” of the band.  
+
+Dex says he had considered making Eileen a backup s inger, but he can’t deal with her “negativity” (negativity). “Negativity” is  the same as being pessimistic – having negative thoughts and feelings about somethi ng or talking in a negative way: always criticizing, always complaining, or alw ays seeing the bad side of things. Eileen somewhat jokingly says, “Oh, poor me . I’ll never find stardom.” “Stardom” (stardom) refers to having your name and your work known by lots of different people – being a star, being famous.  
+
+Dex, however, says to her, “You’ve had your chance. ” “You’ve had your chance” is a phrase we use to tell someone that he or she h as lost a good opportunity by not taking advantage of it during a certain period of time. Eileen doesn’t really feel sorry. She doesn’t really think she was going to be a star. But Dex is mad at her and says, “Well you’ve had your chance,” meanin g you could have been famous, but because of your negativity, you won’t.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Eileen: What are you doing with all that band equip ment? 
+
+Dex: The guys in the band are planning a reunion. I t’s time for our comeback. It will be the stuff of legends!  
+
+ Eileen: Aren’t you afraid of being called has-beens  after all these years? 
+
+Dex: Bite your tongue. There is a groundswell of su pport for this reunion and we’re not going to disappoint the fans. 
+
+Eileen: Groundswell? Are you referring to that loca l news article about one-hit wonders asking, “Where are they now?”  
+
+Dex: There was a lot of good response to my quote a bout our possible reunion. After a 20-year hiatus, I think fans are ready for more music from us. It should lead to a tour. 
+
+Eileen: Resurrecting your music career might be har der than you guys think. 
+
+Dex: Stop being such a killjoy. This reunion could lead to an entire new generation of fans. 
+
+Eileen: Or you could become the laughingstock of th e music world. 
+
+Dex: Okay, that’s enough. You’re officially out of the band. 
+
+Eileen: I didn’t know I was in the band. 
+
+Dex: I had considered making you a backup singer, b ut I can’t deal with your negativity. 
+
+Eileen: Oh, poor me. I’ll never find stardom. 
+
+Dex: You’ve had your chance! 
+
+[end of dialogue] 
+
+The scripts by our wonderful scriptwriter, Dr. Lucy  Tse, are definitely the stuff of legends.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

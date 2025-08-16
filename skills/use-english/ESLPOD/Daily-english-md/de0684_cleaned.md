@@ -1,0 +1,102 @@
+# Asking for Information About a Coworker
+
+Welcome to English as a Second Language Podcast num ber 684: Asking for Information About a Coworker. 
+
+This is English as a Second Language Podcast episod e 684.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Why do we tell you that  at the beginning of every episode?  Well, because we want you to go and downl oad a Learning Guide for this episode.  And why do we want you to download a  Learning Guide?  Well first, because it will help you improve your Englis h, and second, because this podcast depends on you becoming members and support ing us so we can continue to provide these audio files for free. 
+
+This episode is called “Asking for Information Abou t a Coworker,” someone you work with.  Let’s get started. 
+
+[start of dialogue] 
+
+Amina:  What’s the lowdown on the new guy? 
+
+Earl:  Which new guy?   
+
+Amina:  You know, the cute one.  Fill me in.  Is he  single? 
+
+Earl:  I don’t know.  I have no idea. 
+
+Amina:  You’re working with him side-by-side and yo u haven’t gleaned any personal information about him? 
+
+Earl:  We talk about work.  It’s not my job to pry into his personal life. 
+
+Amina:  I need to get the scoop on Mr. Perfect and you’re my source. 
+
+Earl:  You don’t know anything about him, so how do  you know he’s perfect? Maybe when you get to know him, you’ll find out he’ s a selfish, self-centered jerk. 
+
+Amina:  Wait, catch me up on what’s going on here.  Have other people asked you about him? 
+
+Earl:  Yeah, maybe about a dozen of the women in th is office.  They’ve been bombarding me with questions.   
+
+Amina:  Oh, sorry.  I didn’t know. 
+
+Earl:  Yeah, I’m not the guy’s social secretary.  Y ou women have to satisfy your own curiosity elsewhere. 
+
+Amina:  Point taken, but do you know if he’s shown interest in any of the dozen women you’ve talked to? 
+
+Earl:  Ugh! 
+
+[end of dialogue] 
+
+Our dialogue begins with Amina saying to Earl, “Wha t’s the lowdown on the new guy?”  The word “lowdown” (one word) means what is the interesting information about someone, what is the true information about t his person.  We often use this we are talking about perhaps secret information, in formation that you know and no one else knows.  Amina is asking for the lowdown  on the new guy, the new man who is working at their company. 
+
+Earl says, “Which new guy?”  Amina says, “You know,  the cute one.”  “Cute” is someone who is attractive – physically attractive.  I’m sort of the opposite of cute; I’m the anti-cute!  Anyway, Amina says, “Fill me in .”  “To fill (someone) in” is a phrasal verb meaning to give someone accurate infor mation about what she or he wants or needs.  “Fill me in” means give me the information I need.  She begins by asking, “Is he single?” meaning is he unm arried.  Earl says, “I don’t know.  I have no idea,” meaning I don’t have any in formation at all.  Amina says, “You’re working with him side-by-side (meaning righ t next to him physically) and you haven’t gleaned any personal information about him?”  “To glean” (glean) means to learn something or to find something out i ndirectly, without asking the person directly.  You get information, but not by a sking them.  You get it by doing other things, listening to their answers, asking re lated questions perhaps.  Earl says, “We talk about work,” meaning when he and the  new guy have a conversation it’s related to their work, not to the ir personal lives.  Earl then says, “It’s not my job to pry into his personal life.”  “ To pry” (pry) means, in this case, to ask personal questions, usually questions that are very private or that are about information that you would not normally ask someone .  Someone might tell you, “Don’t pry,” meaning don’t ask too personal of a qu estion, things that you really don’t have any right to know.  “To pry,” also, is t he verb we use when, for example, we’re trying to open a door that won’t ope n, and we take a piece of thin  
+
+metal – a long stick – and we try to open the door;  we try to pry it open.  It’s the same idea of trying to get into an area that is clo sed, much like your personal life might be closed.   
+
+Earl says that it’s not his job to pry into the new  guy’s personal life.  Amina says, “I need to get the scoop on Mr. Perfect and you’re my source.”  The “scoop” (scoop) in this case is the most important informat ion about something, especially information that is secret.  The word “s coop” can also be used as a verb.  In journalism, when talking about newspapers  for example, or magazines, “to get a scoop on (something),” or simply “to get a scoop,” means to get information about a story before anyone else does, before anyone else is able to write an article about it.  Here, the term is used more generally to mean information – important, possibly secret informatio n.  Amina calls him “Mr. Perfect,” meaning she really likes this person.  Sh e says to Earl, “you’re my source.”  “Source,” in this case, just like we were  talking about newspapers and magazines, is a person who provides information on a particular topic.  It’s a term often associated with journalism – with news report ing.  Your “source” is the person who tells you information, again, often secr et information.  Earl is Amina’s source for information, the place where she can go to get information. 
+
+Earl says, “You don’t know anything about him, so h ow do you know he’s perfect?  Maybe when you get to know him, you’ll fi nd out he’s a selfish, self- centered jerk.”  “To be selfish” (selfish) means to  care only about yourself and your happiness, you don’t care about anyone else.  “Self-centered” means something similar, you only think about yourself an d how something will affect you.  You don’t think about how something will have  an impact on or affect another person; that’s someone who is self-centered .  We might also use the word “narcissistic,” from the old Greek story of Na rcissus, the person who is so in love with themselves they don’t pay attention to an yone else.  This, some people say, is a problem that has gotten worse in the Unit ed States.  I read a book recently about this topic; I think it was called so mething like The Epidemic of Narcissism .  “Epidemic” is like a disease that spreads quickl y, and many people get the disease.  Well, that’s what some psychologi sts say is happening with narcissism, especially among younger Americans.  It  was an interesting book, but I really wish it would have talked more about m y generation.  I mean, they’re the most important, right?  So, Earl says that this  new guy could be a selfish, self-centered jerk.  A “jerk” (jerk) is a rude, unc aring, selfish, self-centered, thoughtless person that you don’t like.  It’s a ver y negative way to describe someone, an insulting term, informally used, not so mething you would ever, for example, want to say about your boss – at least if your boss is listening to you!  It can be used to describe a man or a woman, probably a little more common in describing a man.  
+
+ Amina says, “Wait, catch me up on what’s going on h ere.”  “To catch (someone) up” is a two-word phrasal verb meaning to give some one the information that he or she needs in order to know as much as everyone e lse knows about a certain topic.  The idea is that other people know more tha n you do about this.  Maybe you were on vacation or you were gone, and now you want someone to catch you up, to give you information that everyone else already has.  There are some other meanings of this verb that you can find in ou r Learning Guide for this episode.   
+
+Amina says, “Have other people asked you about him? ”  Earl says, “Yeah, maybe about a dozen of the women in this office.”  So, a “dozen,” around 12 other women have also asked Earl for information ab out this new, apparently cute guy.  Earl says, “They’ve been bombarding me w ith questions.”  “To bombard (bombard) (someone)” in this case means to ask them many questions very quickly: “Where is he going?  What does he loo k like?  How old is he?  Is he married?  Does he hate cats?”  All important questi ons, right?  That would be to bombard someone with questions.  We also use this v erb when talking about airplanes that are dropping bombs on a place in ord er to blow things up – to destroy things.  So, that’s the original military m eaning of “bombard.” 
+
+Earl says that the other women have been bombarding  him with questions. Amina says, “Oh, sorry.  I didn’t know.”  Earl then  says, “Yeah, I’m not the guy’s social secretary.”  A “social secretary” would be a  person who schedules another person’s personal meetings and dates, not a profess ional secretary that you would have at an office.  Some people are so busy a nd have so much money that they can have a personal and a business or pro fessional secretary.  I don’t have either one, but I don’t really need the social  secretary.  My life is very boring, anyway.  Anyway, enough about me.  Earl say s that you women have to satisfy your own curiosity elsewhere.  “To satisfy your own curiosity,” or simply “to satisfy your curiosity,” means to find the answ ers to the questions you have by yourself.  To discover things you want to know w ithout getting help from other people, that would be to satisfy your own curiosity . 
+
+Amina says, “Point taken.”  This is an informal phr ase we use to mean that you understand and agree with the other person on what they just said.  “Point taken,” Amina then says, “but do you know if he’s s hown interest in any of the dozen women you’ve talked to?”  So, she asks anothe r question, even after Earl says he doesn’t want to answer more questions.  Her  question is has the new guy shown interest in any of the other women who ha ve been asking about him. “To show interest in” is to be interested in someon e or something.  Often, we use it to describe someone who is interested in a roman tic relationship with another  
+
+person.  They may show interest by talking to them,  laughing at their jokes, asking them to go to lunch with them, and so forth.   Earl replies simply by saying, “Ugh!”  This is an expression of frustration, of di sappointment, of dislike.  He doesn’t want to be asked these questions; he’s tire d of it. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Amina:  What’s the lowdown on the new guy? 
+
+Earl:  Which new guy?   
+
+Amina:  You know, the cute one.  Fill me in.  Is he  single? 
+
+Earl:  I don’t know.  I have no idea. 
+
+Amina:  You’re working with him side-by-side and yo u haven’t gleaned any personal information about him? 
+
+Earl:  We talk about work.  It’s not my job to pry into his personal life. 
+
+Amina:  I need to get the scoop on Mr. Perfect and you’re my source. 
+
+Earl:  You don’t know anything about him, so how do  you know he’s perfect? Maybe when you get to know him, you’ll find out he’ s a selfish, self-centered jerk. 
+
+Amina:  Wait, catch me up on what’s going on here.  Have other people asked you about him? 
+
+Earl:  Yeah, maybe about a dozen of the women in th is office.  They’ve been bombarding me with questions.   
+
+Amina:  Oh, sorry.  I didn’t know. 
+
+Earl:  Yeah, I’m not the guy’s social secretary.  Y ou women have to satisfy your own curiosity elsewhere. 
+
+Amina:  Point taken, but do you know if he’s shown interest in any of the dozen women you’ve talked to? 
+
+Earl:  Ugh!  
+
+ [end of dialogue]  
+
+The lowdown on our scriptwriter is that she’s intel ligent, creative, and knows how to write, the one and only Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again, won’t you, on ESL Podc ast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

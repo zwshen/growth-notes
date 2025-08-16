@@ -1,0 +1,82 @@
+# The Commute Home and Running Errands
+
+Welcome to English as a Second Language Podcast num ber 8: The Commute Home and Running Errands 
+
+This is English as a Second Language Podcast episod e number eight. I’m your host, Dr. Jeff McQuillan, coming to you from the Ce nter for Educational Development in beautiful Los Angeles, California. 
+
+In this episode, I’ll talk about commuting home and  running some errands.  
+
+Let’s get started! 
+
+[Start of story] 
+
+It’s five o’clock and it’s quitting time.  I put a few files into my bag, grab my mug, and say goodnight to the rest of the people in my a rea.  I go to the parking garage and get into my car.  I signal my turn onto the street and drive toward the freeway onramp.  I merge as best as I can onto the freeway, which is always a bit of a hassle at this hour.  Traffic is stop-and-go a ll the way from downtown.  I hear on the radio that there’s a stalled car in fast lan e near La Brea, backing up traffic all the way to Hoover.  I decide to get off the fre eway and to take surface streets for the rest of the trip.   
+
+I need to make a stop on the way home.  I know that  the fridge is empty, so I decide to stop by the market.  I get there and I pi ck up some French bread, a bag of apples, a few bananas, some pasta, tomato sauce,  and a cooked chicken. Luckily, they have a lot of checkout stands open, a nd I get through the line pretty quickly.  I thank the cashier and the bagger and pu sh my cart to my car.  I open the trunk and load everything up.  Just then my wif e calls me on my cell phone. She was going to be a little late getting home and asks me to make something for dinner.  Tonight, I will be the cook.   
+
+[End of story] 
+
+This episode is called “The Commute Home and Runnin g Errands.”  “Commute,” you know, means driving back and forth from your ho use to your work.  “To run an errand” (errand) means to do something, usually something outside of your house.  For example, going to the grocery store, go ing to the drug store, stopping by the post office to mail a letter, these are thin gs that you have to do that are not  
+
+ESL Podcast 8 - The  Commute Home and Running Erran ds  
+
+part of your work but that you need to do in your d aily life.  And, we call these things errands, and the verb is to run an errand. 
+
+Our story says, “It's five o'clock and it's quittin g time.”  “Quitting time” is the time that you stop working.  “To quit” (quit) means to s top, so quitting time is the time that you stop working at the end of the day.  “I pu t a few files into my bag,” I “grab my mug,” - my coffee mug - and I “say goodnight to the rest of the people in my area.”  If you work at a big company, usually you a re divided into smaller groups that work on the same topic - the same type of work .  So, there is an accounting section and there is a sales section.  One way to d escribe those smaller groups is an area, so people in your area would be people who work next to you on the same things that you do. 
+
+“I go to the parking garage and get into my car.  I  signal my turn onto the street.” “To signal” (signal) means to indicate, and in a ca r it means to turn on what we call the “blinker” (blinker).  The blinker is what indicates whether you are going to turn left or right.  So, when you are driving your car and you want to make a turn, you have to signal, are you going left or are you g oing right.  And of course, in the back of the car, there's a little light that go es on and off, we would say it “flashes” (flashes).  “To flash” means to go on and  off quickly. 
+
+So, “I signal my turn” - left or right - “onto the street and drive toward the freeway onramp.  I merge as best as I can onto the freeway. ”  “To merge” on the freeway or to merge when you are driving means that there a re two lanes - two cars next to each other - but the road is getting more narrow .  The road becomes smaller and now you only have one lane, so these two lines of cars have to go into the same lane, and we call that merging.  “To merge” (m erge) as a verb means to take two things and to put them together.  We talk about companies that merge; one company buys another company and they merge - t hey come together. Well, in traffic when you are driving, to merge mea ns to go from two lanes to one lane, and you have to go into and combine with anot her lane of traffic. 
+
+“I merge as best as I can, which is always a bit of  a hassle at this hour.”  A “hassle” (hassle) is the same as a problem.  So, it  “is always a bit of,” meaning a little bit - somewhat of a problem “at this hour.  Traffic is stop-and-go all the way from downtown.”  We use that word “traffic” (traffi c) to mean the cars on the street or the cars on the freeway.  You may ask som eone, “How was traffic?” and they may say, “Oh, it was terrible.  Traffic was re ally bad on the freeway this afternoon.”  So, it refers to the number of cars an d how easy it is to move on the freeway or the street.  When we say traffic is “sto p-and-go,” we mean that cars are stopping then they go forward maybe ten feet, 2 0 feet, then they stop again.   
+
+ESL Podcast 8 - The  Commute Home and Running Erran ds  
+
+When there are too many cars on the freeway or on a  road, you cannot just drive straight through, you have to stop, wait for the ot her car and then go, so stop- and-go traffic means that the traffic is moving ver y slowly. 
+
+“I hear on the radio that there’s a stalled car in the fast lane near La Brea.”  I'm listening to the radio - to the drive time traffic report, and they tell me that there is a stalled car.  “To stall” (stall) means here to st op - to stop working.  It doesn't mean that the car will never run again - will never  work again.  Usually, when we use the verb stall, we mean that it is stopped for a temporary time because it has some problem.  So, a stalled car is a car that has stopped working, and if you are on the freeway and your car stalls, you will, of co urse, cause a problem for the other drivers.  Normally, you try to get your car o nto the shoulder.  The shoulder is the part of the freeway where you can stop your car and not get in the way of anyone else.  It's on the right hand side or the le ft hand side; you can have a shoulder on either side of the freeway. 
+
+The car that is stalled is in the fast lane.  The f ast lane on an American freeway or highway is the first lane on the left, what we w ould say the far left lane if there are more than three lanes or more than two lanes on  the freeway.  Here in Southern California we have freeways that have six or seven lanes, so if you want to go fast, normally you go to the lane that i s in the far left - the first lane on the left; that's the fast lane.  Not everyone drive s fast in the fast lane, but it's the common understanding among drivers that if you are in the fast lane, you should go faster than the other cars. 
+
+Well, this car is “stalled in the fast lane near La  Brea.”  “La Brea” is a name of a street here in Los Angeles, and the car is “backing  up traffic all the way to Hoover.”  “Hoover” is another street here in LA.  “ To back up traffic” means that the cars are stopped behind you.  When we say there  is a backup on the freeway, we mean that the cars are moving very slow ly or they're stopped, usually because there's an accident, there's constr uction - they're fixing the freeway and they have one of the lanes closed, or, in our story, it's because a stalled car is in the fast lane.  So, the traffic i s moving very slowly, it is backed up “all the way to Hoover,” meaning that beginning at Hoover Street, the cars are stopped or are going very slowly, and all the way t o La Brea. 
+
+“I decide to get off the freeway and to take surfac e streets for the rest of the trip.” “Surface” (surface) means the top of something, but  when we say surface streets, we mean the roads and streets that are not  the freeway or the highway. So, the regular roads and streets we would call the  surface streets. 
+
+ESL Podcast 8 - The  Commute Home and Running Erran ds  
+
+“I need to make a stop on the way home,” I need to go somewhere before I go home.  “I know that the fridge is empty, so I decid e to stop by the market.” “Fridge” (fridge) is another way of saying refriger ator - it's a short way of saying refrigerator.  The fridge is where you put food to keep it cold.  So, my fridge is empty which means I don't have any food, so I decid e to go to the market.  The market here means the supermarket, a place where yo u can buy food, or it could be a smaller market, what we might call a corner ma rket; that would be a small store.  Often, they are located at the intersection  - at the corner of two streets. 
+
+I get to the market and I pick up some food.  “I pi ck up some French bread,” which is a type of bread, I pick up “a bag of apple s,” I get “a few bananas, some pasta,” because I love pasta, some “tomato sauce,” for my pasta, “and a cooked chicken.”  In many American supermarkets, you can b uy a small chicken that is already cooked for you, so you can just take it hom e and eat it.  If you are lazy, like me, this is a very good way to get some good f ood, and it is not very expensive.  I think it's about maybe six or seven d ollars for a cooked chicken.  I like to take the chicken and put it into the pasta and tomato sauce and mix them all together. 
+
+“Luckily,” the supermarket has “a lot of checkout s tands open.”  A “checkout stand” is the place where you pay for your food.  T he verb “to checkout,” (checkout) means to leave and to pay.  We use that verb when we are talking about the supermarket.  We also use it when we are talking about a hotel.  “I'm going to checkout of the hotel,” that means I'm goi ng to leave the hotel and, I hope, pay.  A “stand” (stand) here just means the p lace where you pay for something. 
+
+Well, “I get through the” checkout “line pretty qui ckly” - very quickly.  “I thank the cashier,” (cashier) - the cashier is the person who  takes my money - “and the bagger,” (bagger) - this is the person who puts you r groceries into a bag.  In some stores they do not have baggers; you have to b ag your groceries yourself. Notice we use the word “bag” (bag) as a verb, meani ng to put things into a bag. In American grocery stores you can have either a pa per bag or a plastic bag. 
+
+Well, the bagger puts my food into my cart, and I “ push my cart to my car.”  My “cart” (cart) sometimes called a shopping cart, is what you use to move or to take your food to your car - what you put your food into  when you are shopping.  It's a little like a big box - metal box with wheels on it .  So, it helps you move things, you don't have to carry them yourself.  
+
+ESL Podcast 8 - The  Commute Home and Running Erran ds  
+
+“I open the trunk and load everything up.”  “To loa d up” means to put things into, in this case, your car.  So, if someone says, “I'm going to load up my car,” (load) up, they mean they're going to put the things that they need to put into their car. We often use that verb when we are talking about mo ving something in your car, or going on a trip. 
+
+“Just then my wife calls me on my cell phone.  She was going to be a little late” this evening.  She says she is not going to get hom e at her normal time, and so she “asks me to make something for dinner.”  This i s not a good idea since I am not a good cook, but I, of course, say yes.  “Tonig ht, I will be the cook” - the person making the food.   
+
+Now let's listen to the story, this time at a regul ar speed. 
+
+[Start of story] 
+
+It’s five o’clock and it’s quitting time.  I put a few files into my bag, grab my mug, and say goodnight to the rest of the people in my a rea.  I go to the parking garage and get into my car.  I signal my turn onto the street and drive toward the freeway onramp.  I merge as best as I can onto the freeway, which is always a bit of a hassle at this hour.  Traffic is stop-and-go a ll the way from downtown.  I hear on the radio that there’s a stalled car in fast lan e near La Brea, backing up traffic all the way to Hoover.  I decide to get off the fre eway and to take surface streets for the rest of the trip.   
+
+I need to make a stop on the way home.  I know that  the fridge is empty, so I decide to stop by the market.  I get there and I pi ck up some French bread, a bag of apples, a few bananas, some pasta, tomato sauce,  and a cooked chicken. Luckily, they have a lot of checkout stands open, a nd I get through the line pretty quickly.  I thank the cashier and the bagger and pu sh my cart to my car.  I open the trunk and load everything up.  Just then my wif e calls me on my cell phone. She was going to be a little late getting home and asks me to make something for dinner.  Tonight, I will be the cook.   
+
+[End of story] 
+
+I suggest you load up your computer or music player  with some of the great scripts written by our great scriptwriter, Dr. Lucy  Tse. Thank you, Lucy! 
+
+From Los Angeles, California, I’m Jeff McQuillan, t hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+
+ESL Podcast 8 - The  Commute Home and Running Erran ds  
+
+ This course was produced by Dr. Jeff McQuillan and Dr. Lucy Tse.  Copyright 2006. ______ 
+
+Contributors to this series are Jeff McQuillan, Luc y Tse, and Jessica Brown.
+

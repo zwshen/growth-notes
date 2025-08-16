@@ -1,0 +1,108 @@
+# Learning to Ride the Subway
+
+Welcome to English as a Second Language Podcast num ber 938 – Learning to Ride the Subway.  
+
+This is English as a Second Language Podcast episod e 938. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is ESLPod.com. Become a member of ESL P odcast and download a Learning Guide for this episode.  
+
+This episode is a dialogue between Donny and Cayla about riding on a subway. Let’s get started.  
+
+[start of dialogue] 
+
+Donny: Come on, we need to buy our subway tickets a t that ticket machine. 
+
+Cayla: Why can’t we just get them at the ticket win dow? I’m not sure what the fare is. 
+
+Donny: There’s a long line and we need to catch a t rain right now. 
+
+Cayla: I’ve never taken the subway before. I don’t know how it works. 
+
+Donny: Just follow me. Here, take this card and wal k through the turnstile. Put your card in this slot and then retrieve it as you pass through. 
+
+Cayla: Okay, now where do we go? 
+
+Donny: Let’s look at this subway map showing all of  the lines. That’s the station we want. 
+
+Cayla: Don’t we need to get transfers? 
+
+Donny: We don’t need transfers to take connecting t rains. Let’s see, we want the express, not the local train . . . 
+
+Cayla: Are you sure we shouldn’t just ask somebody,  like a station agent? 
+
+Donny: Good luck finding one. And plus, I don’t nee d one. I can figure it out. Follow me. I think that’s the right platform. 
+
+Cayla: Are you sure that’s the right train?  
+
+Donny: Yes, and if you ask me another question, you  can continue this conversation with those tracks! 
+
+[end of dialogue] 
+
+This episode is all about subways. A “subway” (subw ay) is a system of underground trains in a large city that transport p eople from one part of the city to another. Many large cities have subways, all around  the world. Here in the United States, the most famous subway system would probabl y be in New York City. But other cities, such as Washington D.C., have sub way systems. Los Angeles kind of has a subway, not really. It's a very small  section of our transportation system. We do have other types of public transporta tion, but subways aren’t very popular here in Southern California, where everyone  drives a car.  
+
+But our dialogue is about subways, and we begin wit h Donny saying, “Come on, we need to buy our subway tickets at that ticket ma chine.” “Come on” is just a way of getting someone's attention – getting them t o come with you, in this case. A “ticket machine” is a machine that sells, usually , little pieces of paper that give you permission to enter into something. In this cas e, they give you permission to go on the subway train.  
+
+Cayla says, “Why can't we just get them at the tick et window? I'm not sure what the fare is.” A “ticket window” would be a place wh ere there is actually someone working – a real human being that you can talk to a nd, in this case, buy a ticket from. We might call this place a “ticket window.” W e might call it a “ticket counter.” There are other names that you could give  this particular place where someone is working with whom you can speak and from  whom you can buy your ticket.  
+
+Cayla says she's not sure what the fare is. The “fa re” (fare) is the amount of money that you have to pay to take a certain kind o f transportation. We can talk about “bus fare.” We can talk about “subway fare.” We could talk about “train fare.” In all of these cases, we’re talking about t he amount of money it takes to travel from one place to another. On a subway in an  American city nowadays, you probably have to pay $1.50 or $2.00 for each ri de. Maybe it's more. I don't know; I don't ride the subways. 
+
+Cayla doesn't know what the fare is, and that's why  she wants to go to a ticket window to ask someone. Donny however says, “There's  a long line and we need to catch a train right now.” “Train” here refers to  the vehicles that are in a subway system that move you from one place to another. We also use the word “train” to talk about transportation that may take you from on e city to another. Cayla says, “I've never taken the subway before.” When she says  she's never “taken” the subway, she means she's never ridden on the subway.  She's never actually been on a subway train. “I don't know how it works” – I don't understand how it functions, how it operates, what the system is.  
+
+Donny says, “Just follow me,” meaning do what I do.  “Here,” Donny says, “take this card and walk through the turnstile. Put your card in this slot and then retrieve it as you pass through.” There are a coupl e of different ways that a subway system can function, especially when you are  getting on the subway, when you are entering into the subway system. Usual ly there is some sort of card that you buy that you can use for a number of diffe rent rides. You can typically put on a certain number of rides on your card so yo u can use that card for 10 rides, for example.  
+
+When you walk up to enter into the subway system, u sually there is a machine called a “turnstile” (turnstile). The “turnstile” i s a small device or machine that allows one person to go through at a time. In the t urnstiles on the subway systems that I've been on, you have to put in your ticket into the machine. The machine will then check to make sure that you have paid, and if you have, then it will allow you to go through this turnstile – to go  through the machine so that you can get on the actual subway train. Sometimes you p ut the ticket in the machine and it comes out on the other side or on top of the  machine. Sometimes you just take the card and you slide it through – you pass i t through a certain part of the machine.  
+
+Donny is explaining to Cayla that she needs to put her card in this slot. A “slot” (slot) is a small opening for a coin or a ticket in  a machine. In this case, it's the place where the ticket goes in the turnstile. “To r etrieve” (retrieve) means to get something back. You put your ticket into the turnst ile and then you “retrieve” it – the machine gives it back to you. Cayla says, “Okay , now, where do we go?” Donny says, “Let's look at this subway map showing all of the lines.” Most cities have more than one “line.” That is, they have more than one route, more than one direction that a train goes.  
+
+You may have one line that goes from downtown to a certain city. You might have another line that goes from the western part o f the city to the northern part of the city. A “line,” then, is a route in a bus or  a train system. Usually lines have  
+
+either numbers, colors, or names, sometimes all thr ee. You might take the “7 line” in New York City to go from Manhattan to Quee ns, which is another part of New York City. Some cities have colors and each lin e has a different color: the red line, the blue line, the green line. Some citie s give names to the different lines related to where the line goes, typically.  
+
+Donny is looking at a subway map with Cayla. He say s, “That's the station we want.” A “station” is a place where you get on and off the subway. In most cities that have subway systems, there are usually dozens of different stations – places where you can get on and off. The stations all have  names associated with the place where the station is located. In some cities,  stations will have symbols also. This is sometimes done in cities where you may have  a large population that either doesn't read or write very well or doesn't s peak the language of that city very well. The stations have symbols that you can l ook at, and even if you don't understand the language you know which station that  is. In our dialogue, Donny is indicating to Cayla which station they want.  
+
+Cayla says, “Don't we need to get transfers?” A “tr ansfer” is permission to go from one type of transportation to another. These a re quite common in bus systems. Donny says, however, for the subway system  “we don't need transfers.” He says, “We don't need transfers to take connectin g trains.” A “connecting train” would be a second train that you would get on in or der to get to the place where you want to go. You “transfer” or go from one train  to another. Not when the train is moving, of course. 
+
+Donny says, “Let's see, we want the express, not th e local train.” In some subway systems there are specific trains that only stop at a limited number of stations. This is to allow people to move more quic kly from the more popular stations, often in the center part of the city, to areas farther away from the city or on the “outer edges,” we might say, of the city. “E xpress trains,” then, don't stop at every station. “Local trains” stop at every sing le station on that line. In the New York subway system, for example, if you get on a lo cal train, you will stop at every station. That will take you a longer amount o f time, of course. An express train is a lot faster, but it will only stop at som e of the stations, not all of the stations.  
+
+Donny is saying that he and Cayla need an express t rain. They don't need to ride the local train. Cayla says, “Are you sure we shoul dn't just ask somebody, like a station agent?” A “station agent” is a person who w orks for the subway system, whose job it is to help people find which train the y should get on. Personally, I’ve been on many different subway systems all around th e world, and I haven't seen very many station agents there to help people, but I guess they do exist.   
+
+ Donny says, “Good luck finding one.” And that's exa ctly right. Donny is saying it's very difficult to find a station agent in most subw ay stations. That's why he says, “Good luck finding one. And plus, I don't need one.  I can figure it out” – I can understand it. “Follow me. I think that's the right  platform.” A “platform” (platform) is the area where people stand before getting on th e train. It's where the train comes to a stop and people are able to get on and o ff the train. The platform is always part of the station. It doesn't move. The tr ain moves.  
+
+Cayla says, “Are you sure that's the right train?” – that is, the correct train. Donny says, “Yes, and if you ask me another question, you  can continue this conversation with those tracks.” “Tracks” (tracks) are the long parallel pieces of metal that the train actually rides on. We call tho se “tracks.” Donny is making a joke, saying that if Cayla keeps asking questions, she can have a conversation with the tracks because Donny won't be there anymor e; he'll be on one of the trains that has already left.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Donny: Come on, we need to buy our subway tickets a t that ticket machine. 
+
+Cayla: Why can’t we just get them at the ticket win dow? I’m not sure what the fare is. 
+
+Donny: There’s a long line and we need to catch a t rain right now. 
+
+Cayla: I’ve never taken the subway before. I don’t know how it works. 
+
+Donny: Just follow me. Here, take this card and wal k through the turnstile. Put your card in this slot and then retrieve it as you pass through. 
+
+Cayla: Okay, now where do we go? 
+
+Donny: Let’s look at this subway map showing all of  the lines. That’s the station we want. 
+
+Cayla: Don’t we need to get transfers? 
+
+Donny: We don’t need transfers to take connecting t rains. Let’s see, we want the express, not the local train . . .  
+
+ Cayla: Are you sure we shouldn’t just ask somebody,  like a station agent? 
+
+Donny: Good luck finding one. And plus, I don’t nee d one. I can figure it out. Follow me. I think that’s the right platform. 
+
+Cayla: Are you sure that’s the right train?  
+
+Donny: Yes, and if you ask me another question, you  can continue this conversation with those tracks! 
+
+[end of dialogue] 
+
+I'd like to thank our wonderful scriptwriter, Dr. L ucy Tse, for taking us on this subway trip today.  
+
+English as a Second Language Podcast was written an d produced by Dr. Lucy Tse, hosted by Dr, Jeff McQuillan. Copyright 2013 b y the Center for Educational Development.
+

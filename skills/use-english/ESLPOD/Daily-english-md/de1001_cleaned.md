@@ -1,0 +1,136 @@
+# Practicing Yoga
+
+Welcome to English as a Second Language Podcast epi sode 1,001 – Practicing Yoga.  
+
+This is English as a Second Language Podcast episod e 1,001. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Become a member of  ESL Podcast and download the Learning Guide for this episode. This episode is a dialogue between Victor and Rosaria about something I don’t know very much about and have never done, but I’m happy to talk about, and t hat is practicing yoga. Let’s get started.  
+
+[start of dialogue] 
+
+Victor: Humph! 
+
+Rosaria: What’s the matter? 
+
+Victor: I just got back from my first yoga class an d I was sorely disappointed. 
+
+Rosaria: I’ve heard that yoga is very good low-impa ct exercise and helps with stress relief. It’s supposed to calm the mind and s trengthen the body. 
+
+Victor: Yeah, right. 
+
+Rosaria: It sounds like you had a bad experience. D id you have a bad teacher? 
+
+Victor: The teacher was fine. I learned about mantr as and chakras, I learned breathing techniques, and I tried a few basic poses . 
+
+Rosaria: That all sounds right from my own experien ce, such as it is. But, there are a lot of different types of yoga. Maybe you nee d to try a different kind. 
+
+Victor: The problem wasn’t the kind of yoga being p racticed. It was the class.  
+
+Rosaria: Were the mats uncomfortable?  
+
+Victor: No. 
+
+Rosaria: Was it too cramped? 
+
+Victor: No. 
+
+Rosaria: Then what was the problem? 
+
+Victor: There was too much testosterone in the room . 
+
+Rosaria: You mean you were in a class with just men ? 
+
+Victor: Yeah. 
+
+Rosaria: And that was a problem? 
+
+Victor: Do you think I would be taking a yoga class  if I weren’t trying to meet women?! 
+
+[end of dialogue] 
+
+This dialogue is about “yoga” (yoga), which has bee n very popular in the United States over the last 25 years or so. It is especial ly popular here in Los Angeles, or at least it used to be. Yoga is something differ ent to different people. When most people in the U.S. talk about yoga, they’re re ally talking about the program of exercise that you do, usually following some sor t of leader in a class.  
+
+There are lots of places here in Los Angeles where you can go to a yoga class, and you do certain exercises for your physical heal th – and some say also for your mental health and relaxation. Our dialogue beg ins with Victor sounding disappointed. He says, “Humph!” Rosaria says, “What ’s the matter?” He says, “I just got back from” – I just returned from – “my fi rst yoga class, and I was sorely disappointed.” The word “sorely” (sorely) means ver y much, or greatly. Victor was really disappointed.  
+
+Rosaria says, “I’ve heard that yoga is very good lo w-impact exercise.” “Low- impact (impact) exercise” is exercise that doesn’t require a lot of hard, sudden movements with your body. You’re getting exercise, but it isn’t going to hurt your knees or your legs or some other part of your body.  Rosaria says that she heard that yoga “helps with stress relief.” “Stress” (str ess) is anxiety, tension. A “stressful situation” is a situation in which you h ave or experience this tension and/or anxiety, which can affect your body as well as your mind.  
+
+Rosaria uses the term “stress relief” (relief). If you get “relief” from something, you no longer suffer from that thing. We usually us e the word “relief” when we’re talking about someone who is ill or sick and needs to feel better or wants to get better. You may give that person some drugs to give  them relief from the pain, for example. In fact, we call those kinds of drugs “pai n relievers,” similar to “relief.”  
+
+Rosaria says that she heard that “yoga is supposed to calm the mind and strengthen the body.” “To calm (calm) the mind” mea ns to make you stop worrying about things, to stop you from having thes e stressful thoughts so that you are more relaxed. “To strengthen (strengthen) t he body” means to make the body stronger – to perhaps exercise your muscles in  such a way that you are physically stronger.  
+
+Victor, however, doesn’t seem to agree. He says, “Y eah, right.” When we use that expression, “Yeah, right,” with that sort of i ntonation, that sort of tone, we are indicating that we don’t agree. It’s very confusing , because normally if someone says, “Right,” they mean “Correct,” or “I agree.” B ut if you say it in this way – “Yeah, right” – that means that you don’t agree. Yo u think that is wrong.  
+
+Rosaria says, “It sounds like you had a bad experie nce. Did you have a bad teacher?” Victor says, “The teacher was fine” – the  teacher was okay. Remember I mentioned that in most yoga classes there’s someo ne who’s leading the class, just like any class, and we call that person the “t eacher.” Victor says, “I learned about mantas and chakras, I learned breathing techn iques, and I tried a few basic poses.”  
+
+A “mantra” (mantra) is a sound, a word, or a phrase  that is used often for people who are meditating or perhaps praying. It’s a word that’s often associated with yoga, although there are some other traditions, oth er practices, of meditation and prayer that use that same term outside of the “worl d of yoga,” we could say. A mantra is typically a word or a sound that is used to help you relax or to meditate.  
+
+A “chakra” (chakra) is apparently one of several ce nters of what is called “spiritual thought” or energy in the body. Not exac tly sure what all that means, but that’s the definition anyway, and it is something t hat is important in the practice of yoga. Victor says, “I learned breathing techniques. ” A “technique” (technique) is a way of doing something, a method for doing somethin g. “Breathing techniques,” then, would be techniques to help you breathe – pro bably in such a way that would allow you to relax – or to do some sort of ex ercise without, we would use the term, “getting winded.”  
+
+Singers and musicians often use breathing technique s to help them perform, to help them do what they want to do. In yoga, breathi ng techniques might be used as a form of relaxation – techniques to help you re lax. Victor also says he “tried a few basic poses.” A “pose” (pose) is a position, an d yoga has different positions that you put your body into as part of the practice  of yoga.  
+
+Rosaria says, “That all sounds right from my own ex perience, such as it is.” That phrase “such as it is” is used to indicate that you  don’t have very much experience in this area, for example. It could also  be used to indicate that you realize what you just said may not be very useful o r valuable to the person you’re talking to. It’s similar to another expression, “fo r what it’s worth.”  
+
+If you’re giving someone advice about something tha t you don’t know very much about (for me, for example, yoga) you would probabl y use a phrase such as this – “for what it’s worth” or “such as it is” – to ind icate that you really don’t know what you’re talking about, which is typical for me.  Rosaria says, “That all sounds right from my own experience, such as it is, but th ere are a lot of different types of yoga. Maybe you need to try a different kind” – a different kind of yoga.  
+
+Victor says, “The problem wasn’t the kind of yoga b eing practiced. It was the class.” The word “practice” here means participate or engage in something. So, Victor wasn’t concerned about the kind of yoga. He says, “The problem was the class.” Rosaria says, “Were the mats uncomfortable? ” A “mat” (mat) here means a soft piece of material, usually rectangular in sh ape, that you put on the floor so you can do your exercises without touching the floo r directly and without hurting yourself on the floor if the floor is hard.  
+
+In yoga it’s very common, I’m told, to use mats in the class. So, when you see people going to yoga classes here in Los Angeles, t hey’ll often be carrying a little mat. Victor says the mats were not uncomfortable. R osaria says, “Was it” – meaning the class – “too cramped?” “Cramped” (cramp ed) here means crowded, when you have too many people in too small of a spa ce. Victor says, “No.” Rosaria says, “Then what was the problem?” Victor s ays, “There was too much testosterone in the room.”  
+
+“Testosterone” is a hormone, a substance in your bo dy that controls certain functions in your body, that is typically associate d with males – with men. When people use the word “testosterone,” they’re usually  referring to men, but men acting – how should I say it – very manly, being ve ry tough. “I’m a man.” That sort of thing. Sort of John Wayne, if you remember who John Wayne was, the famous movie actor, or maybe Bruce Willis from Die Hard , right? He’s being very  
+
+masculine, very male. We could talk about there bei ng a lot of testosterone in that movie.  
+
+Well, that’s the problem Victor had with the yoga c lass, which is sort of funny because normally, at least here in Los Angeles, yog a is more associated with women. You’ll see women going to yoga classes a lot  more often than men. But this was a class, according to Victor, that was jus t men. Rosaria says, “That was a problem?” She’s confused.  
+
+Victor then asks her a question that indicates the real problem he had with the class: “Do you think I would be taking a yoga class  if I weren’t trying to meet women?!” You see, the reason Victor took the yoga c lass was to meet women, because in a typical yoga class, it’s mostly women who are there, and that was why Victor was taking the class. So, when the class  was all men, he was of course disappointed.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Victor: Humph! 
+
+Rosaria: What’s the matter? 
+
+Victor: I just got back from my first yoga class an d I was sorely disappointed. 
+
+Rosaria: I’ve heard that yoga is very good low-impa ct exercise and helps with stress relief. It’s supposed to calm the mind and s trengthen the body. 
+
+Victor: Yeah, right. 
+
+Rosaria: It sounds like you had a bad experience. D id you have a bad teacher? 
+
+Victor: The teacher was fine. I learned about mantr as and chakras, I learned breathing techniques, and I tried a few basic poses . 
+
+Rosaria: That all sounds right from my own experien ce, such as it is. But, there are a lot of different types of yoga. Maybe you nee d to try a different kind. 
+
+Victor: The problem wasn’t the kind of yoga being p racticed. It was the class.  
+
+Rosaria: Were the mats uncomfortable?   
+
+ Victor: No. 
+
+Rosaria: Was it too cramped? 
+
+Victor: No. 
+
+Rosaria: Then what was the problem? 
+
+Victor: There was too much testosterone in the room . 
+
+Rosaria: You mean you were in a class with just men ? 
+
+Victor: Yeah. 
+
+Rosaria: And that was a problem? 
+
+Victor: Do you think I would be taking a yoga class  if I weren’t trying to meet women?! 
+
+[end of dialogue] 
+
+We would sorely miss our scriptwriter if she didn’t  continue to write our scripts. I speak of the wonderful Dr. Lucy Tse. Thank you, Luc y. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+
+English as a Second Language Podcast was written an d produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. This podcast is copyright 2014 by the Center for Educational Development.
+

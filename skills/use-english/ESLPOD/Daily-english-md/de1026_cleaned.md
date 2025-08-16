@@ -1,0 +1,108 @@
+# Marrying Young
+
+Welcome to English as a Second Language Podcast num ber 1,026 – Marrying Young. 
+
+This is English as a Second Language Podcast episod e 1,026. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Visit our website at ESLPod.com. Become a member of  ESL Podcast. You can also like us on Facebook at facebook.com/eslpod, or  follow us on Twitter at @eslpod.  
+
+This episode is a dialogue between Irene and Ken ab out people getting married. Let’s get started. 
+
+[start of dialogue] 
+
+Irene: Damon and his girlfriend just got engaged. T hey’re planning on getting married this summer. 
+
+Ken: They’re too young! Marrying young poses all ki nds of problems. 
+
+Irene: Such as? 
+
+Ken: Such as the two of them lacking maturity. They  may think it’s fun to play house right now, but they’re not prepared to face t he realities and responsibilities of matrimony. 
+
+Irene: I think you’re selling them short. They’ve b een dating for two years, and there’s no ideal age for marriage.  
+
+Ken: Yes, but we all know that marrying young will doom them to a life of regrets. 
+
+Irene: That’s a bit harsh, don’t you think? A lot o f people who marry young have successful marriages. I like the idea of growing ol d with your spouse. You can reach many of life’s milestones together. 
+
+Ken: Like reaching the legal drinking age? 
+
+Irene: Don’t be facetious. Getting married will giv e them stability and someone to lean on. I think they’ll be great as a married coup le.  
+
+ Ken: Well, I hope they beat the odds . . . or at le ast learn a lot for their second marriages. 
+
+[end of dialogue] 
+
+We begin this dialogue with Irene saying to Ken, “D amon and his girlfriend just got engaged. They are planning on getting married t his summer.” “To get engaged” (engaged) means to promise and make plans to marry someone. Normally, you get engaged at least a few months bef ore you get married. Some people get engaged a year or even more before they actually do marry, but “to be engaged” means to be promised, if you will, to a nother – that you have promised to marry another person.  
+
+Irene says that Damon and his girlfriend are planni ng on getting married this summer. “To get married,” of course, means to becom e husband and wife, to be legally recognized as a married couple. In many pla ces, marriage is both a “civil” – that is, government – action as well as a religio us action. You may get married in a church or a temple or some other religious ins titution. You can also get married by going down to the government office and getting something called a “marriage license.”  
+
+One does not necessarily imply the other. That is, just because you get married by the government doesn’t mean you’re married in a religious sense. You can have one without the other, or both. However, in th e U.S., if you are married by someone who is considered a religious leader, such as a rabbi or a minister or a priest, you will be considered married by the gover nment as well. The government allows religious leaders, if you will, t o officially witness the marriage of two people. But let’s get back to our story and Damon and his girlfriend. 
+
+Ken says to Irene, “They’re too young! Marrying you ng poses all kinds of problems.” “To pose” (pose) means to present. We of ten use this verb when talking about problems. You’ll hear people say, “Th is poses a problem for us,” meaning this introduces a problem into this situati on. Ken believes that marrying young – getting married when you are young – poses all kinds of problems. We’re not exactly sure what Ken means by “young” he re. Irene asks what kind of problems marrying young poses. She says, “Such as?”  meaning she’s asking Ken to give her some examples.  
+
+Ken says, “Such as the two of them lacking maturity .” “Maturity” (maturity) is having the outlook and perspective of a responsible  person – an adult, if you will. We talk about children maturing. They’re getting ol der and, we hope, getting  
+
+wiser. Teenagers often lack maturity. That is, they  don’t have the responsible perspective of an adult.  
+
+Ken says, “They may think it’s fun to play house ri ght now, but they’re not prepared to face the realities and responsibilities  of matrimony.” The expression “to play house” (house) means to, in a way, pretend  that you’re living together. It’s a game that children sometimes play. When litt le girls get together and play house, they pretend as though they are wives and mo thers or women who are living in their own house and responsible for the h ouse. And so they do things that might traditionally be done by someone who is married.  
+
+So, Ken is making a little joke here. He’s saying t hat Damon and his girlfriend are playing house just like a child would, even though the child doesn’t understand the full responsibility of being married. Ken says that these two are “not prepared to face the realities and responsibilities of matri mony.” “To face” (face) something means to understand it and to deal with it – to be able to, we might also say, “confront” something. You have to look at a difficu lt situation and figure out how to deal with it.  
+
+The word “matrimony” (matrimony) means marriage. It ’s the state of being married. Irene says that she thinks Ken is “selling  them short.” “To sell someone short” means to underestimate someone’s good qualit ies, to think someone is worse than they really are. In this case, Irene thi nks that Ken is selling Damon and his girlfriend short by saying that they are no t mature enough to get married.  
+
+Irene says, “They’ve been dating for two years, and  there is no ideal age for marriage.” “Ideal” (ideal) here means perfect, or c ompletely appropriate. The “ideal age” to get married would be the best age to  get married. Here in the United States in recent years, people have been get ting married later and later, and in many cases not getting married at all.  
+
+But, back to our fictional dialogue. Ken says, “Yes , but we all know that marrying young will doom them to a life of regrets.” “To doo m” (doom) someone is to make your future very dark. If you are “doomed,” somethi ng very bad will happen to you in the future, maybe even death. Of course, dea th will happen to all of us sometime in the future. I hope not too soon, at lea st not for me.  
+
+Ken thinks that marrying young will basically ruin Damon and his girlfriend’s lives. It “will doom them,” he says, “to a life of regrets .” “Regrets” (regrets) are things that you wish you had not done. For example, I regr et not talking to my neighbor last week. I wish I had spoken with him. “To regret ” something, as a verb, means  
+
+to feel badly that you didn’t do a certain thing, o r perhaps that you did do a certain thing.  
+
+Here it’s being used as a noun meaning that situati on where you feel badly about something that you did or didn’t do. “I regret not going up to that beautiful girl and asking her for her telephone number.” That’s someth ing I did a lot of when I was in my 20s. I finally got a little bit smarter and d ecided to start asking women out on dates, but that wasn’t until after I was 30, rea lly. I’m someone who married very late in life. Well, later than the average man  marries in the U.S. Anyway, it’s not about me, is it, really. It’s about our dialogu e. So, back to the dialogue. 
+
+Irene says to Ken, “That’s a bit harsh, don’t you t hink?” Ken is saying that poor Damon and his girlfriend will have a terrible life,  and she’s saying, “No, that’s a bit harsh” (harsh). “To be harsh” means to be mean, to be too critical. She continues, “A lot of people who marry young have su ccessful marriages. I like the idea of growing old with your spouse.” “To grow old ” means to experience life as you get older. All of us, of course, grow old. Iren e is talking about growing old with your spouse, the person you’re married to.  
+
+She says, “You can reach many of life’s milestones together.” A “milestone” (milestone) is an important event or accomplishment  in life, in this case. You can have a milestone in a project at work – things that  you want to get done by this date, or this date. Ken says, “Like reaching the le gal drinking age?” Irene is talking about important events in one’s life, and K en gives an example of one: the legal drinking age.  
+
+In the U.S., the legal drinking age is 21, which me ans that Damon and his girlfriend are not yet 21 years old. Normally, peop le wait until after they’re 21 to get married, and that’s probably why Ken is in a wa y making a joke with Irene, saying, “These kids are so young, they can’t even d rink legally.”  
+
+But Irene says, “Don’t be facetious.” “To be faceti ous” (facetious) means to not take something seriously – to joke about something.  Irene says, “Getting married will give them stability and someone to lean on.” “ Stability” (stability) is a position where things don’t change. Irene is saying that if these two people get married, they will have stability and each will have someone  to lean on. “To lean (lean) on” someone is a phrasal verb meaning to rely on someon e, to depend on someone for support and advice and help.  
+
+Ken says, “Well, I hope they beat the odds.” “To be at (beat) the odds (odds)” means to do better than what you might expect. He’s  suggesting that it will be difficult for them to have a happy marriage since a  lot of people who get married  
+
+very young sometimes don’t have successful marriage s, although I’m not sure exactly what the statistics are on that, really.  
+
+But in any case, Ken thinks that they don’t have a very good chance at a marriage if they get married very young. He then en ds by saying, “Or at least learn a lot for their second marriages.” He’s sugge sting that their first marriage won’t last. That is, they’ll get divorced and then they’ll marry again.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Irene: Damon and his girlfriend just got engaged. T hey’re planning on getting married this summer. 
+
+Ken: They’re too young! Marrying young poses all ki nds of problems. 
+
+Irene: Such as? 
+
+Ken: Such as the two of them lacking maturity. They  may think it’s fun to play house right now, but they’re not prepared to face t he realities and responsibilities of matrimony. 
+
+Irene: I think you’re selling them short. They’ve b een dating for two years, and there’s no ideal age for marriage.  
+
+Ken: Yes, but we all know that marrying young will doom them to a life of regrets. 
+
+Irene: That’s a bit harsh, don’t you think? A lot o f people who marry young have successful marriages. I like the idea of growing ol d with your spouse. You can reach many of life’s milestones together. 
+
+Ken: Like reaching the legal drinking age? 
+
+Irene: Don’t be facetious. Getting married will giv e them stability and someone to lean on. I think they’ll be great as a married coup le. 
+
+Ken: Well, I hope they beat the odds . . . or at le ast learn a lot for their second marriages. 
+
+[end of dialogue] 
+
+ We have the ideal scriptwriter here at ESL Podcast – our very own Dr. Lucy Tse. Thank you, Lucy.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. Copyright 2014 by the  Center for Educational Development.
+

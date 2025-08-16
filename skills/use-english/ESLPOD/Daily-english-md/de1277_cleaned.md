@@ -1,0 +1,108 @@
+# Inconsiderate Subway/Train Passengers
+
+Welcome to English as a Second Language Podcast num ber 1,277 – Inconsiderate Subway and Train Passengers. 
+
+This is English as a Second Language Podcast episod e 1,277. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit ESLPod.com to find out more about our website .  
+
+This episode is a dialogue between Amanda and Felix  about riding on a subway or train with other people who aren’t very nice. Le t’s get started. 
+
+[start of dialogue] 
+
+Amanda: I love the subway. 
+
+Felix: I do, too, but it really annoys me when peop le hog more than one seat, like that guy over there. 
+
+Amanda: Yeah, and I hate it when you’re trying to g et on the train and the passengers who are blocking the doors won’t move ou t of the way. 
+
+Felix: Oh, even worse is when you’re trying to get off the train and people who want to get on won’t wait until you get off.  
+
+Amanda: That’s totally annoying! 
+
+Felix: Even worse is when the train is full and peo ple squeeze to get on when there’s no more room! 
+
+Amanda: So true! I also hate it when people fall as leep and start invading my space. Last week, a guy fell asleep next to me and dropped into my lap. Gross! 
+
+Felix: What about when you’re holding onto a pole a nd somebody’s hand bumps yours and they don’t move away? That’s really annoy ing. 
+
+Amanda: Oh look, there’s a pregnant woman on the ot her end of the train and those guys aren’t giving up their seats for her. Wh at jerks! 
+
+Felix: Yeah, what jerks! At least we don’t have any  singers, dancers, or loud entertainers on this train. I hate it when they sta rt performing. 
+
+Amanda: Actually, I kind of like it when people per form. It helps to pass the time. 
+
+Felix: Yeah, now that I think about it, I guess I d o, too. I love the subway. 
+
+Amanda: Me, too. 
+
+[end of dialogue] 
+
+Amanda begins our episode by saying to Felix, “I lo ve the subway.” The “subway” (subway) is an underground train – usually  underground – that is used to move people around a large city. Many cities hav e subway systems. Even Los Angeles has a subway system, but it isn’t very big.  New York, London, Paris, Tokyo – almost every major city has a subway system .  
+
+Nowadays we usually refer to the things you travel in in a subway as a “train,” although the word “train” (train) can also refer to  something that takes you a long distance, from one city to another. So when someone  says, “I’m going to take the train,” you have to know what he’s talking about to  understand if he means a subway train or a train that is going to travel a l ong distance to another city. Felix says he loves the subway too. “But,” he continues, “it really annoys me when people hog more than one seat, like that guy over t here.”  
+
+Obviously Amanda and Felix are having this conversa tion on a subway train. Felix says he’s “annoyed.” “To annoy” (annoy) means  to bother or frustrate someone, to make someone a little angry. Felix says  it annoys him when people “hog” (hog) more than one seat. “To hog” means to u se all of something and not let anyone else use it or have it, especially when we are referring to using more than what you should. “To hog” means not to share w ith other people. If someone is “hogging the seats,” they’re using more than one seat, more than what they need.  
+
+Amanda says, “Yeah, I hate it when you’re trying to  get on the train and the passengers who are blocking the doors won’t move ou t of the way.” Amanda is talking about something else that bothers her. She’ s bothered by the fact that sometimes when you are trying to get on a subway tr ain, there are passengers who block the doors. A “passenger” (passenger) is s omeone who is like you, riding on the train to go from one place to another .  
+
+You can talk about a passenger in a car, in a bus, on a train, in a boat, on an airplane, or in any vehicle or machine that moves s omeone from one place to another. A “passenger” is a person who is not drivi ng or directing the vehicle. Everyone else is a passenger. In a car, the person who drives the car is called, of course, the “driver.” Everyone else is a passenger.  Amanda doesn’t like passengers who “block (block) the door.” “To block”  means to be in the way of someone else so that the other person cannot pass t hrough or go by you.  
+
+These passengers, Amanda complains, don’t “move out  of the way.” “To move” or “to be out of the way” means not to be blocking someone else, not to be preventing someone else from being in that same spa ce. Felix says, “Oh, even worse is when you’re trying to get off the train an d people who want to get on won’t wait until you get off.” Amanda says, “That’s  totally annoying.” The word “totally” is an informal way of saying “very” or “c ompletely.”  
+
+Felix then gives another complaint. He says, “Even worse,” meaning even worse than what he just complained about, “is when the tr ain is full,” meaning all of the places in the train are taken, “and people squeeze to get on when there’s no more room.” “To squeeze” (squeeze) means to try to put more into a space than there is room for. If you squeeze onto a train, you  are trying to get onto the train even though there isn’t enough room on the train. S o you have to push other people, of course.  
+
+That’s what Felix is referring to when he says ther e’s no more “room” (room). In this sentence, “room” means space, or unused, avail able, empty space. Amanda says, “So true,” meaning yes, I agree with you. “I also hate it when people fall asleep and start invading my space.” “To invade (in vade) someone’s space” means to be too close to another person so that tha t person feels crowded or uncomfortable.  
+
+In the United States, there is a certain, what we w ould call, “personal space distance” between you and another person that you a re supposed to respect, that you’re not supposed to invade or go into. Thes e personal spaces are different in different cultures. In the U.S., the p ersonal space is probably a little bigger than in some other cultures, at least ones I ’ve been to where it’s not unusual for a person to be very close to you and no t think that he is invading your space.  
+
+Amanda hates it when people fall asleep on the subw ay and invade her space. She says, “Last week, a guy fell asleep next to me and dropped,” or fell into, “my lap” (lap). Your “lap” is the top of your legs, the  flat area made by your legs when you are sitting, the area above your knees. Amanda also says, “Gross” (gross).  
+
+“Gross” is an adjective we use for something that w e think is disgusting or something that makes us feel very uncomfortable. Sh e is expressing her dislike of what happened last week, or her disgust at what happened last week, when this man fell into her lap on the subway.  
+
+Felix says, “What about when you’re holding onto a pole and somebody’s hand bumps yours and they don’t move away. That’s really  annoying.” Most trains on the subway have “poles” (poles). A “pole” is a tall , vertical, usually, piece of metal that goes from the floor to the ceiling or top of t he train that you can hold onto in case you are standing. You don’t want to fall over when the train moves.  
+
+Felix is referring to what happens when someone els e’s hand “bumps” (bumps) your hand. The verb “to bump” here means to acciden tally, not on purpose, touch something or someone else. If another person’s hand  bumps yours or bumps into yours, that means the other hand touches yours. Ama nda says, “Oh look, there’s a pregnant woman at the other end of the train and those guys aren’t giving up their seats for her. What jerks!”  
+
+A “pregnant (pregnant) woman” is a woman who is exp ecting a child, a baby, but the baby hasn’t been born yet. It’s still inside th e body of the woman. The guys on the other end of the train “aren’t giving up the ir seats for her,” Amanda says. “To give up your seat” for someone is to stand up a nd let another person sit where you were sitting, usually because the train i s crowded and there are no more seats left. Felix and Amanda both think these guys, these men or boys, are “jerks.” A jerk is a terrible person. It’s an insul ting word for a bad person.  
+
+Felix says, “At least we don’t have any singers, da ncers, or loud entertainers on this train. I hate it when they start performing.” In some subways, people will come on the train and sing or dance to try to get m oney from you, to try to get you to give them some money. These are “entertainer s” (entertainers). An entertainer is anyone who provides amusement or fun  for another person. A singer, a dancer, an actor – all of these people ar e entertainers. Felix doesn’t like it went entertainers come on the train and start en tertaining or performing.  
+
+Amanda disagrees. She says, “Actually I kind of lik e it when people perform. It helps pass the time.” “To pass (pass) the time” mea ns to spend time doing something so you don’t get bored. Some people on a subway pass the time by reading, some people listen to English lessons. Fel ix says, “Yeah, now that I think about it, I guess I do, too. I love the subwa y.” Amanda says, “Me, too.” Of course, they’ve just complained about the subway fo r the last few minutes, and now they end by saying that they actually love taki ng the subway. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Amanda: I love the subway. 
+
+Felix: I do, too, but it really annoys me when peop le hog more than one seat, like that guy over there. 
+
+Amanda: Yeah, and I hate it when you’re trying to g et on the train and the passengers who are blocking the doors won’t move ou t of the way. 
+
+Felix: Oh, even worse is when you’re trying to get off the train and people who want to get on won’t wait until you get off.  
+
+Amanda: That’s totally annoying! 
+
+Felix: Even worse is when the train is full and peo ple squeeze to get on when there’s no more room! 
+
+Amanda: So true! I also hate it when people fall as leep and start invading my space. Last week, a guy fell asleep next to me and dropped into my lap. Gross! 
+
+Felix: What about when you’re holding onto a pole a nd somebody’s hand bumps yours and they don’t move away? That’s really annoy ing. 
+
+Amanda: Oh look, there’s a pregnant woman on the ot her end of the train and those guys aren’t giving up their seats for her. Wh at jerks! 
+
+Felix: Yeah, what jerks! At least we don’t have any  singers, dancers, or loud entertainers on this train. I hate it when they sta rt performing. 
+
+Amanda: Actually, I kind of like it when people per form. It helps to pass the time. 
+
+Felix: Yeah, now that I think about it, I guess I d o, too. I love the subway. 
+
+Amanda: Me, too. 
+
+[end of dialogue] 
+
+There’s nothing annoying about our scriptwriter. Sh e’s the best scriptwriter on the Internet. I speak, of course, of the wonderful Dr. Lucy Tse.  
+
+ From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st.  
+

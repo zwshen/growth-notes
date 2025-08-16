@@ -1,0 +1,118 @@
+# Having Hearing Problems
+
+Welcome to English as a Second Language Podcast num ber 1,135 – Having Hearing Problems.  
+
+This is English as a Second Language Podcast episod e 1,135. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Visit our website at ESLPod.com. Take a look at our  ESL Podcast Store, as well as our ESL Podcast Blog. And don’t miss our new mag azine, Learn English Magazine , available on the Apple and Google Play app stores . Go to eslpod.com/apple or eslpod.com/android to download this free app. 
+
+On this episode, we’re going to listen to a dialogu e between Bernadette and Claude about someone who has difficulty hearing. Le t’s get started. 
+
+[start of dialogue] 
+
+Bernadette: Why are you mumbling? 
+
+Claude: I’m not. I said, “What’s wrong with your he aring?” 
+
+Bernadette: Nothing is wrong with my hearing. You j ust need to speak up. 
+
+Claude: I’m practically shouting. You need to see a  doctor about your hearing loss. 
+
+Bernadette: I’m not hard of hearing. It’s probably just a buildup of earwax. 
+
+Claude: This is more serious than earwax. Do you he ar ringing in your ears? 
+
+Bernadette: Not more than usual. 
+
+Claude: Meaning you usually hear ringing sounds? 
+
+Bernadette: Sure, who doesn’t? 
+
+Claude: Uh, normal people. Have you been asking peo ple to repeat themselves? Are you having trouble hearing people when there’s a lot of background noise? 
+
+Bernadette: Maybe.  
+
+ Claude: It might be something as simple as an infec tion, but it could be more serious, like damage to your eardrum or inner ear i f you can’t hear sounds at low decibels. 
+
+Bernadette: I am not getting a hearing aid.  
+
+Claude: Would you prefer people to yell? 
+
+Bernadette: What?! Smell? You think I smell? Well, that’s just rude! 
+
+[end of dialogue] 
+
+Bernadette asks Claude, “Why are you mumbling?” “To  mumble” (mumble) means to speak in a low, soft, difficult-to-underst and voice. When someone mumbles, they go [mumbles]. It’s something that you r teenage son and daughter might do, especially if you’re asking them question s and they don’t really want to tell you the truth. They might mumble so they make it difficult for you to understand them. It’s sort of an insulting thing to  tell someone that he is mumbling. It means the person doesn’t know how to s peak properly or doesn’t want to speak properly.  
+
+Claude says, “I’m not. I said, ‘What’s wrong with y our hearing?’” Your “hearing” (hearing) is your ability to understand sounds – th e ability to use your ears to hear other things, other people. We talk about the five senses that a human has. The other four are sight, which involves your eyes;  taste, which involves your tongue; touch, which involves most of the outside o f your body, we could say; and smell, which involves your nose.  
+
+Now the joke here is that Claude was asking Bernade tte what was wrong with her hearing and she couldn’t hear him. Bernadette s ays, “Nothing is wrong with my hearing. You just need to speak up.” “To speak u p” is a two-word phrasal verb that can mean a couple of different things. He re it means to speak more loudly, to raise or increase the volume of your voi ce. “To speak up” can also mean to make your opinion known, especially when pe rhaps you disagree with the decision of your boss or someone in charge.  
+
+We sometimes talk about “speaking up for other peop le.” That means we are voicing our objections, we are telling other people  our opinions about things in order to try to protect or help someone else. In ou r dialogue, however, “to speak up” just means to speak more loudly. Claude respond s, “I’m practically shouting.”  
+
+The word “practically” here means almost or nearly.  “To shout” (shout) means to speak in a very loud voice, to “yell” (yell), we mi ght say. 
+
+Claude says, “You need to see a doctor about your h earing loss.” “Hearing loss” is when you start to lose your ability to hear peop le clearly and accurately. This, of course, is something that often comes as you get  older. Claude says that Bernadette should see a doctor about her hearing lo ss, but Bernadette responds, “I’m not hard of hearing.” “To be hard of hearing” means not to be able to hear very well. It may at times also be used to describe  someone who cannot hear at all.  
+
+If you can’t hear anything at all, you are what we would call “deaf” (deaf). That’s the traditional term. More recently, people have ta lked about the “hearing impaired” (impaired). Some people consider “hearing  impaired” to be a more polite way to talk about people with hearing proble ms.  
+
+Bernadette says she’s not hard of hearing. She says , “It’s probably just a buildup of earwax.” “Earwax” (wax) is a substance that is p roduced in your ears to keep germs out of your body. It’s a brown- or yellow-col ored substance. A “buildup” (buildup) – one word – is an increase in the amount  of something, often something that increases little by little over a lo ng period of time. Now, if you have a buildup of earwax, that might prevent you fr om hearing properly.  
+
+What Bernadette is saying is that she isn’t hard of  hearing. She just has a buildup of earwax that if she were to clear out, or clean o ut, would allow her to hear just fine. Claude disagrees. “This is more serious than earwax,” he says. “Do you hear ringing in your ears?” “To hear ringing (ringi ng) in your ears” is to have sort of a light, echoing noise that shouldn’t really be there. That could be a sign of hearing problems. When Claude asks her, “Do you hea r ringing in your ears?” Bernadette says, “Not more than usual.”  
+
+Claude says, “Meaning you usually hear ringing soun ds?” Bernadette responds, “Sure, who doesn’t?” Claude says, “Uh, normal peopl e.” Claude is asking Bernadette if she hears these ringing sounds. Berna dette says well yes, of course, but assumes that everyone has these ringing  sounds. Claude tells her no, they don’t. Then he asks her, “Have you been as king people to repeat themselves?” “To repeat yourself” means to say agai n what you had just said. “To repeat yourself” means – just kidding.  
+
+Claude then says, “Are you having trouble hearing p eople when there is a lot of background noise?” “Background noise” is noise that  can be heard but isn’t really what you’re focusing on. It’s not the noise that yo u want to hear. It’s all the other  
+
+noise or sound that might be present in that partic ular environment. Bernadette says, “Maybe,” meaning perhaps she does have proble ms hearing other people if there’s a lot of noise in the room, a lot of backgr ound noise.  
+
+Claude then says, “It might be something as simple as an infection, but it could be more serious like damage to your eardrum or inne r ear.” An “infection” (infection) is a medical condition where bacteria g ets inside of your body and makes you sick. Your “eardrum” (eardrum) is a part of your inner ear – the part of your ear that’s inside of your body that moves – or  we would say “vibrates” – when it is hit by sound waves, and this allows you to interpret and understand the sounds. It allows your brain to understand the soun ds.  
+
+Claude says there may be damage to Bernadette’s ear drum or inner ear that causes her not to be able to hear sounds at low dec ibels. A “decibel” (decibel) is a measure of how loud something is. “Low decibels” would be sounds that are not very loud at all. Bernadette then says, “I am n ot getting a hearing aid” (aid). A “hearing aid” is a small electronic device that you  put inside your ear to help you hear better.  
+
+As people get older, sometimes they need hearing ai ds, although many people don’t want a hearing aid. They don’t want people to  see, in effect, that they cannot hear very well, probably because it reminds them that they are old. Claude says, “Would you prefer people to yell?” “To  yell” means to talk very loudly, to shout. Bernadette says, “What?! Smell? Y ou think I smell? Well, that’s just rude!” Claude asked Bernadette if she preferre d people to yell, but Bernadette didn’t hear him correctly. She thought C laude said the word “smell” (smell).  
+
+The verb “to smell” in this case means to have a ce rtain odor – an unpleasant smell, an unpleasant odor. If you go to the gym and  you work out, you run – well, you’re probably going to smell a little. Your body has sweated, and sometimes that’s not the most pleasant smell. It’s insulting,  of course, to tell someone that he or she smells. The other verb we might use for this  situation is “to stink” (stink).  
+
+Bernadette is surprised that Claude would insult he r in this way – that’s why she says, “You think I smell? Well, that’s just rude!” She’s saying that Claude is being “rude” (rude) to her. “To be rude” to someone means  to be mean to them, not to be very nice to them.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue]  
+
+ Bernadette: Why are you mumbling? 
+
+Claude: I’m not. I said, “What’s wrong with your he aring?” 
+
+Bernadette: Nothing is wrong with my hearing. You j ust need to speak up. 
+
+Claude: I’m practically shouting. You need to see a  doctor about your hearing loss. 
+
+Bernadette: I’m not hard of hearing. It’s probably just a buildup of earwax. 
+
+Claude: This is more serious than earwax. Do you he ar ringing in your ears? 
+
+Bernadette: Not more than usual. 
+
+Claude: Meaning you usually hear ringing sounds? 
+
+Bernadette: Sure, who doesn’t? 
+
+Claude: Uh, normal people. Have you been asking peo ple to repeat themselves? Are you having trouble hearing people when there’s a lot of background noise? 
+
+Bernadette: Maybe. 
+
+Claude: It might be something as simple as an infec tion, but it could be more serious, like damage to your eardrum or inner ear i f you can’t hear sounds at low decibels. 
+
+Bernadette: I am not getting a hearing aid.  
+
+Claude: Would you prefer people to yell? 
+
+Bernadette: What?! Smell? You think I smell? Well, that’s just rude! 
+
+[end of dialogue] 
+
+Our scriptwriter is not hard of hearing. She can he ar just fine, and she can write even better. Thank you to Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.   
+

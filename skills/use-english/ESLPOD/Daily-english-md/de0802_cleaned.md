@@ -1,0 +1,86 @@
+# Talking About Movies
+
+Welcome to English as a Second Language Podcast num ber 802: Talking About Movies. 
+
+This is English as a Second Language Podcast episod e 802.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Learning Guide.  Well first, become a member, and then you can download the Lear ning Guide. 
+
+This episode is all about the movies.  Let’s get st arted. 
+
+[start of dialogue] 
+
+Martin:  What did you think of that movie? 
+
+Joanna:  It was okay, but I’m not really into big-b udget movies with a lot of special effects and big-name stars. 
+
+Martin:  Oh, you’re a film snob.  I bet you only wa tch indie films made on a shoestring budget with low production values. 
+
+Joanna:  No, that’s not true.  I just don’t like cr owd-pleasers that are predictable. I like movies that stretch the imagination and have  some artistic value. 
+
+Martin:  You mean you like those weird movies with no plot and a lot of strange characters.  They’re artsy, but leave you totally c onfused. 
+
+Joanna:  I don’t mind some ambiguity, if that’s wha t you mean.   
+
+Martin:  Well, I’m going to see the new Spiderboy  movie next week.  I don’t suppose you want to come? 
+
+Joanna:  Spiderboy ?  I’ve been looking forward to seeing that movie. 
+
+Martin:  But it’s a big-budget blockbuster. 
+
+Joanna:  I can’t watch artsy films all the time.  V ariety is the spice of life, don’t you think? 
+
+[end of dialogue] 
+
+Martin begins our dialogue by asking Joanna, “What did you think of that movie?” What was your opinion of that movie?  Joanna says, “It was okay, but I’m not really into big-budget movies.”  “To be into (somet hing)” is to like it, to find it enjoyable or pleasurable.  Joanna says she’s not re ally into big-budget movies. A “budget” (budget) is the amount of money that you  spend on something, usually it’s a plan of how much you’re going to spe nd on something.  A “big budget movie” would be a movie that was very expens ive to make; it cost millions and millions of dollars.  Well, Joanna doesn’t like  big budget movies with a lot of special effects and big-name stars.  “Special effec ts” in a movie or a television show are things that nowadays are created by comput ers – special computer graphics programs.  In the old days, they just used  to be very creative about doing things that aren’t real.  You’re not actually  seeing something that is real, you may think it’s real.  You may think that a real  car is blowing up.  Well actually, sometimes they do blow up cars.  But, you may see a  building that is being blown up.  Or, when they made Titanic , the movie, they didn’t actually take a real ship and put it into the ocean – I don’t think.  They us ed special effects; they used special tricks of the camera and of technology to m ake it look like that’s what you were seeing.  “Big-name stars” are famous stars; a “star” here means a well- known actor or actress.  “Star” has other meanings in English as well; find some of those in your Learning Guide – and in the sky! 
+
+Martin says, “Oh, you’re a film snob.”  Yeah Joanna , you’re a film snob!  What’s a “snob”?  A “snob” (snob) – don’t you love the way t hat word sounds?  “Snob, snob.”  I love the sound of the word!  Anyway, Joan na’s a film snob.  A “snob” is a person who thinks that their opinion, their taste s are superior or better than other people, especially things that have to do wit h artistic style or money. Someone who’s a snob may say, “Oh, I never eat at M cDonald’s, that’s where poor people eat.  That’s where people who don’t hav e very good taste eat.”  That might be something of a snobbish attitude; we may c all you a “food snob.”  Martin is calling Joanna a “film snob,” a movie snob; “fil m” is just another word for movie. 
+
+Martin says, “I bet you only watch indie films made  on a shoestring budget with low production values.”  “Indie” (indie) stands for  “independent.”  It usually refers to music or a movie that is made by a small company  or a group of individuals, not a big, large corporation, not one of the what w e would call “major studios” when it comes to movies.  It’s not made by one of t he large record companies when it comes to music.  Instead, it’s made often w ith a lot less money by a much smaller company or group of people.  They’re i ndependent of the big film and movie companies.  A “shoestring budget” is a lo w budget, something that  
+
+doesn’t cost very much money.  “Production values” are the qualities of the movie itself.  It refers to the techniques that are  used in the movie: the lighting, the sound, the music, the special effects.  Somethi ng that has a low production value looks like it was made with not very much mon ey.  Maybe it doesn’t look as professional as the movies where they spent million s and millions of dollars on. That’s a low production value movie.  Martin is say ing that Joanna only likes movies that are indie films, made on a shoestring b udget, with low production values. 
+
+Joanna says, “that’s not true.  I just don’t like c rowd-pleasers that are predictable.”  A “crowd-pleaser” is something that many or most people like but that is perhaps not very sophisticated or not very artistic, especially when it comes to movies.  “Predictable” is something that y ou can anticipate; you know what’s going to happen, there are no surprises.  If  you are watching a romantic comedy, you know that the man and the women are goi ng to get together at the end of the movie.  That’s predictable; we know that ’s going to happen.  Joanna doesn’t like movies that are predictable.  She says , “I like movies that stretch the imagination and have some artistic value.”  “To str etch the imagination” means to make you think of things you might not have thought  of before, and to do so in an exciting and artistic way.  By “artistic” I mean so mething that you would consider quality, something that is unique or interesting or  beautiful, something that is not just normal or common or predictable. 
+
+Martin says, “You mean you like those weird movies with no plot (no story) and a lot of strange characters (a lot of strange people) .  They’re artsy, but leave you totally confused.”  When we say a movie is “artsy” (artsy) we mean that it tries to be artistic.  Sometimes this can be a criticism; it  sometimes is used to describe a movie that perhaps tries to be artistic, maybe trie s a little bit too hard so that other parts of the movie, the plot, or the characte rs are not as important as making the movie seem like it is an artistic one.  Well, that’s what Martin says Joanna likes.  She likes weird movies with no plot – no story, and have a lot of strange characters.  “They’re artsy, but leave you totally (or completely) confused.”  You’re unclear, you’re uncertain, you d on’t know exactly what happened in movie.  That’s how I felt about Forrest  Gump .  I don’t know, I – maybe I just wasn’t paying attention, maybe I didn’ t have enough Coca-Cola that day that I saw the movie.  Kind of – kind of confus ed by the whole thing.  Don’t – don’t really get it.  Didn’t – didn’t really unders tand why everyone liked that movie so much, I don’t know.  I mean I don’t hate Tom Han ks.  You know what I’m saying?  I just – just didn’t like the movie very m uch.  Anyway, Martin thinks that the movies that Joanna likes would leave you totall y confused. 
+
+Joanna says, “I don’t mind some ambiguity, if that’ s what you mean.”  “I don’t mind” means it doesn’t bother me, it’s okay when I have some ambiguity in the movie.  “Ambiguity” (ambiguity) means that it isn’t  exactly certain, you’re not sure what exactly has happened.  Having ambiguity is hav ing uncertainty.   
+
+Martin says, “Well, I’m going to see the new Spider boy  movie next week.  I don’t suppose you want to come?”  That expression, “I don ’t suppose” (suppose), is very common.  It’s a phrase used to ask someone som ething when you think the answer will be “no,” or you expect the answer to be  “no.”  You go up to a beautiful woman and you say, “I don’t suppose you w ant to dance with me?”  And she says, “Here, on the subway?  Probably not.”  So  the lesson is don’t ask a beautiful woman to dance with you when you’re ridin g on the subway!  A bar, a dance club might be a good place to ask that questi on.   
+
+Joanna says, “Spiderboy ?  I’ve been looking forward to seeing that movie.”   I want to see that movie.  Martin says, “But it’s a b ig-budget blockbuster.”  A “blockbuster movie” is a movie that’s very popular and makes a lot of money. The – oh, that movie, uh, the one where the kids ki ll each other.  What’s that called?  It’s a new one; this is 2012 if you’re lis tening to this in the future.  And if you’re listing to this in the past, buy Apple and G oogle stock!  If you’re listening to this in like 2005-2006, something like that, trust me, you’ll thank me.  Anyway, um, that movie Hunger Games , that’s a blockbuster; that’s a movie that is goin g to make, you know, a billion dollars.  Well, Martin  says that the new movie he wants to see, Spiderboy , not a real movie, is a blockbuster. 
+
+Joanna says, “I can’t watch artsy films all the tim e.”  Martin is surprised Joanna wants to go and see the movie.  She says, “Variety is the spice of life, don’t you think?”  That expression, “variety is the spice of life,” means trying new things or doing new things, different things is good for you;  it’s interesting, it makes your life more interesting. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Martin:  What did you think of that movie? 
+
+Joanna:  It was okay, but I’m not really into big-b udget movies with a lot of special effects and big-name stars. 
+
+Martin:  Oh, you’re a film snob.  I bet you only wa tch indie films made on a shoestring budget with low production values.  
+
+ Joanna:  No, that’s not true.  I just don’t like cr owd-pleasers that are predictable. I like movies that stretch the imagination and have  some artistic value. 
+
+Martin:  You mean you like those weird movies with no plot and a lot of strange characters.  They’re artsy, but leave you totally c onfused. 
+
+Joanna:  I don’t mind some ambiguity, if that’s wha t you mean.   
+
+Martin:  Well, I’m going to see the new Spiderboy  movie next week.  I don’t suppose you want to come? 
+
+Joanna:  Spiderboy ?  I’ve been looking forward to seeing that movie. 
+
+Martin:  But it’s a big-budget blockbuster. 
+
+Joanna:  I can’t watch artsy films all the time.  V ariety is the spice of life, don’t you think? 
+
+[end of dialogue] 
+
+I’d like to thank our big-name scriptwriter, Dr. Lu cy Tse, for her wonderful work.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

@@ -1,0 +1,94 @@
+# Going to a Home Improvement Store
+
+Welcome to English as a Second Language Podcast number 4 46: Going to a Home Improvement Store. 
+
+This is English as a Second Language Podcast episode 446.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Visit our website at eslpod.com.  You can download a L earning Guide for this episode, an 8- to 10-page PDF guide that will help yo u improve your English even faster. 
+
+This episode is called “Going to a Home Improvement Stor e.”  It’s a place where you buy things to fix your home.  The dialogue is between  Paige and Vern, they’re going to talk about something things would typica lly find in a store like this to fix up or to repair your home.  Let’s get started. 
+
+[start of dialogue] 
+
+Paige:  I think we can get everything we need to fix up  the house in one trip. What do you think? 
+
+Vern:  We can try.  It seems like everybody had the same th ought when they woke up this morning: Go to the home improvement store !   
+
+Paige:  Yeah, it’s a little crowded, but I still thin k we can get all we need today.   
+
+Vern:  To do that, I think we need to split up.  Let ’s look at our list and divvy it up. 
+
+Paige:  Okay, we need to get some wiring to install the  new lights.  I’ll go to the electrical department for that. 
+
+Vern:  All right.  We need lumber for the new fence,  so I’ll go to the building materials department. 
+
+Paige:  What about the pipes and fixtures we need for the bathroom?  Can you go to the plumbing department for those, while I go to the hardware department for the tools? 
+
+Vern:  Okay, I can do that, but aren’t you feeling tir ed already?  I know I am. 
+
+ Paige:  Come on.  How are we supposed to be weekend wa rriors if we can’t even do some simple shopping?  We’ll meet in the garden dep artment afterwards, okay? 
+
+Vern:  Whatever you say. 
+
+Paige:  Ready, set, go! 
+
+[end of dialogue] 
+
+Paige begins the dialogue by saying, “I think we can get everything we need to fix up the house in one trip.”  To “fix up” is a two-wo rd phrasal verb meaning to improve something, to make something better, or, if it is broken, to fix (or repair) something.  “Fix up” has a couple of different meanings in English; go to the Learning Guide for today to find out more about what  this verb means.  Paige says, “we can fix up the house in one trip,” meaning one time going to the store; we don’t need to go back again and again.  Paige says, “ What do you think?” 
+
+Vern says, “We can try.  It seems like everybody had the same thought when they woke up this morning,” meaning everybody else is also g oing to the store. “Go to the home improvement store!”  Vern says.  Home im provement stores are popular in the United States.  There are two very lar ge companies that have stores where you can buy things to fix (or repair) your ho me. 
+
+Paige says, “Yeah, it is a little crowded (meaning there  are a lot of people here), but I still think we can get all we need today.”  Ver n says, “To do that (in order to do that), I think we need to split up.”  To “split up ” is another two-word phrasal verb meaning for two people to go in different direct ions, to different places.  If there are two of you in the store and you say, “let’s spli t up,” you mean you go and buy some things; I’ll go and buy other things.  To “ split up” can also mean to end a romantic relationship: “My girlfriend and I spli t up.”  It was probably a good idea, since I’m married! 
+
+Vern says, “Let’s look at our list and divvy it up.”  To “di vvy (divvy) something up” means to divide something between two or more people, to give part of something to each person in the group.  If you have a cake and you decide to divvy it up, you’re going to give everyone a piece of the ca ke that’s present (that is there). 
+
+Paige says, “Okay, we need to get some wiring to install t he new lights.” “Wiring,” in this case, refers to long, thin pieces of me tal that are usually covered in plastic, and they’re used to move electricity or other e lectronic energy from one  
+
+ point to another.  We sometimes call them “cables,” dep ending on how they’re used.  Paige says, “we need some wiring to install the ne w lights.”  To “install” something means to put a piece of equipment into a hom e or another building, usually connecting it to electricity but not always.  Someon e may say, “I am going to install new lights in this room,” they mean I am go ing to put in new lights and I will connect them up so that they work.  Paige says, “I’ll go to the electrical department for that.”  The “electrical department” is the part of the store that sells cables (wiring, that is), other things that are used f or putting electricity in your house or building. 
+
+Vern says, “All right (okay).  We need lumber for the n ew fence.”  “Lumber” (lumber) are pieces of wood that have been cut usually i n standard (or very common) sizes that you use for building things.  So, if yo u are going to put up a fence between you and your neighbor, you would buy some “ lumber,” long pieces of wood that you would use to build your fence.  Vern says, “I’ll go to the building materials department.”  The “building mater ials department” is the part of a home improvement store that sells things like wood, o r things to put on your roof, or the floor; things that you would use to build  things, especially houses or other buildings. 
+
+Paige says, “What about the pipes and fixtures we need fo r the bathroom?”  A “pipe” (pipe) is a long, round, piece of plastic or met al that’s usually used to carry water from one part of the house to another.  A “fixt ure” is something – anything that you attach to the wall of a home or to the ceilin g of the home.  It’s something that you would leave when you sell the house; it’s perma nently attached, that is, to the wall or to the ceiling of your house.  Paige says,  “Can you go to the plumbing department for those, while I go to the har dware department for the tools?”  The “plumbing department” is the part of the  home improvement store that sells things related to how water is used in your h ome.  So, toilets and showers and pipes; all of these would be sold in the pl umbing department.  The “hardware department” is the part of the store that se lls tools and things you need to make things.  Hammers, nails, screws; these are al l things found in a hardware department.  “Tools” are things you use usuall y to do something else, and they’re usually some things that are held in your han d.  It’s a general term referring to things like hammers, saws, screwdrivers; all o f these are tools.  “Tool” has a couple of different meanings in English; take a lo ok at the Learning Guide for some additional explanations. 
+
+Vern says, “Okay, I can do that, but aren’t you feeling t ired already?  I know I am.”  Vern is already feeling tired.  Paige says, “Come  on (meaning let’s go). How are we supposed to be weekend warriors if we can’t e ven do some simple shopping?”  A “weekend warrior” is someone who works a lo t on their house on  
+
+ the weekend; it can also refer to someone who does a lo t of exercise or plays sports on the weekend.  But here, it refers to someone  who works on their house every weekend in order to make it better.  Paige says, “W e’ll meet in the garden department afterwards (after we are finished shopping ).”  The “garden department” is the part of the store that sells plants a nd other things for improving your garden outside of your house. 
+
+Vern says, “Whatever you say.”  This is a phrase that says tha t you will agree to whatever the other person is proposing – whatever they a re suggesting.  It doesn’t mean that you think it will be successful.  Sometim es this is a phrase used when someone says something that isn’t necessarily correct .  You may just say, “Oh, well, whatever,” meaning if you say so; that mea ns I don’t necessarily believe you.  But here, Vern uses the expression to mean  I’ll do whatever you tell me to even though I’m not 100 percent convinced. 
+
+Paige says, “Ready, set, go!”  These three words, “ready, set, go,” are used to start a race.  You’re telling all of the participants, for example, who may be running in a race to get ready, and then when you say t he word “go,” they start the race.  Paige is making a little joke here about wha t they are going to do now when they shop. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Paige:  I think we can get everything we need to fix up  the house in one trip. What do you think? 
+
+Vern:  We can try.  It seems like everybody had the same th ought when they woke up this morning: Go to the home improvement store !   
+
+Paige:  Yeah, it’s a little crowded, but I still thin k we can get all we need today.   
+
+Vern:  To do that, I think we need to split up.  Let ’s look at our list and divvy it up. 
+
+Paige:  Okay, we need to get some wiring to install the  new lights.  I’ll go to the electrical department for that. 
+
+Vern:  All right.  We need lumber for the new fence,  so I’ll go to the building materials department. 
+
+ Paige:  What about the pipes and fixtures we need for the bathroom?  Can you go to the plumbing department for those, while I go to the hardware department for the tools? 
+
+Vern:  Okay, I can do that, but aren’t you feeling tir ed already?  I know I am. 
+
+Paige:  Come on.  How are we supposed to be weekend wa rriors if we can’t even do some simple shopping?  We’ll meet in the garden dep artment afterwards, okay? 
+
+Vern:  Whatever you say. 
+
+Paige:  Ready, set, go! 
+
+[end of dialogue] 
+
+The script for this episode was written by the wonderful Dr. Lucy Tse.  Thank you Lucy!   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  Copyright 2009, by the Cen ter for Educational Development.
+

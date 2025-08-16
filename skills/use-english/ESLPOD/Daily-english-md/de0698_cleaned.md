@@ -1,0 +1,88 @@
+# Making Ethnically or Racially Offensive Remarks
+
+Welcome to English as a Second Language Podcast epi sode 698: Making Ethnically or Racially Offensive Remarks. 
+
+This is English as a Second Language Podcast episod e 698.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Learning Guide for this episode to improve your English even faster. 
+
+This episode is called “Making Ethnically or Racial ly Offensive Remarks.”  Let’s get started. 
+
+[start of dialogue] 
+
+Mike:  Did you hear what Dan said?  He called me a mick.  What decade is he living in? 
+
+Patti:  He’s just ignorant.  I’m sure he wasn’t try ing to be offensive.   
+
+Mike:  Well, I take offense.  And to add insult to injury, did you hear what else he said? 
+
+Patti:  What? 
+
+Mike:  He said that he was speaking on behalf of th e Irish in the community when he said he liked the plan.  How dare he speak for o ther people?  It’s presumptuous. 
+
+Patti:  He was trying to make a point and probably just got carried away.  I agree that what he said could be insulting, but let’s giv e him the benefit of the doubt. 
+
+Mike:  You can be magnanimous if you want to be, bu t I know an ethnic slur when I hear one.   
+
+Patti:  It wasn’t an ethnic slur.  It wasn’t the po litically correct term, that’s all.  He’s a little behind the times. 
+
+Mike:  Behind the times?!  He’d have to live to 150  to catch up to the present! 
+
+[end of dialogue] 
+
+Our dialogue begins with Mike saying to Patti, “Did  you hear what Dan said?  He called me a mick.”  A “mick” (mick) is an old term for someone who was from Ireland or had relatives from Ireland.  It is an in sulting term, what we would call a “derogatory” term.  It is not a compliment, but an insult to someone.  There are many, as you probably know, words that are used to describe people from different countries, different ethnicities, as well  as different races: white, black, Asian, and so forth.  We’re not going to go over th ose here on the podcast other than to use this one as an example.  A “mick” was s omeone who, as I said, was Irish. 
+
+Mike continues, “What decade is he (is Dan) living in?”  A “decade” is a period of 10 years.  If someone says, “In the past decade we have had many good things happen at our company,” they mean in the past 10 ye ars.  Decade is related to 10; usually it refers to 10 years, but it can refer  to 10 other things as well. 
+
+Patti says, “He’s just ignorant,” he doesn’t have t he knowledge of something, he was never taught some particular thing.  When you s ay someone is “ignorant,” you say they don’t know something.  They’re not nec essarily a bad person, they just don’t know.  Patti says, “I’m sure he wasn’t t rying to be offensive.”  “To be offensive” here means to be insulting, to be rude, to try to hurt someone else’s feelings.   
+
+Mike says, “Well, I take offense.”  “To take offens e” says that you are bothered by – you are offended by something someone did or s aid.  Mike says, “And to add insult to injury, did you hear what else he sai d?”  The expression “to add insult to injury” means to make a bad situation wor se, to do something to make a situation more negative that was already a negative  situation or a bad situation. 
+
+Patti says, “What?”  Mike says, “He said that he wa s speaking on behalf of the Irish in the community.”  “On behalf of” means repr esenting someone else or some group of people.  “I’m speaking on behalf of e veryone in my family when I say thank you for all the help you have given us.”  I’m speaking on behalf of them; they’re not speaking, I’m speaking for them –  on behalf of.  Mike says that Dan said he was “speaking on behalf of the Irish in  the community when he said he liked the plan.  How dare he speak for other peo ple?”  The expression “how dare you” or “how dare she” is the beginning of a q uestion you ask when you are angry at what someone has said; you think what they  said or did was wrong. Often, the expression is used when you think that p erson has somehow done more than they had the right to do.  “How dare you throw water at my cat when he was in your backyard.”  He was in your house, ho w dare you?  You don’t have  
+
+a right to do that, that’s what you’re saying.  You ’re wrong, but that’s what you’re saying!   
+
+Mike says how dare Dan speak for other people.  He says, “It’s presumptuous.” “To be presumptuous” (presumptuous) means doing som ething that is wrong, that is inappropriate, because, once again, you don ’t have the right to do it. You’re assuming that you can do something when, in fact, you should not be doing it.  So you walk into a bar and you start tal king to this beautiful woman, and about halfway through your conversation you give he r your phone number and you say, “Well, let’s meet next Friday for a drink.   Give me a call,” that would be presumptuous; the verb would be “to presume.”  You are presuming that the woman is interested in you and wants to go on a dat e with you.  That would be very presumptuous, probably not very successfully e ither!     
+
+Patti says Dan “was trying to make a point.”  “To m ake a point” is an expression that means to do something to demonstrate or prove something else.  It’s often used simply to mean to make a statement or a strong  statement, and sometimes you can add the preposition “of” at the end when yo u want to say that you specifically and purposely did something.  For exam ple: “I want to make a point of arriving at work on time every day this week.”  You are planning on doing it, probably because you want to prove something or dem onstrate something, or simply because you think it’s important.  Patti say s Dan was trying to say something important, “to make a point and probably just got carried away.”  “To get carried away” means to be so excited, so enthus iastic about doing something that you do too much of it; you don’t realize you’r e doing too much.  To go back to our example at the bar, if the woman actually do es call you, and you decide that you’re going to buy her a dozen roses and a bo ttle of champagne and get a special car – a limousine to pick you up together a t this restaurant, you go to the best restaurant in the city, you might be getting c arried away.  You might be doing too much – especially if it’s just your first  date!  If you bought her a ring, to marry her, you would definitely be getting carried away. 
+
+Patti says, “I agree that what he said could be ins ulting (could hurt someone’s feelings), but let’s give him the benefit of the do ubt.”  “To give (someone) the benefit of the doubt” is to assume that what someon e said or did, they did for a good reason; they had good intentions even though t he result was negative. When you’re not sure why someone did something, and  it seems like something bad happened, you can give them the benefit of the doubt; you can say, “Well, they probably didn’t realize they were talking so l oudly on their cell phone in the café yesterday.”  So, you’re not going to get angry  at them, you’re going to give them the benefit of the doubt.  Perhaps there’s som ething they didn’t understand  
+
+or you didn’t understand about the situation that w ould give it a different meaning. 
+
+Mike says, “You can be magnanimous if you want to b e.”  “To be magnanimous” is to be very kind, very forgiving, very generous.  “The businesswoman gave a million dollars to her old university.  It was a ma gnanimous gift,” a generous one. Mike says, “I know an ethnic slur when I hear one.”   A “slur” (slur) is an insulting term or word, sort of like a swear word, but usuall y it’s directed at a person. You’re saying something about that person.  An “eth nic slur” would be like the term “mick,” an insulting term about someone from a  particular group or country. A “racial slur” would be about someone’s skin color .   
+
+Patti says, “It wasn’t an ethnic slur.  It wasn’t t he politically correct term, that’s all.”  “Politically correct” is using words and lan guage carefully so that you don’t offend other people – to get other people mad at yo u.  You often will change the words that we perhaps used to use to describe someo ne and use language that is less offensive to them.  Some people use “politi cally correct” itself to be an insulting term, saying that people are being too ca reful not to be offensive.  In any case, Patti says that Dan is “a little behind t he times.”  “To be behind the times” is to be old-fashioned, to be outdated; some one who’s not necessarily modern, who is not doing things appropriate for the  current times – the current day. 
+
+Mike says, “Behind the times?!  He’d have to live t o 150 to catch up to the present!”  “To catch up” is a two-word phrasal verb  meaning to reach the same position or place or level as other people are.  If  you are in school and you don’t go to class for two weeks, you’ll have to catch up to the other students.  You’ll have to work to get to the same level they are at. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Mike:  Did you hear what Dan said?  He called me a mick.  What decade is he living in? 
+
+Patti:  He’s just ignorant.  I’m sure he wasn’t try ing to be offensive.   
+
+Mike:  Well, I take offense.  And to add insult to injury, did you hear what else he said? 
+
+Patti:  What?  
+
+ Mike:  He said that he was speaking on behalf of th e Irish in the community when he said he liked the plan.  How dare he speak for o ther people?  It’s presumptuous. 
+
+Patti:  He was trying to make a point and probably just got carried away.  I agree that what he said could be insulting, but let’s giv e him the benefit of the doubt. 
+
+Mike:  You can be magnanimous if you want to be, bu t I know an ethnic slur when I hear one.   
+
+Patti:  It wasn’t an ethnic slur.  It wasn’t the po litically correct term, that’s all.  He’s a little behind the times. 
+
+Mike:  Behind the times?!  He’d have to live to 150  to catch up to the present! 
+
+[end of dialogue] 
+
+I speak on behalf of everyone at ESL Podcast in tha nking our scriptwriter today, Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

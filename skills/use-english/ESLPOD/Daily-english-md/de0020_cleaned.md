@@ -1,0 +1,72 @@
+# Formal Emails
+
+Welcome to English as a Second Language Podcast num ber 20 – Formal Emails.  
+
+This is English as a Second Language Podcast episod e 20. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+On this episode, we're going to listen to an email from a student to a professor that uses a little bit more formal language. Let’s get started.  > Dear Dr. Lee: 
+> I don't know if you'll remember me, but I introduce d myself to you after your keynote at last week's conference. As I mentio ned to you, I have read all of your work and I am a great admirer of your research . Your article in the top journal Language Learning  was groundbreaking. 
+> The reason I am contacting you is that I would like  to come to your university to study with you. I met some of your students at the conference and they couldn't stop singing your praises as a professor. I don't k now if you are accepting any new students for the next year, but if so, I hope y ou will consider me.  
+> I have included two attachments to this email. I am  sending a copy of my CV, and I am also including a research paper I complete d earlier this year. I hope that these will give you an idea of my qualifications an d experience. Please let me know if you need more information or more samples o f my academic work.  
+> It was a pleasure and a privilege to meet you at th e conference, and I hope to hear more about your research at a future conferenc e. 
+> Sincerely, 
+> Lucy Hocevar
+
+Our email begins by the person writing it saying, “ Dear Doctor” – abbreviated (Dr.) – “Lee:”. A couple things about this first li ne of the email, what we would call  
+
+the “salutation” – it begins by using the word “dea r,” which is very common in writing letters and now emails, especially formal e mails or letters. “Doctor,” of course, is a title that a professor might have. It also would be used, of course, for a medical doctor.  
+
+“Lee” is her last name. In writing a salutation suc h as this, you wouldn't use the first and last name. Normally in English, when you' re writing a formal note or letter, you're going to just use the title of the p erson – “Mr.,” “Ms.,” or in this case “Dr.,” and then the last name of the person. So, if  this person's name was Judy Lee, you wouldn't say “Dear Doctor Judy Lee.” You w ould say instead, “Dear Doctor Lee.”  
+
+Finally, the colon “:” in the salutation is also an  indication that this is a formal email or, in the case of a letter, a formal letter.  If you use a comma “,” that's a little less formal. The first paragraph begins, “I don't know if you'll remember me.” This is a common phrase when you're writing a lette r to someone whom you've met, but you're not sure if the person will remembe r you. Perhaps it was many weeks ago or even months ago.  
+
+Lucy says here, “I don't know if you'll remember me , but I introduced myself” – I came up to you and told you my name – “after your k eynote at last week's conference.” Okay, so it's only been one week since  she has met this professor. Although, the professor may have met many people at  the conference, and so it's still a good idea to use this expression, “I don't know if you'll remember me.”  
+
+“Keynote” (keynote) refers to a speech at a large c onference or convention that is given to a large group of people. A “conference” is  an event where people who are interested in the same topic, the same ideas, m eet together and talk about those ideas. Almost every professional group has it s own conference where you go and you can learn more about your particular are a of interest, or your particular type of job, by talking with other peopl e who have those same jobs or those same interests. This was clearly an academic conference – a conference for university professors.  
+
+Lucy says, “As I mentioned to you” – as I said to y ou in our conversation – “I have read all of your work.” “Work” here means “all  the things you have written.” “And I am a great admirer of your research.” “To be  an admirer” (admirer) means to be a fan, someone who really appreciates and res pects someone. You can be an admirer in a professional sense. You could also be an admirer in a personal sense. We have the expression “a secret admirer.” T his would be someone who likes you in a romantic way but doesn't say who the y are. They may send you a  
+
+note but not sign the note, or send you a flower bu t not say where the flower is from. That would be a secret admirer.  
+
+Well, Lucy is not a secret admirer. She's an admire r of Dr. Lee's research. “Research” refers to scientific studies, in this ca se, that professors do so they have something to do with their time. As a former p rofessor, that's not too far from the truth, let me tell you. Anyway, Dr. Lee ha d an article in a “top journal.” That is what Lucy says in her formal email. A “top journal” would mean a very important journal or one of the best journals. A “j ournal” is a scientific magazine where scientific studies, articles, are published.  
+
+This was a study in a journal called Language Learn ing  that was, according to Lucy, “groundbreaking.” Something that is “groundbr eaking” – one word – is something that is new and important. New informatio n about a certain topic would be groundbreaking. We often use this when we are talking about information that may start people researching in a completely different direction or in a completely different area. Some of the earl iest studies in a particular scientific field are often called groundbreaking.  
+
+Lucy says the reason she is contacting Dr. Lee is t hat she would like to come to her university to study with her, to be her student . She says, “I met some of your students at the conference and they couldn't stop s inging your praises as a professor.” “To sing someone's praises” (praises) m eans to talk about someone's good qualities, to say how good someone is at what they do. Lucy is saying that she met some of Dr. Lee's students at the conferenc e and they were telling her about how wonderful a professor Dr. Lee was.  
+
+Lucy says, “I don't know if you are accepting any n ew students for the next year” – I don't know if you will allow new students to st udy with you next year. “But if so” – if you are – “I hope you will consider me.” “ To consider someone” means to think about choosing them for a position, or for a job, or for a task. “I am considering John as our next president.” I'm thinki ng about him and making him our next president. This verb, “to consider,” is us ed in this case in formal situations by people who are in authority, who have  the power to make decisions.  
+
+Lucy says, “I have included two attachments to this  email.” When you have an “attachment” (attachment) to an email, you have a d ocument or other file that you are sending with the email. You could be sending a photograph. You could be sending a Microsoft Word document. You could be sen ding a text file, a PDF file – all of these things would be called attachments.  
+
+She says, “I am sending (you) a copy of my CV.” “CV ” stands for curriculum vitae. It’s a document that describes your level of  education, your previous jobs, your accomplishments, your publications if this is an academic position, and so forth. “CV” is usually used to refer to what in mos t companies is simply called a “résumé” (resume). “CV,” however, is used for very high level positions or any position that involves being a professor or a teach er at the university.  
+
+Lucy says, “I am also including” – I’m also attachi ng, she could say – “a research paper I completed earlier this year. I hope that th ese will give you an idea of my qualifications and experience.” Your “qualification s” are the things that make you capable of or that show that you are able to do som ething. She says, “Please let me know if you need more information or more sample s of my academic work.” “Academic” here refers to university- or college-le vel work that is part of your – either schoolwork (your school assignments) or rese arch that you've done at the university.  
+
+Finally, she says, “It was a pleasure and a privile ge to meet you at the conference, and I hope to hear more about your rese arch at a future conference.” Lucy said it was a “privilege” to meet Dr. Lee. “Pr ivilege” (privilege) is the same as honor – a special benefit that is not given to e veryone. She is saying it was very nice to meet her. This expression, “It was a p leasure and a privilege,” is a very formal one that you would use in cases like th is, where you're talking about someone who is important or who you want to say is important.  
+
+Lucy ends her email by saying, “Sincerely” and then  a comma “,” – “Sincerely,” is followed on the next line by the name of the person  sending the email. If this were a letter, you would have a few spaces after th e “Sincerely,” and you would sign your name. But we don't sign our emails, typic ally. So, you would just put your name. In this case, it's Lucy Hocevar. Hocevar  is her last name in this story. 
+
+Now let’s listen to the story, this time at a norma l speed.  
+
+[start of story] 
+
+Dear Dr. Lee: 
+
+I don't know if you'll remember me, but I introduce d myself to you after your keynote at last week's conference. As I mentio ned to you, I have read all of your work and I am a great admirer of your research . Your article in the top journal Language Learning  was groundbreaking. 
+
+The reason I am contacting you is that I would like  to come to your university to  
+
+study with you. I met some of your students at the conference and they couldn't stop singing your praises as a professor. I don't k now if you are accepting any new students for the next year, but if so, I hope y ou will consider me.  
+
+I have included two attachments to this email. I am  sending a copy of my CV, and I am also including a research paper I complete d earlier this year. I hope that these will give you an idea of my qualifications an d experience. Please let me know if you need more information or more samples o f my academic work.  
+
+It was a pleasure and a privilege to meet you at th e conference, and I hope to hear more about your research at a future conferenc e. 
+
+Sincerely, 
+
+Lucy Hocevar 
+
+[end of story] 
+
+I’m an admirer of our scriptwriter, Dr. Lucy Tse. T hank you, Lucy. 
+

@@ -1,0 +1,108 @@
+# Getting an Anesthetic
+
+Welcome to English as a Second Language podcast num ber 1,243 – Getting an Anesthetic.  
+
+This is English as a Second Language Podcast episod e 1,243. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit ESLPod.com and become a member of this podcas t. When you do, you can download the Learning Guide for this episode and al l of our current episodes. The Learning Guide gives you a complete transcript of everything we say, along with a complete glossary that has vocabulary words,  definitions, sample sentences, and much more.  
+
+This episode is about going to a hospital and getti ng a special kind of drug so that you don’t feel any pain. I want that. Let’s ge t started. 
+
+[start of dialogue] 
+
+Nurse: I’m here to prep you for your procedure. Did  the doctor already talk to you about the general anesthetic you’ll be getting? 
+
+Bruce: I don’t need a general anesthetic. I want to  be conscious during the procedure. 
+
+Nurse: You’ll be inhaling a general anesthetic and getting an intravenous muscle relaxant. That’s standard for this procedure. 
+
+Bruce: I’m not a wimp. Tell the doctor all I need i s a local anesthetic to numb the area.  
+
+Nurse: You’ll need something stronger. You don’t wa nt to feel any sensation or pain during the procedure. 
+
+Bruce: I’m not afraid of a little pain. Bring it on ! 
+
+Nurse: Anyway, the general anesthetic will wear off  soon after the procedure. However, the doctor will keep you under sedation fo r the rest of the day so you can rest. 
+
+Bruce: Forget it. When it’s done, I’m going home. I ’m not staying here overnight.  
+
+ Nurse: That’s not advisable. You need to remain und er observation for 24 hours. 
+
+Bruce: That’s for other people. I’m tough. I’ll be up and ready to go. What’s that needle for? 
+
+Nurse: It’s to give you a shot before your procedur e. 
+
+Bruce: [whimpers] I don’t like needles. Get that aw ay from me! 
+
+[end of dialogue] 
+
+Our dialogue begins with a nurse saying to Bruce, “ I’m here to prep you for your procedure.” “To prep” (prep) means “to prepare.” “P rep” comes from the verb “prepare.” It’s a short form of that verb. “To prep ” means to make someone ready for something – in this case, the nurse is prepping  Bruce for his “procedure,” something that the doctor is going to do to him.  
+
+She then asks Bruce, “Did the doctor already talk t o you about the general anesthetic you’ll be getting?” An “anesthetic” (ane sthetic) is medicine that is given to you to prevent you from feeling pain. A “g eneral anesthetic,” however, is medicine that usually makes you unconscious. This i s something that is used, for example, when you are going to have what is referre d to as a “major,” or important, “surgery” (surgery). A “surgery” is when  a doctor goes inside of your body, cuts into your body, to do something we hope that will make you better.  
+
+So, a “general anesthetic” is something that usuall y puts you to sleep. This is compared to a “local (local) anesthetic,” which jus t makes certain parts of your body no longer feel anything so that the doctor can  work on a certain part of your body without putting you completely to sleep. Bruce  says that he doesn’t want a general anesthetic. He wants “to be conscious (cons cious) during the procedure.” “To be conscious” is to be awake. It’s the opposite  of “to be unconscious,” which is to be basically asleep.  
+
+Don’t confuse the word “conscious” with a similar s ounding word, “conscience” (conscience). “Conscience” refers to your feelings of right and wrong. “Conscious” refers to being awake.  
+
+The nurse says, “You’ll be inhaling a general anest hetic and getting an intravenous muscle relaxant.” “To inhale” (inhale) means to breathe in, to bring in air or something else into your body, specifically into your “lungs” (lungs). Your “lungs” are what you use to breathe. Former preside nt Bill Clinton famously said,  
+
+when asked if he had ever smoked marijuana, that ye s, he had, but he “didn’t inhale” – that is, he didn’t put the marijuana smok e into his lungs. We love politicians.  
+
+Anyway, the nurse says that Bruce is going to be in haling a certain kind of gas which is a general anesthetic and getting an “intra venous muscle relaxant.” “Intravenous” (intravenous) refers to something goi ng through your veins, which is a part of your body that carries blood. “Muscles ,” of course, are those parts of your body that move your body parts, your bones, ba ck and forth. A “relaxant” (relaxant) is something that relaxes you, make your  muscles loose and, we would say, “limp” (limp), which is the opposite of “firm. ”  
+
+So an “intravenous muscle relaxant” is basically an  injection – that is, something that is put into your body with something called a “needle” (needle). A “needle” is a small thin metal tube, basically, that goes into your skin so that drugs can be put into your body.  
+
+The nurse is going to give Bruce a general anesthet ic, which he will breathe in to his lungs, as well as what we would call simply a “ shot” (shot), which is taking a needle and putting something into your body.  
+
+Bruce says, “I’m not a wimp.” A “wimp” (wimp) is a weak person who is not brave, who is not courageous, who is afraid of pain . Bruce says, “I’m not a wimp. Tell the doctor all I need is a local anesthetic to  numb the area.” We explained “local anesthetic” as being a drug that prevents pa in in a certain part of your body. The verb “to numb” (numb) means to cause you to lose feeling in a certain part of your body. If you lose feeling, you won’t f eel pain there. That’s the purpose of a “local anesthetic.”  
+
+When you go to the dentist who works on your teeth,  the dentist will often give you a “local anesthetic” to numb the parts of your mouth where the dentist will be working. The nurse says, however, that Bruce needs something stronger. “You don’t want to feel any sensation or pain during the  procedure,” she says. “Sensation” (sensation) here means feeling somethin g that you can feel when someone touches you – that’s a “sensation,” or at l east one possibility of a sensation.  
+
+Bruce says, “I’m not afraid of a little pain. Bring  it on!” That phrase “Bring it on” is used to show that you are ready for some problem or  difficult situation or challenge. The nurse says, “Anyway, the general ane sthetic will wear off soon after the procedure.” She’s explaining to Bruce tha t after the doctor has finished  
+
+with his procedure, whatever it is, the general ane sthetic “will wear off.” “To wear (wear) off” means to slowly, gradually, lose streng th or effectiveness.  
+
+If you take a pill, if you swallow a pill that has medicine, eventually the medicine will probably “wear off,” meaning it will no longer  be effective, perhaps two hours or five hours from when you take it. The nurse expl ains that the doctor will keep him “under sedation for the rest of the day.” “Seda tion” (sedation) is when you are given drugs that don’t necessarily make you fal l asleep but make you very calm, make you very relaxed.  
+
+Bruce says, however, “Forget it,” meaning no, I don ’t want that. “When it’s done,” meaning when the procedure is finished, “I’m going home. I’m not staying here overnight,” meaning he doesn’t want to sleep at the  hospital until the next day. The nurse says, “That’s not advisable.” “Advisable”  (advisable) means recommended or useful or helpful.  
+
+The nurse says that Bruce’s idea of just leaving ri ght after this procedure is “not advisable.” It’s not a good idea. “You need to rema in under observation for 24 hours.” The phrase “under observation” means that s omeone is watching you or someone is monitoring you to make sure there aren’t  any more problems. That happens a lot at a hospital. We say someone is “und er observation” when the doctor and the nurses keep the person in the hospit al to make sure there aren’t any more problems.  
+
+Bruce says, “That’s for other people. I’m tough,” m eaning I’m strong. I’m brave. “I’ll be up and ready to go,” meaning after the pro cedure he’ll be ready to go home. Then he says to the nurse, “What’s that needl e for?” The nurse says, “It’s to give you a shot,” an injection, “before your pro cedure.” The nurse is going to take the needle and inject, or put into his body, t he drug.  
+
+Bruce suddenly, who said he was very tough and stro ng, starts to whimper. “To whimper” (whimper) means to make a small sound that  indicates that you’re very scared. Bruce says, “I don’t like needles. Get that  away from me!” We learn, of course, that Bruce isn’t as tough as he says he is.   
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Nurse: I’m here to prep you for your procedure. Did  the doctor already talk to you about the general anesthetic you’ll be getting? 
+
+Bruce: I don’t need a general anesthetic. I want to  be conscious during the procedure. 
+
+Nurse: You’ll be inhaling a general anesthetic and getting an intravenous muscle relaxant. That’s standard for this procedure. 
+
+Bruce: I’m not a wimp. Tell the doctor all I need i s a local anesthetic to numb the area.  
+
+Nurse: You’ll need something stronger. You don’t wa nt to feel any sensation or pain during the procedure. 
+
+Bruce: I’m not afraid of a little pain. Bring it on ! 
+
+Nurse: Anyway, the general anesthetic will wear off  soon after the procedure. However, the doctor will keep you under sedation fo r the rest of the day so you can rest. 
+
+Bruce: Forget it. When it’s done, I’m going home. I ’m not staying here overnight. 
+
+Nurse: That’s not advisable. You need to remain und er observation for 24 hours. 
+
+Bruce: That’s for other people. I’m tough. I’ll be up and ready to go. What’s that needle for? 
+
+Nurse: It’s to give you a shot before your procedur e. 
+
+Bruce: [whimpers] I don’t like needles. Get that aw ay from me! 
+
+[end of dialogue] 
+
+There’s no better way to prep yourself for speaking  English than to listen to the wonderful scripts written by our excellent scriptwr iter, Dr. Lucy Tse. Thank you, Lucy.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st.  
+

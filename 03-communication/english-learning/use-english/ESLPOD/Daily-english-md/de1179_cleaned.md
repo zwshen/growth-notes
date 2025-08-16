@@ -1,0 +1,114 @@
+# Reading Food Labels
+
+Welcome to English as a Second Language Podcast num ber 1,179 – Reading Food Labels. 
+
+This is English as a Second Language Podcast episod e 1,179. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Go to ESLPod.com and become a member of ESL Podcast . When you do, you can download the eight- to ten-page Learning Guide that comes with this episode. It gives you a complete transcript of ever y word I say as well as vocabulary words, definitions, additional sample se ntences, culture notes, and a whole lot more.  
+
+This episode is a dialogue between Amy and Giorgio about understanding what is in the food you buy from a store. Let’s get star ted. 
+
+[start of dialogue] 
+
+Amy: Put a big bag of those potato chips in the bas ket. 
+
+Giorgio: Have you read the nutritional label on the se chips? 
+
+Amy: No, but look. This doesn’t have very much satu rated fat, trans fat, or sodium. 
+
+Giorgio: Look at the serving size. It’s three potat o chips. How often do you stop at three chips? 
+
+Amy: Okay, no potato chips. I’ll get this package o f cookies. There aren’t many calories or carbohydrates in these, or much cholest erol or sugar either. 
+
+Giorgio: Look again. The serving size is one cookie . There are 40 cookies in each container.  
+
+Amy: Not everything has to be healthy and good for me.  
+
+Giorgio: No, but you have to get your protein and f iber from somewhere. If you look at the percent daily value on the things you’r e eating, you’re not getting the nutrients, vitamins, and minerals your body needs. 
+
+Amy: This isn’t all I eat. I eat other things, too.  
+
+Giorgio: Like pizza, hamburgers, and fries? 
+
+Amy: I might not have the best diet, but I’m health y as a horse.  
+
+Giorgio: Maybe a horse ready to be put out to pastu re! 
+
+[end of dialogue] 
+
+Amy begins our dialogue by saying to Giorgio, “Put a big bag of those potato chips in the basket.” “Potato chips” are made, of c ourse, from potatoes. They usually have salt on them. They’re very thin and ar e typically fried. A “basket” here refers to a shopping basket. It’s a container that you put things into when you are shopping at a grocery store, at a store whe re you buy food. Giorgio says, “Have you read the nutritional label on these chips ?”  
+
+“Nutrition” (nutrition) refers to the kind of food you eat, and in particular, the quality of the food or the ingredients of the food – what’s in the food. “Nutritional labels” (labels) are found on most foods that you b uy in a grocery store or another store in the U.S. The government requires t hat the makers of the food put a label – that is, a small piece of paper or so mething that is on the outside of the food package (what the food comes in) – that in dicates what is in the food, in particular certain categories of ingredients or cer tain categories of nutrition. We’ll talk about those categories in a minute.  
+
+Amy says, “No” – she has not looked at or read the nutritional label. “But look,” she says, “This doesn’t have very much saturated fa t, trans fat, or sodium.” Amy is now looking at the label and telling Giorgio tha t these potato chips that she wants to buy don’t have very much “saturated (satur ated) fat.” Saturated fat, without going into a technical, scientific explanat ion, is usually fat that comes from animal products.  
+
+The word “saturated” refers to its chemical composi tion, how it is actually formed chemically. There are “saturated fats,” “mono satur ated fats,” “poly saturated fats,” and “trans fats.” If you want a definition f or all of those things, it’s best to look online. But a saturated fat is a fat that is s olid or would be solid at room temperature. There are some people who think satura ted fats are bad for you, other people who say it doesn’t really matter.  
+
+We’re not going to go into those arguments here, bu t many Americans have been told for many years that saturated fats are ba d for them. That’s why Amy  
+
+says look, it doesn’t have any, or “very much,” sat urated fat. She says it doesn’t have very much “trans (trans) fat.” A trans fat is made usually from some sort of chemical process, and again, there are many people who think trans fat is very bad for your health. The third item Amy mentions is  “sodium” (sodium). Sodium is basically salt.  
+
+Giorgio says, however, “Look at the serving size.” The “serving (serving) size” is the amount of food that the people who make the foo d say would be typical for one person to eat. If you make the serving size ver y small, then it will look as though that the amount of, say, sodium or trans fat  is not very high. But oftentimes, the serving size on a package of food i s not very realistic, but the company makes it really small so that when you look  at the nutritional label, it doesn’t look as though there is a lot of, say, tran s fat or sodium in it.  
+
+Giorgio says the serving size for these potato chip s is three potato chips. “How often do you stop at three chips?” meaning “How oft en do you only eat three chips and not continue to eat more?” There was a fa mous advertisement for a potato chip company, and the ad said, “No one could  eat just one,” meaning if you ate one potato chip, you would want to eat more  – which of course is true for a lot of food such as potato chips. Amy says, “Okay , no potato chips,” meaning she won’t buy any potato chips.  
+
+She says, “I’ll get this package of cookies. There aren’t many calories or carbohydrates in these, or much cholesterol or suga r either.” Amy mentions a couple of other categories that are typically found  on a nutritional label. The one that you will almost always find is “calories” (cal ories). A “calorie” is technically a unit of heat energy, but most people think of a cal orie as how much energy you could get out of this particular kind of food. Most  men eat around 2,000 to 3,000 in the United States per day. The average American woman eats around 1,800 calories per day.  
+
+“Carbohydrates” are one of the three major kinds of  “nutrients,” we call them. There are “carbohydrates,” “fat,” and “protein.” Ca rbohydrates are basically foods that are or nutrients that are turned into sugar an d used for energy. A lot of the foods we eat have a combination of carbohydrates, p rotein, and fat in them. Amy also mentions “cholesterol” (cholesterol). Choleste rol is something that your body needs in order to function. Cholesterol can in cert ain cases be bad for you, at least too much of a certain kind of cholesterol in your body.  
+
+Once again, there is a relationship between the cho lesterol you eat and the cholesterol in your body, but it’s not the same thi ng. People sometimes confuse the two. Your body needs cholesterol. Cholesterol i s a good thing. But there are  
+
+debates about how much eating cholesterol may affec t your body’s or blood’s cholesterol levels. “Sugar” (sugar), you’re probabl y familiar with, is the kind of thing that makes food sweet.  
+
+Giorgio says, “Look again. The serving size is one cookie. There are 40 cookies in each container” – that is, in each package. Once  again Giorgio is pointing out that even though the nutritional label indicates th ere aren’t very many calories in this package of cookies, the serving size is only o ne. “Not everything has to be healthy and good for me,” Amy responds. Giorgio say s, “No, but you have to get your protein and fiber from somewhere.” “Protein” ( protein), we’ve already pointed out, is one of the three major types of nut rients – things that your body needs.  
+
+Your body needs protein for all sorts of things, in cluding building muscles. “Fiber” (fiber) is actually a kind of carbohydrate. It’s th e part of typically a plant that is eaten but is difficult for your body to digest. We won’t go into all the technical definitions of the different kinds of fiber – “solu ble fiber,” “insoluble fiber,” and so forth – but fiber basically doesn’t get absorbed in to your body. You eat it and then it ends up eventually going out of your body in a w ay that I think you probably can guess.  
+
+“If you look at the percent daily value on the thin gs you’re eating,” Giorgio continues, “you’re not getting the nutrients, vitam ins, and minerals your body needs.” The U.S. government has decided, or has rec ommended, that everyone get a certain amount of these different kinds of nu trients and other food elements every day. And so when you look on a nutritional la bel in the United States, you will see something called the “percent daily value. ” That indicates how much of the recommended daily amount of that particular thi ng this food provides.  
+
+So, if a food says it provides 10 percent of the fi ber that you need, you would know then that you still have 90 percent to go with  the other food in order to get what the U.S. government thinks is the amount of fi ber you need every day. These “percent daily values” are not all that usefu l for many people since some people need more of things than other people. Our b odies are different. But the government wants to give you some idea of what you need every day from your food.  
+
+Giorgio says, “You’re not getting the nutrients (nu trients) your body needs.” “Nutrients” refers to carbohydrates, protein, and f at, as well as vitamins and minerals. “Vitamins” (vitamins) refers to a substan ce that is required for growth or survival but that is usually only needed in a small  amount. Once again, that’s not a very technical definition of a vitamin.   
+
+ “Minerals” (minerals) are what we call “inorganic s ubstances” – non-living things that are required, but once again are only needed i n very small amounts. Vitamins in English are typically given letters. Th ere’s vitamin A. There’s vitamin B. There might even be different types of different  vitamin letters – vitamin B1, vitamin B12, and so forth. Minerals are things like calcium, sodium, potassium , magnesium, that the body also uses.  
+
+Amy says, “This isn’t all I eat. I eat other things , too.” Giorgio says, “Like pizza, hamburgers, and fries?” Here, the word “fries” refe rs to French fries – potatoes that are cut up and put into oil. Amy says, “I migh t not have the best diet, but I’m healthy as a horse.” This expression, “healthy as a  horse,” is an old one meaning very healthy. Although I have to be honest, I’ve ne ver used it myself.  
+
+Giorgio says, “Maybe a horse ready to be put out to  pasture!” Giorgio then makes a joke about this expression. When a horse is old a nd can no longer be used for riding or racing, we may put that horse “out to pas ture” (pasture). “Pasture” is land that cattle or horses eat off of. It’s an area  on a farm where you can put the animals because they can eat what is growing out of  the ground.  
+
+“To put a horse out to pasture” means to retire the  horse, to no longer use the horse, to let the horse live the rest of its days –  live the rest of its life – just eating food and not doing anything. It’s another expressio n for “retiring” someone. Giorgio is making a joke here, saying that Amy isn’ t healthy as a horse unless she means an old horse, a sick horse – a horse that  is no longer healthy anymore, really.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Amy: Put a big bag of those potato chips in the bas ket. 
+
+Giorgio: Have you read the nutritional label on the se chips? 
+
+Amy: No, but look. This doesn’t have very much satu rated fat, trans fat, or sodium. 
+
+Giorgio: Look at the serving size. It’s three potat o chips. How often do you stop at three chips? 
+
+ Amy: Okay, no potato chips. I’ll get this package o f cookies. There aren’t many calories or carbohydrates in these, or much cholest erol or sugar either. 
+
+Giorgio: Look again. The serving size is one cookie . There are 40 cookies in each container.  
+
+Amy: Not everything has to be healthy and good for me.  
+
+Giorgio: No, but you have to get your protein and f iber from somewhere. If you look at the percent daily value on the things you’r e eating, you’re not getting the nutrients, vitamins, and minerals your body needs. 
+
+Amy: This isn’t all I eat. I eat other things, too.  
+
+Giorgio: Like pizza, hamburgers, and fries? 
+
+Amy: I might not have the best diet, but I’m health y as a horse.  
+
+Giorgio: Maybe a horse ready to be put out to pastu re! 
+
+[end of dialogue] 
+
+Dr. Lucy Tse feeds your brain with wonderful Englis h in each of her wonderful scripts – the perfect food for your English.  
+
+From Los Angeles, California, I’m Jeff McQuillan, f eeling hungry. I think I’m going to go eat. Come back and listen to us again, won’t you? Right here on ESL Podcast.  
+

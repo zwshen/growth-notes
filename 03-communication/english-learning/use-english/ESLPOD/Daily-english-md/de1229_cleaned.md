@@ -1,0 +1,96 @@
+# Telling Others to Go Away
+
+Welcome to English as a Second Language Podcast num ber 1,229 – Telling Others to Go Away.  
+
+This is English as a Second Language Podcast episod e 1,229. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Become a member of  ESL Podcast. You can also take a look at our Special Courses on our webs ite, as well as our ESL Podcast Blog. visit our website at ESLPod.com becom e a member of ESL Podcast. When you do, you can download the Learning  Guide for this episode.  
+
+This episode is a dialogue between Joshua and Rosa about how to tell other people to leave. Let’s get started.  
+
+[start of dialogue] 
+
+Joshua:  Beat it and don’t come back! 
+
+Rosa:  What’s all the noise? 
+
+Joshua:  It’s the neighborhood kids. All I want to do on this sunny afternoon is sit out on the porch and enjoy the day. But those neigh borhood kids keep coming around and making all kinds of noise. Hey you, shoo ! 
+
+Rosa:  They’re just trying to get a rise out of you . Maybe if you ignore them and stop waving them off and telling them to run along,  they’ll go away on their own. 
+
+Joshua:  If I don’t tell them to get lost, they’ll sit here in front of my house and clown around. They’ll make so much noise it’ll wrec k my peace and quiet. Hey, I see you. Take a hike! 
+
+Rosa:  I think I know what to do to get you that pe ace and quiet. I’ll be right back. 
+
+Joshua:  Where are you going? 
+
+Rosa:  I’m going to get a plate of cookies for thos e kids. 
+
+Joshua:  Are you crazy? Are you rewarding those row dy troublemakers with cookies?!  
+
+ Rosa:  It’s a bribe and it always works. 
+
+[end of dialogue] 
+
+We begin our dialogue by hearing Joshua say, “Beat it and don’t come back!” “Beat (beat) it (it)” is a rude, informal phrase we  use to tell someone to go away, to leave, to leave you alone. You may remember the Michael Jackson song “Beat It.” “Beat it, beat it. No one wants to be defeated .” No? Well anyway, there was this really popular song many years ago called “Bea t It” by this guy named Michael Jackson, and the expression meant in that s ong what Joshua means in our dialogue, which is to leave, to go away, but it ’s a very rude phrase. It’s a very impolite way of telling someone to leave. Joshua sa ys to someone, “Beat it and don’t come back!” meaning do not return here.  
+
+Rosa asks, “What’s all the noise?” In other words, why is Joshua yelling. Joshua responds, “It’s the neighborhood kids,” meaning it’ s the children who live near our house. “All I want to do,” meaning the only thing I  want to do, “on this sunny afternoon is sit out on the porch and enjoy the day .” Joshua wants to sit on his “porch” (porch) and enjoy his day. A porch is an ar ea in front of a house, often made of either wood or cement, that doesn’t have an y walls around it, although it will often have something overhead – a “roof” (roof ) – to protect you from the rain and sun.  
+
+Porches aren’t as common here in Los Angeles as the y are in other cities, especially with newer houses, but where I grew up i t was quite common in the houses of my neighborhood to see people on their po rches – for houses to have porches, in fact. Almost none of the houses in my n eighborhood here in L.A. have porches. They’re just not as common in the hou ses in this area, and I think they’re not as common in newer houses.  
+
+In any case, Joshua is mad about the neighborhood k ids. He says, “Those neighborhood kids keep coming around” – that is, th ey keep coming close to his house – “and making all kinds of noise.” Joshua the n yells at another one of the neighborhood children. He says, “Hey you, shoo!” “S hoo” (shoo) is another informal word used to tell someone to go away. It’s  sometimes used humorously, as in making a joke, but Joshua isn’t joking here.  
+
+Rosa says, “They’re just trying to get a rise out o f you.” “To get a rise (rise) out of” someone is to try to make someone react, especi ally react angrily. Usually people are doing this to annoy you and to get you t o react in a certain emotional way. I suppose it’s a way of controlling you in som e sense. Some people like to  
+
+do this on the internet. They like to make comments  on Twitter or Facebook to “provoke” (provoke) someone. “To provoke” means the  same as “to get a rise out of” someone – to make someone react in anger.  
+
+Rosa thinks these neighborhood children are just tr ying to get a rise out of Joshua. She says, “Maybe if you ignore them and sto p waving them off and telling them to run along, they’ll go away on their  own.” Rosa suggests that Joshua “ignore” (ignore) the children. “To ignore” means not to pay attention to something or someone, to pretend that you don’t eve n notice or see something.  
+
+“To wave (wave) someone off” is a two-word phrasal verb meaning to move your hand in the air, back and forth, indicating that so meone should leave or move away because you no longer want that person to be n ear you. “To tell someone to run along” (along) is similar to telling someone  to shoo, or to beat it. It’s telling someone to go away. However, it isn’t a rude expres sion necessarily. If someone tells you to run along, the person isn’t necessaril y being rude to you, although typically it would be an expression that someone in  authority would use with someone of lesser power.  
+
+A mother might tell her children to run along. A po lice officer might tell a teenager to run along. In both cases, they’re telling people  to move away – to walk away or to move away from where they are standing right now . We can also use this expression about ourselves. We can say, “Well, I ha ve to run along now.” That means “I have to leave now.” “I have to go somewher e else.” Rosa thinks that Joshua should stop trying to wave the children off or tell them to run along. If he did, “they’ll go away on their own,” meaning they’l l leave without anyone having to tell them to leave.  
+
+Joshua disagrees. He says, “If I don’t tell them to  get lost, they’ll sit here in front of my house and clown around.” To tell someone “to get lost” is the same as telling them “to shoo” or “to beat it” or “to run a long.” It’s a way of telling someone to leave, and it is once again a rude expression, t o be sure. Joshua says the children sit in front of his house and “clown (clow n) around.” “To clown around” means to be silly, to be goofy, to do things like a  child would do, often to make someone else angry or annoyed.  
+
+Joshua says, “They’ll make so much noise, it’ll wre ck my peace and quiet.” “To wreck” (wreck) something is to destroy or ruin some thing, to make something less valuable. Joshua is worried about the children ’s noise “wrecking his peace and quiet.” Your “peace (peace) and quiet (quiet)” is your calm environment where you are relaxed, where you are not stressed.  
+
+Joshua again talks to one of the children. He says,  “Hey, I see you. Take a hike!” “Take a hike” (hike), when used as a command, means  the same as “to get lost,” “to go way,” “to shoo,” and “to beat it.” And it is  also a rude expression. If you want someone to leave, you could just say, “You kno w what, take a hike.” It’s a very rude thing, a very impolite thing to say, howe ver. It’s probably not as common as it was when I was growing up, but you wil l still hear people say it.  
+
+Rosa says, “I think I know what to do to get you th at peace and quiet. I’ll be right back.” Rosa thinks she has a solution to Joshua’s p roblem of the noisy children. Joshua says, “Where are you going?” Rosa replies, “ I’m going to get a plate of cookies for those kids.” Rosa is going to give the children cookies. Joshua says, “Are you crazy?” meaning this is a dumb idea. “Are you rewarding those rowdy troublemakers with cookies?!”  
+
+Joshua can’t believe that Rosa is going to “reward those rowdy troublemakers.” “To reward” (reward) is to give someone a prize or a present or a gift because they’ve done something good. “Rowdy” (rowdy) refers  to an activity that is very loud and energetic, often annoying other people. A “troublemaker” is a person who, well, makes trouble – who causes problems. Jos hua can’t believe Rosa wants to give these loud, rowdy, troublemaking chil dren cookies.  
+
+Rosa says, “It’s a bribe and it always works.” A “b ribe” (bribe) is something you give to another person to make that person do somet hing for you. Bribes are often illegal, or against the law, especially if yo u are giving them to someone in the government. That doesn’t mean the person won’t accept your bribe, however, but a bribe more generally refers to money or gifts  that you give someone to do something for you, often something that they should  do anyway or often in a situation where you’re not supposed to give that pe rson anything to do what you want him or her to do.  
+
+Rosa thinks, probably correctly, that sometimes chi ldren will do what you want to do if you bribe them, and every parent probably wou ld agree.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Joshua:  Beat it and don’t come back! 
+
+Rosa:  What’s all the noise? 
+
+Joshua:  It’s the neighborhood kids. All I want to do on this sunny afternoon is sit out on the porch and enjoy the day. But those neigh borhood kids keep coming around and making all kinds of noise. Hey you, shoo ! 
+
+Rosa:  They’re just trying to get a rise out of you . Maybe if you ignore them and stop waving them off and telling them to run along,  they’ll go away on their own. 
+
+Joshua:  If I don’t tell them to get lost, they’ll sit here in front of my house and clown around. They’ll make so much noise it’ll wrec k my peace and quiet. Hey, I see you. Take a hike! 
+
+Rosa:  I think I know what to do to get you that pe ace and quiet. I’ll be right back. 
+
+Joshua:  Where are you going? 
+
+Rosa:  I’m going to get a plate of cookies for thos e kids. 
+
+Joshua:  Are you crazy? Are you rewarding those row dy troublemakers with cookies?! 
+
+Rosa:  It’s a bribe and it always works. 
+
+[end of dialogue] 
+
+We never want our scriptwriter to go away. That’s b ecause she writes such wonderful scripts. Thanks to our very own Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

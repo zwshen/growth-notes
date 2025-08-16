@@ -1,0 +1,116 @@
+# Reducing Food Waste
+
+Welcome to English as a Second Language Podcast num ber 1,193 – Reducing Food Waste. 
+
+This is English as a Second Language Podcast episod e 1,193. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. Yeah.  
+
+Visit our website at ESLPod.com. Take a look at our  other ESL courses in Business and Daily English. We have lots on our web site for you to choose from. Take a look at our Facebook page at facebook.com/es lpod. All the cool kids are doing it.  
+
+This episode is a dialogue between Jon and Marta ab out not wasting your food. Let’s get started. 
+
+[start of dialogue] 
+
+Jon: Wait! What are doing with that squishy tomato?   
+
+Marta: I’m tossing it. It’s no good anymore. 
+
+Jon: I’ll take it, and I’ll take that stale bread, too. 
+
+Marta: Stop! You can’t fish that out of the trash. 
+
+Jon: I’m trying to do my part to reduce food waste.  Tired vegetables are still okay to eat, as are bruised fruit. 
+
+Marta: Fine, but not once they’ve been discarded. S tay out of my trash. 
+
+Jon: What you are going to do with this graying mea t? 
+
+Marta: I was going to throw that out, too. 
+
+Jon: I’ll take it. I’m sure I can make something ed ible with it. 
+
+Marta: You can’t be serious. I’m all for doing my p art, but I draw the line at eating spoiled meat. 
+
+Jon: It’s not spoiled. It’s just beyond the peak of  freshness.  
+
+ Marta: Well, be my guest. You can have all of this food. 
+
+Jon: And to show my thanks, I’ll invite you over to  lunch tomorrow. 
+
+Marta: Thanks, but no thanks. 
+
+[end of dialogue] 
+
+Jon says to Marta, “Wait! What are you doing with t hat squishy tomato?” “Squishy” (squishy) is something that is soft, usua lly something that you can change the shape of easily by squeezing it or putti ng your hands around it. A “squishy tomato” would be a tomato that is no longe r hard or “firm” (firm), meaning when you pick it up, it would fall apart. B asically, Jon is asking Marta what she is doing with a tomato that seems to be sq uishy.  
+
+Marta says, “I’m tossing it. It’s no good anymore.”  “To toss” (toss) here means to throw away, to get rid of. Jon says, “I’ll take it,  and I’ll take that stale bread, too.” Jon wants Marta to give him this squishy tomato as well as some “stale (stale) bread.” Bread that is “stale” is no longer fresh. I t’s old and dried out. Often, it’s hard. Marta says, “Stop! You can’t fish that out of  the trash.” “To fish” (fish) something out of something else means to take somet hing out of a container where it is surrounded by other things.  
+
+So for example, if you open up a drawer that has lo ts of different things in it, you may “fish out” something. You may take something ou t that is mixed up with or in a pile of other things. In this case, Jon is trying  to fish something “out of the trash” (trash). “Trash” here refers to garbage or things t hat are being thrown away. Most people in their houses have a container, an object that they use to put trash into or to put garbage into – things that they are throw ing away, things that they are getting rid of.  
+
+Well, Jon is apparently trying to take some food ou t of a trash container, which sounds pretty awful, pretty disgusting. Jon says, h owever, that he’s trying to do his part to “reduce food waste.” “Food waste” (wast e) is food that is not eaten but instead thrown away when in fact it could still be used. Jon says that he’s trying “to reduce food waste.” He’s trying to make sure th at we don’t waste too much food. He says, “Tired vegetables are still okay to eat, as are bruised fruit.”  
+
+“Tired” (tired) usually means the same as sleepy – of not having a lot of energy. But “tired vegetables” would refer to older vegetab les that start to look like they aren’t very fresh, that you may not want to eat the m. But Jon says it’s okay to eat  
+
+tired vegetables – vegetables that are older. He al so says it’s okay to eat “bruised (bruised) fruit.” If fruit is “bruised,” i t has small dark spots on the skin and is usually soft in those particular spots, those ar eas. If you have a banana that’s bruised, it will often be black because of the brui se, and it will be soft when you touch it.  
+
+Jon says it’s okay to eat bruised fruit. Marta says , “Fine, but not once they’ve been discarded.” She’s saying maybe it’s okay to ea t tired vegetables and bruised fruit, but not once they have been “discard ed” (discarded). “To discard” means to throw something away – to put something, i n this case, in the garbage container. She then tells Jon, “Stay out of my tras h,” meaning don’t go looking in my trash container and taking things out of it. “To  stay out of” someplace means not to go there or not to go in there.  
+
+Jon then asks her, “What are you going to do with t his graying meat?” “Graying” (graying) comes from the color “gray” (gray). Meat can turn gray when it gets old, and it’s usually a sign you don’t want to eat it. T hat’s why Marta says, “I was going to throw that out, too.” She was going to get  rid of the graying meat. But Jon says, “I’ll take it. I’m sure I can make someth ing edible with it.” “Edible” (edible) means able to be eaten, something you can eat without getting sick.  
+
+Jon thinks he can take this graying meat, this old meat, and make something out of it, cook something that would allow him to eat i t. I’m not so sure. Neither is Marta. She says, “You can’t be serious,” meaning yo u must be joking. “I’m all for,” meaning I’m in favor of, “doing my part.” “To  do your part” means to help in a group effort or to do your fair share of the work.  
+
+If someone says, “I want to do my part,” that perso n wants to help the group do something. Not everything, but what that person thi nks would be his responsibility or his part of the work that needs t o be done. Marta wants to do her part to stop wasting food. But she says, “I draw th e line at eating spoiled meat.” The expression “to draw (draw) the line” means to i ndicate that you will not do anything beyond a certain point. You are indicating  the limits of something. You are saying how much you will accept and what you wo n’t accept.  
+
+Notice she says, “I will draw the line at,” and the n she says, “eating spoiled meat.” What she’s saying here is that she’s not goi ng to eat spoil meat. That’s the limit to what she will do in terms of stopping food waste. She won’t do that. She’s drawing the line at this particular action – eating “spoiled” (spoiled) meat. “Spoiled food” is food that you can no longer eat, usually because it is too old and has become what we would describe as “rotten” ( rotten). If food is “rotten,” it will make you sick if you eat it.   
+
+ Sometimes we use that adjective “rotten” when we’re  talking about a person who misbehaves, or who does things wrong or acts badly.  You may talk about a “rotten child” – a child who is always screaming an d causing problems and not being very nice. There was a famous punk rock star of the 1970s called Johnny Rotten. Well, here we’re not talking about rock sta rs. We’re talking about food that you should not eat, and Marta doesn’t want to eat food that is spoiled or rotten.  
+
+Jon (no relation, I think, to Johnny Rotten – meani ng I don’t think the two are brothers or anything) says, “It’s not spoiled. It’s  just beyond the peak of freshness.” “To be beyond (beyond)” means to be pas t something. The “peak” (peak) of something is the highest point. You can t hink of a mountain having a “peak.” It’s the highest point, the highest place o n a mountain. “Freshness” (freshness) is when food is at its best, when it is  best to eat. If something is “beyond the peak of freshness,” then, it is no long er the best time to eat it, but it’s still okay to eat it. That’s what Jon is saying.  
+
+Marta says, “Well, be my guest.” This is a very com mon expression in conversational English. “Be my guest” means go ahea d and do it. You are telling someone it’s okay for him to do something. Sometime s, however – often, in fact – we use it somewhat as a joke or use it “sarcastic ally,” meaning we don’t really mean it or we are saying that we don’t want to do s omething, but if you want to, then you can do it.  
+
+For example, let’s say your neighbor’s dog is barki ng. And you start yelling at the dog, and the dog, of course, being stupid as dogs a re, doesn’t do anything. And your wife says to you, “Why don’t you tell that dog  to be quiet?” And you say, “I’ve already tried.” She says, “Well, I’m going to  try.” And you say, “Okay, be my guest.” You’re telling her to go and try to get the  dog to be quiet, but you’re probably saying it in such a way as to indicate tha t you don’t think she will be very successful.  
+
+One thing you might try to do is to give the dog so me spoiled meat. That might eventually cause the dog to no longer bark. Just ki dding, of course. You shouldn’t do that. I am not recommending that to anyone. Plea se don’t email and tell me that I’m a rotten person. Anyway, Marta says, “Well , be my guest.” “You can have all of this food,” she says. Jon says, “And to show  my thanks” – to thank you – “I’ll invite you over to lunch tomorrow.” Jon is in viting Marta to come over to his house and have lunch. Marta says, “Thanks, but no t hanks.”  
+
+If someone asks you to do something that you think is dangerous or perhaps is going to be unpleasant, and you want to indicate th at the person probably shouldn’t have even asked you to do this, you might  use this expression, “Thanks, but no thanks.” It means no, I really don’ t want to do that. You’re thanking the person, but you’re saying “no thanks,”  meaning no, I don’t want to.  
+
+Of course, Marta doesn’t want to go over to Jon’s h ouse and eat all of the food that Jon has taken from her.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Jon: Wait! What are doing with that squishy tomato?   
+
+Marta: I’m tossing it. It’s no good anymore. 
+
+Jon: I’ll take it, and I’ll take that stale bread, too. 
+
+Marta: Stop! You can’t fish that out of the trash. 
+
+Jon: I’m trying to do my part to reduce food waste.  Tired vegetables are still okay to eat, as are bruised fruit. 
+
+Marta: Fine, but not once they’ve been discarded. S tay out of my trash. 
+
+Jon: What you are going to do with this graying mea t? 
+
+Marta: I was going to throw that out, too. 
+
+Jon: I’ll take it. I’m sure I can make something ed ible with it. 
+
+Marta: You can’t be serious. I’m all for doing my p art, but I draw the line at eating spoiled meat. 
+
+Jon: It’s not spoiled. It’s just beyond the peak of  freshness. 
+
+Marta: Well, be my guest. You can have all of this food. 
+
+Jon: And to show my thanks, I’ll invite you over to  lunch tomorrow. 
+
+Marta: Thanks, but no thanks.  
+
+ [end of dialogue] 
+
+There’s nothing stale, bruised, or graying about ou r dialogues. They’re all at the peak of freshness thanks to our wonderful scriptwri ter, Dr. Lucy Tse.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

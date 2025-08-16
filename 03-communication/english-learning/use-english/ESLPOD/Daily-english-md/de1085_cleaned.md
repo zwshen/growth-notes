@@ -1,0 +1,118 @@
+# Having Good and Bad Luck
+
+Welcome to English as a Second Language Podcast num ber 1,085 – Having Good and Bad Luck.  
+
+This is English as a Second Language Podcast episod e 1,085. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Take a look at our  ESL Podcast Special Courses in Business and Daily English. You can also  take a look at our ESL Podcast Blog, and why not like us on Facebook at fa cebook.com/eslpod? Oh yeah, sure, we’re also on Twitter @eslpod.  
+
+This episode is a dialogue between Cesar and Olga a bout luck, chance, fate. Let’s get started. 
+
+[start of dialogue] 
+
+Cesar: I can’t catch a break. Everything seems to b e going wrong these days. 
+
+Olga: Maybe your streak of bad luck is because you did something unlucky. 
+
+Cesar: What do you mean? 
+
+Olga: Have you walked under a ladder or crossed pat hs with a black cat lately? 
+
+Cesar: I don’t think so, but I’m not superstitious.  I don’t believe breaking a mirror will bring me seven years of bad luck. 
+
+Olga: Say what you will, but it doesn’t hurt to tak e some precautions, especially the way things have been going for you.  
+
+Cesar: I don’t know . . . 
+
+Olga: Here, you can borrow my rabbit’s foot and my four-leaf clover. I’ll go home to get you a horseshoe so you can hang it upside do wn over your front door. 
+
+Cesar: I really doubt any of that is going to do me  any good. 
+
+Olga: You know what tomorrow is, don’t you? 
+
+Cesar: The thirteenth? 
+
+Olga: Friday the thirteenth. Do you really want to take your chances? 
+
+Cesar: I guess not. Do you really think these good luck charms will help? 
+
+Olga: We’ll know on the fourteenth, won’t we? 
+
+[end of dialogue] 
+
+Cesar says to Olga, “I can’t catch a break.” The ex pression “to catch (catch) a break (break)” means to be lucky, to experience luc k when you have been experiencing a lot of problems or bad luck. “Luck” (luck) is the idea that we can have things happen to us even though we don’t do an ything about them. We don’t cause them in any way, but somehow the world is arranged so that things will happen to you or not happen to you due to chan ce. So, “to catch a break” would be to have something good happen to you – to have good luck.  
+
+Cesar says, “Everything seems to be going wrong the se days.” “To be going wrong” means to be having a lot of problems, to hav e things result in ways that you don’t want them to. Olga says, “Maybe your stre ak of bad luck is because you did something unlucky.” A “streak” (streak) is when things happen one after the other – the same thing keeps repeating itself.  
+
+This can be a good thing. For example, if you’re a baseball player and you hit the ball every time you get up and it’s your turn to hi t the ball, and you do that 10 times in a row or 20 times in a row, we would call that a “streak” – something is happening over and over again. Now, it could be a g ood thing or it could be a bad thing. People talk about a “streak of good luck ” or a “streak of bad luck.” That would refer to things that are happening to you ove r and over again.  
+
+Well, in the case of Cesar, he appears to be having  a streak of bad luck – when bad things are happening to him over and over again . Now, “luck” by definition is something that happens by chance – at random, if yo u will. But Olga doesn’t think that Cesar’s streak of bad luck is at random.  She says, “Maybe this is happening to you because you did something unlucky. ” Cesar says, “What do you mean?”  
+
+Olga says, “Have you walked under a ladder or cross ed paths with a black cat lately?” Olga is now starting to talk about the bel ief that some people have that good luck or bad luck isn’t really random. In fact,  it’s something that you cause by  
+
+doing something wrong. In this case, Olga refers to  two common, what we would call “superstitions,” at least here in the United S tates.  
+
+A “superstition” (superstition) is a belief in some thing that cannot be explained by the laws of nature, if you will. Something that see ms extraordinary. Superstitions usually revolve around or involve people believing that if they do one thing, then somehow, magically, something else will happen to t hem. It’s almost like a guarantee, like you’re able to control things in wa ys that we wouldn’t normally expect you to be able to.  
+
+Well, two popular superstitions that are held by so me people in the United States are that if you walk under a ladder or if you see a  black cat, you will have bad luck. A “ladder” (ladder) is something you use to c limb up to the top of something. It’s like a set of stairs, but it goes straight up.  You use a ladder, for example, to get to the top of your house to paint it. Some peop le believe if you walk underneath a ladder – that is, right under the ladd er as it is put up against the side of a house or building – you will have bad luc k.  
+
+Other people believe – more logically, I think – th at if you cross paths with a black cat, you will also have bad luck. “To cross ( cross) paths (paths)” with someone means to see someone by chance, without pla nning to meet them. Often we use this expression “to cross paths with” when you have a disagreement or an argument with that person. Here it’s used just to mean to accidentally or by chance see someone.  
+
+So if you see a black cat, many people believe you will have bad luck. Now, of course, cats are bad luck in my opinion, and so thi s superstition sort of makes sense. (You should try to stay away from cats, is w hat I’m saying.) 
+
+Now Cesar says, “I don’t think so, but I’m not supe rstitious” – I don’t believe in these superstitions. “I don’t believe breaking a mi rror will bring me seven years of bad luck.” Cesar mentions another popular superstit ion, which is that if you break a mirror – something you use to see your reflection  in – you will not only have bad luck, you will have seven years of bad luck. I’ m not sure where that superstition came from or why people believe it wil l bring seven years versus, I don’t know, 20 years, but that’s the superstition.  
+
+Olga says, “Say what you will, but it doesn’t hurt to take some precautions.” The phrase “say what you will” is used sometimes when y ou are disagreeing with what another person has said and you want to give y our opinion again. You want to restate your opinion. Olga knows that Cesar disa grees with her, but she is going to continue with her belief and continue expr essing this opinion.   
+
+ She says, “It doesn’t hurt to take some precautions .” A “precaution” (precaution) is something you do to prevent getting hurt or harm ed in the future. A precaution against having your house robbed is to lock the doo rs at night. That’s a precaution. It’s a “safety measure,” we might also call it – something you do to keep safe, to prevent yourself from being harmed. C esar is doubtful of the advice Olga is giving him. He says, “I don’t know.”  
+
+But Olga continues on. She says, “You can borrow my  rabbit’s foot and my four- leaf clover. I’ll go home to get you a horseshoe so  you can hang it upside down over your front door.” Olga now mentions three supe rstitions that are related to good luck; one of them is to have a “rabbit’s (rabb it’s) foot (foot).” A rabbit’s foot is just what it sounds like. It’s the cut-off foot of a rabbit. Some people believe that this will give you good luck.  
+
+I actually had a rabbit’s foot when I was younger. I’m not sure where I got it. I didn’t kill the rabbit to get it, I can tell you th at much. Someone did, though. A “four-leaf clover” (clover) is a small plant that h as four leaves instead of three. There is a belief that if you have one that has fou r leaves, you will have good luck.  
+
+A “horseshoe” (horseshoe) is just what it sounds li ke. It’s a shoe, a piece of metal that is put on the foot – or more accurately, the “ hoof” (hoof) – of a horse. Horseshoes are used on the feet, or hooves, of hors es to protect the horses’ hooves, but some people believe that if you take a horseshoe and you hang it on your wall upside down so that it looks like a “U,” you will have good luck. 
+
+Cesar says, “I really doubt any of that is going to  do me any good.” Olga says, “You know what tomorrow is don’t you?” Cesar says, “The thirteenth?” meaning the date tomorrow is the thirteenth of the month. O lga says, “Friday the thirteenth.” There’s another common superstition th at when the thirteenth is a Friday, that day is particularly bad luck. There we re also a series of movies made, horror movies, called Friday the Thirteenth . Those were particularly bad movies in addition, perhaps, to being bad luck.  
+
+Olga says, “Do you really want to take your chances ?” The expression “to take your chances” means to take a risk, to do something  that may harm you or hurt you. Cesar says, “I guess not. Do you really think these good luck charms will help?” A “good luck charm” (charm) is some small it em that according to superstition is supposed to bring you good luck. Th e horseshoe, the rabbit’s foot – these are two examples of good luck charms.  
+
+Cesar is asking Olga if she really thinks that thes e good luck charms will help Cesar with his bad luck. Olga says, “We’ll know on the fourteenth, won’t we?” meaning since tomorrow is Friday the thirteenth, we ’ll know the next day – Saturday the fourteenth – if these good luck charms  helped you or not. My guess is they probably won’t. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Cesar: I can’t catch a break. Everything seems to b e going wrong these days. 
+
+Olga: Maybe your streak of bad luck is because you did something unlucky. 
+
+Cesar: What do you mean? 
+
+Olga: Have you walked under a ladder or crossed pat hs with a black cat lately? 
+
+Cesar: I don’t think so, but I’m not superstitious.  I don’t believe breaking a mirror will bring me seven years of bad luck. 
+
+Olga: Say what you will, but it doesn’t hurt to tak e some precautions, especially the way things have been going for you.  
+
+Cesar: I don’t know . . . 
+
+Olga: Here, you can borrow my rabbit’s foot and my four-leaf clover. I’ll go home to get you a horseshoe so you can hang it upside do wn over your front door. 
+
+Cesar: I really doubt any of that is going to do me  any good. 
+
+Olga: You know what tomorrow is, don’t you? 
+
+Cesar: The thirteenth? 
+
+Olga: Friday the thirteenth. Do you really want to take your chances? 
+
+Cesar: I guess not. Do you really think these good luck charms will help? 
+
+Olga: We’ll know on the fourteenth, won’t we? 
+
+[end of dialogue]  
+
+ You don’t need any good luck charms to improve your  English. You just need to listen to the wonderful dialogues by our scriptwrit er, Dr. Lucy Tse. Thank you, Lucy. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

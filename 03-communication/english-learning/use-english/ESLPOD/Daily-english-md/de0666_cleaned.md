@@ -1,0 +1,82 @@
+# Traveling to Less Popular Sites
+
+Welcome to English as a Second Language Podcast epi sode 666: Traveling to Less Popular Sites. 
+
+This is English as a Second Language Podcast episod e 666.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Learning Guide for this episode, an 8- to 10-page PDF file that will improv e your English – and bring happiness to everyone around you! 
+
+This episode is a dialogue between Vanessa and Just in.  It’s a travel episode that will be using vocabulary related to going to p laces that are not very popular for vacations.  Let’s get started. 
+
+[start of dialogue] 
+
+Vanessa:  Put away that guidebook.  I want our vaca tion to be exciting and unique, not cookie cutter.  Tourists all visit the same sites.  I want to explore and go to some places off the beaten path. 
+
+Justin:  That would be fine except we’ve never trav eled to Podville before and we don’t speak the language.  How are we going to make  our way around if we don’t plan out our trip? 
+
+Vanessa:  We’ll be fine.  Stop worrying.  We spend too much time planning. Let’s just fly by the seat of our pants.   
+
+Justin:  You really want to just go unprepared?  Th at’s just not sensible. Anything could happen. 
+
+Vanessa:  I’m not going to lose sleep over it.  We just need to meet some locals and they’ll be able to tell us about the hidden, se cluded, and offbeat sites.  Those are the ones I want to see. 
+
+Justin:  You can explore all you like, but I’m brin ging some insurance.   
+
+Vanessa:  What insurance?   
+
+Justin:  I’m bringing two guidebooks and this phone  number.  
+
+ Vanessa:  Phone number for what? 
+
+Justin:  The phone number for the American embassy.   That’s where I plan to go for help when you get lost off the beaten path! 
+
+[end of dialogue] 
+
+Vanessa begins our dialogue by saying to Justin, “P ut away that guidebook.” “Put away” means stop using it, put it down, put it  back into your bag.  A “guidebook” (one word) is a small book that describ es interesting things to do and places to visit when you are traveling.  So you  might buy a guidebook to Los Angeles; it would have hotels and restaurants, plac es where you can visit.  It’s often very useful to have a book like this when you  are traveling to tell you what you should see and where you should go.  Vanessa sa ys, “I want our vacation to be exciting and unique,” meaning different, unlike anything else, “not,” she says, “cookie cutter.”  “Cookie (cookie) cutter (cutter)”  is when everything is the same, when it isn’t original, when it is a copy of someth ing else.  Literally, a cookie cutter is a small piece of plastic or metal in a ce rtain shape, and when you are small sweets for dessert called “cookies” you often  make them in a certain shape, and to make sure that they all look the same , for example at Christmas time you might have a cookie cutter that looks like  Santa Claus, you use the cookie cutter to make sure all the cookies look exa ctly the same.  But we use it more generally as a term meaning unoriginal, just l ike everything or everyone else. 
+
+Vanessa, who’s very hard to please I think – very h ard to make happy, maybe Justin should be looking for someone else at this p oint!  Vanessa says, “Tourists all visit the same sites.”  A “site” (site) is a pl ace or a location that is visited, especially by a “tourist,” someone vacationing in a  certain area.  Notice it’s pronounced the same as “sight” (sight), which refer s to your ability to see. Vanessa says, “I want to explore,” meaning I want t o experience an area not by reading it in a book, but by going out and walking around, discovering on my own what is there.  She says she wants to go to some pl aces off the beaten path. This expression, “to be off the beaten (beaten) pat h (path),” is to go somewhere that is unusual or uncommon, somewhere that is not popular.  A “path” is the same as a trail; it’s a place where you walk.  A “b eaten path” would be one where a lot of people have gone before you.  So if you go  up into, say, the mountains, you may see a path where other people have walked b efore you.  “Unbeaten path” would be a path where people have not gone be fore you and therefore it is not common, not usual.  That’s what Vanessa wants; she wants excitement – just like all women, don’t you think?  
+
+ Justin says, “That would be fine (that would be oka y) except we’ve never traveled to Podville before (Podville is not a real place) a nd we don’t speak the language (we don’t speak the language they speak in Podville ).  How are we going to make our way around if we don’t plan out our trip?”   “To make your way around” means to be able to go somewhere that you are not f amiliar with perhaps, but not get lost, to be able to find out where you have to go in an unfamiliar place.  “To plan out” is a two-word phrasal verb meaning to hav e a plan for what you are going to do; have an idea about where you’re going to go first, what time you’re going to go, and so forth.  You have the details of  what you are going to do. “Plan” has a couple of different meanings, some of them are found in the Learning Guide. 
+
+So, Justin thinks they should plan out their trip.  Vanessa says, “We’ll be fine (we’ll be okay).  Stop worrying.  We spend too much  time planning (too much time thinking about what we want to do).  Let’s jus t fly by the seat of our pants.” “Let’s just” means why don’t we or I want to have u s do this.  What she wants them to do is to fly by the seat of their pants (pa nts).  Well, your “pants” are things that you wear that go on your legs, and the “seat of your pants” would be where you sit down, that part of your pants – your behind, your rear, what we might informally call your “butt” (butt).  However,  the expression “to fly by the seat of your pants” means to do things without planning,  to do things spontaneously. That is, you don’t worry about it, you just go and you do something because you feel like doing it; there’s no planning involved.  You’re not, of course, actually flying up in an airplane; it’s just an expression, to do something without planning it. 
+
+Justin says, “You really want to just go unprepared ?  That’s just not sensible.” Something that is “sensible” is something that is r easonable, something that makes sense, that is logical.  Justin says, “Anythi ng could happen.”  Vanessa says, “I’m not going to lose sleep over it.”  “To l ose sleep over (something)” means to spend a lot of time worrying about it, bei ng very anxious about it. You’re so anxious, you’re so worried, you can’t eve n sleep because you keep thinking about it.  But Vanessa is not going to los e sleep over this thing or about this thing.  She says, “We just need to meet some l ocals and they’ll be able to tell us about the hidden, secluded, and offbeat sites.”  “Locals” (locals) are people who live permanently in a certain area.  If you com e to Los Angeles, I would be a local; I am someone who lives here.  You would be a  tourist or a vacationer; a traveler, we might say.   
+
+Vanessa wants to meet some locals so she can ask th em about hidden, secluded, offbeat sites.  Something that is “hidden ” is something that you cannot  
+
+see.  More generally, it’s something that is secret ; not a lot of people know about it.  “Secluded” (secluded) is very private and quie t, away from other people, a place that is not close to anyone else.  “Offbeat” (one word) means somewhat unusual, something that is interesting but not the normal kind of thing you might go see.  So that’s what Vanessa wants, the hidden, secluded, and offbeat sites. “Those are the ones I want to see.” 
+
+Justin says, “You can explore all you like (all you  want), but I’m bringing some insurance.”  “Insurance” is normally something you buy from a company in case you have an accident or something goes wrong.  You can have health insurance; if you get sick the insurance will pay for your med ical care.  Here, “insurance” is used more generally to mean something that will pro tect you from problems, something that will give you a guarantee in case so mething goes wrong that things will be okay.  Vanessa asks, “What insurance ?”  Justin says, “I’m bringing two guidebooks and this phone number.”  Vanessa say s, “Phone number for what (which phone number)?”  Justin says, “The phon e number for the American embassy.”  An “embassy” (embassy) is the official p resence of another country in your country.  Usually the embassies are located in  the capital of the country, so in Washington, D.C. there is a Russian embassy.  Th at’s the building where the Russian representatives – the “diplomats,” we would  call them – are working and perhaps some of them living.  Embassies are usually  considered, in some ways, property of the other country and are protected by international law.  The U.S. embassy, or American embassy, would be the American  place in a country where the American diplomats and representatives ar e.  Justin says, “That’s where I plan to go for help when you get lost off t he beaten path!”  “To get lost” means to become confused and not know where you are , usually because you are somewhere that you are not used to – that you a re not familiar with.  Justin says he’s going to call the American embassy when V anessa gets lost off the beaten path, going somewhere that is not popular. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Vanessa:  Put away that guidebook.  I want our vaca tion to be exciting and unique, not cookie cutter.  Tourists all visit the same sites.  I want to explore and go to some places off the beaten path. 
+
+Justin:  That would be fine except we’ve never trav eled to Podville before and we don’t speak the language.  How are we going to make  our way around if we don’t plan out our trip? 
+
+Vanessa:  We’ll be fine.  Stop worrying.  We spend too much time planning. Let’s just fly by the seat of our pants.   
+
+Justin:  You really want to just go unprepared?  Th at’s just not sensible. Anything could happen. 
+
+Vanessa:  I’m not going to lose sleep over it.  We just need to meet some locals and they’ll be able to tell us about the hidden, se cluded, and offbeat sites.  Those are the ones I want to see. 
+
+Justin:  You can explore all you like, but I’m brin ging some insurance.   
+
+Vanessa:  What insurance?   
+
+Justin:  I’m bringing two guidebooks and this phone  number. 
+
+Vanessa:  Phone number for what? 
+
+Justin:  The phone number for the American embassy.   That’s where I plan to go for help when you get lost off the beaten path! 
+
+[end of dialogue] 
+
+There’s nothing cookie cutter about the scripts for  our podcast, that’s because they’re written by someone who never flies by the s eat of her pants, Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

@@ -1,0 +1,92 @@
+# Living With Insects and Spiders
+
+Welcome to English as a Second Language Podcast num ber 953 – Living with Insects and Spiders.  
+
+This is English as a Second Language Podcast episod e 953. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Our website is ESLPod.com. Go there. Become a membe r of ESL Podcast. Download a Learning Guide for this episode.  
+
+This episode is a dialogue about insects and spider s – sounds kind of scary. Let’s get started.  
+
+[start of dialogue] 
+
+Judith: Ahh! Get it off me! 
+
+Murad: It’s just a tiny spider. Don’t freak out. 
+
+Judith: I hate spiders. What is this place you’ve b rought me to? 
+
+Murad: It’s one of the most beautiful spots in the world, and we’ll be staying here tonight. 
+
+Judith: You mean we’ll be roughing it in this cabin ? Is that a cockroach that just ran across the floor? 
+
+Murad: Maybe. In this place, you’ll see some of the  most amazing things. It’s the next best thing to sleeping in the open. 
+
+Judith: Great. Can you close that window? There are  flies and moths everywhere, and I think those were bees and wasps j ust outside the door.  
+
+Murad: They won’t bother you if you don’t bother th em. Listen to that! We can fall asleep to the sound of crickets. 
+
+Judith: Ouch! I think I’ve just been bitten by a gi ant mosquito.  
+
+Murad: You’re imagining things. Look at those butte rflies just outside the window. Don’t you think they’re beautiful?  
+
+ Judith: Do you know what would look beautiful to me  right now? A really big mosquito net! 
+
+[end of dialogue] 
+
+Our dialogue begins with Judith saying, or rather s creaming, “Ahh! Get it off me!” She is telling Murad to remove something from her, probably something that has started to crawl on her – that is, has started to m ove across her body or her clothing. Murad says, “It's just a tiny spider.” A “spider” (spider) is a kind of animal called an “arachnid” (arachnid). It's a small anima l that has eight legs. It's a little difficult to describe a spider. If you’ve seen the movie Spiderman , then you know what a spider is.  
+
+Murad says this animal is just a tiny, or small, sp ider. He tells Judith, “Don't freak out.” The verb “to freak (freak) out” is a phrasal verb meaning to lose control of your words and actions, usually because you're very  frightened or possibly angry. Judith says, “I hate spiders. What is this place yo u’ve brought me to?” She's asking Murad where are they that they would have th ese spiders. Murad says, “It's one of the most beautiful spots,” or places, “in the world, and we’ll be staying here tonight.”  
+
+Judith says, “You mean will be roughing it in this cabin?” “To rough (rough) it” means to live, usually for short amount of time, un der more difficult circumstances, often away from a house or a buildin g – to live outside, often without electricity, for example, or Wi-Fi. That wo uld be “to rough it.” “To rough it” is often used when describing people who go camping  – who go out into the forest or out into the desert or out into a park, a nd they sleep on the ground outside, and they make their food outside, and so f orth. That's what I've been told. I'm not really much of a camper. 
+
+Judith and Murad are not camping, exactly. They're staying in a “cabin” (cabin). A “cabin” is a small building, usually just one room.  It's like a very small house in the forest, or in a park, or by a lake. Usually, ca bins are found out away from the city, away from the large towns, and are often used  for vacation purposes. Some cabins are as nice as some small houses. Judith doe sn't think this cabin is very nice. That's why she uses the expression “roughing it.”  
+
+She then asks Murad, “Is that a cockroach that just  ran across the floor?” A “cockroach” (cockroach) is a large brown insect, a small little animal that is often associated with places that are dirty, that aren’t clean. Murad says, “Maybe,” meaning maybe that was a cockroach. He says, “In th is place, you'll see some of  
+
+the most amazing things. It's the next best thing t o sleeping in the open.” The expression “next best thing to” means almost as goo d as, nearly as good as. Murad says, “It's nearly as good as sleeping in the  open.” “In the open” here means outdoors – outside of a house or building.  
+
+Judith says, “Great,” but she of course is not real ly happy. Normally, when someone says, “Great,” they're happy. But when you say it the way Judith says it, you're being sarcastic. You’re making a joke. You m ean the opposite: it's not great. Judith says, “Can you close that window? The re are flies and moths everywhere.” A “fly” (fly) is a small, typically bl ack insect that flies. It is often attracted to garbage, at least in a city. A “moth” (moth) is also a flying insect. It's usually white, gray, or brown and has very large wi ngs. It is known to be attracted to light. At nighttime, for example, if you live in  an area that has moths, you may see them flying close to a lightbulb. They’re attra cted to the light at night, at least the ones that are near my house.  
+
+Judith says, “I think those were bees and wasps jus t outside the door.” A “bee” (bee) is also a flying insect. It has yellow and bl ack stripes typically, and is somewhat dangerous, or can be dangerous. A “bee” ca n actually – not exactly bite you, but the verb we would use is “sting” (sti ng) you. Not Sting, the British singer. “Sting” here, as a verb, means to put a sma ll part of the bee’s body into your skin.  
+
+A “wasp” (wasp) is a long, thin flying insect that also has yellow and black stripes. It tends to build large, what we would call “nests”  (nests). We sometimes get wasp nests in our house where I live. You have to b uy something at the store in order to get rid of them – to spray the wasp nest t o kill and get rid of the wasps. Murad says, “They” – meaning the flies, moths, bees , and wasps – “won't bother you if you don't bother them.”  
+
+Then he says, “Listen to that! We can fall asleep t o the sound of crickets.” A “cricket” (cricket) is an insect that is similar to  a grasshopper. It makes a very distinctive sound, usually around the time the sun is setting. I remember growing up in Minnesota, when we would go up away from the city. You could always hear, in the summertime, crickets at night, or at t he time that the sun was setting. “Cricket” is also the word we use to describe the g ame that is popular in Great Britain and in other countries that at one time wer e associated with Great Britain.  
+
+Judith says “Ouch!” “Ouch” is the word we use when something hurts us suddenly. She says, “I think I've just been bitten by a giant mosquito.” “To be bitten” means the mosquito has done something to pu ncture, or to make a hole in, your skin. A “mosquito” (mosquito) is another s mall flying insect that is  
+
+associated usually with wet areas and is often very  active when the sun is rising – when the sun is coming up – and when the sun is g oing down. The mosquito bites you and apparently feeds on your blood like a  vampire, except vampires aren’t real, even though they're very popular on te levision and in the movies. Some people say my neighbor is a vampire, but I don 't think so.  
+
+Judith is worried about a mosquito biting her, but Murad says, “You're imagining things” – you’re thinking things are true that aren 't really true. He says, “Look at those butterflies just outside the window. Don't yo u think they’re beautiful?” A “butterfly” (butterfly) is a flying insect that usu ally has very colorful wings. “Butterflies” feed off of flowers, as do other inse cts. Judith says, “Do you know what would look beautiful to me right now? A really  big mosquito net!” A “mosquito net” (net) is something that you put over  a door or a window or a bed that keeps the insects away from people, especially  when they're sleeping. 
+
+Now let's listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Judith: Ahh! Get it off me! 
+
+Murad: It’s just a tiny spider. Don’t freak out. 
+
+Judith: I hate spiders. What is this place you’ve b rought me to? 
+
+Murad: It’s one of the most beautiful spots in the world, and we’ll be staying here tonight. 
+
+Judith: You mean we’ll be roughing it in this cabin ? Is that a cockroach that just ran across the floor? 
+
+Murad: Maybe. In this place, you’ll see some of the  most amazing things. It’s the next best thing to sleeping in the open. 
+
+Judith: Great. Can you close that window? There are  flies and moths everywhere, and I think those were bees and wasps j ust outside the door.  
+
+Murad: They won’t bother you if you don’t bother th em. Listen to that! We can fall asleep to the sound of crickets. 
+
+Judith: Ouch! I think I’ve just been bitten by a gi ant mosquito.  
+
+Murad: You’re imagining things. Look at those butte rflies just outside the window. Don’t you think they’re beautiful? 
+
+Judith: Do you know what would look beautiful to me  right now? A really big mosquito net! 
+
+[end of dialogue] 
+
+The next best thing to having your own personal Eng lish teacher is to listen to ESL Podcast and to the scripts written by our wonde rful scriptwriter, Dr. Lucy Tse. 
+

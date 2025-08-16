@@ -1,0 +1,118 @@
+# Major Historical Periods
+
+Welcome to English as a Second Language Podcast num ber 1,139 – Major Historical Periods.  
+
+This is English as a Second Language Podcast episod e 1,139. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Take a look at our Special Courses in Business and Daily English as well as our ESL Podcast Blog. You can like us on Facebook at fa cebook.com/eslpod and follow us on Twitter at @eslpod.  
+
+This episode is a dialogue between Livy and Nichola s about the vocabulary we use in English to describe important periods or tim es in history. Let’s get started.  
+
+[start of dialogue] 
+
+Livy: Tell me again why we’re here on a Saturday af ternoon. 
+
+Nicholas: You’re going to love this museum. It has artifacts and exhibits from all the major periods in history, from prehistoric days  to the present. 
+
+Livy: Hmm, fascinating. 
+
+Nicholas: It is, isn’t it? We follow the timeline o f human history from one room to the next. See? This room is devoted to ancient hist ory and ancient civilizations. 
+
+Livy: Is there a gift shop? 
+
+Nicholas: Sure, there’s one on the way out, but let  me show you a few things in this room. It’s all about the Middle Ages. Check th is out. Doesn’t it blow your mind? 
+
+Livy: Yeah, wow, great. Actually, it’s all kind of dull. Isn’t there something more exciting to see? 
+
+Nicholas: You want excitement? Then let’s skip ahea d to the rooms on the Renaissance. Look at this! 
+
+Livy: This is all great, but I’ve seen enough. Let’ s keep going. 
+
+Nicholas: We’re rushing past the best exhibits, but  if you want to keep going, I guess we can do that. These next rooms are devoted to more recent history, the Industrial Revolution and pre- and post-World War y ears.  
+
+Livy: Is there anything else? 
+
+Nicholas: You mean you’re done looking at over 3,00 0 years of historical exhibits? This is one of the best museums in the wo rld. I could spend all weekend here. 
+
+Livy: That’s because you’re a history buff. Hey, th at room is about the Information Age. Do you think I can check my email in there? 
+
+Nicholas: [sigh] 
+
+[end of dialogue] 
+
+Our dialogue begins with Livy asking Nicholas a que stion – actually, it’s what we would call a command: Livy says, “Tell me again why  we’re here on a Saturday afternoon.” I should point out here that “Livy” is sometimes used as a short form of the girl’s name “Olivia,” although it would norm ally not be spelled this way. For those of you who know about Roman history, you’ll k now that there was a Roman historian by the name of “Livy.” But our Livy  is a woman, and she asks Nicholas to explain why, on a Saturday afternoon, t hey are at a museum.  
+
+Livy, it appears, would rather be somewhere else. N icholas says, “You’re going to love this museum.” A “museum” is a building that  teaches about art or historical objects, things of importance. Nicholas says, “It has artifacts and exhibits from all the major periods in history, fro m prehistoric days to the present.” An “artifact” (artifact) is an object tha t has been made or used by a human being, a person, usually many years ago.  
+
+An “exhibit” (exhibit) is a display of related obje cts in a museum. Art museums, for example, will often have exhibits of one artist , where they will bring paintings or sculptures from that artist from different museu ms altogether. You could have a Picasso exhibit, or a Turner exhibit, or a Jackso n Pollock exhibit. The museum that Livy and Nicholas are at appears to be a museu m of history. It has exhibits from all the major periods or times in history, fro m prehistoric days to the present.  
+
+“Prehistoric” (prehistoric) means relating to perio ds of time before humans knew how to write, or before a given civilization develo ped a writing system. The prefix “pre” means “before.” So, “prehistory” is before hu man beings were writing things  
+
+down, in effect. Livy doesn’t seem too interested. She says, “Hmm, fascinating.” Notice, even though she says “fascinating,” it’s cl ear that she doesn’t find it fascinating or interesting at all. But Nicholas doe sn’t seem to realize that Livy isn’t too excited. He says, “It is, isn’t it?”  
+
+He continues, “We follow the timeline of human hist ory from one room to the next.” A “timeline” (timeline) – one word – is the order in which events occurred. Usually, a timeline is literally a line on a piece of paper, or perhaps on a wall, that shows different years and the events that happened during those years, or whatever the period of time is. Nicholas says, “Thi s room is devoted to ancient history and ancient civilizations.” To say somethin g is “devoted (devoted) to” something means it is intended for a particular top ic. It is about a certain thing.  
+
+Now, we can use “devoted to” also in the sense of s omeone who is in love with or is very loyal to a single person or group of peo ple. You may remember the movie Grease , from the 1970s, where Olivia Newton John sang the  song “Hopelessly Devoted to You.” [singing] “Hopelessly devoted to you.” Of course, she was hopelessly devoted to the character played by John Travolta. But we’re not talking about Olivia Newton John or John Travol ta, we’re talking about a museum where there is a room devoted to ancient his tory.  
+
+In this sentence, it means that the entire room is all about this one topic. The topic is “ancient (ancient) history.” “Ancient hist ory,” at least in the Western world and Western civilization, means the period of time usually from the very earliest recorded history up to about, say, 300 or 400 A.D. “A.D.” refers to the years roughly after the birth of Jesus Christ, the founde r of the Christian religion. Years before that time are referred to in English as “B.C .,” meaning “Before Christ” – before Jesus Christ was born.  
+
+Now, more recently, historians have changed that te rminology a little. They refer to what we used to call “A.D.” as “C.E.” – meaning “Common Era” – and “B.C.” has become “B.C.E.” – “Before the Common Era.” You will see that, however, mostly in history books, in recent history books. I n most places, people will still use the A.D./B.C. designations. The word “civilizat ion” refers to an organized society in a certain place during a certain period.  We could talk about “Mayan civilization” – the people who lived on the Yucatan  Peninsula and in Central America during a certain period of time.  
+
+Livy isn’t interested in any of this. She says, “Is  there a gift shop?” Many museums have a little store where you can buy thing s, often photographs or other little pieces of artwork related to the museu m. Nicholas says, “Sure,” meaning yes, “there is one on the way out,” meaning  as we exit the museum.  
+
+“But,” he says, “let me show you a few things in th is room. It’s all about the Middle Ages.”  
+
+The “Middle Ages” is a period in European history f rom approximately 1100 to 1450 A.D., although traditionally the Middle Ages r efers to a much longer period, I think. When I was going to school, we would speak  of the time between the fall of the Roman Empire in the late 400s A.D. up throug h the fall of Constantinople in the 1450s. It depends on which book you read in terms of the definition of Middle Ages.  
+
+Nicholas says, “Check this out,” meaning look at th is, pay attention to this. “Doesn’t it blow your mind?” The expression “to blo w (blow) your mind (mind)” is one that we use to mean very interesting, very exci ting, very impressive. It’s an informal expression, “to blow your mind,” perhaps a  little dated. I’m not sure people use it as much anymore, but you will still h ear it. Livy says, “Yeah, wow, great.” Again, she’s not really interested. She say s, “Actually it’s all kind of dull” (dull). “Dull” means boring, uninteresting. “Isn’t there something more exciting to see?” she asks.  
+
+Nicholas says, “You want excitement? Then let’s ski p ahead” – let’s move ahead – “to the rooms on the Renaissance. Look at this!” The “Renaissance” (Renaissance) – and the word is capitalized, just a s are the words “Middle” and “Ages” – is a period of time in European history an d culture that usually is dated between the 1300s and the 1600s A.D. 
+
+Nicholas thinks it’s exciting but Livy doesn’t. She  says, “This is all great, but I’ve seen enough. Let’s keep going.” Nicholas objects. H e says, “We’re rushing past the best exhibits.” “To rush past” means to move qu ickly by something without taking time to look at it closely. But Nicholas und erstands that his wife or girlfriend, we’re not sure what Livy is, is kind of  bored. So he says, “I guess we can do that” – I guess we can rush past these thing s.  
+
+“These next rooms are devoted to more recent histor y, the Industrial Revolution and pre- and post-World War years.” The “Industrial  Revolution,” again capitalized, is a period of time when science and t echnology improved very quickly, usually dated from the late 1700s to, say,  the middle of the nineteenth century. Nicholas also refers to “pre- and post-Wor ld War years,” although it doesn’t say if he means World War I or World War II . But in either case, “pre” means “before” and “post” (post) means “after.” 
+
+Livy says, “Is there anything else?” Nicholas respo nds, “You mean you’re done looking at over 3,000 years of historical exhibits?  This is one of the best  
+
+museums in the world. I could spend all weekend her e.” Livy says, “That’s because you’re a history buff.” A “buff” (buff) is a fan of some hobby or some topic, someone who really enjoys a certain topic an d learning all about it. Livy describes Nicholas as a “history buff” – someone wh o is interested and likes to learn about history.  
+
+Then Livy says, “Hey, that room is about the Inform ation Age. Do you think I can check my email in there?” The “Information Age” is a term that would describe our current period of history, when there has been a rapid growth and change in the economy based on computers and easy access to i nformation. We live, in other words, in the Information Age. Livy, however,  interprets this to mean a place where she can check her email on a computer, something that is probably not possible in the museum’s exhibit on the informa tion age.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Livy: Tell me again why we’re here on a Saturday af ternoon. 
+
+Nicholas: You’re going to love this museum. It has artifacts and exhibits from all the major periods in history, from prehistoric days  to the present. 
+
+Livy: Hmm, fascinating. 
+
+Nicholas: It is, isn’t it? We follow the timeline o f human history from one room to the next. See? This room is devoted to ancient hist ory and ancient civilizations. 
+
+Livy: Is there a gift shop? 
+
+Nicholas: Sure, there’s one on the way out, but let  me show you a few things in this room. It’s all about the Middle Ages. Check th is out. Doesn’t it blow your mind? 
+
+Livy: Yeah, wow, great. Actually, it’s all kind of dull. Isn’t there something more exciting to see? 
+
+Nicholas: You want excitement? Then let’s skip ahea d to the rooms on the Renaissance. Look at this! 
+
+Livy: This is all great, but I’ve seen enough. Let’ s keep going. 
+
+ Nicholas: We’re rushing past the best exhibits, but  if you want to keep going, I guess we can do that. These next rooms are devoted to more recent history, the Industrial Revolution and pre- and post-World War y ears.  
+
+Livy: Is there anything else? 
+
+Nicholas: You mean you’re done looking at over 3,00 0 years of historical exhibits? This is one of the best museums in the wo rld. I could spend all weekend here. 
+
+Livy: That’s because you’re a history buff. Hey, th at room is about the Information Age. Do you think I can check my email in there? 
+
+Nicholas: [sigh] 
+
+[end of dialogue] 
+
+If in the future there’s ever a museum of podcastin g, I’m sure that there will be an exhibit about our very own scriptwriter, the wonder ful Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

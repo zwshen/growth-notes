@@ -1,0 +1,84 @@
+# Fearing Bioterrorism
+
+Welcome to English as a Second Language Podcast num ber 930 – Fearing Bioterrorism. 
+
+This is English as a Second Language Podcast episod e 930. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Our website is ESLPod.com. Go there and become a me mber of ESL Podcast today. This episode is a dialogue between Natalie a nd Anton about the unhappy topic of bioterrorism. It sounds like a lot of fun.  Let's get started.  
+
+[start of dialogue] 
+
+Natalie: Why are you wearing that gas mask? 
+
+Anton: I’m getting used to it. If we ever have a bi oterrorist attack, I’ll be ready. Want to try one on? 
+
+Natalie: No, thanks. If we get involved in biologic al warfare, I think we’ll have some warning. 
+
+Anton: That’s what you think. Airborne toxins, bact eria, or viruses could be in the air right now, and you and I wouldn’t be able to de tect it. It could infect you in the blink of an eye. 
+
+Natalie: Then I’ll be sick or dead anyway. So who c ares? 
+
+Anton: I said we  wouldn’t be able to detect it, but there are agenc ies with early detection equipment that could. As soon as they sou nd the alarm, we can put on our gas masks and take other precautions.  
+
+Natalie: If we’re really attacked by bioterrorists,  what good is early detection? It’s not like you can really escape the toxins.  
+
+Anton: Don’t pooh-pooh these preparations. They cou ld be the difference between life and death when the time comes. 
+
+Natalie: Right. In the meantime, I think I’ll just get dressed – without the stylish gas mask. 
+
+[end of dialogue] 
+
+Today we talk about a popular topic in the history of the world: war. We begin our dialogue with Natalie saying, or asking Anton, “Why  are you wearing that gas mask?” A “mask” (mask) is something, usually, that goes over your face. A “gas mask” is a special kind of mask that is supposed to  help protect you from dangerous air that you might breathe. Anton says, “ I'm getting used to it.” I'm getting used to the gas mask.  
+
+He says, “If we ever have a bioterrorist attack, I' ll be ready.” “Bioterrorist” (bioterrorist) is an adjective referring to someone  using biological weapons – that is, weapons that are made to usually make other peo ple sick, physically sick. The term “bioterrorism” refers to political groups or m ilitary groups that use these weapons in order to frighten other people in order to get them to change their political policy.  
+
+Of course, terrorism is something that we live with  in the modern world. “Terrorism” is basically an attempt by a group of p eople to change the policies or politics of another group of people, or another cou ntry, by using violence. Anton is worried about a “bioterrorist attack.” An “attac k” is when you try to hurt or kill another person. A “bioterrorist attack” would be an  attack that involved biological weapons.  
+
+Anton asked Natalie if she wants to “try one on” – that is, if she wants to try the gas mask on, if she wants to put it on her face. Na talie says, “No, thanks. If we get involved in biological warfare, I think we'll h ave some warning.” “Warfare” (warfare) just refers to actions in a war. Natalie is saying that if we are involved in biological warfare, we’ll have some warning. “Warni ng” (warning) is advance notification that something is going to happen. Whe n someone tells you in advance about something bad that is going to happen  in the near future – that's the definition of a “warning.”  
+
+Anton says, “That's what you think.” That expressio n, “that's what you think,” is used to show when you don't agree with what the oth er person has just said. For example, someone says to you, “If you don't study, you will fail your examination” – you will not pass your test. And you say, “Well, that's what you think. I never study for exams, and I always pass them.” That neve r happened to me, but you could imagine someone saying that. “That's what you  think” is used when you disagree with what the person just said. Anton disa grees with Natalie. He does not think they will get any warning if they are inv olved in a biological war.  
+
+Anton then gives some examples of biological weapon s, things that terrorists or others could use on people in order to make them si ck or kill them. He says, “Airborne toxins, bacteria, or viruses could be in the air right now, and you and I wouldn't be able to detect it.” Let's start with “a irborne toxins.” A “toxin” (toxin) is something that is poisonous, something that will hu rt living creatures – living beings like human beings. “Airborne” (airborne) mea ns something travels through the air. “Airborne toxins” would be toxins that tra vel through the air and that, of course, you could breathe in accidentally.  
+
+“Bacteria” is the plural of “bacterium,” which is a  single-celled organism – a very small living thing that can make you sick. A “virus ” (virus) is also very small thing that can reproduce itself. It can get bigger inside  of another living thing such as a plant or an animal. A virus can also make you sick.  Anton says, “Airborne toxins, bacteria, or viruses could be in the air right now,  and you and I wouldn't be able to detect it.” “To detect” (detect) means to notice , to identify, to find something.  
+
+Anton says that these things “could infect you in t he blink of an eye.” “To infect” (infect) means to make someone sick, usually by giv ing them some sort of bacteria or virus. Anton says that these terrible b iological weapons “could infect you in the blink of an eye.” That expression, “in t he blink (blink) of an eye,” means very quickly, very rapidly. To blink your eye  is to move your eyelids up and down across your eyes. That, of course, is some thing that happens very quickly. That's why we have this expression, “in th e blink of an eye.” It means something happens very quickly, very rapidly.  
+
+Natalie, however, is not worried by what Anton says . She says that if something infects me, I'll be dead or sick anyway, “So who ca res.” In other words, there's nothing you can do about it. Anton said, “I said we  wouldn't be able to detect it, but there are agencies with early detection equipme nt that could.” What Anton is saying is that even though you and I cannot detect these poisonous toxins in the air, there are groups – government agencies, govern ment organizations – that have special equipment that could detect these pois onous bioterrorist weapons.  
+
+Anton says, “As soon as they” – these agencies – “s ound the alarm, we can put on our gas masks and take other precautions.” “To s ound the alarm” means to let other people know about some problem or some danger . To let other people know about some dangerous situation – that's the me aning of “to sound the alarm.” Anton says when the agencies “sound the ala rm” – when they let people know – “we can put on our gas masks and take other precautions.” A “precaution” (precaution) is an action that you tak e to try to prevent something bad from happening to you, to try to protect yourse lf.  
+
+Natalie says, “If we’re really attacked by bioterro rists” – people who use biological weapons – “what good is early detection? ” Natalie is saying here it won't matter if someone is able to detect or figure  out that we are being attacked. She says, “It's not like you can really escape the toxins.” Natalie is saying that we can't get away from these biological weapons. We ca n't escape the toxins. “To escape” means, usually, to run away from something.  Here, it means not to be affected by something. 
+
+Anton says, “Don’t pooh-pooh these preparations.” T hat expression, “pooh- pooh,” is a weird expression. “To pooh-pooh” someth ing means to indicate that something is not important or even that it's a litt le silly. We also have another verb, “to belittle” (belittle). “To belittle” an id ea is to pooh-pooh something, to pooh-pooh an idea. Anton is saying, “Don't pooh-poo h these preparations.” You should take them seriously, is what Anton is saying . “They could be the difference between life and death.”  
+
+When we say something is “the difference between li fe and death,” or “it's a matter of life and death,” we mean that it's so imp ortant that you could actually die if you don't pay attention to it or if things d on't turn out the way you'd like. Anton is saying that being able to have early detec tion could save our lives, and therefore, it would be the difference between life and death. I should mention here, also, that we say “life and death,” but the o riginal expression back in the early 19th century was “life or death.” However, in  the last hundred years or so, people use both “a matter of life or death” and “a matter of life and death.” You can use either one.  
+
+Natalie says, “Right.” She says this, however, in a  way that indicates she doesn't really believe Anton. She says, “Right. In the mean time, I think I'll just get dressed without the stylish gas mask.” “In the mean time” means until this happens, until there is a biological attack. “I thi nk I'll just get dressed without the stylish gas mask” – “stylish” (stylish) means fashi onable. It is used to describe clothing or things you wear that make you look good , that everybody else thinks looks good. Natalie is making a joke here. Gas mask s, of course, would never be considered stylish. They wouldn't be considered thi ngs that would make you look better. That, of course, is not their function. 
+
+Now let's listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Natalie: Why are you wearing that gas mask? 
+
+Anton: I’m getting used to it. If we ever have a bi oterrorist attack, I’ll be ready. Want to try one on? 
+
+Natalie: No, thanks. If we get involved in biologic al warfare, I think we’ll have some warning. 
+
+Anton: That’s what you think. Airborne toxins, bact eria, or viruses could be in the air right now, and you and I wouldn’t be able to de tect it. It could infect you in the blink of an eye. 
+
+Natalie: Then I’ll be sick or dead anyway. So who c ares? 
+
+Anton: I said we  wouldn’t be able to detect it, but there are agenc ies with early detection equipment that could. As soon as they sou nd the alarm, we can put on our gas masks and take other precautions.  
+
+Natalie: If we’re really attacked by bioterrorists,  what good is early detection? It’s not like you can really escape the toxins.  
+
+Anton: Don’t pooh-pooh these preparations. They cou ld be the difference between life and death when the time comes. 
+
+Natalie: Right. In the meantime, I think I’ll just get dressed – without the stylish gas mask. 
+
+[end of dialogue] 
+
+I thank our scriptwriter, the always stylish Dr. Lu cy Tse, for today's wonderful – if somewhat depressing – script.  
+

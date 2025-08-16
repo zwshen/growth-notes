@@ -1,0 +1,98 @@
+# Being Vague and Unfocused
+
+Welcome to English as a Second Language Podcast num ber 999 – Being Vague and Unfocused.  
+
+Going to party like it’s episode 999. 
+
+Oh, hi. Welcome to English as a Second Language Pod cast episode 999. I’m your host, Dr. Jeff McQuillan, coming to you from t he Center for Educational Development in beautiful Los Angeles, California.  
+
+I’m happy today. This is episode 999. You can visit  our website at ESLPod.com. On this episode, we’re going to listen to a dialogu e between Thierry and Bonnie about being vague and unfocused. Let’s get started.  
+
+[start of dialogue] 
+
+Thierry: I’m pumped and ready to help paint the com munity center this weekend. What time are we supposed to get there in the morni ng? 
+
+Bonnie: I’m not sure. Sophia was a little vague abo ut that. She told people to show up when they can make it. 
+
+Thierry: That doesn’t sound like an auspicious star t. How many people are supposed to be there? 
+
+Bonnie: I’m a little fuzzy on that, too. Sophia did n’t have a sign-up sheet. She just told people to show up if they could. 
+
+Thierry: I hate to say it, but Sophia is the worst person to be organizing this. Her heart is in the right place, but her head is in the  clouds. I don’t think I’ve ever met a more absentminded person. 
+
+Bonnie: I know what you mean. She always seems to b e daydreaming.  
+
+Thierry: I’m going to call her right now and pin he r down. She needs to attend to the nitty-gritty if this is project is going to get  done. 
+
+Bonnie: What if she’s as vague as she usually is? 
+
+Thierry: I’ll try speaking to her on a different fr equency: Earth to Sophia, Earth to Sophia . . .  
+
+ [end of dialogue] 
+
+Our dialogue begins with Thierry saying, “I’m pumpe d and ready to help paint the community center this weekend.” “To be pumped” (pum ped) means to be very excited, to be prepared and eager to do something, to do something with a lot of in enthusiasm. That’s what Thierry is saying here. He’s pumped to paint the community center this weekend. A “community center”  would be a building that is used by people in a certain neighborhood, a certain  part of town, for meetings and classes and things of that nature. Community ce nters are usually built by the local government.  
+
+He says, “What time are we supposed to get there in  the morning?” Bonnie says, “I’m not sure. Sophia was a little vague about that .” To be vague” (vague) means to be unclear, not very specific. Bonnie says that Sophia was “a little vague” – somewhat vague – about what time they should get to  the community center in the morning to paint. Bonnie says, “She told people  to show up when they can make it.” “To show up” is a two-word phrasal verb m eaning to appear, to come, to be present at some event or at some location.  
+
+Normally, you show up for work at eight o’clock in the morning or maybe nine o’clock in the morning. That’s one possible use of “to show up.” Often it’s used to mean to attend: “How many people showed up at the m eeting last night?” How many people attended? How many people went to the m eeting? Bonnie says that Sophia said that people should “show up when they c an make it.” “To make it” here means to be able to do something, especially t o be able to go somewhere for some purpose. I wanted to go to the movie last night, but it was raining and I didn’t make it. I didn’t actually go.  
+
+Thierry says, “That doesn’t sound like an auspiciou s start.” “Auspicious” (auspicious) means favorable, indicating that somet hing good will happen. It’s not a common word in English conversation, but you will  read it. You will sometimes also hear people say “auspicious” when talking abou t something that indicates that this event is going to go well, or in this cas e, that this event is not going to go well. Thierry says this doesn’t – this does not – s ound like an auspicious start.  
+
+“How many people are supposed to be there?” He asks . Bonnie says, “I’m a little fuzzy on that too.” “To be fuzzy” (fuzzy) here mean s to be vague, to be unclear, not to be very specific. Bonnie says, “Sophia didn’ t have a sign-up sheet.” The word “sheet” (sheet) here means a sheet of paper, a  piece of paper. A “sign-up sheet” is a piece of paper where you put your name down to indicate that you are going to participate in something or you are going to do something. A sign-up  
+
+sheet would be used for some event for which you wa nt to know who is coming or how many people are coming.  
+
+Thierry says, “I hate to say it, but Sophia is the worst person to be organizing this. Her heart is in the right place, but her head  is in the clouds.” There are two common expressions there. First, “to have your hear t (heart) in the right place.” “To have your heart in the right place” means that you have good intentions. You want to do the right thing. You want to do good.  
+
+“To have your head in the clouds” means that you’re  not a very practical person. You’re not a person who worries about the details, about the specifics, of something. In other words, you’re not a very good p erson to plan or organize something, because you’re not paying attention to t he specific details that you need to pay attention to. Sophia, then, wants to do  the right thing, but she’s not a very practical person. “Her heart is in the right p lace, but her head is in the clouds.”  
+
+Thierry says, “I don’t think I’ve ever met a more a bsentminded person.” “To be absentminded” (absentminded) – one word – means to be forgetful, to be unable to concentrate or focus. There’s an old expression,  “the absentminded professor,” referring to someone who teaches at the  university. We think of professors as being absentminded because although t hey are very smart – they have a lot of intelligence – they are often not ver y practical. So, we have this image of the absentminded professor.  
+
+Sophia is also considered to be absentminded by Thi erry. Bonnie says, “I know what you mean. She always seems to be daydreaming.”  “To daydream” is to imagine things that aren’t actually happening right  now, and may never happen, during the middle of the day. Normally, we think ab out dreaming as something that you do at night when you’re sleeping. “Daydrea ming” is to be imagining things happening right now, instead of, of course, actually doing your work.  
+
+If you are sitting at your desk in your office at w ork and daydreaming, your boss will not be very happy. You’re supposed to be worki ng, not dreaming about your vacation next year in Hawaii or in France or wherev er you take your vacation. You daydream about pleasant things, things that you  want to happen or that might happen.  
+
+Thierry says, “I’m going to call her right now and pin her down.” “To pin (pin) someone down” is a phrasal verb meaning to make the m give you a specific answer to your question, to make them give you the details of something, especially when that person has been vague about th e issue that you are asking  
+
+about. Thierry says “She,” meaning Sophia, “needs t o attend to the nitty-gritty if this project is going to get done.”  
+
+“To attend (attend) to” something means to pay atte ntion to something, to address something, to take care of something. Notic e that you use this expression with the preposition “to” at the end. It ’s always something you are attending to. This is different than the verb “to a ttend,” which can mean something similar as “to attend to,” but it could a lso mean “to show up” – to go to a certain place. Here in this sentence, it means to  take care of or pay attention to something.  
+
+Thierry wants Sophia “to attend to the nitty-gritty .” “Nitty (nitty) – gritty (gritty)” refers to the specific details. Sophia hasn’t atten ded to the nitty-gritty here. She hasn’t told people exactly what time they should be  there or found out even how many people are going. Bonnie says, “What if she’s as vague as she usually is?” What if, in other words, she doesn’t give Thierry t he details he’s looking for? Thierry says, “I’ll try speaking to her on a differ ent frequency: Earth to Sophia, Earth to Sophia . . .”  
+
+Thierry’s making a joke here. The word “frequency” is normally used to talk about measuring radio waves. Here, really it refers more to a particular channel for audio or radio communication. In order for two peop le to talk to each other on the radio, they both have to be on the same frequency, on the same channel – and that, in fact, is another common expression in Engl ish: “to be on the same frequency.”  
+
+We even say “to be on the same wavelength” when we are talking about someone who is thinking the same way we are, someon e to whom we can communicate our ideas easily. “Wavelength” is anoth er term you will hear people use in talking about radio communication. When Thie rry says he is going to try to speak to Sophia “on a different frequency,” he mean s he’s going to try to reach her – to communicate with her – because she doesn’t  seem to understand normal human communication.  
+
+Then he uses the expression “Earth to Sophia.” When  you say, “Earth to” someone, you are trying to get their attention, but  the idea is that this person isn’t paying attention. It’s almost as if this person wer e from another planet and you, being on planet Earth, are trying to communicate to  this person. Perhaps this expression became popular during the era of space e xploration in the twentieth century, I’m not sure. But it means that you are tr ying to communicate with someone who seems to not be listening or not be pay ing attention to what you are talking about.   
+
+ It’s a somewhat insulting way to talk to someone. I f you feel as though someone isn’t listening to you or isn’t paying attention to  you, you might use this expression as a joke to get the person to pay atten tion. We may also use this expression when someone has an idea that is complet ely unrealistic or very incorrect, very wrong. The person doesn’t seem to b e thinking rationally. Someone says, “I’m going to walk from New York City  to Paris.” Well, you might use the expression here, “Earth to Jeff, you can’t walk from New York to Paris” – at least not very easily.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Thierry: I’m pumped and ready to help paint the com munity center this weekend. What time are we supposed to get there in the morni ng? 
+
+Bonnie: I’m not sure. Sophia was a little vague abo ut that. She told people to show up when they can make it. 
+
+Thierry: That doesn’t sound like an auspicious star t. How many people are supposed to be there? 
+
+Bonnie: I’m a little fuzzy on that, too. Sophia did n’t have a sign-up sheet. She just told people to show up if they could. 
+
+Thierry: I hate to say it, but Sophia is the worst person to be organizing this. Her heart is in the right place, but her head is in the  clouds. I don’t think I’ve ever met a more absentminded person. 
+
+Bonnie: I know what you mean. She always seems to b e daydreaming.  
+
+Thierry: I’m going to call her right now and pin he r down. She needs to attend to the nitty-gritty if this is project is going to get  done. 
+
+Bonnie: What if she’s as vague as she usually is? 
+
+Thierry: I’ll try speaking to her on a different fr equency: Earth to Sophia, Earth to Sophia . . . 
+
+[end of dialogue] 
+
+ There’s nothing vague or unfocused about our wonder ful scripts here on ESL Podcast. That’s because they’re written by the wond erful Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

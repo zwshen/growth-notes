@@ -1,0 +1,92 @@
+# Government Reactions to Protests
+
+Welcome to English as a Second Language Podcast num ber 895: Government Reactions to Protests.  
+
+This is English to English as a Second Language Pod cast number 895. I'm your host, Dr. Jeff McQuillan, coming to you from the Ce nter for Educational Development in beautiful Los Angeles, California.  
+
+Our website is ESLPod.com. Go there and become a me mber of ESL Podcast today.  
+
+This episode is a dialogue between Tom and Marianne  about people who don't like what the government is doing and try to change  it. Let's get started. 
+
+[start of dialog] 
+
+Tom: Have you seen the news? 
+
+Marianne: No, what’s happening? 
+
+Tom: People in McQuillanland are rising up against the dictator and rallying against his government. 
+
+Marianne: Wow, this is big. I thought the dictator would order a media blackout and we wouldn’t hear any news out of McQuillanland.  
+
+Tom: There is a media blackout, but people are usin g social media to tell the world what’s going on. Hundreds of thousands of pro testers are clashing with police, and the government is having no success put ting down the protests. 
+
+Marianne: Has it been violent? 
+
+Tom: It’s early days yet, but the government has al ready used tear gas and fired into the crowd. It’s hard to say how many people ha ve been hurt. 
+
+Marianne: So this may be the end of tyranny in McQu illanland. 
+
+Tom: Don’t bet on it. The dictator has ruled with a n iron fist and won’t hesitate to use any means necessary to stay in power. 
+
+Marianne:" Well, the protesters have a fighting cha nce and I’m betting that they’ll topple the government and that ruthless tyrant! 
+
+[end of dialog] 
+
+Our dialogue begins with Tom saying to Marianne, “H ave you seen the news?” Marianne says, “No. What's happening?” Tom says, “P eople in McQuillanland are rising up against the dictator and rallying aga inst his government.” “To rise up against someone” means to fight against someone, us ually the government, or the people who are in charge. “To rise up against t he government” means to try to get rid of the government, the people running th e government, to fight against them, to start a revolution.  
+
+Tom says, “The people in McQuillanland,” which is n ormally a nice place, “are rising up against the dictator.” A “dictator” (dict ator) is a political leader who has complete power, who doesn't listen to other people,  who doesn't let people have a voice in his or her government, someone who contr ols everything and usually, someone who is not very nice to people who don't li ke him. If I started to give the names of some dictators, I would have to be here fo r a couple of days, perhaps, before I finish. So, we'll just describe what a dic tator is and you can think of your own examples.  
+
+Tom says “The people in McQuillanland are rising up  against the dictator and rallying against his government.” “To rally” (rally ) means, in this case, to get together in the same place, to gather, to assemble,  especially if you are doing it for some sort of political reason, usually associat ed with protesting some action of the government. “To protest” means to oppose, to  be against, to say, “We don't want that anymore.” Marianne says, “Wow. This  is big,” meaning this is important or this involves a lot of people. “I thou ght the dictator would order” – would demand – “a media blackout.” “Media” (media) refers to television, newspaper, radio – nowadays, the Internet, Twitter – all of these are part of media. A “media blackout” is when the government de cides to close the newspapers, to close the televisions, to shut down or turn off the Internet connections, to stop people from getting informatio n about what's going on in their own country.  
+
+Marianne says that she thought the dictator would o rder this media blackout. Tom says, “There is a media blackout, but people ar e using social media to tell the world what's going on.” I included Twitter in m y description of “media,” but more specifically, Twitter is part of what we would  call “social media.” This is the new forms of technology like Twitter or Facebook th at allow people to share information with their friends and people they know  on the Internet very quickly.   
+
+ Tom says, “Hundreds of thousands of protesters are clashing with police and the government is having no success putting down the pr otests.” Tom talks about hundreds of thousands of “protesters.” A “protester ” is a person who protests, a person who tries to fight against some wrong that h e sees the government doing or that society is engaged in. “To clash” (clash) m eans to fight against someone, to oppose someone, often with physical force, with violence. “Protesters are clashing with police,” Tom says, “and the governmen t is having no success putting down the protests.”  
+
+“They’re having no success,” that is, there are not  able to put down the protests. “To put down” here is a phrasal verb meaning to sto p, especially when a government stops people who are opposed to it from protesting, from speaking. If the government put down the protesters, they would be silencing them.  
+
+Unfortunately, at least for the dictator, the gover nment has not been successful in putting down the protests, in stopping them. Marian ne says, “Has it been violent?” Has there been a lot of physical force th at has hurt or perhaps even killed people? Tom says, “It’s too soon to know tha t yet.” He uses the expression “it's early days yet.” “It's early days yet” means it's too soon to know. It's perhaps more common in British English than it is in Americ an English, this expression, “it's early days yet.”  
+
+Tom says “The government has already used tear gas and fired into the crowd.” “Tear (tear) gas” is a special kind of gas that is meant to hurt your eyes and make it difficult for you to continue any physical activity. It's what police would use with a large group of people, a large crowd of people that they were trying to get rid of, that they were trying to get to go home . “To fire into the crowd” means to use a gun and shoot into a group of people. This  obviously can be rather dangerous.  
+
+Tom says, “It's hard to say how many people have be en hurt.” Marianne says, “So this may be the end of tyranny in McQuillanland .” “Tyranny” (tyranny) is a cruel, unfair, mean government, where you have a di ctator or someone who is in the government or a group of people in the governme nt who are hurting the people, who are not letting the people be free. Tom  says, “Don't bet on it.” Don't bet on this being the end of tyranny in McQuillanla nd. “To not bet on something” means don't count on it, don't depend on it. 
+
+Tom says, “The dictator has ruled with an iron fist  and won't hesitate to use any means necessary to stay in power.” “To rule with an  iron (iron) fist (fist)” means to control or govern a population very strictly, to no t let anyone do anything that you  
+
+don't want them to do, especially those who don't l ike you, those who oppose you. A dictator often rules with an iron fist. The fist is just your hand that is, we use the verb “clenched” – it is put together like a  ball. That's your fist. A “iron fist” would be a fist that of course, would be very hard and well, it would hurt you if you got punched by an iron fist. But the expression  is “to rule,” to govern, “with an iron fist.” 
+
+Tom says, the dictator won't hesitate, will be very  willing, to use any means necessary to stay in power. The expression “to use any means (means) necessary” means to do whatever needs to be done. I f you have to kill someone, you kill someone. If you have to hurt someone, you hurt them. You will use any means necessary. The dictator will use any means ne cessary to “stay in power,” meaning to keep his power, to keep his control of t he government.  
+
+Marianne says, “Well, the protesters have a fightin g chance and I'm betting that they'll topple the government and that ruthless tyr ant.” “To have a fighting chance” means that they have a possibility of winni ng. It's not impossible for them to win. Marianne is betting that the protester s will “topple” the government. “To topple” (topple) means to overthrow, to put an end to a government, or the rulers of that government. “Ruthless” (ruthless) de scribes someone who is willing to do anything. It's connected with the expression,  “to use any means necessary.” Someone who is ruthless will do whateve r it takes to get what he or she wants. The dialogue talks about a ruthless “tyr ant” (tyrant). “Tyrant” is related to the word “tyranny,” and here really just means a  dictator. 
+
+Now let’s listen to the dialogue this time at a nor mal speed. 
+
+[start of dialog] 
+
+Tom: Have you seen the news? 
+
+Marianne: No, what’s happening? 
+
+Tom: People in McQuillanland are rising up against the dictator and rallying against his government. 
+
+Marianne: Wow, this is big. I thought the dictator would order a media blackout and we wouldn’t hear any news out of McQuillanland.  
+
+Tom: There is a media blackout, but people are usin g social media to tell the world what’s going on. Hundreds of thousands of pro testers are clashing with police, and the government is having no success put ting down the protests.  
+
+ Marianne: Has it been violent? 
+
+Tom: It’s early days yet, but the government has al ready used tear gas and fired into the crowd. It’s hard to say how many people ha ve been hurt. 
+
+Marianne: So this may be the end of tyranny in McQu illanland. 
+
+Tom: Don’t bet on it. The dictator has ruled with a n iron fist and won’t hesitate to use any means necessary to stay in power. 
+
+Marianne: Well, the protesters have a fighting chan ce and I’m betting that they’ll topple the government and that ruthless tyrant! 
+
+[end of dialog] 
+
+She’s not a dictator. She's not a tyrant. She certa inly is not ruthless. I speak of our wonderful, kind Dr. Lucy Tse, our scriptwriter.  Thank you, Lucy. 
+
+From Los Angeles, California, I'm Jeff McQuillan. T hank you for listening. Comeback and listen to us again right here on ESL P odcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. Copyright 2013 by the  Center for Educational Development.
+

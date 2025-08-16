@@ -1,0 +1,118 @@
+# Sentencing a Criminal
+
+Welcome to English as a Second Language Podcast num ber 1,189 – Sentencing a Criminal. 
+
+This is English as a Second Language Podcast episod e 1,189. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit ESLPod.com and take a look at our ESL Podcast  Store which has some additional courses in Business and Daily English I think you will like. You can also check out our ESL Podcast Blog. And why not li ke us on Facebook? Go to facebook.com/eslpod. 
+
+This episode is a dialogue between Nancy and Gerald o about sentencing a criminal – giving someone who has broken the law a punishment. Let’s get started. 
+
+[start of dialogue] 
+
+Nancy: Hey, where have you been? 
+
+Geraldo: I’ve been in the other courtroom watching the sentencing of that murderer. 
+
+Nancy: Which murderer? 
+
+Geraldo: The one who failed to get the charges redu ced through a plea agreement. During the trial, her attorneys tried to  show that there were mitigating circumstances, but the judge didn’t buy it.  
+
+Nancy: Didn’t she commit two murders? 
+
+Geraldo: That’s right. The judge sentenced her to 3 5 years to life in prison for each crime. 
+
+Nancy: Will she serve them consecutively or concurr ently? 
+
+Geraldo: She’ll be serving them consecutively, so e ven with time off for good behavior, she’ll be spending the next 50 years or s o in prison. 
+
+Nancy: So her only hope now is an appeal, right?  
+
+ Geraldo: That’s right. I’ll be following this case for a long time to come. 
+
+Nancy: And getting lots of good copy. 
+
+Geraldo: Of course. What would we crime reporters d o without juicy murders? 
+
+[end of dialogue] 
+
+Nancy asks Geraldo, “Hey, where have you been?” Ger aldo says, “I’ve been in the other courtroom watching the sentencing of that  murderer.” A “courtroom” (courtroom) is a large room where what are called “ trials” (trials) and other legal procedures or processes take place. A “courtroom” i s a place typically where you will go if you commit a crime and the police find y ou and arrest you – you will have to appear in front of a “judge” (judge). A jud ge is a person who works for the government, who is in charge of, or who runs, legal  trials and processes that are involved in carrying out the law.  
+
+A “courtroom” is typically found in a place called a “courthouse” (courthouse). A courthouse isn’t an actual house that you live in, but is rather a building that is used for housing, if you will, courtrooms and judge s and lawyers who work for the government. Geraldo was in a courtroom “watching th e sentencing of that murderer,” he says. “To sentence” (sentence) as a v erb means to give someone a punishment – usually for the government to assign  or give a punishment to someone who has done something wrong.  
+
+A “murderer” (murderer) is a person who murders – t hat is, kills someone unlawfully – someone who has broken the law by kill ing another person. Interestingly, just because you kill another person , you end another person’s life, doesn’t mean that you will be arrested. If the othe r person, for example, was trying to kill you and you were defending yourself,  we wouldn’t call you a “murderer” in that case, even though you did kill t he person who tried to kill you. Anyway, Nancy asks Geraldo, “Which murderer?” meani ng which murderer is he talking about. 
+
+Geraldo answers, “The one” – meaning the murderer –  “who failed to get the charges reduced through a plea agreement.” There ar e several expressions there we need to explain. Let’s start with the verb  “to fail to get” something.” “To fail (fail) to get” something means you don’t get s omething. You are not successful at obtaining something. The word “charge s” (charges) refers to the things that the government accuses you of. For exam ple, if you steal something,  
+
+you will be “charged” with a crime of theft. The “c harge” is what the government says you did wrong.  
+
+Now, sometimes you can commit a crime – you can bre ak the law – and the government will not accuse you of doing exactly wha t you did. They may charge you with a lesser crime, perhaps because they don’t  have evidence to prove that you committed the crime, the more serious crime tha t they could charge you with, or there may be some other reason why the governmen t decides it isn’t going to charge you with a more serious crime and charges yo u with a lesser crime.  
+
+So, the word “charge” can be used as a verb referri ng to when the government accuses you of something, as well as a noun referri ng to what it is that the government accused you of. I hope that makes sense.  In this case, Geraldo is talking about a murderer who “failed” – who wasn’t successful – “to get the charges reduced.” “To reduce” (reduce) can mean to make something smaller, to make something less than what it was. “To have your  charges reduced” means to have the government accuse you of a less serious  crime. Murder is a very serious crime.  
+
+The government may say, “Well, we’re not going to c harge you with murder. We’re going to charge you with something less serio us.” Now Geraldo is talking about a murderer who failed to get his charges redu ced – that is, the government did not reduce his charges. They did not say that h e committed a lesser crime. Many times the government will charge you with a le sser crime through a particular kind of agreement called a “plea (plea) agreement.”  
+
+The verb “to plea” is used to refer to what you say  to the government when the government accuses you of a crime. You can either s ay, “Yes, I did it,” or you can say, “No, I’m innocent.” Most people, of course , say they’re innocent. When the government charges you with something, you have  to say, “I am innocent” or “I am guilty.” That statement is your “plea.” It’s what you are saying in response to the government’s accusation or charge against yo u.  
+
+A “plea agreement,” then, is when usually you say t o the government, “Okay, I will say that I am guilty of this crime” – usually a crime that is less serious than the one that you actually committed. The government  does this often so that it doesn’t have to go through an entire trial. It does n’t have to prove that you are guilty. That can take a long time and be very expen sive. So instead, the government says, “Okay, we know you committed murde r, but instead of saying that you committed murder, you say that you committ ed a lesser crime, a less serious crime.”  
+
+For example, there’s a crime called “manslaughter” (manslaughter). “Manslaughter” is when you say that you killed some one but you didn’t mean to kill them or you didn’t do it on purpose. That woul d be an example of a plea agreement. Let’s continue with our story. Geraldo s ays, “During the trial, her attorneys tried to show that there were mitigating circumstances, but the judge didn’t buy it.” So I guess we’re talking about a wo man who murdered someone, not a man. I think I referred to this person as a m an earlier.  
+
+In any case, Geraldo refers to the “trial” (trial).  The trial is the series of meetings in a courtroom during which the government tries to  prove that you committed a crime, usually, and you try to convince the judge t hat you didn’t commit a crime. Often in U.S. trials, it’s not the judge who makes the final decision but the “jury” (jury). The jury is a group of people, usually 12 i n number, who decide if you are guilty or innocent of a crime.  
+
+However, many times the jury only decides if you ar e guilty or innocent. The “judge” – a man or a woman who works for the govern ment – decides how you will be punished, how you will be sentenced. In thi s case, during the trial the attorneys, the lawyers who work for this woman accu sed of murder, tried to show that there were “mitigating circumstances.”  
+
+“Mitigating (mitigating) circumstances” refer to si tuations that may make your crime less serious, or at least your guilt less ser ious. For example, you may be hungry and have no food and no job and no place to live, and because of this, you steal some food. Well, stealing food is a crime , but the judge might decide there were “mitigating circumstances” – things that , even though you did commit the crime, mean that you shouldn’t be punished as s everely or as heavily.  
+
+But in this case the judge didn’t agree, in the cas e of the murderer, that there were mitigating circumstances for her crime. “The j udge didn’t,” according to Geraldo, “buy it.” “To buy (buy) it” means to belie ve what someone said, to accept the truth of what someone has told you. Nanc y asks Geraldo, “Didn’t she commit two murders?” Geraldo says, “That’s right. T he judge sentenced her to 35 years to life in prison for each crime.” “35 yea rs to life” means the person has to go to jail, to prison, for at least 35 years, bu t maybe as long as the person lives – in other words, until the person dies.  
+
+Nancy says, “Will she serve them consecutively or c oncurrently?” Because the murderer committed two murders, the judge gave her two punishments. The punishment for each murder was 35 years to life. No w, the question Nancy asks is “Does the murderer have to serve these sentences ,” that is undergo these punishments, “consecutively (consecutively) or conc urrently (concurrently)?”   
+
+ “Consecutively” means one after the other, meaning first you serve 35 years for this murder, then you serve 35 years for the next m urder – in other words, 70 years in total. “Concurrently” means that you are d oing two things at the same time. So the two sentences of 35 years are served a t the same time, not one after the other. If you commit multiple crimes, you  may be sentenced to serve the punishments consecutively or concurrently. Obviousl y, if you serve them consecutively, you will be in prison for a lot long er than if you serve them concurrently.  
+
+Geraldo says, “She’ll be serving them consecutively ,” meaning one after the other, “so even with time off for good behavior, sh e’ll be spending the next 50 years or so in prison.” Okay, so what does all this  mean? Well, sometimes you are given a punishment, but if you don’t cause any problems in prison, you can be released from prison – you can be let out of pri son – a little earlier than you would have otherwise, if you had served, or stayed in prison for, the entire time of your punishment. This is called “getting time off f or good behavior.”  
+
+“Time off” means that the number of years that you have to spend in prison is reduced because you didn’t cause any problems, any more problems, when you were actually in prison. So, in this case the murde rer will have to spend at least 50 years in prison even if she behaves herself, eve n if she gets those 35-year sentences reduced due to good behavior.  
+
+Nancy says, “So her only hope now is an appeal, rig ht?” In the U.S. court system, even when the judge says that you did somet hing wrong and sentences you to prison, you can “appeal” the decision to a h igher court. You can only do that if you think that the judge made a mistake or that there was some problem with your trial. An “appeal” (appeal), then, is an attempt to get a higher court – a more powerful court, if you will – to decide that t here was something wrong with your original trial or that the judge made a mistak e. And this happens quite a bit. It happens quite often.  
+
+Geraldo says, “Yes, that’s right.” Her only hope no w – that is, her only hope not to spend the next 50 years in prison – is an appeal . Geraldo says, “I’ll be following this case for a long time to come,” meani ng for a long time. Nancy says, “And getting lots of good copy.” “Copy” (copy) here  refers to text that will be published or shared with readers. Usually we refer to “copy” when we’re talking about a news story. It’s the actual writing that yo u read when you read a newspaper. We also use the word “copy” when referri ng to writing in an advertisement or a commercial.  
+
+ Geraldo says, “Of course. What would we crime repor ters do without juicy murders?” A “crime reporter” is a journalist whose job it is to report on, or to tell people about, crimes. “Juicy” (juicy) here means ve ry interesting, but interesting because it is also scandalous. Something that is “s candalous” (scandalous) is something that will cause you to be upset or angry or shocked.  
+
+So, a “juicy murder” would be a murder that is surr ounded by circumstances that might also cause you to be shocked or upset – somet hing terrible happened. Of course, murder is terrible in and of itself – by it self it’s terrible – but it might be a murder that is connected to some sort of sex scanda l or some sort of crazy behavior – something that might happen, say, here i n Hollywood.  
+
+Now let’s listen to this dialogue, this time at a n ormal speed. 
+
+[start of dialogue] 
+
+Nancy: Hey, where have you been? 
+
+Geraldo: I’ve been in the other courtroom watching the sentencing of that murderer. 
+
+Nancy: Which murderer? 
+
+Geraldo: The one who failed to get the charges redu ced through a plea agreement. During the trial, her attorneys tried to  show that there were mitigating circumstances, but the judge didn’t buy it.  
+
+Nancy: Didn’t she commit two murders? 
+
+Geraldo: That’s right. The judge sentenced her to 3 5 years to life in prison for each crime. 
+
+Nancy: Will she serve them consecutively or concurr ently? 
+
+Geraldo: She’ll be serving them consecutively, so e ven with time off for good behavior, she’ll be spending the next 50 years or s o in prison. 
+
+Nancy: So her only hope now is an appeal, right? 
+
+Geraldo: That’s right. I’ll be following this case for a long time to come. 
+
+Nancy: And getting lots of good copy.  
+
+ Geraldo: Of course. What would we crime reporters d o without juicy murders? 
+
+[end of dialogue] 
+
+Our scriptwriter’s dialogues may not always be juic y, but we think they’re interesting. Thanks to Dr. Lucy Tse for writing the m.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening, if you are still listening. Why not come back and listen t o us again right here on ESL Podcast.  
+

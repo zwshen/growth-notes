@@ -1,0 +1,122 @@
+# Chaperoning a Field Trip
+
+Welcome to English as a Second Language Podcast num ber 1,294 – Chaperoning a Field Trip. 
+
+This is English as a Second Language Podcast episod e 1,294. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+This episode is a dialogue between Rupi and Antonia  about two people going with a group of students, two adults going with a g roup of younger students, to make sure that they behave, that they don’t do anyt hing wrong on a field trip – a short trip, usually, from school to somewhere that is educationally interesting for students. Well, I’ll explain more when we get start ed. So let’s get started.  
+
+[start of dialogue] 
+
+Rupi: I don’t think I’m cut out for this. How am I supposed to chaperone a class of students on a field trip?  
+
+Antonia: I thought you were gung-ho about being a c haperone for Nadia and the rest of her class on their trip to the children’s m useum. That’s why you volunteered. 
+
+Rupi: I was, but then I started reading this materi al the school sent me to prepare for the trip. I have so many duties. 
+
+Antonia: Like what? 
+
+Rupi: I’m supposed to supervise the children all th e time, escorting them to the restrooms and making sure they don’t misbehave. I d on’t know what to do if the kids get out of hand. 
+
+Antonia: It’s not an overnight trip, just a morning  at the museum. 
+
+Rupi: I know, but I’m responsible for their safety.  What if I have to give first aid? 
+
+Antonia: The teacher will be there. He’ll know what  to do in a real emergency. 
+
+Rupi: But how am I supposed to keep track of so man y kids? 
+
+Antonia: Not all of the students are going on the t rip, just the ones with signed permission slips. 
+
+Rupi: Even so, it’s a big responsibility. There are  so many things that can go wrong. 
+
+Antonia: Do you want me to go in your place? 
+
+Rupi: Yes! No, I already told Nadia I’ll be going a nd she’s really excited. I don’t want to disappoint her. 
+
+Antonia: You’ll be absolutely fine. I’m sure it won ’t be like last time. 
+
+Rupi: Last time? 
+
+Antonia: Never mind. Forget I mentioned it. 
+
+[end of dialogue] 
+
+Rupi begins by saying, “I don’t think I’m cut out f or this.” The phrasal verb “to be cut (cut) out (out) for” something means to have th e right experience or preparation to deal with something or handle someth ing. More generally, it can mean simply to be prepared for something, or perhap s to have the natural ability to do something. Rupi says he’s not cut out for thi s. This is, we find out, chaperoning a class of students on a field trip. “T o chaperone” (chaperone) means to supervise or be responsible for another pe rson or group, especially a group of children or teenagers.  
+
+We call the person who chaperones a “chaperone.” As  a noun, it’s the person. As a verb, it’s the act of supervising or taking care of usually a group of younger students. These students are on a “field (field) tr ip (trip).” A “field trip” is usually when a group of students goes to a certain place in  their city or town for several hours as part of their education. It might be a tri p to a museum. It might be a trip to a park, or a place where they learn about nature  and science. Field trips are popular in American schools – at least, they’re pop ular with students. It’s a time for students to leave the school and learn about th eir world, learn about something perhaps they’re studying in another place .  
+
+Antonia says, “I thought you were gung-ho about bei ng a chaperone for Nadia and the rest of her class on their trip to the chil dren’s museum.” So this field trip is to a children’s museum. Antonia says that she th ought Rupi was “gung-ho.”  
+
+“Gung (gung) – ho (ho)” is a somewhat unusual expre ssion we use in American English to mean very enthusiastic or excited about doing something.  
+
+Someone who is “gung-ho” about his job or about a c ertain project is very excited about doing it, very “eager” (eager) about doing so mething. The expression apparently comes from a rather poor pronunciation o f a Chinese expression that was used by some American soldiers during World War  II. I believe the original expression had to do with working together. In any case, in American English, it means to be enthusiastic about doing something.  
+
+Antonia thought Rupi was enthusiastic about being a  chaperone for his daughter’s class trip to a museum. She says, “That’ s why you volunteered.” “To volunteer” (volunteer) is to offer to do something without being paid for it or without being required to do it. A person who volun teers is called a “volunteer.” So once again, it can be a verb or a noun. Rupi say s, “I was, but then I started reading this material the school sent me to prepare  for the trip.”  
+
+Rupi says he was gung-ho, but now he is not because  he had to read all of this material and he discovered something. He discovered  that he has a lot of duties as a chaperone. “Duties” (duties) is the plural of a “duty” (duty), which means a task or a responsibility, something that you are ex pected or required to do, usually as part of your job. Antonia asks Rupi for some examples of these duties. That’s what she means when she says, “Like what?” m eaning give me some of these duties.  
+
+Rupi says, “I’m supposed to supervise the children all the time.” “To supervise” (supervise) a group of people or a person means to monitor or to be responsible for someone’s behavior, to be making sure that a pe rson does what he is supposed to do – in this case, to make sure the chi ldren are doing what they are supposed to do, which of course is not easy dependi ng on how old the children are and whether they are good children or bad child ren. My neighbor’s children, for example, are bad children. I would not want to supervise them. But back to our story. 
+
+Rupi has to also escort the children to the restroo ms. “To escort” (escort) means to go with another person to make sure he is safe o r to make sure that he does what he is supposed to do. Usually, however, “to es cort” a person means to go with the person for his protection and safety. Ther e is a noun that comes from this verb “escort.” The accent is on the first syll able. An “escort” is a person who is escorts another person to protect that person. H owever, the noun “escort” can also mean something different. It can also refer ty pically to a woman who is paid  
+
+to go with a man to do certain things – to be their  friend, but perhaps a little more than that, if you understand my meaning.  
+
+Well, here we’re not talking about escorts. We’re t alking about “escorting” children to the restrooms or the bathrooms and maki ng sure the children do not “misbehave.” “To misbehave” (misbehave) means not t o do what you are supposed to do. That prefix “mis” (mis) means “not. ” “To behave” means to do or act the way you are supposed to, following the rule s. “To misbehave” means to do the opposite, not to follow the rules. 
+
+Rupi says, “I don’t know what to do if the kids get  out of hand.” The expression “to get out of hand” means for a situation to not b e controllable or to be unmanageable. If a situation “gets out of hand,” yo u are no longer able to control it or to prevent it from getting worse. Rupi is wor ried about what he’ll do if the kids get out of hand. Antonia says, “It’s not an overnig ht trip, just a morning at the museum.” “Overnight” (overnight) means from one day  to another. In this case, it would involve staying with the children over the ni ghttime.  
+
+Antonia is saying that it is not an overnight trip.  It’s just a few hours in the morning at a museum. In other words, it shouldn’t b e that difficult. Rupi says, “I know, but I’m responsible for their safety.” “Safet y” (safety) is the opposite of danger. It’s to be protected from bad things happen ing to you. “What if I have to give first aid?” Rupi asks. “First aid” (aid) is me dical help you give someone that isn’t very serious but has to be done because of an  accident or perhaps a sudden illness. “First aid” might include doing thi ngs to help a person until a real doctor or a paramedic arrive. Antonia says, “The te acher will be there. He’ll know what to do in a real emergency.”  
+
+Rupi says, “But how am I supposed to keep track of so many kids?” The expression “to keep track (track) of” something or someone means to pay attention to and know the location of people. In th is case, the kids have to be kept track of. We have to know where they are at al l times. Sometimes we use this expression “to keep track of” to mean simply t o keep records of or to know about, to monitor.  
+
+Antonia says, “Not all of the students are going on  the trip, just the ones with signed permission slips.” Most schools, in order to  take the children on a field trip outside of the school building, get the permission of the parents. The parents have to sign a piece of paper, a “slip” (slip) of p aper, that gives the school “permission” (permission). “Permission” is the same  as an okay, saying yes, it’s okay for my child to go on this trip. Rupi says, “E ven so,” even if we consider all  
+
+of those facts, “it’s a big responsibility. There a re so many things that can go wrong.”  
+
+Antonia then asks, “Do you want me to go in your pl ace?” In other words, I will go instead of you. Rupi says, “Yes!” But then he reali zes he’s made a mistake and immediately follows by saying, “No, I’ve already to ld Nadia,” his daughter, “I’ll be going and she’s really excited. I don’t want to dis appoint her.” Antonia says, “You’ll be absolutely fine,” meaning everything wil l be okay. “I’m sure it won’t be like the last time.” Now, we don’t know what Antoni a is referring to, what she’s talking about. Presumably, we can guess the last ti me there was a field trip perhaps there was some problem.  
+
+Rupi says, “Last time?” He wants to know what the p roblem was that happened on the last field trip, probably one that Antonia w as on. Antonia says, however, “Never mind.” That phrase, which is quite common in  American English, means “I don’t want to give you any more information,” “I do n’t want you to keep asking me about this topic,” or simply, “I don’t want to repe at what I just said because I don’t want to talk about it anymore.” Antonia says, “Neve r mind. Forget I mentioned it,” meaning forget the fact that I just said that there  was, or at least I suggested that there was, a problem last time.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Rupi: I don’t think I’m cut out for this. How am I supposed to chaperone a class of students on a field trip?  
+
+Antonia: I thought you were gung-ho about being a c haperone for Nadia and the rest of her class on their trip to the children’s m useum. That’s why you volunteered. 
+
+Rupi: I was, but then I started reading this materi al the school sent me to prepare for the trip. I have so many duties. 
+
+Antonia: Like what? 
+
+Rupi: I’m supposed to supervise the children all th e time, escorting them to the restrooms and making sure they don’t misbehave. I d on’t know what to do if the kids get out of hand. 
+
+Antonia: It’s not an overnight trip, just a morning  at the museum.  
+
+ Rupi: I know, but I’m responsible for their safety.  What if I have to give first aid? 
+
+Antonia: The teacher will be there. He’ll know what  to do in a real emergency. 
+
+Rupi: But how am I supposed to keep track of so man y kids? 
+
+Antonia: Not all of the students are going on the t rip, just the ones with signed permission slips. 
+
+Rupi: Even so, it’s a big responsibility. There are  so many things that can go wrong. 
+
+Antonia: Do you want me to go in your place? 
+
+Rupi: Yes! No, I already told Nadia I’ll be going a nd she’s really excited. I don’t want to disappoint her. 
+
+Antonia: You’ll be absolutely fine. I’m sure it won ’t be like last time. 
+
+Rupi: Last time? 
+
+Antonia: Never mind. Forget I mentioned it. 
+
+[end of dialogue] 
+
+It’s hard not to be gung-ho about improving your En glish after listening to the wonderful scripts by our wonderful scriptwriter, Dr . Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st.  
+

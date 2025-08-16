@@ -1,0 +1,170 @@
+# Saying a Final Goodbye
+
+Welcome to English as a Second Language Podcast num ber 1,305 – Saying a Final Goodbye.  
+
+This is English as a Second Language Podcast episod e 1,305. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+This episode is a dialogue between Lucy and me abou t saying goodbye. Let’s get started.  
+
+[start of dialogue] 
+
+Lucy: I don’t know how to say goodbye.  
+
+Jeff: How about so long, I’m outta here, “I’m leavi ng on a jet plane” and “in 10 minutes I’ll be late for the door”? 
+
+Lucy: No, that’s not what I mean. I mean that it’s hard to say goodbye to something after such a long time. I’ve had a very h appy time here. 
+
+Jeff: What you really mean to say is, “Parting is s uch sweet sorrow.” But, “It’s better to have loved and lost than never to have lo ved at all.” “I, I, will always love you.” 
+
+Lucy: Stop! Listen, what I want to express is a fon d farewell and optimism for the future. 
+
+Jeff: Ah, okay! Then you should say: Tomorrow is th e first day of the rest of my life! I’m off to bigger and better things! I’m blow ing this pop stand! 
+
+Lucy: No, no, no. That’s not right at all. I want t o end with some meaningful parting words, something sincere, something from my  heart. 
+
+Jeff: Like, “May the force be with you”? 
+
+Lucy: Hmm . . . how about “Live long and prosper”? 
+
+Jeff: Now are you ready to leave? 
+
+Lucy: I guess so. It’s been a blast.  
+
+ Jeff: It’s been a hoot. 
+
+Lucy: It’s been an honor and a pleasure.  
+
+Jeff: Adiós. 
+
+Lucy: Au revoir. 
+
+Jeff: Sayonara. 
+
+Lucy: Zàijiàn. Zoi gin. 
+
+Jeff: Ciao. 
+
+Lucy: Auf Wiedersehen. 
+
+Jeff: Proshchay. 
+
+Lucy: Tchau. 
+
+Jeff: Wadaeaan. 
+
+Lucy: Annyeong. 
+
+Jeff: Toodle loo! 
+
+Lucy & Jeff: Thank you and goodbye. 
+
+[end of dialogue] 
+
+Lucy begins our dialogue by saying, “I don’t know h ow to say goodbye.” I then give her some suggestions, some informal expression s that we might use in English to say goodbye. These are all informal, def initely not things that you would say in normal conversation, in a formal setti ng. The first one, however, I guess you could say in a formal or informal setting , and that is “so long.” “So long” is one way of saying goodbye.  
+
+Another much more informal way of saying goodbye is  “I am outta here.” “I am outta (outta) here” is something of an abbreviated way of saying, “I am out of here.” “To be out of here” is a way of saying “I’m leaving quickly,” often because I no longer want to be here, though that isn’t always  the case. If someone says,  
+
+“I’m outta here,” he may be saying, “This is a bad situation and I no longer want to be here.” Said in a different context, perhaps i n a different way, it just means goodbye. If you are, for example, talking to a frie nd and you look at your clock and you realize you have to get home now, you say, “Well, I’m outta here. I gotta get home.” I have to return to my house.  
+
+The next two expressions that I use are from songs,  really, and they are expressions of saying goodbye or of leaving from a couple of different popular songs. One of them is “I’m leaving on a jet (jet) p lane.” This comes from an old song called, appropriately enough, “I’m Leaving on a Jet Plane.” It was a song sung by the folk group back in the 1960s, Peter, Pa ul, and Mary.  
+
+I’m leaving on a jet plane don’t know when I’ll be back again  
+
+It would be a very unusual way of saying goodbye, b ut it’s possible in a joking way, especially if you are about to leave on a plan e. A “jet plane” is really just another word for an airplane here. “In 10 minutes I ’ll be late for the door” is another suggestion I give, and once again this come s from a popular song from my youth, a song by the rock group Bob Seger and th e Silver Bullet Band, who I actually saw in concert when I was in high school. Yeah. I’m that old.  
+
+The song was called “Old Time Rock and Roll” and wa s made famous in the movie that starred a young Tom Cruise called Risky Business. “In 10 minutes, I’ll be late for the door.” “To be late for the door” me ans that I will be out of the door – that is, I will be leaving. However, again, it’s not something that you would normally say in order to say goodbye, but to someon e of a certain age – my age – you might say it as a joke, knowing the other per son would recognize it as a line from the song. The person would understand it means that you are saying goodbye.  
+
+Lucy says, however, “No, that’s not what I mean.” I  was giving her expressions used in situations when you are leaving temporarily  – say, in the morning or after work. Lucy was referring to something more permanen t. She says, “I mean that it’s hard to say goodbye to something after such a long time.” She’s referring to perhaps leaving one’s job or saying goodbye to a ce rtain situation such as writing dialogues, for example, for English lessons. “I’ve had a very happy time here,” she says.  
+
+I respond by saying, “What you really mean to say i s, ‘Parting is such sweet sorrow.’” “Parting is such sweet sorrow” is a well- known or famous line, phrase, spoken by one of the actors – one of the characters , I should say – in the  
+
+Shakespeare play Romeo and Juliet. It’s used someti mes now, almost as a joke, to say that it is sad to say goodbye.  
+
+The original line in the play means that saying goo dbye is sad. That’s why it is a “sorrow” (sorrow). “Sorrow” refers to sadness, but it is a “sweet (sweet) sorrow.” It’s sweet because we think about the good times we ’ve had together. “Parting” comes from the verb “to part” (part), which here me ans to separate – when two people have to say goodbye to each other. That’s wh ere we get this expression, then, “Parting is such sweet sorrow.”  
+
+Then I use another famous sentence, “It’s better to  have loved and lost than never to have loved at all.” This is also, as I men tioned, a famous line, a famous sentence, this time from a poem that was written by  the great British poet Alfred Lord Tennyson. It’s an adaptation, really, from his  poem “In Memoriam A. H. H.” It means that it’s painful to end a relationship, e specially a romantic relationship, but it is better to have loved someone and then los e that person than never to have actually loved the person, or to love anyone, I suppose, in general.  
+
+“It’s better to have loved and lost,” meaning lost the person you loved, “than never to have loved at all.” I’m trying to be funny  in the dialogue, as I usually do. I’m using these famous expressions, these famous li nes from poems and plays, in order to express this feeling of saying goodbye.  Then I take a line from a famous song by the singer Dolly Parton. It was reco rded most famously by Whitney Houston in 1992 for a really terrible movie  called The Bodyguard, but anyway, the line is “I will always love you, will a lways love you.” (I had to do that.)  
+
+Lucy then says, “Stop!” I, of course, am making fun  and she’s trying to be a little serious. She says, “Listen,” meaning pay attention to me. “What I want to express is a fond farewell and optimism for the fut ure.” “To express” means to communicate. A “fond (fond) farewell (farewell)” is  a sweet, kind, emotional goodbye. Something that people would give to each o ther when they like each other.  
+
+“Farewell” is another way of saying goodbye. A “far ewell” is a goodbye. “Fond” is something that is kind, something that you really m ean. “Optimism” (optimism) is a positive view of the future, a belief that things  will be better in the future, a hopefulness. Lucy wants to express a “fond farewell  and optimism for the future.”  
+
+I say, “Ah, okay! Then you should say” – and I give  another common expression – “Tomorrow is the first day of the rest of my life .” This is an expression sometimes people use when they are trying to be pos itive about their future.  
+
+“Tomorrow is the first day of the rest of my life” – unless of course you die today, in which case tomorrow is not anything.  
+
+I then say, “I’m off to bigger and better things!” “I’m off to” means I am leaving now to go on to bigger and better things, a better situation. Then I use a third expression which is quite different and is actually  an informal way of saying goodbye sometimes, “I’m blowing this pop stand!” “T o blow this pop (pop) stand (stand)” means that you are leaving a place. You ar e saying goodbye to everyone, probably because you think the place you are in is boring or the situation you are in is unpleasant, one that isn’t very exciting, one that makes you want to leave.  
+
+A “stand” is a small store, often outside, where yo u sell things from. You might sell things such as soda pop, and hence the express ion “pop stand.” People also nowadays say, “Oh, I’m going to blow this popsicle stand,” or “Let’s blow this popsicle stand.” A “popsicle” is a frozen dessert, basically sugar water that has been frozen. So, “I’m blowing this pop stand,” or i f you say to someone else, “Let’s blow this popsicle stand,” are both ways of saying that you are now leaving this place because it’s too boring or too unexcitin g for you.  
+
+Lucy says, “No, no, no. That’s not right at all. I want to end with some meaningful parting words, something sincere, something from my  heart.” “Parting words” would be words you say when you are leaving someone . “To be sincere” (sincere) means to express your true emotions, your  true feelings, your real thoughts without hiding anything. Lucy wants to exp ress something from her heart, emotionally, meaningfully.  
+
+I then say, “Like,” meaning for example, “‘May the force be with you?’” “May the force (force) be with you” is a well-known line fro m, of course, the Star Wars movies, used in general to mean good luck or I hope  you will be successful. Lucy then uses another famous line from another science fiction movie or TV series, “Live long and prosper.” “To prosper” (prosper) mea ns to be successful, often financially or economically successful at what you do. This is a famous line from the character Spock in the Star Trek TV shows and m ovies.  
+
+Then I say to Lucy, “Now are you ready to leave?” L ucy says, “I guess so.” “I guess so” means yes, but it’s said when either you’ re not sure or perhaps you’re not very enthusiastic about something. She says, ho wever, “It’s been a blast” (blast). A “blast” is a great time, a lot of fun, a  lot of excitement. I then say, “It’s been a hoot” (hoot). A “hoot” is something that is fun, enjoyable, entertaining. It’s an old word, an old expression. We don’t use it muc h anymore other than to be funny because it is such an old expression. “It’s b een a hoot.”   
+
+ Lucy says, “It’s been an honor and a pleasure.” An “honor” is something that you believe is like a gift to you. You’ve had the abili ty to do something because someone has given you that ability, someone has giv en you permission to do something or has given something to you almost as i f it were a gift. Lucy says, “It’s been an honor and a pleasure.” I think she me ans making these lessons, but in general it’s something you could say if you have  been happy to do something.  
+
+Then Lucy and I give a number of ways of saying goo dbye in different languages. I won’t repeat those here. I do say one thing in En glish using another very old way of saying goodbye, which is “Toodle loo!” “Tood le (toodle) loo (loo)” is a funny, informal way saying goodbye nowadays. It’s a ctually taken from a French word, but it is a very, we would call, “corrupt” pr onunciation. “Toodle loo” is just a funny way of saying goodbye.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Lucy: I don’t know how to say goodbye.  
+
+Jeff: How about so long, I’m outta here, “I’m leavi ng on a jet plane” and “in 10 minutes I’ll be late for the door”? 
+
+Lucy: No, that’s not what I mean. I mean that it’s hard to say goodbye to something after such a long time. I’ve had a very h appy time here. 
+
+Jeff: What you really mean to say is, “Parting is s uch sweet sorrow.” But, “It’s better to have loved and lost than never to have lo ved at all.” “I, I, will always love you.” 
+
+Lucy: Stop! Listen, what I want to express is a fon d farewell and optimism for the future. 
+
+Jeff: Ah, okay! Then you should say: Tomorrow is th e first day of the rest of my life! I’m off to bigger and better things! I’m blow ing this pop stand! 
+
+Lucy: No, no, no. That’s not right at all. I want t o end with some meaningful parting words, something sincere, something from my  heart. 
+
+Jeff: Like, “May the force be with you”? 
+
+ Lucy: Hmm . . . how about “Live long and prosper”? 
+
+Jeff: Now are you ready to leave? 
+
+Lucy: I guess so. It’s been a blast. 
+
+Jeff: It’s been a hoot. 
+
+Lucy: It’s been an honor and a pleasure.  
+
+Jeff: Adiós. 
+
+Lucy: Au revoir. 
+
+Jeff: Sayonara. 
+
+Lucy: Zàijiàn. Zoi gin. 
+
+Jeff: Ciao. 
+
+Lucy: Auf Wiedersehen. 
+
+Jeff: Proshchay. 
+
+Lucy: Tchau. 
+
+Jeff: Wadaeaan. 
+
+Lucy: Annyeong. 
+
+Jeff: Toodle loo! 
+
+Lucy & Jeff: Thank you and goodbye. 
+
+[end of dialogue] 
+
+As I tried to do in every episode, I want to thank our wonderful scriptwriter, Dr. Lucy Tse, for all of her 1,305 wonderful scripts, a nd both Lucy and I thank you for listening.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. So long.  
+

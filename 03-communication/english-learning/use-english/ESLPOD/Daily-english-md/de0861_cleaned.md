@@ -1,0 +1,96 @@
+# Planning a Children¡¦s Party
+
+Welcome to English as a Second Language Podcast num ber 861: Planning a Children’s Party. 
+
+This is English as a Second Language Podcast episod e 861. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Our website is ESLPod.com Become a member of ESL Po dcast, and download the Learning Guide for this episode. 
+
+This episode is a dialog between Sara and Paul, who  are planning, who are getting ready for a party, for some children. Let’s  get started. 
+
+[start of dialog] 
+
+Sara:  Come on!  We need to buy all of the things w e need for Gabriel’s party before the store closes. 
+
+Paul:  Are you sure we need a party?  Maybe we can just have a cake and some party hats. 
+
+Sara:  Are you kidding?!  We are going to pull out all the stops.  We’ll have streamers, balloons, noisemakers, and party favors.   This is going to be really fun. 
+
+Paul:  I don’t even know if he’d like all that.  Wh at are you doing? 
+
+Sara:  I’m getting lots of confetti to throw when w e sing “Happy Birthday.” 
+
+Paul:  The confetti is going to get all over the ic e cream and the icing on the cake.  And it’ll be a nightmare to clean up.   
+
+Sara:  Don’t worry about the clean up.  I’ll take c are of that.  Now, where are the goodie bags... 
+
+Paul:  Are you sure all of this is necessary?  
+
+Sara:  Of course, it is.  Ooo...What do you think o f hiring a clown and renting an inflatable castle for the party? 
+
+Paul:  You do remember that Gabriel is turning one,  don’t you?   
+
+Sara:  So? ... 
+
+It’s just as I suspected.  Some birthday parties ar en’t for the children.  They’re for the adults who never grew up! 
+
+[end of dialog] 
+
+Sara says to Paul, “Come on.” “Come on” is an expre ssion we use when you want someone to leave with you or you want them to perhaps work a little faster. Sara says, “Come on. We need to buy all of the thin gs we need for Gabriel’s party before the store closes.” In this case, Sara wants Paul to leave with her, to go to a store so they can buy things for Gabriel’s party, whoever Gabriel is.  
+
+Paul says, “Are you sure we need a party? Maybe we can just have a cake and some party hats.” A “cake” (cake) is a type of dess ert, a sweet bread-like dessert that you have at parties – birthday parties, gradua tion parties, parties for someone’s wedding – all of these would probably hav e some sort of cake involved. Paul says, “Maybe we can just have a cake  and some party hats.” “Party hats” are colorful paper hats that you wear on your head, usually associated with parties for young children. Sara sa ys, “Are you kidding?” meaning “Are you joking?” She’s surprised at what P aul is saying, and maybe a little angry.  
+
+She says, “We are going to pull out all the stops.”  This expression, “to pull out all the stops” or “all of the stops,” means you’re goin g to do everything you possibly can. You’re not going to limit yourself in anyway. You’re going to do the most you can. The expression actually comes from playing the  organ. “To pull out all the stops” is to make the organ play at its loudest pos sible volume, although I’m not a musician so don’t take my word for that. You may not want to believe what I say.  
+
+Sara says, “We’ll have streamers, balloons, noisema kers and party favors.” These are all things you might find at a children’s  party or some other kind of party in some cases. “Streamers” (streamers) are lo ng pieces of brightly colored paper that you hang on the wall or hang on doors or  put on the windows. “Balloons” are small pieces of rubber that are fill ed with air and you can fill them with water if you want to have a water balloon figh t, but I don’t think that’s what we’re talking about here. We’re talking about filli ng them with air in order to decorate or make a room look more festive, more lik e you’re having a party.  
+
+“Noisemakers” are little devices that are used to m ake a lot of noise that you would find again at a children’s party because youn g children like to make a lot of noise. If you don’t believe me, just ask my neighbo rs. “Party favors” are little gifts that you give people for coming to your party. That ’s a party “favor” (favor).  
+
+Sara says, “This is going to be really fun.” Paul s ays, “I don’t even know if he’d like all that.” He’s not even sure if Gabriel will like all of this planning – all of these things that Sara wants to do for the party. Paul th en asks, “What are you doing?” Sara says, “I’m getting lots of confetti to throw w hen we sing happy birthday. “Confetti” (confetti) are small pieces of paper. Th ey could be white, they could be colored, that are used often to throw at people in celebration. You will sometimes see confetti at someone’s wedding, as they’re comin g out of the church. You can throw either rice or confetti. So, it’s an item tha t you would associate with a party. Paul says, “The confetti is going to get all over t he ice cream and the icing on the cake.” Paul is complaining these little pieces of p aper, if you throw them up into the air, will “get all over,” meaning they’ll get i nto, the ice cream. “Ice cream” is a sweet frozen dessert, usually made from milk and su gar, maybe fruit and other sweet things that you would like to eat. I remember  when I was growing up, those one or two times that I had a birthday party, we wo uld have chocolate ice cream and vanilla ice cream, which is a white-colored ice  cream. Those were always the most popular flavors for ice cream at a party. Nowa days, they have ice cream in all different kinds of flavors, all different kinds  of taste, but back in the old days, it was basically chocolate and vanilla ice cream.  
+
+Paul thinks the confetti will get all over the ice cream and the icing on the cake. When you have a cake, you usually put a thick color ed substance made of butter or some other substance as decoration on top of the  cake. So, the cake itself is baked in an oven and after you take it out of the o ven and let it cool, you’ll put some sugary, buttery substance on the top of it tha t will make it even sweeter and that will give it some particular color. You ca n often write someone’s name in icing that goes on the cake for the birthday party.  Paul says, “It’ll be a nightmare to cleanup.” A “nightmare” (nightmare) normally mea ns a bad or scary, or frightening dream that you have, but in this case, it just means a very bad situation, a very bad experience. Sara says, “Don’t  worry about the cleanup.” Don’t worry about cleaning up after the party.  
+
+Sara says, “Now where are the goodie bags.” “Goodie  (goodie) bags (bags)” are little bags, kind of like party favors, that have l ittle gifts for the people who come to the party. Once again, it’s something you would probably find more at a children’s party. When you have a birthday party fo r your son or daughter, and you invite other children to come, the children – e ven if it’s not their birthday – will also get a little gift from you, who is hosting or who is having the party.   
+
+ Paul says, “Are you sure all of this is necessary?”  Do we really need to do this? Sara says, “Of course it is. Ooo… What do you think  of hiring a clown and renting an inflatable castle for the party?” A “clown” (clo wn) is a person who dresses in very brightly colored clothing, usually with big sh oes and a red nose and tries to make people laugh. We associate clowns with childre n’s birthday parties. Some parents who have way too much money to spend will h ire a clown to come to their child’s party in order to entertain the child ren, to get them to laugh, to have a good time.  
+
+An “inflatable castle” is something you used to onl y find at a big carnival or a big fair, a big celebration in your community or in you r town. Nowadays, however, parents sometimes get inflatable castles for their child’s birthday. An “inflatable castle” is a large plastic structure in the shape o f a castle. A “castle” is where a king or a queen would live, of a country, that’s fi lled with air so that children could go inside of this plastic thing and bounce up and d own inside of it. I have no idea how much these cost. As I said, it used to be you w ould only see them at a big celebration in your neighborhood or in your town an d now, parents, with again way  too much money to spend on their children, get the se for their children’s parties. So, some company comes over and they put o ne of these inflatable castles in the front of your house and all the neig hborhood children will come to the party and play inside of this castle.  
+
+Paul says, “You do remember that Gabriel is turning  one, don’t you?” “Turning” here means having a birthday and becoming one year older. So, I could say, for example, “I’m turning 30 this year.” That means thi s year I will have my 30 th birthday – just an example, of course. Paul thinks that Sara is having a big party that is really unnecessary since Gabriel, their son , is only one year old. He won’t even be able to understand what’s going on. Paul en ds the story by saying, “It’s just as I suspected.” It’s just as I thought. “Some  birthday parties aren’t for the children. They’re for the adults who never grew up. ” “Grew (grew) up” is the past tense of “grow (grow) up,” which means to become an  adult, to no longer be a child. Paul is saying that the birthday party isn’t  for Gabriel. He’s only one year old. He doesn’t know what’s going on. It’s for Sara  – an adult who has never quite grown up herself. 
+
+Now let’s listen to the dialog this time, at a norm al speed. 
+
+[start of dialog] 
+
+Sara:  Come on!  We need to buy all of the things w e need for Gabriel’s party before the store closes.  
+
+ Paul:  Are you sure we need a party?  Maybe we can just have a cake and some party hats. 
+
+Sara:  Are you kidding?!  We are going to pull out all the stops.  We’ll have streamers, balloons, noisemakers, and party favors.   This is going to be really fun. 
+
+Paul:  I don’t even know if he’d like all that.  Wh at are you doing? 
+
+Sara:  I’m getting lots of confetti to throw when w e sing “Happy Birthday.” 
+
+Paul:  The confetti is going to get all over the ic e cream and the icing on the cake.  And it’ll be a nightmare to clean up.   
+
+Sara:  Don’t worry about the clean up.  I’ll take c are of that.  Now, where are the goodie bags... 
+
+Paul:  Are you sure all of this is necessary?  
+
+Sara:  Of course, it is.  Ooo...What do you think o f hiring a clown and renting an inflatable castle for the party? 
+
+Paul:  You do remember that Gabriel is turning one,  don’t you?   
+
+Sara:  So? ... 
+
+It’s just as I suspected.  Some birthday parties ar en’t for the children.  They’re for the adults who never grew up! 
+
+[end of dialog] 
+
+Our scriptwriter pulls out all the stops when she w rites her wonderful scripts for us. Thank you, Dr. Lucy Tse. 
+
+From Los Angeles, California, I'm Jeff McQuillan. T hank you for listening. Come back and listen to us again, here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. Copyright 2013 by the  Center for Educational Development.
+

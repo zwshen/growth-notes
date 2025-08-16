@@ -1,0 +1,112 @@
+# Buying Travel Insurance
+
+Welcome to English as a Second Language Podcast num ber 1,077 – Buying Travel Insurance.  
+
+This is English as a Second Language Podcast episod e 1,077. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California, of course.  
+
+Visit our website at ESLPod.com. Become a member of  ESL Podcast. You can also buy some premium courses on our website by goi ng to the ESL Podcast Store. 
+
+On this episode, we’re going to hear a dialogue bet ween Josette and Tae-jin about buying insurance before you take a trip. Let’ s get started. 
+
+[start of dialogue] 
+
+Josette: I admit it. I’m a nervous traveler and I d on’t like traveling internationally. 
+
+Tae-jin: You could get travel insurance. Doing that  would make you feel more secure, wouldn’t it? 
+
+Josette: Maybe. What types of coverage are availabl e? 
+
+Tae-jin: You could get insurance to cover mishaps o n the trip, such as cancelled flights or missed connections and having your lugga ge lost, stolen, or damaged. It’ll even cover your losses if your trip is cancel led. 
+
+Josette: I guess that would help, but I’m more nerv ous about something happening to me while I’m in another country. 
+
+Tae-jin: In that case, you can get medical insuranc e to cover the costs of medical emergencies, even if you have to be medically evacu ated in the event of serious injuries or illness. 
+
+Josette: Oh, you’re right. I could get really sick or injured. 
+
+Tae-jin: And if things go terribly wrong, there’s e ven insurance for if you become disabled or if there’s an accidental death. They’ll  pay for repatriation of your remains or overseas funeral services. 
+
+Josette: Disabilities and death? Is that supposed t o put my mind at ease?  
+
+Tae-jin: The whole point is to make you less worrie d about bad things happening while you travel. 
+
+Josette: Right, and right now the only insurance th at seems to be foolproof is staying put! 
+
+[end of dialogue] 
+
+Our dialogue in this episode is about travel insura nce. “Insurance” (insurance) is an agreement that you sign with some company – call ed an “insurance company,” of course – in which you give the company  some money, and if something bad happens to you in the future, the com pany will pay for whatever bad happens to you.  
+
+So, for example, if you buy “car insurance,” you gi ve the insurance company money every year, and if you have an accident, the insurance company will pay for most or all of the repairs that need to be done  to your car. Why would the insurance company do this? Well, because most peopl e don’t have accidents. And so, you’re paying the insurance company money, and usually you won’t get any of that money back, but if you do have an accid ent, well, then the insurance company will pay for it.  
+
+Insurance companies need lots of different people t o buy insurance from them so that they can make money, since only a small percen tage of people will actually need the insurance – only a small percentage of peo ple will actually get money back from their insurance policy, their insurance a greement.  
+
+Our dialogue, then, begins with Josette saying, “I admit it. I’m a nervous traveler and I don’t like traveling internationally.” Tae-ji n says, “You could get travel insurance.” “Travel insurance” is a special kind of  insurance that will pay for any problems you might have while you are traveling. Ta e-jin says that “Doing that” – that is, buying travel insurance – “would make you feel more secure, wouldn’t it?” “To feel secure” (secure) means to feel safe, to fe el like you’re not in danger, that nothing bad will happen to you.  
+
+Josette says, “Maybe,” meaning “Well, maybe it will  make me feel secure.” She then asks, “What types of coverage are available?” “Coverage” (coverage) refers to the kinds of things that the insurance will pay for – the kinds of “protection,” we might say, that are provided by the insurance polic y or agreement. Tae-jin  
+
+replies, “You could get insurance to cover mishaps on the trip, such as canceled flights or missed connections and having your lugga ge lost, stolen, or damaged.”  
+
+“Mishaps” (mishaps) are accidents – something negat ive or unfortunate that happens that usually you can’t avoid. A mishap is u sually something not too serious that has happened. If someone dies, we prob ably wouldn’t call that a “mishap.” But if, for example, you fall on the grou nd and are not hurt to seriously, that might be considered a mishap. It’s an unlucky accident. Then we get a list of examples of mishaps. One would be “canceled flights ,” meaning the airline, the company that owns all of the airplanes, decides tha t it’s not going to fly your plane to the place where you want to go.  
+
+“Missed connections” refers to when you are flying from one place to another but have to go to a third place before you arrive at yo ur final destination. So, for example, if you are flying from Los Angeles, Califo rnia, to New York City, you might have to first fly to Chicago and then get on another plane that flies you to New York. That second flight, that second plane, wo uld be your connection. We would say, “You have to make a connection in Chicag o.”  
+
+A “missed connection” would be a situation where yo ur first plane arrives too late and you no longer are able to get onto the second p lane. Losing your luggage is also a possible mishap that travel insurance might pay for. “Luggage” refers to your baggage – the suitcases that you bring with yo u that have your clothes and other items in them.  
+
+Tae-jin says that travel insurance even covers your  losses if your trip is canceled. Your “losses” refers to the amount of money that yo u lose when something bad or unfortunate happens. If your flight is canceled – if the airline is not going to fly the plane as it said it would to your destination, to the place where you want to go – you might lose money on a hotel room that you alr eady paid for and can’t get your money back on.  
+
+Josette says, “I guess that would help, but I’m mor e nervous about something happening to me while I’m in another country.” Tae- jin says, “In that case, you can get medical insurance to cover the costs of med ical emergencies.” “Medical insurance” refers to insurance that pays for when y ou have an accident or when you’re sick.  
+
+“Medical emergencies” would be things that require immediate attention, serious situations related to your health. If you break you r leg while skiing, for example, which happened to my brother-in-law not too long ag o, that would be a medical emergency. He was in another country, and he had to  go to the hospital.  
+
+Someone has to pay for that, and if he had medical insurance, the insurance company would probably pay for most of that. (As, i ndeed, it did.)  
+
+Sometimes you need to leave the country and be brou ght back to your own country. This would be a case of a “medical evacuat ion.” The verb is “to evacuate” (evacuate). “To evacuate” someone means t o move them from a dangerous place to a safer place. In this case, it may not be that the place where you are is dangerous. It may be instead that the pl ace where you are doesn’t have the kind of medical services you need, so that  you have to be taken to another hospital in another country.  
+
+Josette says, “Oh, you’re right. I could get really  sick or injured.” Tae-jin says, “And if things go terribly wrong, there’s even insu rance for if you become disabled or if there is an accidental death.” If so mething goes “terribly wrong,” it goes very wrong – something very bad happens. What could happen? Well, you could become disabled. “To be disabled” (disabled) means that you have something bad happen to your body so that you can n o longer work, or perhaps even walk. That would be a case of being disabled o r becoming disabled.  
+
+An “accidental death” would be when you die, not be cause someone murdered you or killed you, like your wife, but because ther e was some sort of accident – something unexpected happens. Tae-jin says that the  insurance companies will pay for “repatriation of your remains or overseas f uneral services.” “Repatriation” (repatriation) is when something is brought back to  the country from which it originated – usually a person, or in this case, you r dead body.  
+
+Your “remains” (remains) refer to what’s left of yo ur body. Sometimes nowadays people have their body “cremated” – that is, burned . So, your remains would be what remains after they burn your body – which woul d be your ashes – or your remains could be your actual physical body, with yo ur head and your arms and your legs and so forth.  
+
+The insurance companies, if you have travel insuran ce, could pay for “repatriation of your remains or overseas funeral s ervices.” “Overseas” refers to in another country. “Funeral” (funeral) is some sor t of ceremony or service that takes place when a person dies. Usually it involves  your friends and family coming together to talk about you or to perform som e sort of religious ceremony or participate in a religious ceremony.  
+
+Josette says, “Disabilities and death? Is that supp osed to put my mind at ease?” Tae-jin, remember, was trying to make Josette feel calmer, more secure about traveling, and now he’s talking about her dying and  being buried, having a  
+
+funeral. Josette asks Tae-jin if what he is telling  here is supposed to put her mind at ease. “To put your mind at ease” (ease) means to  make you feel calmer and less worried – to make you feel as though nothing b ad is going to happen.  
+
+Tae-jin says, “The whole point is to make you less worried about bad things happening while you travel.” Josette says, “Right,”  meaning yes, that’s right, “and right now, the only insurance that seems to be fool proof is staying put.” “Foolproof” (foolproof) is something that cannot fa il, that cannot go wrong – something that will work always, that will never ca use any problems.  
+
+What Josette is saying here is that instead of buyi ng insurance and traveling, the best way to be safe and secure is simply to stay pu t. “To stay put” is a phrasal verb meaning not to move, not to go anywhere. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Josette: I admit it. I’m a nervous traveler and I d on’t like traveling internationally. 
+
+Tae-jin: You could get travel insurance. Doing that  would make you feel more secure, wouldn’t it? 
+
+Josette: Maybe. What types of coverage are availabl e? 
+
+Tae-jin: You could get insurance to cover mishaps o n the trip, such as cancelled flights or missed connections and having your lugga ge lost, stolen, or damaged. It’ll even cover your losses if your trip is cancel led. 
+
+Josette: I guess that would help, but I’m more nerv ous about something happening to me while I’m in another country. 
+
+Tae-jin: In that case, you can get medical insuranc e to cover the costs of medical emergencies, even if you have to be medically evacu ated in the event of serious injuries or illness. 
+
+Josette: Oh, you’re right. I could get really sick or injured. 
+
+Tae-jin: And if things go terribly wrong, there’s e ven insurance for if you become disabled or if there’s an accidental death. They’ll  pay for repatriation of your remains or overseas funeral services. 
+
+ Josette: Disabilities and death? Is that supposed t o put my mind at ease?  
+
+Tae-jin: The whole point is to make you less worrie d about bad things happening while you travel. 
+
+Josette: Right, and right now the only insurance th at seems to be foolproof is staying put! 
+
+[end of dialogue] 
+
+Our scriptwriter makes sure nothing goes terribly w rong with our scripts – that’s the wonderful Dr. Lucy Tse of whom I speak. Thank y ou, Lucy.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to listen to us again right here on  ESL Podcast.  
+

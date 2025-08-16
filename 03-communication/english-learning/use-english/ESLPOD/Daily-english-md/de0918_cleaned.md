@@ -1,0 +1,76 @@
+# Preparing for a Disaster
+
+Welcome to English as a Second Language Podcast num ber 918 – Preparing for a Disaster.  
+
+This is English as a Second Language Podcast episod e 918. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Go to our website at ESLPod.com. If you do, you can  become a member of ESL Podcast and help support us.  
+
+This episode is a dialogue between Lilly and Paul a bout getting ready for something disastrous, something very bad that might  happen in the future. Let’s get started.  
+
+[start of dialogue] 
+
+Lilly: Quick, we need to go get some supplies. I wa s listening to talk radio on my way home from work, and this guy was on talking abo ut how doomsday is coming and we need to prepare. 
+
+Paul: Oh no, not this again. You have to stop liste ning to that garbage on the radio. Listen, there is no impending doom, and this  guy was just crying wolf. 
+
+Lilly: No, he wasn’t. He had proof that the world i s going to end soon and he was sounding the alarm. Those people killed in the stor m last week? They were the canaries in the coal mine. Disaster is coming! 
+
+Paul: Let me be the voice of reason for a minute. H ow many times have you believed that the world was ending in the past few years? 
+
+Lilly: A few times, but this is for real. There’ll be a disruption of services, a run on food and water, and chaos!  
+
+Paul: Let me ask you this: if the world is ending, aren’t we all just going to die? 
+
+Lilly: Not if you have an underground bunker. Start  digging! 
+
+[end of dialogue] 
+
+Lilly begins our dialogue by saying to Paul, “Quick ” – meaning do this quickly – “we need to go get some supplies.” “Supplies” are m aterials you use to do something else. Lilly says, “I was listening to tal k radio on my way home from work and this guy” – this man – “was on” – was on t he radio – “talking about how doomsday is coming and we need to prepare.” So, Lil ly was driving home from work, and she was listening to “talk radio.” “Talk radio” refers to radio programs that don't have music but have people who are being  interviewed or people who are talking, usually giving their opinions about so mething. In the United States, in the last 30 years or so, talk radio has become very  popular, especially for political people – people who have strong political opinions,  whether they're conservative or liberal. You can find a talk radio station that has mostly people who are on there talking about their political views. Many peo ple associate talk radio, also, with not being very reliable, with having people on  there who have very extreme views – views or opinions about things that are not  ones that the majority of people would have.  
+
+This is what has happened to Lilly. She was listeni ng to talk radio and some man, some guy, was on the radio – was on the radio progr am – talking about “doomsday.” “Doomsday” (doomsday) is the word we gi ve for the day that the world will end. At some point in our future, someth ing bad will happen and we will all die – the entire human race will die. That will  be the “doomsday.” “Doom” (doom) is something bad – death, destruction. 
+
+Paul says, “Oh no, not this again.” That expression , “not this again,” means or implies that this is not the first time that Lilly has had this idea or has had a strange idea. Paul says, “You have to stop listenin g to that garbage on the radio.” “Garbage” (garbage) normally refers to something th at is worthless, something that has no value. We might also use the word “tras h.” In other English-speaking countries, they use the term “rubbish” (rubbish). I n the U.S., we use more commonly the word “garbage.” Paul is referring here  to things that are not worth listening to. He's talking about the garbage on the  radio. He means that the people who are on there are idiots, that they're sa ying stupid things. Paul says, “Listen, there is no impending doom, and this guy w as just crying wolf.” “Impending” (impending) is something that will happ en soon, usually something negative that will happen soon. Paul is saying that  there is no impending doom. There is nothing bad that is about to happen.  
+
+He says, “This guy was just crying wolf.” The expre ssion “to cry (cry) wolf (wolf)” refers to an old story about the boy who cried wolf . This might even be one of the stories from Aesop, from the ancient world, from an cient Greece. “To cry wolf” means to refer to or to say that something bad is g oing to happen as a joke, as a  
+
+trick. If you cry wolf, you are saying something ba d is going to happen even when you know that it's not true.  
+
+In the original story, the boy was out to protect t he sheep and other animals. If the boy saw a wolf, he was supposed to yell very lo udly – to cry, which means here to yell very loudly – “Wolf!” so that all of t he other adults would come and kill the wolf and protect the sheep. Well, the boy was l onely and wanted some attention. So, he cried wolf even though there was no wolf, and of course all the people came running. Well, he did this once. He did  it twice. The third time he did it, there really was a wolf, but no one believed hi m – no one came running – because he had already cried wolf twice and it was just a joke. It was something that wasn't true.  
+
+The general idea, then, of this expression is that if you say something is true and it’s not, and you keep doing that, eventually peopl e will not believe you. That's what Paul is saying that the guy on talk radio is d oing. He's crying wolf. He's saying something bad will happen when he knows that  there is nothing bad that will happen.  
+
+Lilly says, “No, he wasn't. He had proof that the w orld is going to end soon.” “Proof” (proof) is evidence. It's something that te lls you something is true. Lilly says the man “was sounding the alarm.” “To sound th e alarm” means to warn people about some danger, about some problem. Lilly  says, “Those people killed in the storm last week? They were the canaries in t he coal mine.”  
+
+This is another expression that refers to an old co ncept. A “canary” is a kind of bird. “Coal” (coal) is a very hard, black substance  that you dig out of the ground to use as fuel, to use for energy. A “mine” (mine) is when you dig holes in the ground to get coal or some other object that is ins ide of the earth. In the old days, they used to put a canary inside of a coal mine, be cause if the canary smelled gas the canary would die, and that would be an earl y indicator that there was a problem – that there was gas and that the men who w ere working in the coal mine should leave. So, the canary was like a warnin g sign, a warning system that told you that there was a problem.  
+
+Lilly is saying that the people who were killed in this storm in the story last week were canaries in the coal mine. They were indicatin g that there was a greater danger to the rest of us. She says, “Disaster is co ming.” “Disaster” is something horrible, something very bad that is going to hurt or kill many people. Sometimes, we use disaster to refer to something that's really  bad – a very bad situation or even a very bad movie. If you say, “That movie was a disaster,” you mean it was a very poorly made movie, not a good movie at all.   
+
+ Paul says, “Let me be the voice of reason for a min ute.” “The voice of reason” is the person who is calm, the person who is logical. Paul says, “How many times have you believed that the world was ending in the past few years?” Paul is asking Lilly how many times she has had this idea t hat the world was going to end soon. Lilly says, “A few times, but this is for  real.” This is actually going to happen, she says.  
+
+Lilly says that there will be “a disruption of serv ices, a run on food and water, and chaos.” A “disruption” (disruption) is an interrupt ion in something, a temporary stop of something. In this case, it will be a disru ption of services, which might refer to electricity, or water, or transportation –  anything required for us to survive. The expression “a run on something” refers  to a situation where everyone goes out and tries to buy the same kind of  thing. So, if there's going to be a lot of rain, there might be a run on umbrellas . “Umbrellas” are things we use to protect ourselves from the rain. Everyone is goi ng to go out and try to buy umbrellas. There's going to be a run on umbrellas. “Chaos” (chaos) is a general word referring to lack of order. We might even use the word “disorder,” a situation where no one is in control, where the world is with out any sort of authority, everything is going wrong, and there is no one ther e to take care of it.  
+
+Paul says, “Let me ask you this: if the world is en ding, aren't we all just going to die?” Paul is asking why they should do anything if  the world is going to end. There's nothing we can do to stop it. Lilly, howeve r, doesn't agree. She says, “Not if you have an underground bunker.” Lilly is s aying that we won't die if we dig a big hole in the ground and hide under the gro und in a protected room. That's what an “underground bunker” (bunker) is. Li lly ends by saying, “Start digging!” “To dig” (dig) means to use usually a too l called a “shovel” that removes dirt and allows you to create a hole in the ground.  Lilly is telling Paul to start digging into the ground so they can create this und erground bunker. There are actually people in the United States who believe th at they have to have that kind of protection, and they make their own bunkers. I d on't know anyone personally who's done that, but I have read stories about it a nd heard about it on talk radio.  
+
+Now let's listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Lilly: Quick, we need to go get some supplies. I wa s listening to talk radio on my way home from work, and this guy was on talking abo ut how doomsday is coming and we need to prepare. 
+
+Paul: Oh no, not this again. You have to stop liste ning to that garbage on the radio. Listen, there is no impending doom, and this  guy was just crying wolf. 
+
+Lilly: No, he wasn’t. He had proof that the world i s going to end soon and he was sounding the alarm. Those people killed in the stor m last week? They were the canaries in the coal mine. Disaster is coming! 
+
+Paul: Let me be the voice of reason for a minute. H ow many times have you believed that the world was ending in the past few years? 
+
+Lilly: A few times, but this is for real. There’ll be a disruption of services, a run on food and water, and chaos!  
+
+Paul: Let me ask you this: if the world is ending, aren’t we all just going to die? 
+
+Lilly: Not if you have an underground bunker. Start  digging! 
+
+[end of dialogue] 
+
+I am the voice of ESL Podcast, but our scriptwriter  is the voice of reason here at the Center for Educational Development. That is the  wonderful Dr. Lucy Tse. 
+

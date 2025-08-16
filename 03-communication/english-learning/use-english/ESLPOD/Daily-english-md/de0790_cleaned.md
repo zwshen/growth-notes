@@ -1,0 +1,84 @@
+# Giving Birth to Twins
+
+Welcome to English as a Second Language Podcast num ber 790: Giving Birth to Twins. 
+
+This is English as a Second Language Podcast episod e 790.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Check out our special c ourses in business and daily English on our website. 
+
+Today’s episode is about having a baby – two of the m, in fact.  Let’s get started. 
+
+[start of dialogue] 
+
+Jerome:  Congratulations!  I just heard that you’re  pregnant with twins. 
+
+Paula:  Thanks.  We’re very excited, although I’m a  little worried about a multiple birth. 
+
+Jerome:  I come from a long line of multiple births .  My father is an identical twin and he had cousins who are fraternal twins.   
+
+Paula:  I see what you mean. 
+
+Jerome:  That’s not even the half of it.  My matern al grandmother gave birth to triplets and my aunt had quadruplets. 
+
+Paula:  Wow, multiple births certainly run in your family.  What about your immediate family? 
+
+Jerome:  You’re not going to believe this, but my m other had octuplets.  I have seven brothers and sisters the same age. 
+
+Paula:  And all of you survived? 
+
+Jerome:  Yup, every single one of us.  We often jok e that my mother didn’t have babies.  She had a litter! 
+
+[end of dialogue] 
+
+Our dialogue begins with Jerome saying to Paula, “C ongratulations!  I just heard that you’re pregnant with twins.”  “Pregnant” (preg nant) is when a woman has a child inside her body who is going to be born.  But  Paula is not just pregnant with one child but with two, and that’s why Jerome says she’s going to have twins (twins).  So, Jerome congratulates Paula, so I gues s he’s not the father. 
+
+Paula says, “Thanks.  We’re very excited.”  Presuma bly she means her husband, the father of the child.  “We’re a little excited, although I’m a little worried about a multiple birth.”  “Multiple” (multiple) means more than one – multiple anything. You could have multiple children, more than one chi ld; multiple birth would be giving birth to more than one child.  The expressio n “to give birth” means to have the child come out of the mother’s body. 
+
+Jerome says, “I come from a long line of multiple b irths.”  Probably one of the few times that sentence has been said in English!  “To come from a long line of” means that you have a history in your family.  I co uld say, “I come from a long line of teachers.”  My father was a teacher, my bro ther was a teacher, and so forth.  Or I could say, more truthful, “I come from  a long line of plumbers.” “Plumbers” are people and fix toilets and sinks.  M y great-grandfather was a plumber, and my grandfather was a plumber, and my u ncles are all plumbers. So, Jerome says he comes from a long line of multip le births, meaning there must be a lot of twins in his family.  And that, in  fact, is what Jerome means.  He says, “My father is an identical twin and he had co usins who are fraternal twins.”   
+
+Well if you remember back to your biology class, yo u should know that there are two kinds of twins: there are smart twins and there  are stupid twins.  No, that’s not the difference!  There are identical twins; the se are two babies that look exactly the same, they have the same sex – two boys  or two girls, and usually they look very much alike.  My two brothers – older  brothers, Mark and Mike, are identical twins.  You can also have fraternal twins .  “Fraternal” (fraternal) is a word that comes from the Latin I believe, “frater” (frater), which can mean brother, though in the plural it often means men an d women – brothers and sisters, and that’s really the meaning here.  Frate rnal twins are two babies born at the same time who may or may not be the same sex .  They could be two boys and two girls or it could be a boy and a girl, and usually they don’t look alike.  Or at least, they don’t look identical – the same, as identical twins do. 
+
+Paula says, “I see what you mean,” and Jerome respo nds, “That’s not even the half of it.”  This expression, “that’s not even the  half of it,” means that you still have more things to say about this topic.  Jerome h as mentioned two facts: that his father is an identical twin and his father’s co usins are fraternal twins.  But he has even more information about this – even more th ings on this topic, and then  
+
+we hear what those are.  Jerome says, “My maternal grandmother gave birth to triplets and my aunt had quadruplets.”  Wow!  “Mate rnal” (maternal) comes from “mater” in Latin – we’re having a Latin lesson toda y!  “Mater” (mater) means mother, and so when Jerome says “my maternal grandm other,” he means his mother’s mother, not his father’s mother.  If it we re his father’s mother, we would say his “paternal grandmother,” from, of course, “p ater” (pater), Latin for father. 
+
+Jerome says that his maternal grandmother gave birt h to triplets.  “Triplets” (triplets) are when you have three babies born at t he same time; that’s somewhat rare.  But, even rarer – even more unusual is what happened to his aunt.  His aunt – or his aunt, either pronunciation is correct  – had quadruplets. “Quadruplets” are when you have four babies at one time.  Five babies would be “quintuplets,” and so on and so forth.  Quadruplets  is very rare also – well, even rarer than triplets. 
+
+Paula says that multiple births certainly run in Je rome’s family.  When we say something “runs in your family,” we mean it’s somet hing common in your family, that different members of your family share.  This could be anything.  It could be the height: “Tall boys run in our family.”  Or it c ould be anything that is genetic, although sometimes it’s used for things that are pr obably more from the environment.  Some people say, “Oh, playing soccer runs in our family.” Everyone does it: my father does it, my sister does  it, and so forth.  Well, we don’t mean that there is an inherited trait in that  family for soccer, that it comes from your genetics.  But, it means it’s popular or it’s common in your family. 
+
+Nowadays, there are actually more people – well, mo re women having multiple births, probably because there’s more use of fertil ity drugs, drugs that help a woman get pregnant.  And these often lead to – or a t least more often, I understand, lead to multiple births.  But of course  I’m not a doctor, and I have never given birth to a child, so I’m not really an expert in this area.  But Paula asks Jerome, “What about your immediate family?”  Y our “immediate family” is your mother, your father, your brothers, and your s isters.  It doesn’t include aunts, uncles, grandparents, and so forth. 
+
+Jerome says, “You’re not going to believe this, but  my mother had octuplets.” Okay!  “Octuplets” (octuplets), if you know a littl e Latin, you’ll know this means eight children.  Well, that would be very usual, in deed!  He says, “I have seven brothers and sisters the same age.”  Paula says, “A nd all of you survived?” Obviously, when you have multiple birth there’s mor e of a risk of one of the babies dying.  But Jerome says, “Every single one o f us (survived).”  “To survive” means not to die.  “Every single one of us” is just  another way of saying all of us – all of us survived.  “We even joke that my mother  didn’t have babies.  She had  
+
+a litter!”  “Litter” (litter) is normally a word we  use for a group of animal babies, born to an animal at one time, like a cat would hav e a litter of kittens.  So Jerome is sort of joking when he says that they say to the ir mother that she had a litter. “Litter” actually has some other meanings in Englis h as well, as does the word “twin,” and you can find both of those in our Learn ing Guide. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Jerome:  Congratulations!  I just heard that you’re  pregnant with twins. 
+
+Paula:  Thanks.  We’re very excited, although I’m a  little worried about a multiple birth. 
+
+Jerome:  I come from a long line of multiple births .  My father is an identical twin and he had cousins who are fraternal twins.   
+
+Paula:  I see what you mean. 
+
+Jerome:  That’s not even the half of it.  My matern al grandmother gave birth to triplets and my aunt had quadruplets. 
+
+Paula:  Wow, multiple births certainly run in your family.  What about your immediate family? 
+
+Jerome:  You’re not going to believe this, but my m other had octuplets.  I have seven brothers and sisters the same age. 
+
+Paula:  And all of you survived? 
+
+Jerome:  Yup, every single one of us.  We often jok e that my mother didn’t have babies.  She had a litter! 
+
+[end of dialogue] 
+
+She doesn’t have any twin brothers or sisters, but she is a wonderful scriptwriter. I’m talking, of course, about our own Dr. Lucy Tse.    
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

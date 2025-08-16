@@ -1,0 +1,112 @@
+# Describing Old and New Equipment
+
+Welcome to English as a Second Language Podcast num ber 1,248 – Describing Old and New Equipment.  
+
+This is English as a Second Language Podcast episod e 1,248. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Become a member of  ESL Podcast and download the Learning Guide for this episode. You c an also take a look at our ESL Podcast Store with additional courses in busine ss and daily English.  
+
+This episode is a dialogue between Oleg and Raquel about describing machines – equipment – that are old and new. Let’s get start ed.  
+
+[start of dialogue] 
+
+Oleg: Geez, look at that dinosaur.  
+
+Raquel: This is not a dinosaur. It’s a classic. It will never go out of style and it’s built to last. 
+
+Oleg: It’s an antique and belongs in a museum. You’ ve got to get with it and get one of these. 
+
+Raquel: What’s that? 
+
+Oleg: It’s the latest model, with cutting edge desi gn. It’s brand spanking new. 
+
+Raquel: That’s all right. This machine is tried-and -true and it never lets me down. 
+
+Oleg: Why don’t you take this for a test drive? It’ ll be an eye-opening experience for you. 
+
+Raquel: No, thanks. 
+
+Oleg: You don’t know what you’re missing.  
+
+Raquel: That’s true, but I’m happy with my machine.  
+
+Oleg: Fine. I’m just trying to help you move with t he times.  
+
+ Raquel: Thanks, but no thanks. I’ll stick with what  I know and love. 
+
+Oleg: It just goes to show there’s no accounting fo r taste. 
+
+[end of dialogue] 
+
+Oleg begins our dialogue by saying to Raquel, “Geez , look at that dinosaur.” “Geez” (geez) is a word we used to express surprise  or amazement at something. Oleg is amazed at a “dinosaur” (dinosaur ). The word “dinosaur” usually refers to an animal that is no longer found  living on Earth. However, we also use the word “dinosaur” to describe something or even someone who is very, very old. In describing a person, it usually refers to someone in leadership or power in an organization or a government.  
+
+When it’s used to describe a piece of equipment, a machine, it refers to something that is no longer very usable because it is so old. So, if you have a computer from the 1980s, it would probably be descr ibed as a “dinosaur” because it’s so old you can’t really use it for any thing. Raquel disagrees with Oleg’s description of her machine. She says, “This is not a dinosaur. It’s a classic.” A “classic” (classic) is something that i s old but is considered to be of very high quality, something that people admire or recognize as being good.  
+
+We might describe an old car as a “classic.” In fac t, people talk about “classic cars,” or “classic movies.” These are things that w e consider to have a lot of value or to be of high quality. Citizen Kane or The  Godfather might be described as “classic movies.” Don’t confuse “classic” with “ classical” (classical). “Classical” usually refers to something from the ancient Greek or Roman period of history, at least in the Western world. Raquel says her machine  is “a classic.” She says, “It will never go out of style and it’s built to last.”   
+
+“To go out of style” means to be no longer very pop ular, to no longer be what we might describe as “fashionable” – something that pe ople like, something that people want to have. Certain ways of dressing “go o ut of style.” People no longer wear that kind of shirt or those kinds of pants. Ra quel says, however, that what she has “will never go out of style.” She says, “It ’s built to last” (last). If something is “built to last,” it will not break or stop worki ng in the future. Something that is “built to last” is built very well. It’s constructe d very well.  
+
+Oleg says, however, “It’s an antique and belongs in  a museum.” An “antique” (antique) is some object that is considered old. Us ually we talk about something more than 100 years old as being an “antique.” Furn iture, art, pottery – other  
+
+objects that people like to collect, like to own, a re often referred to as “antiques” if they are very old. I love watching television progr ams about antiques. I like to watch a British show called Bargain Hunt where they  go and try to find antiques. I know it’s a little weird.  
+
+Anyway, Oleg says that he thinks the machine that R aquel has “belongs in a museum” (museum). A “museum” is a building that has  objects that are either very old or are pieces of art that people want to l ook at. In this case, he thinks this object is very old. He says, “You’ve got to ge t with it and get one of these.” “To get with it” is an expression meaning to become  familiar with what is happening now, to understand things that are going on right now or that are popular now.  
+
+Raquel asks, “What’s that?” Oleg is showing her som ething. Oleg says, “It’s the latest model,” meaning it’s the most recent kind of  this thing. He says it has “cutting edge design.” The expression “cutting (cut ting) edge (edge)” means very modern, or with the latest technology, the latest a dvanced design. He says, “It’s brand spanking new.” The expression “brand (brand) new” means that it is very new, that it has not been used by anyone else befor e you bought it. That’s something that is “brand new.”  
+
+The word “spanking” (spanking) in this expression i s used for emphasis. It means the same as “very” or “extremely.” “It’s really bra nd new.” “It’s brand spanking new.” It’s somewhat unusual to see that constructio n of putting the adjective after “brand” – “brand spanking new.” You might think it would be “spanking brand new,” but it isn’t. We say “brand spanking new.” It ’s an idiom. It’s just the way that we express that particular idea with those words. I t just means “very new.”  
+
+Raquel says, “That’s all right,” meaning no, she is n’t interested. “This machine” – the one that she owns – “is tried-and-true and it n ever lets me down.” To describe something as “tried (tried) – and – true ( true)” means that it has been tested and proven to work well. It’s something that  you have used for a long time and you know that it works. That’s something that i s “tried-and-true.” The word “tried” here means tested, or used to make sure tha t it works.  
+
+The machine, according to Raquel, never lets her do wn. “To let (let) someone down” means to disappoint someone, to do something that does not meet someone’s expectations. Raquel says this machine ne ver lets her down. Oleg says, “Why don’t you take this for a test drive?” T he expression “to take something for a test (test) drive” means to try som ething for a short time to see if you like it, especially something you are consideri ng buying.  
+
+If you are going to buy a car, you would go to a pl ace that sells cars, called a “car dealership,” and you would take a car for a “test d rive.” You would get in and drive the car. We use that expression “to take some thing for a test drive” more generally to refer to trying anything, usually a ma chine of some sort, for a short time to see if you like it and want to buy it.  
+
+Oleg says that taking whatever he has for a test dr ive “will be an eye-opening experience” for Raquel. Something that is “eye (eye ) – opening” is something that makes you aware of something or gives you know ledge about something in a way that you have never had before or have never been given before. If you call an experience “eye-opening,” it means it made you see things or realize things – maybe good, maybe bad – that you had not r ealized or seen before.  
+
+Raquel, however, is not interested. She says, “No, thanks.” Oleg responds, “You don’t know what you’re missing.” The expression “Yo u don’t know what you’re missing” means that you are not aware of the good t hings that someone else knows about or that I know about. Raquel says, “Tha t’s true, but I’m happy with my machine.” Oleg says, “Fine,” meaning okay. “I’m just trying to help you move with the times.”  
+
+The expression “to move with the times” is similar to “to get with it.” It means to change your attitude or to change your actions so t hat you can do what other people are doing. It also means to be more modern, to do things that other people are doing nowadays. Raquel says, “Thanks, bu t no thanks,” meaning thank you for offering that, but I am not intereste d. She says, “I’ll stick with,” meaning I will continue using, “what I know and lov e” – what I am familiar with.  
+
+Oleg ends the dialogue by saying, “It just goes to show there’s no accounting for taste.” There are two expressions there. The first one is “It just goes to show (show).” “It just goes to show” is a phrase used wh en you want to emphasize what another person has said or demonstrated. You a re coming to a conclusion. You are making an observation about something. Oleg ’s observation is another common expression, “There’s no accounting (accounti ng) for taste (taste).”  
+
+“There’s no accounting for taste” is a phrase that means that it’s impossible to understand the things that other people like and di slike. There’s no reason, there’s no rational basis sometimes, for why some p eople like some things and dislike other things. I like apple pie and coffee a nd spaghetti and dumplings and different kinds of noodles. Other people like other  food that I don’t like. There’s no good reason. You can’t make an argument why one thing is better than another when it comes to food. That’s why we say, “ There’s no accounting for taste.”   
+
+ “Taste,” however, means more than just what kind of  food you like. It’s a general term to describe the things that people like and di slike in other people or in other objects. This expression is sometimes used as a cri ticism – for another person to say, “You have bad taste.” That’s what Oleg is doin g here. He’s saying that Raquel doesn’t have good taste because she continue s to use this old machine, whatever it is, instead of moving with the times an d using a new machine.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Oleg: Geez, look at that dinosaur.  
+
+Raquel: This is not a dinosaur. It’s a classic. It will never go out of style and it’s built to last. 
+
+Oleg: It’s an antique and belongs in a museum. You’ ve got to get with it and get one of these. 
+
+Raquel: What’s that? 
+
+Oleg: It’s the latest model, with cutting edge desi gn. It’s brand spanking new. 
+
+Raquel: That’s all right. This machine is tried-and -true and it never lets me down. 
+
+Oleg: Why don’t you take this for a test drive? It’ ll be an eye-opening experience for you. 
+
+Raquel: No, thanks. 
+
+Oleg: You don’t know what you’re missing.  
+
+Raquel: That’s true, but I’m happy with my machine.  
+
+Oleg: Fine. I’m just trying to help you move with t he times. 
+
+Raquel: Thanks, but no thanks. I’ll stick with what  I know and love. 
+
+Oleg: It just goes to show there’s no accounting fo r taste. 
+
+[end of dialogue]  
+
+ Our dialogues never go out of style. They’re classi cs, written by the wonderful scriptwriter Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st.  
+

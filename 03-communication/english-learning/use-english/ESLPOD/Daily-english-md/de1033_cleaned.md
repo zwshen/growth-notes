@@ -1,0 +1,96 @@
+# Discussing a Victory or Loss
+
+Welcome to English as a Second Language Podcast num ber 1,033 – Discussing a Victory or Loss.  
+
+This is English as a Second Language podcast episod e 1,033. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. You know what to d o. Become a member and download a Learning Guide. You can also take a look  at our ESL Podcast Store, which has some additional courses in English I thin k you might enjoy. 
+
+This episode is a dialogue between Yolanda and Bob about winning and losing, victory or loss. Let’s get started. 
+
+[start of dialogue] 
+
+Yolanda: Did you see the game last night?  
+
+Bob: You mean the crushing victory of my team over yours? 
+
+Yolanda: That’s not how I would characterize it. We  fell short in the final seconds, but we played a good game up until then. 
+
+Bob: In your dreams. My team dominated from beginni ng to end. You’re just lucky that it wasn’t a complete blowout.  
+
+Yolanda: We would have won if the coach hadn’t deci ded to throw in the towel early. I think he just melted down under the pressu re. 
+
+Bob: It’s easy for you to play Monday morning quart erback, but I don’t think anything would have saved your team from going down  in flames. 
+
+Yolanda: There’s a rematch in three weeks, you know . 
+
+Bob: And my team will whup your team again, no ques tion.  
+
+Yolanda: You can trash talk all you like. We’ll see  if you’re still smiling after my team wipes the floor with yours! 
+
+[end of dialogue]  
+
+ Our dialogue begins with Yolanda asking Bob, “Did y ou see the game last night?” Some sort of sports game, we guess. Bob says, “You mean the crushing victory of my team over yours?” A “victory” (victory) is a win, when you beat another person in some competition or race. The word “crush ing” (crushing) means very difficult to deal with. We usually talk about a “cr ushing defeat” (defeat).  
+
+A crushing defeat would be a case where you lose, b ut you lose very badly and it’s very difficult for you to deal with it. You ar e having a lot of problems understanding it. You perhaps even lose hope that y ou will be able to do better in the future. Anything that is crushing is difficult to deal with. Bob uses the term to describe the victory of his favorite team over Yola nda’s favorite team. So, he’s really saying that the victory was very convincing – that they really beat the other team badly, we might say.  
+
+Yolanda says, “That’s not how I would characterize it.” “To characterize” (characterize) is to describe something, to select certain words to talk about something. Yolanda is saying that she would not cha racterize – she would not describe – the game last night as being one of a “c rushing victory” for Bob’s team. She says, “We,” meaning her team, “fell short  in the final seconds, but we played a good game up until then.”  
+
+“To fall short” is a two-word phrasal verb meaning not to do as well as you had hoped or had expected – not to meet expectations, w e might say. “I need a hundred dollars, but I was only able to get ninety. ” I fell short of my goal. I didn’t do as well as I thought I would. Yolanda says that her team “played a good game” – they were playing well – “up until then,” m eaning the end of the game. “Up until” means leading up to that point before th is point.  
+
+Bob says, “In your dreams.” This is a somewhat insu lting thing to say to someone. “In your dreams” is a phrase used to show that you don’t believe what the other person has just said. You’re saying that the other person’s belief or opinion is not realistic. It’s not true. It’s not e ven close, perhaps. Bob says, “My team dominated from beginning to end.” “To dominate ” (dominate) means to control someone or something, to have complete powe r over another person or another thing or a situation – in this case, a game .  
+
+Bob says his team dominated from the beginning of t he game to the end of the game. He says, “You’re just lucky that it wasn’t a complete blowout.” A “blowout” (blowout) is a very easy win or victory for a team.  If you’re playing, I don’t know, soccer, and your team wins 25 to nothing, that woul d definitely be a blowout. In other words, it was a very easy, easy victory. I’m not the world’s biggest soccer  
+
+fan, but I think if I saw that score, I would descr ibe the game as a complete blowout.  
+
+Yolanda says, “We would have won if the coach” – th e leader of the team – “hadn’t decided to throw in the towel early.” The e xpression “to throw in the towel” means to give up, to no longer try to do som ething because it’s too difficult or too challenging or perhaps impossible. “To throw  in the towel” means to say, “Okay, I lose. I don’t want to continue playing any more,” basically. That’s what Yolanda thinks the coach of her team did early, or at least too early, in the game.  
+
+Yolanda says, “I think he just melted down under pr essure.” The verb “to melt” (melt) means for something to go from a solid state  to a liquid state. So if you have a ball of ice and you put it in the oven, it w ill melt. The ice, a solid, will turn into water, a liquid. “To melt down” means to take something that is solid and convert it into liquid. You might talk about, for e xample, melting down your gold wedding ring in order to sell it and make money. Yo u shouldn’t do that, however, unless perhaps you’re no longer married or you real ly need the money.  
+
+When we describe a person as “melting down,” we mea n that this person was not able to perform because of the stress, because of the pressure of the situation. Someone who “melts down under pressure” is someone who in a difficult situation is not able to perform the way he or she would normally perform without that stress. 
+
+Bob says, “It’s easy for you to play Monday morning  quarterback, but I don’t think anything would have saved your team from going down  in flames.” The expression “Monday morning quarterback” is popular in American English. It refers to American football. The “quarterback” on a  football team, an American football team, is the person who is sort of the lea der of the team, the person who gets the ball first and either gives it to someone or throws it to someone. The quarterback is often making the important decisions  in terms of what the next play is going to be in the game.  
+
+Now, you have to understand that in the U.S., profe ssional football teams almost always play on Sunday afternoon. Monday is the day after Sunday (you probably knew that already). If you are “playing Monday morn ing quarterback,” you are making decisions after the fact. You are criticizin g someone else, saying that you could’ve done it better – even though, of course, y ou probably couldn’t have done it better.  
+
+It’s often used when someone takes information from  a situation that the person who is making the decision didn’t have and saying, “Oh, well, I would’ve done  
+
+something differently.” During the football season,  people often talk about the game on Monday morning during their coffee break or  perhaps before work. If you criticize your team after the game is over, you ’re playing Monday morning quarterback. You are saying you could have done a b etter job, which usually is not the case.  
+
+Bob says that he doesn’t think anything would have saved Yolanda’s team from “going down in flames.” The phrasal verb “to go dow n” here means to lose, to be defeated. “Flames” (flames) refers to fire. “To go down in flames” refers probably originally to a plane, for example, crashing to the  ground. What will happen if a plane hits the ground, if it crashes? It will proba bly go up in flames. It will explode. The gasoline will catch fire. “To go down in flames” means to fail very badly and often very quickly.  
+
+Yolanda says, “There is a rematch in three weeks, y ou know.” A “rematch” is another game between the same two teams. So if you play against one team and you lose, you say, “Well, we’ll have a rematch thre e weeks from now,” or “We’ll have a rematch next week.” We will play again. The same two teams will play again. Bob says, however, “And my team will whup yo ur team again, no question.” “To whup” (whup) is an informal verb mea ning to defeat another person or another team very badly – to have a very clear victory.  
+
+Yolanda says, “You can trash talk all you like. We’ ll see if you’re still smiling after my team wipes the floor with yours.” The phrasal ve rb “to trash (trash) talk” is used when you are playing sports, for example, and you are telling the other team how bad they are, how horrible they are, how t hey’re terrible players. If you say, “Oh, your team is going to lose so badly, you’ re going to wish you hadn’t even decided to play us.” “To trash talk” is to ins ult the other team.  
+
+You could also trash talk about one person that you  are playing. If you are playing a game against another person, you could sa y, “Oh, you’re terrible, you’re never going to win.” You say insulting thing s about that person to make yourself seem better perhaps than you really are. T he expression “to wipe the floor with” means to defeat another person very bad ly. Once again, to have a very clear win. Yolanda is talking about her team w iping the floor with Bob’s team. She means that her team is going to defeat Bo b’s team and defeat them very decisively, by a big score.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Yolanda: Did you see the game last night?  
+
+Bob: You mean the crushing victory of my team over yours? 
+
+Yolanda: That’s not how I would characterize it. We  fell short in the final seconds, but we played a good game up until then. 
+
+Bob: In your dreams. My team dominated from beginni ng to end. You’re just lucky that it wasn’t a complete blowout.  
+
+Yolanda: We would have won if the coach hadn’t deci ded to throw in the towel early. I think he just melted down under the pressu re. 
+
+Bob: It’s easy for you to play Monday morning quart erback, but I don’t think anything would have saved your team from going down  in flames. 
+
+Yolanda: There’s a rematch in three weeks, you know . 
+
+Bob: And my team will whup your team again, no ques tion.  
+
+Yolanda: You can trash talk all you like. We’ll see  if you’re still smiling after my team wipes the floor with yours! 
+
+[end of dialogue] 
+
+I’m pretty sure our scriptwriter could whup me in a lmost any game we played. That’s because she’s so smart. She’s the wonderful,  creative Dr. Lucy Tse. Thank you, Lucy.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

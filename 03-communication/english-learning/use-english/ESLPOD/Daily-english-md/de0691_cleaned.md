@@ -1,0 +1,59 @@
+# Dangerous Freeway Driving
+
+Welcome to English as a Second Language Podcast num ber 691: Dangerous Freeway Driving. 
+
+This is English as a Second Language Podcast episod e 691.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Go to our website at eslpod.com to download a Learn ing Guide for this episode that includes a complete transcript of everything w e say.  How do you get the Learning Guide?  Well, you can become a member of E SL Podcast and get that guide; just go to eslpod.com for more information. 
+
+This episode is called “Dangerous Freeway (or Highw ay) Driving.”  Let’s get started. > I do a lot of driving in my job.  You would think t hat driving several hours each way would get old really fast, but I have ways of m aking an interminable drive seem much more exciting. 
+> I like to drive fast on the freeways.  I usually pa ss all of the slower cars by staying in the passing lane.  When there’s a slow-moving ca r in the passing lane, though, I tailgate it until the driver moves over to anothe r lane.  If the driver doesn’t move over, I weave back and forth from one lane to anoth er until I get around it.  What can I say?  I just don’t like anyone to keep me fro m the open road.   
+> Sometimes, I encounter another driver who likes to drive fast and we have a drag race.  I know how to bird dog the other car until I  see a way to speed up and overtake it.  That’s why I almost always win.   
+> As you can see, I know how to spice up a boring dri ve.  I hope to see you soon – on the road.
+
+Our story begins with the person telling the story – not me, I don’t do a lot of driving in my job.  But, the person in our story do es a lot of driving.  He says, “You would think that driving several hours each wa y would get old really fast.” “Each way” is another way of saying in both directi ons, going somewhere and  
+
+coming back.  When you leave your house, go to your  work, then leave your work at the end of the day and return to your house , we would call that a “round trip.”  Well, this is both ways of the round trip, each way.  “To get old” here means to become boring, uninteresting, we might say “mono tonous.”  There are other meanings of that expression, “get old.”  Take a loo k at our Learning Guide for some additional explanations. 
+
+So he says, “You would think (in other words, it wo uld seem likely to you) that driving several hours each way would get old real f ast, but I have ways of making an interminable drive seem much more exciting.”  “I nterminable” (interminable) means very long, almost without an end; in fact, it  does mean without an end. But more generally, it means uninteresting, boring,  very long.  That’s the idea here.   
+
+The narrator here, the person telling the story, sa ys that he has ways of making an interminable drive “seem” or appear much more ex citing.  How does he make it more exciting?  Well, he tells us.  He says he l ikes to drive fast on the freeways.  The “freeway” is the same as the highway .  In some parts of the U.S., they call it an “expressway.”  These are roads that  are built that you can drive fast on, often you don’t even half to stop, especia lly if it’s what we call an “interstate” freeway.  Those usually have no stops in them; you get on and off, but you don’t have stop signs or stop lights.  He s ays he likes to drive fast on the freeways, “I usually pass all of the slower cars by  staying in the passing lane.” “To pass” (pass) here means to drive your car aroun d another car so that you can be in front of them or ahead of them.  “Pass” h as many meanings in English; take a look, once again, at the Learning Guide for some more explanation. 
+
+So, he likes to pass all of these slower cars, the cars moving more slowly.  How does he pass them?  He stays in the passing lane.  “Lanes” are the areas on the freeway where you have a line of cars driving.  If it’s a two-lane freeway, there are cars in one direction and cars in the other dir ection, only one section of the road for each way.  Of course, in most big cities, in fact in all of the United States, you will find four-lane freeways, with two lanes go ing each way, six-lane freeways, eight-lane freeways, ten-lane freeways, a nd so forth.  Here in Southern California, some of our freeways probably have tota l 12 or 14 lanes, at least at their widest section.  However, there are only usua lly three or four lanes going in a single direction.  In the United States the “pass ing lane,” the fastest lane is the lane that is farthest to the left.  The left lane i s the lane where faster cars travel; it’s sometimes called the “passing lane,” because t hat’s how you get around the slower moving cars in front of you.  Here in Los An geles, I’m not sure about other cities, we also number the lanes.  The left-most la ne, the passing lane, is the number one lane.  Sometimes when there are accident s, they will announce on  
+
+the news that there is an accident blocking the num ber four lane.  That would be the lane four over from left, and so forth. 
+
+Continuing on then, the narrator says that when the re’s a slow-moving car in the passing lane, in other words a car that is not goin g fast in the so-called fast lane or passing lane, he tailgates the car until the dri ver moves over to another lane. “To tailgate,” here, means to follow another car to o closely, meaning it’s dangerous.  It’s used sometimes by drivers to indic ate to the driver in front of them that they need them or want them to move over.   Tailgating a car can be very dangerous, as well as illegal.  There’s anothe r meaning of “tailgate,” and that is to have a party – have a celebration where you eat and especially where you drink before a sporting event.  You drive your car to the parking lot, and then you have a little party outside of the stadium befo re you go in.  That’s called “tailgating.”  The reason is is that when you have a big station wagon, a long car, the back door is called the “tailgate door,” or sim ply the “tailgate,” and that’s where the expression, I think, comes from.  We used  to tailgate at baseball games and soccer games when I was a boy, many years  ago.   
+
+The narrator says, “If the driver doesn’t move over ,” doesn’t move to the number two lane, next to the number one or fast lane, he w eaves back and forth from one lane to another.  “To weave” (weave) here means to change lanes many different times in order to go faster.  So, there’s a slow ca r in front of you, you move over to the next lane, and then there’s another slow car , you move back to that original lane, and so forth.  In California, where we have many lanes going in each direction, it’s a little easier for you to do;  people do it all the time, weave back and forth.  But of course, it can also be dang erous if you are weaving, or moving at a high speed. 
+
+The narrator says, “What can I say?”  That expressi on, an informal one, means that you are saying that what you do is not good, i s bad, or is inappropriate, perhaps even dangerous, but that you are not going to change the way you act. You might say, “What can I say?  I know smoking is bad for me, but I’m going to continue to smoke.”  That’s not a personal example;  I don’t smoke, but someone who does could say that.  So he says, “What can I s ay?  I just don’t like anyone to keep me from the open road.”   “To keep (someone ) from (someone else or something)” means to prevent that person from havin g or doing something, not allow them to have or do something.  “The father ke pt his son from driving, because the son was not a very good driver.”  He di d not allow him – give him permission to drive. 
+
+The narrator doesn’t like anyone keeping him from t he open road.  “The open road” is the idea that you can drive fast down the freeway, and there are very few  
+
+other cars around you.  Here, he’s referring to slo w moving cars, if you remember.  He’s trying to get around them so he can  move fast.  Some people like the feeling of driving fast.  He says, “Someti mes, I encounter (that is, I meet) another driver who likes to drive fast and we have a drag race.”  A “drag (drag) race” is an informal competition to see which car c an go fast enough.  If you’ve watched a movie about the 1950s and 60s in the Unit ed States, you may have seen a drag race, where two high school boys will b e in their cars and they will race to see who is the fastest.  That’s a “drag rac e.”  More commonly, perhaps, two usually young male drivers will be next to each  other at a stop light, and they will race each other to the next stop light or to w herever they’re going. 
+
+The narrator says, “I know how to bird dog the othe r car until I see a way to speed up and overtake it.”  “To bird dog” (two word s) means to observe, to watch, to monitor something very carefully.  He bir d dogs, or watches the other car until he sees a way, sees a manner in which he can speed up.  “To speed up” means to go faster; “to accelerate,” we could also say.  He speeds up and he overtakes the other car.  “To overtake (someone)” m eans to go faster than them so that you are in front of them.  You were behind them before, but now you go in front of them because you are moving faster.  That’ s why, he says, he almost always wins these drag races, because he’s able to speed up and overtake the other car. 
+
+Finally he says, “As you can see, I know how to spi ce up a boring drive.”  “To spice up” is a two-word phrasal verb meaning here t o make something more exciting, to make something more interesting.  “Spi ce” is what you add to food that gives it a different taste, or perhaps for cer tain kinds of food makes it hotter – hotter in taste, not necessarily temperature.  So, he spices up his boring drive. He ends by saying, “I hope to see you soon – on the  road.”  “On the road” means in your car while you are traveling.  Of course, mo st of us hope that we don’t see this kind of dangerous driver on the road, or anywh ere else.  That’s what happens when you get older, you realize just how da ngerous you were when you were younger! 
+
+Now let’s listen to the story, this time at a norma l speed. 
+
+[start of story] 
+
+I do a lot of driving in my job.  You would think t hat driving several hours each way would get old really fast, but I have ways of m aking an interminable drive seem much more exciting. 
+
+I like to drive fast on the freeways.  I usually pa ss all of the slower cars by staying in the passing lane.  When there’s a slow-moving ca r in the passing lane, though, I tailgate it until the driver moves over to anothe r lane.  If the driver doesn’t move over, I weave back and forth from one lane to anoth er until I get around it.  What can I say?  I just don’t like anyone to keep me fro m the open road.   
+
+Sometimes, I encounter another driver who likes to drive fast and we have a drag race.  I know how to bird dog the other car until I  see a way to speed up and overtake it.  That’s why I almost always win.   
+
+As you can see, I know how to spice up a boring dri ve.  I hope to see you soon – on the road. 
+
+[end of story] 
+
+Our scripts never get old.  Even after writing hund reds and hundreds our scriptwriter, Dr. Lucy Tse, spices them up and keep s them interesting.   
+
+From Los Angeles, California, I’m Jeff McQuillan – not very interesting.  But I thank you for listening and hope that you’ll listen  to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

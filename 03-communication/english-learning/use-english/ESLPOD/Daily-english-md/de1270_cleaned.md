@@ -1,0 +1,110 @@
+# Cold and Frozen Treats
+
+Welcome to English as a Second Language Podcast num ber 1,270 – Cold and Frozen Treats. 
+
+This is English as a Second Language Podcast episod e 1,270. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to ESLPod.com and take a look at our ESL Podcast  Store that has additional courses in business, daily, and cultural English. Y ou can also like us on Facebook. Go to facebook.com/eslpod.  
+
+This dialogue is between Miranda and Luca about eat ing things that are cold and sweet. Sounds good to me. Let’s get started. 
+
+[start of dialogue] 
+
+Miranda: Mmm, I could really go for an ice cream su ndae right now.  
+
+Luca: I was thinking more like a cup of hot cocoa. 
+
+Miranda: Forget that. A banana split with ice cream  and lots of chocolate sauce topped with whipped cream – mmm. 
+
+Luca: I like chocolate, too, but hot chocolate soun ds much better. 
+
+Miranda: Oh, maybe we could run to the store for so me popsicles and ice cream sandwiches. Those would really hit the spot. 
+
+Luca: Some mulled cider is more like it for me. 
+
+Miranda: If only we had a snow cone machine. We cou ld make our own snow cones! 
+
+Luca: How about a hot toddy instead? 
+
+Miranda: No way! Do you think the frozen yogurt sto re is still open at this hour? 
+
+Luca: You do know that it’s the middle of winter, r ight? 
+
+Miranda: I know, but I can’t help it. I need to coo l off.  
+
+ Luca: Hot flashes again? 
+
+Miranda: That’s right. I wonder if the pool is froz en. 
+
+[end of dialogue] 
+
+Miranda begins our dialogue by going, “Mmm.” That s ound “mmm” is one we make when something either smells good or tastes go od. Miranda says, “I could really go for an ice cream sundae right now.” Miran da isn’t smelling or tasting anything right now. She’s thinking about it.  
+
+She says she “could go for an ice cream sundae.” Th e expression “to go for” something here means to be excited about the idea o f doing something or eating something. When someone says, “I could go for a ham burger,” he means “I really feel like eating a hamburger.” I would like a hambu rger right now. The expression is really “I could go for.” “He could go for.” The word “could” is important here. That indicates that it’s something you want to eat,  or something you want to do. 
+
+Miranda “could go for an ice cream sundae” (sundae) . Notice the spelling of the word “sundae.” That word is pronounced the same as the first day of the week, “Sunday” (Sunday), but it’s spelled different. A “s undae” is a kind of dessert, a sweet thing you eat after the main meal, that is ma de from one or more types of ice cream. A sundae usually has something else with  it in addition to the ice cream, such as nuts, fruit, or some kind of candy o n top. An “ice cream sundae” might have a liquid form of sugar called “syrup,” o r at least syrup made with sugar. “Syrup” is a liquid that you pour over somet hing else. It’s usually sweet. 
+
+Luca says, “I was thinking more like a cup of hot c ocoa.” Luca is thinking of eating something different, or actually drinking so mething, such as a “cup of hot cocoa” (cocoa). “Cocoa” here refers to a powdered c hocolate, a form of chocolate that you use for cooking – or in this cas e, for making a chocolate drink usually combined with hot water or perhaps hot milk . Miranda says, “Forget that,” meaning no, that’s not a good idea. She continues, “A banana split with ice cream and lots of chocolate sauce topped with whipp ed cream – mmm.” Notice again she makes that sound, “mmm,” which indicates something that would taste good.  
+
+Miranda now has the idea of eating another kind of dessert called a “banana split.” I used to love eating banana splits when I was a child. A banana split is made by taking a banana and cutting it in half the long way, and putting those in a dish, and then you take three, what we would call  “scoops” (scoops) of ice  
+
+cream – a “scoop” of ice cream is like a little bal l of ice cream – and you take one scoop of vanilla-flavored, one scoop of chocolate-f lavored, and one scoop of strawberry-flavored ice cream and you put them in t he dish in between the two pieces of banana.  
+
+Then, you usually put some chocolate sauce, which i s a liquid you pour over the ice cream, as well as some whipped cream. “Cream” i s a form of milk, or something that you would get from milk that’s very fatty. You whip it – you add air to it, basically, so that it’s very light, and you put it on top of the banana split.  
+
+Luca says, “I like chocolate, too, but hot chocolat e sounds much better.” “Hot chocolate” is a sweet drink made by melting chocolate into hot  milk and then mixing it with sugar and vanilla. “Hot cocoa” and “hot chocolate” are basically the same thing. “Cocoa” is made usually from powdered chocolate – c hocolate that is dried and put into very small pieces. “Hot chocolate” is ofte n made directly from, say, a bar of chocolate. Luca wants some hot chocolate.  
+
+Miranda says, “Oh, maybe we could run to the store, ” meaning go to the store, “for some popsicles and ice cream sandwiches. Those  would really hit the spot,” she says. A “popsicle” (popsicle) is made by taking  juice or some combination of juice and water and freezing it onto a little stick , and then you take the popsicle after it is frozen and you can lick the frozen juic e, or juice and water combination. A popsicle is usually about, oh, I don’t know, six,  maybe five, six inches long and about maybe an inch around.  
+
+An “ice cream sandwich” is a dessert made by taking  a piece of ice cream, basically, or some ice cream and putting it in betw een two frozen chocolate cookies or two frozen pieces of chocolate almost li ke a chocolate cake. It’s not exactly like a cookie. It’s more soft than a cookie . Popsicles and ice cream sandwiches are the sorts of desserts that children often like because they’re very sweet. I don’t think I’ve had a popsicle or an ice cream sandwich in many, many years.  
+
+Miranda thinks that those two things, however, “wou ld really hit the spot” (spot). The expression “to hit the spot” means to be very s atisfying when you are hungry. If you are very hungry and then you have a good meal, you might say at the end, “That really hit the spot.” It made you fu ll so that you’re no longer hungry anymore, and usually it tasted good.  
+
+Luca is not thinking of cold drinks. He’s still thi nking of something hot. He says, “Some mulled cider is more like it for me.” The phr ase “is more like it for me”  
+
+means “is something that I would want more.” Luca w ants some “mulled (mulled) cider (cider).” “Cider” is made from fruit. It’s th e juice of a fruit. “Mulled cider” is apple juice that is heated and has cinnamon, nutmeg , clove, and other spices in it.  
+
+Miranda says, “If only we had a snow cone machine.”  A “snow cone” (cone) is a paper cup that has small pieces of flavored ice, us ually ice that is chopped up in very small pieces and then has colored, sweetened l iquid poured over it, a kind of sugar that is poured over it. You’ll sometimes s ee snow cones sold at outdoor events during the summertime. Miranda thinks that t hey could make their own snow cones, but Luca wants instead a “hot toddy” (t oddy).  
+
+A “hot toddy” is a hot drink made with some kind of  alcohol, such as rum or whiskey, added to hot water, honey or sugar, and pe rhaps some other kind of flavoring. Miranda says, “No way! Do you think the frozen yogurt store is still open at this hour?” “Frozen yogurt” (yogurt) is a d essert similar to ice cream, but it’s made with yogurt instead. Luca says, “You do k now that it’s the middle of winter, right?” “The middle of winter” means that i t is in one of the cold months, such as January, February, or March.  
+
+Miranda says, “I know, but I can’t help it. I need to cool off.” Miranda is hot for some reason, and therefore she needs “to cool off.”  She needs to lower her body temperature. Luca asks, “Hot flashes again?” A “hot  flash” (flash) is when you suddenly feel very hot even though the temperature in the room or outside has not changed. “Hot flashes” are something that happe ns sometimes to women who, when they get older, go through something call ed “menopause” (menopause). It’s a certain time of a woman’s life when her body’s hormones begin to change. I won’t explain it all here.  
+
+Miranda says, “That’s right,” meaning yes, she is h aving hot flashes. Then she says, “I wonder if the pool is frozen.” A “pool” (p ool) here refers to a swimming pool, an area that is full of water that you can sw im in. Miranda is asking if the swimming pool is “frozen” (frozen). “Frozen” is whe n water becomes a solid. If the pool is “frozen,” the water inside of the pool has frozen and therefore you cannot swim in it. Miranda is so hot, she’s thinkin g of swimming even when it is very cold outside. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Miranda: Mmm, I could really go for an ice cream su ndae right now.   
+
+ Luca: I was thinking more like a cup of hot cocoa. 
+
+Miranda: Forget that. A banana split with ice cream  and lots of chocolate sauce topped with whipped cream – mmm. 
+
+Luca: I like chocolate, too, but hot chocolate soun ds much better. 
+
+Miranda: Oh, maybe we could run to the store for so me popsicles and ice cream sandwiches. Those would really hit the spot. 
+
+Luca: Some mulled cider is more like it for me. 
+
+Miranda: If only we had a snow cone machine. We cou ld make our own snow cones! 
+
+Luca: How about a hot toddy instead? 
+
+Miranda: No way! Do you think the frozen yogurt sto re is still open at this hour? 
+
+Luca: You do know that it’s the middle of winter, r ight? 
+
+Miranda: I know, but I can’t help it. I need to coo l off. 
+
+Luca: Hot flashes again? 
+
+Miranda: That’s right. I wonder if the pool is froz en. 
+
+[end of dialogue] 
+
+We can’t give you any frozen yogurt, but we can giv e you some excellent English lessons thanks to the wonderful scripts written by our own Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st.  
+

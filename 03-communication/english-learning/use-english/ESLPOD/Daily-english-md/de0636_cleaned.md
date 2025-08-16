@@ -1,0 +1,86 @@
+# Being Lazy and Energetic
+
+Welcome to English as a Second Language Podcast episode 6 36: Being Lazy and Energetic. 
+
+This is ESL Podcast episode 636.  I’m your host, Dr. Jeff M cQuillan, coming to you from the Center for Educational Development in bea utiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Lear ning Guide that contains a complete transcript of this episode.  The Guid e will help you learn English faster – and give you bigger muscles! 
+
+This episode is a dialogue between Carmen and Elias.  I t uses a lot of vocabulary related to the ideas of laziness and being ener getic.  Let’s get started. 
+
+[start of dialogue] 
+
+Carmen:  Wake up!  You’re supposed to be working.   
+
+Elias:  Shhh, I’m trying to sleep.  The boss is out of th e office today, so I consider it a holiday.  Today, I can be a little out of it if I  want to be.   
+
+Carmen:  Out of it?  You’re sleeping on the job – li terally!   
+
+Elias:  So what?  Aren’t you feeling a little tired o n a Monday morning? 
+
+Carmen:  I admit I’m a little sluggish, but that’s no reason to fall down on the job. We both have work to get done and I’m doing it. 
+
+Elias:  What’s wrong with you?  Why are you so hyper?  I’ m as hard working as the next guy, but I’m not going to jump through hoops when the boss is away.   
+
+Carmen:  You, hard working?  Don’t make me laugh!  Yo u’d better get back to work or when the boss gets back, he’ll call you a slacker aga in. 
+
+Elias:  Okay, I’m learning by your example.  I’m now as energetic and productive as you are.   
+
+Carmen:  Yeah?  Doing what? 
+
+Elias:  Telling my co-worker she’s a pain in the neck!  
+
+ [end of dialogue] 
+
+Carmen begins by saying, “Wake up!  You’re supposed to b e working.”  “Wake up” means stop sleeping; awaken.  Elias says, “Shhh, I’m tr ying to sleep.” “Shhh” means, of course, stop making noise.  Elias says he’s trying to sleep. “The boss is out of the office today (meaning his boss is no t there), so I consider it a holiday.  Today, I can be a little out of it if I  want to be.”  “To be out of it” means that you are not aware of what is happening arou nd you; you’re thinking of something else.  You may be talking to your wife or y our husband or your child and the other person doesn’t seem to be paying attenti on; they’re thinking about something else.  You ask them a question and they said, “ Oh, I’m sorry.  I was out of it.  I wasn’t paying attention.”  There are som e other meanings for this expression, and those can be found in the Learning Guide . 
+
+Elias says he’s a little out of it.  Carmen says, “Out of i t?  You’re sleeping on the job – literally!”  The expression “to sleep on the job” means that you are sleeping instead of working; that’s the most obvious or literal me aning – the actual meaning of the words is the meaning of “literally.”  B ut also we use this expression to mean someone isn’t doing what they’re suppose d be doing at work; they’re not doing their job; they’re not paying a ttention. 
+
+Elias says, “So what?”  “So what?” is an informal phrase  meaning I don’t care, or it’s used to show that you think whatever the other person  is talking about is not very important.  Elias says, “So what?  Aren’t you feeling  a little tired on a Monday morning?”  Carmen says, “I admit I’m a little slu ggish.”  “To be sluggish” (sluggish) means to be moving very slowly, without a lot of  energy.  She says, “that’s no reason to fall down on the job.”  The expre ssion “to fall down on the job” means to do poorly, not to do what you are expected  to do.  Carmen says, “We both have work to get done and I’m doing it.”  S o, Elias is obviously the lazy one in this dialogue and Carmen is the energetic one.  She has lots of energy; she works hard even on a Monday morning. 
+
+Elias then says, “What’s wrong with you?  Why are you so hyp er?”  “To be hyper” (hyper) means that you are very excited, overly excited we m ight say, too excited.  You have lots of energy, lots of enthusiasm, but  it’s almost too much. We often say that about, for example, young children, b ut it could also be said about an adult.  Not about me, I am never overly energ etic – trust me!  Elias says, “I’m as hard working as the next guy, but I’m not go ing to jump through hoops when the boss is away.”  The expression “to be hard w orking” means that you work hard; you are very serious about your job, you make sure you do the best job that you can do.  Elias says he is as hard working as the next guy.  This  
+
+ expression, “to be as (something – in this case hard worki ng) as the next guy,” or “to be as lazy as the next guy,” is used to compare peopl e, showing that you are normal – you are like other people; you don’t have anyth ing less about that quality than other people do, you might even have more of it.  So, when Elias says he is as hard working as the next guy, he means that he works just as hard as everyone else.  “But,” he says, “I’m not going to jump through hoops when the boss is away.”  The expression “to jump through hoops” (ho ops) means to work very hard to make someone, usually your boss, happy.  The wo rd “hoop” refers to something that is basically a big circle with a hole in  it.  In basketball, for example, the hoop is what you put the ball into and th rough.  Sometimes we’d say that we’re going to go play hoops, or play some hoops;  that means we’re going to play some basketball.  And when I say “we,” I m ean other people because I don’t really play basketball.  Although, I was on my seventh grade basketball team in junior high school, so if the Los Ang eles Lakers, our professional basketball team here, ever needs some help, I’m there to help them! 
+
+Elias is saying that he’s not going to jump through hoop s.  This expression actually refers to a different kind of hoop.  You may ha ve heard of Hula Hoops, where you have a round circle of plastic that you put and  you move your hips very quickly, and the circle – the hoop goes around your bod y.  We also use those kind of hoops, for example, in animal shows, especia lly dog shows.  You would make the dog jump through the hoop.  Well, tha t’s what Elias says he’s not willing to do; he’s not willing to put on a show – he ’s not willing to perform for anyone if the boss isn’t there, because there’s no one to  perform for. 
+
+Carmen says, “You, hard working?  Don’t make me laugh! ”  When someone says “don’t make me laugh” they’re saying that they don’t bel ieve you.  It’s a rude, informal phrase that is used to indicate that the othe r person is being ridiculous, that they are saying something stupid that you don’t beli eve.  Carmen says, “You’d better get back to work (you better start working  again) or when the boss gets back, he’ll call you a slacker again.”  A “slacker” (slacke r) is a lazy person, someone who doesn’t do anything unless you tell them or ask them, someone who doesn’t really have a clear goal in his life, someone  who doesn’t work hard. It’s an insulting term to use about someone. 
+
+Elias says, “Okay, I’m learning by example,” meaning I’m ob serving you; I’m learning by your example and I am getting that inform ation and it is changing the way I think or what I do – I’m learning by your example.   What is he learning? Well, he says he’s now as energetic and productive as Carmen  is.  “To be energetic” means to not become tired, to have lots of e nergy.  “Productive” means you get a lot of things done in a very short amoun t of time – a short period  
+
+ of time; you use your time very effectively.  We all want t o be productive when we’re at work – or at least we should want to be produ ctive!   
+
+Carmen says, “Yeah?  Doing what?” meaning how are you  being productive. Elias says, “Telling my co-worker she’s a pain in the neck!”  His “co-worker” is someone that he works with, in other words Carmen, and he’s being productive by telling Carmen that she’s a pain in the neck.  “A pa in in the neck” is someone who is very annoying, very irritating, someone who bother s you.  It could also be a thing; you could say “This class I’m taking is a pain in t he neck.”  It’s difficult; it bothers me; I don’t like it.  So, Elias ends our dialog ue by insulting Carmen, saying that she is a pain in the neck. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Carmen:  Wake up!  You’re supposed to be working.   
+
+Elias:  Shhh, I’m trying to sleep.  The boss is out of th e office today, so I consider it a holiday.  Today, I can be a little out of it if I  want to be.   
+
+Carmen:  Out of it?  You’re sleeping on the job – li terally!   
+
+Elias:  So what?  Aren’t you feeling a little tired o n a Monday morning? 
+
+Carmen:  I admit I’m a little sluggish, but that’s no reason to fall down on the job. We both have work to get done and I’m doing it. 
+
+Elias:  What’s wrong with you?  Why are you so hyper?  I’ m as hard working as the next guy, but I’m not going to jump through hoops when the boss is away.   
+
+Carmen:  You, hard working?  Don’t make me laugh!  Yo u’d better get back to work or when the boss gets back, he’ll call you a slacker aga in. 
+
+Elias:  Okay, I’m learning by your example.  I’m now as energetic and productive as you are.   
+
+Carmen:  Yeah?  Doing what? 
+
+Elias:  Telling my co-worker she’s a pain in the neck! 
+
+[end of dialogue]  
+
+ The script for this episode was written by the energetic, productive, never a slacker, Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

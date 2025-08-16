@@ -1,0 +1,106 @@
+# Small Town Charm
+
+Welcome to English as a Second Language Podcast num ber 1,210 – Small Town Charm.  
+
+This is English as a Second Language Podcast episod e 1,210. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to ESLPod.com and download a Learning Guide for this episode. How? Well, first you become a member of ESL Podcast. You log i n and then you download our eight- to ten-page PDF Learning Guide that goes  with all of our current episodes. It contains a complete transcript of ever ything we say as well as lots of other useful information to help you improve your E nglish.  
+
+This episode is a dialogue between Alisha and Ramon  about living in a small town, in a place that doesn’t have very many people . Let’s get started.  
+
+[start of dialogue] 
+
+Alisha: Hey, you’re back from your vacation. Where did you go? New York City? Miami? 
+
+Ramon: I decided to spend my vacation in Maddievill e. 
+
+Alisha: Where is Maddieville? I’ve never heard of i t. 
+
+Ramon: It’s a small town about a six-hour drive fro m here. I read about it being a throwback to the days of small shops and friendly n eighbors, with a charming old-fashioned main street. It was really nice.  
+
+Alisha: I’m not sure I’d want to travel back in tim e. It doesn’t sound very exciting. 
+
+Ramon: It wasn’t as lively as some places I could h ave gone, but I enjoyed the quaint shops, the unpretentious people, and the gen uine friendliness. 
+
+Alisha: What did you do for an entire week? 
+
+Ramon: I perused the shops, ate at the family-owned  restaurants, and learned about the quirky history of the town by shooting th e breeze with the old-timers at the local bar.  
+
+Alisha: To each his own, but that sounds like dulls ville to me. 
+
+Ramon: Then I guess you wouldn’t want to go back wi th me this summer for their wine festival. 
+
+Alisha: Did you say wine? Maybe I shouldn’t dismiss  small town charm quite so quickly. 
+
+[end of dialogue] 
+
+Alisha says to Ramon, “Hey, you’re back from vacati on.” “You’re back” here means you have returned from your vacation. “Where did you go?” Alisha asks. “New York City? Miami?” Ramon answers, “I decided t o spend” – that is, to take – “my vacation in Maddieville.” Alisha says, “Where  is Maddieville? I’ve never heard of it,” meaning I have never heard that name.  I don’t know anything about it. Ramon says, “It’s a small town about a six-hour  drive from here.”  
+
+In American English, we often distinguish between a  city – a place with hundreds of thousands or millions of people, such as Los Ang eles, New York, San Francisco, and others – and a town, which is a plac e with a much smaller number of people. There isn’t an exact number we us e to distinguish between a city and a town. Most people would probably conside r a place with, say, 3,000 or 5,000 people or fewer as being a town. There are so me towns in the United States that have only a couple hundred people.  
+
+So it’s not clear what Ramon is talking about when he says he went to a “small town,” but we can guess it’s a place that has very few people. I myself have never lived in a small town, but I’ve been to many small towns. My sister moved to a small town of 3,000 people after she graduated  from college. She was a teacher in a town even smaller than that, that was near the small town where she lived. The town where she taught high school had on ly 500 people. That was a really small town. 
+
+Well, in our dialogue, the town is “a six-hour driv e” from wherever Alisha and Ramon are now. That means it takes six hours in a c ar to get there. Ramon says, “I read about it being a throwback to the days of s mall shops and friendly neighbors, with a charming old-fashioned main stree t.” Ramon read about this small town as being a “throwback” (throwback). A “t hrowback” is something from an earlier time, an earlier time in history, someth ing that reminds you of the past.  
+
+In this case, it’s a town that reminds you of the d ays before there were big cities, when there were just towns with small shops or stor es and “friendly neighbors” –  
+
+people who were nice to you. Not like a big city su ch as Los Angeles. Ramon says this small town has a “charming old-fashioned main street.” “Charming” (charming) is something that is attractive, somethi ng that might be described as being “cute” (cute).  
+
+“Old-fashioned” refers to something that is the opp osite of modern or contemporary. Something that is “old-fashioned” is something that is no longer popular nowadays. “Old-fashioned” might also refer to a set of beliefs or values that are no longer popular today. Some people use t he term “old-fashioned” in a negative way to describe something that is no longe r done and shouldn’t be done anymore. But here, “old-fashioned” is a good thing.  It’s referring to the way this small town looks, especially its “main street.”  
+
+The “main (main) street” of a town is the most impo rtant street in a town. In fact, in many small towns, the most important street wher e you find all the shops, all the stores, is actually called “Main Street.” And t here are hundreds of thousands of Main Streets in the United States. There’s a Mai n Street in Santa Monica. There’s a Main Street in Culver City. There’s a Mai n Street here in Los Angeles. Some of these still are the most important streets in those areas. But here, he (Ramon) is using the term just to refer to the most  important street, the busiest street, the biggest street in this small town. 
+
+Alisha says, “I’m not sure I’d want to travel back in time.” “To travel back in time” means to experience things the way they were in the  past. Alisha says, “It doesn’t sound very exciting.” Ramon says, “It wasn’ t” – that is, it was not – “as lively as some places I could have gone, but I enjo yed the quaint shops, the unpretentious people, and the genuine friendliness. ” Ramon says this town wasn’t as “lively” (lively). “Lively” means with a lot of energy or movement or excitement.  
+
+Ramon describes the shops, the stores, as being “qu aint” (quaint). Something that is “quaint” is something that is attractive – a little unusual, a little old- fashioned perhaps, but still something you enjoy. “ Unpretentious” (unpretentious) refers to a person who is modest, who doesn’t try t o impress other people, who doesn’t try to seem like he is smarter or more inte lligent or more important than other people around him.  
+
+“To be genuine” (genuine) means to be real, to be t rue. It’s the opposite of being fake or phony or false. Someone who is “genuine” is  someone who doesn’t pretend to be someone else, who doesn’t act differe ntly depending on who he is with. Ramon finds that this small town had unpreten tious people and genuine  
+
+friendliness. Alisha says, “What did you do for an entire week?” That is, what did you do for the seven days you were there?  
+
+Ramon says, “I perused the shops, ate at family-own ed restaurants, and learned about the quirky history of the town by shooting th e breeze with the old-timers at the local bar.” “To peruse” (peruse) means to look at, examine, or in some cases read something very carefully, paying attention to all of the little details. So, “to peruse a shop” means to go into a store and look ve ry carefully at everything that is in it. Ramon says he also learned about the “qui rky (quirky) history of the town.”  
+
+Something that is “quirky” is something that is unu sual or strange or perhaps unexpected, but in a fun way, in a good way. “To sh oot (shoot) the breeze” (breeze) means to have an informal conversation wit h someone, without any clear purpose. If you see your neighbor, the person  who lives next to you, you may ask how he’s doing, talk about the weather, tal k about something going on in your neighborhood. You’re “shooting the breeze.”  You’re just talking to be nice, to be friendly. You don’t have any real purpose in your conversation.  
+
+Ramon was shooting the breeze with some “old-timers ” at the bar in this town. An “old-timer” is someone who has lived in a partic ular place for a long time. Someone who is, I don’t know, 70 or 80 years old an d has lived in a town or a city his whole life would certainly be considered a n “old-timer.” Someone who could tell you a lot about that particular place.  
+
+Alisha doesn’t quite understand why Ramon went to t his town. She says, “To each his own, but that sounds like dullsville to me .” The expression “to each his own” means each person has his own likes, his own w ants, and not everyone may like what that person likes. I may like drinkin g wine. You may like drinking beer. There is no right or wrong. Each person has h is own preferences, own interest. Obviously Alisha doesn’t like this idea o f going to a small town.  
+
+She says, “That sounds like dullsville (dullsville) .” “Dullsville” is a funny word that means a very boring, uninteresting place or situati on. Ramon responds, “Then I guess you wouldn’t want to go back with me this sum mer for their wine festival.” A “festival” (festival) is some sort of celebration  or party, often organized by a community or a town. In this case, this town is goi ng to have a wine festival. Now Ramon has gotten Alisha interested. She says, “Did you say wine?” She’s obviously someone who likes to drink wine.  
+
+She says, “Maybe I shouldn’t dismiss small town cha rm quite so quickly.” “To dismiss” (dismiss) means to decide to ignore someth ing, to not pay attention to  
+
+something, or to think something is not very import ant and therefore not pay attention to it. Alisha says, “Maybe I shouldn’t di smiss small town charm,” meaning even though before she thought this small t own was going to be uninteresting, if they have a wine festival, she mi ght want to go to it.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Alisha: Hey, you’re back from your vacation. Where did you go? New York City? Miami? 
+
+Ramon: I decided to spend my vacation in Maddievill e. 
+
+Alisha: Where is Maddieville? I’ve never heard of i t. 
+
+Ramon: It’s a small town about a six-hour drive fro m here. I read about it being a throwback to the days of small shops and friendly n eighbors, with a charming old-fashioned main street. It was really nice.  
+
+Alisha: I’m not sure I’d want to travel back in tim e. It doesn’t sound very exciting. 
+
+Ramon: It wasn’t as lively as some places I could h ave gone, but I enjoyed the quaint shops, the unpretentious people, and the gen uine friendliness. 
+
+Alisha: What did you do for an entire week? 
+
+Ramon: I perused the shops, ate at the family-owned  restaurants, and learned about the quirky history of the town by shooting th e breeze with the old-timers at the local bar.  
+
+Alisha: To each his own, but that sounds like dulls ville to me. 
+
+Ramon: Then I guess you wouldn’t want to go back wi th me this summer for their wine festival. 
+
+Alisha: Did you say wine? Maybe I shouldn’t dismiss  small town charm quite so quickly. 
+
+[end of dialogue] 
+
+We thank Dr. Lucy Tse for her lively dialogue, as a lways.   
+
+ From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st. 
+

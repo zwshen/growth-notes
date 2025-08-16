@@ -1,0 +1,102 @@
+# Switching Cell Phone Plans
+
+Welcome to English as a Second Language Podcast num ber 810: Switching Cell Phone Plans. 
+
+This is English as a Second Language Podcast episod e 810. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com. Just six letters – “eslp od” (eslpod) – well, a dot and then “com,” of course. Go there, become a member, d ownload the Learning Guide, and improve your English as fast as possible . 
+
+This episode is a dialogue about cell phone. These are cellular or mobile phones. We're talking about the plans that you get from the  phone company. Let's get started. 
+
+[start of dialogue] 
+
+Paul:  I need a new cell phone plan. These roaming and overage charges are killing me! 
+
+Shauna:  I thought you had a good calling, messagin g, and data plan. 
+
+Paul:  I do, but I’m still going over each month. 
+
+Shauna:  Have you thought about a prepaid plan? You ’ll never be charged extra. 
+
+Paul:  That’s not an option. I think I need an unli mited plan. 
+
+Shauna:  Okay, but I don’t understand. Why do you h ave roaming charges? Doesn’t your carrier have good coverage all over th e country? 
+
+Paul:  I’ve been taking trips to Mexico to see my n ew girlfriend and the coverage doesn’t extend to Mexico. 
+
+Shauna:  Oh, I see. And the overage charges? 
+
+Paul:  When you’re in a long-distance relationship,  you have to do a lot of calling and texting, not to mention updating social media w ebsites to stay in touch. I keep exceeding my allotted 5000 minutes of calling time and 100 megabytes of data.  
+
+ Shauna:  What?! To exceed that, you’d have to be on  the phone all the time! 
+
+Paul:  Not all the time, but I’m talking to her now . Do you want to say “hi”? 
+
+Shauna:  You’ve been on the phone with her the enti re time we’ve been having this conversation? 
+
+Paul:  How else can we keep up on everything that’s  going on in each other’s lives? 
+
+[end of dialogue] 
+
+Paul begins by saying to Shauna, “I need a new cell  phone plan,” an agreement that you sign with a telephone company about how mu ch you're going to pay for your cell phone service. Paul says, “These roaming and overage charges are killing me!” “Roaming” (roaming) refers to using yo ur cell phone outside of the normal area where the cell phone company provides a  connection to its telephone network. So, if I have a phone here in Lo s Angeles from a certain company and then I go to a different city, and let' s say my cell phone company doesn’t have any of its equipment in that city, I c ould still use my cell phone, but I would have roaming charges. I would have to be payi ng for the service that I'm using in that city because it wasn’t from my compan y. 
+
+“Overage charges” is money that you have to pay bec ause you used more minutes than are in your plan. Most cell phone plan s in the United States give you so many minutes a month. Let's say it's 500 min utes or 250 minutes. After you talk for that long in one month, you have to pa y extra for each minute. That extra amount is your overage. “Charges” of course j ust refers to money you have to pay. Paul says the overage charges are “killing him.” He doesn’t mean they're actually killing him. That’s just an expression. Wh en you say something as “killing you,” you mean it's bothering you, it's hurting you , it's something that is having a bad effect on you. 
+
+Shauna says, “I thought you had a good calling, mes saging, and data plan.” It used to be, when cell phones first began, that the only thing you could do was talk on them, just like on a regular telephone. Now , of course, you can also send text messages and with the wonderful world of the I nternet, you can also get on the Internet with your phone – not all phones, but many phones. So, “messaging” is text messaging, sending messages to another phon e with your phone. “Data” refers to Internet connection with your phone. 
+
+Paul says, “I do – I do have a good plan, but I'm s till going over each month.” “To go over” is a two-word phrasal verb that here means  to exceed, to use more than what you are supposed to, to use more than the maxi mum amount. So, if I have 250 minutes of calling on my cell phone and I call 300 minutes, I've “gone over,” I have used more than my maximum. “To go over” can al so mean to review, to look at carefully: “I want to go over these plans w ith you.” But here in the dialogue, it means to exceed, to go more than the m aximum. People might say I don’t want to go over my “limit.” It could be a lim it for other things, too. I have a limited number of girlfriends. My limit is three. I  can't have more than three girlfriends. I'm just kidding, of course. I don’t h ave girlfriends. You understand the idea though. Paul says that he’s going over his lim its each month for minutes, not girlfriends – not even sure if Paul has a girlfrien d! 
+
+Shauna says, “Have you thought about a prepaid plan ?” “Prepaid” (prepaid) is when you pay for something in advance, before you a ctually use it. A prepaid plan, when we're talking about a cell phone, is whe n you often buy like a card and you use the card to add minutes to your phone, and when those minutes are up, that’s it. You don’t have the company send you a bill every month. You can only use the number of minutes that you buy and aft er that’s gone, after you have completed those or finished those minutes, then you  can't talk anymore. You’d have to buy another card. That’s a prepaid plan. Sh auna says, “If you do that, you'll never be charged extra.” 
+
+Paul says, “That’s not an option. I need an unlimit ed plan.” Unlimited means not limited, without limits, without a maximum value, s o you don’t have 500-minute limit. You don’t have any limit. You can talk for a  million minutes if you want. You won't have a lot of time to do much else, especiall y if you have three girlfriends. Paul wants an unlimited plan. 
+
+Shauna says, “Okay, but I don’t understand. Why do you have roaming charges? Doesn’t your carrier have good coverage all over th e country?” A “carrier” (carrier) here refers to the telephone company that  provides you your phone service. That’s a carrier. Carrier can have other m eanings in English, as can the word roam, we mentioned earlier. Check out our Lear ning Guide for additional definitions of those terms. “Coverage” (coverage) i s a measurement of the geographic or physical area that you can use with y our cell phone carrier, so when we say a carrier has good coverage, we mean th at there are lots of different areas where you can use their service. 
+
+Paul says, “I've been taking trips to Mexico.” Why?  “To see my new girlfriend.” Notice he says new girlfriend. Obviously, he has ot her girlfriends. See! I told you! Paul is going to Mexico to see his new girlfriend a nd the coverage doesn’t extend  
+
+to Mexico. “Extend to” means go as far as or simply  to include, and that’s actually pretty common. Most cell phone companies don’t exte nd their coverage to other countries. 
+
+Shauna says, “Oh, I see. And the overage charges?” Paul says, “When you're in a long distance relationship,” that is, if you live  in one place and your boyfriend or girlfriend lives in a different city or a different  country, “you have to do a lot of calling and texting.” “Texting” is text messaging w e talked about earlier. “…not to mention (or in addition to) updating social media w ebsites to stay in touch.” So because Paul’s girlfriend is so far away, he has to  call her a lot, he has to text her a lot, and he has to update his social media sites.  “Social media” would be things like Facebook and Twitter. Paul says, “I keep excee ding (or going over) my allotted 5000 minutes of calling time.” My “allotte d” (allotted) means my assigned or my given. “Your allotted minutes” are the minute s that you are given by the telephone company. Paul has 5000 minutes – 5000 min utes! That’s a lot of time, Paul. He also has 100 megabytes of data. Well, that ’s not very much data. A “megabyte” is a way of measuring how much informati on, electronic information if you will, is passed up and down to an Internet conn ection, and 100 megabytes is not very much. 
+
+Shauna says, “What?! To exceed that” – and she’s ta lking now about the 5000 minutes of calling time – “ you’d have to be on the  phone all the time!” Paul says, “Not all the time, but I'm talking to her now. Do y ou want to say ‘hi’?” Shauna says, “You’ve been on the phone with her the entire  time we have been having this conversation?” So, Paul is talking to Shauna a bout this issue, and his girlfriend is on the phone right now from Mexico. W hat kind of idiot is Paul? I mean, seriously. Well, maybe not so stupid – I mean , he has more than one girlfriend, you know. 
+
+Paul says, “How else (in what other way) can we kee p up on everything that’s going on in each other’s lives?” To “keep up on” so mething is to be aware of what is happening, to know the most recent informat ion about something, especially something that might be changing quickly . 
+
+Now, let's listen to the dialogue, this time at a n ormal speed. 
+
+[start of dialogue] 
+
+Paul:  I need a new cell phone plan. These roaming and overage charges are killing me! 
+
+Shauna:  I thought you had a good calling, messagin g, and data plan.  
+
+ Paul:  I do, but I’m still going over each month. 
+
+Shauna:  Have you thought about a prepaid plan? You ’ll never be charged extra. 
+
+Paul:  That’s not an option. I think I need an unli mited plan. 
+
+Shauna:  Okay, but I don’t understand. Why do you h ave roaming charges? Doesn’t your carrier have good coverage all over th e country? 
+
+Paul:  I’ve been taking trips to Mexico to see my n ew girlfriend and the coverage doesn’t extend to Mexico. 
+
+Shauna:  Oh, I see. And the overage charges? 
+
+Paul:  When you’re in a long-distance relationship,  you have to do a lot of calling and texting, not to mention updating social media w ebsites to stay in touch. I keep exceeding my allotted 5000 minutes of calling time and 100 megabytes of data. 
+
+Shauna:  What?! To exceed that, you’d have to be on  the phone all the time! 
+
+Paul:  Not all the time, but I’m talking to her now . Do you want to say “hi”? 
+
+Shauna:  You’ve been on the phone with her the enti re time we’ve been having this conversation? 
+
+Paul:  How else can we keep up on everything that’s  going on in each other’s lives? 
+
+[end of dialogue] 
+
+If you want to keep up on the real English used by Americans, then you want to listen to ESL Podcast and read the scripts written by our wonderful scriptwriter, Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

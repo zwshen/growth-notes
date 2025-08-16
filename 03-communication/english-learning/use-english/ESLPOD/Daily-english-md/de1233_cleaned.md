@@ -1,0 +1,116 @@
+# Improving Flexibility and Mobility
+
+Welcome to English as a Second Language Podcast num ber 1,233 – Improving Flexibility and Mobility.  
+
+This is English as a Second Language Podcast episod e 1,233. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Visit ESLPod.com to get a look at our ESL Podcast S pecial Courses in Business and Daily English. Are you on Facebook? So are we! Go to facebook.com/eslpod and like us, because we like you.  
+
+In this episode, we’re going to hear a dialogue bet ween Rashida and Phil about helping your body become more flexible – being able  to move your arms and your legs in the way you’re supposed to. Let’s get started.  
+
+[start of dialogue] 
+
+Rashida: Hi, I’m Rashida and I’m your physical ther apist. I’m here to help you regain flexibility and mobility after your accident . 
+
+Phil: I’m really not sure I need a physical therapi st. I can move around pretty well right now. 
+
+Rashida: Aren’t you feeling stiffness in your arms and tightness in your shoulders?  
+
+Phil: Not really. 
+
+Rashida: Try lifting your arms over your head.  
+
+Phil: See? I’m fine. 
+
+Rashida: You can’t lift them above your shoulders. I can help you improve your range of motion. Now let’s check out your hips and legs. 
+
+Phil: There’s nothing wrong with my hips and legs! 
+
+Rashida: Can you bend at the waist and touch your t oes? Are you able to squat? 
+
+Phil: I probably could if I stretched and limbered up.  
+
+ Rashida: I think you need more than stretching. I’l l work you through some exercises that will strengthen your muscles and loo sen scar tissue. You’ll be able to move more freely. Don’t you want that? 
+
+Phil: W . . . W . . . Will it hurt?  
+
+Rashida: Only a little. Let’s get started. 
+
+Phil: Ow, ow, ow! 
+
+Rashida: We haven’t started yet. 
+
+[end of dialogue] 
+
+Rashida begins our dialogue by saying to Phil, “Hi,  I’m Rashida and I’m your physical therapist.” A “physical therapist” (therap ist) is a person who helps people who are either sick or perhaps injured to improve t heir physical movements – the movements of their arms and their legs, principally  – by using certain kinds of massages and exercises.  
+
+A physical therapist doesn’t use drugs or surgery, typically; rather, a physical therapist tries to help you regain, or once again h ave, the movement in your arms and your legs and the rest of your body that you’re  supposed to have. So if you, for example, break your leg, you might need a physi cal therapist to help you get the muscles in your legs strong again so you can wa lk normally.  
+
+Rashida says that she is here to help Phil “regain flexibility and mobility” after his accident. “To regain” (regain) means to recover, or  to get again, what you had before. So, if you used to be the number one person  at a certain activity – say, a video game – and then you lose your position as num ber one, you will want to regain it. You will want to get it back again. You will want to be as good as you were before.  
+
+In the dialogue, we’re talking about regaining “fle xibility” (flexibility). “Flexibility” is how you are able to move your body parts again, usu ally your arms and your legs. The flexibility you have allows you to move a round the way you want to. “Mobility” (mobility) is related to flexibility, ex cept “mobility” refers specifically to being able to move from one place to another, such as by walking.  
+
+Usually when we refer to “mobility,” we’re talking about the ability to walk. “Flexibility” can refer simply to one’s ability to move one’s arms back and forth,  
+
+for example, or to be able to put both arms straigh t up in the air. The two concepts are related, but refer to slightly differe nt things. Phil isn’t sure he needs a physical therapist. He says he can move around “p retty well,” meaning very well, “right now.”  
+
+Rashida says, “Aren’t you feeling stiffness in your  arms and tightness in your shoulders?” “Stiffness” (stiffness) is a feeling of  difficulty when you move your muscles, especially if you haven’t used your muscle s in a long time, or perhaps you’ve overused your muscles. You know, when you, f or example, get up one morning and your muscles are difficult to move, per haps because you were doing some physical activity yesterday that you don’t nor mally do. That would be an example of “stiffness” in your muscles.  
+
+“Tightness” (tightness) is similar to “stiffness.” It refers to a feeling of not being able to move your arms and legs the way you should be able to. When you try to move them, you may feel pain, for example. “Tightne ss” in some ways is the opposite of “flexibility.” “To be flexible” means t o be able to move without any pain or difficulty. Phil says he does not feel any stiffness in his arms or tightness in his shoulders. Your “shoulders” are, of course, where your arms meet your body.  
+
+Rashida says, “Try lifting your arms over your head .” “To lift” something means to raise it up in the air. Rashida is asking Phil to p ut his arms above his head. Phil says, “See? I’m fine.” He doesn’t have any difficul ty doing that. Rashida says, however, “You can’t lift them above your shoulders. ” So, Phil is not actually able to put his hands above where his shoulders are. She  says, “I can help you improve your range of motion.”  
+
+“Motion” (motion) refers to movement – moving thing s. Your “range” is how far or how much you can move – in this case, how much you could move your arms and legs, I suppose. Rashida says, “Now let’s check  your hips and legs.” Your “hips” (hips) refers to the area where your legs me et the rest of your body. Phil says, “There’s nothing wrong with my hips and legs! ” Rashida then asks Phil, “Can you bend at the waist and touch your toes?” “T o bend (bend) at the waist (waist)” means the same as to bend over – to stand,  usually, and then try to touch the ground with your hands.  
+
+Rashida tells Phil to “bend at the waist” and touch  his toes – with his hands, of course. Rashida then asks, “Are you able to squat?”  (squat). “To squat” means to bend your knees in order to lower the rest of your body closer to the ground. It’s almost like sitting, but you’re not actually sittin g on anything. You are instead bending your knees and bringing your body down towa rds the ground.   
+
+ Phil claims that he could probably squat if he “str etched and limbered up.” “To stretch” (stretch) in this case refers to slowly ex tending the length of your muscles as part of warming up before exercising or participating in some sort of physical activity such as a sport. “Stretching” is very common among “athletes” – people who play sports. “To limber (limber) up” is a two-word phrasal verb that means something very similar to the expression “to stretch.” It can also mean the same as “to warm up,” which is to get your body rea dy, your muscles ready to do physical activity.  
+
+Rashida says, “I think you need more than stretchin g. I’ll work you through some exercises” – meaning I will direct you to do some e xercises with me helping you – “that will strengthen your muscles and loosen sca r tissue.” Your “muscles” are the parts of your body that move the bones of your body back and forth. “To strengthen” (strengthen) means to make something st ronger, to make something more powerful.  
+
+Rashida wants to strengthen Phil’s muscles as well as “loosen (loosen) scar (scar) tissue (tissue).” “To loosen” something mean s to allow it to move freely. It means to make something less tight. “To tighten” is  the opposite of “to loosen.” “Scar tissue” refers to thick, dense tissue which i s a material in your body that sometimes is formed after you injure yourself, espe cially around your muscles.  
+
+Rashida tells Phil that if she is able to do these exercises with him, he’ll “be able to move more freely” (freely). “Freely” means witho ut any limitations, without any restrictions in his movement. Rashida then asks Phi l, “Don’t you want that?” meaning, “Is this something you want?” When we say,  “Don’t you want that?” we’re assuming that the other person does want it. Phil, however, is afraid that it’s going to hurt. It is going to cause pain. Rash ida says, “Only a little. Let’s get started.”  
+
+Immediately Phil starts to cry out in pain. Now rem ember, Phil seemed like such a tough guy, such a strong guy just a few minutes a go, but when Rashida says she’s going to start doing these exercises with Phi l, Phil says, “Ow, ow!” “Ow,” usually spelled (ow), is the sound we make when we are in pain. Rashida says, “We haven’t started yet,” meaning she hasn’t even s tarted doing the exercises and already Phil is complaining about the pain.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Rashida: Hi, I’m Rashida and I’m your physical ther apist. I’m here to help you regain flexibility and mobility after your accident . 
+
+Phil: I’m really not sure I need a physical therapi st. I can move around pretty well right now. 
+
+Rashida: Aren’t you feeling stiffness in your arms and tightness in your shoulders?  
+
+Phil: Not really. 
+
+Rashida: Try lifting your arms over your head.  
+
+Phil: See? I’m fine. 
+
+Rashida: You can’t lift them above your shoulders. I can help you improve your range of motion. Now let’s check out your hips and legs. 
+
+Phil: There’s nothing wrong with my hips and legs! 
+
+Rashida: Can you bend at the waist and touch your t oes? Are you able to squat? 
+
+Phil: I probably could if I stretched and limbered up. 
+
+Rashida: I think you need more than stretching. I’l l work you through some exercises that will strengthen your muscles and loo sen scar tissue. You’ll be able to move more freely. Don’t you want that? 
+
+Phil: W . . . W . . . Will it hurt?  
+
+Rashida: Only a little. Let’s get started. 
+
+Phil: Ow, ow, ow! 
+
+Rashida: We haven’t started yet. 
+
+[end of dialogue] 
+
+You can strengthen your English by listening to our  wonderful scripts by our wonderful scriptwriter, Dr. Lucy Tse. 
+
+ From Los Angeles, California, I’m Jeff McQuillan Th anks for listening. Come back and listen to us again right here on ESL Podcast. 
+

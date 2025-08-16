@@ -1,0 +1,90 @@
+# Arranging Airport Transfer
+
+Welcome to English as a Second Language Podcast number 6 35: Arranging Airport Transfer. 
+
+This is English as a Second Language Podcast episode 635.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Download a Learning Guide f or this episode from our website that will help you improve your English even  faster – faster than the speed of light!  That’s pretty fast!   
+
+This episode is called “Arranging Airport Transfer.”  Le t’s get started. 
+
+[start of dialogue] 
+
+My wife and I bought a vacation package and we thought that it included everything.  We should have double-checked that it include d airport transfer to our hotel as well.  Hindsight is 20/20, they say. 
+
+My wife wanted to take a taxi, but I nixed that idea.  It would cost an arm and a leg.  I wanted a cheaper option so we went to ask abou t it at the airport information desk. … 
+
+Don:  Hello, my wife and I need to get to our hotel downtown.  What are our options? 
+
+Clerk:  Well, you could take a taxi. 
+
+Don:  We’re hoping to find a cheaper option.   
+
+Clerk:  Okay, in that case, a limo service would be out, too.  There are private shuttle services, but since you’re so far from downtown, yo u’ll be making a lot of stops and it will take a long time to get there.  You  could also take public transportation – the bus or the subway – but that’ll ta ke even longer.  Doesn’t your hotel have a courtesy shuttle? 
+
+Don:  I never thought of that.   
+
+ Clerk:  Many downtown hotels do.  Call your hotel and t hey’ll be able to tell you. They’ll probably have the best suggestion on how to get there, too, if they don’t have their own shuttle.  If you decide on a private shut tle service or to take public transportation, come back and I’ll give you more informat ion. 
+
+Don:  Thanks a lot.  I’ll give the hotel a call right n ow. … 
+
+Lucky for us, the hotel had a courtesy shuttle and it was o n its way.  Good thing, too, since I didn’t relish spending any more time at the  airport after a long red- eye! 
+
+[end of dialogue] 
+
+Our story begins: My wife and I bought a vacation package  and we thought that it included everything.  A “vacation package” is when a company sells you airplane tickets, your hotel, transportation, often your meals; all  of this is part of one price. He says, “We should have double-checked that it included air port transfer to our hotel as well.”  “To double-check” means to make sure tha t something is correct. To go back again to check something is to make sure it’s corr ect, or to inspect – to look at something.   
+
+They should have double-checked that their vacation package  included airport transfer.  The “airport” is where the planes fly in and  out of.  “Transfer” is taking someone from one place to another.  So, “airport tran sfer” is transporting, or taking you in a car or a bus from your airport to the ho tel.  Many hotels that are near the airport have free what are called “shuttles,”  which are small buses or vans that pick you up from the airport and take you back t o the hotel so you don’t have to pay for a taxi.  That’s true in a lot of big ci ties in the U.S.   
+
+“Hindsight is 20/20,” he says.  This is an old expression.  “ Hindsight” means looking back at what has happened in the past, considerin g what has already taken place.  “20/20” refers to the system that we use to determine how good your eyesight or your seeing ability is.  20/20 is what we  call perfect vision; you can see perfectly, you don’t need glasses.  I am definitely not 20/20, but hindsight is always 20/20, meaning it’s always easy to unde rstand something that has already happened.  The difficult part is seeing what  is going to happen in the future! 
+
+The story continues: My wife wanted to take a taxi (a taxica b), but I nixed the idea.  A “taxi,” or a “cab,” or a “taxicab” – they’re al l the same – is when you have a driver that you pay, usually based on how long you are in the car or how far the  
+
+ car travels, or both.  The taxi idea, however, was nixed by this man, Don we later learn his name is.  “To nix (nix) (something)” means to s ay no to it, to refuse to do it, to make sure it does not happen.  He says, “It wou ld cost an arm and a leg.”  Taking a taxi, that is, would cost an arm and a l eg.  This expression means very expensive, something that costs a lot of money, too much money.  He says, “I wanted a cheaper option (a cheaper choice) so I went to ask about it at the airport information desk.”  Many airports have informat ion desks.  I’m not sure if they would give you information about this, but maybe. 
+
+Don says, “Hello, my wife and I need to get to our hote l downtown.”  He’s talking to the woman who works at the information desk in the a irport.  “What are our options?”  The clerk says, “Well, you could take a taxi.”  Don says, “We’re hoping to find a cheaper (less expensive) option.”  The clerk says, “Okay, in that case (meaning if that’s what you are looking for), a limo se rvice would be out, too.” “Limo” is short for “limousine.”  It’s a very large, usua lly black car that is very long.  You often see limousines at expensive parties.  Whe n there are award shows here Los Angeles – and there are lots of them – th ere are always limousines that take the stars – the celebrities – to the  event.  There are also limos or limousines that are not long, that are more l ike a regular car, but very nice and comfortable.  A “limo service” is a company that w ill send a car to you – a nice car, not a taxi – and you pay typically one price; th ey charge you a certain amount and you know what that is in advance.  With a taxi  you may not know, because it depends on how long or how far it is that yo u ride in the taxicab.   
+
+Anyway the clerks says, “a limo service would be out.”  “To be  out” is a two-word phrasal verb meaning not to be a possibility, to be impo ssible, to be eliminated as a choice.  She says, “There are private shuttle services, bu t since you’re so far from downtown, you’ll be making a lot of stops and it will take a long time to get there.”  A “shuttle service” is a company that arranges to  drive groups of people from one place to another, normally in a large car – a  large van.  What happens here in Los Angeles, and in some other cities, is you can ca ll up one of the shuttle services and they will come by and pick you up at your  house just like a taxicab would.  But they’ll also, on their way to the ai rport, stop and pick up other people, and so there, all of you go together.  It take s a longer time, then, to go from your house or your hotel to the airport because th e shuttle may be stopping at three or four more places to pick up more people.  H owever, a shuttle is cheaper than a taxi, for sure, but you’ll be making a l ot of stops if you take it.  A “stop” is one of the places where the vehicle – the van st ops to pick up someone or to leave someone at their hotel or house. 
+
+ I should mention also that the word “shuttle” and the  expression “be out” have additional meanings, which can be found only in our Lea rning Guide.  Well, you can find them other places, too, but most especially in o ur Learning Guide! 
+
+The clerk says, “You could also take public transportation. ”  “Public transportation” is something that the government provide s.  Usually buses, subways, some trains are part of what we call public tran sportation.  She mentions two of these: the bus and the subway.  The “su bway,” of course, is a type of train that goes typically underground, although  sometimes it may be an elevated train, what is called in cities that have elevat ed trains an “el,” short for elevated, meaning up above the ground.  Subways, however , such as the one in New York, at least in the main part – the downtown Ma nhattan – are underground.  Even Los Angeles now has a subway.  Unfort unately, it doesn’t go very far from downtown and isn’t really very useful to you – but we have one! The clerk says, “Doesn’t your hotel have a courtesy shuttle?”   We talked earlier about how the hotels have their own shuttles – their ow n cars or vans that go and pick people up from the airport and bring them back to the hotel.  That’s called a courtesy shuttle.  “Courtesy” means, in this case, free; it doesn’t cost you any money. 
+
+Don, who’s not exactly an intelligent man, says, “I never thought of that.”  Hmm, Don, wake up!  The clerk says, “Many downtown hotels do (me aning many of them do have courtesy shuttles).  Call your hotel and they’ ll be able to tell you. They’ll probably have the best suggestion on how to get there, too, if they don’t have their own shuttle.  If you decide on a private shut tle service or to take public transportation, come back and I’ll give you more informat ion.”  So the clerk is telling Don, the idiot, to call his hotel, see if they have a free shuttle, if they don’t ask them what’s the best way to get from the airport to downtown where the hotel is located.  In Los Angeles, the downtown and the airp ort – the main airport are several miles apart.  Driving it takes, with no other cars on the road, probably about 25 to 30 minutes to get downtown.  So, this is a  big problem if you don’t have cheap transportation. 
+
+Don says, “Thanks a lot.  I’ll give the hotel a call righ t now.”  “To give (someone) a call” means to call them on the telephone.  Don says, “ Lucky for us, the hotel had a courtesy shuttle and it was on its way.”  Something that is “on its way” is something that is moving toward you, something that is com ing to you but is not yet there – not yet arrived.  He says, “Good thing, too (which means it was a good thing, it was a lucky or fortunate thing), since I  didn’t relish spending any more time at the airport after a long red-eye!”  “To  relish” (relish) means to enjoy, to look forward to.  Don says he did not relish – he di d not look forward to spending more time at the airport after a long red-e ye.  A “red-eye” (eye), like the  
+
+ eye you use to see, is an airplane flight that travels dur ing the night.  So for example, there’s a plane that leaves Los Angeles at midn ight that flies to New York City.  It takes six hours to get there roughly, and b ecause New York is three hours ahead of Los Angeles – the time difference is thr ee hours – if you leave at midnight from Los Angeles you’ll arrive in New York City at nine o’clock in the morning.  The plane flies all night, normally when you  would be sleeping.  What happens if you don’t get enough sleep?  Sometimes you w ill wake up and your eyes will be red, that’s why we call that kind of plane a  red-eye.  Strange but true! 
+
+Now let’s listen to the story and dialogue, this time a t a normal speed. 
+
+[start of dialogue] 
+
+My wife and I bought a vacation package and we thought that it included everything.  We should have double-checked that it include d airport transfer to our hotel as well.  Hindsight is 20/20, they say. 
+
+My wife wanted to take a taxi, but I nixed that idea.  It would cost an arm and a leg.  I wanted a cheaper option so we went to ask abou t it at the airport information desk. … 
+
+Don:  Hello, my wife and I need to get to our hotel downtown.  What are our options? 
+
+Clerk:  Well, you could take a taxi. 
+
+Don:  We’re hoping to find a cheaper option.   
+
+Clerk:  Okay, in that case, a limo service would be out, too.  There are private shuttle services, but since you’re so far from downtown, yo u’ll be making a lot of stops and it will take a long time to get there.  You  could also take public transportation – the bus or the subway – but that’ll ta ke even longer.  Doesn’t your hotel have a courtesy shuttle? 
+
+Don:  I never thought of that.   
+
+Clerk:  Many downtown hotels do.  Call your hotel and t hey’ll be able to tell you. They’ll probably have the best suggestion on how to get there, too, if they don’t have their own shuttle.  If you decide on a private shut tle service or to take public transportation, come back and I’ll give you more informat ion. 
+
+ Don:  Thanks a lot.  I’ll give the hotel a call right n ow. … 
+
+Lucky for us, the hotel had a courtesy shuttle and it was o n its way.  Good thing, too, since I didn’t relish spending any more time at the  airport after a long red- eye! 
+
+[end of dialogue] 
+
+If you relish listening to these scripts as much as I do, you  can thank our scriptwriter Dr. Lucy Tse.  Thank you, Lucy.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

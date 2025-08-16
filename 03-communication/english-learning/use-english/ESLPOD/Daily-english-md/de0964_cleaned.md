@@ -1,0 +1,102 @@
+# Using Infographics
+
+Welcome to English as a Second Language Podcast num ber 964 – Using Infographics.  
+
+This is English as a Second Language Podcast episod e 964. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+How are you today? I’m fine, thank you. Our website  is also fine. You can find it at ESLPod.com. Go there, become a member, and downl oad a Learning Guide for this episode. You can also like us on Facebook at facebook.com/eslpod. 
+
+On this episode, we’re going to hear a dialogue bet ween Mario and Cleo about using visuals to convey, or give people, informatio n. Let’s get started.  
+
+[start of dialogue] 
+
+Mario: That’s a lot of text in your proposal. Are y ou sure people are going to take the time to read all of that? 
+
+Cleo: It’s a complex proposal with a lot of moving parts. I can’t simplify it without leaving out essentials. 
+
+Mario: What you need are infographics. You can enca psulate and communicate a lot of information by using visuals. 
+
+Cleo: This is a serious business proposal. I want p eople to take it seriously, and I don’t want them to get distracted by a lot of color  pictures. 
+
+Mario: That’s precisely why you have to use infogra phics. Look at these reports and proposals I’ve received in the past year. Every body is communicating complex sets of information and statistics in maps and graphics. You can even show hierarchies and networks easily using infograp hics. 
+
+Cleo: I didn’t know it could be done in such a prof essional way, but I don’t know the first thing about creating infographics. 
+
+Mario: Lucky for you, I know an expert. 
+
+Cleo: Who? 
+
+Mario: Someone who is enormously talented, but unde rappreciated. 
+
+Cleo: I don’t think I know anyone like that. 
+
+Mario: Hmph! 
+
+[end of dialogue] 
+
+Our dialogue begins with Mario saying to Cleo, “Tha t’s a lot of text in your proposal.” “Text” (text) here means written words –  not images, not photos, not pictures – just the actual words of whatever you’re  writing. Mario says there’s “a lot of text in your proposal.” The “proposal” is wh en you are trying to get someone to approve of your ideas to do something. M ario says, “Are you sure people are going to take the time to read all of th at?” “To take the time” to do something is to spend the time to do something so t hat you do it correctly, or you do it properly, or you do it thoroughly – completel y.  
+
+Cleo says, “It’s a complex proposal with a lot of m oving parts.” “Complex” (complex) means complicated, difficult to understan d, not easy to follow. “Moving parts” refers to the different parts of any sort of  activity. “Parts” here refers to the different things that are required for this particu lar activity to take place or to be successful. It’s a very general term used to descri be different aspects or different areas of a project.  
+
+If you have a lot of “moving parts,” you have a lot  of things that change and that change other things in your project. If this person  does their job well, then that helps the other person; or, if this happens, then t hat will mean something else will happen. All of these things are related to each oth er, and you have to try to coordinate them, to get them to work together. What  Cleo is saying is that it’s a very complicated proposal. You’ll hear that express ion, “a lot of moving parts,” when someone is talking about something that is ver y complicated.  
+
+Cleo says, “I can’t simplify it without leaving out  essentials.” “To simplify” (simplify) means to make something simpler, make so mething easier. “Essentials” (essentials) are things that are neces sary for a certain activity or project – things that you absolutely must have. Foo d and water are essential if you are going to live; so is oxygen, so are a lot o f other things. These are “essentials.” Cleo says that she doesn’t want to le ave out, or not include, essentials in her proposal. That’s why it’s so comp licated.  
+
+Mario says, “What you need are infographics.” An “i nfographic” (infographic) is a graphic or visual representation of information. It  may be representing things as a  
+
+process. It may be showing the different parts of s omething. All of those would be considered “infographics.” The word “infographics” comes from “information” and “graphics,” which are visuals. So, an infographic i s a visual that helps people understand complicated information.  
+
+Mario says, “You can encapsulate and communicate a lot of information by using visuals.” “To encapsulate” (encapsulate) means to s ummarize, to include. “To encapsulate” would be to give someone a brief versi on of the information, but in a way that communicates or gets them all of the inf ormation they need to understand it.  
+
+“Visuals” (visuals) are things that you can see, su ch as an image or a photograph or a graphic. Usually when you see the word “visual s,” someone is using that to distinguish it from text. The word “text,” as we po inted out, refers to words. “Visuals” refers to everything else, really, that y ou would look at on a piece of paper, that would be communicating information to y ou.  
+
+Cleo says, “This is a serious business proposal. I want people to take it seriously.” “To take it seriously” means to conside r it in a serious way. She says, “I don’t want them to get distracted by a lot of co lor pictures.” “To be distracted (distracted) by” something means to have your atten tion taken away from an important thing because something else, either impo rtant or interesting, is happening.  
+
+Many people nowadays get “distracted” by email at w ork. They’re working on a project, and they have their email program open on their computer, and they hear a new message come in and they go, “Oh, I have to g o check that message right away.” And that message distracts them from their r eal work, their important work, which is what they were doing before they got  distracted. 
+
+Cleo thinks that putting in infographics will distr act the readers of her proposal. She uses the term “a lot of color pictures,” which is meant to indicate that it might look nice, but it’s not very important, or doesn’t convey or give any important information. Mario says, “That’s precisely why you have to use infographics. Look at these reports and proposals I’ve received in the  past year. Everybody is communicating complex sets of information and stati stics in maps and graphics.”  
+
+“Statistics” refers to information in a numerical f orm. In everyday English, it could be something as simple as the percentage of people in a certain category, or something much more complicated. Mario says that pe ople are communicating or trying to give information about very complicate d sets of information in maps  
+
+and graphics. A “map” is, of course, a drawing that  shows you where something is. “Graphics” is another word for “images” or “vis uals.”  
+
+Mario says, “You can even show hierarchies and netw orks easily using infographics.” A “hierarchy” (hierarchy) in this ca se is a chart that shows the relationships among different people in a group. Yo u might have a chart or graphic that shows the president on the top, and th en the vice presidents below him, and then the managers below the vice president s, and so forth. That would show the hierarchy, the ranking of the people in th at company – who is the most powerful, who’s the second most powerful, and so fo rth.  
+
+Mario says, “You can show hierarchies and networks. ” “Networks” (networks) are systems of people or things, especially when we’re talking about computers that are connected and related to each other. Cleo says,  “I didn’t know it could be done in such a professional way, but I don’t know t he first thing about creating infographics.” The expression “to not know the firs t thing about” something means you are completely unfamiliar with something.  You don’t have any idea about how to do this.  
+
+Mario says, “Lucky for you, I know an expert.” Cleo  says, “Who?” Mario says, “Someone who is enormously talented, but underappre ciated.” “To be enormously talented” means to be very talented, to have a lot of expertise in something. “To be appreciated” means that people kn ow that you do a good job, and they understand that and recognize that. “To be  underappreciated” means that people don’t completely or fully recognize all  that you do. You don’t receive enough credit for what you do.  
+
+Cleo says, “I don’t think I know anyone like that.”  Obviously, Mario is not happy at the end of the dialogue. He says, “Hmph!” Of course , Mario is the person that Mario is talking about – he is the person who is en ormously talented when it comes to or related to creating infographics.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Mario: That’s a lot of text in your proposal. Are y ou sure people are going to take the time to read all of that? 
+
+Cleo: It’s a complex proposal with a lot of moving parts. I can’t simplify it without leaving out essentials. 
+
+Mario: What you need are infographics. You can enca psulate and communicate a lot of information by using visuals. 
+
+Cleo: This is a serious business proposal. I want p eople to take it seriously, and I don’t want them to get distracted by a lot of color  pictures. 
+
+Mario: That’s precisely why you have to use infogra phics. Look at these reports and proposals I’ve received in the past year. Every body is communicating complex sets of information and statistics in maps and graphics. You can even show hierarchies and networks easily using infograp hics. 
+
+Cleo: I didn’t know it could be done in such a prof essional way, but I don’t know the first thing about creating infographics. 
+
+Mario: Lucky for you, I know an expert. 
+
+Cleo: Who? 
+
+Mario: Someone who is enormously talented, but unde rappreciated. 
+
+Cleo: I don’t think I know anyone like that. 
+
+Mario: Hmph! 
+
+[end of dialogue] 
+
+Our scripts are essential to our success here on ES L Podcast, and they are written by our wonderful scriptwriter, Dr. Lucy Tse . Thank you, Lucy. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

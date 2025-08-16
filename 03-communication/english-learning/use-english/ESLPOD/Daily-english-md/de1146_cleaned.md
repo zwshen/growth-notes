@@ -1,0 +1,126 @@
+# Negotiating With a Street Vendor
+
+Welcome to English as a Second Language Podcast num ber 1,146 – Negotiating with a Street Vendor. 
+
+This is English as a Second Language Podcast episod e 1,146. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in Los Angeles, California. 
+
+Visit our website at ESLPod.com. Become a member of  ESL Podcast and download the Learning Guide for this episode. Our L earning Guides contain complete transcripts of everything we say, plus a l ist of all the key vocabulary words with definitions and sample sentences. If you ’re on Facebook, go to facebook.com/eslpod and like us.  
+
+This episode is a dialogue between Sean and Patrice  about trying to buy something from a person who sells things – not in a  store but on the street. Let’s get started.  
+
+[start of dialogue] 
+
+Sean: Just look at the quality of that. You won’t f ind a finer one anywhere. 
+
+Patrice: It’s nice, but it’s more than I want to sp end. 
+
+Sean: Okay, just for you, I’ll knock off 10 percent . What do you say? 
+
+Patrice: I think it’s still too pricey. I think I’l l pass. 
+
+Sean: Wait! Don’t be so hasty. What you have there is a one-of-a-kind item. You don’t want to pass up something this special.  
+
+Patrice: I’ll think about it . . . 
+
+Sean: How about if I throw in a second one for the same price, a two-for-one offer? 
+
+Patrice: I thought you said this was one of a kind.  
+
+Sean: Did I? I meant to say that there aren’t many out there like it. I just happen to have two. How about it? 
+
+Patrice: I think I’ll shop around first. 
+
+Sean: This offer is only good right now, so don’t w alk away. 
+
+Patrice: Like I said, I’ll think about it . . . 
+
+Sean: All right. Name your price. Make me a reasona ble offer and I’ll let you have it. 
+
+Patrice: How about 30 percent off?  
+
+Sean: That’s highway robbery! I’m just a street ven dor trying to make a living here. 
+
+Patrice: Take it or leave it.  
+
+Sean: All right, you have a deal. You drive a hard bargain. You wouldn’t be looking for a job, would you? 
+
+[end of dialogue] 
+
+Sean says to Patrice, “Just look at the quality of that.” The use of the word “just” here is mostly for emphasis. It could be a good thi ng or a bad thing. When Sean says, “Just look at the quality of that,” he means it is something of very high quality. He wants Patrice to pay attention to it. H e says, “You won’t find a finer” – that is, better – “one anywhere.”  
+
+Patrice says, “It’s nice, but it’s more than I want  to spend.” “To spend” (spend) means to use your money to buy something. Sean says , “Okay, just for you” – meaning not for any other customer, but just for yo u – “I’ll knock off 10 percent.” I should mention that sometimes people who are sellin g things will use that expression, “just for you,” to make you feel specia l, of course, to make you think that you are the only one that this vendor, this pe rson selling something, would give a discount to.  
+
+Sean says he’ll “knock (knock) off 10 percent.” “To  knock off” is a phrasal verb that here means to lower the price of something. Se an is going to lower the price, or “knock off,” 10 percent. “What do you say?” Sean  asks Patrice what her reaction is. That’s what he means by, “What do you say?” Really, he’s asking, “Will you buy it at that price?” Patrice, however, responds, “I think it’s still too pricey.” When you say something is “pricey” (pricey ), you mean it’s expensive. It costs too much.   
+
+ Then she says, “I think I’ll pass.” “To pass” here means not to do something – to decide against, in this case, buying something. Wha t Patrice is doing here, of course, is telling the vendor, the person selling t he product, that she doesn’t want it. Sean says, however, “Wait! Don’t be so hasty.” “To be hasty” (hasty) means to do something without thinking about it carefully, t o do something quickly. He says, “What you have there is a one-of-a-kind item. ” “One-of-a-kind” (kind) means unique, different from everything else.  
+
+Sean, of course, is trying to convince Patrice to b uy this thing. She doesn’t seem interested, so he’s trying to give her reasons to b uy it. He says, “You don’t want to pass up something this special.” “To pass up” is  a two-word phrasal verb which here means something similar as “to pass.” It  means to decide not to do something that is available or that is being offere d to you – in this case, not to buy the thing that the vendor is selling. We’re not  sure exactly what that thing is.  
+
+Patrice says, “I’ll think about it.” Usually when p eople say, “I’ll think about it,” especially if they’re at a store, it usually means,  “No, I don’t really want it.” But you’re being nice. You’re being polite. It’s someth ing people will often say to a person who is selling something when they don’t rea lly want to buy it. Sean knows this, and so he then says, “How about if” – m eaning what if – “I throw in a second one for the same price, a two-for-one offer? ”  
+
+“To throw (throw) in” something is to add something  without charging something extra to the person. So, if you go to the store to buy a new suit which usually includes a jacket and a pair of pants, the store mi ght “throw in” a tie. It may say, “Well, if you buy this suit, we’ll give you a tie f or free.” That’s basically what they’re saying. Sean is saying that he can “throw i n a second one,” meaning another one of what it is that Patrice is looking a t to buy for the same price – a “two-for-one offer.” “Two-for-one” means that you o nly pay the price of one thing, but you get two of that thing.  
+
+Patrice says, “I thought you said this was one of a  kind?” Patrice doesn’t understand and neither do we. How you could have tw o things that are one of a kind? That doesn’t make any sense. If it’s “one of a kind,” there’s only one of it in the whole world. Sean, knowing that of course he wa s lying, says, “Did I?” meaning “Did I say that?” “I meant to say,” what I really should have said, “that there aren’t many out there like it,” meaning there  aren’t very many of them. “I just happen to have two. How about it?”  
+
+“I just happen to” means almost by chance, or fortu nately. “How about it?” is Sean’s way of asking whether Patrice is now interes ted in buying the product.  
+
+Patrice says, “I think I’ll shop around first.” Tha t’s another thing a person will say when she’s not really interested in buying somethin g from a shop owner or a salesperson. “To shop around” simply means to go to  other stores and look for things you want to buy.  
+
+Sean says, “This offer is only good right now, so d on’t walk away.” When Sean says the offer is “only good right now,” he means h e can only give Patrice this price right now. If she comes back tomorrow, he won ’t be able to give her that low price. Sean tells Patrice not to “walk away,” m eaning don’t literally walk away from him to go to, say, another store, because if s he does, she won’t be able to get this good price. Patrice says, “Like I said, I’ ll think about it.” Sean says, “All right. Name your price.”  
+
+The expression “name (name) your price” means you t ell me how much you want to pay for it. You could actually use this phrase “ name your price” in a situation like this one where the person is asking you how mu ch you would pay for something, or in a situation where you need to be p aid a certain amount of money to do something. For example, your friend mig ht ask you to drive him 100 miles tomorrow to go to a certain place, and you sa y, “Well, I’m not sure.” Your friend may say, “Name your price,” meaning how much  money do I have to give you to drive me to this place tomorrow.  
+
+Sean says to Patrice, “Make me,” meaning give me, “ a reasonable offer and I’ll let you have it.” A “reasonable offer” is a fair pr ice, a fair amount of money. Patrice says, “How about 30 percent off?” She’s ask ing for a discount of 30 percent. Sean says, however, “That’s highway robber y!” The expression “highway (highway) robbery (robbery)” refers to a s ituation where one person is getting very little money for what he’s selling. “R obbery” means to steal something from someone.  
+
+Sean says, “I’m just a street vendor.” A “street ve ndor” is a person who sells things on the street without a store, a permanent p lace to sell things. He says, “I’m just a street vendor trying to make a living h ere.” “To make a living” means to earn or to get enough money to pay for your expense s – your food, your housing, and so forth. Sean is saying that Patrice is asking  for too low of a price.  
+
+Patrice says, however, “Take it or leave it.” That phrase, “take it or leave it,” is used when you are telling the person that this is y our final offer. This is the only thing that you will accept. If you don’t want it, I ’m going away. “Take it,” meaning accept my offer, “or leave it” – that is, I’m going  to walk away and we are ending our negotiations, our discussions over the price of  this object. Sean says, “All right, you have a deal,” meaning, “Okay, yes. I wil l sell it to you.”   
+
+ Then he says, “You drive a hard bargain” (bargain).  “To drive a hard bargain” means to be very good at getting what you want in a  negotiation. Someone who drives a hard bargain is someone who gets a very lo w price for something by negotiating very well. Sean then says, “You wouldn’ t be looking for a job, would you?”  
+
+What Sean means is that he thinks Patrice would mak e a good employee. She would make a good saleswoman, and perhaps maybe she  would be interested in working with Sean selling whatever it is Sean sells . We’re still not sure exactly what Sean is selling here, but whatever it is, we k now that Patrice got a 30 percent discount off of it.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Sean: Just look at the quality of that. You won’t f ind a finer one anywhere. 
+
+Patrice: It’s nice, but it’s more than I want to sp end. 
+
+Sean: Okay, just for you, I’ll knock off 10 percent . What do you say? 
+
+Patrice: I think it’s still too pricey. I think I’l l pass. 
+
+Sean: Wait! Don’t be so hasty. What you have there is a one-of-a-kind item. You don’t want to pass up something this special.  
+
+Patrice: I’ll think about it . . .  
+
+Sean: How about if I throw in a second one for the same price, a two-for-one offer? 
+
+Patrice: I thought you said this was one of a kind.  
+
+Sean: Did I? I meant to say that there aren’t many out there like it. I just happen to have two. How about it? 
+
+Patrice: I think I’ll shop around first. 
+
+Sean: This offer is only good right now, so don’t w alk away. 
+
+ Patrice: Like I said, I’ll think about it . . . 
+
+Sean: All right. Name your price. Make me a reasona ble offer and I’ll let you have it. 
+
+Patrice: How about 30 percent off?  
+
+Sean: That’s highway robbery! I’m just a street ven dor trying to make a living here. 
+
+Patrice: Take it or leave it.  
+
+Sean: All right, you have a deal. You drive a hard bargain. You wouldn’t be looking for a job, would you? 
+
+[end of dialogue] 
+
+Every script on ESL Podcast is one of a kind. Thank s to our one-of-a-kind scriptwriter, the wonderful Dr. Lucy Tse.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

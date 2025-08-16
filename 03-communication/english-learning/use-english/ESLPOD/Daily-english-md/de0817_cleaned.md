@@ -1,0 +1,106 @@
+# Getting a School Class Schedule
+
+Welcome to English as a Second Language Podcast num ber 817: Getting a School Class Schedule. 
+
+This is English as a Second Language Podcast episod e 817. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. Good morning, go od afternoon, good evening, whatever it is, when you're listening to this episo de, that is what I say to you. 
+
+This episode, like all of our episodes, has a Learn ing Guide, a 10-page guide with a complete transcript of everything we say on this episode,. You can find that at eslpod.com. 
+
+This episode is a dialogue between Carlos and Maria nne about going to school. Let’s get started. 
+
+[start of dialogue] 
+
+Carlos:  Did you get your class schedule? 
+
+Marianne:  Yeah. You? 
+
+Carlos:  Yeah. Let’s see if we have any classes tog ether. I have PE with Mr. Lopez and social studies with Ms. Walters. How abou t you? 
+
+Marianne:  I have PE with Ms. Schwartz and social s tudies with Ms. Eng. Who do you have for geography? I’m taking it with Mr. John son. 
+
+Carlos:  I’m not taking geography this semester. Wh o do you have for algebra? I have Ms. Abdul. 
+
+Marianne:  I’m not taking algebra. I’m taking calcu lus. Who do you have for chemistry? 
+
+Carlos:  I’m taking biology instead. This isn’t loo king good. Do we even have lunch together? I’ve been assigned the first lunch period. You? 
+
+Marianne:  I have the second lunch period. How is i t possible that we don’t have any classes together? 
+
+Carlos:  I have an idea. Are you taking band after school?  
+
+ Marianne:  No, you know I’m not musical. I’m taking  drama. 
+
+Carlos:  Drop drama and take band. That way, we’ll at least be able to hang out after school. 
+
+Marianne:  And what am I supposed to play in the ba nd when I’m tone deaf? 
+
+Carlos:  Have you ever heard of the drums? 
+
+[end of dialogue] 
+
+Our dialogue begins with Carlos asking Marianne, “D id you get your class schedule?” Your “class schedule” is a list of all o f the classes that a student will take, usually in junior high school and high school , sometimes in the younger grades. Students at the beginning of the year get a  list of their classes, with the time the classes begin, the names of the teachers a nd so forth. 
+
+Marianne says, “Yeah,” an informal way of saying “y es.” “You?” meaning, “Did you?” Carlos says, “Yeah. Let's see if we have any classes together.” Let's see if we are in any of the same classes. He says, “I have  PE with Mr. Lopez and social studies with Ms. Walters.” “PE” is short for  physical education. Sometimes we call it simply “gym class.” It's a class designe d to teach students to improve their physical strength, their physical health. “So cial studies” is a general term we use in the United States to refer to a lot of diffe rent specific areas of study. History is the most common kind of social studies, but it could also include geography, economics, the study of government (what  we might call “civics”), even anthropology in some schools. Social studies c an cover a lot of different things. I have – or used to have – a license to tea ch high school social studies, which means I could teach history, economics, psych ology, government, all sorts of things. I took classes in all sorts of those thi ngs myself when I was in college, though I don’t I think I would be a very good teach er of most of those subjects! Anyway, we're talking about the classes that Carlos  has. 
+
+Marianne says, “I have PE with Ms. Schwartz and soc ial studies with Ms. Eng,” meaning she is not in the same PE or social studies  class as Carlos. Marianne says, “Who do you have for geography?” “Who do you have” means who is your teacher. “Geography” is the study of land areas and  oceans of countries. It could be the physical geography. It could be the demograp hic information, information about the people in a certain country and so forth.  Geography, as I mentioned before, is really one are within the larger area of  social studies. But Marianne has a separate geography class. She has Mr. Johnson as her teacher. She says, “I'm  
+
+taking it with Mr. Johnson.” To “take a class” mean s to be part of a class in school. 
+
+Carlos says, “I'm not taking geography this semeste r,” meaning I am not in a class of geography. “Semester” (semester) is one-ha lf of a school year. Most school years are divided into two semesters. A scho ol year, which in the United States is usually September to early June, can also  be divided into quarters, but in most schools I think now they have semesters. In  my high school, they did. So the year is divided into two parts. There are some classes that only are one semester long. You only take them a half a year. Ot her classes, you take the whole year, both semesters. 
+
+Carlos then asks Marianne, “Who do you have for alg ebra?” “Algebra” (algebra) is a type of mathematics where you study symbols an d letters that represent numbers in what are called “equations”: n 2 plus 3 = 12 – that might be an equation you would study in algebra. In different s chools, algebra is taught in different grades, even in different states. Remembe r the American education system is very independent. Each state, each city, each area often has its own kinds of classes that it teaches. We don’t have a n ational list of classes that everyone has to take in a certain year. When I was in school, algebra wasn’t taught until the ninth grade, the first grade of hi gh school, in my school. In many other schools, it is taught at an earlier grade or at an earlier age, perhaps seventh or eighth grade. Anyway, I didn’t like alge bra. I really  didn’t like algebra. I didn’t like my algebra teacher when I was a freshma n and so I never really liked this subject. I forget what her name was…Mrs. Willi ams, I think. Carlos has Ms. Abdul as his algebra teacher. 
+
+Marianne says, “I'm not taking algebra. I'm taking calculus.” “Calculus” (calculus) is usually a math class you take after algebra. It' s more complicated. It's typically more complex, more difficult than algebra. I took c alculus also when I was a senior, my last year in high school and I also hate d it. And guess what? I had the same teacher! Marianne says, “Who do you have for c hemistry?” “Chemistry” (chemistry) is the study of elements and substances  that things are made of – hydrogen, oxygen, carbon. In chemistry, you study t hese substances and analyze them. I took chemistry when I was a junior in high school. I kind of like chemistry, actually. I had a teacher who I more or less liked, so chemistry was good. 
+
+Carlos says, “I'm taking biology instead,” meaning he’s not taking chemistry. He’s taking “biology” (biology). Biology is the study of  different forms of life, a study of what we might call living organisms. I took biology  when I was a sophomore, my second year of high school and I did not like it. T he teacher was okay. I just – I  
+
+don’t know, didn’t like it for some reason – don’t like blood! Carlos says, “This isn't looking good,” meaning it doesn’t look like t he two of them will have any classes together. He asks, “Do we even have lunch t ogether (our lunch break)? I've been assigned the first lunch period.” To be “ assigned” (assigned) means to be put into a certain group. You don’t really have a choice about it. Someone else decides this is where you're going to go. In t his case, Carlos has been assigned to the first lunch period, the time and th e day when people, students, stop and eat lunch. He says, “You?” meaning, “What about you?” 
+
+Marianne says, “I have the second lunch period. How  is it possible that we don’t have any classes together?” Carlos says, “I have an  idea. Are you taking band after school?” “Band” (band) is when a group of peo ple get together and play musical instruments together. Many schools, especia lly high schools, have a band, a group of students who play musical instrume nts at sporting games and that sort of thing. Well, Carlos asks if Marianne i s taking band after school. A lot of schools have classes after the end of the day, e xtra classes and things that aren't really academic or school subjects. 
+
+Marianne says, “No, you know I'm not musical,” mean ing I don’t have any talent when it comes to music. She says, “I'm taking drama .” “Drama” (drama) is acting usually in a theater in a play. 
+
+Carlos says, “Drop drama and take band.” To “drop” something means to decide not to take a class. In American schools, you can “ add” (add) a class, meaning you can decide to take a class or you can drop a cl ass. “To drop” a class means to not have it on your schedule anymore, not to tak e it. Carlos wants Marianne to drop drama and take band instead. “That way, we'll at least be able to hang out after school.” To “hang (hang) out (out)” is a phra sal verb meaning to spend time with another person in a relaxed comfortable way, m aybe going to a movie or just going to a place to read or to talk or to have some thing to drink, to a café. That would be to hang out. You're not doing anything spe cial. 
+
+Marianne says, “And what am I supposed to play in t he band when I'm tone deaf?” Marianne is asking how she can play a musica l instrument if she’s “tone (tone) deaf(deaf).” A person who is “tone deaf” is unable to hear the differences between musical tones, musical notes, and that woul d make it very difficult for them to play a musical instrument. 
+
+Carlos says, “Have you ever heard of the drums?” A “drum” (drum) is a musical instrument that has a rhythmic beating sound when y ou hit it with a stick. However, drums are also made to sound or play diffe rent notes, so I'm not sure if that’s really going to help for Marianne.  
+
+ Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Carlos:  Did you get your class schedule? 
+
+Marianne:  Yeah. You? 
+
+Carlos:  Yeah. Let’s see if we have any classes tog ether. I have PE with Mr. Lopez and social studies with Ms. Walters. How abou t you? 
+
+Marianne:  I have PE with Ms. Schwartz and social s tudies with Ms. Eng. Who do you have for geography? I’m taking it with Mr. John son. 
+
+Carlos:  I’m not taking geography this semester. Wh o do you have for algebra? I have Ms. Abdul. 
+
+Marianne:  I’m not taking algebra. I’m taking calcu lus. Who do you have for chemistry? 
+
+Carlos:  I’m taking biology instead. This isn’t loo king good. Do we even have lunch together? I’ve been assigned the first lunch period. You? 
+
+Marianne:  I have the second lunch period. How is i t possible that we don’t have any classes together? 
+
+Carlos:  I have an idea. Are you taking band after school?  
+
+Marianne:  No, you know I’m not musical. I’m taking  drama.  
+
+Carlos:  Drop drama and take band. That way, we’ll at least be able to hang out after school. 
+
+Marianne:  And what am I supposed to play in the ba nd when I’m tone deaf? 
+
+Carlos:  Have you ever heard of the drums? 
+
+[end of dialogue] 
+
+Our scriptwriter can write about all different scho ol subjects. That’s because it's the wonderful, intelligent Dr. Lucy Tse.  
+
+ From Los Angeles, California, I’m Jeff McQuillan, n ot very intelligent. I hope you come back and listen to us again, however, here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

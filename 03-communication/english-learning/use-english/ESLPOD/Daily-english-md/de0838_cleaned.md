@@ -1,0 +1,84 @@
+# Talking About Immigration
+
+Welcome to English as a Second Language Podcast num ber 838: Talking About Immigration. 
+
+This is English as a Second Language Podcast episod e 838. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. Our website is e slpod.com. Download a Learning Guide for this episode by becoming a membe r of ESL Podcast. 
+
+This episode is a dialog between Ann and Chris, abo ut a popular issue in the United States – immigration. Let’s get started! 
+
+[start of dialog] 
+
+Ann:  The immigration policy in this country is rid iculous. Why are there so many illegal immigrants here? They cross the border and take American jobs! They all need to be deported. 
+
+Chris:  A lot of immigrants have lived here nearly all their lives. Do you mean to tell me that you want to do some of the jobs that u ndocumented workers do, like picking crops and cleaning houses, and not earning minimum wage? 
+
+Ann:  There’s nothing wrong with that kind of work.  I wouldn’t want to do it myself... 
+
+Chris:  That’s just it! You’re willing to benefit f rom cheap labor, but you keep complaining about immigrants. There needs to be an amnesty or work permit program so that they can stay legally and work.  
+
+Ann:  And pay their taxes! These illegal immigrants  dodge paying taxes, too. 
+
+Chris:  But they don’t get the same social services  that citizens or legal immigrants do. You can’t have it both ways. If you want them to do what citizens are required to do, then you have to give them lega l status. And, by the way, when is your visitor’s visa up? 
+
+Ann:  It was up last month, but I’m from Canada! Ov erstaying a visa is not the same thing as being an illegal alien.   
+
+Chris:  That’s where you’re wrong. Where’s that num ber for immigration? 
+
+[end of dialog] 
+
+Our dialog begins with Ann saying to Chris, “The im migration policy in this country is ridiculous.” “Immigration” (immigration)  is when people come into a country. They leave their own country and they go t o a different country and typically become citizens of that country, become m embers of that country or that nation, if you will. Ann says the immigration polic y – the laws, the rules, the guidelines for immigration in this country – is “ri diculous,” meaning it’s terrible. “Ridiculous” usually has a negative meaning, especi ally in an example like this.  
+
+Ann says, “Why are there so many illegal immigrants  here?” “Illegal” (illegal) is something that is against the law. “Immigrant” is t he person who immigrates. So, if you leave from one country to another, you are a n immigrant to your new country. The United States, of course, is for the m ost part a country of immigrants. Ann says that these illegal immigrants “cross the border and take American jobs.” A “border” (border) is the line tha t divides, in this case, two countries. “To cross” means to go from one side to the other. So, “to cross the border” means to go from one country to another. An n is talking about these illegal immigrants who are coming from another coun try and into the United States – they’re crossing the border. They all need  to be “deported,” Ann says.  
+
+“To deport” (deport) is when the government of a co untry makes you leave that country. They kick you out of the country. They req uire that you leave. Chris responds that a lot of immigrants have “lived here nearly all their lives,” meaning many immigrants have been here since they were chil dren. “Do you mean to tell me that you want to do some of the jobs that undocu mented workers do?” The phrase, “Do you mean to tell me…” is used when you can’t really believe what the other person is telling you. “Do you mean to te ll me that you have never visited New York City?” Well, a lot of people have not New York City, but if you didn’t believe what the person was telling you, if you were surprised and perhaps even a little angry, you might use this phrase. “Do  you mean to tell me that you want to do some of the jobs that undocumented worke rs do?” What Chris is saying that the jobs that are being taken by illega l immigrants are jobs that most people probably don’t want to do themselves – most Americans.  
+
+The term “undocumented worker” refers to, basically , an illegal immigrant. But it’s a little nicer term. “Undocumented” means you don’t  have legal documents, and a worker, of course, is someone who works. Chris me ntions a couple of these jobs such as “picking crops” (crops). “Crops” refer s to food that is grown, food that you eat – plants. “To pick” means to go out an d take the food from the plant so that you can eat it, such as corn, for example. “Cleaning houses” means, of course, making sure that a house is clean by cleani ng the floors and the windows  
+
+and so forth. This is a job that many undocumented workers do. They work as what we would call “maids” (maids), a person who yo u pay to clean your house.  
+
+Chris says these undocumented workers often don’t e arn or don’t receive the “minimum wage.” In the United States, the “minimum wage” (wage) is the minimum amount of money you can pay a worker each h our. I’m not sure exactly what it is in 2012. It can also be different in dif ferent states. Some states have a higher minimum wage than the national or federal mi nimum wage. I believe in the year we are recording this – 2012 – it’s a little m ore than $7 an hour.  
+
+Ann says, “There’s nothing wrong with that kind of work. I wouldn’t want to do it myself…” meaning I don’t want to do that kind of wo rk. Chris says, “That’s just it.” “That’s just it” here means “That’s my point, that’ s what I’m trying to say.” You’re saying what I’m saying. “You’re willing to benefit from cheap labor but you keep complaining about immigrants.” “Labor” (labor) here  means the work that is performed by people, not machines or computers. The  word “labor” can also be used to describe what happens when a woman is about  to give birth to a child. When a child is about to be born, we say that the m other goes “into labor.” That, as many of you probably know from personal experien ce, is a lot of work indeed.  
+
+Chris says, “There needs to be an amnesty or work p ermit program so that they” – the undocumented workers – “can stay legally and work.” “Amnesty” (amnesty) is when the government decides they’re not going to  punish you for doing something illegal. Usually, amnesty is given for a short period of time and typically, for things that are not that serious. Fo r example, the public library system might have a week where you can return a boo k even if it is “overdue” – even though you were supposed to return it a long t ime ago and have to pay money because it’s late. If a library gives you amn esty, it’s saying, “We’re not going to punish you. You don’t have to pay anything  if you return the book.” Well, here, Chris is talking about amnesty for illegal im migrants, for undocumented workers. The government would not punish them if th ey wanted to stay in the country.  
+
+A “work permit” (permit) is an official document – an official letter or card – that allows you to work in a country. It’s the permissio n that the government gives you to work in that country. In the United States, you have to have a “work permit” or some sort of permission from the government to work  here, if you’re not an official resident or citizen of the U.S. Ann says, “And pay their taxes.” She’s saying that these illegal immigrants need to pay th eir taxes. She says, “They dodge paying taxes, too.” “To dodge” (dodge) means to avoid, to find a way not to do something. Some people try to “dodge” their t axes. They invent or create ways that will help them avoid having to pay the go vernment money – that’s what  
+
+Ann says these workers are doing. Chris says, “But they don’t get the same social services that citizens or legal immigrants d o.” “Social services” refers to benefits, programs provided by the government, to h elp people who are poor to give them healthcare, to help people who perhaps ha ve a drug problem – all of these could be called “social services,” helping pe ople who need help, especially economic help, financial help, help with money.  
+
+“Citizens” (citizens) are people who are members of  – or part of – a particular country, who have the rights and responsibilities o f being in that country. I am a citizen of the United States. If you are born in th e United States, you also become a citizen of the United States, even when yo ur parents are from a different country. Chris says, “You can’t have it b oth ways,” meaning you can’t say one thing and then something that is opposite, and believe that both of those things should happen or are true. He says, “If you want them” – the undocumented workers – “to do what citizens are req uired to do, then you have to give them legal status.” You have to say, “Oh, i t’s okay. You can stay here. You can stay in this country.” “And, by the way,” –  in addition – “when is your visitor’s visa up?” A “visa” (visa) is a document t hat allows you to visit a certain place, usually for a short amount of time, although  sometimes the visa can be for a longer period of time. If you come to the United States as a student, and you’re studying at a U.S university, you would get a “stud ent visa.” You could stay here, perhaps four, maybe six, even 8 years, depending on  how much education you get.  
+
+Chris is asking Ann about her visitor’s visa, which  means she’s not even an American citizen. She herself is from some other co untry. Ann says, “It was up last month.” “It was up” means that it expired, it was no longer valid. “But I’m from Canada,” she says. “Overstaying a visa is not the s ame thing as being an illegal alien.” “To overstay” (overstay) – one word – means  to stay somewhere for more time than you are supposed to or for more time than  you are expected to be there. We have an expression, “He’s overstaying his  welcome,” meaning he’s staying too long at someone’s house or in someone’s  apartment. Now this person who owns the apartment or house is starting to get a little upset. They’ve been staying there too long. “To overstay a visa” w ould mean to get a visa to visit a country and then stay there longer than the visa allows you to. Ann says, “That’s not the same thing as being an illegal alie n” – an illegal immigrant. The word “alien” (alien) here means a person who is not  from this country. We also use that word “alien” to describe beings from outer  space – creatures or life forms from other planets, if they exist. 
+
+Chris says, “That’s where you’re wrong.” He’s sayin g Ann is wrong. Overstaying a visa is, in fact, becoming an illegal immigrant. “Where’s that number for  
+
+immigration?” “Where’s that number for the office o f immigration,” or the agency in the United States government that takes care of people who are immigrants.  
+
+Now let’s listen to the dialogue this time at a nor mal speed. 
+
+[start of dialog] 
+
+Ann:  The immigration policy in this country is rid iculous. Why are there so many illegal immigrants here? They cross the border and take American jobs! They all need to be deported. 
+
+Chris:  A lot of immigrants have lived here nearly all their lives. Do you mean to tell me that you want to do some of the jobs that u ndocumented workers do, like picking crops and cleaning houses, and not earning minimum wage? 
+
+Ann:  There’s nothing wrong with that kind of work.  I wouldn’t want to do it myself... 
+
+Chris:  That’s just it! You’re willing to benefit f rom cheap labor, but you keep complaining about immigrants. There needs to be an amnesty or work permit program so that they can stay legally and work.  
+
+Ann:  And pay their taxes! These illegal immigrants  dodge paying taxes, too. 
+
+Chris:  But they don’t get the same social services  that citizens or legal immigrants do. You can’t have it both ways. If you want them to do what citizens are required to do, then you have to give them lega l status. And, by the way, when is your visitor’s visa up? 
+
+Ann:  It was up last month, but I’m from Canada! Ov erstaying a visa is not the same thing as being an illegal alien.   
+
+Chris:  That’s where you’re wrong. Where’s that num ber for immigration? 
+
+[end of dialog] 
+
+Our scriptwriter labors long and hard to provide us  with the very best scripts on the Internet. Thank you, Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again, here on ESL Podcast. 
+
+ English as a Second Language podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. Copyright 2012 by the  Center for Educational Development.
+

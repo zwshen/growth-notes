@@ -1,0 +1,118 @@
+# Using Electronics on Airplanes
+
+Welcome to English as a Second Language Podcast num ber 969 – Using Electronics on Airplanes.  
+
+This is English as a Second Language Podcast episod e 969. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Our website is ESLPod.com. Go there and become a me mber of ESL Podcast. You could also take a look at our ESL Podcast Store , as well as our ESL Podcast Blog. And why not like us on Facebook at facebook.c om/eslpod.  
+
+This episode is a dialogue about using electronic d evices – things like phones and games and computers – on airplanes. Let’s get s tarted.  
+
+[start of dialogue] 
+
+Flight attendant: I’m sorry, sir, but all passenger s need to turn off their portable electronic devices for takeoff, so you’ll need to t urn off your laptop. 
+
+Alec: I just need to finish one last email. 
+
+Flight attendant: Sir, we can’t take off until you turn that computer off. 
+
+Alec: Fine. It’s off. Why all the fuss, anyway? 
+
+Flight attendant: It’s regulations. Signals emitted  by electronics may interfere with the plane’s communication systems or navigation.  
+
+Alec: All right. 
+
+Flight attendant: Sir, you’ll also need to turn off  your tablet computer and your cell phone. Those are also considered portable electroni c devices. 
+
+Alec: You’ve got to be kidding me. You mean I have to sit here twiddling my thumbs while I wait for the plane to take off? I th ought the FAA eased up on those regulations.  
+
+Flight attendant: I’m afraid not, sir. Please power  down all of your devices so we can proceed with takeoff. 
+
+Alec: Okay, fine. What am I suppose to do until we get the all clear to use our electronics again? 
+
+Flight attendant: Perhaps you could read a magazine . 
+
+Alec: That’s what I was doing on my tablet before y ou made me turn it off. 
+
+Flight attendant: Perhaps you could take a flying l eap out the window. 
+
+Alec: What did you say? 
+
+Flight attendant: I said, “Look at that luggage hea p out the window.” 
+
+[end of dialogue] 
+
+Our dialogue begins with the flight attendant talki ng to one of the passengers, named Alec. A “flight attendant” is an employee of the airline who brings you food and things to drink during your flight when you are  traveling in a plane from one place to another. Flight attendants are also respon sible for the safety of the aircraft – to make sure everyone is sitting down wh en the plane takes off and lands, for example. A “passenger” is a person who f lies in an airplane. The flight attendant says to Alec, one of the passengers, “I’m  sorry, sir, but all passengers need to turn off their portable electronic devices for takeoff, so you’ll need to turn off your laptop.”  
+
+A “portable electronic device” is something that yo u can bring from one place to another, something that is small and easily moved. A “device” (device) is a small piece of equipment, often an electronic piece of eq uipment. “Electronic” refers to things that run on electricity and often have some sort of computer inside of them – something like a cell phone or a tablet, an iPad,  a computer, and so forth. All of these would be portable electronic devices. They’re  things that you can take with you. You can put in a small bag and carry them. 
+
+The flight attendant is telling Alec he has to turn  off his portable electronic devices for takeoff. “Takeoff” (takeoff) is when th e plane leaves the ground. Although the rules are changing for this, for a lon g time you could not use any sort of electronic devices for the first 10 minutes  or so of your flight – when the plane was taking off, and then again at the end of your flight when the plane was landing. That’s what the flight attendant is talkin g about here. She’s telling Alec he has to turn off his laptop. A “laptop” (laptop) is also called a “notebook computer.” It’s a very small computer that usually folds up like a book so that you can carry it more easily.   
+
+ Alec says, “I just need to finish one last email.” The flight attendant says, “Sir, we can’t take off until you turn that computer off.” T he flight attendant is telling Alec that the plane can’t leave until he turns off his c omputer. Alec says, “Fine. It’s off.” Notice the way he says “fine” indicates that he’s angry. Even though “fine” normally means okay, it’s clear Alec is not happy.  
+
+He says, “Why all the fuss anyway?” “Fuss” (fuss) c an be used in a couple of different ways. Here, it means: Why all of the inte rest? Why all of the excitement? Why are we making such a big deal of this particula r situation? “To make a fuss” means to cause problems or to get excited about som ething. Some people, when they complain about something, make a fuss. They ye ll and they get angry and they get very excited. That’s one meaning of “fuss. ”  
+
+The flight attendant says, “It’s regulations,” mean ing the reason is that we have rules – that is, regulations – about using portable  electronic devices on airplanes. She says, “Signals emitted by electronics may inter fere with the plane’s communications systems or navigation.” A “signal” ( signal) is an electronic message. “Emitted” (emitted) means produced or sent  out. Electronics sometimes send out signals – especially, for exampl e, a cell phone. These signals, according to the flight attendant, “may in terfere with the plane’s communications systems.” “To interfere” with someth ing is to create problems for something, to prevent something from doing what it is supposed to do.  
+
+“Communications systems” are the radios and compute rs that the plane uses to communicate with other planes and with the people o n the ground. “Navigation” (navigation) refers to how you get from one place t o another. Your “navigation systems” are the systems that tell the plane where to go. Maps and other electronic instruments are used in navigating the p lane – in getting the plane to go from one place to another, in making sure the pl ane goes to the right place. If you’re taking a plane to Chicago and the plane inst ead goes to Dallas, you won’t be very happy.  
+
+Alec says “All right,” meaning okay. The flight att endant says, “Sir, you’ll also need to turn off your tablet computer and your cell  phone.” Your “tablet (tablet) computer,” more commonly nowadays called, simply, y our “tablet,” is an electronic device that does a lot of the things tha t a computer does, but is smaller and usually doesn’t have a keyboard. It doesn’t hav e a place for you to type other than the actual tablet itself. It depends on the ta blet you have. iPads, for example, are tablet computers. They’re computers in  the form of a tablet.  
+
+The flight attendant tells Alec to turn off his tab let and his cell phone. “Those are also considered portable electronic devices,” she s ays. Alec says, “You’ve got to be kidding me.” That expression, “You’ve got to be kidding me,” is when you are very surprised at what someone is saying. It may ev en indicate that you dis agree with what a person is saying or you think tha t what a person is saying is wrong.  
+
+Alec says, “You mean I have to sit here twiddling m y thumbs while I wait for the plane to take off?” “To twiddle (twiddle) your thum bs (thumbs)” means to be bored and have nothing to do. Literally, it means t o put your hands together and move your thumbs around each other very quickly. “T o twiddle your thumbs” means to sit around and do nothing, in this case.  
+
+Alec says, “I thought the FAA eased up on those reg ulations.” The “FAA” in the United States is the “Federal Aviation Administrati on.” It’s the U.S. government agency that takes care of regulating and making rul es for airplanes. “To ease (ease) up on” something means to do less or use som ething less. The FAA easing up on regulations would mean the FAA is no l onger enforcing – no longer telling people they have to follow the regulations – or changing the regulations to make things easier.  
+
+Alec is saying that the FAA has eased up on the reg ulations – they’ve changed the rules on things like using portable electronic devices on airplanes. The flight attendant says, however, “I’m afraid not, sir. Plea se power down all of your devices so we can proceed with takeoff.” “To power down” something means to turn it off, especially something that is running o n electricity.  
+
+Alec says, “Okay, fine. What am I supposed to do un til we get the all-clear to use our electronics again?” The term “all-clear” (clear ) refers to a signal that you are given, a message that is communicated to you that i ndicates that what you could not do before, you can now do – that the situation has changed so that you are now able to do something that you were not able to do before – in this case, to use electronic devices. The flight attendant says, “Perhaps you could read a magazine.” Alec said, “That’s what I was doing on m y tablet before you made me turn it off.” The flight attendant is referring, of  course, not to an electronic magazine, but to a paper magazine.  
+
+She says, “Perhaps you could take a flying leap out  the window.” “To take a flying leap” (leap) is a very rude informal express ion used to tell someone to leave or to go away. “You can take a flying leap” i s something you would say to someone who perhaps did something wrong or made you  angry and now you want that person to leave. It’s an insulting inform al phrase. Alec says, “What did  
+
+you say?” He can’t believe what the flight attendan t just told him, since flight attendants are not supposed to be rude to their cus tomers.  
+
+So the attendant changes what she just said – prete nds as though she had said something else. She says, “I said, look at that lug gage heap out the window.” A “heap” (heap) is a large pile of something, a large  number of objects that are sitting one on top of the other. When they put your  luggage, your bags, into the bottom of the plane, usually they come out on a big  cart, a big truck, and the bags are all put one on top of the other in a large  pile or a large heap.  
+
+The flight attendant is changing what she said so t hat Alec doesn’t get angry. She’s pretending that she said, “Look at that lugga ge heap out the window” rather than “Take a flying leap out the window,” wh ich is what, of course, she actually said. The flight attendant is not very hap py with Alec, since Alec is causing all sorts of problems on the airplane. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Flight attendant: I’m sorry, sir, but all passenger s need to turn off their portable electronic devices for takeoff, so you’ll need to t urn off your laptop. 
+
+Alec: I just need to finish one last email. 
+
+Flight attendant: Sir, we can’t take off until you turn that computer off. 
+
+Alec: Fine. It’s off. Why all the fuss, anyway? 
+
+Flight attendant: It’s regulations. Signals emitted  by electronics may interfere with the plane’s communication systems or navigation.  
+
+Alec: All right. 
+
+Flight attendant: Sir, you’ll also need to turn off  your tablet computer and your cell phone. Those are also considered portable electroni c devices. 
+
+Alec: You’ve got to be kidding me. You mean I have to sit here twiddling my thumbs while I wait for the plane to take off? I th ought the FAA eased up on those regulations.  
+
+ Flight attendant: I’m afraid not, sir. Please power  down all of your devices so we can proceed with takeoff. 
+
+Alec: Okay, fine. What am I suppose to do until we get the all clear to use our electronics again? 
+
+Flight attendant: Perhaps you could read a magazine . 
+
+Alec: That’s what I was doing on my tablet before y ou made me turn it off. 
+
+Flight attendant: Perhaps you could take a flying l eap out the window. 
+
+Alec: What did you say? 
+
+Flight attendant: I said, “Look at that luggage hea p out the window.” 
+
+[end of dialogue] 
+
+Our scriptwriter does not sit around here at ESL Po dcast twiddling her thumbs. No, she works hard to produce the wonderful dialogu es that we listen to. Thank you, Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

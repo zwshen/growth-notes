@@ -1,0 +1,104 @@
+# Being Reprimanded at Work
+
+Welcome to English as a Second Language Podcast num ber 1,160 – Being Reprimanded at Work. 
+
+This is English as a Second Language Podcast episod e 1,160. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to ESLPod.com and become a member of ESL Podcast . Why not? Be bold, be brave. Be a member of ESL Podcast. When you do, you can download the Learning Guide for this episode that contains not o nly a complete transcript of every word I say, but also a complete glossary, a l ist of all the key terms, definitions, sample sentences, and a whole lot more . And if you don’t want to become a member, consider buying some of our specia l courses in Business and Daily English that you will also find on our websit e.  
+
+This episode is a dialogue between Tanya and James about making mistakes at work and getting in trouble. Let’s get started. 
+
+[start of dialogue] 
+
+Tania: What time is your meeting with Ted? 
+
+James: It’s at 3:00. Why? 
+
+Tania: You don’t seem worried. If I were being accu sed of misconduct and up for disciplinary action, I’d be on edge. 
+
+James: It was a minor offense. I’m sure I’ll just g et a slap on the wrist. 
+
+Tania: I heard about it and it didn’t sound that mi nor. 
+
+James: People blow things out of proportion. It’s n ot like I’ll be up for dismissal or anything. 
+
+Tania: I hope not, but you might get a written repr imand placed in your personnel file. That could affect your chances for a raise or  promotion. 
+
+James: I don’t have much of a chance of getting eit her one, quite frankly, so why sweat it? I’ll deal with whatever punishment I get.  
+
+Tania: I’m glad that’s your attitude. 
+
+James: What I say is: Don’t do the crime if you can ’t do the time! 
+
+[end of dialogue] 
+
+Tanya begins by asking James a question: “What time  is your meeting with Ted?” James says, “It’s at 3:00. Why?” Tanya says, “You don’t seem worried.” You don’t seem concerned. “If I were being accused of misconduct and up for disciplinary action, I’d be on edge.” Tanya says th at if she were “accused of misconduct,” she’d be “on edge.”  
+
+“To be accused” (accused) means that someone has sa id that you have done something wrong or perhaps even something illegal. If someone accuses you of stealing something, that person is saying that you stole something. You did something, in this case, wrong and possibly illegal .  
+
+James is being accused of misconduct. “Misconduct” (misconduct) is breaking the rules, doing something wrong. “Misconduct” is a  more formal term for doing something wrong or behaving in such a way that your  company or organization thinks that you need some sort of punishment. Usual ly that’s what it means. The word “conduct” simply means behavior. It could be g ood behavior or bad behavior. “Misconduct” is always bad behavior or po or behavior, or breaking the rules and regulations.  
+
+Tanya says that James is “up for disciplinary actio n.” “To be up for” something means to be considered for something. It could be a  good thing or it could be a bad thing. If someone says, “I’m up for a promotion ” (promotion), meaning getting a better job in your company, that’s a good thing. “To be up for disciplinary action,” however, is certainly a bad thing. “Discip linary” (disciplinary) comes from the word “discipline.” “To discipline” someone is t o punish someone, to do something bad to someone who has done something wro ng.  
+
+A parent may discipline his child for doing somethi ng wrong by, oh, I don’t know, sending the child to his room or telling the child he has to sit in the corner and not play with the other kids for 10 minutes or five min utes. If your child does something wrong, you may say to the child, “You’re not going to get any dessert tonight, or any sweets tonight. That’s my way of di sciplining you.” “Disciplinary,” then, refers to some sort of punishment.  
+
+“Disciplinary action” would be something the, in th is case, company will do to you for breaking the rules. Tanya says that James is “u p for disciplinary action.” If she  
+
+were in that condition or that situation, she would  be “on edge.” “To be on edge” (edge) means to be worried about something, to be n ervous about something. You could also be on edge if you were perhaps uneas y. You’re not sure what’s going to happen. “I’m waiting to get the results of  my exam. I’m on edge.” I’m uneasy.  
+
+James, however, doesn’t seem to be worried. He says , “It was a minor (minor) offense (offense).” Something that is “minor” is no t important, not significant – “small,” we might say. The opposite of “minor” is “ major” (major). Of course, “minor” and “major” are also musical terms. But her e they refer to the importance or significance of something. An “offense” is a vio lation, when someone breaks a rule or breaks a law. James says that whatever he d id was a “minor offense.”  
+
+He says, “I’m sure I’ll just get a slap on the wris t.” A “slap (slap) on the wrist (wrist)” is a very mild, almost insignificant punis hment. It’s when you don’t get disciplined very much. It’s when the punishment you  get doesn’t seem very significant or very serious. If you kill someone, i f you murder someone, and then the police tell you, “Well, you’re only going to ha ve to pay a $10 fine for that,” that would be a slap on the wrist. That’s not normally g oing to happen in most places.  
+
+Your “wrist” (wrist) is part of your body. It’s whe re your hand meets the rest of your arm. A “slap” (slap) is a hit. “To slap” usual ly means to take your hand and hit someone on his or her face, but “slap” could al so mean a very light or not very painful hit with your hand. A “slap on the wrist,” then, would not be a very painful experience, and therefore not a very significant pu nishment. I’m not saying that you should slap anyone hard in order to discipline them. It’s an old expression that means a very, what we might describe as, “mild ” or even “minor” punishment.  
+
+Tanya says, “I heard about it,” meaning I heard abo ut what you did, James. “And it didn’t sound that minor.” Noticed the use of the  word “that” here to mean “very.” It didn’t sound very minor, meaning it didn’t seem to her that whatever James did was a minor offense. James continues, however: “Peo ple blow things out of proportion.” The expression “to blow (blow) things out of proportion (proportion)” means to treat a situation or to consider a situati on as if it were much more important and serious than it actually is.  
+
+If you come home and your wife asks you if you brou ght the groceries home – the food – home from the store and you say, “Oh no,  I forgot.” If then your wife takes out a gun and shoots you, that would probably  be blowing things out of proportion. Your wife is getting more angry then sh e really should. So, “Honey,  
+
+I’m sorry I forgot the groceries today – don’t shoo t me.” That’s blowing things out of proportion.  
+
+James says that his situation has been blown out of  proportion, apparently. He says, “It’s not like I’d be up for dismissal or any thing.” James is saying that he’s not going to be dismissed. “To be up for dismissal”  (dismissal) means that you are going to be fired. You are going to lose your j ob. That’s the meaning of the verb, in this case, “to dismiss.” Tanya says, “I ho pe not, but you might get a written reprimand placed in your personnel file.” A  “reprimand” (reprimand) is a written notification that you did something wrong. Usually a reprimand says something about what will happen if you do that sam e thing again.  
+
+So, a “written reprimand” would be something that a  company would put in your “personnel file.” “Personnel” (personnel) – notice there are two “n”s in “personnel” – refers to people who work for an organization. Yo ur “personnel file” (file) would be information about you that, at least in some com panies, is still kept in a physical thing, called a “file” or a “folder,” in w hich you put pieces of paper that are related to each other. Nowadays, of course, the  word “file” usually refers to an electronic file, a document.  
+
+Tanya reminds James that this written reprimand tha t would be put or placed in his personnel file could affect his chances “for a raise or promotion.” A “raise” (raise) is when you get more money for the work you  do at your company. A “promotion,” as we mentioned previously, is when yo u get a better job at your company.  
+
+James says, “I don’t have much of a chance of getti ng either one, quite frankly.” The expression “quite (quite) frankly (frankly)” me ans I’m telling you this in a very honest way; I’m telling you in a very direct way. W hen someone uses the phrase “quite frankly,” he’s saying, “I’m being honest wit h you.” I’m being 100 percent honest with you even though it might be embarrassin g or even though it might perhaps anger you. In this case, though, James is s aying that quite honestly, “quite frankly,” he doesn’t think he’s going to get  a raise or a promotion, “so why sweat it?”  
+
+“To sweat (sweat) it” means to be very nervous or w orried about something. If someone says, “Don’t sweat it,” he’s saying don’t w orry about it. It’s no big deal. James says, “I’ll deal with whatever punishment I g et.” A “punishment” is, of course, something done to you when you do something  wrong. It’s a negative consequence of your actions, we might say. Tanya sa ys, “I’m glad that’s your attitude,” meaning I’m glad that that is your viewp oint – the way you think about things.   
+
+ James ends the dialogue by saying, “What I say is,”  meaning my opinion is, “Don’t do the crime if you can’t do the time.” That ’s an old expression: “Don’t do,” or commit, “the crime” – that is, don’t break the l aw – “if you can’t do the time.” “To do the time” here means to take the punishment,  usually to be placed in a jail, to be put in a prison. If someone says he’s “ doing time,” that person means he’s in prison. Or if a person said, “Yeah, I did t ime back in the 1980s,” she’s telling you she was in prison back in the 1980s.  
+
+“Don’t do the crime if you can’t do the time. Don’t  do it.” That was a song. Actually, it was from a television show called Bere tta . “Don’t do the crime if you can’t do the time” was part of the theme song, the song that they would play at the beginning of the show. I believe it was written  by the great Sammy Davis Jr. Interestingly, the actor who played the character B eretta in the TV show himself was accused of murder. He, however, was not found g uilty, though many people said that he did do the crime. He just didn’t do th e time. Who knows?  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Tania: What time is your meeting with Ted? 
+
+James: It’s at 3:00. Why? 
+
+Tania: You don’t seem worried. If I were being accu sed of misconduct and up for disciplinary action, I’d be on edge. 
+
+James: It was a minor offense. I’m sure I’ll just g et a slap on the wrist. 
+
+Tania: I heard about it and it didn’t sound that mi nor. 
+
+James: People blow things out of proportion. It’s n ot like I’ll be up for dismissal or anything. 
+
+Tania: I hope not, but you might get a written repr imand placed in your personnel file. That could affect your chances for a raise or  promotion. 
+
+James: I don’t have much of a chance of getting eit her one, quite frankly, so why sweat it? I’ll deal with whatever punishment I get.  
+
+Tania: I’m glad that’s your attitude.  
+
+ James: What I say is: Don’t do the crime if you can ’t do the time! 
+
+[end of dialogue] 
+
+If anyone deserves a raise and promotion here at th e Center for Educational Development, it’s our very own Dr. Lucy Tse. Clap i f you think that she deserves a raise and a promotion. Come on, everybody! Thank you. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening, as well as clapping. Come back and listen to us again one m ore time – well, at least one more time – right here on ESL Podcast. 
+

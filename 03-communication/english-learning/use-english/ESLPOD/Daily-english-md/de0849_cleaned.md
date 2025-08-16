@@ -1,0 +1,86 @@
+# Bargaining With Store Owners
+
+Welcome to English as a Second Language Podcast num ber 849: Bargaining with Store Owners 
+
+This is English as a Second Language Podcast episod e 849. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Our website is eslpod.com. Go there, become a membe r, and support this podcast. 
+
+This episode is a dialog between Connie and Ivan ab out bargaining, trying to get a good price, at a store. Let’s get started. 
+
+[start of dialog]  
+
+Connie:  You speak McQuillanese. Ask the store owne r the price of this vase. 
+
+Ivan:  All right. He says it’s $60. 
+
+Connie: That’s actually a great price, but let’s se e if I can talk him down a little. You should never accept the starting price and the prices in these stores are all negotiable. Ask him what his rock bottom price is f or the vase.   
+
+Ivan:  He said that he’ll take $50, but not one pen ny less. 
+
+Connie:  The vase is really a steal at $50, but may be he’s still willing to bargain. Tell him that I won’t pay a penny more than $40.   
+
+Ivan:  I told him and he says that at that price, h e’d be giving it away. I don’t think he’s going to budge. I think you should just buy it . He doesn’t look like he’s willing to haggle with you. 
+
+Connie:  Don’t be impatient. Good things come to th ose who wait. Tell him that I’m ready to walk away if he doesn’t take $42 for i t. Hey, where’s he going? 
+
+Ivan:  He says that he’s walking away because he do esn’t sell to cheap Americans. 
+
+Connie:  Hmph! 
+
+[end of dialog] 
+
+Our dialog begins with Connie saying to Ivan, “You speak McQuillanese.” “McQuillanese,” like “McQuish,” is a very rare lang uage. Actually, the ending -ese is used in a couple of different ways. It can be us ed to describe a language, for example, Japanese, or Chinese – those are languages  spoken in Japan and China, respectively. We also use that suffix -ese a t the end when we are talking about the particular kind of language, for example,  for a certain type of work or for a certain purpose. We used to talk about in lin guistics something called “motherese,” which is the kind of language that a m other uses with her child. I think they call it “caretakerese,” nowadays. But th e idea is that the -ese usually indicates, or often indicates, that we’re talking a bout a language. And here, we’re talking about McQuillanese as a language. Ivan spea ks McQuillanese.  
+
+So Connie says, “Ask the storeowner the price of th is vase.” A “vase” (vase) is a ceramic or glass object, usually used for putting f lowers into. Ivan says, “All right.” And then, I guess, he speaks McQuillanese t o the storeowner. Then he says to Connie, “He says it’s $60.” Connie says, “T hat’s actually a great price” – a very good price – “but let’s see if I can talk hi m down a little.” “To talk someone down” means to get someone to agree to a lower pric e than he has offered you, to get someone to lower the price on something they ’re selling. That’s “to talk someone down.” “The buyer talked down the seller $5 0 – he talked him down.”  
+
+Connie says, “You should never accept the starting price.” The “starting price” is the price that the seller tells you first. “It’s a hundred dollars,” and you say, “Oh, no. A hundred dollars? No, no, no. How about $50?” The starting price there would be a hundred dollars, what the seller tells y ou initially, at first. Connie says, “You should never accept the starting price and the  prices in these stores are all negotiable.” “Negotiable” (negotiable) means that t hey can be changed. When you go into a typical American store, especially a large store such as a department store that sells clothing and furniture,  usually the prices are not negotiable. You can’t take a shirt and go up and ta lk to one of the employees at the store and say, “I’ll give you $10 for this shir t,” even though the price is $15.  
+
+However, in many countries, and in smaller stores p erhaps in the U.S, prices are negotiable, and you can say, “Well, that’s too high ,” and then you give a different price. Connie says, “Ask him what his rock bottom p rice is for the vase.” “Rock bottom price” is the lowest possible price you will  accept, the least amount of money. This, of course, is a strategy, a technique in bargaining, in trying to get a low price for something. You try to get the other p erson to give you the lowest possible price that he is willing to give you, and so you may ask for his “rock  
+
+bottom price,” although, usually, that’s only somet hing you might ask for after you’ve already negotiated a little bit back and for th.  
+
+Ivan says, “He said he’ll take $50 but not one penn y less.” The expression “not one penny (penny) less” means that this is the abso lute minimum or lowest price, that the person is not going to lower the price any more beyond that point. A “penny” is one cent, one American cent. One dollar is a hundred cents, or a hundred pennies equals one dollar. Connie says, “Th e vase is a real steal at $50.” A “steal” (steal) here means a very good deal , something that is sold at a very low price, something expensive sold very cheap ly. “Steal” has some other meanings in English, however. Make sure you look at  the Learning Guide for those. You don’t want to use the wrong meaning of s teal. Here “steal” means a very good bargain.  
+
+Connie says, “Maybe he’s still willing to bargain”  - “he’s still willing” meaning even though he said that is his lowest price, maybe  he’ll go a little lower. “To bargain,” as we said before, means to negotiate, me ans to get a lower price by talking to someone. Then Connie says, “Tell him” – the seller – “that I won’t pay a penny more than $40.” So, the seller said he wouldn ’t accept anything lower than $50. “Not one penny less,” he said. Connie is now s aying that she won’t pay a penny more than $40, meaning $40 is the maximum, th e most she will pay.  
+
+Ivan then, of course, talks to the store owner in M cQuillanese. We don’t get to hear that part. He says, “I told him and he says th at at that price, he’d be giving it away. “At that price” – meaning at $40 – “he would be giving it away.” Of course, to give something away is a phrasal verb, meaning t o give something for free. You’re not even asking for any money for it. Of cou rse, the shop owner is not giving it away, but he’s using that expression to s ay that he can’t possibly sell this vase at $40. It’s too cheap. He won’t make any mone y. Ivan says “I don’t think he’s going to budge.” “To budge” (budge) means to m ove a small amount or to change your position. If someone says, “Well, this is my price and I’m not going to budge,” here he means that they’re not going to change their position. They’re not going to change the price.  
+
+Ivan says, “I think you should just buy it. He does n’t look like he’s willing to haggle with you.” “To haggle” (haggle) or “to haggl e” – same word – my pronunciation is a little different – means to nego tiate, to bargain, to try to get a lower price. So, it’s the same as to bargain. Conni e says, “Don’t be impatient. Good things come to those who wait.” This is an old  expression, “Good things come to those who wait” – if you wait enough, if yo u wait a long time, eventually you will have some good things coming to you. The i dea is that even though  
+
+there are difficulties in waiting, it may not be ve ry pleasant. When you wait, you get good things after that waiting period.  
+
+Connie says, “Tell him that I’m ready to walk away if he doesn’t take $42 for it.” “To walk away” means, in this case, to end the disc ussion, to stop the negotiation, to say, “Okay, I’m not going to buy it  all. Goodbye.” Connie says, “Hey, where’s he going?” Where is he going? Ivan sa ys, “He” – the storeowner – “says that he’s walking away because he doesn’t sel l to cheap Americans.” “Cheap” (cheap) is a low price. But here it’s used as an insult. It means someone who doesn’t want to pay very much money for anythin g even though that thing is worth the money. Someone who is cheap is someone wh o doesn’t like to spend money and will often sacrifice rather than spend mo re money, will often say, “Okay, I’m not going to do anything because I don’t  want to spend any money.”  
+
+It’s usually an insulting term to call someone “che ap.” If you ask a girl out on a date, and then at the end of the date you say, “Oh,  why don’t we each pay our own bill,” if you’re a man, the girl might think yo u are cheap. And she’d probably be right. 
+
+Now let’s listen to the dialog this time at a norma l speed. 
+
+[start of dialog] 
+
+Connie:  You speak McQuillanese. Ask the store owne r the price of this vase. 
+
+Ivan:  All right. He says it’s $60. 
+
+Connie: That’s actually a great price, but let’s se e if I can talk him down a little. You should never accept the starting price and the prices in these stores are all negotiable. Ask him what his rock bottom price is f or the vase.   
+
+Ivan:  He said that he’ll take $50, but not one pen ny less. 
+
+Connie:  The vase is really a steal at $50, but may be he’s still willing to bargain. Tell him that I won’t pay a penny more than $40.   
+
+Ivan:  I told him and he says that at that price, h e’d be giving it away. I don’t think he’s going to budge. I think you should just buy it . He doesn’t look like he’s willing to haggle with you. 
+
+Connie:  Don’t be impatient. Good things come to th ose who wait. Tell him that I’m ready to walk away if he doesn’t take $42 for i t. Hey, where’s he going?  
+
+ Ivan:  He says that he’s walking away because he do esn’t sell to cheap Americans. 
+
+Connie:  Hmph! 
+
+[end of dialog] 
+
+Good things come to those who wait each week for th e next amazing episode of ESL Podcast, with the amazing scripts by our own, D r. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. Copyright 2012 by the  Center for Educational Development.
+

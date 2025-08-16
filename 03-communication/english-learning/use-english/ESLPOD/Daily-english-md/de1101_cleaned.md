@@ -1,0 +1,120 @@
+# Problems Getting Along With Family
+
+Welcome to English as a Second Language Podcast num ber 1,101 – Problems Getting Along with Family.  
+
+This is English as a Second Language Podcast episod e 1,101. Lots of ones. I’m your host, Dr. Jeff McQuillan, coming to you from t he Center for Educational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Take a look at our  Special Courses in Business and Daily English on our website.  
+
+This episode is a dialogue between Oscar and Prisci lla about getting along with, or having good relations with, your family. Let’s g et started.  
+
+[start of dialogue] 
+
+Oscar: So you’re back from your mother’s birthday d inner. How was it? 
+
+Priscilla: Same old, same old. It isn’t a family ga thering without a major meltdown or blowup. 
+
+Oscar: Yikes, what happened? 
+
+Priscilla: You know how it is. It starts out with b ickering and somebody taking offense at some slight or dig, or bringing up some old grievance.  
+
+Oscar: Well, that happens in most families. 
+
+Priscilla: Yeah, but in mine, they often turn into screaming matches. We all raise our voices and somebody always storms out. 
+
+Oscar: Even at your mother’s birthday dinner? 
+
+Priscilla: The occasion doesn’t matter. My mother t ries to be the peacemaker, but it doesn’t take much for tempers to flare. 
+
+Oscar: That never happens in my family. 
+
+Priscilla: What?! Your family doesn’t fight when it  gets together? 
+
+Oscar: No, we try to sweep things under the rug and  put on a brave face.   
+
+ Priscilla: What happens when you get mad at each ot her? 
+
+Oscar: Nothing. 
+
+Priscilla: What do you mean nothing? 
+
+Oscar: A lot of our family meals are eaten in stony  silence.  
+
+Priscilla: Wow, I think I prefer our knock-down, dr ag-out fights! 
+
+[end of dialogue] 
+
+Oscar asks Priscilla, “So you’re back from your mot her’s birthday dinner. How was it?” Priscilla says, “Same old, same old.” This  is a phrase used informally to describe something that was unsurprising, or perhap s uninteresting or boring – the same as it has been, and as you expected it to be. Priscilla says, “It isn’t a family gathering,” meaning a meeting of the family,  “without a major meltdown or blowup.”  
+
+“Meltdown” (meltdown) here refers to an intense dis play of, or show of, emotion – when someone, especially a child, loses control of his or her emotions and becomes very angry or very sad. Often people who ha ve a meltdown, especially children, scream. They yell in a very loud voice. A  “blowup” (blowup) is when someone becomes very angry very quickly and starts shouting. A blowup is usually related to an argument between two people w here one of them starts yelling or screaming.  
+
+Oscar says, “Yikes, what happened?” “Yikes” (yikes)  is an expression of surprise or disapproval. It’s a little old-fashioned, but yo u will still hear people say “yikes.” It’s sort of like saying “wow” or “geez.” So, Oscar  is asking what happened at this family gathering. Priscilla says, “You know how it is,” meaning you understand the situation. “It starts out with bickering and so mebody taking offense at some slight or dig, or bringing up some old grievance.”  
+
+Priscilla says, “It starts out with,” meaning it be gins with, “bickering.” “To bicker” (bicker) means to argue, to fight verbally, usually  over things that aren’t very important. “To take offense” (offense) means to bec ome upset by what another person has said or done, usually to you. Someone ma y say something bad to you, something insulting. You might take offense. Y ou might say, “Oh, how could you possibly say that?” and become angry.  
+
+Priscilla says that at this family gathering, some member of her family took “offense at some slight (slight) or dig (dig).” A “ slight” is an insult, something you do or say to someone that shows you don’t respect t hem or you don’t like them. A “dig” is a critical remark or statement, often so mething that is made to make the person feel bad, but also to make other people laugh at you.  
+
+Priscilla also mentions someone bringing up an “old  grievance.” A “grievance” (grievance) is a complaint that you have about some thing. You’re not happy with something. You think perhaps something is unfair, a nd you remain upset or mad about it. Oscar says, “Well, that happens in most f amilies.” Priscilla says, “Yeah, but in mine, they often turn into screaming matches .” Priscilla is saying that family gatherings, when the family gets together, t hese meetings “often turn into” – or result in, become – “screaming matches.”  
+
+“To scream” is to yell very loudly. A “match” (matc h) is a competition, like a game between two people. We talk about “boxing matches,”  where two people basically get into what’s called a “ring” (ring) an d hit each other. Well, this isn’t a boxing match. This is a screaming match, where two people are yelling at each other. It’s not really a competition, of course, bu t we use this expression to refer to a situation when two people are yelling at each other in a loud voice.  
+
+Priscilla says, “We all raise our voices and somebo dy always storms out.” “To raise (raise) your voice” means to yell or to shout . “To storm (storm) out” is a two- word phrasal verb meaning to leave the room angrily  – to leave a room indicating to everyone how angry you are. Maybe you close the door very hard behind you. We would say “slam” (slam) the door. Oscar says, “E ven at your mother’s birthday dinner?” Priscilla answers, “The occasion doesn’t matter.” She means it doesn’t matter why the group is getting together, w hy the family is getting together. There are always these arguments.  
+
+Priscilla continues, “My mother tries to be the pea cemaker, but it doesn’t take much for tempers to flare.” A “peacemaker” (peacema ker) is a person who tries to end an argument or a fight between two people. A  peacemaker is a person who tries to calm everyone down during an argument or a disagreement. Priscilla says, “It doesn’t take much for tempers to flare.” “Temper” (temper) refers to your emotion, especially anger.  
+
+If we say someone has a “bad temper,” we mean that person gets angry very easily. When we’re talking about two or more people , we would use the plural, “tempers,” plus this verb “to flare” (flare). For “ tempers to flare” means for people to become very angry very quickly. The idea of the verb “to flare” means to  
+
+appear suddenly, and that’s what happens when peopl e get angry, of course. Sometimes they suddenly start yelling and screaming .  
+
+Well, Oscar says, “That never happens in my family. ” Priscilla is surprised. She says, “What?! Your family doesn’t fight when it get s together?” Oscar says, “No, we try to sweep things under the rug and put on a b rave face.” The expression “to sweep (sweep) something under the rug (rug)” me ans to ignore something – to pretend that it didn’t happen or to hide it.  
+
+The second expression, “to put on a brave (brave) f ace,” means to pretend to be stronger, braver, and/or calmer than you actually a re. If you’re in a stressful situation or a situation where you might react emot ionally, “putting on a brave face” would be to pretend that you are calm, that y ou are not bothered by the situation. It’s another form of pretending to be so mething that you’re not.  
+
+Well, in Oscar’s family, when there are disagreemen ts within the family at a family gathering, people “put on a brave face.” The y don’t get emotional about it, in this case. Priscilla says, “What happens when yo u get mad at each other?” Oscar says, “Nothing.” Priscilla says, “What do you  mean nothing?” Oscar responds, “A lot of our family meals are eaten in s tony silence.” “Stony (stony) silence” would be a period of time when people who are angry with each other don’t talk to each other.  
+
+You’ve seen this, I’m sure, and have experienced it . If you go to a restaurant and you see a man and a woman sitting there eating, not  talking to each other the whole time, we would describe that perhaps as a sit uation of “stony silence.” Maybe they’re mad at each other and they don’t want  to talk to each other, although nowadays it’s more likely that you’ll see two people staring at their phones rather than talking to each other, even if t hey’re not mad at each other.  
+
+Priscilla says, “Wow, I think I prefer our knock-do wn, drag-out fights!” The expression “knock-down, drag-out” refers to a very serious argument that continues over a long time. Priscilla is saying tha t she prefers her family’s way of dealing with anger, which is to yell at each other,  rather than Oscar’s family’s way of dealing with it, which is simply to stop talking  to each other.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Oscar: So you’re back from your mother’s birthday d inner. How was it? 
+
+Priscilla: Same old, same old. It isn’t a family ga thering without a major meltdown or blowup. 
+
+Oscar: Yikes, what happened? 
+
+Priscilla: You know how it is. It starts out with b ickering and somebody taking offense at some slight or dig, or bringing up some old grievance.  
+
+Oscar: Well, that happens in most families. 
+
+Priscilla: Yeah, but in mine, they often turn into screaming matches. We all raise our voices and somebody always storms out. 
+
+Oscar: Even at your mother’s birthday dinner? 
+
+Priscilla: The occasion doesn’t matter. My mother t ries to be the peacemaker, but it doesn’t take much for tempers to flare. 
+
+Oscar: That never happens in my family. 
+
+Priscilla: What?! Your family doesn’t fight when it  gets together? 
+
+Oscar: No, we try to sweep things under the rug and  put on a brave face.  
+
+Priscilla: What happens when you get mad at each ot her? 
+
+Oscar: Nothing. 
+
+Priscilla: What do you mean nothing? 
+
+Oscar: A lot of our family meals are eaten in stony  silence.  
+
+Priscilla: Wow, I think I prefer our knock-down, dr ag-out fights! 
+
+[end of dialogue] 
+
+It’s never the same old, same old with our scripts,  thanks to the wonderful writing by our scriptwriter, Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

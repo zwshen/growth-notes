@@ -1,0 +1,102 @@
+# Dressing Appropriately for an Event
+
+Welcome to English as a Second Language Podcast num ber 1,105 – Dressing Appropriately for an Event.  
+
+This is English as a Second Language Podcast episod e 1,105. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California, U.S.A.  
+
+Visit our website at ESLPod.com. Take a look at our  ESL Podcast Special Courses in Business and Daily English.  
+
+This episode is a dialogue between Patricia and Ren aud about wearing the right clothes for a certain occasion or event. Let’s get started. 
+
+[start of dialogue] 
+
+Patricia: Hey, look at you! You’re all decked out. What’s the occasion? 
+
+Renaud: I’m going to the Ortegas’ party. Aren’t you ? 
+
+Patricia: Yeah, but I’m not getting all dolled up f or it. I think the dress is casual. 
+
+Renaud: I heard that it’s going to be an upscale af fair, and I don’t want to be underdressed. 
+
+Patricia: But I’d rather not be overdressed. 
+
+Renaud: Okay, then what are you wearing? 
+
+Patricia: I’m going to dress up these jeans with a chic blouse. And then I’m going to accessorize with this necklace as a statement pi ece. 
+
+Renaud: That’s a nice outfit, but it’s more appropr iate for a casual event, not a party. 
+
+Patricia: But that’s what I’m trying to tell you. T his is not a formal affair. 
+
+Renaud: Do what you like, but I’m not going to risk  being inappropriately dressed for one of the Ortegas’ parties. I don’t want to be  blacklisted and not be invited in the future. Their parties are legendary, with the b est food, the best booze . . . 
+
+Patricia: Oh, you’re right. What was I thinking?! 
+
+[end of dialogue] 
+
+Patricia begins our dialogue by saying, “Hey, look at you! You’re all decked out.” “To be decked (decked) out” means to be wearing ver y nice clothing, to be dressed up. If you’re a girl, it might mean to be w earing makeup and having your hair done a certain way, perhaps wearing certain je welry. Normally “to be decked out” means to be dressed for a formal event, a form al occasion. In fact, Patricia asks Renaud, “What’s the occasion?” meaning what is  the big event? What is the thing that you are dressed up for?  
+
+Renaud says, “I’m going to the Ortegas’ party. Aren ’t you?” Patricia says, “Yeah, but I’m not getting all dolled up for it.” “To get dolled (dolled) up” for something means to get dressed up formally. Usually, however,  we use this particular expression when we are referring to a girl or a wom an. A man would not describe himself as getting “all dolled up.” Although I’m no t sure of the exact origin of this expression, the word “doll” used to be used informa lly to refer to a woman, particularly a good-looking woman.  
+
+Patricia is not going to get all dolled up for this  party at the Ortegas’. She says, “I think the dress is casual.” “Dress” (dress) here do esn’t refer to a particular kind of clothing that a girl or a woman would typically wea r. It refers to a style of clothing – the kind of clothing that you would wear to a cer tain event or that would be worn by a certain group of people.  
+
+So when Patricia says, “The dress is casual,” she m eans that the way people will be dressing for this particular event will be casua l. “Casual” (casual) here is the opposite of “formal.” In other words, it means “inf ormal,” not formal. If you dress “casually” to an event, you are not going to wear y our best clothes. You probably won’t wear a tie if you’re a man or a very nice dre ss if you’re a woman. Patricia thinks the majority of the people, anyway, going to  this party are not going to be dressed formally, but rather casually.  
+
+Renaud says, “I heard that it’s going to be an upsc ale affair, and I don’t want to be underdressed.” Renaud has a different idea about  this party. He says that he thinks it’s going to be an “upscale (upscale) affai r” (affair). An “upscale affair” would be a very nice party or event, one for which people would dress very formally. People might also use this expression, an  “upscale affair,” to describe an event where there’s nice food and drinks, where it takes place at a very nice room, such as at a hotel.  
+
+Renaud doesn’t want to be “underdressed” for this u pscale affair. “To be underdressed” means to be dressed less formally tha n the people around you. So, if you go to a wedding and you’re wearing short s and a T-shirt and everyone else is wearing a suit and a tie or a nice dress, y ou would be underdressed – you would not be dressed as formally as everyone else.  
+
+The opposite of being underdressed is what Patricia  says in the very next sentence, which is “overdressed.” “To be overdresse d” means to, say, go to the beach where everyone else is wearing a swimsuit, dr essed as though you were going to a wedding – in a suit and tie, say. Patric ia says, “But I’d rather not be overdressed.” She prefers not to dress too formally  than to be dressed not formally enough. Renaud says, “Okay, then what are you wearing?” What clothing are you going to put on?  
+
+Patricia says, “I’m going to dress up these jeans w ith a chic blouse.” The two- word phrasal verb “to dress up” can mean a couple o f different things. Here it means to wear a certain piece of clothing that woul d normally be considered casual and make it look more formal, perhaps by com bining it with something nicer. So for example, a pair of blue jeans would n ormally be considered “casual dress,” but if you wanted to dress it up, you might  wear a very nice shirt with it, or something else that would make it look a little mor e formal. That’s the meaning of “to dress up” here.  
+
+“To dress someone up” would mean to put clothing on  someone, usually to make them look like someone else. In that particular mea ning of the phrasal verb, we would usually follow it with “as.” “I’m going to dr ess up as a clown,” meaning I’m going to put on clothing that would make me look li ke a clown. Some people think I look like a clown even without putting on special  clothing.  
+
+But Patricia isn’t going to dress up as a clown. Sh e’s going to dress up her jeans “with a chic blouse.” A “blouse” (blouse) is a shir t that a woman wears. The adjective “chic” (chic) means fashionable or stylis h, something that makes it look appealing – in this case, a little more formal. Pat ricia says, “And then I’m going to accessorize with this necklace as a statement piece .” “To accessorize” (accessorize) means to wear other things such as je welry with your clothing to improve the appearance, to make it look better than  it would otherwise.  
+
+Accessories include clothing, handbags, purses, sca rves, belts, other things that people wear or use with their clothing to improve t heir appearance. Patricia is going to accessorize with a necklace. She calls the  necklace a “statement piece.” A statement piece is usually a very large, unusual piece of jewelry or other accessory that typically a woman would wear as some thing to improve her look,  
+
+her appearance. A statement piece often draws a lot  of attention. It attracts your eye when you look at it.  
+
+Renaud says that he thinks what Patricia is wearing  is “a nice outfit.” An “outfit” (outfit) here refers to a set of clothing – things that are worn together at the same time. A woman’s outfit might include a blouse and a  skirt and a belt, perhaps a scarf around her neck – that would all be part of h er outfit. Renaud thinks that Patricia’s outfit is nice. “But,” he says, “it’s mo re appropriate for a casual event, not a party.”  
+
+Patricia says, “But that’s what I’m trying to tell you.” “This,” meaning this party, “is not a formal affair.” Renaud says, “Do what you lik e, but I’m not going to risk being inappropriately dressed for one of the Ortega s’ parties.” He’s saying that he’s going to dress the way he wants and he’s going  to ignore Patricia’s advice.  
+
+He continues, “I don’t want to be blacklisted and n ot be invited in the future.” “To be blacklisted” (blacklisted) is to be considered n o longer welcome at a certain place, or to be “ineligible” – to not be able to ge t a certain job, even. It’s as if your name were put on a list of people who will no longe r be invited to a certain kind of event.  
+
+That’s what Renaud is afraid of. He says the Ortega s’ parties “are legendary, with the best food, the best booze.” “Legendary” in  this case means very well known in a positive way – admired or respected. “Bo oze” (booze) refers to alcohol. It’s an informal term for alcohol, or what  we also call “liquor” (liquor).  
+
+Patricia says, “Oh, you’re right. What was I thinki ng?!” “What was I thinking” is a phrase used to show that you were wrong, that you h ad the completely wrong idea about something. Apparently Patricia realizes that she is wrong and agrees with Renaud – or at least, that’s the way it seems.   
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Patricia: Hey, look at you! You’re all decked out. What’s the occasion? 
+
+Renaud: I’m going to the Ortegas’ party. Aren’t you ? 
+
+Patricia: Yeah, but I’m not getting all dolled up f or it. I think the dress is casual. 
+
+Renaud: I heard that it’s going to be an upscale af fair, and I don’t want to be underdressed. 
+
+Patricia: But I’d rather not be overdressed. 
+
+Renaud: Okay, then what are you wearing? 
+
+Patricia: I’m going to dress up these jeans with a chic blouse. And then I’m going to accessorize with this necklace as a statement pi ece. 
+
+Renaud: That’s a nice outfit, but it’s more appropr iate for a casual event, not a party. 
+
+Patricia: But that’s what I’m trying to tell you. T his is not a formal affair. 
+
+Renaud: Do what you like, but I’m not going to risk  being inappropriately dressed for one of the Ortegas’ parties. I don’t want to be  blacklisted and not be invited in the future. Their parties are legendary, with the b est food, the best booze . . . 
+
+Patricia: Oh, you’re right. What was I thinking?! 
+
+[end of dialogue] 
+
+Her skills as a scriptwriter are legendary. I speak , of course, of the wonderful Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

@@ -1,0 +1,112 @@
+# Following a High-Profile Court Case
+
+Welcome to English as a Second Language Podcast num ber 1,031 – Following a High-Profile Court Case. 
+
+This is English as a Second Language Podcast episod e 1,031. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducation Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Download a Learnin g Guide for this episode. Our Learning Guides contain complete transcripts of  everything we say on the episode, in addition to vocabulary, sample sentence s, cultural notes, and a whole lot more. Go to our website for more information. I f you’re on Facebook, you can like us on Facebook. Go to facebook.com/eslpod. 
+
+This episode is a dialogue between Danny and Carol about what’s called a “court case,” a legal action involving a judge and lawyers . Sounds like fun. Sounds expensive. Let’s get started. 
+
+[start of dialogue] 
+
+Danny: Have you been following the Schirru case? 
+
+Carol: Yeah, I have. I think he’s guilty. 
+
+Danny: You’re kidding, right? He’s innocent and thi s is a show trial. The district attorney is conducting a witch-hunt for his own pol itical ambitions. 
+
+Carol: No, he’s not. It is a high-profile case, but  that’s only because he wants to make an example of Schirru. People like him should be off the streets. Putting him in jail sends a message to other criminals.  
+
+Danny: What kind of message? 
+
+Carol: The message that the government is cracking down. 
+
+Danny: I think it’s just grandstanding and Schirru is being made a sacrificial lamb.  
+
+Carol: You can believe what you like, but I think i t’s great that the district attorney is taking a stand. 
+
+Danny: Yes, but he seems to be doing it at the expe nse of real justice.   
+
+ Carol: Not from where I’m standing. 
+
+Danny: Then you need to find a new place to stand –  preferably one without blind spots.  
+
+[end of dialogue] 
+
+Danny begins our dialogue by saying to Carol, “Have  you been following the Schirru case?” Carol says, “Yeah, I have. I think h e’s guilty.” If you say someone is “guilty” (guilty), you’re saying that they have done something wrong – that they have broken the law or perhaps broken some rule. Da nny says, “You’re kidding, right?” meaning you’re joking. You’re not really se rious.  
+
+“He’s innocent and this is a show trial.” To say so meone is “innocent” (innocent) is to say that the person is not guilty, did not do  the crime, did not break the law. So, “guilty” and “innocent” are the two possibiliti es if someone is arrested by the police and taken in front of the judge. The “judge, ” of course, is the person, man or woman, who either decides someone is guilty or i nnocent, or more commonly runs the actual legal proceedings – runs what we wo uld call the “trial.”  
+
+A “trial” (trial) is the actual event which involve s the lawyers from the government and the lawyers from the defense getting together a nd arguing their case in front of a judge and typically in front of what’s called the “jury” (jury). A jury consists of six or, more commonly, 12 people who decide if a pe rson is guilty or innocent of some criminal action.  
+
+Danny says that this is a “show trial.” A “show tri al” would be one that is basically political. The government has already decided that this person is guilty and will be punished, but they have a trial just so it looks  like they’re being fair. We usually associate this particular term with, for ex ample, the show trials in the 1930s under Joseph Stalin in the former Soviet Unio n. But of course, the term could be used for any case in which the government has already made a decision, but wants people to think that the person  is getting justice according to a fair legal proceeding.  
+
+Danny says, “The district attorney is conducting a witch-hunt for his own political ambitions.” In the United States, the district atto rney is the government’s lawyer, usually the most important or the chief lawyer in a ny given area. The United States is broken up into different districts. In th ese districts, these regions or areas each have their own district attorney, and th e district attorney is the  
+
+government person, the government official, in char ge of deciding who is going to get a trial and who isn’t.  
+
+The district attorney in the United States’ legal s ystem has a lot of power to do a lot of different things, including deciding if some one is going to, we would use the expression, “stand trial,” meaning whether the pers on was going to have to go in front of a judge and a jury and defend himself. So,  district attorneys are government attorneys who are responsible for repres enting the government in, in this case, a criminal trial.  
+
+Danny says that this trial is being conducted by a district attorney who’s on “a witch-hunt.” A “witch” (witch) is supposedly a woma n who has magical powers. Someone who is “on a hunt” (hunt) is looking for so mething, often something to kill or something to catch, such as an animal. We t alk about hunting deer or hunting cats. No, we don’t hunt cats, just kidding.  The term “witch-hunt,” however, refers to the practice of looking for peop le to punish, not because they’ve done anything wrong, but because they are o f a different opinion or act in a different way than you do.  
+
+The idea of a witch-hunt goes back, at least in the  U.S., to the famous Salem witch trials, where several women were accused or w ere said to have been witches and were eventually arrested, and some of t hem killed. Nowadays, when someone talks about a witch-hunt, they’re usually t alking about someone, especially the government, trying to find people wh o are guilty, even though they’re not really guilty.  
+
+A witch-hunt also has this notion of being politica lly motivated – that it is being done not for criminal reasons, if you will, but for  political reasons. It’s not about a crime. It’s about politics and using criminal law, in this case, to promote a political position. Danny says the district attorney is doing  this trial, conducting this witch- hunt, “for his own political ambitions.” Your “poli tical ambitions” would be the things that you hope to accomplish in the world of politics. “Political ambition” refers to your desire to have a powerful career in politics.  
+
+Carol says, “No, he’s not,” meaning “No, the distri ct attorney is not conducting a witch-hunt.” She says, “It’s a high-profile case.” The term “high-profile” (profile) means that it is getting a lot of attention. A lot of people are paying attention to it. It is in the news. It is in the newspaper. That wou ld be something that is high- profile. A high-profile case would be a legal trial , a criminal trial, that a lot of people are paying attention to.  
+
+Carol says, “It’s a high-profile case, but that’s o nly because he,” meaning the district attorney, “wants to make an example of Sch irru.” “To make an example of” someone is to make someone serve as a warning t o other people. You may punish someone not necessarily because they’ve done  something terribly wrong, but because you want other people to take this as a  lesson – to see this as something that might happen to them if they’re not careful. So, making an example of someone is punishing one person to show the other people what will happen to them if they break the same rule or break  the same law.  
+
+Carol says, “People like him,” now referring to Sch irru, “should be off the streets,” meaning they should not be free. They should be in prison. “Putting him in jail” – in prison – “sends a message to other criminals,” s he says. A “criminal” (criminal) is a person who has committed or done a crime, some thing against the law. Danny says, “What kind of message?”  
+
+Carol responds, “The message that the government is  cracking down.” The phrasal verb “to crack (crack) down” is used when s omeone in authority, such as the government, decides to enforce the rules more s trictly, decides that it is no longer going to let people break this law. So, if t he police crack down on speeding in Los Angeles, they will start arresting more people. They will start giving more people penalties – “fines,” we would ca ll them – if they drive too fast.  
+
+Danny says, “I think it’s just grandstanding.” “To grandstand” (grandstand) means to behave or to speak in a way that attracts attent ion, that other people pay attention to, in order to make yourself feel more i mportant or more powerful. That’s what Danny says the district attorney is doi ng here.  
+
+Danny says, “Schirru is being made a sacrificial la mb.” A “sacrificial (sacrificial) lamb (lamb)” is a person who is put into a damaging  position or harmed for the benefit of everyone else. A sacrificial lamb would be someone who is punished in order that everybody else is better off – in order to benefit other people.  
+
+Carol says, “You can believe what you like, but I t hink it’s great that the district attorney is taking a stand.” “To take a stand” (sta nd) is to tell people what your position is, what your opinion is, and not change i t, not try to be persuaded by others. “To take a stand” is to decide that you are  going to defend your position even if other people disagree with you.  
+
+Danny says, “Yes, but he” – the district attorney –  “seems to be doing it at the expense of real justice.” If you do something “at t he expense (expense) of” something else, you are causing harm to one thing i n order to help another thing. Danny is saying that the district attorney is takin g a stand, is giving his opinion,  
+
+but at the expense of real justice. “Justice” (just ice) here refers to fairness in the way people are treated, especially when we’re talki ng about the laws of a country or a place. 
+
+Carol says, “Not from where I’m standing.” This exp ression “from where I’m standing” is used to talk about your point of view,  your perspective, your opinion about something. If someone says, “From where I’m s tanding, it sounds like a terrible idea,” the person is saying, “In my opinio n,” from my perspective, “this is a bad idea.” Danny says, “Then you need to find a n ew place to stand, preferably one without blind spots.”  
+
+Danny is making sort of a joke here. He’s saying th at Carol needs to have a new perspective, a new view of things, one that doesn’t  have any “blind (blind) spots.” “Blind spots” are areas that you can’t see or that you can’t see clearly, often because there is something in your way preventing y ou from seeing it clearly. Here it’s used really to refer to someone who perha ps has certain biases or prejudices, and those biases don’t allow the person  to see something accurately or fairly.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Danny: Have you been following the Schirru case? 
+
+Carol: Yeah, I have. I think he’s guilty. 
+
+Danny: You’re kidding, right? He’s innocent and thi s is a show trial. The district attorney is conducting a witch-hunt for his own pol itical ambitions. 
+
+Carol: No, he’s not. It is a high-profile case, but  that’s only because he wants to make an example of Schirru. People like him should be off the streets. Putting him in jail sends a message to other criminals.  
+
+Danny: What kind of message? 
+
+Carol: The message that the government is cracking down. 
+
+Danny: I think it’s just grandstanding and Schirru is being made a sacrificial lamb.  
+
+Carol: You can believe what you like, but I think i t’s great that the district attorney is taking a stand.  
+
+ Danny: Yes, but he seems to be doing it at the expe nse of real justice.  
+
+Carol: Not from where I’m standing. 
+
+Danny: Then you need to find a new place to stand –  preferably one without blind spots.  
+
+[end of dialogue] 
+
+From where I’m standing, the best scriptwriter on t he Internet is none other than our very own Dr. Lucy Tse. Thank you, Lucy.  
+
+From Los Angeles, California. I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+
+English as a Second Language Podcast was written an d produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. This podcast is copyright 2014 by the Center for Educational Development.
+

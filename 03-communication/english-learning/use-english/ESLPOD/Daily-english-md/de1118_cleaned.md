@@ -1,0 +1,98 @@
+# Bidding on Online Auctions
+
+Welcome to English as a Second Language Podcast num ber 1,118 – Bidding on Online Auctions.  
+
+This is English as a Second Language Podcast episod e 1,118. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to ESLPod.com and download a Learning Guide for this episode. You can get the Learning Guide by becoming a member of ESL Podc ast – more information on our website.  
+
+This episode is a dialogue between Jermaine and Bet hany about buying things online. Let’s get started. 
+
+[start of dialogue] 
+
+Jermaine: Wait! You shouldn’t bid on that auction r ight now. Wait until the last minute.  
+
+Bethany: This auction has a buy-it-now price of $25  and free shipping. 
+
+Jermaine: Don’t pay the buy-it-now price. The minim um bid on this item is $10 and the current bid is only $12.50. There’s no rese rve, so if you wait to bid, you may snag it for a much lower price than $25. 
+
+Bethany: Okay, I guess I can wait, but why can’t I place a bid of $15 right now? 
+
+Jermaine: First of all, the bidding on this auction  goes up by increments of 50 cents, so the next bid would be $13. You could plac e a maximum bid of $15, but someone might outbid you at any time.  
+
+Bethany: But couldn’t that happen anyway? Even if I  wait until the last minute someone could sneak in and bid a higher price. 
+
+Jermaine: You mean they could snipe you? They could , but not if you snipe them back. It’s all in the timing. 
+
+Bethany: You seem to know a lot about online auctio ns. 
+
+Jermaine: That item you’re bidding on, guess who li sted it?  
+
+ [end of dialogue] 
+
+Jermaine says to Bethany, “Wait!” meaning “Stop – d on’t do what you are about to do.” He says, “You shouldn’t” – you should not –  “bid on that auction right now. Wait until the last minute.” “To bid” (bid) is to s ay how much you are willing to pay for something, usually in a situation where there i s more than one person interested in buying whatever it is you’re interest ed in buying. Normally we bid at an event called an “auction” (auction).  
+
+An “auction” is where either someone in person (sta nding in front of you) or online is selling something, and a number of differ ent people are interested in buying it. Each person says how much he or she is w illing to pay for it. When you say how much you want to pay for something – when y ou are, in effect, offering to buy something – that’s called a “bid.”  
+
+So you’re not just saying, “Oh, I would pay $50.” Y ou are saying, “I will pay,” because if your bid is accepted – if you, what we w ould call, “win the auction” – then you have to pay $50 to buy whatever it is you bid on. “To bid on” means to give a price that you are willing to pay for a cert ain object, to make an offer on a item. We use the preposition “on” after the verb “t o bid” to describe the item that you want. “I bid on a car.” “I bid on a house.” “I bid $30.” If you’re just giving the actual price that you are offering or willing to pa y, then there is no preposition “on” after the verb.  
+
+Anyway, back to the story. Jermaine says to Bethany , “You shouldn’t bid on that auction right now. Wait until the last minute.” Now , Bethany is bidding on an online auction. “Online” means, of course, on the I nternet. One online auction website is “eBay” (eBay). Jermaine says that Bethan y should “wait until the last minute,” meaning wait until the auction is just abo ut to end.  
+
+Bethany says, “This auction has a buy-it-now price of $25 and free shipping.” On some websites, such as eBay, you don’t have to bid against other people for certain items. Some sellers, people who are selling  things, will say, “Well, here’s a price that I will take and give it to you right n ow. I won’t worry about taking any bids.” That’s called the “buy-it-now” price. Pretty  logical, right? “Free shipping” means that the seller won’t add an additional cost on to the price of the item to pay for the shipping – the process of mailing somet hing to you.  
+
+Now, not everything that you buy is shipped; someti mes you buy things that are “virtual” (virtual). Virtual items are things that you download or you access on your computer. So this item, this auction, has a “b uy-it-now price of $25.” (I say  
+
+“this auction” – I mean this auction for an item of  $25.) Jermaine, however, says, “Don’t pay the buy-it-now price. The minimum bid on  this item is $10 and the current bid is only $12.50.”  
+
+What happens when you put an item into an online au ction site such as eBay (and I’m using eBay because I’m familiar with it, a nd it’s popular here in the U.S.), you are given the option of putting a minimu m bid. That means you say, “This is the least amount of money I will accept.” You’re hoping for more, but you won’t take any less than this amount. That is your “minimum (minimum) bid.” “Minimum” means the least. The opposite would be “m aximum” (maximum), but nobody has a maximum bid. Sellers will take however  much money you want to give them.  
+
+Jermaine says that the minimum bid on this item is $10. What he’s saying is that the buy-it-now price is $25, and so far the highest  bid is only $12.50. So maybe you can get it cheaper, Jermaine is saying, if you bid on it rather than paying the buy-it-now price. Why would you buy it now rather t han bid on it? Well it may be because you want the item right away. You don’t wan t to wait, and some of these auctions last three or even six or seven days. I’m not sure exactly how many days the typical eBay auction lasts, but usually it ’s more than a couple of days.  
+
+Jermaine continues, “There’s no reserve, so if you wait to bid, you may snag it for a much lower price.” The minimum bid, I mentioned e arlier, is the least amount of money that you will accept for an item. However, yo u actually can put into the auction system what’s called a “reserve” (reserve).  The “reserve” is your secret, if you will, minimum bid. So if you say to someone, “T he minimum bid is $10,” that doesn’t mean that if they bid $10 you will say yes.  You could also put a “reserve.”  
+
+Now, you don’t tell people what the reserve is, but  the reserve is the minimum price you will actually accept. It’s a little confu sing. The “minimum bid” is what you tell people on the website is the least amount of money that you can bid. That doesn’t mean if you bid the minimum bid you wi ll get the item, because you could also have a “reserve,” which is a higher pric e that you will have to get in order to agree to sell the item.  
+
+You can tell on these websites often whether someon e has a reserve or not. If the person has no reserve, then the minimum bid is,  in effect, the reserve. It’s the minimum price the seller will accept. Jermaine says  that Bethany could “snag” (snag) the item for a lower price. “To snag” someth ing is to buy it at a very low price – to get something cheap, usually due to some  sort of luck. Bethany says, “Okay, I guess I can wait, but why can’t I place a bid of $15 right now?” “To place a bid” means the same as “to bid.”   
+
+ Jermaine says, “First of all, the bidding on this a uction goes up by increments of 50 cents.” “Increments” (increments) are intervals,  small increases in the value of something. You can’t, for example, bid on some item s $10.05. You in many cases have to bid only in 50-cent or one-dollar inc rements, meaning the next highest bid has to be 50 cents above the previous b id. So the next bid after $12.50 (if you’re still awake out there) is $13. “Y ou could place a maximum bid,” Jermaine continues, “of $15, but someone might outb id you at any time.”  
+
+The maximum bid is your secret price, the amount th at you will pay – the most that you will pay, I should say – for an item. So, I put into the website the maximum amount I will pay. Now, why would I do this ? Well, because people may come on later when I’m sleeping and bid more th an what my bid was. The auction site will automatically add a bid for me up  to my maximum bid. The verb we use when someone bids more than you and ultimate ly gets the item is “outbid” (outbid). “I was outbid by this person,” o r “This person outbid me.”  
+
+Bethany says, “But couldn’t that happen anyway? Eve n if I wait until the last minute” – meaning right before the auction ends – “ someone could sneak in and bid a higher price.” “To sneak (sneak) in” means to  do something secretly in a hidden and unnoticed way – when you don’t want to b e seen. Bethany is complaining that someone could bid higher than her right at the very last minute, right when the auction is about to end.  
+
+Jeremy says, “You mean they could snipe you?” To sn eak in at the last minute in an auction has a special verb, and that verb is “to  snipe” (snipe). I’m not sure if this is a verb that was invented for the Internet a ge, but it is the verb that is used by people on online auction sites. “To snipe” means  to get the highest bid immediately before the auction ends – sometimes jus t seconds before the auction ends.  
+
+Jeremy says “They could,” meaning someone could sni pe you, “but not if you snipe them back,” meaning not if you get in before them with a higher bid. “It’s all in the timing,” Jermaine says. “Timing” (timing) is  when you should do certain things, especially as part of a plan. We often talk  about comedians having good timing or bad timing. It has to do with how long th ey wait before they tell the next part of the joke.  
+
+Bethany says to Jermaine, “You seem to know a lot a bout online auctions.” Jermaine says, “That item your bidding on, guess wh o listed it?” “To list” (list) something on an auction site is to put it on the we bsite to sell – to upload information or put information into the website so that people can then later bid  
+
+on your item. Jermaine is saying that the item that  Bethany is bidding on is one that he himself listed. That’s why he says, “Guess who listed it?” The implication here is that Jermaine listed the item.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Jermaine: Wait! You shouldn’t bid on that auction r ight now. Wait until the last minute.  
+
+Bethany: This auction has a buy-it-now price of $25  and free shipping. 
+
+Jermaine: Don’t pay the buy-it-now price. The minim um bid on this item is $10 and the current bid is only $12.50. There’s no rese rve, so if you wait to bid, you may snag it for a much lower price than $25. 
+
+Bethany: Okay, I guess I can wait, but why can’t I place a bid of $15 right now? 
+
+Jermaine: First of all, the bidding on this auction  goes up by increments of 50 cents, so the next bid would be $13. You could plac e a maximum bid of $15, but someone might outbid you at any time.  
+
+Bethany: But couldn’t that happen anyway? Even if I  wait until the last minute someone could sneak in and bid a higher price. 
+
+Jermaine: You mean they could snipe you? They could , but not if you snipe them back. It’s all in the timing. 
+
+Bethany: You seem to know a lot about online auctio ns. 
+
+Jermaine: That item you’re bidding on, guess who li sted it? 
+
+[end of dialogue] 
+
+The scripts for our episodes are, I think, priceles s. Thanks to the wonderful work by the wonderful Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

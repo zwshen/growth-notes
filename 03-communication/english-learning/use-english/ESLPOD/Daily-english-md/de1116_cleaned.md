@@ -1,0 +1,76 @@
+# Reading and Processing Emails
+
+Welcome to English as a Second Language Podcast num ber 1,116 – Reading and Processing Emails.  
+
+This is English as a Second Language Podcast episod e 1,116. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com, or become a member  of ESL Podcast. If you do, you can download the Learning Guide for this ep isode. What is the Learning Guide? It’s an eight- to ten-page PDF file that you  can download that includes a complete transcript of everything I say, as well as  a glossary with the words and definitions and sample sentences of key vocabulary,  as well as culture notes and a whole lot more. Go to our website for more inform ation.  
+
+On this episode, we’re going to talk about reading and processing emails. Let’s get started.  > Every day I feel more and more overwhelmed by email . Once I turn on my computer and look at my inbox, I get sucked into re ading and responding to emails.  
+> I have a personal email account and an email accoun t for work. With my work email, I try to take an organized approach. I scan each email, looking at the sender and subject line, and delete the ones I don’ t need or want. With the remaining ones, I archive some, file others for fut ure reading, and write replies to the rest. I’ve set up templates for the routine ema ils, but spend a lot of time drafting personalized responses to the rest. That t akes up a large part of my workday.  
+> When reading my personal email, I take my time. Yes , I get the usual junk that slips through the spam filters and get newsletters I keep meaning to unsubscribe from, but people who have my personal email address  are mainly friends and family.  
+> When I’m done and I look at the clock, I’m often su rprised at how much time I’ve spent processing email. That’s time I could have be en spending working on my Celine Dion impression. 
+> I begin my story by saying, “Every day I feel more and more overwhelmed by email.” “To be overwhelmed” (overwhelmed) is to not  be able to deal with something or to make decisions about something beca use the situation is very challenging, very difficult, very demanding. When y ou are “overwhelmed” with something, you have too much of it. You have too mu ch pressure, too much stress, perhaps, because of the situation. If you g et a lot of email, we might say that you are “overwhelmed with email.” The email is  too much for you, too much to handle.  
+
+I then say, “Once I turn on my computer and look at  my inbox, I get sucked into reading and responding to emails.” Your “inbox” is the main folder in an email account, the place where all your new emails show u p on your computer or on your mobile device, such as a phone or a tablet. Th at’s your “inbox.”  
+
+The word “inbox” (inbox) was originally used – and still is, or could be – to describe a physical box that you have in an office,  say, where people put things for you to look at or do. When you’re done with thi ngs or you want to send them to someone else within an office, you put them in y our “outbox.” Well, we’ve taken those terms from the business world and “impo rted” them, we might say, into our modern vocabulary about technology.  
+
+I say that once I “turn on,” or start up, “my compu ter and look at my inbox, I get sucked into reading and responding to emails.” The expression “to get sucked (sucked) into” something means to be forced to do s omething or to be persuaded to do something even though you don’t really want t o do it. It might actually be something that you enjoy, but you don’t have time t o do.  
+
+If you are at work and you like to watch cat videos  on YouTube, you might watch one of them and get sucked into watching 10 of them . It’s almost like you are addicted to that particular activity, so you keep d oing it even though you know you shouldn’t be doing that. You can also get sucke d into a “negative situation,” a situation that you don’t want to be a part of. That ’s really what I mean in saying that “I get sucked into reading and responding to e mails.” “Email,” of course, is short for “electronic mail,” and you probably know what that is if you’re listening to this podcast.  
+
+I should explain, in the title of this episode, I s ay “reading and processing emails.” The verb “to process” means here to take care of. F or some reason that’s a word that we use in English when we’re talking about loo king at your email and deciding what you want to do with the emails. You m ight delete it – you might get rid of it – you might answer it, or you might put i t aside or do what a lot of people do, simply leave it in your inbox for several days until you finally decide to delete it.  
+
+Some people have hundreds of inbox emails that they  say they’re going to get back to but never do. “To process your emails,” the n, means to look at them and to make a decision about what you’re going to do ab out them. I continue, “I have a personal email account and an email account for w ork. With my work email, I try to take an organized approach.” An “approach” i s the way that you do something, how you handle something.  
+
+I continue, “I scan each email, looking at the send er and subject lines.” “To scan” (scan) here means to read something very quickly, l ooking for some specific information. It might be a word, it might be a name  – something that you are looking for that will help you, in this case, decid e perhaps what to do with the email. In my case, I scan each email, looking at th e “sender” (sender). The sender is the person who, of course, sent me the em ail. The other word we would use, for the person receiving the email, is “ recipient.” If you’re looking at your own inbox, you are the recipient of all of the  emails. So you’re looking at the “senders” – people who sent you emails.  
+
+I also look at the “subject line.” The subject line  is what we call that brief description of the topic of the email. Some emails don’t have a subject line. They’re just blank, so you have to open it to see w hat exactly is inside of it. Then I say that I delete the emails I don’t want or need . “To delete” (delete) means to permanently remove, to get rid of something. Usuall y when you delete an email, it goes into your trash. The word “trash” outside o f the context of email refers to garbage, junk, things that you don’t want anymore. 
+
+In an email program, however, “trash” means the pla ce where your deleted emails go. Sometimes email programs allow you to pu t messages in the trash and then later empty the trash – get rid of all tho se messages permanently. I then say, “With the remaining ones” – that is, with the remaining emails, the ones I didn’t delete – “I archive some, file others for fu ture reading, and write replies to the rest.”  
+
+“To archive” (archive) an email means to place it i n a general archive folder. Now, to understand this concept, we really have to define the next term here,  
+
+which is “to file” an email. “To file” (file) here means to put a message in a particular folder for some specific purpose. Most e mail programs allow you to create special places where you can store or keep o ld emails, where you can place them after you take them out of your inbox. Y ou don’t want to delete these emails. You want to keep them for later, but you wa nt to separate them into different groups.  
+
+You may have a folder for emails from your family. You may have a folder for emails from your wife. You may have a folder for em ails from your girlfriend, who is not your wife. I’m hoping you don’t have both of  those folders, but you could. That would keep them separate. That’s what we mean by the verb “to file” in the context of an email. It’s to put an email message i n a particular folder.  
+
+Most email programs have a, I guess we could call “ general folder,” where you can put stuff even if you’re not putting it in a pa rticular folder, and that would be – I guess we could call it an “archive folder.” So th e verb “to archive” means to move your message out of your inbox into this more general folder that is created by the email program itself. So, I can archive emai ls, I can file emails, or I can write “replies” to emails – I can “answer” the emai ls, we would say.  
+
+“I’ve set up templates for the routine emails,” I c ontinue, “but spend a lot of time drafting personalized responses for the rest.” “To set up” is a two-word phrasal or verb meaning to establish, to create something. I’v e created or set up “templates” (templates). A “template” is an electronic document  that has writing in it, text in it, that you can use to send to different people.  
+
+Usually businesses have templates for when someone writes them an email about a specific question. If a lot of people ask t hat question, the company will just send them the template for that question that has the answer in it. So, you don’t have to write a new email every time. We use templates here at ESL Podcast to respond to some of your messages. “Routi ne (routine) emails” are emails that are common, normal, everyday – emails t hat aren’t unusual or different in any way.  
+
+I also say that I “spend a lot of time,” meaning I take a lot of time, “drafting personalized responses.” “To draft” (draft) means t o write something, usually with the idea that you will go back later and edit it an d make it better. “To draft” something means to write something that you’re goin g to work on in the future. You’re going to save it and then work on it later –  make it better and then send it. I say that “drafting personal emails takes up a lar ge part of my workday.” That’s just another way of saying it takes up a lot of tim e during the time that I’m working.  
+
+ “When reading my personal email, I take my time.” T he expression “to take your time” means to go slowly, not to rush, not to hurry . “Yes,” I say, “I get the usual junk that slips through the spam filters and get em ails I keep meaning to unsubscribe from.” “Junk (junk) email” is email tha t is sent to you that you don’t want. We sometimes call that type of email “spam” ( spam).  
+
+A “spam filter” (filter) is a function in your emai l program or your email service that stops those unwanted emails from getting into your inbox. Usually they go into a special folder called a “spam folder.” Somet imes there are emails that you actually want, that the spam filter puts in the spa m folder. Sometimes you need, therefore, to check your spam folder to make sure i t’s not putting things you want into the spam folder instead of your inbox. But usu ally, nowadays, the email programs are pretty good about identifying which em ails are spam and which are ones that you would want.  
+
+I also talk about “unsubscribing” to newsletters. “ To unsubscribe” (unsubscribe) is to remove your name and email address from a compan y’s or organization’s email list. The opposite of “unsubscribe” is “subsc ribe,” which is to sign up, or to give your information to an organization or company , allowing that organization or company to send you emails about its activities.  “To unsubscribe” is the opposite. It means to get off of those lists, essen tially. 
+
+I finish by saying that “when I’m done” – when I’m finished – “and I look at the clock, I’m often surprised at how much time I’ve sp ent processing email. That’s time I could have been spending working on my Celin e Dion impression.” An “impression” is an imitation – when someone tries t o sound like another person, usually a famous person. I then sing a few lines fr om a famous song by Celine Dion in what is almost certainly the worst impressi on of Ms. Dion in the world.  
+
+Now let’s listen to the story, this time at a norma l speed. 
+
+[start of story] 
+
+Every day I feel more and more overwhelmed by email . Once I turn on my computer and look at my inbox, I get sucked into re ading and responding to emails.  
+
+I have a personal email account and an email accoun t for work. With my work email, I try to take an organized approach. I scan each email, looking at the sender and subject line, and delete the ones I don’ t need or want. With the remaining ones, I archive some, file others for fut ure reading, and write replies to  
+
+ the rest. I’ve set up templates for the routine ema ils, but spend a lot of time drafting personalized responses to the rest. That t akes up a large part of my workday.  
+
+When reading my personal email, I take my time. Yes , I get the usual junk that slips through the spam filters and get newsletters I keep meaning to unsubscribe from, but people who have my personal email address  are mainly friends and family.  
+
+When I’m done and I look at the clock, I’m often su rprised at how much time I’ve spent processing email. That’s time I could have be en spending working on my Celine Dion impression. 
+
+ “Near, far, wherever you are I believe that the heart does go on. . . .” 
+
+[end of story] 
+
+There’s nothing routine about the dialogues and sto ries written by our wonderful scriptwriter, Dr. Lucy Tse. So, thank you, Lucy.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

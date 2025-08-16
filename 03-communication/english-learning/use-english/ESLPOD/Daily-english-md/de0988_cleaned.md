@@ -1,0 +1,94 @@
+# Playing Fair in Business
+
+Welcome to English as a Second Language Podcast num ber 988 – Playing Fair in Business.  
+
+This is English as a Second Language Podcast episod e 988. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Our website is ESLPod.com. Become a member of ESL P odcast by going to our website. You can also like us on Facebook at facebo ok.com/eslpod. And, why not follow us on Twitter at @eslpod.  
+
+This episode is a dialogue between Marcel and Amand a about being fair and honest in your work – at your job. Let’s get starte d.  
+
+[start of dialogue] 
+
+Marcel: Hey, why do you have the file for the Donov an account on your desk? I thought that was Evan’s account. 
+
+Amanda: It is, but I’m about to snatch it from him.  He won’t know what hit him. 
+
+Marcel: You’re stealing his account? If you do that , you’d better watch your back. 
+
+Amanda: You’ve got it all wrong. This is payback. T hree months ago, when I was on the verge of getting the Moralez account, Evan s wooped in and snagged it. He doesn’t play fair, and now neither do I. 
+
+Marcel: This sounds like the beginning of a feud. 
+
+Amanda: Evan started it. If he wants to play hardba ll, then what’s good for the goose is good for the gander. 
+
+Marcel: You’re not worried that he’ll up the ante a nd try to do something even more underhanded?  
+
+Amanda: Evan doesn’t scare me.  
+
+Marcel: This could easily escalate. 
+
+Amanda: Like I said, I’m not afraid of Evan. This i s business. If you can’t take the heat, get out of the kitchen. 
+
+[end of dialogue] 
+
+This dialogue begins with Marcel saying, “Hey, why do you have the file for the Donovan account on your desk?” Marcel is talking to  Amanda, and he’s getting Amanda’s attention by saying, “Hey.” This is a very  common, informal way of getting someone’s attention. He says, “Why do you h ave the file for” – the papers related to – “the Donovan account on your desk?” An  “account” here refers to some sort of business relationship between your com pany and another company or someone who is buying something from your compan y. So, the Donovan account would be the purchases and other things rel ated to the company called Donovan, or the person called Donovan, and your com pany.  
+
+Marcel says, “I thought that was Evan’s account.” M arcel is saying that he thought that the Donovan account – the sales that g o to Donovan – belonged to another person, Evan. Amanda says, “It is,” meaning  it is Evan’s account, “but I’m about to snatch it from him.” “To snatch” (snat ch) is to take something quickly, unexpectedly, and without permission from someone else. Basically, it’s to steal something. We talk about “purse snatchers. ” These are the thieves, crooks, criminals who go around and take women’s pu rses from them by grabbing them from behind and running. That’s relat ed to this verb “to snatch.”  
+
+Amanda says, “He” – meaning Evan – “won’t know what  hit him.” The expression “to not know what hit you” is to be completely surp rised by something, usually something bad, something negative. Marcel says, “Yo u’re stealing his account? If you do that, you better watch your back.” “To watch  your back” is an expression meaning to be very careful. We say “watch your back ” because you can’t see behind you, and it’s easy for someone to, say, take  a knife and put it into your back. We would call that “stabbing (stabbing) your back.” You should “watch your back” because you’re doing something that might be dangerous or that someone might get angry about.  
+
+Amanda says, “You’ve got it all wrong,” meaning you  don’t understand the situation here. “This is payback.” “Payback” (payba ck) – one word – is revenge, vengeance, something mean or cruel that you do to s omeone because that person was mean or cruel to you. If someone tells l ies about you at your workplace, you might tell lies about them as paybac k. Of course, we don’t recommend that.  
+
+Amanda says, “Three months ago, when I was on the v erge of getting the Moralez account, Evan swooped in and snagged it.” “ To be on the verge” (verge) of something is to be about to do something, ready to do something. “I was on the verge of walking over and asking the woman for her telephone number, when my friend arrived first and started talking to her. ” I was on the verge of doing it. I was just about to do it.  
+
+Amanda says she was on the verge of getting another  account, of getting the business from another person for the company, when Evan “swooped in.” “To swoop (swoop) in” is a two-word phrasal verb meanin g to become involved in something very quickly – to have some effect on peo ple who were already involved in that thing. So, usually “to swoop in” w ould be to suddenly be involved in the situation. Sometimes it could be a positive thing. Sometimes it could be a negative thing. For example, we were running out of  money – we didn’t have enough money for our company – when an investor swo oped in and gave us $500,000 to help us continue our business.  
+
+Here, it’s not a good thing but a bad thing that Ev an did. He swooped in and snagged this account. “To snag” (snag) means to get  – to get something usually by doing something tricky or perhaps dishonest, alt hough it’s not always the case. This is an informal use of the verb “to snag. ” You could talk about snagging a good table at a restaurant, meaning you were able  to obtain or get a good table at a restaurant. It’s not always a bad thing.  
+
+Amanda, however, is talking about a bad thing that Evan did a few months ago when he swooped in and snagged the Morales account that Amanda was on the verge of getting. Amanda says, “Evan doesn’t play f air, and now neither do I.” “To play fair” (fair) is to be honest – not to do anyth ing mean or dishonest in dealing with other people. Because Evan is not being honest , Amanda says she’s not going to be honest.  
+
+Marcel says, “This sounds like the beginning of a f eud.” A “feud” (feud) is a long argument that often takes place over many months or  even years. Amanda says, “Evan started it,” meaning Evan was the first one t o do something bad. “If he wants to play hardball, then what’s good for the go ose is good for the gander.” “To play hardball” (hardball) is to do everything p ossible in order to win – even to cheat in order to win, sometimes.  
+
+The expression “what’s good for the goose (goose) i s good for the gander (gander)” means if something is good or acceptable for one person, it’s good or acceptable for everyone else. A “goose” is a type o f bird. In this expression, it refers to the female of the bird. “Gander” is a mal e goose. So, sometimes this  
+
+expression is used when talking about treating men and women equally, but more generally, it just means what’s good for one p erson is good for everyone. In other words, if you think it’s good for you, then i t should be good for me too or acceptable for me to do. Amanda is using this expre ssion to say that if Evan plays hardball, then she can play hardball. She sho uld be able to – she should be allowed to play hardball.  
+
+Marcel says, “You’re not worried that he’ll up the ante and try to do something even more underhanded?” “To up the ante” (ante) is an expression that comes from gambling or betting. The “ante” is the money t hat you are betting, especially in something like a card game like poker. “To up th e ante” would be to increase your bet. Here, it just means to increase the risk associated with doing something, to make something more serious. “Underha nded” (underhanded) means dishonest, secretive – something that is dece itful or not fair would be underhanded. Amanda says, “Evan doesn’t scare me,” meaning she is not afraid of Evan.  
+
+But Marcel says, “This could easily escalate.” “To escalate” (escalate) means to increase or become bigger – or in this case, more s erious. If the violence escalates in a war, it becomes greater and greater.  There is more and more violence. You’ll sometimes hear this verb used nowa days when you have a problem with a company, and you contact the company , and the first person you talk to is unable to help you. That person might es calate your issue to his or her boss. Your “issue,” or problem, will then be handle d by someone with more authority or more knowledge.  
+
+Amanda says, “Like I said, I’m not afraid of Evan. This is business. If you can’t take the heat, get out of the kitchen.” This expres sion, “If you can’t take the heat, get out of the kitchen” is used to tell someone tha t if they are unable to take the stress or the difficulty of a certain situation, th en they shouldn’t be in that situation. They should leave. They should let someb ody else do it. A kitchen is where, in a house or in a restaurant, you prepare f ood. “Kitchens” are often hot because of course you’re cooking the food with heat , typically. If you can’t stand – if you can’t put up with or tolerate – the heat o f the kitchen, then you shouldn’t be in the kitchen.  
+
+This expression became famous in the United States in the mid-twentieth century because it was often used by President Harry Truman . Truman was known to be a very practical, level-headed, somewhat tough poli tician. It was his use of the expression that made it popular in twentieth-centur y American English, and it’s still used nowadays in precisely this situation. Am anda is saying that if Evan isn’t tough enough to handle the situation, then he shoul dn’t be involved in it.  
+
+ Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Marcel: Hey, why do you have the file for the Donov an account on your desk? I thought that was Evan’s account. 
+
+Amanda: It is, but I’m about to snatch it from him.  He won’t know what hit him. 
+
+Marcel: You’re stealing his account? If you do that , you’d better watch your back. 
+
+Amanda: You’ve got it all wrong. This is payback. T hree months ago, when I was on the verge of getting the Moralez account, Evan s wooped in and snagged it. He doesn’t play fair, and now neither do I. 
+
+Marcel: This sounds like the beginning of a feud. 
+
+Amanda: Evan started it. If he wants to play hardba ll, then what’s good for the goose is good for the gander. 
+
+Marcel: You’re not worried that he’ll up the ante a nd try to do something even more underhanded?  
+
+Amanda: Evan doesn’t scare me.  
+
+Marcel: This could easily escalate. 
+
+Amanda: Like I said, I’m not afraid of Evan. This i s business. If you can’t take the heat, get out of the kitchen. 
+
+[end of dialogue] 
+
+Thanks to our wonderful scriptwriter, Dr. Lucy Tse,  for her wonderful scripts. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

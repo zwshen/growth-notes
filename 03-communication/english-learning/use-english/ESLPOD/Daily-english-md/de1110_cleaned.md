@@ -1,0 +1,96 @@
+# Experiencing a Drought
+
+Welcome to English as a Second Language Podcast num ber 1,110 – Experiencing a Drought.  
+
+This is English as a Second Language Podcast episod e 1,110. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to our website at ESLPod.com. Become a member of  ESL Podcast and download a Learning Guide for this episode. What is  a Learning Guide, you ask? Well, it is an eight- to ten-page guide we provide that gives you a complete transcript of everything we say here on the episode , as well as a vocabulary list, definitions, sample sentences, cultural notes, and a whole lot more. 
+
+This episode is a dialogue between Fabian and Lia a bout not having enough water where you live – what we would call a “drough t.” Let’s get started.  
+
+[start of dialogue] 
+
+Fabian: How long do you think this drought is going  to last?  
+
+Lia: I have no idea, but I’m not worried. I grew up  in the desert. Not having enough precipitation was just a fact of life. 
+
+Fabian: Yes, but people here aren’t used to getting  this little rainfall. Their livelihood depends on having a reliable water suppl y for their crops. 
+
+Lia: You make it sound like we’re experiencing anot her Dust Bowl when the water table is just a little low.  
+
+Fabian: I think it’s a little more serious than tha t. 
+
+Lia: What we need here is a reservoir. That would g ive this town the water reserves it needs in case of a drought. 
+
+Fabian: What we really need are fewer dust storms a nd more thunderstorms. 
+
+Lia: And for people to stop over farming. That and deforestation are half the problem.  
+
+Fabian: You may be right, but that’s not what peopl e want to hear right now. They need some relief.  
+
+Lia: Maybe the town’s water conservation efforts wi ll make a difference. 
+
+Fabian: Well, I’m certainly willing to stop bathing  if it’ll help. 
+
+Lia: I thought you already had. 
+
+[end of dialogue] 
+
+Fabian asks Lia, “How long do you think this drough t is going to last?” How long will it be? A “drought” (drought) is a very dry per iod of time with little or no rain. Here in California, we have a history of droughts. In fact, as I record this episode, we are in the middle of another drought – a long pe riod of time with little or no rain. Lia says, “I have no idea,” meaning I don’t k now how long this drought will last. “But,” she adds, “I’m not worried. I grew up in the desert.” The “desert” (desert) is a hot, dry area with little or no rain.   
+
+She says, “Not having enough precipitation was just  a fact of life.” “Precipitation” (precipitation) refers to water in any form that fa lls from the sky, from clouds. That would include rain, snow, and “hail” (hail), which is basically small little balls of frozen rain. Lia says not having enough precipitati on was “a fact of life” for her, meaning it was a reality. It was just something you  had to deal with when she was growing up.  
+
+Fabian says, “Yes, but people here aren’t used to g etting this little rainfall.” “Rainfall” (rainfall), one word, is the amount of r ain – which in the U.S. is usually measured in inches – that falls from the sky during  a certain period of time. Fabian says, “Their livelihood depends on a reliabl e water supply for their crops.” Fabian is talking about the people in the area wher e he lives, who are apparently farmers – people who grow things and sell them.  
+
+Well, Fabian says that the “livelihood” of the peop le in this area depends on having “a reliable water supply for their crops.” “ Livelihood” (livelihood) is how you make money, how you earn money to live. In an a rea that has a lot of agriculture, a lot of “crops” (crops) – which are p lants that are grown for food or to make other products – you need a lot of water. That ’s why Fabian says that they need a “reliable,” that is dependable, “water suppl y” – something that will give them the water they need.  
+
+Lia responds, “You make it sound,” meaning you make  it appear, you make it seem, “like we’re experiencing another Dust Bowl wh en the water table is just a little low.” The term “Dust Bowl” (bowl) refers to a specific period of time in the 1930s in the United States, when there was a drough t in the middle part of the United States, causing a lot of people who lived th ere to leave. In fact, many of the people who lived in this area moved to Californ ia in order to find work. Lia is saying that the situation now is not like the Dust Bowl. It’s not that bad.  
+
+She says, “The water table is just a little low.” T he “water table” (table) refers to the water that is below the surface of the ground –  how deeply below the ground the water is found. Lia is saying it isn’t really a  serious drought. Fabian disagrees. He says, “I think it’s a little more serious than t hat” – that is, than how you are describing it, Lia. Lia says, “What we need here is  a reservoir.” A “reservoir” (reservoir) is a large area used to hold or store w ater that is used by a town or a city. Many cities have reservoirs. Los Angeles has a couple of reservoirs, but apparently where Lia and Fabian live, there is no r eservoir.  
+
+Lia says, “The reservoir would give this town the w ater reserves it needs in case of a drought.” “Reserves” refers to a supply of som ething that is being stored for use in the future, especially in a situation where you may not have enough of something. The United States used to (perhaps it st ill does) have something called “oil reserves,” where the country would stor e a certain amount of oil in case there was a crisis or an emergency in which we  couldn’t get enough oil for our needs. Lia is proposing something like that for  water.  
+
+Fabian says, “What we really need are fewer dust st orms and more thunderstorms.” A “dust storm” is a period of time when you have a lot of very strong wind that is blowing or carrying a lot of di rt and dust through the air. Usually we associate dust storms with a very dry ar ea. “Thunderstorms” are storms where you have a lot of rain that comes down , often in a very short amount of time. “Thunderstorms” also produce loud n oises called “thunder.” Fabian thinks the area needs more rain. Of course, we already know this.  
+
+Lia says, “And for people to stop over farming.” “T o over farm” would be to try to grow similar kinds of plants, similar kinds of crop s, in a certain area that might be bad for the soil, for the dirt. Lia is suggesting t hat the farmers have to change their practices. Lia also says that “deforestation”  is part of the problem. “Deforestation” (deforestation) has, in the middle of it, another word, “forest” (forest). A forest is an area with many trees. So, “deforestation” is cutting down those trees. Apparently Lia thinks that that is par t of the problem in terms of having enough water in the area.  
+
+Fabian says, “You may be right, but that’s not what  people want to hear right now” – that’s not what people want you to tell them . “They need some relief” (relief). “Relief” can mean a couple of different t hings. Here, it means a period of time after a very bad experience, when the experien ce stops. When the pain stops, for example, you get a period of relief when  you no longer hurt – or in this case, no longer have a bad situation.  
+
+Lia says, “Maybe the town’s water conservation effo rts will make a difference.” “Water conservation” refers to efforts to use less water in your home, in your place of business, in farming, and so forth. The wo rd “conservation” comes from the verb “to conserve” (conserve) which means to sa ve something or to prevent it from getting worse.  
+
+Fabian says, “Well, I’m certainly willing to stop b athing if it’ll help.” “To bathe” (bathe) means to clean your body. Fabian is suggest ing that maybe he should stop bathing himself. Lia makes a joke and says, “I  thought you already had,” meaning I thought you already had stopped bathing, because perhaps she is jokingly saying that he smells or that he looks dir ty.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Fabian: How long do you think this drought is going  to last?  
+
+Lia: I have no idea, but I’m not worried. I grew up  in the desert. Not having enough precipitation was just a fact of life. 
+
+Fabian: Yes, but people here aren’t used to getting  this little rainfall. Their livelihood depends on having a reliable water suppl y for their crops. 
+
+Lia: You make it sound like we’re experiencing anot her Dust Bowl when the water table is just a little low.  
+
+Fabian: I think it’s a little more serious than tha t. 
+
+Lia: What we need here is a reservoir. That would g ive this town the water reserves it needs in case of a drought. 
+
+Fabian: What we really need are fewer dust storms a nd more thunderstorms. 
+
+Lia: And for people to stop over farming. That and deforestation are half the problem.  
+
+Fabian: You may be right, but that’s not what peopl e want to hear right now. They need some relief.  
+
+Lia: Maybe the town’s water conservation efforts wi ll make a difference. 
+
+Fabian: Well, I’m certainly willing to stop bathing  if it’ll help. 
+
+Lia: I thought you already had. 
+
+[end of dialogue] 
+
+Our thanks to our wonderful scriptwriter, Dr. Lucy Tse, for her wonderful scripts.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

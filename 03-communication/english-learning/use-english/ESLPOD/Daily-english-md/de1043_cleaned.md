@@ -1,0 +1,138 @@
+# TV Shows Being Renewed and Cancelled
+
+Welcome to English as a Second Language Podcast num ber 1,043 – TV Shows Being Renewed and Cancelled. 
+
+This is English as a Second Language Podcast episod e 1,043. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Go there and becom e a member of ESL Podcast. If you do, you can download a complete tra nscript of everything we say on this podcast, as well as definitions of all the key terms and words that I’m explaining here. You’ll also get some additional En glish lessons with our Cultural Notes that are included in the Learning Guides. 
+
+This episode is a dialogue between Mo and Amy about  television programs. Let’s get started.  
+
+[start of dialogue] 
+
+Mo: I have some bad news: Your favorite TV show has  been cancelled. 
+
+Amy: I’m not surprised. Ratings plummeted last seas on, so the writing was on the wall. 
+
+Mo: Also on the chopping block is your favorite rea lity show: American Idiots . 
+
+Amy: Oh no, not American Idiots , too! I thought it was gaining ground in the ratings after a slow start. 
+
+Mo: Unfortunately, it stayed a cult favorite and ne ver garnered a large enough viewership to be renewed. 
+
+Amy: I’ll have nothing to watch next season. 
+
+Mo: You can watch some of my shows. All of my favor ites are being renewed, with one taking a short hiatus. 
+
+Amy: A short hiatus? We all know what that means. 
+
+Mo: What are you implying? 
+
+Amy: The network will put in a mid-season replaceme nt, and if it does well, you’ll never see your show again. 
+
+Mo: That’s not true. You’re just saying that becaus e your shows got the ax.  
+
+Amy: No, I’m not. That show is on its last legs. Ma rk my words. 
+
+Mo: Well, even if it’s true, I still have something  to watch, for now.  
+
+Amy: What are you watching right now? 
+
+Mo: A show called Podsters . It’s a reality show where a bunch of podcasters l ive in a house together and are watched 24 hours a day.  
+
+Amy: I’ve never heard of anything so inane. Who car es about the lives of podcasters? They must be the most boring people in the world. 
+
+Mo: You might have a point there. 
+
+[end of dialogue] 
+
+Mo says to Amy, “I have some bad news: Your favorit e TV show has been cancelled.” If a TV show is “cancelled,” it is no l onger going to continue to be on television. “To be cancelled” in general means to h ave something ended. It is no longer continued. Mo says that Amy’s favorite TV sh ow has been cancelled.  
+
+Amy says, “I’m not surprised. Ratings plummeted las t season, so the writing was on the wall.” “Ratings” (ratings) refer to how popu lar something is. When we talk about the ratings of a TV show, we are referring to  the number of people who are watching the show. If ratings “plummet” (plummet), they go down, or decrease, significantly – fewer and fewer people are watching  the show. Amy says the ratings for her favorite show plummeted this last s eason.  
+
+A “season” (season) is a period of time that occurs  during the year and repeats the next year and the year after that. We could tal k about the “baseball season,” which begins in April and ends in October or early November. The television season in the United States usually begins in the f all in September and continues to the spring, usually May or June of the following  year.  
+
+During the summer, then, there aren’t as many new p rograms, although nowadays there are new programs all the time throug hout the year, but traditionally we talk about the television season a s the time in which a show is  
+
+being shown on television – when you can watch it o n television. The normal TV season was always September to June, but now things  have changed and there are lots of different seasons.  
+
+We also use this word “season” to refer to a set of  programs that go together. Many TV shows, for example, have three, four, five,  perhaps even six seasons, and each season includes maybe 15 or 20 episodes, 1 5 or 20 individual shows. Amy uses the expression “the writing was on the wal l.” “The writing was on the wall” is a phrase meaning that it was clear or obvi ous that something was going to happen – that nobody should be surprised by it, that all the indications were that this would happen.  
+
+Mo says, “Also on the chopping block is your favori te reality show, American Idiots .” “To be on the chopping (chopping) block (block)”  means to be in danger of being cancelled or ended. If someone says, “My j ob is on the chopping block,” he means that his job may be eliminated and he may be fired; he may lose his job.  
+
+Anything can be on the chopping block. “To chop” me ans to cut. A “chopping block” would be a place where, for example, a butch er – someone who cuts meat – would cut the meat. It would also be a place wher e you might kill an animal. So, to be on the chopping block means to be in danger o f being not killed, but cancelled or perhaps fired, even.  
+
+Amy’s favorite reality TV show is on the chopping b lock. A “reality TV show” is a TV show in which supposedly people aren’t acting, t hat it’s supposed to be real life, although usually it isn’t. Amy’s favorite TV show, reality TV show, is American Idiots , which is not a real show (but it could be and pro bably will be, someday). An “idiot” (idiot) is a stupid person, a dumb person.  
+
+Amy says, “Oh no, not American Idiots , too! I thought it,” meaning the show, “was gaining ground in the ratings.” “To gain (gain) gro und” means to improve slowly – to get better, to increase. Amy thought the show wa s becoming more popular, that more people were watching it.  
+
+Mo says, “Unfortunately, it stayed a cult favorite and never garnered a large enough viewership to be renewed.” A “cult (cult) fa vorite” is a show that is very popular among a small group of people. The average person doesn’t like the show, but a small group of people do, and that ofte n is enough to keep a television show going. However, that was not the ca se for Amy’s TV show. The show “never garnered a large enough viewership.”  
+
+“To garner” (garner) means to gather or receive or collect. “I’m garnering donations for my favorite charity” – I’m getting mo ney to give to an organization that does good things. This television show did not  garner a large enough viewership. The word “viewership” just refers to th e number of people who watch the show, or to the people who watch the show. “To garner a large enough viewership” would be to get enough people watching the television program.  
+
+This show didn’t do that, at least not enough to be  renewed. If a television show is “renewed” (renewed), it is continued into the ne xt year or the next season. So, if it is a popular show, the people who make the sh ow and the television channels that broadcast the show will continue it. They’ll continue producing that program. “To be renewed” is the opposite of “to be cancelled.” Mo says that this television show that Amy likes, American Idiots , was not renewed.  
+
+Amy says, “I’ll have nothing to watch next season.”  “Next season” refers to, probably in this case, the following fall and sprin g. Mo says, “You can watch some of my shows” – my favorite shows. “All of my f avorites are being renewed, with one taking a short hiatus.” A “hiatus” (hiatus ) is a short break. When a show takes a hiatus, it is not cancelled, but it is stop ping production for a short amount of time, but it will be continuing again in a few m onths or perhaps next year.  
+
+Amy says, “A short hiatus? We all know what that me ans.” The expression “we all know what that means” is used to indicate that everyone understands the real meaning of it that isn’t what is being told to you.  There’s some other meaning involved. Mo, however, says, “What are you implying ?” “To imply” (imply) means to say something indirectly – to speak in a way tha t isn’t direct that is communicating the message, but not saying it explic itly.  
+
+Amy says “The network,” the television network, “wi ll put in a midseason replacement, and if it does well, you’ll never see your show again.” Sometimes what happens is during the middle of the year, if a  television show perhaps isn’t doing very well, the television channels will put i n a different show, what’s called a “midseason replacement.” “Mid” (mid) means “in th e middle of.”  
+
+So, in the middle of the regular September to June television season, the television network – the group of television channe ls that all show the same shows – will put in another show and say that this first show is “on hiatus.” It’s on a break. But if the replacement show does better th an the original show, they’ll often cancel the original show, and you’ll never se e it again.  
+
+Mo says, “That’s not true. You’re just saying that because your shows got the ax.” “To get the ax” (ax) means to be cancelled or to be fired. “My friend got the  
+
+ax at work,” at his company. He got fired. Amy says , “No, I’m not,” meaning I’m not saying that just because my shows were cancelle d.  
+
+Amy says, “That show is on its last legs.” We’re no t sure which show Amy is talking about, since Mo mentioned that all of his f avorites were being renewed, so apparently Mo and Amy understand which show she’ s referring to. Amy says, “That show is on its last legs.” If you are “on you r last legs” (legs), you’re very tired and might even die soon. If we say a televisi on show is on its last legs, we mean it probably will be cancelled soon. It’s about  to die, if you will.  
+
+Amy says, “Mark my words.” That expression “mark (m ark) my words” is used to get someone to pay attention to what you are saying , especially when it refers to a prediction – what might happen in the future. “Ma rk my words, the Dodgers will win the World Series this year.” Well, I hope! The World Series is the U.S. championship for professional baseball. Amy is tell ing Mo to mark her words, that this show will be cancelled, whatever show they’re talking about.  
+
+Mo says, “Well, even if it’s true, I still have som ething to watch for now.” Amy says, “What are you watching right now?” at this mi nute. Mo says, “A show called Podsters . It’s a reality show where a bunch of podcasters l ive in a house together and are watched 24 hours a day.” There is no show c alled Podsters  in the U.S., but there are shows in which people are put on came ra for the entire day and the TV shows show them during parts of the day. Big Bro ther  is an example of a show like that. But Mo is watching a show in our di alogue called Podsters . 
+
+Amy says, “I’ve never heard of anything so inane.” If something is “inane” (inane), it’s stupid. It’s foolish. It’s silly. Amy  thinks that a show about podcasters is inane. Mo says, “You might have a point there.” If you say to someone, “You might have a point there,” you mean that the other person may be right; maybe what the other person is saying is true. Mo, then, is agreeing with Amy that a show called Podsters  is, indeed, inane. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Mo: I have some bad news: Your favorite TV show has  been cancelled. 
+
+Amy: I’m not surprised. Ratings plummeted last seas on, so the writing was on the wall. 
+
+Mo: Also on the chopping block is your favorite rea lity show: American Idiots .  
+
+ Amy: Oh no, not American Idiots , too! I thought it was gaining ground in the ratings after a low start. 
+
+Mo: Unfortunately, it stayed a cult favorite and ne ver garnered a large enough viewership to be renewed. 
+
+Amy: I’ll have nothing to watch next season. 
+
+Mo: You can watch some of my shows. All of my favor ites are being renewed, with one taking a short hiatus. 
+
+Amy: A short hiatus? We all know that that means. 
+
+Mo: What are you implying? 
+
+Amy: The network will put in a mid-season replaceme nt, and if it does well, you’ll never see your show again. 
+
+Mo: That’s not true. You’re just saying that becaus e your shows got the ax.  
+
+Amy: No, I’m not. That show is on its last legs. Ma rk my words. 
+
+Mo: Well, even if it’s true, I still have something  to watch, for now.  
+
+Amy: What are you watching right now? 
+
+Mo: A show called Podsters . It’s a reality show where a bunch of podcasters l ive in a house together and are watched 24 hours a day.  
+
+Amy: I’ve never heard or anything so inane. Who car es about the lives of podcasters? They must be the most boring people in the world. 
+
+Mo: You might have a point there. 
+
+[end of dialogue] 
+
+There’s nothing inane about the wonderful scripts w ritten by our wonderful scriptwriter, Dr. Lucy Tse. She won’t be getting th e ax anytime soon, I’m sure.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

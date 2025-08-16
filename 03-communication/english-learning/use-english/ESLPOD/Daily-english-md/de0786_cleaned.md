@@ -1,0 +1,98 @@
+# Going to a Bar
+
+Welcome to English as a Second Language Podcast num ber 786: Going to a Bar.   
+
+This is English as a Second Language Podcast episod e 786.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Learning Guide for this episode that will help you improve your English eve n faster. 
+
+This episode is a dialogue about going to a “bar,” a place where you go and have an alcoholic drink.  Let’s get started. 
+
+[start of dialogue] 
+
+I’d been complaining to a coworker, Amy, about havi ng to move to the burbs for my job.  She said that there were plenty of things to do outside of the city and invited me to a bar she likes. … 
+
+Amy:  Hey, there you are.   
+
+Mykhailo:  Hey, so this is the famous McQ’s you’ve been talking about. 
+
+Amy:  This is it.  What would you like to drink?  T here are several beers on tap and pretty good well drinks. 
+
+Mykhailo:  I think I’ll get a couple of shots. 
+
+Amy:  On a Wednesday night?  You guys do party hard  in the city. 
+
+Mykhailo:  I’ve had a really rough week and I welco me any excuse to let my hair down.  That said, I won’t be getting stinking drunk  on a school night.  You were right.  This place is nice.  It even has a dance fl oor. 
+
+Amy:  On the weekends, there’s a live band or a DJ,  although there’s also a cover charge on Fridays and Saturdays. 
+
+Mykhailo:  So you do know how to party in the burbs . 
+
+Amy:  Didn’t I tell you? 
+
+Mykhailo:  But for me to get a thorough impression of the burbs, I’ll have to come here to check it out this weekend.  What are you do ing Saturday night? 
+
+Amy:  Actually, I plan on coming here. 
+
+Mykhailo:  Want some company?     
+
+[end of dialogue] 
+
+Our story begins with Mykhailo saying, “I’ve been c omplaining to a coworker.” “To complain” means to talk about something negativ e, to say how unhappy you are about something that is happening.  Mykhailo’s been complaining to a “coworker,” someone he works with named Amy, “about  having to move to the burbs for my job.”  “Burbs” (burbs) is an informal word for suburb.  “Suburbs” are areas around the main city, outside of the downtown  area, usually outside of a major city.  In Los Angeles, the suburbs would be a ll of the cities around the City of Los Angeles, around the biggest city. 
+
+Mykhailo says Amy “said there were plenty of things  to do outside of the city and invited me to a bar she likes.”  A “bar,” which wou ld be called a “pub” in England, or a “tavern,” is a place that serves mostly alcoho lic beverages: beer, wine, whiskey, rum, and so forth.  I like rum personally,  if I have an alcoholic drink, which is very, very rarely now.  But I really like the taste of rum – Bacardi Rum – especially the rum from Mexico for some reason.  Th e Mexican Bacardi is very good, as good as I think the Puerto Rican rum.  Now , if you’re from Puerto Rico you’ll probably email and complain that I said that , but there you go.  Anyway, I’m not drinking; I’m recording a podcast so let’s cont inue. 
+
+Amy says, “Hey, there you are.”  We would say that expression “there you are” for someone who you were looking for or perhaps you  were waiting for and they finally came.  Mykhailo says, “Hey, so this is the famous McQ’s you’ve been talking about.”  The name of the bar is called McQ’ s, no relation to me.  Amy says, “This is it.  What would you like to drink?  They have several beers on tap and pretty good well drinks.”  “On tap” means avail able usually from a faucet.  If a beer is on tap, it’s in a big barrel – a big contai ner, and it comes right out of that container into the glass – into the mug where you p our the beer and drink the beer out of.  The opposite would be beer in a bottl e, but beer on tap is beer that the bar has in a big container.  A “well (well) dri nk” is any alcoholic drink made from some other kind of alcohol, like whiskey or ru m.  Usually it’s mixed with  
+
+something else, either some sort of soda pop, or so me juice, or some water, or something similar. 
+
+Mykhailo says, “I think I’ll get a couple of shots. ”  Well, there are a number of different things you can order at a bar.  A well dr ink, or just a drink, would be what some people might call a “cocktail,” that woul d be, for example, rum and Coke, which we call a Cuba Libre, or a Tom Collins,  or a whiskey seven – whiskey with 7-Up.  Those are all well drinks.  A “ shot” is when you just have alcohol in a small, little container called a “shot  glass,” and it’s a very small amount of alcohol.  You could have a whiskey shot, or a shot of whiskey, which would be just one little container full of alcohol,  usually served in a very small glass – in a shot glass. 
+
+So, Mykhailo says, “I think I’ll get a couple of sh ots.”  Amy says, “On a Wednesday night?  You guys do party hard in the cit y.”  She’s surprised because getting a couple of shots is a lot of alcohol, and it’s in the middle of the week, so she’s surprised that Mykhailo wants to drink so muc h.  That’s why she says, “You guys (you people who live in the city) party hard.”   “To party” means to have a good time, to celebrate, to drink and dance.  “To p arty hard” would be to enjoy yourself, usually by drinking a lot of alcohol, an extreme amount of alcohol, alcohol that would get you drunk quickly and for a long time. 
+
+Mykhailo says, “I’ve had a really rough (or difficu lt) week and I welcome any excuse to let my hair down.”  “To welcome any excus e to let your hair down” would be to use any opportunity or reason to relax and have fun.  Not quite sure about his use of the term “let my hair down.”  That ’s something a woman might say more likely than a man, but maybe Mykhailo has,  uh, long hair; I don’t know. He says, “That said, I won’t be getting stinking dr unk on a school night.”  “That said” means nevertheless.  Even though he is lookin g for an excuse to party – to let his hair down – he won’t be getting stinking dr unk.  “To be drunk” is to be intoxicated, to have too much alcohol.  “To be stin king drunk” is an informal expression meaning to be really drunk, to be incred ibly drunk, to be very drunk. A “school night” is kind of a joke here.  When you are in school, of course any time you have to go to school the next day you can’ t go out and party at night. Your parents will often say you have to study and b e to bed by 10:00 on a school night.  So, Monday, Tuesday, Wednesday, and Thursda y – well, Sunday, Monday, Tuesday, Wednesday, Thursday are all school  nights because the next day you have school, Monday through Friday.  Howeve r, people sometimes use it just to mean a work night, a day that – or a nig ht that will be followed by a day that you have to go to work.  That’s what Mykhailo is talk about.   
+
+He says, “You were right.  This place is nice.  It even has a dance floor.”  A “dance floor” is an area where you can dance to mus ic, of course.  Amy says, “On the weekends, there’s a live band or a DJ.”  A “live band” is a musical group that performs; there are actually people up there s inging and playing guitars and other musical instruments.  A “DJ” stands for a dis c jockey; it’s a person whose job it is to – well, it used to be to play records,  to play discs, now they play compact discs or I guess MP3s, I’m not sure.  But t hat’s a DJ, a person who is in charge of selecting the music.  Amy says, “there’s also a cover charge on Fridays and Saturdays.”  A “cover charge” means you have to  pay money just to get into the bar or the club and, of course, you also have t o pay for your drinks.  A cover charge is, I don’t know, it used to be like 5, 10, 15 dollars.  Now it’s probably more than that, I haven’t been to a bar with a cove r charge since Ronald Reagan was president! 
+
+Mykhailo says, “So you do know how to party in the burbs.”  Amy says, “Didn’t I tell you?”  Mykhailo’s saying you guys also know ho w to have a good time. Mykhailo says, “But for me to get a thorough impres sion of the burbs, I’ll have to come here to check it out this weekend.”  A “thorou gh impression” means a complete idea.  An “impression” can mean the way th at you understand something, the opinion you have about something.  “ Impression” can have a few other meanings as well; take a look at our Learning  Guide for those.   
+
+So, Mykhailo is saying that in order to really unde rstand whether this bar is a good place he’ll have to come back on the weekend.  He says to Amy, “What are you doing Saturday night?”  Now of course, Mykhailo  and Amy are friends, but now it sounds like Mykhailo wants to see Amy again at this bar, so perhaps he has other ideas.  Amy says, “Actually, I planned on  coming here.”  I was already going to come to this bar again on the weekend.  My khailo says, “Want some company?”  “Company” is other people who spend time  with you.  And of course, we think Mykhailo possibly is interested romantical ly in Amy.  We’ll have to see later on.  When?  Probably never!     
+
+Now let’s listen to the dialogue at a normal speed.  
+
+[start of dialogue] 
+
+I’d been complaining to a coworker, Amy, about havi ng to move to the burbs for my job.  She said that there were plenty of things to do outside of the city and invited me to a bar she likes. … 
+
+Amy:  Hey, there you are.    
+
+ Mykhailo:  Hey, so this is the famous McQ’s you’ve been talking about. 
+
+Amy:  This is it.  What would you like to drink?  T hey have several beers on tap and pretty good well drinks. 
+
+Mykhailo:  I think I’ll get a couple of shots. 
+
+Amy:  On a Wednesday night?  You guys do party hard  in the city. 
+
+Mykhailo:  I’ve had a really rough week and I welco me any excuse to let my hair down.  That said, I won’t be getting stinking drunk  on a school night.  You were right.  This place is nice.  It even has a dance fl oor. 
+
+Amy:  On the weekends, there’s a live band or a DJ,  although there’s also a cover charge on Fridays and Saturdays. 
+
+Mykhailo:  So you do know how to party in the burbs . 
+
+Amy:  Didn’t I tell you? 
+
+Mykhailo:  But for me to get a thorough impression of the burbs, I’ll have to come here to check it out this weekend.  What are you do ing Saturday night? 
+
+Amy:  Actually, I plan on coming here. 
+
+Mykhailo:  Want some company?     
+
+[end of dialogue] 
+
+If you’ve listened to Dr. Lucy Tse’s scripts, you s hould have a good impression of what she does, I hope.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

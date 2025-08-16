@@ -1,0 +1,82 @@
+# Holding Structured and Unstructured Meetings
+
+Welcome to English as a Second Language Podcast num ber 756: Holding Structured and Unstructured Meetings. 
+
+This is English as a Second Language Podcast episod e 756.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Go to our website at eslpod.com, and become a membe r of ESL Podcast, and help support us.  By becoming a member, you can dow nload the Learning Guide for this episode that will help you improve your En glish even faster by giving you a complete transcript of everything we say on this episode. 
+
+This episode is a dialogue between Maya and Diego a bout having business meetings.  Let’s get started. 
+
+[start of dialogue] 
+
+Diego:  Okay, why don’t you brief me on what you’ve  planned for the meeting tomorrow? 
+
+Maya:  Sure.  At the meeting of the managers tomorr ow, we’ll begin with introductions.  Since you’re the most senior manage r, the job falls to you. 
+
+Diego:  I don’t think we need to stand on ceremony.   Have Alexi do the introductions. 
+
+Maya:  All right.  Then, we’ll follow the agenda an d discuss each item of business.  I have you down to lead the discussions.  
+
+Diego:  I don’t think we need the meeting to be so structured.  If we follow the agenda point-by-point, we’ll never find out what’s really on the minds of the managers, what issues they think are of paramount i mportance.  I think I’ll open the floor to anyone who wants to raise an issue. 
+
+Maya:  Wouldn’t that turn into a free for all?  I’m  not sure we’ll get much accomplished. 
+
+Diego:  Sometimes, it’s not as important to accompl ish something as it is to take the pulse of the group.  If we want to know what is sues are on the managers’ minds, we first need to let the managers speak free ly.  Agreed?  
+
+ Maya:  Uh, sure.  You’re the boss.  Should I also c ancel the lunch I’ve ordered so you can make up your minds about food later? 
+
+Diego:  Absolutely not!  The one thing that’s not o pen for discussion is what I’m eating for lunch. 
+
+[end of dialogue] 
+
+Our dialogue begins with Diego saying, “Okay, why d on’t you brief me on what you’ve planned for the meeting tomorrow?”  “To brie f” (brief) someone on something means to give them very quickly the most important information.  We usually, when there isn’t a lot of time, we use thi s expression.  Tell me just the most important things I need to know.  Of course, t he word “brief” as an adjective means to be short.  Here, we use it as a verb meani ng to give me information quickly. 
+
+Maya says, “Sure.  At the meeting of the managers t omorrow, we’ll begin with introductions,” meaning we’ll find out the name and  the job of everyone there at the meeting.  Maya says, “Since you (Diego) are the  most senior manager, the job falls to you.”  “Senior” means the one with the  most experienced here.  It can also mean older, but here in a company setting, the  senior executives are those who have the most experience.  Those are often the ones who are the oldest, as well.  “The job falls to you,” Maya says.  “To fall  to (someone)” means to be your responsibility because of the way the rules or expe ctations are in this organization.  “This job falls to you,” it’s your j ob, your responsibility; you have to do it. 
+
+Diego says, “I don’t think we need to stand on cere mony.”  The expression “to stand on ceremony” means to be very formal, to not be casual, to follow all of the rules.  But even though Diego is the senior manager , he doesn’t want to follow the tradition of him doing the work; he suggests Al exi do the introductions.   
+
+Maya says, “All right.  Then, we’ll follow the agen da and discuss each item of business.”  An “agenda” (agenda) is a written plan about what you are going to talk about in a meeting: first you’re going to talk  about this, then you’re going to talk about that.  Usually, if it’s a business meeti ng, you have a piece of paper that tells you, in order, the things that you’re going t o talk about at that meeting, especially if it’s a very formal meeting.  Maya say s they’re going to discuss each item of business.  At a meeting, an “item of busine ss” is any topic or subject that’s going to be discussed.  It doesn’t have to b e actually related to business. You could have a formal meeting for an organization  at your church or an  
+
+organization in your community, and if you have a m eeting of the leaders – of the directors – you might have different things on the agenda, each one of those would be an “item of business,” even though we’re n ot talking about a business like making money.  Maya says, “I have you down to lead the discussions.”  “I have you down” means I have written down – I have p ut down your name on a piece of paper, or I have your commitment, or I kno w that you are going to do this thing. 
+
+But Diego says, “I don’t think we need the meeting to be so structured.”  The title of this episode is “Having (or holding) Structured and Unstructured Meetings.” “Structured” would be something that is planned ver y carefully: first you do this, then you do that.  You follow the rules of a formal  meeting very carefully, and everything is planned.  Diego says, “If we follow t he agenda point-by-point, we’ll never find out what’s really on the minds of the ma nagers.”  “Point-by (by) -point” means one thing at a time, one item of business at a time.  Diego says that if we hold the meeting – if we conduct the meeting this w ay we won’t really find out what the managers at the meaning are thinking, what  is “on their minds,” which means what are they thinking.  Diego want to find o ut what the managers think is of paramount importance.  “Paramount” (paramount) m eans extremely important, more important than anything else.  If someone says , “this is of paramount importance,” they mean it is very important, highly  important.  Diego says, “I think I’ll open the floor to anyone who wants to raise an  issue.”  “To open the floor” is when the leader of a meeting says anyone can now sp eak about whatever topic they want to talk about.  That would be a very “uns tructured” meeting, a meeting that wasn’t planned carefully.  Diego says he’ll op en the floor to anyone who wants to raise an issue.  “To raise an issue” means  to mention a concern or a worry that hasn’t yet been discussed, or to ask a q uestion that hasn’t been discussed. 
+
+Maya said, “Wouldn’t that turn (the meeting) into a  free for all?”  The expression “free for (for) all (all)” means to have a situatio n where everyone is talking at the same time.  It’s very disorganized, not just unstru ctured, but lacking any sort of organization, being not very productive because eve ryone’s talking at the same time.  Maya says, “I’m not sure we’ll get much acco mplished (we’ll get a lot of things done).” 
+
+Diego says, “Sometimes, it’s not as important to ac complish something as it is to take the pulse of the group.”  The expression “to t ake the pulse” (pulse) means to understand the way people are thinking or to unders tand the current situation, especially as it relates to people’s feelings and o pinions.  Literally, in your body your pulse is the blood that is going through your body.  You can measure your pulse in a couple of different places: inside of yo ur wrist, at the end of your arm,  
+
+is one place.  But as an expression, “to take the p ulse” of a group of people means to get a good idea about what they are feelin g and thinking.  Diego says, “If we want to know what issues are on the managers ’ minds, we first need to let the managers speak freely.”  “To speak freely” mean s to speak openly, usually not to have to worry that you are going to be criti cized, to speak without having to worry about how the other people, perhaps, are reac ting.  Diego says, “Agreed?” meaning do you agree with me, Maya. 
+
+Maya says, “Uh, sure.  You’re the boss (you’re the person in charge).  Should I also cancel the lunch I’ve ordered so you can make up your minds about food later?”  “To make up your mind” means to decide, to  make a decision.  Maya’s saying well, maybe we shouldn’t have a planned lunc h; you guys can just decide what you want to eat later.  Diego says, “Absolutel y not!  The one thing that’s not open for discussion is what I’m eating for lunch.”  So, Diego is willing to have people talk about whatever they want, but when it c omes to lunch, deciding what he’s going to eat, he’s going to make a decision.  “To be open for discussion” means that people can give their opinions, it hasn’ t been decided yet.  When it’s not open for discussion, a decision has already bee n made, and apparently Diego has made a decision about what he wants and e veryone else will eat for lunch. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Diego:  Okay, why don’t you brief me on what you’ve  planned for the meeting tomorrow? 
+
+Maya:  Sure.  At the meeting of the managers tomorr ow, we’ll begin with introductions.  Since you’re the most senior manage r, the job falls to you. 
+
+Diego:  I don’t think we need to stand on ceremony.   Have Alexi do the introductions. 
+
+Maya:  All right.  Then, we’ll follow the agenda an d discuss each item of business.  I have you down to lead the discussions.  
+
+Diego:  I don’t think we need the meeting to be so structured.  If we follow the agenda point-by-point, we’ll never find out what’s really on the minds of the managers, what issues they think are of paramount i mportance.  I think I’ll open the floor to anyone who wants to raise an issue. 
+
+Maya:  Wouldn’t that turn into a free for all?  I’m  not sure we’ll get much accomplished. 
+
+Diego:  Sometimes, it’s not as important to accompl ish something as it is to take the pulse of the group.  If we want to know what is sues are on the managers’ minds, we first need to let the managers speak free ly.  Agreed? 
+
+Maya:  Uh, sure.  You’re the boss.  Should I also c ancel the lunch I’ve ordered so you can make up your minds about food later? 
+
+Diego:  Absolutely not!  The one thing that’s not o pen for discussion is what I’m eating for lunch. 
+
+[end of dialogue] 
+
+The job of scriptwriter here at the Center falls to  the best scriptwriter in the world of podcasting, Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

@@ -1,0 +1,92 @@
+# Business Zoning
+
+Welcome to English as a Second Language Podcast num ber 792: Business Zoning. 
+
+This is English as a Second Language Podcast episod e 792.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Please go and become a member of ESL Podcast, you’ll be happy you did! 
+
+This episode is about the exciting world of busines s zoning.  Let’s get started. 
+
+[start of dialogue] 
+
+Sybil:  Oh, this is it!  This is the perfect locati on for our new store! 
+
+Leo:  Sorry, but this space isn’t zoned for retail.   It’s zoned for offices. 
+
+Sybil:  But couldn’t we get the zoning commission t o re-zone it?   
+
+Leo:  That’s not an easy process.  The city’s urban  planners decided that this space would be best suited for offices.  Changing t heir minds won’t be easy. 
+
+Sybil:  I’ve heard that a lot of new developments a re being zoned for mixed-use. That’s all we need to do.  We just need this buildi ng to be re-zoned for mixed- use.  Then, we can use the space downstairs for com mercial purposes and use the upstairs space for offices or even housing.   
+
+Leo:  This area was zoned for industrial purposes o ver 30 years ago.  It took 10 years for it to be re-zoned for offices.  It may ta ke another 10 years to get it re- zoned for commercial purposes.  Do you think you ca n wait 10 years to open your store? 
+
+Sybil:  No, I guess not.  What if I rented this spa ce for an office and then ran my store out of it?   
+
+Leo:  You’ll never get a business license for your store if you do that.  Each type of zoning has different ordinances and the inspecto r won’t be fooled.   
+
+Sybil:  All right.  I’ll look for another space, bu t nothing will live up to this one.     
+
+ Leo:  That’s the spirit! 
+
+[end of dialogue] 
+
+This episode is about business zoning.  A “zone” (z one) is an area or a place; we might use the word “district.”  It’s a certain area  usually within a larger area, such as a city.  This episode talks about “business zoni ng,” which are the laws that the government has about what kind of buildings you can  put in one part of the city, and what buildings you can’t put there.  It will be come a little more clear as we explain the dialogue, I hope. 
+
+The dialogue begins with Sybil saying, “Oh, this is  it!  This is the perfect location for our new store!”  It’s the perfect place for the  new store that Sybil and someone else, maybe Leo, is going to open.  Leo say s, “Sorry, but this space isn’t zoned for retail.”  Here, “zone” is used as a  verb.  “To be zoned” means that the government, usually the local government – the city government permits or allows you to put a certain kind of building or a c ertain kind of business in this area of the city.  In the U.S., in most cities ther e are certain places in the city where you can have houses and apartments, others wh ere you can have stores, other places where you can have factories – busines ses that make things, and so forth.  Sometimes you can have all three of thos e in one area, but not always, and that’s what we mean when we say an area is “zon ed for” something.  Here, Leo says the space isn’t zoned for retail.  “Retail ” (retail) is the sale of things, the sale of products and services.  Basically, it’s a s tore that you can go in and buy something from; that’s retail.  So this area, the b uilding where Sybil wants to put the new store, isn’t zoned for retail.  You cannot put a store there; the city won’t allow you.  Leo says, “It’s zoned for offices,” bus iness offices, places that people aren’t coming in to buy things, but places where pe ople work but don’t sell their products right there. 
+
+Sybil says, “But couldn’t we get the zoning commiss ion to re-zone it?”  The “zoning commission” would be the group of people – the group of government officials that decides whether or not you can have a certain kind of business. They’re the people in the government that decide wh at can go where in a city. “To re-zone” would mean, of course, to zone again, to change the law so that now you can allow, in this case, retail for that sp ace – for that place. 
+
+Leo says, “That’s not an easy process,” meaning re- zoning is not an easy process.  “The city’s urban planners decided that t his space (this area) would be best suited for offices.”  “Urban” (urban) means th e city.  “Urban planners” are the people who plan cities, who plan where things go.  The whole idea of urban  
+
+planning is something that is popular – has been po pular in the United States.  Of course, we’re a newer country, and newer areas – ne wer cities are being built all the time.  Well, not so much recently, but in the p ast 50 years many cities have grown and, therefore, we need a group of people to decide, well, where should certain things in the local area, and that’s what u rban planners do.  Leo says, “The urban planners decided that this space would b e best suited for offices.” The expression “best suited” means most appropriate  for, something that would be the best use of this area.  He says changing the  urban planners’ minds won’t be easy.  “To change (someone’s) mind” means to get  them to change their idea, to change their opinion. 
+
+Sybil says, “I’ve heard that a lot of new developme nts are being zoned for mixed- use.”  The word “development” has a lot of differen t meanings; it could mean change or growth in something.  But here, it’s used  as a noun to refer to a group of new buildings, either houses, or offices, or per haps both.  “Mixed-use” means that you have one building that has more than one t ype of use.  Maybe on the top of the building there are apartments, and then on t he first floor – what we call in the United States the first floor, which is the gro und floor – you may have stores or offices or something else.  So you have more tha n one kind of use in the same building, that would be a mixed-use building or a m ixed-use development. “Development” usually refers to a group of building s, not just one building.  Sybil says, “That’s all we need to do.  We just need this  building to be re-zoned for mixed-use.  Then, we can use the space downstairs ( the area downstairs) for commercial purposes and use the upstairs (the secon d, third, fourth floor) for offices or even housing.”  “Commercial” refers to b usiness.  So what Sybil is saying is that they can have the building re-zoned so that the first floor – the ground floor can be used for her store, which would  be a commercial purpose, and the other floors – the upstairs, in this case –  could be used for offices or even housing. 
+
+But, Leo says, “This area was zoned for industrial purposes over 30 years ago.” The word “industrial” (industrial) refers to making  things, producing actual physical goods.  It’s a type of commercial activity , but it’s a specific type.  It’s one usually involved in manufacturing something – makin g something, not just selling a service.  And, once again, this is sometimes a se parate zoning classification. You can only have buildings where people are making  things in certain parts of the city.  “This area,” Leo says, “was zoned for in dustrial purposes 30 years ago (over 30 years ago, more than 30 years ago).  It to ok 10 years for it to be re- zoned for offices.  It may take another 10 years to  get it re-zoned for commercial purposes.  Do you think you can wait 10 years to op en your store?”  Leo is saying it’s going to take a long time to get this r e-zoned.  Like a lot of things in  
+
+government, it takes a long time for the government  to take action.  That’s true with any big institution – any big organization. 
+
+Sybil says, “No, I guess not.”  I can’t wait 10 yea rs.  She says, “What if I rented this space for an office then ran my store out of i t?”  She’s saying well, I’ll say I’m going to open an office, but in fact I’ll have a st ore.  That’s what she means when she says “run” her store out of it.  “To run,” here , means to operate or manage a business.  “Out of it” means in that space, in that  area.   
+
+Leo says, “You’ll never get a business license for your store if you do that.”  In most cities, you need a license to have your busine ss there.  Basically, it’s a way of the – for the city make you pay taxes for having  your business in that city.  The license is your permission to work and have a busin ess there.  Leo says that Sybil won’t get a business license if she tries to run her store out of a space that is zoned for an office.  “Each type of zoning,” he says, “has different ordinances and the inspector won’t be fooled.”  An “ordinance”  (ordinance) here means a law or a regulation, a rule that the government has.  A n “inspector” is someone who goes around making sure that businesses are followi ng the law, that they’re doing what they’re supposed to do.  “To be fooled” means to trick someone, to make them believe something that isn’t true.   
+
+Leo says that the inspector won’t be fooled by Sybi l’s idea of running her store out of an office; he won’t allow it, or she won’t a llow it.  Sybil says, “All right (okay).  I’ll look for another space.”  Notice we u se the word “space” typically when we are talking about an area that you rent or that you own for business purposes.  Sometimes people use that word to descri be a room in their house or an area in their house; it can be used in a lot of different ways.  Sybil says, “I’ll look for another space, but nothing will live up to  this one.”  “To live up to (something)” is a phrasal expression meaning to be as good as, or to seem as good as or better than.  “He lived up to his reputa tion as a funny person,” meaning he was actually as funny as people said he was; he lived up to that. You could say, “This meal did not live up to my exp ectations.”  I thought this food was going to be better from this restaurant, but it  wasn’t.   
+
+Of course, Sybil is being pessimistic here; she’s b eing negative.  She doesn’t think any other place will be as good as this one.  Leo says, jokingly, “That’s the spirit!”  That expression, “that’s the spirit,” is used usually in a sarcastic or ironic way.  You would think that “that’s the spirit” woul d be a positive thing, and it is, that it means that’s the right attitude, you have t he right motivation.  But it’s usually used when someone’s being negative and you’ re sort of making fun of them.  “Oh, I’ll never – I’ll never be able to get a date with that beautiful woman,” and your friend says, “Well, that’s the spirit,” me aning, of course, you’re being too  
+
+negative.  You should be positive instead of negati ve about your chances. Though, probably you – you won’t actually get a dat e with the beautiful woman, so maybe look somewhere else! 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Sybil:  Oh, this is it!  This is the perfect locati on for our new store! 
+
+Leo:  Sorry, but this space isn’t zoned for retail.   It’s zoned for offices. 
+
+Sybil:  But couldn’t we get the zoning commission t o re-zone it?   
+
+Leo:  That’s not an easy process.  The city’s urban  planners decided that this space would be best suited for offices.  Changing t heir minds won’t be easy. 
+
+Sybil:  I’ve heard that a lot of new developments a re being zoned for mixed-use. That’s all we need to do.  We just need this buildi ng to be re-zoned for mixed- use.  Then, we can use the space downstairs for com mercial purposes and use the upstairs space for offices or even housing.   
+
+Leo:  This area was zoned for industrial purposes o ver 30 years ago.  It took 10 years for it to be re-zoned for offices.  It may ta ke another 10 years to get it re- zoned for commercial purposes.  Do you think you ca n wait 10 years to open your store? 
+
+Sybil:  No, I guess not.  What if I rented this spa ce for an office and then ran my store out of it?   
+
+Leo:  You’ll never get a business license for your store if you do that.  Each type of zoning has different ordinances and the inspecto r won’t be fooled.   
+
+Sybil:  All right.  I’ll look for another space, bu t nothing will live up to this one.    
+
+Leo:  That’s the spirit! 
+
+[end of dialogue] 
+
+We have the scripts best suited to help you improve  your English, all written by the wonderful Dr. Lucy Tse.   
+
+ From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again, won’t you, here on ESL  Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

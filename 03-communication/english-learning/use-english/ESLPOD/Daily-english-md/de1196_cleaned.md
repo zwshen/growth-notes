@@ -1,0 +1,96 @@
+# Checking Facts and Figures
+
+Welcome to English as a Second Language Podcast num ber 1,196 – Checking Facts and Figures. 
+
+This is English as a Second Language Podcast episod e 1,196. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Go to ESLPod.com and become a member of ESL Podcast . When you do, you can download the Learning Guide for this episode on  our website. We also have additional courses in Business English and Daily En glish that I think you will enjoy. And like us on Facebook, if you haven’t alre ady. Go to facebook.com/eslpod. 
+
+This dialogue is about making sure you have your fa cts correct, as well as numbers, that are part of your report or whatever i t is you are working on. Let’s get started. 
+
+[start of dialogue] 
+
+Takagi: Before we disseminate this report, I need y ou to fact-check it. I don’t want a repeat of what happened last year. 
+
+Ellie: What happened last year? I wasn’t working he re then. 
+
+Takagi: Last year’s report had a lot of small inacc uracies and a few major errors. We ended up having to issue a second version of the  report. 
+
+Ellie: Okay, but I thought it had already been sign ed off on by the department heads.  
+
+Takagi: It has, but those are the same department h eads who skimmed the report last year and didn’t catch all those problem s. I want you to go through it with a fine-tooth comb. 
+
+Ellie: What should I check? 
+
+Takagi: Everything. I want you to verify the facts and figures and to flag anything that is outright wrong or even a little suspect. 
+
+Ellie: Okay, I’ll do that, but this will take some time.  
+
+ Takagi: What are you doing this weekend? 
+
+Ellie: Nothing, now. 
+
+[end of dialogue] 
+
+Takagi begins our dialogue by saying to Ellie, “Bef ore we disseminate this report, I need you to fact-check it. I don’t want a repeat of what happened last year.” “To disseminate” (disseminate) means to distribute, to give to a number of different people, to share information or copies of something  with many different people. It’s a word you will hear sometimes in business Eng lish. It basically just means to give to a number of different people a piece of inf ormation, or in this case a report – a written document that describes or expla ins something.  
+
+“To fact-check” (fact-check) means to look at the s pecific information in a report, the details of something, to make sure that everyth ing is correct, that everything is accurate, that all of the information you are gi ving is true. The verb “to fact- check” has become popular in recent years, especial ly in some American newspapers and websites that report on politics. Wh en a politician says something, when someone involved in public life or policy says something, the newspapers or websites will try to make sure that w hat the person said is correct. They will “fact-check” it.  
+
+Unfortunately, most newspapers and websites have th eir own political biases, so to fact-check for them usually means to see if it a grees with their own political views, and if it doesn’t, they’ll find some reason to say that it was wrong. I don’t really rely very much on newspapers and websites th at “fact-check” what politicians say. I don’t normally think they are te lling the complete truth, but maybe that’s just me.  
+
+Takagi isn’t talking about politics. He’s talking a bout a report of information that he wants Ellie to fact-check, to look at carefully to make sure it is all correct. He says, “I don’t want a repeat of what happened last year.” A “repeat” would be when something happens again. In this case, it soun ds like something bad happened last year and Takagi doesn’t want that to happen again.  
+
+Ellie asks, “What happened last year? I wasn’t work ing here then. Takagi answers, “Last year’s report had a lot of small ina ccuracies and a few major errors.” “Inaccuracies” (inaccuracies) are things t hat are not correct, things that are wrong. “To be accurate” means to be correct. “T o be inaccurate” means to be not correct, or wrong. So, “inaccuracies” are thing s that are wrong. Takagi says  
+
+these were “small inaccuracies,” meaning not very i mportant. However, there were also some “major,” or important or big, “error s” (errors). An “error” is something that is wrong, a mistake.  
+
+Takagi says, “We ended up,” meaning we had to, as a  result – “We ended up having to issue a second version of the report.” “T o issue” (issue) here means to publish or to officially present something to a gro up of people. Takagi had to issue “a second version” (version). Let’s say I hav e a web page. The first time I put up the web page, I’m happy with it, but a week later, I decide I want to make some changes. So I go in and I change the website –  maybe I change the color or I add some photographs to the website. The origi nal web page is my “first version.” After I make the changes, that’s my “seco nd version.”  
+
+“Version,” then, refers to the form of something. Y ou could write a report and then a month later decide you want to change the re port. So you make the changes and then you give the report to your boss a gain. You say, “This is the second version of this report.” “Version” is used a  lot in software, in computer applications. We talk about 1.0, 2.0, 3.0 – these a re different versions of a computer application or an app that has improvement s or changes to it. Takagi is talking about “issuing a second version of the repo rt” – an update, a report that has been changed and corrected.  
+
+Ellie says, “Okay, but I thought it had already bee n signed off on by the department heads.” “To sign (sign) off on” somethin g means to approve of something, to say something is okay. A “department”  (department) is a part or section or division inside of a company. A “departm ent head” (head) is the person who is the boss of that section or division of the company. Ellie is saying that she thought this report had already been appro ved by, signed off on by, the department heads.  
+
+Takagi says, “It has, but those are the same depart ment heads who skimmed the report last year and didn’t catch all those problem s.” Takagi is saying that yes, the department heads approved of this report, but t hey only “skimmed” the report last year. “To skim” (skim) means to read through s omething very quickly, not looking at every word in the report. Because the de partment heads only “skimmed” the report last year, the report had a bu nch of mistakes, a bunch of errors. That’s why they didn’t “catch” (catch) all those problems. “To catch” here means to find or identify a mistake or an error.  
+
+Takagi says, “I want you to go through it with a fi ne-tooth comb.” The expression “to go through something with a fine (fine) – tooth  (tooth) comb (comb)” means to look through something very carefully, to make sure  that everything is correct. A  
+
+“comb” is something you use to straighten your hair  or to put your hair back into place – hair on the top of your head, that is. We c all the little parts of a comb “teeth,” just like teeth in your mouth. “Fine-tooth  combs” are combs where the teeth are very close together. The idea, then, is t hat you are looking at very small issues, very small details, to make sure that every thing is correct.  
+
+Ellie says, “What should I check? Takagi says, “Eve rything. I want you to verify the facts and figures and to flag anything that is right wrong or even a little suspect.” “To verify” (verify) means to make sure t hat it is correct, to look at it closely and make sure it is true, make sure it is a ccurate. “Verify” comes from the Latin word “veritas” (veritas), meaning truth. Taka gi wants Ellie to verify the “facts” – that is, the information – and “figures” (figures). “Figures” refer to numbers.  
+
+The title of this episode, “Facts and Figures,” con tains an expression we often use in talking about information that has both word s and numbers to describe it. So, the “figures” here would be the numbers in the report. Takagi wants Ellie “to flag” (flag) anything that is outright wrong. “To f lag” means to draw attention to something. In this case, it probably means to mark it with a pen or a pencil so that Takagi can find that information easily when h e looks through the report. To flag something in general means to call attention t o it, to say, “Hey, look at this. There might be a problem with this.”  
+
+Something that is “outright (outright) wrong” is so mething that is obviously wrong, something that you don’t even have to go and invest igate. It is clearly wrong. Something that is a little “suspect” (suspect) is s omething that doesn’t seem right. It might be right. It might be wrong. You’re not ex actly sure, but it looks like it might be incorrect. If you say something “looks a l ittle suspect,” you’re saying it looks wrong but you’re not exactly sure.  
+
+Ellie says, “Okay, I’ll do that, but this will take  some time.” Takagi says, “What are you doing this weekend?” He, of course, is implying  that Ellie should work on this over the weekend. Ellie replies, “Nothing, now,” me aning, well, she won’t be able to do anything this weekend for fun on her own beca use now she’s going to be working on this report instead of relaxing as you s hould on the weekends.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Takagi: Before we disseminate this report, I need y ou to fact-check it. I don’t want a repeat of what happened last year.  
+
+ Ellie: What happened last year? I wasn’t working he re then. 
+
+Takagi: Last year’s report had a lot of small inacc uracies and a few major errors. We ended up having to issue a second version of the  report. 
+
+Ellie: Okay, but I thought it had already been sign ed off on by the department heads.  
+
+Takagi: It has, but those are the same department h eads who skimmed the report last year and didn’t catch all those problem s. I want you to go through it with a fine-tooth comb. 
+
+Ellie: What should I check? 
+
+Takagi: Everything. I want you to verify the facts and figures and to flag anything that is outright wrong or even a little suspect. 
+
+Ellie: Okay, I’ll do that, but this will take some time. 
+
+Takagi: What are you doing this weekend? 
+
+Ellie: Nothing, now. 
+
+[end of dialogue] 
+
+Our dialogues don’t have any inaccuracies or major errors because they’re written by the wonderful Dr. Lucy Tse.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st. 
+

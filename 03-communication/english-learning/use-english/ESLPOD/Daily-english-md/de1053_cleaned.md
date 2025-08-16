@@ -1,0 +1,138 @@
+# Buying Food at the Concession Stand
+
+Welcome to English as a Second Language Podcast num ber 1,053 – Buying Food at a Concession Stand.  
+
+This is English as a Second Language Podcast episod e 1,053. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Visit our website at ESLPod.com. Become a member of  ESL Podcast. Take a look at our special courses and/or ESL Podcast Blog  while you’re there.  
+
+This episode is a dialogue between Jim and Suki abo ut buying food when you are at a movie theater. Let’s get started. 
+
+[start of dialogue] 
+
+Jim: We only have three minutes before the movie st arts. You grab two seats and I’ll hit the concession stand. 
+
+*** 
+
+Suki: Can I help you? 
+
+Jim: Yes, I’d like a large popcorn and a hot dog wi th the works. 
+
+Suki: Anything else? 
+
+Jim: Yes, I’ll also take an order of nachos and a p retzel. 
+
+Suki: Sorry, we’re out of pretzels right now, but w e have cotton candy, snow cones, and pizza. 
+
+Jim: All right, then give me a slice of pizza. 
+
+Suki: Will that be all? 
+
+Jim: No, I’d also like a box of licorice, a package  of beef jerky, and an ice cream sandwich. 
+
+Suki: Anything to drink? 
+
+Jim: Yes, I’ll take two large sodas. 
+
+Suki: All right, that’ll be $84.50. 
+
+Jim: What?! That’s highway robbery!  
+
+Suki: Our prices are posted on the board. You can s ee them right up there. Do you still want all this? 
+
+Jim: Just give me the soda and popcorn. 
+
+Suki: Are you sure you’ll make it through the movie  with just that? 
+
+Jim: I have no choice. I’d have to commit robbery i f I wanted anything else! 
+
+[end of dialogue] 
+
+Our dialogue begins with Jim talking to someone. We ’re not sure who, perhaps his wife or his girlfriend. “We only have three min utes before the movie starts. You grab two seats and I’ll hit the concession stan d.” “To grab” (grab) normally means to use your hand and pick up something, often  quickly. However, here it means to go and get two seats – to find two seats a nd to save them. There’s also the idea here that the theater will fill up and all  the good seats will be taken, and so it’s important for Jim’s friend (or wife, or gir lfriend) to go and get two seats for them to sit in.  
+
+Jim says that he’s going to “hit” (hit) the concess ion stand. “To hit” can mean a couple of different things in English. Here, it mea ns to go somewhere and get something quickly, especially to buy something. You  might say, “I’m going to hit the McDonald’s for a hamburger and then drive on th e freeway to my brother’s house.” “To hit” here means to go there quickly, ge t what I want, and leave.  
+
+Jim is going to go to the “concession (concession) stand (stand).” A concession stand is a place that sells food and drinks, especi ally in a movie theater or in a place where there is a concert or some sort of spor ting event. If you go and watch a baseball game at Dodger Stadium here in Los  Angeles, there are all sorts of concessions stands where you can buy food and drinks, including beer. If you do go to Dodger Stadium, of course, you should call me and invite me to go with you.  
+
+Jim is going to hit the concession stand not at Dod ger Stadium, but at the movie theater. The woman at the movie theater, whose name  I guess is Suki, says to  
+
+Jim, “Can I help you?” That’s the typical way that someone working at a store will start a conversation – offering to help you. Jim sa ys, “Yes, I’d like a large popcorn and a hot dog with the works.”  
+
+A “large popcorn” would be a large container of pop corn. “Popcorn” is a food made from the seeds or kernels of corn, usually put  at very high heat either in oil or in very hot air. Popcorn is usually served at mo vie theaters. It’s a popular food at movie theaters, a popular snack. Typically, popc orn is served with a lot of butter and salt. Jim asked for “a large popcorn and  a hot dog with the works.”  
+
+A “hot dog” is a food that looks like a small sausa ge. It’s a type of meat – often a mix of beef and pork, or sometimes just beef or jus t pork – that is very popular, again, at a concession stand, at a sporting event, or at a movie theater. Hot dogs are also eaten by Americans very commonly during th e summer. I love hot dogs and eat them all the time since it’s always summer here in beautiful Los Angeles. Many people think hot dogs are a low-quality food, however, so now you know a little bit about the kind of food I eat.  
+
+Jim wants “a hot dog with the works” (works). When you order food such as a hot dog or a hamburger “with the works,” you are asking  for all the typical toppings or other things that are put on the food. So, for a ha mburger, for example, the works might include ketchup, mayonnaise, pickles, onions,  mushrooms . . . mmm, making me hungry.  
+
+A hot dog with the works would probably have things  such as mustard, ketchup, perhaps horseradish, other kinds of relishes – all of those are things that you might find on a hot dog. Me, I just like my hot dog s plain, nothing else on them. But Jim wants a hot dog with the works.  
+
+Suki says, “Anything else?” Jim says, “Yes, I’ll al so take,” meaning I also want to buy, “an order of nachos and a pretzel.” An “order of nachos” is a small bowl of tortilla chips, which is kind of a Mexican specialt y, or at least a Mexican-American specialty. “Nachos” are tortilla chips, fried torti lla chips typically, that have melted cheese on top of them.  
+
+A “pretzel” (pretzel) is a bread-like snack that is  usually made into a certain shape. It’s a long tube of the dough of uncooked br ead that is folded into a certain shape. It’s hard to describe. I guess usual ly it is a shape that looks a little like a heart. Pretzels usually have lots of salt on  them. Suki says, “Sorry, we’re out of pretzels right now.” She means they don’t ha ve any more pretzels to sell.  
+
+She says, “But we have cotton candy, snow cones, an d pizza.” “Cotton candy, snow cones, and pizza” are like nachos and pretzels  – common foods at a concession stand in a place like a movie theater. L et’s start with “cotton (cotton) candy.” “Cotton” is a material that you make clothi ng out of, but that’s not what we’re talking about here. Cotton candy is a dessert  that is made by using colored sugar. It looks a little like a balloon when you’re  done with it. It’s very light and, of course, very sweet.  
+
+“Snow cones” are desserts made by shaving, that is cutting, ice into very small pieces and then putting it into a little container called a “paper cone” (cone). Then you put flavors on top of the ice – usually some so rt of syrup, which is a thick, sweet sauce. You’ll often find snow cones sold at c oncession stands, but also at places like carnivals and fairs. A “pizza” is a pop ular Italian food made by using dough – uncooked bread – that’s flattened into a la rge flat circle, and you put all sorts of yummy, delicious, wonderful things on top of it, like cheese and meats and vegetables and tomato sauce.  
+
+Jim says, “All right,” meaning okay, “then give me a slice of pizza.” A “slice (slice) of pizza” is one part of the pizza. Remember, the p izza is a flat, round kind of food. A “slice” would just be one section of the pi zza. Suki says, “Will that be all?” meaning “Do you want to order anything else?” Jim s ays, “No,” meaning “No, that would not be all. I have more things I want to buy. ”  
+
+He says, “I’d also like a box of licorice, a packag e of beef jerky, and an ice cream sandwich.” “Licorice” (licorice) is a kind of long,  thin candy, usually red or black, that is chewy, that doesn’t melt in your mouth. In other words, you have to chew it. Licorice was very popular when I was growing up . I’m not sure how popular it still is. I used to love licorice. All of these thi ngs, of course, are basically different forms of sugar that you shouldn’t be eating to begi n with.  
+
+Jim also orders a package of “beef jerky” (jerky). Beef jerky is a little different. Beef jerky is not made with a lot of sugar. Instead , it is a salty snack that is made by drying pieces of beef or turkey that have been c ombined with different flavors. It’s a very different kind of food. Personally, I d on’t really like beef jerky. I do like ice cream sandwiches, however. An “ice cream sandwi ch” is a dessert made by putting ice cream in between two large cookies, or things that kind of look like cookies. The kind that I like aren’t really cookies . It’s another kind of sweet covering that goes on both sides of the ice cream. 
+
+Suki then asks Jim, “Anything to drink?” Jim says, “Yes, I’ll take two large sodas.” Suki says, “All right, that’ll be $84.50.” Jim says , “What?!” He’s very surprised at the high price of all of these snacks. He says, “Th at’s highway robbery!”  
+
+“Highway robbery” (robbery) refers to a very high p rice for something, something that is way too expensive. When someone charges you  a lot more than you think you should be charged, you might say, “That’s highw ay robbery.”  
+
+Suki says, “Our prices are posted on the board.” “P osted” (posted) here just means written and displayed so that you can see the m. Suki says, “You can see them right up there” – she’s pointing to where the prices are. “Do you still want all this?” Jim says, “Just give me the soda and popcorn .” So, he’s not going to get anything else but soda pop and popcorn. Suki says, “Are you sure you’ll make it through the movie with just that?” She’s suggesting  that Jim is going to need more food in order to last the entire time watching  the movie. Remember, movies are between 90 and 120 minutes, typically.  
+
+Jim says, however, “I have no choice,” meaning I do n’t have any other options. I’m forced to do this. “I’d have to commit robbery if I wanted anything else.” “To commit” (commit) means to perform – a crime, in thi s case. “Robbery” is when you steal something from someone. Jim is making a j oke here. He’s saying that if he wanted anything else, he’ll have to steal it bec ause he can’t afford the price. He doesn’t have enough money to buy all of these th ings.  
+
+It’s quite true that the prices in movie theaters f or snacks at the concession stands are extremely expensive – much, much more ex pensive than in other places – but of course, they know that you don’t ha ve anywhere else that you could buy these things, and most movie theaters don ’t allow you to bring your own food in. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Jim: We only have three minutes before the movie st arts. You grab two seats and I’ll hit the concession stand. 
+
+*** 
+
+Suki: Can I help you? 
+
+Jim: Yes, I’d like a large popcorn and a hot dog wi th the works. 
+
+Suki: Anything else? 
+
+Jim: Yes, I’ll also take an order of nachos and a p retzel.  
+
+ Suki: Sorry, we’re out of pretzels right now, but w e have cotton candy, snow cones, and pizza. 
+
+Jim: All right, then give me a slice of pizza. 
+
+Suki: Will that be all? 
+
+Jim: No, I’d also like a box of licorice, a package  of beef jerky, and an ice cream sandwich. 
+
+Suki: Anything to drink? 
+
+Jim: Yes, I’ll take two large sodas. 
+
+Suki: All right, that’ll be $84.50. 
+
+Jim: What?! That’s highway robbery!  
+
+Suki: Our prices are posted on the board. You can s ee them right up there. Do you still want all this? 
+
+Jim: Just give me the soda and popcorn. 
+
+Suki: Are you sure you’ll make it through the movie  with just that? 
+
+Jim: I have no choice. I’d have to commit robbery i f I wanted anything else! 
+
+[end of dialogue] 
+
+You don’t have to commit robbery to be able to list en to the wonderful scripts by our wonderful scriptwriter, Dr. Lucy Tse.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to listen to us again right here on  ESL Podcast.  
+

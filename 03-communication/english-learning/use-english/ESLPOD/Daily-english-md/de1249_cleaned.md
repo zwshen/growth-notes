@@ -1,0 +1,106 @@
+# Making Temporary Repairs
+
+Welcome to English as a Second Language Podcast num ber 1,249 – Making Temporary Repairs.  
+
+This is English as a Second Language Podcast episod e 1,249. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Visit ESLPod.com – and by visit I mean, of course, go there on your computer or phone or tablet. Take a look at our special courses  in business and daily and cultural English I think you might like. Take a loo k also at our Facebook page. Go to facebook.com/eslpod. 
+
+This episode is a dialogue about fixing things that  are broken, at least for a short time, until you can fix them permanently. Let’s get  started.  
+
+[start of dialogue] 
+
+Desiree: Hey, what happened to the lights? 
+
+Chris: I think you have a short or maybe a loose wi re. 
+
+Desiree: My guests are going to arrive any minute. What am I going to do? 
+
+Chris: Don’t worry. In an emergency, I’m your man. Whatever the problem is, I can probably find a stopgap solution. 
+
+Desiree: Are you sure? I don’t want you to get elec trocuted. 
+
+Chris: When I was growing up, we lived in the middl e of nowhere and my parents had to make do. They improvised all the time, using  what was on hand to make repairs.  
+
+Desiree: They both sound very handy. 
+
+Chris: They did what they had to do. Whatever the p roblem was, they were able to cobble together something, even if it was a litt le makeshift. I like to think I learned a thing or two from them. 
+
+Desiree: So do you think you can fix this? 
+
+Chris: Well, it’s not going to be done properly, bu t I’ll jury-rig something so the lights will work temporarily until you can get it r epaired professionally. 
+
+Desiree: That’s great, but just in case, I think I’ ll run to the store for some candles. 
+
+[end of dialogue] 
+
+This episode is called “Making Temporary (temporary ) Repairs.” Something that is “temporary” is for a short time. The opposite of  “temporary” is “permanent” (permanent). Desiree says to Chris, in our dialogue , “What happened to the lights?” Chris says, “I think you have a short or m aybe a loose wire.”  
+
+Electricity is, of course, transmitted through wire s to your light bulbs and your computers and other machines in your house. If thes e wires somehow touch each other in a way they shouldn’t, you can get som ething called a “short” (short). The word “short” is short for “short circu it,” which is when the two wires touch each other in such a way that the electricity  no longer transmits properly to your lights or your other machines.  
+
+Desiree says, “My guests are going to arrive any mi nute.” Desiree, we guess here, is having a party and she has invited people to her house – her guests – and the guests are supposed to arrive or show up “a ny minute,” meaning very soon. Desiree has some problem with her lights and she’s asking Chris for help. Chris says, “Don’t worry. In an emergency, I’m your  man.”  
+
+An “emergency” (emergency) is some unexpected, sudd en situation that is dangerous or is going to cause, or has caused, some  harm. Chris is saying that if you find yourself in a dangerous situation or a sit uation that you need help with, he is your man. He says, “I’m your man.” That expre ssion is used to mean that you have the skills or the knowledge or the experie nce to do what another person needs you to do.  
+
+For example, if you know a lot about programming – computer programming – and someone says, “I need someone to help me build a new app for the Google Play or Apple App Store,” you might say, “I’m your man.” That means “I know what you need in order to get this done.” I have th e skills. I have the qualifications, we might say. That’s what Chris is saying to Desiree. Maybe he likes Desiree, and like a lot of guys – like a lot of men – he wants to impress her. He wants her to think that he is intelligent or he has a lot of skills.  
+
+Chris says, “I’m your man. Whatever the problem is,  I can probably find a stopgap solution.” A solution that is “stopgap” (st opgap) is temporary. It won’t last a long time, but it will be good enough for now. De siree says, “Are you sure? I don’t want you to get electrocuted.” “To get electr ocuted” (electrocuted) is to get an electrical shock – that is, to receive a high am ount of electricity accidentally, usually so much so that it can kill you, that you m ight be harmed or even killed by it.  
+
+Now, sometimes people get electrocuted on purpose. When a government decides to kill someone because that person is a cr iminal, one way of doing it is to electrocute the person – to put electricity into  his body until he’s dead. But here we’re talking about accidental electrocution. Desiree is concerned that perhaps Chris doesn’t know what he’s doing. Chris s ays, however, “When I was growing up, we lived in the middle of nowhere and m y parents had to make do.”  
+
+“To live in the middle of nowhere” means to live fa r away from any city or far away from other people. Chris says he grew up “in t he middle of nowhere” – that is, in a small town or perhaps on a farm somewhere – and his parents “had to make do.” The verb “to make do” is an unusual one. We usually think of the verb “to make” or the verb “to do,” but there’s actually  a verb in English which is “to make do,” and that means to be satisfied with what you have or with what is possible even though it isn’t a perfect solution to  the problem.  
+
+So if someone says to you, “You just have to make d o,” that person means you have to be satisfied or happy with whatever you hav e, even if it isn’t enough or even if it isn’t a perfect solution to your problem . If you don’t have enough money, you have “to make do.” You have to just find a solu tion even if it isn’t a perfect one. Chris says his parents “had to make do.” “They  improvised all the time, using what was on hand to make repairs.”  
+
+“To improvise” (improvise) means to do something wi thout a plan, to do something without having thought about it carefully  before doing it. Sometimes that’s necessary in an emergency. You have to “thin k creatively,” we might say. You have to think of a solution right away. That’s “improvising.”  
+
+There is actually a form of comedy called “improvis ation,” where the actors and actresses or the comedians make up jokes right ther e on the spot without having a chance to write them down and practice them. They ’re doing it live. In fact, we call that kind of comedy – improvisation comedy – “ improv.” It means to improvise a joke, to think of the joke right away w ithout having a chance to prepare it. It’s one of my favorite kinds of comedy .  
+
+The verb “to improvise,” however, is used more gene rally to mean to do anything without planning it first. Chris says that his pare nts “improvised all the time,” meaning frequently, “using what was on hand (hand) to make repairs.” “On hand” means what is available and ready to use right now.  Desiree says that Chris’s parents “sound very handy” (handy). “To be handy” m eans to be very good at using your hands and simple tools in order to fix t hings.  
+
+A person who is “handy” is someone who is able to r epair or fix things in a house, for example. We even have the expression a “handyma n.” A “handyman” is someone that you can pay money to, to come over to your house and fix small problems. Handymen usually also don’t have the educ ation or licenses to fix things like electric problems or plumbing, although  many times they are able to do those sorts of things. The adjective “handy,” th en, is used to refer to someone or describe someone who has those skills and abilit ies.  
+
+Chris says that his parents “did what they had to d o.” “Whatever the problem was,” he says, the parents “were able to cobble tog ether something, even if it was a little makeshift.” “To cobble (cobble) togeth er something” means to be able to combine or put different things together quickly  in order to solve a problem. If a solution to your problem is “makeshift” (makeshift) , it is temporary. It is something that was done quickly to solve the problem now, but  is not a permanent repair or solution.  
+
+“I like to think I learned a thing or two from them ,” meaning from his parents. The expression “to learn a thing or two” means to get s ome basic knowledge about something through your experiences with it. So, by taking time in trying to understand web design, “I learned a thing or two” f rom that experience of trying to solve some basic problems with my website. That would be one way of using that expression. Desiree then asks Chris, “So do yo u think you can fix this?”  
+
+Chris says, “Well, it’s not going to be done proper ly,” meaning I’m not going to fix it the correct way, “but I’ll jury-rig something so  the lights will work temporarily until you can get it repaired professionally.” “To jury (jury) – rig (rig)” something is to repair something or fix something for a short ti me until you can do it correctly later. It’s a temporary fix of something. Chris thi nks he can fix the lights temporarily until Desiree can get them repaired or fixed professionally by an electrician, by someone who has the skills to do it  correctly.  
+
+Desiree says, “That’s great, but just in case, I th ink I’ll run to the store for some candles.” “Just in case” (case) is a common express ion meaning “as a precaution.” I’m going to do something to prepare m yself if this other thing doesn’t work. For example, when I was in my early t wenties, I decided I would  
+
+get a teaching license. I would go back to school a nd get a license from the government to be a teacher, “just in case” I needed  to have a job, because I didn’t really want to become a teacher but I though t, “Well, the world will always need teachers. I will always be able to get a job.”   
+
+So, I got my teaching license “just in case.” Then I discovered I really liked teaching and decided to continue being a teacher, b ut originally that wasn’t my plan. I got my license “just in case” whatever else  I wanted to do didn’t work out, wasn’t successful. Well, Desiree wants to go to the  store to get some candles just in case Chris is not able to fix her lights. “ Candles” (candles) are blocks of wax with a string that you light with a fire and bu rn in order to give you light.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Desiree: Hey, what happened to the lights? 
+
+Chris: I think you have a short or maybe a loose wi re. 
+
+Desiree: My guests are going to arrive any minute. What am I going to do? 
+
+Chris: Don’t worry. In an emergency, I’m your man. Whatever the problem is, I can probably find a stopgap solution. 
+
+Desiree: Are you sure? I don’t want you to get elec trocuted. 
+
+Chris: When I was growing up, we lived in the middl e of nowhere and my parents had to make do. They improvised all the time, using  what was on hand to make repairs.  
+
+Desiree: They both sound very handy. 
+
+Chris: They did what they had to do. Whatever the p roblem was, they were able to cobble together something, even if it was a litt le makeshift. I like to think I learned a thing or two from them. 
+
+Desiree: So do you think you can fix this? 
+
+Chris: Well, it’s not going to be done properly, bu t I’ll jury-rig something so the lights will work temporarily until you can get it r epaired professionally. 
+
+ Desiree: That’s great, but just in case, I think I’ ll run to the store for some candles. 
+
+[end of dialogue] 
+
+You don’t need to make do with your English. You ca n find a permanent solution by listening to the dialogues written by our wonder ful scriptwriter, Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st.  
+

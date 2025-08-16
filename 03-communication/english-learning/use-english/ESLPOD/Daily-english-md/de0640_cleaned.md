@@ -1,0 +1,78 @@
+# Being Genuine and False
+
+Welcome to English as a Second Language Podcast number 6 40: Being Genuine and False. 
+
+This is English as a Second Language Podcast episode 640.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Visit our website at eslpod.com.  Why?  Well, because if you do, you can download a Learning Guide for this episode that will help you improve your English even faster.  Even faster than what, you ask?  Even  faster than just listening to the episode, you see! 
+
+On this episode we’re going to listen to a dialogue be tween Javier and Floriane. It’s going to be about people who are genuine – peop le who mean what they say, and people who are false – who say one thing but mean something else.  Let’s get started. 
+
+[start of dialogue] 
+
+Javier:  I saw Terry cozying up to you this morning.  What was that about? 
+
+Floriane:  He was just offering me some advice on my fi rst proposal.   
+
+Javier:  Sure, he was.  What were his true intentions? 
+
+Floriane:  I think he was being upfront about wanting  to help a new employee.  I don’t think he had an ulterior motive. 
+
+Javier:  I wouldn’t take Terry at face value.  He has a re putation around the office of being two-faced.  He’ll try to get to know you under  false pretenses and then stab you in the back. 
+
+Floriane:  I don’t get that feeling from Terry.  He seemed genuine and open.  By the way, was there something you needed? 
+
+Javier:  Me?  No.  I was just trying to watch out for you.    
+
+Floriane:  In that case, I’d better get back to work, an d I’ll keep your warning in mind.  I’ll beware of anyone giving me advice who may ha ve an ulterior motive.   
+
+ [end of dialogue] 
+
+Javier says to Floriane, “I saw Terry cozying up to you this mo rning.  What was that about?”   “To cozy (cozy) up to (someone)” means to d o and to say things to try to have a close relationship with the other person,  usually because you want something from that person.  So, the woman sitting in  your office wants to get information from you about your clients – who you are w orking with.  So she comes up to your desk, and she’s very friendly: she brings you a doughnut, she laughs at all of your jokes – you get the idea – she’s cozyin g up to you.  It could be a man with a woman; it could be two women or two  men.  It’s not a romantic thing, although it could lead to something romantic I suppose.  The word “cozy” can also mean comfortable.  “To be cozy” means to be comfo rtable, for example sitting on a comfortable chair. 
+
+Well here, someone – Terry – is cozying up to Floriane.  Floriane says, “He was just offering me some advice on my first proposal.”  A “p roposal” is a written document that presents some solution to a problem.  Oft en, it is asking for money in order to carry out – in order to do that solution.  You may write a proposal, for example, to get money for a new product, and you give th at to your boss or your boss’s boss and someone says yes or no to your proposal.  If yo u are a charitable organization and you want to get money from  some rich person, like Bill Gates for example, you would write a proposal and send it to him.  I’m not sure if he’ll say yes!  That’s what a proposal is, at lea st in the business sense.  In the personal sense, a proposal is when typically a man asks a woman to marry him, but in the business sense it’s something different.   
+
+Javier says, “Sure, he was.”  Remember Floriane said that Terry was just giving her some advice on her proposal; he wasn’t trying to cozy up  to her she says. But Javier doesn’t believe her; he says, “Sure, he was.”  Notice he seems to be agreeing with Floriane, but in fact he means the opp osite; it depends on the way you say it.  If a husband comes home late from work and says that he was working late on a project, if his wife doesn’t believe him she might say, “Sure, you were.”  It’s the tone – it’s the intonation that dete rmines what the meaning is here, and here Javier is doubting what Floriane is saying .  He says, “What were his true intentions?”  “His true intentions” are the r eal reasons why he was doing something. 
+
+Floriane says, “I think he was being upfront about wanti ng to help a new employee.”  He was just trying to help her – he was bei ng upfront.  “Upfront” (upfront – one word) means direct, honest, without tryi ng to hide anything. Floriane says, “I don’t think he (Terry) had an ulterior  motive.”  An “ulterior motive” means a secret, hidden reason for doing somethin g, especially if it has  
+
+ negative consequences for someone else.  If someone says, “ Oh, I will help you for free,” they might have an ulterior motive; they mig ht have some other reason why they are helping you, not just because they are nice. 
+
+Well, Floriane does not think that Terry has an ulteri or motive.  Javier says, “I wouldn’t take Terry at face value.”  “To take (someone ) at face value” means to understand or to accept something as it appears, without  thinking there is a hidden meaning or hidden explanation.  If someone says,  “I’m busy, I’m sorry I can’t help you,” you will probably take their word at fa ce value, meaning okay, they’re busy; I believe that.  But, Javier says that you sho uld not take Terry at face value.  He says that Terry has a reputation around t he office for being two- faced.  A “reputation” is what other people think abou t you, it’s other people’s opinions about you.  “To be two-faced” means that you a re dishonest; you are not trustworthy.  You say things to one person, and then  you’ll talk to someone else about the same subject and you’ll say something differ ent.  You tell one person that you like your boss, you tell another person tha t you hate your boss; that’s being two-faced.  Javier says that Terry will try to get to know you under false pretenses and then stab you in the back.  Wow, this T erry’s a pretty evil person!  The expression “false pretenses” (pretenses) means dishonestly, not honestly, someone pretending to do or to be something that isn’t real – isn’t true.   
+
+Javier says that Terry will try to get to know Floriane und er false pretenses. Notice we use the word “under” with this phrase – so und er false pretenses.  And then, after he knows her, he will stab her in the back.  The expression “to stab (stab) (someone) in the back” means to suddenly do somethin g that will hurt the other person.  You’ve been very nice to someone, but then  when you see an opportunity perhaps to get something you want you will st ab that person in the back.  You will do something mean – something bad to th em in order for you to get what you want.  The verb we would use here is “to b etray” (betray); “to betray (someone),” to do something that the other person is no t expecting in order to hurt them after you have been nice to them.  Literally,  “to stab someone in the back” would be to take a knife and put it into the back o f the person, obviously trying to kill them. 
+
+Floriane says, “I don’t get that feeling from Terry.”  She doesn’t agree with Javier. She says, “He seemed genuine and open.”  “To be genuine ” means to be real, to be true.  Here, really it means to be sincere; someone  who is “sincere” is telling the truth, means what they say.  “Open” here means willi ng to share information with another person, not hiding anything.  The word “ open” has a couple of different meanings, as does the word “upfront,” which w e talked about earlier. Those can be found in our Learning Guide. 
+
+ Floriane says, “By the way, was there something you needed (Javier)?”  Javier says, “Me?  No.  I was just trying to watch out for you.”   “To watch out for (someone)” means to do something to protect the other  person, to keep them safe.  Floriane says, “In that case, I’d better get back to work (since you don’t want anything else), and I’ll keep your warning in mind .”  A “warning” is when someone tells you about something that could go wrong, so me potential problem. She says, “I’ll beware of anyone giving me advice who may h ave an ulterior motive.”  “To beware of (someone)” is a phrasal verb m eaning to be careful or to be cautious because you know there is a possible danger in this situation.   
+
+What we, of course, think here is that Javier is romantic ally interested in Floriane, and he doesn’t like another man in the office trying to  get close to her.  Floriane realizes this, and at the end of the dialogue says, “I’ll  beware of anyone giving me advice who may have an ulterior motive,” meaning, of course, that Javier has an ulterior motive.  He isn’t just trying to protect Fl oriane; he’s trying to get her to be romantically interested in him.  I think he will pro bably succeed, and one day they’ll get married! 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Javier:  I saw Terry cozying up to you this morning.  What was that about? 
+
+Floriane:  He was just offering me some advice on my fi rst proposal.   
+
+Javier:  Sure, he was.  What were his true intentions? 
+
+Floriane:  I think he was being upfront about wanting  to help a new employee.  I don’t think he had an ulterior motive. 
+
+Javier:  I wouldn’t take Terry at face value.  He has a re putation around the office of being two-faced.  He’ll try to get to know you under  false pretenses and then stab you in the back. 
+
+Floriane:  I don’t get that feeling from Terry.  He seemed genuine and open.  By the way, was there something you needed? 
+
+Javier:  Me?  No.  I was just trying to watch out for you.    
+
+Floriane:  In that case, I’d better get back to work, an d I’ll keep your warning in mind.  I’ll beware of anyone giving me advice who may ha ve an ulterior motive.    
+
+ [end of dialogue] 
+
+The script for this episode was written by our genuinely n ice scriptwriter, Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

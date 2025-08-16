@@ -1,0 +1,102 @@
+# Dealing With a Mistake
+
+Welcome to English as a Second Language Podcast num ber 744: Dealing With a Mistake.   
+
+This is English as a Second Language Podcast episod e 744.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Go to our website at eslpod.com and become a member  of ESL Podcast.  Get a Learning Guide for each of our current episodes.  Y ou can also take a look at our ESL Podcast Store, and why not friend us on Faceboo k, or like us, or something. Facebook.com/eslpod. 
+
+This episode is a dialogue between Jenny and her bo ss about making mistakes. Let’s get started. 
+
+[start of dialogue] 
+
+Boss:  What is going on here?! 
+
+Jenny:  There was a miscommunication.   
+
+Boss:  A miscommunication?!  There are 16 copiers i n this office.  Who ordered 16 copiers? 
+
+Jenny:  No one did.  Clearly wires got crossed some where.  I’ll try to get to the bottom of this, but the copiers will be removed bef ore lunch.   
+
+Boss:  I can’t even walk to my office with all of t hese machines in here.  How am I supposed to get any work done?   
+
+Jenny:  I’m looking for the purchase order right no w to see if the mistake was on our end or on their end.   
+
+Boss:  Let me know as soon as you figure it out.  I  want to know who’s responsible for this. 
+
+Jenny:  Right, I’ll let you know.  No doubt it was just a clerical error.  No harm, no foul. 
+
+Boss:  No harm, no foul?!  This screw up has cost m e half a day’s productivity.  I think that’s plenty of harm done. 
+
+Jenny:  You’re right, sir.  I stand corrected.  I’m  sure it was just an honest mistake.   
+
+Boss:  Stop making excuses for the person responsib le for this debacle.  Jenny, why  are you making excuses for the person responsible?  
+
+Jenny:  You look thirsty.  I’ll go get you some cof fee right now! 
+
+[end of dialogue] 
+
+The title of this episode is “Dealing With a Mistak e.”  “To deal with” means to handle, to take care of, and Jenny and her boss nee d to deal with a mistake 
+
+The boss asks Jenny, somewhat angrily, “What is goi ng on here?!”  What is happening here?  Jenny says, “There was a miscommun ication.”  A “miscommunication” is a nice way, a polite way of s aying that somehow two people didn’t understand each other.  One person th ought there was one meaning, the other person thought it meant somethin g else, and so the two of them did not properly communicate.   
+
+The boss says, again somewhat angrily, “A miscommun ication?!  There are 16 copiers in this office.  Who ordered 16 copiers?”  A “copier” is also called a “photocopier,” many people call it a “Xerox machine .”  Xerox is a company that makes photocopiers, or at least they used to.  In a ny case, there’s a problem here.  The boss says there are now 16 of these copi ers in the office.  Jenny says, “No one did.  Clearly wires got crossed somewhere.”   To say that your “wires got crossed” is an old expression meaning there was som e sort of mistake, but it was due to some misunderstanding – some miscommunicatio n, and no one is really at fault.  That’s the idea; no one is really to bla me.  This probably comes from the old days when telephone lines would get connected a ccidentally to each other perhaps, I don’t know, and you would hear someone e lse’s communication.  Well here, the wires got crossed and they did not commun icate properly. 
+
+Jenny says, “I’ll try to get to the bottom of this,  but the copiers will be removed before lunch.”  She’s going to get rid of or remove  the copying machines before lunchtime.  She’s also going to get to the bottom o f this.  That expression, “to get to the bottom of (something),” means to research an d investigate something to find the real reason, the real explanation.  When y ou find out about a problem and it seems complicated, and you don’t know the re ason for the problem you  
+
+might use this expression.  “I’m going to get to th e bottom of this issue, why my car wasn’t finished on time.”  I’m going to talk to  the mechanic, I’m going to talk to the mechanic’s boss, and so forth.  I’m going to re search – investigate – till I find an answer. 
+
+The boss says, “I can’t even walk to my office with  all of these machines in here. How am I supposed to get any work done?”  You see, Jenny is trying to make her boss happy, but the boss keeps talking about th e problem.  If he stopped talking, maybe he would get some work done!  Right Jenny?  Am I right, huh? Exactly. 
+
+Anyway, Jenny says, “I’m looking for the purchase o rder right now to see if the mistake was on our end or on their end.”  A “purcha se order” is a document used in businesses that are buying something from anothe r business, and they say, well, here’s our order, here’s what we want, and a purchase order is considered official approval.  It’s almost like a contract tha t says we will pay you this amount of money if you give us these things.  The person w ho sells to a company is called a “vendor.”  Usually, the purchase order has  a number on it, and that’s how they keep track of it, that’s how they know whi ch order it was.  Jenny says that she’s going to look at the purchase order for the copiers to see if the mistake was on our end.  “On our end” means if it was our r esponsibility, if it was something that the company did, instead of “on thei r end,” which would be the seller or the vendor; it was their mistake. 
+
+The boss says, “Let me know as soon as you figure i t out (that is, as soon as you understand and solve this problem).  I want to know  who’s responsible for this.” “Who’s responsible” means who is the person who was  in charge, and therefore if something goes wrong has to take the blame.  Tha t is, has to accept the responsibility: “Yes, it was my fault.”  For exampl e in a marriage, it’s always the husband who is responsible for any problems or any mistakes.  And if you understand that, gentlemen, your life will be much easier!   
+
+Well, Jenny is trying to understand who’s responsib le for this error.  She says, “Right, I’ll let you know.  No doubt it was just a clerical error.”  “Clerical” refers to doing paperwork, adding numbers, typing; these are all considered clerical tasks. A “clerical error” means it’s an unimportant error caused by someone who wasn’t paying attention.  They didn’t mean to make a mista ke, it was just like a small accident.  That’s why Jenny says, “No harm, no foul .”  This expression is used when we recognize that something bad has happened, but it isn’t very serious. For example you’re driving, and you stop at a stop sign, and a car behind you bumps you – hits you very lightly.  You get out, yo u see that he did hit you, but there doesn’t appear to be any problem with your ca r; there’s no damage.  You  
+
+might say, “Well, okay.  No harm, no foul.”  Yes, y ou hit me, but there isn’t any serious damage and therefore it’s no big deal. 
+
+The boss doesn’t like this attitude by Jenny.  He s ays, “No harm, no foul?!  This screw up has cost me half a day’s productivity.”  A  “screw up” is a noun; it can also be a verb, “to screw up.”  As a noun, it means  a bad mistake.  As a verb, it means to make a bad mistake, something that has con sequences; that is, something that does cause some damage – some proble ms.  The problem here, the boss says, is that it has cost him a half a day ’s productivity.  “Productivity” is the amount of work that you can complete in a certa in period of time, and it’s used generally here to mean getting a lot of things  done.  By the way, I should mention the word “screw” has a number of different meanings in English, not all of which are covered in our Learning Guide for this  episode.  The boss says, “I think that’s plenty of harm done,” meaning yes, the re was harm because of this mistake. 
+
+Jenny says, “You’re right, sir.”  Notice she calls him “sir.”  He’s angry; she’s trying to show respect to him.  She says, “I stand correct ed.”  This is a common expression.  “I stand corrected” means that you rec ognize that what you said was wrong and that the other person is right.  So that husband says to the wife, “Honey, my dear.  I think we need to go to my broth er’s house tonight,” and the wife says, “Oh, no.  I told you I’m not going.  Rem ember?” and the husband, who of course doesn’t remember, says, “Oh, yes.  I reme mber.  I stand corrected.” You see how that works?  Okay, good.  Well, that’s how it works with Jenny and her boss.  She says, “I’m sure it was just an hones t mistake.”  An “honest mistake” is an error that was made by accident.  It  wasn’t someone trying to cause problems, it was just one of those things tha t happened by accident.   
+
+The boss says, “Stop making excuses for the person responsible for this debacle.”  “To make excuses” means to give a reason  or an explanation for why something happened, usually because you want to avo id the other person getting angry or you don’t want to be punished yourself.  “ To make excuses” is to say, “Well, okay.  Yes, I made a mistake, but the reason  was because my friend told me something that wasn’t true, and then I talked to  my other friend, and she said…” and so forth.  You’re trying to give reasons  why you made your mistake to make you seem less guilty.  Well, that’s what th e boss does not want Jenny to do.  She is making excuses, he says, for this debac le.  “Debacle” (debacle) is a huge failure, a serious problem caused by some big mistake.  Then the boss says, “Jenny, why  are you making excuses for the person responsible? ”  Jenny says, trying to change the subject – trying to get the boss to think about something else says, “You look thirsty.  I’ll go ge t you some coffee right now!” This is something that an employee might do for the ir boss to try to make the  
+
+boss happy.  Of course, we suspect that Jenny made the mistake, and that’s why she’s trying to, we would use the expression, “play  it down,” that is, not make a big deal of it, say that it is no big deal, it wasn ’t important, and so forth. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Boss:  What is going on here?! 
+
+Jenny:  There was a miscommunication.   
+
+Boss:  A miscommunication?!  There are 16 copiers i n this office.  Who ordered 16 copiers? 
+
+Jenny:  No one did.  Clearly wires got crossed some where.  I’ll try to get to the bottom of this, but the copiers will be removed bef ore lunch.   
+
+Boss:  I can’t even walk to my office with all of t hese machines in here.  How am I supposed to get any work done?   
+
+Jenny:  I’m looking for the purchase order right no w to see if the mistake was on our end or on their end.   
+
+Boss:  Let me know as soon as you figure it out.  I  want to know who’s responsible for this. 
+
+Jenny:  Right, I’ll let you know.  No doubt it was just a clerical error.  No harm, no foul. 
+
+Boss:  No harm, no foul?!  This screw up has cost m e half a day’s productivity.  I think that’s plenty of harm done. 
+
+Jenny:  You’re right, sir.  I stand corrected.  I’m  sure it was just an honest mistake.   
+
+Boss:  Stop making excuses for the person responsib le for this debacle.  Jenny, why  are you making excuses for the person responsible?  
+
+Jenny:  You look thirsty.  I’ll go get you some cof fee right now! 
+
+[end of dialogue]  
+
+ The person responsible for the scripts for this epi sode is the one and only Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

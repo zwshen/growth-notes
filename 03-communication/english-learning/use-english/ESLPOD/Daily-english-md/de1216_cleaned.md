@@ -1,0 +1,130 @@
+# Working in a Job You Love
+
+Welcome to English as a Second Language Podcast num ber 1,216 – Working in a Job You Love.  
+
+This is English as a Second Language Podcast episod e 1,216. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit ESLPod.com. When you do, you can take a look at our ESL Podcast Store, with additional courses in Business and Daily Engli sh. This episode is a dialogue between Lorna and Deangelo about working somewhere you really love to work. Let’s get started. 
+
+[start of dialogue] 
+
+Lorna: It’s great to be alive, isn’t it? 
+
+Deangelo: What are you so happy about? 
+
+Lorna: I’m just happy to come to work. 
+
+Deangelo: What?! 
+
+Lorna: I’ve come to realize that this is more than a job. It’s a vocation. I’m doing valuable work that I’m well suited for. 
+
+Deangelo: Are you on something? 
+
+Lorna: I’m high on life and my newfound sense of pu rpose. I realize that I’m doing this job because I have a calling and this is  what I’m meant to do. 
+
+Deangelo: I’m serious. Are you coming down with som ething? 
+
+Lorna: Of course not. Yesterday, it occurred to me the legacy I’ll be leaving behind after my life’s work is done. 
+
+Deangelo: Life’s work? 
+
+Lorna: Yes, I’ll be remembered in posterity as some one who made a difference. 
+
+Deangelo: You do remember what you do for a living,  right?  
+
+ Lorna: I provide salve to people who need it. I giv e succor to those in need. 
+
+Deangelo: You serve drinks in a bar. 
+
+Lorna: I provide a shoulder to cry on, a calm voice  in a crazy world. 
+
+Deangelo: Talk about delusions of grandeur! 
+
+[end of dialogue] 
+
+Lorna begins our dialogue by saying to Deangelo, “I t’s great to be alive, isn’t it?” Lorna is very happy. She’s saying how wonderful it is to be alive. It is something you would say when you’re very happy. Deangelo says , “What are you so happy about?” Lorna responds, “I’m just happy to come to work.” Deangelo is shocked, very surprised by this answer. He says, “What?!”  
+
+Lorna says, “I’ve come to realize” – that is, I now  understand – “that this is more than a job. It’s a vocation.” A “vocation” (vocatio n) is something that you feel you are called to do as your life’s work. The word “voc ation” comes from the Latin term meaning “to call” – “vocare.” Your “calling,” then, is what you feel that God or destiny has given you as your life’s work, the t hing that you believe you should be doing on this earth.  
+
+We sometimes use the word “vocation” to refer to th ose who go into the Christian priesthood or ministry. If you are going to become a minister or a reverend or a priest, we might say that is your “vocation.” But “ vocation” can also be used to describe anything – any career, job, or work that y ou feel is something you are meant to do or destined to do or simply called to d o by some greater power than yourself.  
+
+Lorna believes her job is a vocation. She says, “I’ m doing valuable work that I’m well suited for.” “To be well suited” (suited) mean s to be appropriate for something, to be well matched. Some people are well  suited to be athletes. They are born with bodies that are good for certain kind s of athletic activities. A thing may be well suited to a certain use. A hammer is we ll suited for putting nails into the wall. In fact, it is designed to do that. So, L orna feels she is somehow designed to do the work she is doing. She’s well su ited for it.  
+
+Deangelo still can’t believe that Lorna is saying w hat she is saying. That’s why he makes a joke in the next sentence. He asks Lorna, “ Are you on something?” The expression “to be on something” means to be under t he influence of drugs,  
+
+especially illegal drugs. Lorna is not on drugs. Sh e’s not on something. She’s not taking drugs. In fact, she says she’s just “high on  life.”  
+
+The expression “to be high on life” means that you are just happy about your situation. The word “high” (high) usually means to be under the influence of illegal drugs such as marijuana. People who smoke m arijuana “get high,” we say – that is, they get intoxicated by this drug in suc h a way that it changes their mood, the way they feel and think. Lorna is high on  life, however, not on any drug.  
+
+She says she has a “newfound sense of purpose.” Som ething that is “newfound” (newfound) is something recently found or discovere d, or perhaps just realized. I have a newfound respect for mothers. In talking to my own mother last weekend, I realized how much work it was to raise 11 childre n as she did. So, I now realize something I didn’t realize before, or I discovered something new. I have a “newfound sense of respect.” Lorna has a “newfound sense of purpose.” “Sense of purpose” is a reason for doing a particular thin g, or perhaps a reason for living. 
+
+Lorna has a “sense of purpose” about her life. She now realizes why she is here on this earth, perhaps. She says, “I realize that I ’m doing this job because I have a calling and this is what I’m meant to do.” A “cal ling” is the same as a “vocation.” Remember, we said that “vocation” actually comes fr om the Latin word meaning “calling.” That is, someone is calling you, someone  is addressing you and saying “Do this.” Usually that someone is identified as Go d, in the traditional sense of a “calling” or “vocation.”  
+
+Deangelo says, “I’m serious.” He still can’t believ e that Lorna is saying what she is saying. He says, “Are you coming down with somet hing?” The expression “to come down with something” means to begin to feel si ck, often with some common illness such as a cold or a flu. Someone may  say, “I feel like I’m coming down with something.” He means, “I feel as though I ’m getting sick.” Deangelo really thinks that Lorna is sick because she’s sayi ng what he thinks are very strange things about loving her job.  
+
+Lorna says, “Of course not,” meaning no, I am not c oming down with something. “Yesterday,” she continues, “it occurred to me the legacy I’ll be leaving behind after my life’s work is done.” Lorna says yesterday  she realized the “legacy” she’ll be leaving behind. A “legacy” (legacy) is something  that you do in life that will be remembered after you are dead, or something valuabl e that you have done that will continue to be valuable after you die.  
+
+A “legacy” is something you “leave behind” – that i s, you leave for others to enjoy even after you are dead. Lorna believes she will be  leaving a legacy after her “life’s work is done.” Your “life’s work” is everyt hing you do or the most important things you do in your life. Perhaps someday my lega cy will be ESL Podcast. Who knows?  
+
+Deangelo, once again, is still puzzled, still confu sed by Lorna and what she is saying. He says, “Life’s work?” He’s asking what sh e means by this phrase “life’s work” – what specifically is she talking about. Lor na says, “Yes, I’ll be remembered in posterity as someone who made a diffe rence.” “Posterity” (posterity) refers to people born after you, many y ears, perhaps, after you. We might also use the expression “future generations” to describe “posterity.”  
+
+Lorna believes she is going to be remembered by peo ple in the future as someone who made a difference – that is, who did so mething important or significant that changed the world somehow. Deangel o says, “You do remember what you do for a living, right?” The expression “d o for a living” means what you do to earn money – your job or your work. Lorna say s she does remember what she does for a living.  
+
+She says, “I provide salve for people who need it.”  The word “salve” (salve) refers to a cream or a lotion, a thick liquid that protects your skin or heals your skin. It’s something you put on your body when you damage your skin. The word is not very common. It’s something that is a little  poetic here. Lorna doesn’t actually put lotion on someone’s skin. She believes  psychologically or emotionally, she is helping other people.  
+
+She says, once again continuing in this poetic way,  “I give succor to those in need.” “Succor” (succor) means help or assistance o r support for another person. It’s not a very common word in conversational Engli sh; neither is “salve.” But Lorna is being a bit poetic here.  
+
+Deangelo then reminds Lorna what her actual job is.  He says, “You serve drinks in a bar.” That is, she gives people alcoholic drin ks in a bar, which doesn’t sound like the kind of job that will make a big differenc e in people’s lives, though of course any job, if done well, could make a differen ce, so we shouldn’t be too skeptical of Lorna’s claims, though Deangelo certai nly is.  
+
+Lorna in fact reminds him of an important part of h er job. She says, “I provide a shoulder to cry on.” A “shoulder to cry (cry) on” r efers to a person who is willing to listen to your problems, especially if things ar e going badly for you, and you perhaps feel like crying. “A shoulder to cry on” is  a person who will listen to you,  
+
+especially when you are going through difficult tim es. Lorna says she is “a calm voice in a crazy world.”  
+
+Deangelo still isn’t convinced. He says, “Talk abou t delusions of grandeur!” The phrase “talk about” is used to emphasize that anoth er person’s comments are crazy or perhaps extreme or extraordinary. It’s oft en used when you are criticizing another person, or it might be used to give an example of something, a perfect example of something. Let’s say I go to a m ovie and it isn’t very good. I may tell my friend, “Talk about a horrible movie. T hat movie I saw last night was awful.”  
+
+Deangelo says, “Talk about delusions of grandeur!” Here he’s criticizing Lorna for what she is saying about how important her job is. The expression “delusions (delusions) of grandeur (grandeur)” refers to a bel ief that you are more important or more significant than you actually are. If you t hink you are the most important thing in the world, you probably have delusions of grandeur.  
+
+A “delusion” is a belief that is false – something that perhaps a crazy person might think of. Someone who thinks that he is Napol eon Bonaparte is having a delusion. He thinks something is true that isn’t tr ue. “Delusions of grandeur” refer to someone who thinks that he is great or wonderful  or perhaps famous, when he isn’t any of those things. Deangelo thinks Lorna ha s delusions of grandeur by thinking that her job is so important.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Lorna: It’s great to be alive, isn’t it? 
+
+Deangelo: What are you so happy about? 
+
+Lorna: I’m just happy to come to work. 
+
+Deangelo: What?! 
+
+Lorna: I’ve come to realize that this is more than a job. It’s a vocation. I’m doing valuable work that I’m well suited for. 
+
+Deangelo: Are you on something? 
+
+ Lorna: I’m high on life and my newfound sense of pu rpose. I realize that I’m doing this job because I have a calling and this is  what I’m meant to do. 
+
+Deangelo: I’m serious. Are you coming down with som ething? 
+
+Lorna: Of course not. Yesterday, it occurred to me the legacy I’ll be leaving behind after my life’s work is done. 
+
+Deangelo: Life’s work? 
+
+Lorna: Yes, I’ll be remembered in posterity as some one who made a difference. 
+
+Deangelo: You do remember what you do for a living,  right? 
+
+Lorna: I provide salve to people who need it. I giv e succor to those in need. 
+
+Deangelo: You serve drinks in a bar. 
+
+Lorna: I provide a shoulder to cry on, a calm voice  in a crazy world. 
+
+Deangelo: Talk about delusions of grandeur! 
+
+[end of dialogue] 
+
+Our scriptwriter is well suited for her job of writ ing wonderful scripts. I speak, of course, of the one, the only, Dr. Lucy Tse, who mak es a difference in the world of English.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st.  
+

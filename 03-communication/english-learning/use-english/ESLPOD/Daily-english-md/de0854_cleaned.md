@@ -1,0 +1,104 @@
+# Singing Christmas Carols
+
+Welcome to English as a Second Language Podcast num ber 854: Singing Christmas Carols. 
+
+This is English as a Second Language Podcast episod e 854. I’m your host Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to ESLPod.com and become a member of ESL Podcast . It’s the best gift you can give yourself.  
+
+This episode is about singing Christmas carols or C hristmas songs. Let’s get started. 
+
+[start of dialog] 
+
+Andrea: What are you doing? 
+
+Stephanie: I’m coming up with a list of Christmas c arols to sing when we go caroling.  
+
+Andrea: Can I come? 
+
+Stephanie: Uh, I don’t think…  
+
+Andrea: What? You don’t think I can sing in tune? 
+
+Stephanie: No, it’s not that…  
+
+Andrea: You think I’m going to forget the lyrics? 
+
+Stephanie: No, it’s not that either…  
+
+Andrea: I know what it is. You think I’m too good. I’ll outshine the other singers. Don’t worry. I don’t mind hiding my light under a b ushel, just this once. 
+
+Stephanie: Well, it’s not that either. I just don’t  think you’re a good fit for our group. 
+
+Andrea: Not a good fit? I’m very knowledgeable abou t music and know all of the traditional carols. I’ve even composed some origina l ones that you might consider adding to your list.  
+
+Stephanie: I know you’re very knowledgeable about m usic, but in our group, it’s all about the singing voice. 
+
+Andrea: What’s wrong with my singing voice? Listen to this [sung loudly and poorly]: “Jingle bells, jingle bells, jingle all th e way…” 
+
+[end of dialog] 
+
+Andrea begins by saying, “What are you doing?” Step hanie says, “I’m coming up with” – I’m thinking about, I’m inventing – “a list  of Christmas carols to sing when we go caroling.” “Christmas” is the Christian holid ay, now celebrated by people who aren’t Christian, on December 25 th . And a “carol” (carol) is a traditional song that is sung during the Christmas season, during th e weeks before and a few weeks after Christmas. “Caroling” (caroling) is a t radition where people get together in small groups and they go around and the y sing Christmas carols in public, usually for other people, usually outside –  that is, not inside of a building. I think I went Christmas caroling a couple of times w hen I was a teenager, not a lot. You don’t see people doing this very much anym ore.  
+
+Andrea says, “Can I come?” He wants to go with Step hanie. “Can I come?” “Can I come with you?” Stephanie says, “Uh, I don’t thin k…” Andrea says, “What? You don’t think I can sing in tune?” “To sing in tune” (tune) means to be able to sing a song with the right notes, not being higher or lowe r than you should be. Many people say I cannot sing in tune. That’s probably t rue. Stephanie says, “No, it’s not that…” meaning it’s not that she thinks he can’ t sing in tune. Andrea says, “You think I’m going to forget the lyrics?” Andrea is trying to understand why Stephanie is hesitant, that is, why she doesn’t see m to be very excited about him going with them on the Christmas caroling event. He  says, “You think I’m going to forget the lyrics?” The “lyrics” (lyrics) are th e words that are sung in the song. Stephanie says, “No, it’s not that either…”  
+
+Andrea says, “I know what it is. You think I’m too good.” You think I’m going to be so much better than the other singers. Andrea says,  “I’ll outshine the other singers.” “To outshine” (outshine) – one word – mea ns to be better than other people, to be, we might say, “superior” to other pe ople. You’re so good that everyone sees how much better you are than the rest  of the group. Singers, of course, are the people who sing.  
+
+Andrea says, “Don’t worry. I don’t mind hiding my l ight under a bushel, just this once.” “To hide the light under a bushel” (bushel) means not to let other people know or see how good you are at doing something, ho w smart you are or how talented you are. The expression comes from the Bib le, from the New Testament, from one of the stories that Jesus tells  in the Bible. The word “bushel” is what we would call a “unit of measurement” equal  to about 36 liters. It’s a measure of volume, of capacity. But in the expressi on, it really refers to a large container, like a large basket or bucket that would  be big enough to hold a bushel of something. If you turn the container upside down  and put a light underneath it, of course, you can’t see the light. And that’s wher e the expression comes from.  
+
+Andrea is saying that because he is such a good sin ger, he won’t try to outshine the other singers. He won’t sing as good as he coul d sing. He says he’ll do this “just this once.” The expression “Just this once,” means only one time. You’re going to do something differently than the way you would normally do it. 
+
+Stephanie says, “Well, it’s not that either. I just  don’t think you’re a good fit for our group.” “To be a good fit” (fit) means to be simila r to other people or other things in a group, especially if you’re going to spend a l ot of time with them. Sometimes companies will tell people interviewing for a job a t that company that they’re not a “good fit for this position.” That means they don’t  think you have the exact qualifications or characteristics that would work w ell in a certain job. Here, it means that Andrea isn’t like the rest of the group that’s going to be singing and so, it wouldn’t be a good fit. 
+
+Andrea says, “Not a good fit? I’m very knowledgeabl e about music and know all of the traditional carols.” Andrea says he knows a lot about music and he knows all of the “traditional” carols. “Traditional,” her e, refers to things that have a long history, things that have been going on for a long time. Usually, we use this adjective in talking about culture or customs. “Tra ditional carols” would be carols that have been sung for many years, many generation s even.  
+
+Andrea says that he knows all of the traditional ca rols. “I’ve even composed some original ones that you might consider adding t o your list.”  “To compose” (compose) means to create a new piece of music and,  usually, write it down so that other people can play it themselves. Bach, Bee thoven, Mozart, Brahms – these were all great composers of earlier centuries . Anyone who writes the music for a song can be called a “composer,” with an -r a t the end. “To compose,” however, is the verb. 
+
+Andrea says he’s composed some original carols. “Or iginal,” here means new, that have not been created before. Stephanie says, “I know you’re very  
+
+knowledgeable about music, but in our group, it’s a ll about the singing voice.” “The singing voice” is how well someone sings. Your  “voice” (voice) is the sound that you make, that comes out of your mouth. Usuall y, you are saying something that people can understand, although my wife thinks  I make a lot of noise that no one understands, at least, her.  
+
+Andrea is, according to Stephanie, someone who does n’t have a very good singing voice. So, you see, Stephanie was lying ear lier in the dialog when she said that it wasn’t about the fact that Andrea coul dn’t sing in tune and so forth. Really, she doesn’t think Andrea is a very good sin ger. And now, we finally hear her say that directly. Andrea says, “What’s wrong w ith my singing voice? Listen to this…” And then he tries to sing a traditional c arol called “Jingle bells.”  
+
+Jingle bells” (jingle bells) – two words – is a pop ular holiday song, a popular Christmas song describing the ringing or jingling o f bells. The song goes “Jingle bells, jingle bells, jingle all the way…” But Andre a’s not a very good singer so it sounds like: “Jingle bells, jingle bells, jingle al l the way…”  
+
+Wait a minute, that’s how I sound!  
+
+Now let’s listen to the dialog, this time at a norm al speed. 
+
+[start of dialog] 
+
+Andrea: What are you doing? 
+
+Stephanie: I’m coming up with a list of Christmas c arols to sing when we go caroling.  
+
+Andrea: Can I come? 
+
+Stephanie: Uh, I don’t think…  
+
+Andrea: What? You don’t think I can sing in tune? 
+
+Stephanie: No, it’s not that…  
+
+Andrea: You think I’m going to forget the lyrics? 
+
+Stephanie: No, it’s not that either…  
+
+Andrea: I know what it is. You think I’m too good. I’ll outshine the other singers. Don’t worry. I don’t mind hiding my light under a b ushel, just this once. 
+
+Stephanie: Well, it’s not that either. I just don’t  think you’re a good fit for our group. 
+
+Andrea: Not a good fit? I’m very knowledgeable abou t music and know all of the traditional carols. I’ve even composed some origina l ones that you might consider adding to your list.  
+
+Stephanie: I know you’re very knowledgeable about m usic, but in our group, it’s all about the singing voice. 
+
+Andrea: What’s wrong with my singing voice? Listen to this [sung loudly and poorly]: “Jingle bells, jingle bells, jingle all th e way…” 
+
+[end of dialog] 
+
+Our scriptwriter has a wonderful singing voice and a very creative mind. I’m speaking, of course, about our very own Dr. Lucy Ts e. Thank you, Lucy. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again, right here on ESL Podc ast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Br. Jeff McQuillan. Copyright 2012 by the  Center for Educational Development.
+

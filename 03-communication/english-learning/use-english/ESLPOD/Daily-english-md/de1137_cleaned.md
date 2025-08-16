@@ -1,0 +1,104 @@
+# Using Battery Power
+
+Welcome to English as a Second Language Podcast num ber 1,137 – Using Battery Power.  
+
+This is English as a Second Language podcast episod e 1,137. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to ESLPod.com. Why? Well, I thought you’d never ask. So you can become a member of ESL Podcast and download the Learning Gui de for this episode. You can also like us on Facebook at facebook.com/eslpod . And why not follow us on Twitter – at @eslpod, of course.  
+
+This episode is a dialogue between Luisa and Allesa ndro about using battery power for your electronic devices. Let’s get starte d.  
+
+[start of dialogue] 
+
+Luisa: The battery on my computer is almost out of juice. 
+
+Allesandro: Did you bring a spare? 
+
+Luisa: It’s a rechargeable battery, so instead of r eplacing it, I need to plug it in, but there are no outlets in here. 
+
+Allesandro: I don’t see one either. 
+
+Luisa: Forget it. I’ll just finish watching the mov ie on my phone. Oh no, my phone battery is running low, too. It’s a high-capacity b attery and is supposed to discharge slowly, giving me a full day of power. I don’t know what’s wrong with it. 
+
+Allesandro: Do you want to borrow my radio? At leas t you can listen to music for a while. 
+
+Luisa: A radio? You mean an old-fashioned radio? 
+
+Allesandro: Yeah, it uses disposable batteries and I brought plenty. 
+
+Luisa: No, thanks. I don’t think a radio will do me  any good. Maybe there’s an emergency generator around here. I just need enough  electricity to finish watching my movie.  
+
+ Allesandro: I don’t think that will do you any good , and plus, the emergency generator is supposed to be used for emergencies an d only in the event of a power failure. 
+
+Luisa: Exactly! What can be more of an emergency th an not knowing how a movie ends? 
+
+[end of dialogue] 
+
+Luisa kicks things off – that is, starts things – i n our dialogue by saying, “The battery on my computer is almost out of juice.” You r “battery” is what stores energy that you use for an electronic device. Your cell phone, your tablet, most laptop computers have batteries in them so you can use them without plugging in directly to the electrical outlet in the wall. “To be out of juice” (juice) means that your battery no longer has any power, any energy.  
+
+The word “juice” is also used, of course, for a liq uid that you drink, made from usually some sort of fruit. Think of orange juice o r apple juice or pineapple juice (although pineapple juice isn’t very popular). This  juice, however, has nothing to do with something you drink. It has to do with the power, energy remaining in your battery. (Please don’t email me and tell me th at power and energy are not the same thing. I understand that, but in conversat ional English we use those two words interchangeably often, one for the other.)  
+
+Allesandro says, “Did you bring a spare?” A “spare”  (spare) is an additional item or an additional thing that you can use as a replac ement for something else if it stops working. So, here the word “spare” really mea ns “spare battery,” an extra battery. We also, in our cars, carry a “spare tire, ” which some people often refer to simply as “the spare.” “The spare” is the extra tire or wheel you have in your car in case you have a problem with one of your tir es. We call it a “spare tire” for your car even though the tire goes around the wheel . We probably should call it a “spare wheel.” But we don’t. We usually just say a “spare tire.”  
+
+Anyway, we’re not talking about cars here, Jeff. Ge t back to the story.  
+
+Allesandro asks Luisa if she brought a spare – that  is, spare battery. Luisa says, “It’s a rechargeable battery, so instead of replaci ng it, I need to plug it in, but there are no outlets here.” There are basically two  kinds of batteries. There are batteries that you use once and then you throw away , and there are batteries that you can recharge. “To charge” (charge) something me ans to add power to it, in a  
+
+sense. So, “rechargeable” (rechargeable) is a batte ry that you can use more than once. You can add power or energy to it again so th at you can use it again.  
+
+Luisa says that she has a rechargeable battery, so instead of replacing it – that is, instead of throwing it out and putting a new ba ttery in – she needs to plug the battery in. “To plug something in” means to connect  it to a source of electricity so that it will work. If you have a television, usuall y you have to plug it in. You have to connect the television to some form of, or sourc e of, electricity.  
+
+Luisa is saying that she wants to plug her battery in so she can recharge it. “But,” she says, “there are no outlets here.” An “outlet” (outlet) is a small set of holes in the wall into which you plug something in. We may a lso call it a “power outlet” or an “electrical outlet.” One of the problems of trav eling to another country is that sometimes their outlets are different than the outl ets you have in your own country. So, you have to buy what’s called an “adap ter.” Luisa says she cannot find any outlets wherever she is there in this dial ogue.  
+
+Allesandro says, “I don’t see one either.” Luisa th en says, “Forget it. I’ll just finish watching the movie on my phone.” So apparently Luis a was watching a movie on her computer, and now she’s going to watch it on he r phone. Then she says, “Oh no, my phone battery is running low, too.” “To run (run) low (low)” means to have very little of something left – “to be running out of” something, we may also say. “I’m running low on coffee” means I don’t have very  much coffee left. “I’m running low on battery power” means my battery is almost ou t of juice.  
+
+Luisa says, “The battery is a high-capacity battery  and is supposed to discharge slowly, giving me a full day of power.” “Capacity” (capacity) refers to how much something can contain, or how big or sometimes how powerful something is. A “high-capacity battery” would be a battery that, on e presumes, you could use for a long time. Luisa says, “The battery is supposed t o discharge slowly.” “To discharge” (discharge) is the opposite of “to charg e.” So, if “to charge” is to add electrical power to a battery, “to discharge” would  be to take that away. When you use a battery, you are slowly discharging it.  
+
+Luisa thought that her high-capacity battery would give her a full day of power, a full day of use, of energy. “I don’t know what’s wr ong with it,” she says. Allesandro then asks, “Do you want to borrow my rad io?” A “radio” (radio), for those too young to remember, is a device that recei ves what are called “radio frequency waves” and uses them to produce sound. Al lesandro says, “At least you can listen to music for a while.” Luisa says, “ A radio? You mean an old- fashioned radio?” “Old-fashioned” here means someth ing that no one uses anymore.   
+
+ Allesandro says, “Yeah,” meaning yes. “It uses disp osable batteries and I brought plenty.” “Disposable” (disposable) is the o pposite of “rechargeable.” A “disposable battery” is one of those batteries that  you use once and then you throw it away. A paper napkin is disposable. Once y ou use it, you can’t wash it. You just have to throw it away. Allesandro says he brought “plenty” (plenty). Here, he means plenty of batteries. “Plenty” is a l ot of something. “We have plenty of food,” meaning we have enough food for ev eryone.  
+
+Luisa says, “No, thanks. I don’t think a radio will  do me any good,” meaning it won’t help me. “Maybe there’s an emergency generato r around here.” An “emergency generator” (generator) is a machine that  produces energy when the regular supply of electricity that you get to your house or your office building doesn’t work. In some parts of the world, emergency  generators are very common because the electrical system perhaps is not  very reliable.  
+
+Some people have emergency generators in case there  is, well, an emergency – a situation that may cause the electricity to no lo nger work. Here in Southern California, it’s probably a good idea to have an em ergency generator in case we have an earthquake, where the earth begins to move and bad things can happen. Do I have an emergency generator? Of course  not, because I do not plan ahead very well, kind of like Luisa.  
+
+Luisa says, “Maybe there’s an emergency generator a round here. I just need enough electricity to finish watching my movie.” Th e word “electricity” here is used to mean something similar to “power” and “ener gy.” Allesandro says, “I don’t think that will do you any good,” meaning I d on’t think that will help you.  
+
+“And plus,” Allesandro says, meaning in addition, “ the emergency generator is supposed to be used for emergencies and only in the  event of a power failure.” A “power failure” (failure) is when, as I mentioned e arlier, you don’t have any electrical power coming to your house or your build ing. A “failure” is when something stops working the way it should. Allesand ro says that an emergency generator is supposed to be used “only in the event  of a power failure.” “In the event (event) of” something means if something happ ens or in case something happens.  
+
+Luisa says, “Exactly,” meaning that’s exactly what I mean. “What can be more of an emergency than not knowing how a movie ends?” Lu isa thinks that not knowing how the movie ends is an emergency, and the refore she needs an emergency generator. I suppose if you have young ch ildren and you are entertaining them by having them watch a movie on a  tablet such as an iPad and  
+
+your battery dies, it might be considered an emerge ncy because your young children may be very upset they don’t know how the movie ends.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Luisa: The battery on my computer is almost out of juice. 
+
+Allesandro: Did you bring a spare? 
+
+Luisa: It’s a rechargeable battery, so instead of r eplacing it, I need to plug it in, but there are no outlets in here. 
+
+Allesandro: I don’t see one either. 
+
+Luisa: Forget it. I’ll just finish watching the mov ie on my phone. Oh no, my phone battery is running low, too. It’s a high-capacity b attery and is supposed to discharge slowly, giving me a full day of power. I don’t know what’s wrong with it. 
+
+Allesandro: Do you want to borrow my radio? At leas t you can listen to music for a while. 
+
+Luisa: A radio? You mean an old-fashioned radio? 
+
+Allesandro: Yeah, it uses disposable batteries and I brought plenty. 
+
+Luisa: No, thanks. I don’t think a radio will do me  any good. Maybe there’s an emergency generator around here. I just need enough  electricity to finish watching my movie. 
+
+Allesandro: I don’t think that will do you any good , and plus, the emergency generator is supposed to be used for emergencies an d only in the event of a power failure. 
+
+Luisa: Exactly! What can be more of an emergency th an not knowing how a movie ends? 
+
+[end of dialogue] 
+
+ Our scriptwriter has plenty of good ideas about voc abulary and expressions that you should know in English. That’s because she’s wo nderful – the wonderful Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m the not-very-wond erful Jeff McQuillan. Thanks for listening. Come back and listen to us again rig ht here on ESL Podcast. 
+

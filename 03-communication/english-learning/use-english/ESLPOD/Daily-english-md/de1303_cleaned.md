@@ -1,0 +1,126 @@
+# Disputing an Incorrect Bill
+
+Welcome to English as a Second Language Podcast num ber 1,303 – Disputing an Incorrect Bill.  
+
+This is English as a Second Language Podcast episod e 1,303. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to ESLPod.com for more information about us. Thi s episode is a dialogue between Regina and Bob about a problem with Bob’s b ill – the indication of how much he should pay a certain company. Let’s get sta rted.  
+
+[start of dialogue] 
+
+Regina: Hello, this is Horizon. My name is Regina. How may I help you today? 
+
+Bob: I’m calling to dispute my bill. There’s a bill ing error. 
+
+Regina: Let me take a look at your statement. Your last bill was $650 and it is past due. 
+
+Bob: It’s past due because this is the third time I ’ve called to report the problem, but my bill still hasn’t been corrected. My bill is  normally $65 a month. 
+
+Regina: I’m looking at your account and I don’t see  a record of any previous calls about this problem. 
+
+Bob: I called last week and the week before. Look, I just want to get this sorted out so I can pay my bill before my service is disco nnected. 
+
+Regina: I understand. Your bill may reflect changes  you’ve made to your usage plan, such as upgrading to a more expensive plan. 
+
+Bob: I’ve made no changes to my usage plan. I’ve ha d the same plan for eight months. 
+
+Regina: Your bill may also reflect overage charges if you went over your allotted minutes or data. 
+
+Bob: I haven’t gone over my limit. Can my case be e scalated so that I can speak with a supervisor?  
+
+ Regina: Certainly, sir. Let me have a supervisor ca ll you back when she’s available. 
+
+Bob: Will that be today? 
+
+Regina: I can’t tell you that, sir. 
+
+Bob: I just hope she calls me back before my servic e is [call ends]. 
+
+[end of dialogue] 
+
+Regina that begins our dialogue by saying, “Hello, this is Horizon.” She’s answering the phone, of course. She works for a com pany called “Horizon.” She says, “My name is Regina. How may I help you today? ” Bob says, “I’m calling to dispute my bill. There’s a billing error,” he says.  Your “bill” is usually a piece of paper, though nowadays it could be an email that yo u get from a company, telling you how much you have to pay for some product or se rvice that you buy from that company.  
+
+Bob says that there is a problem with his bill. The re is a “billing error” (error). An “error” is a mistake. A “billing error” is a mistak e in the amount of money that the company says you have to pay. Bob is calling “to di spute” (dispute) his bill. “To dispute” means to disagree about something, especia lly when you think there is something wrong. In this case, Bob thinks there’s s omething wrong with his bill, so he’s disputing it. He’s saying “No, that’s wrong , that’s incorrect.” We often use this verb when there are problems with money and th e amount of money on a bill.  
+
+Regina says, “Let me take a look at your statement. ” A “statement” (statement) here refers to a written report – or again, nowaday s, an electronic report – that shows all of your financial activity over a certain  period of time. For example, many of us have credit cards. Every month, the cred it card company sends us a “statement” which has a list of all the things we b ought with our credit card as well as how much money we paid to the credit card c ompany during that same area of time. That’s a “statement.” Regina is going  to look at Bob’s statement – electronically, of course.  
+
+She says, “Your last bill was $650 and it is past d ue.” If a bill is “past (past) due (due),” it is late. It has not been paid on time an d still needs to be paid. We may also use the term “overdue” (overdue). A bill that is “overdue” or “past due” is a bill that has not been paid on time. So if you have  to pay your rent on the first of  
+
+the month, and you don’t pay it for five days or 10  days, the rent is “overdue.” It’s past due. You are late.  
+
+Bob says that his bill is “past due because,” he ex plains, “this is the third time I’ve called to report the problem, but my bill still has n’t been corrected.” Bob says yes, my bill is past due, but that’s because there’s a p roblem with it, and I have called to report it but it has not been corrected. “To rep ort” (report) means to give someone information about something. It’s often use d to mean to officially notify someone.  
+
+“To notify” (notify) means to tell someone, but usu ally in a formal way or in a way that is used, say, in a business or governmental si tuation. You “notify” the government that you are not going to pay your taxes  this year, and the government notifies you that you will be going to j ail. That’s how it works here in the U.S. sometimes.  
+
+Bob reported a problem to this company that has not  been corrected – that is, it hasn’t been fixed. There’s an error that is still p resent on his bill. He says normally his bill is $65 dollars a month, not $650,  which is what the company says it is. Regina says, “I’m looking at your accou nt and I don’t see a record of any previous calls about this problem.” A “previous  call” would be a phone call that Bob made in the past.  
+
+Regina says she doesn’t see a “record” (record) of any previous calls. A record would be some written detailed information, probabl y in the computer system of the company, showing that Bob, in fact, called. Bob  says, “I called last week and the week before.” Then he says, “Look, I just want to get this sorted out so I can pay my bill before my service is disconnected.”  
+
+The use of the word “Look” (look) in this sentence is to get someone’s attention. In conversational English, if we want a person to p ay attention, perhaps because he hasn’t been listening very closely up to this po int, we might say, “Look.” We might also say, “Listen.” They mean the same thing,  even though of course “look” is something you do with your eyes, and “listen” is  something you do with your ears. The point is that we’re not saying they shoul d actually look with their eyes, but rather that they should listen to what you’re s aying.  
+
+Bob says, “Look, I just want to get this sorted out .” “To sort (sort) out” something, in this case, means to fix the problem, to take car e of this situation, to find a solution to the problem. “To sort out” can also mea n to take a group of things and put them in different categories. But here, “to sor t out” means to get fixed. Bob  
+
+wants to sort out this problem. Why? Because he doe sn’t want his service with this company, whatever this company does for him, “ to be disconnected.”  
+
+It sounds like Horizon is a phone company, no relat ion to an actual phone company here in the United States called “Verizon.”  No relation at all. The service that Bob gets, we’re guessing his telephone  service, “may get disconnected.” “To disconnect” (disconnect) means t o stop providing service to someone. We usually use this verb “to connect” and the opposite, “to disconnect,” when we’re talking about telephone ser vice. If your telephone service gets “disconnected,” you no longer have it.  The company will no longer provide you that service.  
+
+Regina says, “I understand. Your bill may reflect c hanges you made to your usage plan, such as upgrading to a more expensive p lan.” Regina is saying that, in effect, Bob is wrong. She says that perhaps the bill, that has a much higher cost than Bob says it should, just “reflects change s” he’s made to his usage plan. “To reflect” (reflect) means to show or to indicate  or to result from. Regina is saying that perhaps Bob made changes to his “usage (usage) plan.”  
+
+Your “usage plan” is an agreement you have with you r phone company about how many minutes you’re going to use every month, h ow much time you’re going to talk on your phone, or how much data you’re goin g to use. “Data” would refer to using the internet on a smartphone or an app. “T o upgrade (upgrade) to a more expensive plan” means to go from using, say, f ive hours of time every month, to 10 hours of time every month, or from usi ng one gigabyte of data to two gigabytes of data.  
+
+Many phone companies, especially cell phone compani es, have the option of upgrading plans, meaning you can get more service b y paying more money. That’s what Regina is suggesting happened to Bob – that he upgraded his plan and that’s why it’s costing him more money. But Bob  says no, no, no. “I’ve made no changes to my usage plan. I’ve had the same plan  for eight months,” he says.  
+
+Regina says, “Your bill may also reflect overage ch arges if you went over your allotted minutes or data.” In the U.S., if you talk  too much on your cell phone or you use too much data on your smartphone, you may h ave to pay extra money. That’s called “overage (overage) charges (charges). ” “Overage” means you’ve used too much. You’ve gone over your limit.  
+
+Every month, most people are allotted a certain num ber of minutes or a certain amount of data. “To allot” (allot) means to give so meone a certain amount of something. We say that you are “allotted” a certain  number of minutes or data on  
+
+your phone by the phone company. They give you a ce rtain amount that you can use. Bob complains, however, that he has not gone o ver his limit – the maximum amount that he can use. “Can my case be escalated s o that I can speak with a supervisor?” he asks.  
+
+When you are talking to a company, usually the firs t person you talk to works for the company but may not have a lot of power to chan ge things, especially if you are disputing your bill. That’s why Bob asks for hi s “case,” meaning his problem, “to be escalated” (escalated). “To escalate” nowada ys means to have your complaint given to someone with more authority or m ore power in the company.  
+
+I don’t remember this verb when I was growing up to  be used in this case, but nowadays, especially when a lot of what we call “cu stomer service” – where a company takes care of problems for customers or cli ents – is done over the telephone, we now have this verb of “escalating a p roblem” – making someone responsible for it who has more power than the firs t person you talk to in a company.  
+
+Usually after talking to the first person who answe rs the phone, you are given to someone with more authority, someone called a “supe rvisor” (supervisor). A “supervisor” is a manager or a boss, someone who is  responsible for other people and someone for whom you would want to ask i f you have a problem that the first person you talk to can’t solve.  
+
+Regina says, “Certainly, sir. Let me have a supervi sor call you back when she’s available.” In other words, Regina will take down B ob’s name and number, write it down, and give it to a supervisor so that the su pervisor can call Bob back. Bob asks, “Will that be today?” meaning “Will she call me today?” Regina says, “I can’t tell you that, sir,” meaning probably she doe sn’t know.  
+
+Bob says, “I just hope she calls me back before my service is” – and then suddenly the phone call, the conversation between R egina and Bob, ends. The idea here of course, and the joke, is that Bob’s ph one service has ended because he hasn’t paid his bill. We know he hasn’t paid his bill because of a problem that Horizon apparently has made with his b ill or has caused, and now he doesn’t have phone service so that the superviso r won’t be able to talk to him after all. This, of course, is the worst possible c ase for poor Bob.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+ Regina: Hello, this is Horizon. My name is Regina. How may I help you today? 
+
+Bob: I’m calling to dispute my bill. There’s a bill ing error. 
+
+Regina: Let me take a look at your statement. Your last bill was $650 and it is past due. 
+
+Bob: It’s past due because this is the third time I ’ve called to report the problem, but my bill still hasn’t been corrected. My bill is  normally $65 a month. 
+
+Regina: I’m looking at your account and I don’t see  a record of any previous calls about this problem. 
+
+Bob: I called last week and the week before. Look, I just want to get this sorted out so I can pay my bill before my service is disco nnected. 
+
+Regina: I understand. Your bill may reflect changes  you’ve made to your usage plan, such as upgrading to a more expensive plan. 
+
+Bob: I’ve made no changes to my usage plan. I’ve ha d the same plan for eight months. 
+
+Regina: Your bill may also reflect overage charges if you went over your allotted minutes or data. 
+
+Bob: I haven’t gone over my limit. Can my case be e scalated so that I can speak with a supervisor? 
+
+Regina: Certainly, sir. Let me have a supervisor ca ll you back when she’s available. 
+
+Bob: Will that be today? 
+
+Regina: I can’t tell you that, sir. 
+
+Bob: I just hope she calls me back before my servic e is [call ends]. 
+
+[end of dialogue] 
+
+There’s no disputing the fact that we have the best  scriptwriter on the internet here at ESL Podcast. I speak, of course, of the won derful Dr. Lucy Tse.  
+
+ From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st.  
+

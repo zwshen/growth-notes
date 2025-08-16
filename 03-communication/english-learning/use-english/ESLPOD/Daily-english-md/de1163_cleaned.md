@@ -1,0 +1,114 @@
+# Types of Religious Leaders
+
+Welcome to English as a Second Language Podcast num ber 1,163 – Types of Religious Leaders. 
+
+This is English as a Second Language Podcast episod e 1,163. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. I promise, there’l l be no singing if you go there. When you do go there, you can become a member of ES L Podcast and download the Learning Guide for this episode. You c an also take a look at the ESL Podcast Store with additional courses in Busine ss and Daily English. And why not like us on Facebook? Go to facebook.com/esl pod. 
+
+This episode is a dialogue between Mary and Alexei about types of religious leaders. Let’s get started. 
+
+[start of dialogue] 
+
+Mary: I feel like an idiot! 
+
+Alexei: Why? What happened? 
+
+Mary: I just called the bishop over there “Pope.” 
+
+Alexei: That’s not so bad. You gave him a promotion . At least you didn’t call him “Rabbi.” 
+
+Mary: Don’t laugh! When I agreed to work at this in terfaith conference, I didn’t know I’d need a crash course in identifying religio us leaders from their dress. 
+
+Alexei: It can’t be that hard. That man over there is clearly a cardinal, and the woman next to him is probably a minister by the loo k of her clerical collar.  
+
+Mary: What about the man in robes over there? 
+
+Alexei: He’s probably a lama or a guru. He’s defini tely not an imam, but I’m not entirely sure how I would address him. 
+
+Mary: See what I mean? I keep saying the wrong thin g. 
+
+Alexei: These religious leaders don’t expect laypeo ple like you and me to know as much as they do about religious dress.  
+
+Mary: That’s what you think! I called that man over  there “Preacher” and he gave me a dirty look. 
+
+Alexei: No wonder. He’s the caterer. 
+
+[end of dialogue] 
+
+Mary begins our dialogue by saying, “I feel like an  idiot!” An “idiot” (idiot) is a person who isn’t very smart, who is not very intell igent. Alexei says, “Why? What happened?” Mary says, “I just called the bishop ove r there ‘Pope.’” Our dialogue is about types or names of religious leaders. Mary mentions two names, “bishop” (bishop) and “pope” (pope).  
+
+A “bishop” is a senior leader, we might say, in a C hristian church. There are different Christian “congregations,” we might call them, or groups that use this term “bishop” for their leaders. The Catholic Churc h, or the Roman Catholic Church, uses this term “bishop” for its leaders.  
+
+The Catholic Church also has another term – as do s ome other Christian churches, but it’s usually associated with the Cath olic Church – and that is “pope.” The “pope” is the leader of the Catholic Ch urch who lives in Vatican City, which is located inside the country of Italy. There  are, I should add, a few other Christian churches which also use the term “pope.”  
+
+In the Roman Catholic Church, the pope is himself a  bishop, but is considered the highest leader of the church. Alexei says, “Tha t’s not so bad. You gave him a promotion.” A “promotion” is when you get a better job in a company. Alexei is making a little joke here. He’s saying that by call ing this bishop the “pope,” he’s giving the bishop, in essence, a more important job  than he already has.  
+
+Alexei says. “At least you didn’t call him ‘Rabbi.’ ” A “rabbi” (rabbi) is a leader of a Jewish synagogue. A “rabbi” may also be a religious  scholar of the religion of Judaism. Mary says, “Don’t laugh. When I agreed to work at this interfaith conference, I didn’t know I’d need a crash course i n identifying religious leaders from their dress.” An “interfaith (interfaith) conf erence,” or meeting, would be something involving two or more religions, especial ly groups or meetings that involve different religious leaders talking about i ssues and ideas that they may have in common or that they may differ about.  
+
+Mary says that she didn’t know she’d need a “crash course.” A “crash (crash) course” is a very short, usually what we might desc ribe as “intense,” period of studying about something or learning about somethin g, usually because you need to know something right away in order to do so mething or to perform some action.  
+
+For example, if you get a new computer and the comp uter has software that you have never used before and you have to use it tomor row to do something, you may decide to take a “crash course” in how to use i t. You may decide to spend many hours tonight studying on how to use this part icular software. That would be an example of a “crash course” – when you have t o learn something very quickly.  
+
+“Religious leaders” refer to leaders of particular religions. “Religions” are systems of belief that usually talk about the meaning of li fe and the origins of life. I think most people know what religion is. Mary says that s he didn’t know she needed to take a crash course on identifying, or figuring out , religious leaders from their dress. “From their dress” means how they are dresse d. She means that she doesn’t know how to identify religious leaders just  looking at the way they are dressed because different religious leaders often d ress differently.  
+
+Alexei said, “It can’t be that hard,” meaning it is n’t really that difficult. “That man over there,” he says, “is clearly a cardinal, and t he woman next to him is probably a minister by the look of her clerical collar.” A “ cardinal” (cardinal) is a religious leader, once again in the Catholic Church. A cardin al usually dresses somewhat differently than another kind of religious leader, a bishop. In fact, most cardinals, though not all, are bishops themselves. Cardinals a re religious leaders in the Catholic Church that, among other things, participa te in electing the next pope, or leader of the Catholic Church.  
+
+A “minister” (minister) is a leader of a Christian church. It could be any kind of Christian church, not necessarily a Catholic church . It could be a Baptist church or a Presbyterian church or any one of a variety of  Christian groups. In some Christian groups or churches, ministers wear what’s  called a “clerical collar.” The word “clerical” (clerical) comes from the word “cle ric.” A “cleric” is a religious leader.  
+
+“Collar” (collar) here refers to something worn aro und the neck. The word “collar” usually refers to jewelry or something worn around a person’s neck. You can think of your dog having a collar – that’s somethin g the goes around the dog’s neck that usually you connect something to in order  to control the dog – a long rope or a long piece of material called a “leash” ( leash).   
+
+ Well, we’re not talking about dog collars here. We’ re talking about religious collars, which are usually pieces of white material  – stiff, thick, white material that goes around the neck of a religious leader, a Chris tian religious leader. Many ministers often wear a black shirt with this white collar that goes around the neck. Mary says, “What about that man in robes over there ?” A “robe” (robe) is something you wear over your body, that is very lon g. It’s almost like a very large dress. It could be worn by a man or a woman.  
+
+Alexei says that the man that Mary is pointing at i s probably a lama or a guru. A “lama” (lama) is a Tibetan or Buddhist monk, or a t itle for a religious leader of Buddhism. You can think perhaps of the Dalai Lama, from Tibet. A “guru” (guru) is a spiritual teacher usually associated with Hind uism or Buddhism, or possibly a leader in the “Sikh” (Sikh) religion. Alexei says t he man that Mary is pointing at is probably a lama or a guru.  
+
+He says, “He’s definitely not an imam, but I’m not entirely sure how I would address him.” An “imam” (imam) is a Muslim religiou s leader, a leader of a group that believes in Islam (Islam). Alexei says he’s “n ot entirely sure,” meaning he’s not exactly sure, “how I would address him.” “To ad dress” (address) someone is to speak to someone in a particular way, especially  using some sort of title, some sort of name for that person.  
+
+For example, if you meet the president of the Unite d States, you would probably say, “It’s nice to meet you, Mr. President.” That’s  how we would address the president of the United States. If you were talking  to the pope of the Catholic Church, you would say, “Your Holiness” or “Holy Fat her.” Those are terms of address – how you would talk to that person when yo u first talk to that person. If you are in a courtroom and you are talking to a jud ge, the proper form of address is probably “Your Honor” (honor). That’s how you wo uld address, or talk to, that person.  
+
+Alexei is not sure how to address some of the relig ious leaders. Mary says, “See what I mean? I keep saying the wrong thing.” Alexei  says, “These religious leaders don’t expect laypeople like you and me to k now as much as they do about religious dress.” A “lay (lay) person” is som eone who is not a religious leader or who doesn’t have a position of religious leadership within a church or religious group.  
+
+Another term for “laypeople” would be “laymen,” alt hough it’s become more popular now to say “laypeople,” but it means the sa me thing usually, unless someone is distinguishing between a man and a woman , in which case you may  
+
+say “layman” or “laywoman.” Alexei is basically tel ling Mary not to worry too much – that these religious leaders don’t expect he r to know who’s who, if you will, by their religious dress.  
+
+Mary says, “That’s what you think.” The expression “That’s what you think” is usually used to show that you disagree with what th e other person says. Usually you say this right before you’re going to present a n example of why you think the other person is wrong, and that’s exactly what Mary  does. She disagrees with Alexei. She says, “That’s what you think.” And then  she gives her example of why Alexei is wrong. She says, “I called that man o ver there ‘Preacher’ and he gave me a dirty look.”  
+
+The term “preacher” (preacher) is another religious  title that could be applied to the lots of different people, not just a leader of a religious community or a Christian church, though there are many Christian c hurches who use “preacher” in the same way that other religious groups use “mi nister.” Mary says she just called someone “preacher” and that person gave her a “dirty look.” “To give someone a dirty look” means to look at them as if y ou were angry, to show that you didn’t like what that person said.  
+
+Alexei says, “No wonder,” meaning “Well, that’s not  surprising.” The person that Mary was talking to is the “caterer.” The “caterer”  (caterer) is the person whose job it is to prepare and serve food at a meeting or  event. Mary called the caterer, who of course is not a religious leader in any sens e, a “preacher,” and that’s why the caterer gave her a dirty look.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Mary: I feel like an idiot! 
+
+Alexei: Why? What happened? 
+
+Mary: I just called the bishop over there “Pope.” 
+
+Alexei: That’s not so bad. You gave him a promotion . At least you didn’t call him “Rabbi.” 
+
+Mary: Don’t laugh! When I agreed to work at this in terfaith conference, I didn’t know I’d need a crash course in identifying religio us leaders from their dress. 
+
+ Alexei: It can’t be that hard. That man over there is clearly a cardinal, and the woman next to him is probably a minister by the loo k of her clerical collar.  
+
+Mary: What about the man in robes over there? 
+
+Alexei: He’s probably a lama or a guru. He’s defini tely not an imam, but I’m not entirely sure how I would address him. 
+
+Mary: See what I mean? I keep saying the wrong thin g. 
+
+Alexei: These religious leaders don’t expect laypeo ple like you and me to know as much as they do about religious dress.  
+
+Mary: That’s what you think! I called that man over  there “Preacher” and he gave me a dirty look. 
+
+Alexei: No wonder. He’s the caterer. 
+
+[end of dialogue] 
+
+If you need a crash course in any kind of special v ocabulary, you should talk to our wonderful scriptwriter, Dr. Lucy Tse – or bette r yet, just listen to her wonderful scripts. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

@@ -1,0 +1,94 @@
+# Types of Shopping Areas
+
+Welcome to English as a Second Language Podcast num ber 941 – Types of Shopping Areas.  
+
+This is English as a Second Language Podcast episod e 941. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Go to ESLPod.com and download a Learning Guide for our episodes. You can do that by becoming a member of ESL Podcast.  
+
+This episode is going to be about places where you can go and buy things. Sounds like fun. Let's get started.  
+
+[start of dialogue] 
+
+Sarah: Come on! We only have two more hours before the stores close, and I want to make it to the outlet stores.  
+
+Aidan: I thought that when you asked if I wanted to  spend the day together, you meant we’d go somewhere for lunch, go to a movie, o r just hang out. 
+
+Sarah: Isn’t this much more fun? Shopping centers a re like Disneyland!  
+
+Aidan: This wasn’t exactly what I had in mind. 
+
+Sara: Just look. You have two shopping malls, retai l stores, outlet stores, department stores, and specialty stores. What more could you want? 
+
+Aidan: That’s great for you, but what am I supposed  to do?  
+
+Sarah: You can come with me, watch me try on clothe s, and help me decide what to buy. Come on, I want to go to those stores in the strip mall over there. 
+
+Aidan: Why don’t I just find a place to get a snack  and wait for you? I’m just dead weight when it comes to shopping. 
+
+Sarah: But I thought you wanted to spend the day to gether. 
+
+Aidan: I did, but I didn’t know I’d have to go to s hopping hell to do it. 
+
+[end of dialogue] 
+
+Sarah begins by saying to Aidan, “Come on! We only have two more hours before the stores close, and I want to make it to t he outlet stores.” “Come on” is something you say to someone when you want them, in  this case, to come with you, to get moving. Sarah says they have only two m ore hours before the stores close, and she wants to “make it to the outlet stor es.” “To make it” there means to get there before they close. An “outlet (outlet) st ore” is a store that sells a famous company or a famous brand’s clothing at a lower pri ce, at a discounted price. An outlet store could, for example, sell things by Guc ci or by one of the big fashion designers, but they sell it at a very low price com pared to what you would normally pay for it.  
+
+Aidan says, “I thought that when you asked if I wan ted to spend the day together, you meant we’d go somewhere for lunch, go to a movi e, or just hang out.” Sarah invited Aiden to spend the day with her. Aidan thou ght it was going to be doing something fun like going to a movie or just hanging  out. “To hang (hang) out” is a two-word phrasal verb meaning to spend time with an other person in a relaxed way without really any plans, without trying to get  anything done. You may just go and sit with this person and talk.  
+
+Sarah says, “Isn't this much more fun?” That is, is n’t going shopping more fun? “Shopping centers are like Disneyland.” A shopping center is an area where you have many different stores that are close to each o ther. Usually, shopping centers have a big place for you to park, a parking  lot or a building where you can park. At least, here in Los Angeles that's what  all the shopping centers have.  
+
+Disneyland is a theme park – an entertainment park – in Southern California, not too far from Los Angeles, where people I guess go a nd have a good time. Mickey Mouse and Donald Duck and other Disney characters c an be found at Disneyland. What Sarah is referring to here is a ve ry fun place to go. That's why she says shopping centers are like Disneyland. It's  just like going to Disneyland; you can have just as much fun.  
+
+Aidan doesn't agree. He says, “This wasn't exactly what I had in mind.” “To have something in mind” (mind) is a common expression me aning to be thinking about a particular thing. Someone says, “I want to go to a new restaurant,” and you say, “Well, what did you have in mind?” What were y ou thinking of? What ideas did you have? Sarah says, “Just look. You have two shopping malls, retail stores, outlet stores, department stores, and specialty sto res. What more could you want?” Sarah is explaining to Aidan why this place that they have gone to is so interesting and so exciting.   
+
+ She's pointing to all of these different places, sa ying, “Just look” – just look at all of these places. “You have two shopping malls.” A “ shopping mall” (mall) is a shopping center that is all in one big building. A “shopping center” is typically, or can be, a place where you walk outside to get from store to store. There are several buildings next to each other, usually with a parking lot in front for cars. A “shopping mall” is a huge building where you don't have to walk outside to go from one store to another.  
+
+The original concept of shopping malls began in par t in my home state of Minnesota. Because it's so cold during the winter, they wanted to build a place where people could go shopping and not have to walk  outside to go from one store to another. That's at least one of the reason s why they built shopping malls. Now there are shopping malls all over the United St ates and all over the world. Usually when we use the term “shopping mall,” we’re  always referring to one of these large buildings. When we say “shopping center ” we are usually talking about a place where you have to walk outside to get  from store to store.  
+
+A “retail store” is really any store that sells any thing to anyone who comes in the door. The word “retail” (retail) is used to disting uish it from a wholesale store. A “wholesale (wholesale) store” is a place where you have to be a business or belong to a large group in order to buy things, and  typically when you do buy things, you can buy them at a discount. The idea, t hen, is that you would buy these things and then sell them to someone else at a retail store. So, a “wholesale store” is sort of a store for other stor es.  
+
+Nowadays, however, things have gotten more confusin g. You'll see stores that will sell to individual members of the public, indi vidual people, but call themselves a “wholesale store” or “wholesale outlet.” The word  “wholesale” is associated in people's minds with a discount – a lower price – an d that's why we have now retail stores that sell to individuals and wholesal e stores that sell to individuals.  
+
+Sarah goes on and talks about the other kinds of sh opping areas. She mentions “department stores.” A “department store” is a larg e store in a single building that sells a lot of different kinds of things. They migh t sell clothing; they might sell appliances for your kitchen; they might sell gym eq uipment; they might sell jewelry. All of these different products are in one  single building, in one single store. That's a “department store.” There are diffe rent sections or “departments” that sell different things within the store.  
+
+A “specialty store” is a store that sells only one kind of item, often something that is very specific. For example, it might be a store that sells Rolex watches – a very  
+
+expensive watch – and that's all they sell. It’s ju st that kind of watch. That would be a very good example of a “specialty store.” Sara h asks Aidan, “What more could you want?” This is an expression meaning “Thi s is everything. This is the best. How can you possibly want to do anything else  or want anything else?” Aidan says, “That's great for you, but what am I su pposed to do?” “Supposed to do” here means expected to do.  
+
+Sarah says, “You can come with me, watch me try on clothes, and help me decide what to buy.” “To try on” clothes is a phras al verb meaning to put them on in the store to see if you want to buy them. Most s tores that sell clothing will allow you to put the clothing on to see if it looks good on you. When I do that, the clothes never look good on me. The idea is that if you can try them on, you will be more likely to buy them. Sarah is telling Aidan that she is going to go and try on clothes, and Aidan can watch her and help her de cide which clothes to buy.  
+
+“Come on,” she says, “I want to go to those stores in the strip mall over there.” The word “strip” (strip) can have a couple of diffe rent meanings in English. It can mean to take your clothes off. It can also refer to  a long narrow piece of some material. The term “strip mall” refers to a small s hopping center that is usually just one small strip of buildings, maybe four or fi ve buildings, or four or five stores in a single building all next to each other with a small parking lot out in front. So, a “strip mall” is a kind of shopping center that is  very small; often it just has five or six stores in it.  
+
+Aidan says, “Why don't I just find a place to get a  snack and wait for you?” A “snack” would be a small something to eat. He says,  “I’m just dead weight when it comes to shopping.” The term “dead weight” (weig ht) refers to someone or something that is making the situation more difficu lt because either the person or the thing doesn't really help very much, doesn't re ally add anything. In fact, it slows things down, perhaps. That would be “dead wei ght.” If you say “He was dead weight,” you mean he didn't help very much. It  was more of a burden to have him there than if he were not there. Aidan say s he's “dead weight when it comes to shopping,” meaning regarding or related to  shopping.  
+
+Sarah says, “But I thought you wanted to spend the day together.” Aidan says, “I did” – meaning I did want to spend the day together  – “but I didn't know I'd have to go to (a) shopping hell to do it.” A “shopping h ell” (hell) would be a terrible place to go. “Hell” is the opposite of “heaven.” In  certain religious traditions, especially in the Christian religious tradition, “h ell” is where you go if you don't go to heaven, or at least if you're not eventually goi ng to go to heaven. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed.   
+
+ [start of dialogue] 
+
+Sarah: Come on! We only have two more hours before the stores close, and I want to make it to the outlet stores.  
+
+Aidan: I thought that when you asked if I wanted to  spend the day together, you meant we’d go somewhere for lunch, go to a movie, o r just hang out. 
+
+Sarah: Isn’t this much more fun? Shopping centers a re like Disneyland! 
+
+Aidan: This wasn’t exactly what I had in mind. 
+
+Sara: Just look. You have two shopping malls, retai l stores, outlet stores, department stores, and specialty stores. What more could you want? 
+
+Aidan: That’s great for you, but what am I supposed  to do?  
+
+Sarah: You can come with me, watch me try on clothe s, and help me decide what to buy. Come on, I want to go to those stores in the strip mall over there. 
+
+Aidan: Why don’t I just find a place to get a snack  and wait for you? I’m just dead weight when it comes to shopping. 
+
+Sarah: But I thought you wanted to spend the day to gether. 
+
+Aidan: I did, but I didn’t know I’d have to go to s hopping hell to do it. 
+
+[end of dialogue] 
+
+When it comes to writing scripts, there is no one b etter than our own scriptwriter, Dr. Lucy Tse. From Los Angeles, California, I'm Jef f McQuillan. Thank you for listening. Come back and listen to us again right h ere on ESL Podcast. 
+

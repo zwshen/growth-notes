@@ -1,0 +1,110 @@
+# Working Without Supervision
+
+Welcome to English as a Second Language Podcast num ber 716: Working Without Supervision. 
+
+This is English as a Second Language Podcast episod e 716.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Visit our website at eslpod.com.  Download a Learni ng Guide for this episode by becoming a member of ESL Podcast and supporting our  efforts. 
+
+This episode is a dialogue between Veronica and Kyl e talked about working without someone watching you – without someone tell ing you what to do.  Let’s get started. 
+
+[start of dialogue] 
+
+Veronica:  Where’s Stan? 
+
+Kyle:  He’s not here.   
+
+Veronica:  When will he be back? 
+
+Kyle:  I’m not sure.  He hasn’t been here for a cou ple of days. 
+
+Veronica:  A couple of days?!  He’s supposed to be here overseeing the day-to- day operations.  You’re his second-in-command.  Whe re is he? 
+
+Kyle:  I honestly don’t know.  He’s been MIA since Tuesday. 
+
+Veronica:  I come all the way here to talk to him a bout budget overruns and I find that he’s been shirking his responsibilities, too.  I’ve a feeling he’s been phoning it in for a long time now.  So have you been coveri ng for him? 
+
+Kyle:  Me?  I’m just trying to do my job.  When Sta n isn’t here, I do my best to fill in.  But I’m not saying anything against Stan.   
+
+Veronica:  I appreciate your loyalty, but when push  comes to shove, you’ve got to look out for yourself, right? 
+
+Kyle:  Uh, I guess.  I’m not sure.  
+
+ Veronica:  Well, I do.  I need to look out for my b est interests and that’s making sure this place has proper supervision.  How would you like a promotion? 
+
+Kyle:  You mean you’re firing Stan and giving me hi s job? 
+
+Veronica:  Do you want the job or don’t you? 
+
+Kyle:  Can I talk to Stan first?  I don’t want him to think I’m a backstabber.   
+
+Veronica:  You can…if you can find him. 
+
+[end of dialogue] 
+
+Veronica begins by saying, “Where’s Stan?”  Stan is  one of the employees.  Kyle says, “He’s not here.”  Veronica says, “When will h e be back?”  When will he return?  Kyle says, “I’m not sure (I don’t really k now).  He hasn’t been here for a couple of days.”  Maybe two days or three days.   
+
+Veronica says, “A couple of days?!  He’s supposed t o be here overseeing the day-to-day operations.”  “To oversee” (oversee – on e word) means to monitor and supervise; to carefully watch how other people are doing their work, making sure that they are doing it correctly.  It’s what a  boss does, or a supervisor.  The “day-to-day operations” are the things that a busin ess does every day, repeatedly, or just the normal, regular things that  a business, an office, or a factory for example does in order to keep their bus iness going.  It doesn’t refer to long-term planning or coming up with a strategy for  the future.  Day-to-day operations are the things that are done on a daily basis or things that are a normal part of what the business does. 
+
+Veronica says to Kyle, “You’re his second-in-comman d.”  When we say someone is “second-in-command” we’re using a military phras e to refer to the person who is in charge – who is the leader when the normal le ader isn’t there, the person who is below the leader of a group or organization.   Veronica says to Kyle that he is the second-in-command; but, of course, Stan, who  hasn’t been there for a couple of days, is the leader.  “Where is he?”  Kyl e says, “I honestly don’t know,” meaning I really don’t know.  He’s using that word for emphasis.  “He’s been MIA since Tuesday.”  “MIA” is another military expressi on – there seems to be a lot of military expressions in the business world – meanin g missing in action.  It’s someone who, in a war, has not been found dead, is not a known prisoner, they’re just missing; we don’t know where they are.   They may be alive; they may  
+
+be dead.  In the business world, in more general co nversation, to say someone’s “MIA” means that they’re not there, they’re absent,  but we don’t know why. 
+
+Veronica says, “I come all the way here to talk to him about budget overruns and I find that he’s been shirking his responsibilities , too.”  So, Veronica went all the way, meaning she probably traveled from another off ice or another part of town, maybe even another city, in order to talk to Stan a bout budget overruns. “Budget” is a word to describe your plan of how you  are going to spend your money – how much money you will make in your busine ss, how much you will spend.  A “budget overrun” is when you spend more t han you planned, when you spend more than you expected to.  Veronica wanted t o talk to Stan about budget overruns, and instead she finds that Stan has been shirking his responsibilities. So not only is Stan spending too much money, he’s s hirking his responsibilities. “To shirk (shirk) your responsibilities” means not to do all the things you are supposed to do, not doing your duty.  “Duty” is ano ther word for responsibilities. So, “to shirk your duties” or “shirk your responsib ilities” is not to do them. Veronica says, “I have a feeling that Stan has been  phoning it in for a long time now.”  The expression “to phone it in” means to do something, especially something for work, but without giving it a lot of effort and attention, treating it as though it doesn’t really matter very much.  You cou ld say this, really, about any kind of job, or the performance of someone on their  job.  They’re doing their job, but they’re not doing it very well; they’re phoning  it in.  The idea is, of course, if you’re phoning something in you’re calling someone,  you’re not actually there doing what you should be doing; you’re doing it fro m a distance by simply picking up the telephone instead of going and doing somethi ng.  I guess that’s where it probably comes, but it means completing a task with  very little effort or attention. 
+
+Veronica says, “have you been covering for him (mea ning Stan)?”  “To cover for (someone)” means to do or say something to protect another person, to make sure the other person doesn’t get in trouble; you a re covering for them.  Kyle says, “Me?  I’m just trying to do my job.  When Sta n isn’t here, I do my best to fill in.”  “To fill in” here means to do the work of som eone else or to take someone else’s place in doing the work that they normally d o.  Kyle says, “But I’m not saying anything against Stan,” that is, I’m not cri ticizing Stan.   
+
+Veronica replies, “I appreciate (I thank you for) y our loyalty.”  “Loyalty” (loyalty) is supporting another person or another organization, supporting your family, being faithful to them, protecting them.  That’s loyalty.   Veronica says, “when push comes to shove, you’ve got to look out for yourself , right?”  “When push comes to shove” means under extreme circumstances, when ther e is a lot of pressure to do something.  The idea here is that yes, Kyle is l oyal and he’s protecting Stan,  
+
+but when the situation becomes more serious or more  critical then he has to look out for himself; he has to protect himself, not Sta n. 
+
+Kyle says, “Uh, I guess.  I’m not sure.”  He’s not sure he agrees with Veronica. Veronica says, “Well, I do.  I need to look out for  my best interests and that’s making sure that this place has proper supervision. ”  “To look out for your best interests” means to do what is best for you even if  it’s negative or has negative consequences for someone else.  Well, Veronica is t rying to look out for her own best interests; she’s the boss, so she’s responsibl e for what happens, and she needs to make sure that this office has proper or a ppropriate – correct – supervision.  “Supervision” is overseeing, monitori ng, and being responsible for a group of people.   
+
+Veronica says to Kyle, “How would you like a promot ion?”  A “promotion” is when you get an increase in responsibilities, an increas e in your duties at work; usually it means that you get paid more money.  So, you use d to be a salesperson, now you’re the director of sales; you get a promotion, now you are the boss. 
+
+Kyle says, “You mean you’re firing Stan and giving me his job?”  “To fire” here means to tell someone they are no longer working th ere, to tell someone they no longer have a job, to get rid of someone.  “Fire” h as a number of different meanings in English however; take a look at the Lea rning Guide for some additional explanations. 
+
+Veronica says, “Do you want the job or don’t you?”  He has to give her an answer right now.  Kyle says, “Can I talk to Stan first?  I don’t want him to think I’m a backstabber.”  “To stab (stab) someone in the back”  means to take a knife and put it in their back in order to kill them.  So, a “backstabber” is a person who, literally, stabs someone in the back.  However, we normally don’t mean someone who goes and kills someone else, we mean someone wh o says things about another person – bad things, negative things – with out that person knowing that you are saying it.  Usually you do this in order to  get some sort of benefit for yourself.  So you, for example, tell your boss that  the other person working in your department is lazy and doesn’t do his job.  Yo u, of course, want to get rid of that person so that you, perhaps, can get that pers on’s job.  That would be a backstabber, to do something behind someone’s back,  which is another way of saying without their knowledge – without them knowi ng. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Veronica:  Where’s Stan? 
+
+Kyle:  He’s not here.   
+
+Veronica:  When will he be back? 
+
+Kyle:  I’m not sure.  He hasn’t been here for a cou ple of days. 
+
+Veronica:  A couple of days?!  He’s supposed to be here overseeing the day-to- day operations.  You’re his second-in-command.  Whe re is he? 
+
+Kyle:  I honestly don’t know.  He’s been MIA since Tuesday. 
+
+Veronica:  I come all the way here to talk to him a bout budget overruns and I find that he’s been shirking his responsibilities, too.  I’ve a feeling he’s been phoning it in for a long time now.  So have you been coveri ng for him? 
+
+Kyle:  Me?  I’m just trying to do my job.  When Sta n isn’t here, I do my best to fill in.  But I’m not saying anything against Stan.   
+
+Veronica:  I appreciate your loyalty, but when push  comes to shove, you’ve got to look out for yourself, right? 
+
+Kyle:  Uh, I guess.  I’m not sure. 
+
+Veronica:  Well, I do.  I need to look out for my b est interests and that’s making sure this place has proper supervision.  How would you like a promotion? 
+
+Kyle:  You mean you’re firing Stan and giving me hi s job? 
+
+Veronica:  Do you want the job or don’t you? 
+
+Kyle:  Can I talk to Stan first?  I don’t want him to think I’m a backstabber.   
+
+Veronica:  You can…if you can find him. 
+
+[end of dialogue] 
+
+Our scriptwriter never shirks her responsibilities;  she’s always up to the job. That’s because it’s the wonderful Dr. Lucy Tse.  I think she needs a promotion, don’t you?   
+
+ From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

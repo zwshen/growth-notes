@@ -1,0 +1,90 @@
+# Rebuilding Consumer Trust
+
+Welcome to English as a Second Language Podcast num ber 932 – Rebuilding Consumer Trust.  
+
+This is English as a Second Language Podcast episod e 932. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Our website is ESLPod.com. Become a member of ESL P odcast by going to the website. After you do that, you can download the Le arning Guide for this episode.  
+
+This episode is a dialogue between Karen and Brando n about getting people who buy from your company to trust you again. Let’s  get started.  
+
+[start of dialogue] 
+
+Karen: The scandal over our new product line really  damaged our image, and we need to rebuild consumer trust. 
+
+Brandon: This is going to be an uphill battle. Losi ng customers is easy. Winning them back will be really hard. 
+
+Karen: I agree, but our stock is taking a beating a nd we need to do something now. 
+
+Brandon: Part of the problem was that the rumors ab out the new product heightened expectations and we just fell short of t he mark. We need to always remember to under promise and over deliver. 
+
+Karen: Yes, that was a big part of the problem, but  we also need to have more transparency. We can’t make major changes without f irst getting customer input and without notifying them well in advance. Otherwi se, our customers feel betrayed. 
+
+Brandon: All right, I think we have a place to begi n. Should I call a general meeting to talk specifics? 
+
+Karen: Sure, and while we’re at it, we can work on employee morale, too! 
+
+[end of dialogue]  
+
+ Our dialogue begins with Karen saying to Brandon, “ The scandal over our new product line really damaged our image, and we need to rebuild consumer trust.” A “scandal” (scandal) is some activity or behavior that causes people to be surprised or shocked. It's almost always considered  a bad thing. “To have a scandal” would be to have some sort of negative sit uation where someone has done something wrong or an organization has done so mething wrong. That's a scandal.  
+
+There was an old expression: “to give scandal.” “To  give scandal” is to do something wrong and have other people find out abou t it and thereby encourage them to do something wrong: “Well, maybe it's okay to misbehave,” and then they do. That's the idea of giving scandal. Nobody worries about that anymore, apparently, especially here in Hollywood.  
+
+Karen is talking about a scandal at their company, the company where Karen and Brandon work. The scandal relates to their new product line. A “product” is something you sell, usually something physical. The  other kind of thing a company would sell would be a “service” – they woul d do something for you. This is a “product line,” meaning it's a whole group of related products.  
+
+We're not sure what this scandal is, but Karen says  there was a scandal, and the scandal has “damaged” or hurt the company’s “image. ” Your “image” in this case means your reputation: how other people view you or  how other people see you – what other people think about you.  
+
+“We need to rebuild consumer trust,” Karen says. “T o rebuild” means to build again, to recreate, especially after something has been damaged or hurt. If you have an earthquake, like we have here in Los Angele s sometimes, and your house falls down, you will need to rebuild it – you  will need to put it up again. Or, you could move in instead with your mother-in-law, who lives in another city. Then you wouldn't have to rebuild your house, but y ou would have to live with your mother-in-law. Your “mother-in-law,” of course , would be the mother of your husband or wife. But here, we're not talking about rebuilding a house. We’re talking about rebuilding consumer trust.  
+
+“Consumers” are the people who buy your product or service – your “customers.” “Trust” is the good feelings and positive beliefs t hat people have about your company and your products. “To rebuild consumer tru st” would be to get people to trust you again, to like your company again, to want to buy your products again.  
+
+Brandon says, “This is going to be an uphill battle .” “Uphill” (uphill) means to go from the bottom of a hill to the top. “Uphill” is t he direction that you are going. The opposite of “uphill” would be “downhill.” That woul d mean going from the top of the hill to the bottom. We do that, for example, wh en we ski. We call it “downhill skiing” – to ski from the top of the mountain or th e hill to the bottom. Here, we’re talking about “uphill,” which is the opposite of “d ownhill.” A “battle” (battle) is a fight. So, an “uphill battle” would be a very diffi cult task, something that would be very difficult to do. Not only do you have to go up  the hill, but you also have to fight to get up the hill.  
+
+Brandon says, “Losing customers is easy. Winning th em back will be really hard.” It's easy to lose a customer; you can just make the m mad and they'll go away. To get them to come back again is, however, much more difficult. That is what Brandon is saying here. “To win someone back” means  to get them to come back – in this case, to your company to buy your product s.  
+
+Karen says, “I agree” – it will be difficult – “but  our stock is taking a beating and we need to do something now.” The expression “to ta ke (take) a beating (beating)” means to be defeated, or to be damaged o r hurt or injured. “To take a beating” would be to have a very negative experienc e in which you basically are losing whatever battle or whatever situation you ar e in. The “stock” of the company “is taking a beating,” according to Karen. The “stock” is the partial ownership that people have in your company.  
+
+Brandon says, “Part of the problem was that the rum ors about the new product heightened expectations and we just fell short of t he mark.” Brandon is talking about “rumors.” These are comments that people make , in this case about a product, either good or bad. A “rumor” can be any s ort of information that has not yet been confirmed, that is not yet official, but t hat people are talking about. “Rumors” can be either good or bad. It depends on t he situation.  
+
+Here, the rumors were about the new product, and th ey “heightened expectations.” “To heighten expectations” is to mak e someone believe that something will be really good, will be fantastic, w ill be better than they could've expected. That's “to heighten expectations.” “To fa ll short of the mark” (mark) is not to meet those expectations, not to do as well a s people thought you were going to do.  
+
+If you tell someone, “This is the best movie in the  world. You're going to love it,” that is heightening their expectations. Now they’re  thinking, “Wow. This is really going to be good.” Then they go see the movie – for  example, I don't know, Superman  – and they decide that it isn't a very good movie.  The movie “falls  
+
+short of the mark.” The movie does not impress you as much as you were expecting. You don't like it as much as you thought  you would. That's what happened here, according to Brandon. 
+
+He says, “We need to always remember to under promi se and over deliver.” “To under promise” means not to promise very much – to promise someone less, in fact, than what you are actually going to give them . “To over deliver” is the opposite idea. “To over deliver” is to give them mo re than what they were expecting. When you “under promise and over deliver ,” you tell your customer that you're not going to give them very much, so th ey don't have high expectations, but then you give them more than what  they expected, and that makes them even happier.  
+
+Karen agrees with Brandon. She says, “Yes, that was  a big part of the problem, but we also need to have more transparency.” “Trans parency” (transparency) refers to showing people how you are doing somethin g, or being honest with people – telling them exactly what is going on.  
+
+Karen says, “We can't make major changes without fi rst getting customer input and without notifying them well in advance.” “Input ” would be information, opinions, feedback – in this case, from your custom ers. “To notify someone” means to inform them, to tell them something, to gi ve them some news. “In advance” means before something happens. You can bu y your tickets in advance for the movie. You can go online; you can b uy the ticket before you even go to the movie theater.  
+
+Karen says they should not make changes in their pr oduct without first talking to their customers – “getting customer input” – and wi thout “notifying them” or telling them “well in advance,” before the changes take pla ce. “Otherwise,” Karen says, “our customers feel betrayed.” “To feel betrayed” ( betrayed) means to feel someone has treated you unfairly, someone has done something wrong to you. You feel hurt.  
+
+“Betrayal” is usually connected with trust. If you are dating someone and you find out that that person is also dating another person and didn't tell you that, well, that would be an example of a betrayal. You would f eel betrayed. You trusted that person and then they did something to hurt you . Brandon then asks, “Should I call a general meeting to talk specifics?” “To ta lk specifics” means to talk about something in great detail, to talk about all the pa rticular things, the individual things, you are going to do to help solve a problem .  
+
+Karen says, “Sure, and while we’re at it, we can wo rk on employee morale, too!” “While we’re at it,” means while we are doing this other thing, we can also do something else. For example, “We’re planning to cle an our house on Saturday. While we’re at it, I also plan on cleaning the gara ge.” We’re going to do two things here – one thing and then another thing. “Wh ile we’re at it” means to do two things at the same time, or in the process of d oing one thing, you're also going to do something else.  
+
+Karen is talking about improving “employee morale.”  “Morale” (morale) is how people feel about something, especially how excited  or motivated they are to accomplish some task. “Employee morale” would be ho w your employees feel: Do they like what they're doing? Are they excited a bout what they're doing? Do they want to do what they are doing? 
+
+Now let's listen to the dialogue, this time at a na tive speed.  
+
+[start of dialogue] 
+
+Karen: The scandal over our new product line really  damaged our image, and we need to rebuild consumer trust. 
+
+Brandon: This is going to be an uphill battle. Losi ng customers is easy. Winning them back will be really hard. 
+
+Karen: I agree, but our stock is taking a beating a nd we need to do something now. 
+
+Brandon: Part of the problem was that the rumors ab out the new product heightened expectations and we just fell short of t he mark. We need to always remember to under promise and over deliver. 
+
+Karen: Yes, that was a big part of the problem, but  we also need to have more transparency. We can’t make major changes without f irst getting customer input and without notifying them well in advance. Otherwi se, our customers feel betrayed. 
+
+Brandon: All right, I think we have a place to begi n. Should I call a general meeting to talk specifics? 
+
+Karen: Sure, and while we’re at it, we can work on employee morale, too! 
+
+[end of dialogue]  
+
+ Her scripts never fall short of the mark. I speak, of course, of our wonderful scriptwriter, Dr. Lucy Tse. 
+

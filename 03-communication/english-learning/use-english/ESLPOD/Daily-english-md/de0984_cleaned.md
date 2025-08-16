@@ -1,0 +1,96 @@
+# Competing in Business
+
+Welcome to English as a Second Language Podcast num ber 984 – Competing in Business.  
+
+This is English as a Second Language Podcast episod e 984. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to our website at ESLPod.com and take a look at our ESL Podcast Store, where we have some additional courses in Business a nd Daily English. 
+
+This episode is a dialogue between Yoko and Cedric about competition – trying to be the best company, the most successful company , in your area. Let’s get started.  
+
+[start of dialogue] 
+
+Yoko: We used to be the only game in town. Now we h ave three competitors and they are luring away our customers. 
+
+Cedric: I know. We need to do something before we g o under. What about price matching? 
+
+Yoko: Our prices are already competitive. If we wan t to focus on price, we’ll need to undercut our competitors. 
+
+Cedric: Slashing prices would be really hard on our  profit margin, but these are desperate times. What do you think of a two-for-one  deal? We could offer it for a limited time. 
+
+Yoko: We can do that if lowering our prices doesn’t  work. I’m thinking we could go in another direction. What do you think about of fering freebies or gifts with purchase? 
+
+Cedric: I think that’s a good idea. The more frills  we include, the better our services look. What kind of frills? 
+
+Yoko: I’m not sure, but the more bells and whistles  the better.  
+
+Cedric: And if all of this doesn’t work? 
+
+Yoko: Then we’ll be up the creek without a paddle! 
+
+[end of dialogue] 
+
+Yoko begins by saying to Cedric, “We used to be the  only game in town.” The expression “the only game (game) in town” means the  only person or only organization involved in this particular business o r in this particular field. “To be the only game in town” is not to have any competiti on. You’re the only company that is doing what you are doing. Yoko says that is  no longer true for her company.  
+
+She says, “Now we have three competitors and they a re luring away our customers.” A “competitor” (competitor) is someone who competes with you. “To compete” is to try to beat someone at something, to  be better than someone else. A competitor is a person or a company that do es what you do, and tries to do it better than you do. So, if you’re buying a ca r in the United States, you could buy a Ford or a Chevy or a Toyota or a Mazda – all of those companies are competitors. They’re all trying to do the same thin g, which is to sell cars. 
+
+Yoko says that her competitors are “luring away” cu stomers. “To lure (lure) away” is a phrasal verb meaning to attract someone away f rom another person or another business. You can lure someone away by offe ring them something better, or perhaps the same thing but cheaper. Cedr ic says, “I know. We need to do something before we go under.” “To go under” is a phrasal verb meaning to go out of business - “to go broke,” we could also s ay – to no longer have the money to continue. It is especially used when talki ng about a business.  
+
+Cedric says, “What about price matching? Cedric is proposing that their company lower their price, or offer the same price for the product or service they’re selling as their competitors have. That’s what “price match ing” is. Yoko says, “Our prices are already competitive.” “To be competitive” is to  have similar qualities or characteristics of other companies or other options . When someone says, “We are competitive,” he means they have the same price s or similar prices, in this case, as other companies.  
+
+Yoko is saying that that isn’t really a good soluti on because their prices are already pretty competitive, pretty similar to the o ther companies. Yoko says, “If we want to focus on price, we’ll need to undercut o ur competitors.” “To undercut” (undercut) is to sell something at a lower price. S o, if you undercut your competitors, you sell what you are selling at a low er or much lower price.  
+
+Cedric says, “Slashing prices would be really hard on our profit margin, but these are desperate times.” “To slash (slash) prices” is to lower or reduce or cut prices. “Profit” (profit) is how much your company makes. I t’s the difference between the money you take in and the money you have to pay out  for your expenses. Your “profit margin” (margin) is basically the amount of  money, sometimes expressed as a percentage of money, that you make in your bus iness.  
+
+So, if you have a ten percent profit margin, you ar e making or bringing in ten percent more than you are paying out. You are takin g more money from your customers than you are spending to make your produc t and run your business. If you slash your prices, you may reduce or lower your  profit margin. That’s what Cedric means when he says that “slashing prices wou ld be really hard on our profit margin,” meaning it would lower our profit m argin.  
+
+However, Cedric also says, “These are desperate tim es.” “Desperate times” refers to a situation where things are going badly quickly, and you need to do something quickly in order to save the situation – in this case, in order to prevent your company from going under. Desperate times are difficult times, challenging times.  
+
+Cedric says, “What do you think of a two-for-one de al?” “Two-for-one” means you get two of something for the normal price of one of  something. So, if you are buying some pumpkin pies – and by the way, that’s m y favorite kind of pie, in case you are looking for something to buy me for my  birthday – you may be able to find some stores selling the pumpkin pies at a “ two-for-one deal,” or a two-for- one price. That means you would get two pies for th e price that you would normally pay for one. That’s what Cedric is proposi ng here, is suggesting here.  
+
+He says, “We could offer it for a limited time.” “F or a limited time” means only temporarily, not forever. It’s a very good strategy , when selling, to put some sort of time limit on the price that you are selling som ething for. It motivates people. It gives people a reason to buy right now. If you don’ t don’t give people a reason to buy right now, they’ll say, “Oh, well maybe I’ll bu y it in the future,” and then they never actually buy it. That’s one of the things tha t good marketing does, is to motivate the buyer to buy the product. That’s part of what Cedric is saying here. He’s thinking of offering this two-for-one deal for  a limited time. 
+
+Yoko says, “We can do that if lowering our prices d oesn’t work.” Yoko wants to start by lowering the price, and then if that doesn ’t help, they can try this two-for- one deal. Yoko says, “I’m thinking we could go in a nother direction,” meaning we could do something different. “What do you think ab out offering freebies or gifts  
+
+with purchase?” A “freebie” (freebie) is, you may a lready have guessed, something you get for free. Some stores give away s amples of their products.  
+
+If you go to the grocery store in the United States , sometimes the store will give you a cracker or a piece of cheese. That’s a freebi e. You don’t have to pay anything for it. Of course, they’re doing that to g et you to try the product so that eventually you will buy some. “Gift with purchase” is when you get something extra when you buy a certain product. So, a woman w ho goes to a store to buy some makeup – things to make her face look beautifu l – the store may offer her a gift with purchase. If she buys this 50 dollar pack age of makeup, they will give her a two-dollar lipstick. Or ten-dollar lipstick. I don’t know how much lipsticks cost. I don’t buy lipstick. Not anymore.  
+
+Technically, a “gift” is something that someone giv es you without you having to pay for it or give anything in return. So, “gift wi th purchase” doesn’t really make a lot of sense, because you are actually having to bu y something. It’s really just another way of lowering the price of the thing you are buying. There’s also a very popular expression in advertising in English: “free  gift.” Once again, gifts are free by definition. If you had to pay for the gift, it w ouldn’t be a gift. But that’s just something that advertisers do to emphasize that it is free.  
+
+Cedric says, “I think that’s a good idea. The more frills we include, the better our services look.” A “frill” (frill) is something addi tional that’s nice to have, but isn’t necessary. If you stay in a hotel, it’s necessary f or you to have a bed and a room and a bathroom. It’s not necessary for you to have a spa or a swimming pool or a restaurant or a lot of other things that many hotel s have. Those extra things are called “frills.” That’s what Cedric is referring to .  
+
+Yoko says, “I’m not sure” after Cedric asks, “What kind of frills?” Yoko says, “The more bells and whistles the better.” “The more” her e means the more that we have. The phrase “bells and whistles” is an old one  to refer to the same basic idea as frill – additional items that make somethin g more interesting or more exciting, but aren’t really necessary.  
+
+We often use this term when talking nowadays about technology. You can buy a phone that makes a phone call, or you could buy a p hone that makes a phone call and Sends email and allows you to check the In ternet, and so forth. Those extra things would be “bells and whistles.” They’re  not, strictly speaking, necessary for a phone, but people like to buy phone s that have those bells and whistles, those additional features.  
+
+Cedric says, “And if all of this doesn’t work?” mea ning what happens if we try all of these things and we still don’t make money. Yoko  answers, “Then it we’ll be up the creek without a paddle!” “To be up a creek (cre ek) without a paddle (paddle)” means to be in a very difficult situation, a situat ion that is going to be very difficult to get out of. A “creek” is a small river. A “paddl e” is something you use to move a boat in the water just with your arms and hands. You use a paddle with small boats, typically. The whole expression taken togeth er, however, means to be in a difficult or challenging situation.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Yoko: We used to be the only game in town. Now we h ave three competitors and they are luring away our customers. 
+
+Cedric: I know. We need to do something before we g o under. What about price matching? 
+
+Yoko: Our prices are already competitive. If we wan t to focus on price, we’ll need to undercut our competitors. 
+
+Cedric: Slashing prices would be really hard on our  profit margin, but these are desperate times. What do you think of a two-for-one  deal? We could offer it for a limited time. 
+
+Yoko: We can do that if lowering our prices doesn’t  work. I’m thinking we could go in another direction. What do you think about of fering freebies or gifts with purchase? 
+
+Cedric: I think that’s a good idea. The more frills  we include, the better our services look. What kind of frills? 
+
+Yoko: I’m not sure, but the more bells and whistles  the better.  
+
+Cedric: And if all of this doesn’t work? 
+
+Yoko: Then we’ll be up the creek without a paddle! 
+
+[end of dialogue] 
+
+ Our scripts are full of bells and whistles thanks t o our wonderful scriptwriter, Dr. Lucy Tse. 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. Come back and listen to us again right here on ESL Podca st. 
+

@@ -1,0 +1,82 @@
+# Vacationing on an Island
+
+Welcome to English as a Second Language Podcast num ber 671: Vacationing on an Island.   
+
+This is English as a Second Language Podcast episod e 671.  I am your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful – and I do mean beautiful – Los Angeles, California. 
+
+Oh, I should mention that our website is eslpod.com , and you can download a Learning Guide to this episode on the website. 
+
+This is an episode called “Vacationing on an Island ,” let’s get started. 
+
+[start of dialogue] 
+
+Mohsen:  I need to get off this island.  I’m gettin g island fever. 
+
+Ella:  We’ve only been here two days.  Give it a ch ance.  We’re here to enjoy a slower pace of life, remember? 
+
+Mohsen:  When you said we were going on an island v acation, I didn’t know we’d be so isolated.  There isn’t a living soul within f ive miles! 
+
+Ella:  This isn’t isolated; it’s secluded.  We have  privacy and serenity.  Isn’t that what we wanted? 
+
+Mohsen:  I wanted a vacation with all of the creatu re comforts. 
+
+Ella:  That’s what we have, don’t you think?  We’re  staying in a very nice house. 
+
+Mohsen:  Yes, but what about the creature comforts?   I have no Internet access and no cell phone service.  This is what I call rou ghing it.   
+
+Ella:  We agreed that we both needed a little time away to unwind.  The whole point of this vacation is for us to relax. 
+
+Mohsen:  I’m cut off from civilization and I have n o access to email and my favorite websites.  What could be more stressful th an this?! 
+
+[end of dialogue] 
+
+We begin our dialogue with Mohsen saying to Ella, “ I need to get off this island.” “To get off,” here, means to leave.  Mohsen needs t o get off this island.  An “island,” of course, is an area of land completely surrounded by water.  Great Britain – at least England, Scotland, and Wales – i s an island.  Ireland is an island.  Hawaii is a state with a number of differe nt islands.  Mohsen says he’s getting island fever.  A “fever” (fever) is normall y when your body has a very high temperature, too high because you are sick.  Here, however, it means feeling anxious when you cannot move around freely; because  of where you are, you feel as though you are trapped.  You can’t move and  travel the way you want to because you’re on an island, and you can only go so  far and then there’s the water.  So, “island fever” is this idea that you ne ed to leave this place because you feel that you are limited somehow.  Now, we hav e the same idea when we are talking about people not on islands, we call th at “cabin (cabin) fever.”  “Cabin fever” is when you are in a place and perhaps becau se of the weather or some other reason you can’t leave and you want to, and s o you start getting very anxious about it.  You start getting uncomfortable.   A “cabin” is like a small, little house that would be outside of the city near a lake  or in the mountains. 
+
+Ella says, “We’ve only been here for two days.  Giv e it a chance,” meaning even if it’s bad right now, wait a little longer.  “Give  it time,” we might also say.  “Give it a chance.  We’re here to enjoy a slower pace of lif e, remember?”  The “pace (pace) of life” is like the speed that things are d one in a particular culture or in a particular situation.  To have a slow pace of life means to be very relaxed; you don’t hurry around.  Or, a certain culture – a cert ain area has a different pace of life.  The pace of life in New York City – in Manha ttan – is very different than the pace of life on a farm in Minnesota, very different  speeds that things happen. 
+
+Well, Ella and Mohsen are on this island to relax, but Mohsen says, “When you said we were going on an island vacation, I didn’t know we’d be so isolated.”  “To be isolated” means to be far away from other people ; it may also mean you don’t have communication with other people because you ar e so far away from them. Mohsen says, “There isn’t a living soul within five  miles!”  The expression “a living soul” (soul) just means a human being.  In many phi losophies and religions, the human being has a physical body but also has a spir itual soul, sort of your being that is not physical, what is not physical that is part of you that makes who you are.  That’s the idea.  So, a “living soul” would b e another human being, and Mohsen says there is not a living soul within five miles, meaning you could travel five miles from where you are now and you would not  see another person. 
+
+Ella says, “This isn’t isolated; it’s secluded.”  “ Secluded” (secluded) is something that is being used by a very few number of people, without other people near them.  It’s really the same phenomenon – the same s ituation as “isolated,” but it’s  
+
+a positive thing usually.  “We’re going to a seclud ed beach,” we’re going to a beach that has very few people, that very few peopl e perhaps even know about. So it’s a positive thing, whereas “isolated” is a n egative thing. 
+
+Okay, so Mohsen is not very happy.  Ella’s trying t o make him happier by saying that it’s not isolated; it’s secluded.  “We have pr ivacy and serenity.”  “Privacy” is the ability to keep things secret, to not have othe r people around you in this situation.  “Serenity” is calmness; we might also s ay “tranquility.”  It’s a feeling of peace and relaxation – “serenity” (serenity).  Ella  then asks, “Isn’t that what we wanted (isn’t that what we wanted for our relaxing vacation)?”  Mohsen says, “I wanted a vacation with all of the creature comforts .”  “Creature (creature) comforts (comforts)” are things that are not necess ary to live but make you feel relaxed, things that help you.  Having a hot shower , having good food, these are creature comforts; they’re things that make you com fortable, things that make you feel better, feel good.  Ella says, “That’s wha t we have, don’t we?” meaning we have creature comforts here.  “We’re staying in a very nice house.”  I should also mention that the word “creature” is often used  for a living being, not just human beings; in fact, usually it refers to animals : “Get that creature out of my house!  You know I don’t want dogs in here.”  The d og is the creature.  It has sort of a negative meaning about it when referring to an imals – not always, but sometimes.  When I use it, it always does! 
+
+Ella says that they’re staying in a nice house, and  Mohsen says, “Yes, but what about the creature comforts?  I have no Internet ac cess and no cell phone service.”  “Internet access” is, of course, the abi lity to go online to find information, to read your emails, and so forth.  “C ell phone” is the same as “mobile phone” or “cellular phone.”  It’s a phone t hat you can carry with you. “Service” means that you are able to use the phone,  that you have the ability to send the electronic signals to the telephone compan y so that you can talk to people.  If you are out in a very isolated area the  telephone company may not have service there.  That is, you may not be able t o use their phone in that area. Mohsen says, “This is what I call roughing it.”  Th e expression “to rough (rough) it” means to go camping or spend time outdoors with out the nice things you have at home.  “To rough it” could mean to live without technology that you are used to: no television, no cell phones, no iPods or iPad s or i-whatever.  That’s to rough it. 
+
+Mohsen thinks that he is roughing it; he thinks tha t this is very uncomfortable. Ella says, “We agreed that we both needed a little time away to unwind.”  “Away” here simply means at a distance from where they nor mally live and work.  “To unwind” (unwind) means to relax and become calmer, especially after a period of time where you are very stressed.  So you come home  from work, you’ve had a  
+
+difficult day, you sit down in front of the televis ion, you get a glass of wine or a bottle of beer or something else, and you unwind – you relax.  You watch the Dodgers on television, the local baseball station, or you watch some other program, or you read, whatever; all of this is part  of unwinding.  Ella says, “The whole point of this vacation is for us to relax.”  “The whole point” means the main idea or objective, the most important reason why we  are doing something; it’s a very common expression.  “The whole point of going to a restaurant is not having to cook and clean,” that’s one example. 
+
+Mohsen says, “I’m cut off from civilization and I h ave no access to email and my favorite websites.”  “To be cut off from (something )” means to be separated from something.  “Civilization” here just means the mode rn world, where you have technology and creature comforts.  Mohsen thinks th at he’s cut off; he’s separated from civilization because he doesn’t have  email and Internet access. He then says, “What could be more stressful than th is?!”  “To be stressful” means that you are worried, you are anxious, you feel lik e you have many things to do and not very much time to do them in.  I feel this way all time; I guess I need a vacation on an island! 
+
+Now let’s listen to the dialogue, this time at a no rmal rate of speech. 
+
+[start of dialogue] 
+
+Mohsen:  I need to get off this island.  I’m gettin g island fever. 
+
+Ella:  We’ve only been here two days.  Give it a ch ance.  We’re here to enjoy a slower pace of life, remember? 
+
+Mohsen:  When you said we were going on an island v acation, I didn’t know we’d be so isolated.  There isn’t a living soul within f ive miles! 
+
+Ella:  This isn’t isolated; it’s secluded.  We have  privacy and serenity.  Isn’t that what we wanted? 
+
+Mohsen:  I wanted a vacation with all of the creatu re comforts. 
+
+Ella:  That’s what we have, don’t you think?  We’re  staying in a very nice house. 
+
+Mohsen:  Yes, but what about the creature comforts?   I have no Internet access and no cell phone service.  This is what I call rou ghing it.   
+
+Ella:  We agreed that we both needed a little time away to unwind.  The whole point of this vacation is for us to relax. 
+
+Mohsen:  I’m cut off from civilization and I have n o access to email and my favorite websites.  What could be more stressful th an this?! 
+
+[end of dialogue] 
+
+The whole point of this part of the podcast is to t hank our scriptwriter, Dr. Lucy Tse, and everyone else that helps make ESL Podcast possible.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

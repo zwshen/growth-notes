@@ -1,0 +1,108 @@
+# Different Political Philosophies
+
+Welcome to English as a Second Language Podcast num ber 783: Different Political Philosophies. 
+
+This is English as a Second Language Podcast episod e 783.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  Where else? 
+
+Our website is eslpod.com.  Go there and take a loo k at the ESL Podcast Store, as well as our ESL Podcast Blog.  You can also beco me a member of ESL Podcast, and get our ESL Podcast Learning Guide.  W ow!  All of those things on our website. 
+
+This episode is a dialogue between Carla and Adam t alking about everyone’s favorite subject, politics.  Let’s get started. 
+
+[start of dialogue] 
+
+Carla:  Our government should do more to help peopl e who can’t find jobs. 
+
+Adam:  Be careful.  You’re starting to sound like a  socialist.  Haven’t you always said that you’re a staunch capitalist? 
+
+Carla:  Of course, I’m a capitalist, but that doesn ’t mean I think the government should be completely hands-off.  We pay taxes and t he government has a responsibility to take care of its citizens. 
+
+Adam:  Ooo, now you’re sounding like a communist.  Next thing I know, you’ll be calling for a revolution. 
+
+Carla:  I’m serious.  I think the government should  help people find jobs and pay for their living expenses until they get back on th eir feet. 
+
+Adam:  Okay, but in a capitalistic society, you’re subject to market forces.  If people aren’t buying, businesses aren’t producing o r providing services.  That puts people out of work.  Do you think the governme nt should intervene? 
+
+Carla:  I just think the government should do more,  that’s all. 
+
+Adam:  Okay, but that would mean higher taxes. 
+
+Carla:  Yes, we should tax the rich, the more the b etter. 
+
+Adam:  Aren’t you among the top 10 percent of incom e earners? 
+
+Carla:  I mean they should tax the one percent! 
+
+Adam:  Pass the buck, you mean. 
+
+Carla:  No, I mean we need better distribution of w ealth.  Are you with me or against me? 
+
+Adam:  That depends on when you’re planning to star t the revolution, comrade.   
+
+[end of dialogue] 
+
+Carla begins our dialogue by saying to Adam, “Our g overnment should do more to help people who can’t find jobs (who can’t find work).”  Adam says, “Be careful.  You’re starting to sound like a socialist .”  A “socialist” is someone who believes in “socialism,” the political philosophy t hat the government should own and run a large number of the businesses in a socie ty, or should basically be in charge of the economy to a greater extent.  A “capi talist” would be someone who believed that the businesses should be owned by ind ividuals and not be interfered with by the government.  Those, of cours e, are very broad differences, but I think you get the idea. 
+
+Adam says, “Haven’t you always said that you’re a s taunch capitalist?”  He’s asking Carla.  Carla says, “Of course, I’m a capita list, but that doesn’t mean I think the government should be completely hands-off .”  “To be hands-off” means not to be involved.  Carla is saying the government  should be involved in the economy somehow, in this case to help people who do n’t have jobs.  Carla says, “We pay taxes and the government has a responsibili ty to take care of its citizens.”  “Taxes,” you probably know, is money th at you pay to the government, either when you buy something or when you make mone y at your job.  Carla says, “the government has a responsibility to take care of (to watch over) its citizens.”  “Citizens” are people who belong to a c ertain country.  I’m a citizen of the United States; I have a United States passport.  
+
+Well, Adam says, “Ooo, now you’re sounding like a c ommunist.”  A “communist” would be a person who believes the government shoul d basically run the entire economy, that everything should be in the hands of the government.  A socialist would not want the government to own all of the mea ns of production; they would not want the government to control everything.  A c ommunist, however, would  
+
+want the government to be in charge of the entire e conomy.  Once again, I know that’s not a perfect description, but it’s the gene ral idea when we’re talking about the economic aspects of these different philosophie s.   
+
+Adam says, “Next thing I know, you’ll be calling fo r a revolution.”  The expression “next thing I know” is used to predict what might h appen in the future, but usually when we say this you’re kind of joking, you’re bein g sarcastic.  “Next thing I know, you’ll be calling for a revolution.”  Adam do esn’t really think Carla will be calling for or asking for or demanding a revolution .  A “revolution” is when, usually, you take over the government in order to c hange the government, often by using violence. 
+
+But Carla doesn’t want to joke the way Adam does.  She says, “I’m serious.  I think the government should help people find jobs a nd pay for their living expenses until they get back on their feet.”  “To g et back on your feet” means to become independent again, especially when we are ta lking about money, you are able to pay your own rent and buy your own food .  We use this expression when someone has had some problems, some difficulti es.  Maybe they can’t afford to buy food or can’t pay their rent, so some one else helps them until they get back on their feet, until they can be independe nt again.  That could also happen if you are injured physically. 
+
+Adam says, “Okay, but in a capitalistic society, yo u’re subject to market forces.” “To be subject to (something)” means to be influenc ed or controlled by something.  The “market” refers to people buying an d selling things, in general. “Market forces” would be a general description of t he buying and the selling, what we would call “the laws of supply and demand,” wher e prices are determined by how much people want something and how much of that  something there is. Adam says, “If people aren’t buying (people aren’t purchasing), businesses aren’t producing or providing services.  That puts people out of work.”  “To put (someone) out of work” means to make people lose th eir job, to do something that causes people to lose their job.  Adam says, “ Do you think the government should intervene?”  “To intervene” (intervene) mean s to become involved in something, usually to try to change that something,  to change the results.  So, if the government intervenes in the economy, they do s omething to change the way the economy is working. 
+
+Carla says, “I just think the government should do more, that’s all.”  She doesn’t have a specific idea; she just thinks the governmen t should do something.  Adam says, “Okay, but that would mean higher taxes,” mea ning if the government got involved people would have to pay more money to the  government.  Carla says, “Yes, we should tax the rich, the more the better.”   We should make rich people  
+
+pay more money – pay more taxes.  She says, “the mo re the better,” meaning the more money they pay the better things will be. 
+
+Adam says, “Aren’t you among the top 10 percent of income earners?”  “Income” is money that you receive from either working or fr om investing your money. “Earners” are people who work and get paid for thei r work.  So, it’s a little redundant, you could just say “earners,” but Adam s ays “income earners.”  He’s saying that Carla is in the top 10 percent of peopl e in the country in terms of how much money she makes.  So she’s pretty, or fairly r ich. 
+
+Carla says, “I mean the government should tax the o ne percent!”  She’s saying no, no, they shouldn’t tax me, but they should tax people who have more money than I do, not the top 10 percent, but the top 1 pe rcent.  Adam says, “Pass the buck, you mean.”  The phrase “to pass the buck” (bu ck) means to try to make someone else responsible for your actions, especial ly if you do something wrong, to try to blame someone else.  Here, I think, Adam means more generally to have other people pay for the things that you want. 
+
+Carla says, “No, I mean we need better distribution  of wealth.”  “To distribute” means to give things to different people.  “Wealth”  is, in this case, money.  So, the “distribution of wealth” is who has the money i n a certain society, in a certain country.  There’s another expression, “redistributi on of wealth,” which means taking money from some people, usually rich people,  and giving it to people who have less money.  Carla says, “Are you with me or a gainst me?”  “To be with (someone)” here would mean to agree with them, to s upport their position.  “To be against (someone)” would be to disagree.  Carla is asking whether Adam agrees or disagrees with her, whether Adam will sup port her or not.  “Are you with me or against me?” 
+
+Adam, again making a joke, says, “That depends on w hen you’re planning to start the revolution, comrade.”  “Comrade” (comrade ) means friend, but it was used traditionally to talk to fellow citizens in a communist country – in a communist society.  So once again, Adam is saying t hat Carla is like a communist because she wants the government to raise  taxes on the rich to help the poor.   
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Carla:  Our government should do more to help peopl e who can’t find jobs. 
+
+Adam:  Be careful.  You’re starting to sound like a  socialist.  Haven’t you always said that you’re a staunch capitalist? 
+
+Carla:  Of course, I’m a capitalist, but that doesn ’t mean I think the government should be completely hands-off.  We pay taxes and t he government has a responsibility to take care of its citizens. 
+
+Adam:  Ooo, now you’re sounding like a communist.  Next thing I know, you’ll be calling for a revolution. 
+
+Carla:  I’m serious.  I think the government should  help people find jobs and pay for their living expenses until they get back on th eir feet. 
+
+Adam:  Okay, but in a capitalistic society, you’re subject to market forces.  If people aren’t buying, businesses aren’t producing o r providing services.  That puts people out of work.  Do you think the governme nt should intervene? 
+
+Carla:  I just think the government should do more,  that’s all. 
+
+Adam:  Okay, but that would mean higher taxes. 
+
+Carla:  Yes, we should tax the rich, the more the b etter. 
+
+Adam:  Aren’t you among the top 10 percent of incom e earners? 
+
+Carla:  I mean they should tax the one percent! 
+
+Adam:  Pass the buck, you mean. 
+
+Carla:  No, I mean we need better distribution of w ealth.  Are you with me or against me? 
+
+Adam:  That depends on when you’re planning to star t the revolution, comrade.   
+
+[end of dialogue] 
+
+If you ask me if I’m with our scriptwriter or again st her, I would definitely say I’m with her!   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+ English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2012 by the  Center for Educational Development.
+

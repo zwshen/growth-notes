@@ -1,0 +1,94 @@
+# Starting a New Workweek
+
+Welcome to English as a Second Language Podcast num ber 700: Starting a New Workweek. 
+
+This is English as a Second Language Podcast episod e 700.  I’m your host, Dr. Jeff McQuillan, coming to you, as we have for the l ast 699 episodes, from the Center for Educational Development in beautiful Los  Angeles, California. 
+
+Our website is eslpod.com.  Download a Learning Gui de for this episode, and help support ESL Podcast by becoming a member.  Mor e information is on our website. 
+
+This episode is called “Starting a New Workweek.”  It’s a dialogue between Naomi and Aaron.  Let’s get started. 
+
+[start of dialogue] 
+
+Naomi:  Wow, you look like you had a rough weekend.   A little too much partying, huh? 
+
+Aaron:  You said it.  I’m planning to ease into the  new workweek.  I need time to chill and to recover.  Could you take a meeting thi s morning with our new client?   
+
+Naomi:  What will you do? 
+
+Aaron:  I’ll be sitting here waiting for hump day.  The weekend can’t come soon enough! 
+
+Naomi:  It’s Monday and you’re already looking forw ard to next weekend?   
+
+Aaron:  You got it. 
+
+Naomi:  And you want to slack off, while I take on the lion’s share of your work. Is that what you’re saying? 
+
+Aaron:  Just this once.  I’ll return the favor the next time you have a rough weekend. 
+
+Naomi:  What are you planning for next weekend? 
+
+Aaron:  Why do you ask?  
+
+ Naomi:  I want to know how long I’ll have to wait f or a chance to sit back and watch you work! 
+
+[end of dialogue] 
+
+Naomi begins by saying to Aaron, “Wow, you look lik e you had a rough weekend.”  “Rough” (rough) here means difficult, or  not easy.  There are some other meanings of “rough,” which can be found in th e Learning Guide for this episode.  Naomi says Aaron had a rough weekend.  Th e “weekend” is typically Saturday and Sunday.  Some people will talk about a  “three-day weekend,” that’s usually Saturday, Sunday, and Monday, when you don’ t have to work for a holiday.  Normally, the weekend is Saturday and Sun day, with some people including Friday night. 
+
+Naomi says, “A little too much partying, huh?”  The  “huh” – (huh) is how it is generally spelled – is a noise that you may make at  the end of a statement to make it into a question; it’s an informal way of ma king something into a question. Naomi says, “A little too much partying.”  “To part y,” as a verb, means to go to exciting parties, to spend a lot of time with other  people, usually drinking a lot of alcohol and such. 
+
+Aaron says, “You said it.”  The phrase “you said it ” means you are exactly correct, or what you just said is right, or I agree  completely with what you said. You might say, “English can be so confusing,” and y our friend would say, “You said it,” meaning that’s right, that’s correct.  It ’s not confusing, of course; that’s why you have ESL Podcast! 
+
+Aaron says, “I’m planning to ease into the new work week.”  “To ease (ease) into (something)” means to begins something slowly, grad ually, not try to do everything at full energy or using all of your ener gy to begin to do something. You’re going to start slowly, easily; that’s to eas e into something.  A “workweek,” which is the word “work” plus the word “week” made into a single word, is the days of the week you have to work, typically Monday  through Friday – Monday, Tuesday, Wednesday, Thursday, and Friday.  That’s f or most people their workweek. 
+
+Aaron says, “I need time to chill and recover.”  “T o chill” as a verb here means to relax, not to do or think about anything serious or  important.  It’s an informal verb, or informal way of using this verb to mean relax.  “I need time to chill.” Sometimes if you are very excited and someone wants  you to calm down, they might use this as a command: “Hey, chill!” meaning take it easy; again, very  
+
+informally.  Aaron says he needs time to chill and to “recover,” to get better from the weekend so he feels better.  He says, “Could yo u take a meeting this morning with our new client?”  “To take a meeting” means to go to a group of people who are sitting down and talking to each oth er about something, to go to a meeting – to take a meeting.  Aaron wants Naomi t o take a meeting with their new “client,” their new customer.   
+
+Naomi says, “What will you do?”  Aaron says, “I’ll be sitting here waiting for hump day.”  “Hump day” is Wednesday, the middle of the w eek.  The idea is that during the first part of the week you’re going up a hill, or a hump, and the second part of the week you’re going down.  A “hump” is something you would find on a camel for example, the animal that survives in the desert .  So, “hump day” is Wednesday.  Aaron is basically saying he’s not goin g to do any work or very much work.  Aaron says, “The weekend can’t come soo n enough!”  The expression “can’t come soon enough” means that you are very eager for something to happen, you are looking forward to som ething, you hope that it happens soon, or that time will go by quickly so th at this thing can happen. Aaron is someone who doesn’t want to work, and is j ust waiting for the workweek to end so he can continue partying on the weekend. 
+
+Naomi says, “It’s Monday and you’re already looking  forward to next weekend?” Aaron says, “You got it.”  “You got it” means that you are correct, you are 100 percent correct.  It’s similar to “you said it,” al though we usually use the phrase “you said it” when we are complaining about somethi ng or talking about the negative aspects of something.  “You got it” could be used in probably more situations than “you said it.”  Here, Aaron says, “ You got it,” meaning that’s correct, that’s exactly right. 
+
+Naomi says, “And you want to slack off.”  “To slack  (slack) off” is a two-word phrasal verb meaning to relax, to be lazy, not to d o your job the way you should do it.  Someone who slacks off a lot is called a “s lacker.”  It’s a term meaning someone who is lazy, who doesn’t work very much or very hard; it’s an informal expression.  Naomi says, “you want to slack off (Aa ron), while I take on the lion’s share of your work.”  “To take on” means to do, to begin a new project.  “The lion’s share” means the majority of something, more  than 50 percent, the greater or larger part of something.  We often use it when talking about work.  “He has the lion’s share of the work,” he’s doing most of t he work for that project.   
+
+Naomi says that Aaron wants her to take on the lion ’s share of his work.  “Is that what you’re saying?” she asks.  Aaron says, “Just t his once.”  “Just this once” means only one time, this will never happen again, I will never ask you to do this again – just this once.  He says, “I’ll return the favor the next time you have a  
+
+rough weekend.”  “To return the favor” means to do something nice for someone who has done something nice for you. 
+
+Naomi then says, “What are you planning for next we ekend?”  What are you going to do next weekend?  Aaron says, “Why do you ask?” meaning why are you asking me.  Naomi says, “I want to know how lon g I’ll have to wait for a chance to sit back and watch you work!”  “To sit ba ck” means to observe something from a distance without participating, wi thout becoming involved, to see how something is done without affecting it.  It ’s sometimes used when someone else is working or you don’t have to work, you can relax a little.  But more generally, it means to watch something without  getting involved.  So, what Naomi is saying at the end here is that she wants t o know when she can watch Aaron work, and she’s suggesting it would be a very  long time before she can do that since Aaron seems to go out partying every wee kend.  That’s why she asks what Aaron plans to do the following weekend. 
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Naomi:  Wow, you look like you had a rough weekend.   A little too much partying, huh? 
+
+Aaron:  You said it.  I’m planning to ease into the  new workweek.  I need time to chill and to recover.  Could you take a meeting thi s morning with our new client?   
+
+Naomi:  What will you do? 
+
+Aaron:  I’ll be sitting here waiting for hump day.  The weekend can’t come soon enough! 
+
+Naomi:  It’s Monday and you’re already looking forw ard to next weekend?   
+
+Aaron:  You got it. 
+
+Naomi:  And you want to slack off, while I take on the lion’s share of your work. Is that what you’re saying? 
+
+Aaron:  Just this once.  I’ll return the favor the next time you have a rough weekend. 
+
+Naomi:  What are you planning for next weekend?  
+
+ Aaron:  Why do you ask? 
+
+Naomi:  I want to know how long I’ll have to wait f or a chance to sit back and watch you work! 
+
+[end of dialogue] 
+
+The next wonderful script by our scriptwriter can’t  come soon enough.  That’s because it’s the wonderful Dr. Lucy Tse, who never slacks off!   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast. 
+
+English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+

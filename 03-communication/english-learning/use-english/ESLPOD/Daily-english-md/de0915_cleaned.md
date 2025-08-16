@@ -1,0 +1,108 @@
+# Learning to Read Music
+
+Welcome to English as a Second Language Podcast num ber 915 – Learning to Read Music.  
+
+This is English as a Second Language Podcast episod e 915. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Visit our website at ESLPod.com. Download a Learnin g Guide for this episode by becoming a member of ESL Podcast.  
+
+This episode is a dialog between Mike and Grace, ab out learning to read music, learning to look at a piece of paper that has notes  on it and be able to understand what it means. Let's get started.  
+
+[start of dialog] 
+
+Mike:  You have a great voice.  You should join our  choir. 
+
+Grace:  I don’t know anything about music.  I can’t  even read music.   
+
+Mike:  It’s not that hard.  I could teach you.  Loo k, this is a piece we’re working on right now.   
+
+Grace:  What’s that weird thing at the beginning? 
+
+Mike:  That’s the clef.  It tells you which note ea ch line and space on the staff represents.   
+
+Grace:  Okay.  What about these numbers?   
+
+Mike:  That’s the time signature.  It tells you how  many beats are in each measure, and what kind of note gets one beat.  This  little number above there gives you the tempo. 
+
+Grace:  Hmm, that’s kind of complicated.  Why are a ll of these notes stacked on top of each other?   
+
+Mike:  That’s to indicate a chord, with two or more  notes played together at the same time.  See?  Musical notation is really very s imple. 
+
+Grace:  I don’t think I got all that.   
+
+Mike:  I’m happy to help you until you get the hang  of it.  We could even work on some duets.  We could sing harmony or I can accompa ny you on the piano.   
+
+Grace:  I think you’re overestimating my singing ab ility, but I’m willing to give it a try.  At least, I think I can stay on pitch.  I jus t don’t want to embarrass myself too much.   
+
+Mike:  I think you’re overestimating the quality of  our community choir! 
+
+[end of dialog] 
+
+This dialogue introduces us to a lot of music-relat ed vocabulary. We begin by Mike saying to Grace, “You have a great voice. You should join our choir.” A “choir” (choir) is a group of people who sing toget her. You can have a choir of ten people. You could have a choir of a hundred people.  Grace says, “I don't know anything about music. I can't even read music.” “To  read music” means to be able to understand written music, music on a piece of paper, and convert that, if you will, into actual sound, either by singing or b y playing an instrument – or you can just read music to figure out what something mi ght sound like.  
+
+Mike says, “It's not that hard.” It's not very diff icult. “I could teach you. Look, this is a piece we’re working on right now.” A “piece (p iece) of music” is one song, one composition, one thing that you are going to si ng. A “piece of music” could be something you also play with a musical instrumen t – or both singing and musical instruments. The word “piece” is used in a lot of different areas of art. We can talk about a piece of art, meaning a painting, or a sculpture, or anything that you would classify as art.  
+
+Mike says he can teach Grace how to read music. He gives her a piece of paper and Grace says, “What's that weird thing at the beg inning?” Mike says, “That's the clef.” A “clef” (clef) is a musical term, as ar e most of the terms we’re going to be using in this dialog. A “clef” is a written symb ol that indicates the meaning of other symbols on the page of written music. There i s normally either a “treble clef,” as it's called, or a “bass clef.” The “trebl e (treble) clef” is sometimes also called the “G clef,” I guess, and the “bass clef” i s sometimes called the “F clef.” However, I'm not a musician. I'm just reading this from a piece of paper because I don't know that much about music, but our wonderf ul scriptwriter does. So, she's helping me with this.  
+
+Mike says “That's the clef,” the little symbol at t he beginning of the piece of music as it's written down on a piece of paper. Mike says , “The clef tells you which note each line and the space on the staff represents.” I n written music, there are lines and then there are spaces in between the lines. I b elieve there are typically five lines, five black lines, and then you have spaces i n between the lines. The clef tells you which notes go on which lines or which sp aces.  
+
+Mike talks about the spaces on the “staff” (staff).  The staff is what we call those five horizontal, parallel lines that we write the m usical notes on or that we use to indicate which musical notes you're supposed to sin g or play. A “note” (note) is a musical sound. “Do re mi fa so la ti do, do re mi f a so la ti do.” I don't know if that was actually the correct musical notes in English. I'm not sure about other languages, but I believe it is probably the same. W e have words that we use to represent each note.  
+
+“Notes,” when written on a staff, usually consist o f round circles, sometimes the circles are empty, sometimes they're blackened in. The circles often have a line attached to them, going up or down, and the lines t hemselves often have other small lines that go off of the larger line. That's how we write notes, and depending on what the circle looks like and how man y lines you have, you indicate different kinds of notes.  
+
+However, the sound of the note is indicated by wher e it is on the staff. If it's on the top of the staff, it's higher than it is if it were on the bottom of the staff. Grace says, “Okay. What about these numbers?” Mike says, “That's the time signature.” The time signature are two numbers, one on top of t he other, on a musical staff that are used to show how many beats are in each gr oup of notes – that's the top number – and which note gets the beat – that's the bottom number. For example, if you see a four and then another four underneath it, that would be a “four over four time signature.” There are four beats per sect ion of music – that little section is usually called a “measure” – and in a four-four time signature, the quarter note gets the beat. If it were three over four, then the re would only be three beats in the measure.  
+
+A “beat” is a evenly-spaced rhythmic sound in music . That's the technical definition, I guess. The beat is usually indicated,  in a rock band, for example, by either the drum or the bass guitar. In certain kind s of dances, where people dance to the music, you will see people counting th e beat. For example, if you are dancing the waltz and it had a beat of one-two- three, one-two-three, one-two- three, one-two-three – people actually count that t o make sure that they are dancing correctly. That one-two-three, one-two-thre e that you are hearing in the music is the “beat.”   
+
+ Mike says that “The time signature tells you how ma ny beats are in each measure.” “Measure,” remember, is a small group of notes that has the same number of beats. When you look at a musical staff, measures are separated by a vertical line - the line that goes up and down.  
+
+Mike says that the time signature tells you how man y beats are in each measure and what kind of note gets one beat. “This little n umber above there gives you the tempo.” The “tempo” (tempo) is sort of like the  speed of the song. It's how many beats per minute are in the piece of music. So mething that has a very fast tempo goes very quickly. What we call a “fast song”  goes by quickly, what we call a “slow song” goes or seems to go more slowly.  
+
+Grace says “Hmm, that's kind of complicated. Why ar e all these notes stacked on top of each other?” “To stack” (stack) means to put  one thing on top of another. Grace wants to know why the musical notes on the st aff are stacked one on top of the other. Mike says, “That's to indicate a chor d.” A “chord” (chord) is a group of two or more notes that are played at the same ti me. If you are singing, you can't sing a chord by yourself, technically. There would have to be other people singing with you. Some musical instruments such as a piano can play a chord because you can play more than one note at a time.  
+
+Mike says, “See? Musical notation is very simple.” “Musical notation” is just another word for written music, the way that we typ ically write music down on a piece of paper. Grace says, “I don't think I got al l that,” meaning I don't think I understood everything you just explained to me.  
+
+Maybe Grace isn’t too smart. Maybe, maybe she shoul dn't be singing. Well, let’s continue here. Mike says, “I'm happy to help you un til you get the hang of it.” “To get the hang of something” is to get used to someth ing. We could even work on some duets. A “duet” (duet) is when two people sing  together. “Due” is Italian for two. I’m not sure if that's where “duet” comes from  – probably. A lot of the words we use in music with our musical notation are in It alian.  
+
+Mike says, “We could sing harmony or I can accompan y you on the piano.” To be in “harmony” means to have two or more notes played  at the same time that sound good together. “Accompany” means to play a mu sical instrument while another person sings. So, I'm playing the piano, an d you’re singing. I'm “accompanying” your singing.  
+
+Grace says, “I think you're overestimating my singi ng ability.” “To estimate” means to guess. “To overestimate” means to have a h igher opinion of something  
+
+than it deserves, or to think that something is gre ater than it actually is. The opposite of “overestimate” is “underestimate.” “To underestimate” means to think something is less important, or not as good as what  it in fact is. Grace says, “I'm willing to give it a try.” I'm willing to try it. “ At least, I think I can stay on pitch.” “To be on pitch” (pitch) means the same as to be in tun e, when you sing a note the way it's supposed to be sung – not too high, which is what we would call “sharp,” or too low, which is what we would call “flat.” I a m rarely on pitch when I sing.  
+
+Grace says, “I just don't want to embarrass myself too much.” Mike says, “I think you're overestimating the quality of our community choir.” Mike is saying that the choir really isn't very good and so even if Grace i sn’t perfect, she'll be just fine. 
+
+Now let's listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialog] 
+
+Mike:  You have a great voice.  You should join our  choir. 
+
+Grace:  I don’t know anything about music.  I can’t  even read music.   
+
+Mike:  It’s not that hard.  I could teach you.  Loo k, this is a piece we’re working on right now.   
+
+Grace:  What’s that weird thing at the beginning? 
+
+Mike:  That’s the clef.  It tells you which note ea ch line and space on the staff represents.   
+
+Grace:  Okay.  What about these numbers?   
+
+Mike:  That’s the time signature.  It tells you how  many beats are in each measure, and what kind of note gets one beat.  This  little number above there gives you the tempo. 
+
+Grace:  Hmm, that’s kind of complicated.  Why are a ll of these notes stacked on top of each other?   
+
+Mike:  That’s to indicate a chord, with two or more  notes played together at the same time.  See?  Musical notation is really very s imple. 
+
+Grace:  I don’t think I got all that.   
+
+ Mike:  I’m happy to help you until you get the hang  of it.  We could even work on some duets.  We could sing harmony or I can accompa ny you on the piano.   
+
+Grace:  I think you’re overestimating my singing ab ility, but I’m willing to give it a try.  At least, I think I can stay on pitch.  I jus t don’t want to embarrass myself too much.   
+
+Mike:  I think you’re overestimating the quality of  our community choir! 
+
+[end of dialog] 
+
+I'm not overestimating our scriptwriter when I say she's the best podcast scriptwriter on the Internet. 
+

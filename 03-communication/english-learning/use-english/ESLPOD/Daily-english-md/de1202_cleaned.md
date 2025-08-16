@@ -1,0 +1,122 @@
+# Describing Student Achievement
+
+Welcome to English as a Second Language Podcast num ber 1,202 – Describing Student Achievement. 
+
+This is English as a Second Language Podcast episod e 1,202. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Go to ESLPod.com and become a member of ESL Podcast . When you do, you can download the Learning Guide for this episode an d all of our current episodes.  
+
+This episode is a dialogue between Jeannie and Will iam about describing how well students do in school. Let’s get started. 
+
+[start of dialogue] 
+
+Jeannie: Everything okay? 
+
+William: No, I just got off the phone with my daugh ter’s school and they’re not putting her in the gifted and talented program. 
+
+Jeannie: That’s disappointing, but wasn’t she strug gling in school last year? 
+
+William: Her teachers were thinking of putting her in remedial classes. Can you believe that? My daughter is getting poor grades be cause she’s bored in school. She tunes out. She’d be coasting in her classes if the teachers would just challenge her. 
+
+Jeannie: Are you sure that’s the problem? My son wa s considered low-achieving in the lower grades, but since starting high school , he’s doing a lot better. 
+
+William: I’m telling you, my daughter could be high -achieving if they’d only put her in the gifted and talented program. It’s all ab out teacher expectations. 
+
+Jeannie: Well, it’s not all about expectations . . . 
+
+William: Are you trying to tell me that my daughter  is slow and I should just accept it? 
+
+Jeannie: I’m saying that kids develop at their own pace. Some are late bloomers.  
+
+ William: Nobody in my family has ever been late in anything, and they’re not going to start now. 
+
+Jeannie: Putting pressure on her might make matters  worse. 
+
+William: Who’s putting pressure on her? Maybe I can  help her by getting her tutors in every subject and enrolling her in summer  programs.  
+
+Jeannie: Maybe she just needs more time . . .  
+
+William: And let her waste her potential? What kind  of father would I be then? 
+
+[end of dialogue] 
+
+Jeannie asks William, “Everything okay?” meaning “I s everything okay?” Sometimes, informally in English, we may not put th e word or the verb “is” in the sentence, but we understand what the person is sayi ng.  
+
+William says, “No, I just got off the phone,” meani ng I was just talking on the phone, “with my daughter’s school and they’re not p utting her in the gifted and talented program.” “To be gifted” means to be very intelligent or to have some special skill, some special ability. Similarly, “to  be talented” means to have a special ability to do something. It might be an abi lity to sing very well, or to play music, or sports, or to perhaps even be good at mat h or English.  
+
+In many American schools, there are special program s for students who are considered especially intelligent or who have speci al gifts or talents, and these are called “gifted and talented programs.” I myself  was never in a school that had a gifted and talented program. It’s something that started in the 1980s in some schools in the U.S., although there were probably p rograms before that, that went under different names, had different names for  them. Nowadays it has become very popular in many public schools to have these gifted and talented programs.  
+
+Jeannie says, “That’s disappointing,” meaning it’s disappointing that William’s daughter will not be put into one of these gifted a nd talented programs. Maybe William’s daughter isn’t as intelligent as he think s she is. Jeannie says, “Wasn’t she struggling in school last year?” “To be struggl ing” (struggling) means to be having difficulties, to be having problems with som ething. If you’re struggling in school, you’re having a difficult time. You’re not doing very well.  
+
+William says, “Her teachers were thinking of puttin g her in remedial classes.” “Remedial (remedial) classes” are classes that are meant to help students who are not doing very well in school, students who are  doing worse than the other students in their grade level or in their class. If  all the other students are able to do, say, algebra and you can’t even do arithmetic, you might be put in a remedial class – a class designed especially for students wh o are behind the other students of that particular age.  
+
+William is surprised the teachers were going to put  his daughter into a remedial class. He says, “My daughter is getting poor grades  because she’s bored in school.” “Poor grades” would be not very good grade s, bad grades. He says that his daughter is just bored – that’s why she doesn’t  do well in school. Yeah, I’m sure that’s the reason. “She tunes out,” William sa ys. “To tune (tune) out” means to stop paying attention, to ignore what is happeni ng around you and instead think of something else. 
+
+William claims, “She’d be coasting in her classes i f the teachers would just challenge her.” “To be coasting” (coasting) means t o be doing something very well without even trying, without having to work ve ry hard. He thinks the teachers need “to challenge” (challenge) his daughter. “To c hallenge” a student in class here would refer to making the student work harder by giving the student something more difficult. William thinks that if hi s daughter’s teachers gave her things that were more difficult, she would pay atte ntion and do better in school.  
+
+Jeannie says, “Are you sure that’s the problem? My son was considered low- achieving in the lower grades, but since starting h igh school, he’s doing a lot better.” “To be low-achieving” means to not be perf orming very well in school, to be getting bad grades in school. “Lower grades” her e means elementary school, when a child is, say, ages six through 10 or so. 
+
+William says, “I’m telling you, my daughter could b e high-achieving if they’d only put her in the gifted and talented program.” “I’m t elling you” is an expression William uses here because he’s trying to get Jeanni e to understand and he doesn’t think Jeannie is really listening to him. H e is trying to convince Jeannie. He’s trying to convince Jeannie that his daughter c ould be “high-achieving” – that is, could be getting good grades – if the school wo uld only put her in the gifted and talented program.  
+
+He says, “It’s all about teacher expectations.” “It ’s all about” here means what’s important – the most important thing. William think s the most important thing is “teacher expectations” (expectations) Your “expecta tions” are what you believe someone can do or should do. William thinks that if  the teachers had higher  
+
+expectations of his daughter, she would do better, and there’s a theory in education that says that students perform depending  on how well their teachers expect the students to perform.  
+
+Jeannie says, “Well, it’s not all about expectation s,” meaning that isn’t the entire story or that doesn’t explain everything. William d oesn’t agree. He interrupts her and says, “Are you trying to tell me that my daught er is slow and I should just accept it?” “To be slow,” here means to not learn a s quickly as the other children or perhaps not to be quite as intelligent as the ot her children.  
+
+Jeannie says, “I’m saying that kids develop at thei r own pace.” “To develop” here means to grow intellectually. She’s saying that kid s develop “at their own pace” (pace). “Pace” refers to the speed – how quickly, i n this case, kids develop. William doesn’t like the idea that Jeannie perhaps thinks his daughter is developing more slowly intellectually than the othe r students. Jeannie tries to defend herself by saying, “I’m just saying that kid s develop at their own pace. Some are late bloomers.”  
+
+“To be a late bloomer” (bloomer) is to develop or m ature later than other people do, at a later age than other people do. Some peopl e, for example, take longer to finish their college education, or they may go back  to college when they are older than the typical student in order to study. We may describe that kind of person as a “late bloomer” – someone who doesn’t do well at s omething until a later age than is typical for that particular skill or achiev ement.  
+
+There’s a famous painter in the U.S., “Grandma Mose s,” who didn’t start painting until she was quite elderly. She is a good example of a “late bloomer.” The word “bloomer” comes from the verb “to bloom,” which des cribes the process of a flower opening up in, normally, the springtime. Wil liam says, “Nobody in my family has ever been late in anything, and they’re not going to start now,” meaning no one in my family is a late bloomer and m y daughter will not be a late bloomer, either.  
+
+Jeannie says, “Putting pressure on her might make m atters worse.” “To put pressure” (pressure) on someone is to say or do som ething to someone that indicates you expect him to do very well. You expec t him to perform well, or perform a certain task quickly. “To make matters wo rse” means to make something that is already a problem an even worse p roblem – to take what is already a small problem and make it an even larger problem.  
+
+William says, “Who’s putting pressure on her?” He’s  rejecting the idea that he is putting any pressure on his daughter. He says, “May be I can help her by getting  
+
+her tutors in every subject and enrolling her in su mmer programs.” A “tutor” (tutor) is a person who provides one-on-one or pers onal instruction outside of a classroom to a student who is having difficulty.  
+
+Many parents will pay someone or pay an organizatio n to give their sons and daughters extra help in academic subjects outside o f school. This happens in many different countries including here in the U.S.  Some parents will send their students to “summer programs.” These are basically schools that take place in the summer time to help students do better or to he lp students learn more than they could learn in their own regular schools.  
+
+Jeannie says, “Maybe she just needs more time.” Wil liam says, “And let her waste her potential?” A person’s “potential” (poten tial) is the set of skills or abilities that a person has that could be developed  further. Your “potential” is what you could do in the future based on the skills , intellect, or talent that you have now. You could talk about a student having “gr eat potential” as a mathematician or as a musician. That means that the  student isn’t a great mathematician or a musician now, but could be in th e future.  
+
+William doesn’t want to waste his daughter’s potent ial. He says, “What kind of father would I be then?” meaning if I did that, I w ould not be a very good father.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed. 
+
+[start of dialogue] 
+
+Jeannie: Everything okay? 
+
+William: No, I just got off the phone with my daugh ter’s school and they’re not putting her in the gifted and talented program. 
+
+Jeannie: That’s disappointing, but wasn’t she strug gling in school last year? 
+
+William: Her teachers were thinking of putting her in remedial classes. Can you believe that? My daughter is getting poor grades be cause she’s bored in school. She tunes out. She’d be coasting in her classes if the teachers would just challenge her. 
+
+Jeannie: Are you sure that’s the problem? My son wa s considered low-achieving in the lower grades, but since starting high school , he’s doing a lot better. 
+
+ William: I’m telling you, my daughter could be high -achieving if they’d only put her in the gifted and talented program. It’s all ab out teacher expectations. 
+
+Jeannie: Well, it’s not all about expectations . . . 
+
+William: Are you trying to tell me that my daughter  is slow and I should just accept it? 
+
+Jeannie: I’m saying that kids develop at their own pace. Some are late bloomers. 
+
+William: Nobody in my family has ever been late in anything, and they’re not going to start now. 
+
+Jeannie: Putting pressure on her might make matters  worse. 
+
+William: Who’s putting pressure on her? Maybe I can  help her by getting her tutors in every subject and enrolling her in summer  programs.  
+
+Jeannie: Maybe she just needs more time . . . 
+
+William: And let her waste her potential? What kind  of father would I be then? 
+
+[end of dialogue] 
+
+We thank our high-achieving scriptwriter, Dr. Lucy Tse, for her wonderful scripts.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st. 
+

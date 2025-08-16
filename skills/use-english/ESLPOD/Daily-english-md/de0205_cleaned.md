@@ -1,2 +1,0 @@
-# Shopping for Shoes
-

@@ -1,2 +1,0 @@
-# Describing People¡¦s Looks
-

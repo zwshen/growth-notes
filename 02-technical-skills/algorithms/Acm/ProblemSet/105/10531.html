@@ -1,0 +1,396 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="a_files/filelist.xml">
+<link rel=Edit-Time-Data href="a_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem A: Maze Statistics</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>58</o:Revision>
+  <o:TotalTime>997</o:TotalTime>
+  <o:LastPrinted>2002-10-30T23:30:00Z</o:LastPrinted>
+  <o:Created>2003-04-09T12:44:00Z</o:Created>
+  <o:LastSaved>2003-07-25T04:52:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>355</o:Words>
+  <o:Characters>2027</o:Characters>
+  <o:Company>BUET</o:Company>
+  <o:Lines>16</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2378</o:CharactersWithSpaces>
+  <o:Version>10.3501</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Beaconsfield Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:135 0 0 0 27 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:100.0pt;
+	mso-bidi-font-size:24.0pt;
+	font-family:"Beaconsfield Bold";
+	color:silver;
+	mso-font-kerning:0pt;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+h2
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+h3
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+tt
+	{font-family:"Courier New";
+	mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.7in .8in .7in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:28.0pt;mso-bidi-font-size:12.0pt;font-family:
+Arial'>Problem A</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>Maze Statistics</span></b><span
+style='font-family:Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input: </b><span style='mso-bidi-font-weight:
+bold'>Standard Input<o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Time Limit: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>10 Seconds<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='color:black;mso-ansi-language:EN;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoBodyText><a name=SECTION0001001000000000000000>Jim is running a
+unique carnival attraction.<span style='mso-spacerun:yes'>  </span>Customers
+must enter a building and find their way through a randomly generated maze to
+win a prize.<span style='mso-spacerun:yes'>  </span>The maze configuration can
+be different for each customer; he uses a computer program to build his mazes
+out of a square room with various retractable barriers.<span
+style='mso-spacerun:yes'>  </span>The room is divided into an mxn grid of
+squares, and each square can be either empty or a barrier.<span
+style='mso-spacerun:yes'>  </span>The entrance to the room is at the upper left
+and the exit is at the lower right.</a></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001001000000000000000'><span
+style='mso-bidi-font-size:10.0pt'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001001000000000000000'><span
+style='mso-bidi-font-size:10.0pt'>The computer program is fairly simple: it
+creates a maze where each square has a certain independent probability of being
+a barrier.<span style='mso-spacerun:yes'>  </span>Of course, the maze must have
+a solution, so if the program accidentally creates an unsolvable maze, it
+starts over and builds a new one.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001001000000000000000'><span
+style='mso-bidi-font-size:10.0pt'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001001000000000000000'><span
+style='mso-bidi-font-size:10.0pt'>Jim wants to know what the wear and tear will
+be on each of the barriers.<span style='mso-spacerun:yes'>  </span>So he'd like
+information on how often any specific barrier will be in use in a final
+maze.<span style='mso-spacerun:yes'>  </span>You must help him calculate this
+probability.</span></span><span style='mso-bookmark:SECTION0001001000000000000000'><span
+style='font-size:10.0pt;font-family:"Courier New"'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></span></span></p>
+
+<p class=MsoNormal><span style='mso-bookmark:SECTION0001001000000000000000'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+mso-bidi-font-family:"Times New Roman"'>Input</span></span></span><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+mso-bidi-font-family:"Times New Roman"'>&nbsp; <o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><a name=SECTION0001002000000000000000><span
+style='mso-bidi-font-size:10.0pt'>The first line of input contains the number
+of cases (no more than 20). Each case follows in turn.<o:p></o:p></span></a></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001002000000000000000'><span
+style='mso-bidi-font-size:10.0pt'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001002000000000000000'><span
+style='mso-bidi-font-size:10.0pt'>The first line of each case defines the
+dimensions of the grid.<span style='mso-spacerun:yes'>  </span>It consists of m
+(1 &lt;= m &lt;= 5), the number of rows, and n (1 &lt;= n &lt;= 6), the number
+of columns.<span style='mso-spacerun:yes'>  </span>The next m lines consist of
+n numbers which give the probability (from 0 to 1) that the program tries
+putting a barrier into that square of the grid.<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001002000000000000000'><span
+style='mso-bidi-font-size:10.0pt'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bookmark:SECTION0001002000000000000000'><span
+style='mso-bidi-font-size:10.0pt'>There will always be a non-zero probability
+that a generated maze will be solvable.</span></span><span style='mso-bookmark:
+SECTION0001002000000000000000'><span style='font-size:10.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span style='mso-bookmark:SECTION0001002000000000000000'><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;mso-bidi-font-family:
+"Times New Roman"'><o:p>&nbsp;</o:p></span></span></span></p>
+
+<p class=MsoNormal><span style='mso-bookmark:SECTION0001002000000000000000'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+mso-bidi-font-family:"Times New Roman"'>Output</span></span></span><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;
+mso-bidi-font-family:"Times New Roman"'>&nbsp;<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:10.0pt'>For each case,
+output an mxn grid of numbers giving the probability that each individual
+barrier will be used in a valid maze.<span style='mso-spacerun:yes'> 
+</span>Probabilities should have 6 digits after the decimal (though a variance
+of 0.000001 from the judge answer is acceptable).<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoBodyText style='mso-layout-grid-align:auto;text-autospace:ideograph-other'>Print
+a blank line between cases.</p>
+
+<p class=MsoBodyText style='mso-layout-grid-align:auto;text-autospace:ideograph-other'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+Arial;mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></b></p>
+
+<h1 align=left style='text-align:left'><span style='font-size:16.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial;color:black'>Sample Input<span
+style='mso-spacerun:yes'>           </span>Output for Sample Input<o:p></o:p></span></h1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='background:#CCCCCC;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+  <td width=199 valign=top style='width:149.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>2<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>2
+  2<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>0.5
+  0.5<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>0.5
+  0.5<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>5
+  5<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>0.3
+  0.3 0.3 0.3 0.3<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>0.3
+  1.0 0.3 1.0 0.3<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>0.3
+  1.0 0.3 0.3 0.3<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>0.3
+  1.0 0.3 1.0 1.0<o:p></o:p></span></b></p>
+  <pre><b><span style='font-size:11.0pt;mso-bidi-font-size:10.0pt'>0.3 0.3 0.3 0.3 0.3</span></b><b><span
+  style='mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></pre></td>
+  <td width=417 valign=top style='width:312.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>0.000000 0.333333<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>0.333333 0.000000<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>0.000000 0.158575
+  0.158575 0.290498 0.290498<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>0.169997 1.000000
+  0.190249 1.000000 0.290498<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>0.169997 1.000000
+  0.158575 0.290498 0.290498<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>0.169997 1.000000
+  0.158575 1.000000 1.000000<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>0.169997
+  0.169997 0.000000 0.000000 0.000000</span></b><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:12.0pt;font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='color:black;mso-ansi-language:EN'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<pre><span class=SpellE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;font-family:"Times New Roman"'>Problemsetter</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+"Times New Roman"'>: Derek <span class=SpellE>Kisman</span>, Member of Elite <span
+class=SpellE>Problemsetters</span>' Panel <o:p></o:p></span></b></pre></div>
+
+</body>
+
+</html>

@@ -1,0 +1,66 @@
+# Getting Ready to Go
+
+Welcome the English as a Second Language Podcast nu mber 46 – Getting Ready to Go.  
+
+This is English as a Second Language Podcast episod e 46. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+In this episode, we're going to discuss getting rea dy for work on Monday mornings. Let's get started.  > I guess I'm just like everybody else. I could do wi thout Mondays. On the weekend, I can kick back and relax, but I dread goi ng back to work when the weekend is over.  
+> This morning was particularly hectic. On weeknights , I set my alarm for seven a.m. That's what I did last night. But when I woke up this morning and looked at my alarm clock, it was seven thirty! The alarm cloc k was on the fritz and it didn't go off. Oh no, I was going to be late again.  
+> I washed my face, put on my makeup, got dressed, an d ate a small bowl of cereal. I had one foot out the door when I realized  I didn't have my keys. I went back into my bedroom and looked on the shelf where I kept them. No luck. Maybe I left them in my purse. I hunted around for them. Finally, I just dumped out everything from my purse onto my bed. I had my wallet, sunglasses, compact, lipstick, eye drops, aspirin, and tissues.  But no keys.  
+> I looked around the living room. Maybe they fell be hind the couch cushions. I picked up each one and looked. No keys. I went into  my closet and checked the pockets of my coat. Still, no keys. By this time, I  was pretty frantic, so I tried to calm myself down. I decided to get a drink of water . I opened the refrigerator and what did I see? My keys. They were sitting on the s helf right next to the milk. I must have left them there when I got the milk for m y cereal. It served me right for being so absentminded.  
+> Oh, how I hate Monday mornings!
+
+Lucy talked about the problem she had getting to wo rk this morning. She said, “I guess I'm just like everybody else” – I'm the same as everyone else. “I could do without Mondays.” The expression “I could do withou t” something means I would rather not have something or I would prefer not to have something. In this case, Lucy prefers not to have Mondays because, of course , Monday is the first day of the work week.  
+
+She says, “On the weekend, I can kick back and rela x.” “To kick back” is an informal phrasal verb meaning the same, really, as to relax – to not do anything very difficult, to be calm, to not have to work. “T o kick back” means to enjoy yourself without having to do anything too difficul t. Lucy said that she dreaded going back to work when the weekend was over. “To d read” (dread) means to really hate something, to really not want to do som ething, or to really dislike someone. “I dread talking to my brother-in-law.” Th at means I don't look forward to it. It's not something I want to do. In fact, I hate doing it. That’s not true, actually. My brother-in-law is a very nice guy.  
+
+Lucy continues, saying, “This morning was particula rly hectic.” When we say something is “hectic” (hectic), we mean it’s very b usy, too busy. When you are so busy that you can't concentrate or think about anyt hing else, that might be described as a “hectic situation.” “This morning,” according to Lucy, “was particularly hectic” – especially hectic.  
+
+“On weeknights,” she says, “I set my alarm for seve n a.m.” “To set your alarm” means to take your alarm clock and program it or se t it for the hour that you want it to ring, that you want it to go off – that you w ant it to make a noise so that you wake up. “Alarm clocks” are clocks that people use so they can wake up at the right time in the morning. Lucy has an alarm clock that she normally sets for seven a.m., but when she woke up this morning, she says, and looked at her alarm clock, “it was seven thirty.”  
+
+Obviously, we have a problem here. The problem is t hat “the alarm clock was on the fritz.” This expression “to be on the fritz” (f ritz) means simply to be broken. It's not as common now as it was a few years ago, but yo u'll still hear people talking about some piece of machinery or some piece of equi pment being “on the fritz.” It's not working. “My computer is on the fritz. I t ried to start it and it won't work.” The alarm clock, because it was on the fritz, didn' t go off – didn't make any noise, any sound.  
+
+Lucy says she got up and washed her face and then p ut on her makeup. “Makeup” (makeup) is anything that you put, usually , on your face, such as lipstick and other things that women put on their f ace to make them beautiful, that  
+
+I don't really know much about. Lucy puts on her ma keup, gets dressed, and eats a small bowl of cereal – a common breakfast food th at people eat with milk.  
+
+She says, “I had one foot out the door when I reali zed I didn't have my keys.” The expression “to have one foot out the door” means yo u are already in the act of leaving. You are already leaving wherever it is tha t you are. That's “to have one foot out the door.” She realized that she didn't ha ve her keys. She went back into her bedroom and looked on the shelf where she norma lly keeps them. Your “keys” are what you use to open a door.  
+
+Lucy can't find her keys so she goes into her bedro om and looks on the shelf. A “shelf” (shelf) is a place where you store things l ike books in a room. Lucy then says, “No luck.” That means she wasn't able to find  them. She didn't have any luck. She continues, “Maybe I left them in my purse .” A “purse” is something that many women carry that contains their, nowadays, cel l phone and lipstick and makeup and toothpaste and hammers and animals. Well , at least that's what I think is in a woman's purse. No man actually knows what's inside of a woman's purse, even when they are married to that woman. 
+
+Lucy cannot find her keys in her purse. She says, “ I hunted around for them.” “To hunt around” is a phrasal verb meaning to look thro ugh a certain area to try to find something. She then “dumped out everything” fr om her purse. “To dump (dump) out” is a phrasal verb meaning to empty – to  take everything out of a bag and put it on the table or on the floor. Lucy dumpe d out everything from her purse onto her bed.  
+
+She then sees the inside of her purse. She has her wallet, where she keeps their money; her sunglasses, which she uses to protect he r eyes from the bright sun; her compact, lipstick, eye drops, aspirin, and tiss ues. Didn't I tell you that women keep lots of different things in their purses? I me an look at all the things that Lucy has.  
+
+In addition to her wallet and sunglasses, she has s omething called a “compact” (compact). A “compact” is a small container of powd er that women put on their faces as part of their makeup. “Lipstick” is a kind  of makeup that goes on your lips. “Eye drops,” of course, would be if you had p roblems with your eyes. “Aspirin” is for when you have a headache, like aft er talking to your husband. “Tissues” are used for blowing your nose or for cle aning off parts of your face or body. All of these things are inside of Lucy's purs e, but not her keys.  
+
+She then looks around the living room. “To look aro und” means to look in that area, similar to “to hunt around.” She says, “Maybe  they fell behind the couch  
+
+cushions.” A “couch” (couch) is a sofa – a place wh ere three or four people can sit, usually in the main room or living room of a h ouse. “Cushions” are the things that you sit on. Sometimes, keys will fall in behin d the cushions in the couch. Lucy picked up each one – each cushion – and looked , but she didn't find her keys. Then she went to her “closet,” a place where she keeps her clothing, and checked the pockets of her coat. “Still,” she says,  “no keys.”  
+
+“By this time,” she says, “I was pretty frantic.” “ To be frantic” (frantic) means to be very worried, to be very nervous about something. S he says she tried to calm herself down, to make herself not get so excited. S he “decided to get a drink of water” – a glass of water. She opened the refrigera tor and what did she see? Of course, her keys. Her keys were in the refrigerator . “They were sitting on the shelf right next to the milk” – they were sitting o n the shelf near, or right next to, the milk. “I must have left them there when I got t he milk for my cereal,” Lucy says.  
+
+Finally, she says, “It served me right for being so  absentminded.” The expression “to serve someone right” means that someone deserve s something, usually deserves something bad. When you say, “It serves hi m right” or “It serves her right,” you mean that something bad has happened to  them, but it's their own fault. It was only just. It was only fair that that  should happen to that person. She says she was “absentminded.” “To be absentminded” m eans to be forgetful – not to be paying attention to what's going on around yo u.  
+
+Now let's listen to the story, this time at a norma l speed.  
+
+[start of story] 
+
+I guess I'm just like everybody else. I could do wi thout Mondays. On the weekend, I can kick back and relax, but I dread goi ng back to work when the weekend is over.  
+
+This morning was particularly hectic. On weeknights , I set my alarm for seven a.m. That's what I did last night. But when I woke up this morning and looked at my alarm clock, it was seven thirty! The alarm cloc k was on the fritz and it didn't go off. Oh no, I was going to be late again.  
+
+I washed my face, put on my makeup, got dressed, an d ate a small bowl of cereal. I had one foot out the door when I realized  I didn't have my keys. I went back into my bedroom and looked on the shelf where I kept them. No luck. Maybe I left them in my purse. I hunted around for them. Finally, I just dumped  
+
+out everything from my purse onto my bed. I had my wallet, sunglasses, compact, lipstick, eye drops, aspirin, and tissues.  But no keys.  
+
+I looked around the living room. Maybe they fell be hind the couch cushions. I picked up each one and looked. No keys. I went into  my closet and checked the pockets of my coat. Still, no keys. By this time, I  was pretty frantic, so I tried to calm myself down. I decided to get a drink of water . I opened the refrigerator and what did I see? My keys. They were sitting on the s helf right next to the milk. I must have left them there when I got the milk for m y cereal. It served me right for being so absentminded.  
+
+Oh, how I hate Monday mornings! 
+
+[end of story] 
+
+Thanks to our awesome scriptwriter, Dr. Lucy Tse, f or her awesome scripts, and thanks to you for listening. 
+
+From Los Angeles, California, I'm Jeff McQuillan. C ome back and listen to us again here on ESL Podcast. 
+

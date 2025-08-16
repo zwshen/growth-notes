@@ -1,0 +1,94 @@
+<HTML>
+<HEAD>
+        <TITLE>Problem E: New Horizons</TITLE>
+</HEAD>
+<BODY>
+<H2>Problem E:  New Horizons</H2>
+
+<EM>
+I'm king of a house! And, what's more, beyond that, <BR>
+I'm king of a blueberry bush and a cat! <BR>
+I'm Yertle the Turtle! Oh, marvelous me! <BR>
+For I am the ruler of all that I see!"
+</EM>
+
+<H3>The Problem</H3>
+<P>
+
+Yertle has determined that the number of objects he can see,
+and hence rule, depends on the height of his throne.
+Your task, as Minister of Computing and Vertigo (a new combined Super
+Ministry), is to determine which objects Yertle would see should he build his
+throne to a particular height.
+
+</P><P>
+
+Standard input consists of several test cases, each containing:
+<UL>
+  <LI>
+   A floating point number on a line by itself, specifying the diameter
+   of Yertle's planet in "flipper lengths".
+  <LI>
+   A line containing three floating point numbers: the height of Yertle's
+   throne (in flipper lengths), the latitude of Yertle's throne (between
+    -90 and +90 degrees), the longitude of Yertle's throne (between 0 and 360
+   degrees). 
+  <LI>
+   An integer <em>n</em> on a line by itself, specifying the number of objects on the surface
+   of Yertle's planet.
+  <LI>
+   <em>n</em> more lines, each containing three floating point numbers and a
+   string of alphabetic and space characters.
+   Each line indicates the height, latitude, longitude and name of an object
+   on the surface of Yertle's planet.
+</UL>
+
+</P><P>
+
+All distances are in flipper lengths, and all latitudes and longitudes are in
+degrees.
+Floating point values are formatted as a string of decimal digits with
+an optional decimal point and sign.
+The fields in the input are separated by exactly one space character.
+You may assume that no object hides another; only the horizon limits Yertle's
+view.
+
+</P><P>
+
+For each test case, standard output consists of:
+<UL>
+  <LI>
+   The list of objects whose tops are visible to Yertle, in alphabetical order,
+   followed by a blank line.
+</UL>
+
+</P>
+
+<H3> Sample Input </H3>
+
+<PRE>
+20000.0
+100.0 45.0 100.0
+3
+2.0 46.0 99.0 Cat
+20.0 -45.0 260.0 House
+5.0 45.1 100.2 Blueberry Bush
+6.0
+3.0 90.0 0.0
+2
+0.0 30.00 0.0 Ant on the horizon
+0.1 30.00 0.0 Cat on the horizon
+</PRE>
+
+<H3>Sample Output</H3>
+
+<PRE>
+Blueberry Bush
+Cat
+
+Cat on the horizon
+
+</PRE>
+ 
+</BODY>
+</HTML>

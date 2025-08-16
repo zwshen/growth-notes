@@ -1,0 +1,106 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Problem A: Polylops</TITLE>
+<META NAME="description" CONTENT="Problem A: Polylops">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Problem A: Polylops</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Given the vertices of a non-degenerate polygon (no 180-degree angles,
+zero-length sides, or self-intersection - but not necessarily convex),
+you must determine how many distinct lines of symmetry exist for that
+polygon.  A line of symmetry is one on which the polygon, when
+reflected on that line, maps to itself.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Input consists of a description of several polygons.
+
+<P>
+Each polygon description consists of two lines.  The first contains
+the integer <SPAN CLASS="MATH"><I>n</I></SPAN> (<!-- MATH
+ $3 \le n \le 1000$
+ -->
+<SPAN CLASS="MATH">31#1<I>n</I>1#11000</SPAN>), which gives the number of vertices on
+the polygon.  The second contains <SPAN CLASS="MATH"><I>n</I></SPAN> pairs of numbers (an <SPAN CLASS="MATH"><I>x</I></SPAN>- and a
+<SPAN CLASS="MATH"><I>y</I></SPAN>-value), describing the vertices of the polygon in order.  All
+coordinates are integers from -1000 to 1000.
+
+<P>
+Input terminates on a polygon with 0 vertices.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For every polygon described, print out a line saying
+`<TT>Polygon #<SPAN CLASS="MATH"><I>x</I></SPAN> has <SPAN CLASS="MATH"><I>y</I></SPAN> symmetry line(s).</TT>', where <SPAN CLASS="MATH"><I>x</I></SPAN> is the number of the
+polygon (starting from 1), and <SPAN CLASS="MATH"><I>y</I></SPAN> is the number of distinct symmetry
+lines on that polygon.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+4
+-1 0 0 2 1 0 0 -1
+3
+-666 -42 57 -84 19 282
+3
+-241 -50 307 43 -334 498
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Polygon #1 has 1 symmetry line(s).
+Polygon #2 has 0 symmetry line(s).
+Polygon #3 has 1 symmetry line(s).
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Local_UVa'2003
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

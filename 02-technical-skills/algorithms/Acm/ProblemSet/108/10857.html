@@ -1,0 +1,328 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./p1_files/filelist.xml">
+<link rel=Edit-Time-Data href="./p1_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem B: Easter Eggs</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>12</o:TotalTime>
+  <o:Created>2005-05-25T15:31:00Z</o:Created>
+  <o:LastSaved>2005-05-25T15:43:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>503</o:Words>
+  <o:Characters>2869</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>23</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>3523</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.inout, li.inout, div.inout
+	{mso-style-name:inout;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+p.cbfont, li.cbfont, div.cbfont
+	{mso-style-name:cbfont;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:13.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.psetter, li.psetter, div.psetter
+	{mso-style-name:psetter;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.jbfont, li.jbfont, div.jbfont
+	{mso-style-name:jbfont;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:13.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.bigfont, li.bigfont, div.bigfont
+	{mso-style-name:bigfont;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.cname, li.cname, div.cname
+	{mso-style-name:cname;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:16.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.pno, li.pno, div.pno
+	{mso-style-name:pno;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.pname, li.pname, div.pname
+	{mso-style-name:pname;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:24.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%;
+ mso-cellspacing:0in;border:outset 1.5pt;mso-padding-alt:0in 0in 0in 0in'>
+ <tr>
+  <td style='border:inset .75pt;padding:0in 0in 0in 0in'>
+  <table border=1 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%;
+   mso-cellspacing:0in;border:none;mso-padding-alt:0in 0in 0in 0in'>
+   <tr>
+    <td width="20%" rowspan=3 style='width:20.0%;border:none;padding:0in 0in 0in 0in'>
+    <p class=cbfont>Input: Standard In<br>
+    Output: Standard Out</p>
+    </td>
+<!--contest name-->
+    <td width="60%" style='width:60.0%;border:none;background:silver;
+    padding:0in 0in 0in 0in'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:16.0pt;font-family:Arial'>Next Generation Contest 1&nbsp;<o:p></o:p></span></b></p>
+    </td>
+    <td width="20%" rowspan=3 style='width:20.0%;border:none;padding:0in 0in 0in 0in'>
+    <p class=cbfont><b>Time Limit: 8 seconds</b></p>
+    </td>
+   </tr>
+   <tr>
+<!--problem no-->
+    <td width="60%" style='width:60.0%;border:none;background:silver;
+    padding:0in 0in 0in 0in'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:14.0pt;font-family:Arial'>Problem B&nbsp;<o:p></o:p></span></b></p>
+    </td>
+   </tr>
+   <tr>
+<!--problem name-->
+    <td width="60%" style='width:60.0%;border:none;background:silver;
+    padding:0in 0in 0in 0in'>
+    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:24.0pt;font-family:Arial'>Easter Eggs<o:p></o:p></span></b></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal><o:p></o:p></p>
+  </td>
+ </tr>
+</table>
+
+<p class=jbfont>Easter is here again, and as usual, the Easter Bunny has more things
+on his mind than a gnu balancing a dish of exotic fruits on its head. As you
+know, one of the Easter Bunny’s tasks is to bring Easter eggs containing a
+nourishing assortment of carrots and sweets to all the good folks who still
+believe in him. The eggs have to be delivered before dawn, and it is already
+midnight, so the Easter Bunny is starting to feel the kind of stressed-out
+panic that only a little rabbit can feel. It has become blatantly clear to the
+Easter Bunny that he will not be able to deliver all the eggs, and hence, he
+has asked you to help him minimize the damage by writing a program that helps
+him deliver as many eggs as possible.</p>
+
+<p class=jbfont>The Easter Bunny has a (sufficiently large) store of eggs in
+his secret underground hideout (where he is currently located), and he wants to
+carry one egg to everyone in the world who believes in him. The world, as you
+probably know, is flat, and hence we model a location in the world as a point
+in a two-dimensional plane. The eggs need to be delivered strictly before
+sunrise, as the Easter Bunny mustn’t be seen carrying eggs. What complicates
+matters is that the sun rises at different times depending on where you are in
+the flat world! At coordinate (<b>x, y</b>), the sun rises 720 + <b>x</b>/2000
+minutes after midnight. Note that the Easter Bunny only needs to deliver an egg
+before the sun rises at the place where the egg should be delivered, and that
+it is ok if the sun rises during his journey home. </p>
+
+<p class=jbfont>When traveling between two points in the world, the Easter
+Bunny always travels along the straight line between them. Being a furry little
+bunny rabbit (rather than, say, a kangaroo), the Easter Bunny’s egg carrying
+capacity is very limited, and the more eggs he carries, the harder a time he
+has keeping his pace up. When not carrying any eggs, the Easter Bunny can move
+(jump) at a speed of <b>v</b> meters per second, but each extra egg he carries
+makes it twice as hard to keep a decent speed. Hence, when carrying <b>i</b>
+eggs, he is able to cover <b>v</b>·2<b><sup>-i</sup></b> meters per second.<br>
+<br>
+Since we are already running on a tight schedule, we don’t bother modeling the
+finer nuances of the Easter Bunny’s egg delivering. Hence, we assume that
+everything but moving from one point to another takes zero time (when, in
+practice, the Easter Bunny usually needs a moment or two to e.g. find a good
+hiding place for an egg).</p>
+
+<p class=bigfont><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=bigfont>Input</p>
+
+<p class=jbfont>The input consists of less than 32 test cases. The first line
+of a test case contains two integers 1 &#8804; <b>n</b> &#8804; 17, 1 &#8804; <b>v</b>
+&#8804; 100, where n is the number of eggs to be delivered and v is Easter
+Bunny’s velocity when he carries zero eggs. Then follow <b>n</b> lines, each
+containing two integers <b>x</b> and <b>y</b>, indicating where to deliver the <b>n</b>
+eggs. The Easter Bunny’s secret hideout is located at <b>x</b> = 0, <b>y</b> =
+0. The length unit of the coordinates is meters, and you may assume that all
+coordinates have absolute value bounded by 10<sup>6</sup>. There is a blank line
+between any two consecutive test cases. Input is terminated by a case where <b>n</b>
+= 0 and <b>v</b> = 0, which should not be processed.</p>
+
+<p class=bigfont>Output</p>
+
+<p class=jbfont>For each test case, output a line containing the maximal number
+of eggs that the Easter Bunny will be able to place before dawn.</p>
+
+<p class=bigfont>Sample Input</p>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%;
+ mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr>
+  <td style='padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>4 5<br>
+  -42000 0<br>
+  0 42000<br>
+  42000 0<br>
+  0 -42000<br>
+  <br>
+  8 1<br>
+  50 8<br>
+  -4711 -13<br>
+  -4 9<br>
+  100 20<br>
+  4010 2<br>
+  10 5810<br>
+  -4 8<br>
+  235 -2200<br>
+  <br>
+  0 0 &nbsp;<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=bigfont>Sample Output</p>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%;
+ mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr>
+  <td style='padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>2<br>
+  7 &nbsp;<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p class=psetter>Problem Setter: Per Austrin</p>
+
+</div>
+
+</body>
+
+</html>

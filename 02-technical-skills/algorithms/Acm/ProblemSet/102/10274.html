@@ -1,0 +1,99 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<title>Problem F - Fans and Gems</title>
+
+</head>
+
+<body bgcolor="#ffffff" lang=EN-US>
+
+<center>
+<p>
+<b><font size=5>Problem F</font></b><br>
+<b><font size=6>Fans and Gems</font></b><br>
+<b>Input:</b> Standard Input<br>
+<b>Output:</b> Standard Output<br>
+</p>
+
+</center>
+
+<p>
+Tomy's fond of a game called 'Fans and Gems' (also known as <b>Gravnic</b>). In the game, he can use fans
+to collect gems, but he's satisfied with his play only if all the gems are collected
+with minimal number of steps. The game is played as following:
+<p>
+<center><img src="p10274.gif"></img></center>
+
+<p>
+There are three kinds of gems, one colored red, one colored green and one colored blue.
+There are walls in the space, as you see.
+There are also virtual fans everywhere in the game, but you cannot see them. What you can
+do each time is to select a DIRECTION to which the fans should blow. There are only
+four directions possible: UP, DOWN, LEFT and RIGHT. Then, the fans will work, pushing
+all the gems to fly to the selected direction at the same speed, until they cannot
+move further(blocked by the wall, other gems or a flyer). Then, if there are some gems touching
+some same-colored gem(touching means adjacent in one of the four directions), they
+disappear simultaneously. Note that the fans are still working, so some gems may go on
+moving in that direction after some gems disappeared. The fans stop working when all the
+gems cannot move any more, and none of them should disappear. There may be some
+flyers that can be moved by the fans, but they can NEVER disappear.
+<p>
+You are to write a program that finds the minimal number of operations to make all the gems disappear.
+
+<p><b><font size=5>Input</font></b></p>
+
+<p>
+The input file begins with an integer T, indicating the number of test cases. (1&lt;=T&lt;=50)
+Each test case begins with two integers N, M, indicating the height and width of the map.
+(1&lt;=N&lt;=12,1&lt;=M&lt;=20) In the following N lines, each line contains M characters describing
+the map. There is one line after each map, ignore them. Spaces denotes empty square, '#' denotes a wall, '1' denotes a red gem, '2' denotes
+a green gem, '3' denotes a blue gem, and '@' denotes a flyer. It's guaranteed that the four
+sides of the map are all walls. There is at least one gem in the map, and no two same-colored gems
+will touch each other at the beginning of the game.
+</p>
+
+<p><b><font size=5>Output</font></b></p>
+
+<p>
+You should print a single line for each case. If there is a solution, write the shortest operation sequence in a string. The ith character must be
+from the set {'U','D','L','R'}, describing ith operation. The four characters represent UP, 
+DOWM, LEFT, RIGHT respectively. If there are more than one solution, choose the lexicographical smallest one, if there
+are no solution, output -1 on the line. When a solution exists, you need only 18 or fewer steps to carry it out.
+</p>
+
+<p><b><font size=5>Sample Input</font></b></p>
+<font face="Courier" size=3>
+2<br>
+9 8<br>
+########<br> 
+##&nbsp;&nbsp;&nbsp;1##<br>
+##&nbsp;&nbsp;2&nbsp;&nbsp;#<br>
+#&nbsp;&nbsp;1&nbsp;&nbsp;##<br>
+##2&nbsp;&nbsp;&nbsp;##<br>
+#&nbsp;&nbsp;&nbsp;1@##<br>
+###&nbsp;&nbsp;&nbsp;##<br>
+####&nbsp;###<br>
+########<br>
+<br>
+7 8<br>
+########<br>
+#212121#<br>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#<br>
+#&nbsp;#&nbsp;#&nbsp;##<br>
+#&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#<br>
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;##<br>
+########<br>
+</font>
+
+<p><b><font size=5>Sample Output</font></b></p>
+<font face="Courier" size=3>
+LURD<br>
+DL<br>
+</font>
+
+<font face="Times New Roman" size=3>
+__________________________________________________________________________________________<br>
+Rujia Liu<br>
+
+</body>
+</html>

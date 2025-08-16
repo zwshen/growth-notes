@@ -1,0 +1,164 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>The Candyman Can</TITLE>
+<META NAME="description" CONTENT="The Candyman Can">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+The Candyman Can</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+<DIV ALIGN="CENTER">
+<EM>                                       ``Who can take a sunrise
+</EM></DIV>
+<P>
+<DIV ALIGN="CENTER"><EM>Sprinkle it with dew
+</EM></DIV>
+<P>
+<DIV ALIGN="CENTER"><EM>Cover it in chocolate and a miracle or two
+</EM></DIV>
+<P>
+<DIV ALIGN="CENTER"><EM>The Candy Man
+</EM></DIV>
+<P>
+<DIV ALIGN="CENTER"><EM>The Candy Man can
+</EM></DIV>
+<P>
+<DIV ALIGN="CENTER"><EM>The Candy Man can 'cause he mixes it with love
+</EM></DIV>
+<P>
+<DIV ALIGN="CENTER"><EM>And makes the world taste good"
+</EM>
+</DIV>
+<P>
+<DIV ALIGN="CENTER"></DIV>
+<P>
+<BR>
+<DIV ALIGN="CENTER">             (taken from the movie "Willy Wonka and the Chocolate Factory", 1971)
+
+</DIV>
+
+<P>
+The Candyman can. But can he really?
+
+<P>
+
+<P>
+<BR>
+It's the first of October, the day Willy Wonka opens the doors to his famous Chocolate Factory
+for the five lucky kids that hold one of the golden tickets: Charlie, Augustus, Mike, Veruca and
+Violet. The tour guided by Willy Wonka begins, and after Augustus falls into the river of
+chocolate and Violet turns into a blueberry (but don't worry, they are going to be safe and
+healthy at the end), there are three of the children left.
+
+<P>
+What a shock! To calm down the remaining three children, Willy Wonka wants to give some
+candies to them. He has a couple of candies that are of different weight and wants to divide them
+evenly between the children, so that they don't get jealous at each other.
+
+<P>
+He wants to know how bad the fairest distribution is, i.e. what is the minimum difference in the
+candies weight, of the kid getting the candies of the most total weight and the kid getting the
+least. For example, assume that he gives the three children candies of weight <SPAN CLASS="MATH"><I>a</I></SPAN>, <SPAN CLASS="MATH"><I>b</I></SPAN> and <SPAN CLASS="MATH"><I>c</I></SPAN>,
+respectively. The badness of this distribution is the difference between the maximum of <SPAN CLASS="MATH"><I>a</I></SPAN>, <SPAN CLASS="MATH"><I>b</I></SPAN>, <SPAN CLASS="MATH"><I>c</I></SPAN>
+and the minimum of <SPAN CLASS="MATH"><I>a</I></SPAN>, <SPAN CLASS="MATH"><I>b</I></SPAN>, <SPAN CLASS="MATH"><I>c</I></SPAN>. Unfortunately, Willy Wonka is not very good in mathematics, so he
+needs your help.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of input contains a single integer (less than 130) indicating the number of testcases
+that follow. Each testcase consists of two lines. The first line contains a number <SPAN CLASS="MATH"><I>n</I></SPAN>(<!-- MATH
+ $0 < n \le 32$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>n</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10482img1.png"
+ ALT="$ \le$">32</SPAN>),
+the number of candies to be distributed. The second line contains <SPAN CLASS="MATH"><I>n</I></SPAN> numbers <!-- MATH
+ $a_1 \dots a_n$
+ -->
+<SPAN CLASS="MATH"><I>a</I><SUB>1</SUB>...<I>a</I><SUB>n</SUB></SPAN>
+(<!-- MATH
+ $0 <a_i \le 20$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>a</I><SUB>i</SUB><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10482img1.png"
+ ALT="$ \le$">20</SPAN> for all <!-- MATH
+ $i=1 \dots n$
+ -->
+<SPAN CLASS="MATH"><I>i</I> = 1...<I>n</I></SPAN>), the weight of the different candies.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each testcase, output a single line which contains the case number (as shown in the sample
+output) and then the smallest badness that can be achieved when distributing all candies to the
+children. There is only a single space between the colon and the smallest badness.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+4
+3
+2 2 2
+2
+3 4
+6
+13 9 7 7 1 7
+8
+3 3 3 3 3 3 5 5
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Case 1: 0
+Case 2: 4
+Case 3: 2
+Case 4: 1
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Problem setter: Juergen Werner, Albert Einstein University Ulm, Germany
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,196 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Numerical Summation of a Series</TITLE>
+<META NAME="description" CONTENT="Numerical Summation of a Series">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Numerical Summation of a Series</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Produce a table of the values of the series
+<BR><P></P>
+<DIV ALIGN="CENTER">
+
+<!-- MATH: \begin{equation}
+\psi (x) = \sum_{k=1}^{\infty} {1 \over {k(k+x)}}
+\end{equation} -->
+
+<TABLE WIDTH="100%" ALIGN="CENTER">
+<TR VALIGN="MIDDLE"><TD ALIGN="CENTER" NOWRAP><IMG
+ WIDTH="153" HEIGHT="55"
+ SRC="731img1.gif"
+ ALT="\begin{displaymath}\psi (x) = \sum_{k=1}^{\infty} {1 \over {k(k+x)}}
+\end{displaymath}"></TD>
+<TD WIDTH=10 ALIGN="RIGHT">
+(1)</TD></TR>
+</TABLE>
+</DIV>
+<BR CLEAR="ALL"><P></P>
+for the 3001 values of <I>x</I>, 
+<!-- MATH: $x= 0.0, 0.1, 0.2, \dots, 300.0$ -->
+<IMG
+ WIDTH="198" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="731img2.gif"
+ ALT="$x= 0.0, 0.1, 0.2, \dots, 300.0$">.
+All entries of the
+table must have a relative error less than 1.0e-10 (10 digits of
+precision).  This problem is based on a problem from Hamming (1962), when
+mainframes were very slow by today's microcomputer standards.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+This problem has no input file.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The output is to be written into a file.  The output is to be
+formatted as two columns with the values of <I>x</I> and <I>y</I>(<I>x</I>)
+printed as in the C <TT>printf</TT> or the Pascal <TT>writeln</TT>.
+
+<P>
+<PRE>
+printf("%6.2f%17.12f\n", x, psix )
+
+writeln(x:6:2,psix:17:12)
+</PRE>
+
+<P>
+As an example, the sample output below shows 4 acceptable lines out of
+3001, which might appear in the output file.
+
+<P>
+The values of <I>x</I> should start at 0.00 and increase by 0.1 until the line
+with <I>x</I>=300.00 is output.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Process</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The problem with summing the sequence in equation 1 is that too many terms
+may be required to complete the summation in the given time.  Additionally,
+if enough terms were to be summed, roundoff would render any typical double
+precision computation useless for the desired precision.
+
+<P>
+
+<P>
+<BR>
+To improve the convergence of the summation process note that
+
+<P>
+<BR><P></P>
+<DIV ALIGN="CENTER">
+
+<!-- MATH: \begin{equation}
+{1 \over {k(k+1)}} = {1 \over k} - {1 \over {k+1}}
+\end{equation} -->
+
+<TABLE WIDTH="100%" ALIGN="CENTER">
+<TR VALIGN="MIDDLE"><TD ALIGN="CENTER" NOWRAP><IMG
+ WIDTH="165" HEIGHT="46"
+ SRC="731img3.gif"
+ ALT="\begin{displaymath}{1 \over {k(k+1)}} = {1 \over k} - {1 \over {k+1}}
+\end{displaymath}"></TD>
+<TD WIDTH=10 ALIGN="RIGHT">
+(2)</TD></TR>
+</TABLE>
+</DIV>
+<BR CLEAR="ALL"><P></P>
+which implies <I>y</I>(1)=1.0.
+One can then produce a series for 
+<!-- MATH: $y(x) - y(1)$ -->
+<I>y</I>(<I>x</I>) - <I>y</I>(1)
+which converges faster than the original series.  This series not only
+converges much faster, it also reduces roundoff loss.
+
+<P>
+
+<P>
+<BR>
+This process of finding a faster converging series may be repeated again on
+the second series to produce a third sequence, which converges even more
+rapidly than the second.
+
+<P>
+
+<P>
+<BR>
+The following equation is helpful in determining how may items are
+required in summing the series above.
+
+<P>
+<BR><P></P>
+<DIV ALIGN="CENTER">
+
+<!-- MATH: \begin{equation}
+\sum_{k=n}^{\infty} {1 \over {k^r}} < \int_{n-1}^{\infty} {1 \over
+{x^r}} dx \quad \mbox{ for } k>1 \mbox{ and } r \ge 1
+\end{equation} -->
+
+<TABLE WIDTH="100%" ALIGN="CENTER">
+<TR VALIGN="MIDDLE"><TD ALIGN="CENTER" NOWRAP><IMG
+ WIDTH="322" HEIGHT="55"
+ SRC="731img4.gif"
+ ALT="\begin{displaymath}\sum_{k=n}^{\infty} {1 \over {k^r}} < \int_{n-1}^{\infty} {1 \over
+{x^r}} dx \quad \mbox{ for } k>1 \mbox{ and } r \ge 1
+\end{displaymath}"></TD>
+<TD WIDTH=10 ALIGN="RIGHT">
+(3)</TD></TR>
+</TABLE>
+</DIV>
+<BR CLEAR="ALL"><P></P>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+  0.00   1.644934066848
+  0.10   1.534607244904
+...
+  1.00   1.000000000000
+...
+  2.00   0.750000000000
+...
+300.00   0.020942212934
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-31</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

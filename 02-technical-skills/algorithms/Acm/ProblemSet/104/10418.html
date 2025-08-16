@@ -1,0 +1,96 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<title>Problem H - Hyper Toy Soldiers</title>
+
+</head>
+
+<body bgcolor="#ffffff" lang=EN-US>
+
+<center>
+<p>
+<b><font size=5>Problem H</font></b><br>
+<b><font size=6>Hyper Toy Soldiers</font></b><br>
+<b>Input:</b> standard input<br>
+<b>Output:</b> standard output<br>
+<b>Time Limit:</b> 30 seconds<br>
+<b>Memory Limit:</b> 64 MB<br>
+</p>
+</center>
+
+<p>
+Alan's father has bought him a box of toy soldiers, <b>k</b> red soldiers, <b>k</b> green soldiers, and <b>one</b> gold
+soldier. There is a <b>m</b> x <b>n</b> board, each square has a height <b>h<sub>i,j</sub></b>, and all squares are big 
+enough to hold all the soldiers. At first, each soldier is placed in a square (not neccesarily all different), and <b>t</b>
+goal squares are chosen, each assigned with an 'importance value' <b>r<sub>i</sub></b>. The goal is to move soldiers 
+on these <b>t</b> squares so that the <b>i</b>th square has exactly <b>r<sub>i</sub></b> soldier(s) on it. Each soldier
+has to be on one of the <b>t</b> squares, so it's guaranteed that the sum of all <b>r<sub>i</sub></b> is equal to <b>2k+1</b>.
+<p>
+Each time, a soldier can move to an adjacent(north, south, east or west) square, but it can't move outside the board.
+Red soldiers can only <b>climb up</b>, so it can move only if the target square is not lower than the current square; Green soldiers
+can only <b>jump down</b>, so it can move only if the target square is not higher than the current square; The gold soldier can move 
+freely on the board.
+<p>
+Since it may be impossible to achieve the goal, Alan is allowed to use a kind of magic. Every time he uses the magic, he can
+do a <b>permutation</b> of all the soldiers(that is, he can do an arbitary number of exchanges, but he cannot move any soldier). 
+
+<p>Help Alan to use least possible number of magic to achieve the goal.
+
+<p><b><font size=5>Input</font></b></p>
+<p>
+The first line of the input contains the number of test cases <b>t</b> (<b>1&lt;=t&lt;=10</b>). Each test case begins with a line
+containing <b>4</b> integers <b>m, n, k, t</b> (<b>2&lt;=m,n&lt;=100, 1&lt;=k&lt;=50, 1&lt;=t&lt;=2k+1</b>). The second line
+contains <b>2k+1</b> pairs (<b>x<sub>i</sub>,y<sub>i</sub></b>) indicating the initial positions of the soldiers. The first <b>k</b>
+pairs describe red soldiers, the following <b>k</b> describe the green soldiers, and the last one describe the gold soldier.
+The third line contains <b>t</b> triples (<b>x<sub>i</sub>,y<sub>i</sub>,r<sub>i</sub></b>) indicating the positions and importance
+value of the goal squares. The following <b>m</b> lines each contains <b>n</b> integers, indicating the heights of squares. The <b>i</b>th
+integer of the <b>j</b>th line is the height of square (<b>x<sub>i</sub>,y<sub>j</sub></b>). Heights are integers between <b>0</b> and <b>100</b>.
+</p>
+
+<p><b><font size=5>Output</font></b></p>
+<p>
+For each test case, print on a single line the least number of magic needed.
+</p>
+
+<p><b><font size=5>Sample Input</font></b><br>
+<font face="Courier" size=3>
+3<br>
+4 6 2 5<br>
+1 1 1 5 4 1 4 5 3 3<br>
+1 2 1 2 6 1 3 2 1 3 6 1 4 3 1<br>
+3 2 6 1 3 5<br>
+2 1 7 4 4 6<br>
+2 3 1 4 3 4<br>
+4 3 4 3 2 3<br>
+4 3 3 7<br>
+1 1 1 2 1 3 4 1 4 2 4 3 1 1<br>
+1 1 1 2 1 1 2 2 1 2 3 1 3 1 1 3 2 1 3 3 1<br>
+1 1 1<br>
+2 2 2<br>
+3 3 3<br>
+4 4 4<br>
+8 11 3 7<br>
+1 1 1 5 1 9 8 1 8 5 8 9 4 5<br>
+1 3 1 1 7 1 1 11 1 4 5 1 8 3 1 8 7 1 8 11 1<br>
+9 2 3 1 9 2 3 1 9 2 3<br>
+1 1 1 1 1 1 1 1 1 1 1<br>
+9 9 9 9 9 9 9 9 9 9 9<br>
+1 1 1 1 1 1 1 1 1 1 1<br>
+9 9 9 9 9 9 9 9 9 9 9<br>
+1 1 1 1 1 1 1 1 1 1 1<br>
+9 9 9 9 9 9 9 9 9 9 9<br>
+1 8 7 9 1 8 7 9 1 8 7<br>
+</font>
+
+<p><b><font size=5>Sample Output</font></b><br>
+<font face="Courier" size=3>
+1<br>
+0<br>
+2<br>
+</font>
+
+<font face="Times New Roman" size=3>
+<hr>
+<b>The 2nd OIBH Online Programming Contest. Author: Rujia Liu</b><br>
+</body>
+</html>

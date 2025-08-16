@@ -1,0 +1,115 @@
+
+<html>
+<title>Problem F: Ants, Aphids and a Ladybug</title>
+
+<h2>Problem F: Ants, Aphids and a Ladybug</h2>
+
+
+<img src=p10939.jpg vspace=20 hspace=20 align=right>
+<p>
+If you are searching for ladybugs, the best place to look is near
+ants. The ants suck sweet honeydew from aphids and therefore, where
+there are ants, there must be aphids. Where there are aphids, there
+are more likely to be ladybugs. 
+ Ants defend aphids against ladybugs --- for which aphids are a
+much sought for delicacy. 
+<p>
+An old tree near the anthill serves as an aphid farm.  On the old tree,
+branches connect the forks (spaces where two or more branches meet) and
+leaves where the aphids feed.  There are <i>k</i> ant-guards
+(numbered from 1 to <i>k</i>) working on the farm.  A ladybug hunting
+aphids lands on the places where aphids feed, i.e. on leaves or forks. 
+When a ladybug lands on the tree, the guard-ants set off in her direction 
+in order to chase her away. They comply with the following rules:&nbsp;
+
+<ul>
+    <li> There is exactly one way for an ant to go from one fork or leaf
+      in the tree to another fork or leaf without ever turning back.  Upon the ladybug's landing, all of
+      the ant-guards simultaneously start going along such a route to the place where
+      the ladybug landed.
+
+    <li> If there is an ant in the place of the ladybug's landing, the
+    ladybug takes off immediately.
+
+    <li> If at any time an ant rushing towards the ladybug spots another ant anywhere 
+      ahead on its route, the ant stops and remains in its current 
+      position, yielding to the ant that is farther ahead.
+
+    <li> If two or more ants try to reach the same fork of
+      the tree at the same time, only one does so -- the one with the smallest id number.
+      The other ants trying to reach the same fork remain in their places.
+
+    <li> An ant which gets to the place of ladybug's landing chases it
+    away and remains in this place.
+  
+  </ul>
+<p>The ladybug is stubborn and lands on the tree again, and then the
+ant-guards set off again trying to chase the intruder away. In order
+to simplify the problem we assume that for each ant it takes a unit of
+time to walk between two neighboring forks or a fork and a leaf (2
+leaves cannot be neighbors).
+</p>
+
+The input file contains multiple test cases.  Each test case starts
+with an integer <i>n</i>, the number of leaves and forks
+in the tree, 1&lt;=<i>n</i>&lt;=5000. 
+We assume that leaves and forks are numbered from 1 to
+<i>n</i>. Each of the following <i>n</i>-1 lines describes tree branches;
+each branch is described by two integers
+<i> a</i> and <i>b</i>, meaning that the branch connects forks or leaves
+labeled <i>a</i> and <i> b</i>. In the
+(<i>n</i>+1)-st line there is one integer <i>k</i>, 1&lt;=<i>k</i>&lt;=1000 and <i> k</i>&lt;=<i>n</i>;
+<i>k</i> is the number of ants that guard the tree. There is one
+positive integer (not greater than <i>n</i>) in each of the following
+<i> k</i> lines.  The integer written in the
+(<i>n</i>+1+<i>i</i>)<i>-</i>th line is the start position of
+the&nbsp; <i>i</i>-th ant.  There is no fork or leaf in the tree
+occupied by more than one ant.  The line <i>n</i>+<i>k</i>+2 contains
+one integer
+<i>l</i>, 1&lt;=<i>l</i>&lt;=500, <i>l</i> saying how many times a
+ladybug lands on the tree. Each of the following
+<i>l</i> lines contains one positive integer (not greater than
+<i>n</i>).  These numbers define a sequence of tree places in which 
+the ladybug lands.  
+
+Input is terminated by the case with <i>n</i> equal to 0. 
+
+<p>Your program should output <i> k</i> lines for each test case. 
+In the <i>i</i>-th line for a case there should be two integers
+separated by a single space --- the final position of the <i>i</i>-th ant 
+(number of a fork or a leaf) and the number of times the <i>i</i>-th
+ant chased the ladybug away. </p>
+
+<h3>Sample input</h3>
+<pre>
+8
+1 2
+1 3
+2 4
+2 5
+3 6 
+3 7
+5 8
+3 
+1
+2
+6
+5 
+2
+4
+5
+8
+7
+0
+</pre>
+
+<h3>Output for sample input</h3>
+<pre>
+5 2
+2 2
+7 1
+</pre>
+
+<hr>
+
+<em>Krzysztof Lorys, adapted by P. Rudnicki</em>

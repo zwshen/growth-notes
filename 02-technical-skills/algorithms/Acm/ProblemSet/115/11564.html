@@ -1,0 +1,147 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Just A Few More Triangles!</TITLE>
+<META NAME="description" CONTENT="Just A Few More Triangles!">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Just A Few More Triangles!</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p115xx.eps}$
+ -->
+<IMG
+ WIDTH="300" HEIGHT="250" ALIGN="right" BORDER="0"
+ SRC="p11564.jpg"
+ ALT="\epsfbox{p115xx.eps}">
+<tex2html_verbatim_mark>
+</DIV>
+
+<P>
+Simon Haples is a somewhat peculiar person.  Not quite hip, not quite
+square, he is more of a triangular nature: ever since childhood, he
+has had an almost unhealthy obsession with triangles.  Because of his
+discrete nature, Simon's favorite kind of triangles are the
+Pythagorean ones, in which the side lengths are three positive
+integers <SPAN CLASS="MATH"><I>a</I></SPAN>
+<tex2html_verbatim_mark>, <SPAN CLASS="MATH"><I>b</I></SPAN>
+<tex2html_verbatim_mark>, and <SPAN CLASS="MATH"><I>c</I></SPAN>
+<tex2html_verbatim_mark> such that <SPAN CLASS="MATH"><I>a</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11564img2.png"
+ ALT="$ \le$"><I>b</I></SPAN>
+<tex2html_verbatim_mark> and <!-- MATH
+ $a^2 + b^2 = c^2$
+ -->
+<SPAN CLASS="MATH"><I>a</I><SUP>2</SUP> + <I>b</I><SUP>2</SUP> = <I>c</I><SUP>2</SUP></SPAN>
+<tex2html_verbatim_mark>.
+
+<P>
+Recently, Simon has discovered the fantastic world of counting modulo
+some integer <SPAN CLASS="MATH"><I>n</I></SPAN>
+<tex2html_verbatim_mark>.  As you may imagine, he quickly realizes that there
+are multitudes of Pythagorean triples to which he has previously been
+oblivious!  Simon therefore sets out to find all Pythagorean triples
+modulo <SPAN CLASS="MATH"><I>n</I></SPAN>
+<tex2html_verbatim_mark>, i.e., all triples of integers <SPAN CLASS="MATH"><I>a</I></SPAN>
+<tex2html_verbatim_mark>, <SPAN CLASS="MATH"><I>b</I></SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH"><I>c</I></SPAN>
+<tex2html_verbatim_mark> between <SPAN CLASS="MATH">1</SPAN>
+<tex2html_verbatim_mark>
+and <SPAN CLASS="MATH"><I>n</I> - 1</SPAN>
+<tex2html_verbatim_mark> such that <SPAN CLASS="MATH"><I>a</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11564img2.png"
+ ALT="$ \le$"><I>b</I></SPAN>
+<tex2html_verbatim_mark> and <!-- MATH
+ $a^2 + b^2 \equiv c^2
+\pmod{n}$
+ -->
+<SPAN CLASS="MATH"><I>a</I><SUP>2</SUP> + <I>b</I><SUP>2</SUP> <IMG
+ WIDTH="18" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="11564img3.png"
+ ALT="$ \equiv$"> <I>c</I><SUP>2</SUP>(mod <I>n</I>)</SPAN>
+<tex2html_verbatim_mark>.
+
+<P>
+As Simon's best friend, you realize that there is not much hope in
+deterring Simon from his crazy plans, so you decide to help him by
+computing how many such triples there are, so that Simon will know
+when his work is done.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains several test cases, each of them    as described below.
+
+<P>
+The input consists of a single integer <SPAN CLASS="MATH"><I>n</I></SPAN>
+<tex2html_verbatim_mark>, satisfying <!-- MATH
+ $2 \le n \le 500\,000$
+ -->
+<SPAN CLASS="MATH">2<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11564img2.png"
+ ALT="$ \le$"><I>n</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11564img2.png"
+ ALT="$ \le$">500&nbsp;000</SPAN>
+<tex2html_verbatim_mark>.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each test case, write to the output, on a line by itself, the number of Pythagorean triples modulo <SPAN CLASS="MATH"><I>n</I></SPAN>
+<tex2html_verbatim_mark>.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+7
+15
+</PRE> 
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+18
+64
+</PRE> 
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

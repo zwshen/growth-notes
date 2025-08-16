@@ -1,0 +1,174 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>The Laurel-Hardy Story</TITLE>
+<META NAME="description" CONTENT="The Laurel-Hardy Story">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+The Laurel-Hardy Story</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10792a.eps}$
+ -->
+<IMG
+ ALIGN="left" BORDER="0"
+ SRC="p10792a.jpg"
+ ALT="\epsfbox{p10792a.eps}">
+</DIV>
+
+<P>
+Laurel and Hardy are two famous movie characters of the 50's. They are well known for their differences in weight as
+you can see in the picture on the left. In case you dont know them I should
+add that Laurel was the lighter guy. In their younger days Laurel and Hardy
+used to play with a strange seesaw and when the seesaw was at a stable position Hardy was always nearer the ground. 
+We will now investigate a two dimensional version of their seesaw.
+
+
+<P>
+The seesaw that Laurel Hardy used can be considered as part of a circle
+of radius <SPAN CLASS="MATH"><I>r</I></SPAN>, as shown in the
+picture on the right (Filled gray and having the shape of a D). Hardy sat on
+point B (rightmost point of the seesaw) and Laurel sat on point A (Leftmost point of the seesaw top AB). <SPAN CLASS="MATH"><I>d</I></SPAN>=EF is the distance
+between the midpoint of line AB and arc AFB. So E is the midpoint of
+line AB and F is the midpoint of arc AFB. MN is the ground of the
+seesaw, which is horizontal with the plane. BD=<SPAN CLASS="MATH"><I>h</I><SUB>1</SUB></SPAN> is the distance of Hardy from the ground. Your job is to find out the
+distance of Laurel (denoted by <SPAN CLASS="MATH"><I>h</I><SUB>2</SUB></SPAN>=AC) from the ground.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10792b.eps}$
+ -->
+<IMG
+ ALIGN="center" BORDER="0"
+ SRC="p10792b.jpg"
+ ALT="\epsfbox{p10792b.eps}">
+</DIV>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+First line of the input file contains an integer <SPAN CLASS="MATH"><I>N</I></SPAN>
+(<!-- MATH
+ $0 < N \le 1000$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>N</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10792img3.png"
+ ALT="$ \le$">1000</SPAN>), which indicates how many sets of inputs are there. Each of the next <SPAN CLASS="MATH"><I>N</I></SPAN> lines contains a single set of input. The description of each set is given below:
+
+<P>
+
+<P>
+<BR>
+Each line contains three integers <SPAN CLASS="MATH"><I>r</I></SPAN> (<!-- MATH
+ $10 \le r \le 100$
+ -->
+<SPAN CLASS="MATH">10<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10792img3.png"
+ ALT="$ \le$"><I>r</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10792img3.png"
+ ALT="$ \le$">100</SPAN>), <SPAN CLASS="MATH"><I>d</I></SPAN>
+(<!-- MATH
+ $5 \le d \le r$
+ -->
+<SPAN CLASS="MATH">5<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10792img3.png"
+ ALT="$ \le$"><I>d</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10792img3.png"
+ ALT="$ \le$"><I>r</I></SPAN>), <SPAN CLASS="MATH"><I>h</I><SUB>1</SUB></SPAN> (<!-- MATH
+ $5 \le h_{1} \le d$
+ -->
+<SPAN CLASS="MATH">5<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10792img3.png"
+ ALT="$ \le$"><I>h</I><SUB>1</SUB><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10792img3.png"
+ ALT="$ \le$"><I>d</I></SPAN>). The
+meanings of these integers are given in the problem statement above.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each set of input produce one
+line of output. This line contains the serial of output followed by a
+floating-point number, which indicates the value of <SPAN CLASS="MATH"><I>h</I><SUB>2</SUB></SPAN>. This
+floating-point number should be rounded up to four digits after the decimal point. Look at the output for sample input for details.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2
+10 10 10
+10 7 6
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+Case 1: 10.0000
+Case 2: 8.0342
+</PRE>
+
+<P>
+
+
+<P>
+<BR>
+<hr>
+<ADDRESS>
+Problem setter: Shahriar Manzoor<br>
+Special Thanks: Monirul Hasan
+</ADDRESS>
+
+<HR>
+<ADDRESS>
+Miguel Revilla
+2004-12-10
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

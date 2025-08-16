@@ -1,0 +1,78 @@
+# Showing Respect and Disrespect
+
+Welcome to English as a Second Language Podcast number 4 73: Showing Respect and Disrespect. 
+
+This is English as a Second Language Podcast episode 473.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California, here in the Unite d States. 
+
+Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode, an 8- to 10-page guide that will help you im prove your English even faster. 
+
+This episode is called “Showing Respect and Disrespect.”  It ’s a dialogue between Kadir and Melissa about not being “respectful,”  not being nice, not giving someone the proper respect, and the vocabulary rel ated to that.  Let’s get started. 
+
+[start of dialogue] 
+
+Kadir:  Stop that!  Stop snickering!  Gabriel Voltaire  is an author of great acclaim. You should show a little reverence.   
+
+Melissa:  Yes, but he seems to have a bad case of stage frig ht.  I know it’s an honor to hear him speak, but it’s hard to show reverence when the man is sweating like a pig! 
+
+Kadir:  He’s not sweating like a pig.  He’s just talking passionately about his writing.  I, for one, appreciate his level of dedicatio n to his work. 
+
+Melissa:  I admire his work, too, but he’s making a fool of himself.  Really, who can pay attention to what he’s saying when he’s stuttering  like that.   
+
+Kadir:  Unlike you, I can listen to the genius of his wor ds without worrying about a little stuttering.   
+
+Melissa:  The man is making a spectacle of himself.  I thin k he needs to stick to writing and give up public speaking. 
+
+Kadir:  Shh!  That’s enough.  I won’t hear another w ord said against him.   
+
+ESL Podcast 473 - Showing Respect and Disrespect 
+
+ Melissa:  Whatever you say.  I’ll leave you to your hero  worship.  For me, enough is enough! 
+
+[end of dialogue] 
+
+Kadir begins our dialogue by saying, “Stop that!”  “St op that” means stop doing what you are doing.  “Stop snickering!” he says.  “To sn icker” (snicker) means to laugh quietly, but in a mean way when you’re making fu n of someone else.  We sometimes use this verb for children who are laughing at other children, being mean to them.  “Gabriel Voltaire is an author of gre at acclaim,” Kadir says. They’re listening to a speech by Gabriel Voltaire; he’s an “author,” a writer of great acclaim.  “Great acclaim” means very famous for doin g something well, someone who people have praised.  He says, “You should sho w a little reverence.”  “Reverence” is another word for respect, adm iration.  It’s usually something we use when talking about God, showing reveren ce to God.  But it can also be used to mean to show serious respect to someon e who is very important or very famous and deserves our respect. 
+
+Melissa says, “Yes, but he seems to have a bad case of stage f right,” he seems to be afraid of giving a speech.  Melissa says, “I know it’s an honor to hear him speak, but it’s hard to show reverence when the man is swea ting like a pig!”  To say something is “an honor” means that it is something yo u should be thankful for, something that you should be proud of usually becau se you have done something good or admirable.  In this case, “it’s an hon or to hear him speak,” means that Melissa should be grateful – should be than kful for this rare opportunity.  She says, “it’s hard to show reverence when the man (Gabriel) is sweating like a pig!”  “To sweat” means to have water t hat is coming out of your skin because you’re hot, or perhaps because you’re nervous.  In the case of Gabriel giving his speech, he’s very nervous, so he’s sweating  like a pig.  The idea is that pigs sweat a lot; they may or may not, but that’s the expression.  “To sweat like a pig” means to sweat a lot. 
+
+Kadir says, “He is not sweating like a pig.  He’s just talki ng passionately about his writing.”  “To speak passionately about (something)” is t o speak with a lot of emotion, often a lot of love for what you are talking  about.  Kadir says that Gabriel is just talking passionately about his writing, “I , for one, appreciate his level of dedication to his work.”  The expression “I, for  one…” is a somewhat formal phrase we use when we are about to give our opi nion, especially in situations where other people might not agree with us.   I, for one, think that my neighbor’s dog barks too much; he probably doesn’t agree with me!  Kadir says, “I, for one, appreciate his level of dedication to his w ork.”  “Dedication,” here, means his commitment, his hard work, his effort in his wri ting, in doing his work.   
+
+ESL Podcast 473 - Showing Respect and Disrespect 
+
+ The word “dedication” has several different meanings in  English; take a look at our Learning Guide for some additional explanations. 
+
+Melissa says, “I admire his work, too.”  “To admire” means to respect, to think something is good, to think something is impressive.  You could admire a beautiful painting; you could admire the work that your  colleague – your co- worker does.  Anything that is admired deserves great resp ect because it’s so good, because it is, perhaps, so excellent.  Melissa says, “I  admire his work,” meaning Gabriel’s writing, “but he’s making a fool of himself.”  “To make a fool of yourself” means to do something that other people may l augh at you for, and you don’t want them to laugh at you.  To make a fool of yo urself means to look silly – to look foolish in front of other people.  If I try to  play baseball, I make a fool of myself – that’s why I only watch it on television!  Melissa sa ys, “Really, who can pay attention to what he’s saying when he’s stuttering li ke that.”  “To stutter” means to not speak properly; to repeat sounds, that is stut tering.  Someone who goes: “Uh-uh-uh-uh-I,” that would be to stutter.  
+
+Kadir says, “Unlike you, I can listen to the genius of his words without worrying about a little stuttering.”  “Genius” means very smart, very intelligent.  Kadir says he can listen to the “genius of his words,” meaning the  intelligent things that are in his writing or in his speaking.  Melissa says, “The man i s making a spectacle of himself.”  “To make a spectacle of yourself” means to do som ething that would make other people look at you and think that you are st upid or foolish; they may even be laughing at you.  It’s similar to making a fool of yourself.  Melissa says, “I think he needs to stick to writing and give up public speaki ng.”  “To stick to (something)” means to continue to do something without  changing what you are doing.  I should stick to podcasting; that’s what I should continue doing because, perhaps, I’m not very good at other things.  Which is tru e; I’m not very good at most things! 
+
+Melissa wants Gabriel to “stick to writing,” meaning he sh ould continue to write but not public speaking – not giving speeches to people.  Kadir says, “Shh (be quiet)!  That’s enough.  I won’t hear another word a gainst him,” meaning I don’t want to hear any other criticisms of him.  Melissa says, “Wha tever you say,” meaning I’m not going to argue with you.  “I’ll leave  you to your hero worship,” she says.  “Hero worship” is the practice of admiring someon e very much, maybe too much.  You think of this person as being so great th at you might lose perspective; you might not see the truth.  Melissa says, “Fo r me, enough is enough!”  The expression “enough is enough” is an inform al one used to show that you have had enough of something; you no longer wa nt to be part of this situation.  For her, it means she doesn’t want to list en to Gabriel’s speech anymore.  
+
+ESL Podcast 473 - Showing Respect and Disrespect 
+
+ Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Kadir:  Stop that!  Stop snickering!  Gabriel Voltaire  is an author of great acclaim. You should show a little reverence.   
+
+Melissa:  Yes, but he seems to have a bad case of stage frig ht.  I know it’s an honor to hear him speak, but it’s hard to show reverence when the man is sweating like a pig! 
+
+Kadir:  He’s not sweating like a pig.  He’s just talking passionately about his writing.  I, for one, appreciate his level of dedicatio n to his work. 
+
+Melissa:  I admire his work, too, but he’s making a fool of himself.  Really, who can pay attention to what he’s saying when he’s stuttering  like that.   
+
+Kadir:  Unlike you, I can listen to the genius of his wor ds without worrying about a little stuttering.   
+
+Melissa:  The man is making a spectacle of himself.  I thin k he needs to stick to writing and give up public speaking. 
+
+Kadir:  Shh!  That’s enough.  I won’t hear another w ord said against him.   
+
+Melissa:  Whatever you say.  I’ll leave you to your hero  worship.  For me, enough is enough! 
+
+[end of dialogue] 
+
+It’s always an honor to listen to one of the scripts writ ten by Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

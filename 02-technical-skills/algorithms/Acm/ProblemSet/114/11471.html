@@ -1,0 +1,137 @@
+<title>A :: Arrange the Tiles</title>
+<style type="text/css">
+<!--
+.style1 {
+	font-family: Garamond;
+	font-weight: bold;
+	font-size: 28px;
+	color: #FFFFFF;
+}
+.style3 {
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+	font-size:15px
+}
+.style4 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 18px;
+	color: #0000FF;
+}
+.style10 {font-family: "Courier New", Courier, monospace; font-weight: bold; font-size: 13px; }
+.style12 {font-family: Garamond; font-weight: bold; font-size: 16px; color: #FFFFFF; }
+.style11 {color: #0000FF}
+-->
+</style>
+<body>
+<table width="100%" border="0">
+  <tr>
+    <td width="3%" height="38">&nbsp;</td>
+    <td  width="32%" bgcolor="#0000FF"><div align="center" class="style1">Problem A </div></td>
+    <td bgcolor="#0000FF" width="30%"><div align="center"><span class="style1">
+    Arrange the Tiles</span></div></td>
+    <td width="21%" align="center" valign="middle" bgcolor="#0000FF"><div align="center"><span class="style12">Time
+    Limit : 4 seconds</span></div></td>
+    <td width="12%"><div align="center"></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3"><p>&nbsp;</p>
+      <p>There is a board of dimension 4 x 3. Each cell of the board is a container that can hold a tile. The board is shown in the following diagram. </p>
+      <table width="100%" border="0">
+      <tr>
+        <td>&nbsp;</td>
+        <td align="center"><img src="p11471a.png" align="baseline"></td>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+    <p align="justify">As expected, you have got 12 tiles with you and you are required to place them in the containers so that every container has one tile in it. However, the tiles that you have are not ordinary tiles. Each tile is a square piece with all its 4 edges colored. A tile is described by its 4 edge colors starting from top and going clockwise.    </p>
+
+      <table align="center" width="228" border="1">
+          <tr>
+            <td align="center" width="75"><img src="p11471b.png" align="middle"></td>
+            <td width="75" align="center"><img src="p11471c.png" align="middle"></td>
+            <td width="75" align="center"><img src="p11471d.png" align="middle"></td>
+          </tr>
+          <tr>
+            <td align="center">R G B Y </td>
+            <td align="center">R G R Y </td>
+            <td align="center">Y Y Y Y </td>
+          </tr>
+      </table><br />
+      The image shows 3 tiles. The description of the tiles are given below the image. The colors that will be used to denote the tiles will be from the set {yellow, green, blue and  red} and will be represented by {Y, G, B and R} for the sake of brevity.
+        <p align="justify">There are 12 factorials (12!) ways of placing the tiles on the board. A placement is considered fragile if the touching sides of  any two adjacent tiles is made up of different colors. You are required to find out the total number of placements which are not fragile. </p>
+        <p align="justify">Note: You can not rotate the tiles. That is, the initial orientation must be preserved. </p></td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2"><span class="style4">Input</span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3" align="justify">The first line of input is an integer <span class="style10">T</span>( <span class="style10">T</span> &lt; 20 ) that denotes the number of test cases.
+    Each case starts on a new line and consists of one or more lines containing 12 strings. Each string represents a tile
+    and is made up of 4 characters.</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3"><span class="style4">Output</span></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3" align="justify">For each case, output the case number followed by the total number of non-fragile placements. </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><span class="style4">Sample Input</span></td>
+    <td><span class="style4">Sample Output </span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+
+    <td valign="top"><p class="style10">2<br>
+      BBBB BBBB BBBB BBBB BBBB BBBB BBBB BBBB BBBB BBBB BBBB  YYYY<br>
+      GGGG GGGG GGGG GGGG GGGG GGGG GGGG GGGG GGGG GGGG GGGG GGGG<br>
+      <br>
+        </p>
+    </td>
+
+    <td valign="top"><span class="style10">Case 1: 0<br>
+      Case 2: 479001600 
+      <br>
+    <br />
+</span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td class="style10" colspan="3"><hr />
+      Problem Setter: Sohel Hafiz <br />
+      Special Thanks: Shamim Hafiz, Md. Arifuzzaman Arif<br>
+      <span class="style11">Next Generation Contest 5</span></td>
+    <td valign="top">&nbsp;</td>
+    <td width="1%">&nbsp;</td>
+    <td width="1%">&nbsp;</td>
+  </tr>
+</table>
+</body>

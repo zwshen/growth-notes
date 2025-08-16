@@ -1,0 +1,435 @@
+<html>
+<title>E - Ensuring Truth</title>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 12 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Garamond;
+	panose-1:2 2 4 4 3 3 1 1 8 3;}
+@font-face
+	{font-family:Algerian;
+	panose-1:4 2 7 5 4 10 2 6 7 2;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p
+	{margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+pre
+	{mso-style-link:"HTML Preformatted Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+tt
+	{font-family:"Courier New";}
+span.HTMLPreformattedChar
+	{mso-style-name:"HTML Preformatted Char";
+	mso-style-link:"HTML Preformatted";
+	font-family:"Courier New";}
+span.spelle
+	{mso-style-name:spelle;}
+p.cbfont, li.cbfont, div.cbfont
+	{mso-style-name:cbfont;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US>
+
+<div class=Section1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;border:outset 1.5pt'>
+ <tr>
+  <td style='padding:0in 0in 0in 0in'>
+  <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+   style='width:100.0%;background:#D9D9D9;border:solid white 1.5pt'>
+   <tr style='height:19.5pt'>
+    <td width="20%" rowspan=2 style='width:20.0%;border:solid white 1.5pt;
+    padding:0in 0in 0in 0in;height:19.5pt'>
+    <p class=MsoNormal align=center style='text-align:center;line-height:normal'><b><span
+    style='font-size:48.0pt;font-family:"Garamond","serif"'>E</span></b></p>
+    </td>
+    <td width="56%" style='width:56.04%;border:solid white 1.5pt;padding:0in 0in 0in 0in;
+    height:19.5pt'>
+    <p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
+    style='font-size:12.0pt;font-family:Algerian'>NEXT generation Contest - 4</span></p>
+    </td>
+    <td width="23%" rowspan=2 style='width:23.96%;border:solid white 1.5pt;
+    padding:0in 0in 0in 0in;height:19.5pt'>
+    <p class=MsoNormal align=center style='text-align:center;line-height:normal'><b><span
+    style='font-size:12.0pt;font-family:"Garamond","serif"'>Time Limit – 3 secs</span></b></p>
+    </td>
+   </tr>
+   <tr>
+    <td width="56%" valign=bottom style='width:56.04%;border:solid white 1.5pt;
+    padding:0in 0in 0in 0in'>
+    <p class=MsoNormal align=center style='text-align:center;line-height:normal'><b><span
+    style='font-size:28.0pt;font-family:"Garamond","serif"'>Ensuring Truth</span></b></p>
+    </td>
+   </tr>
+  </table>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='text-align:justify;line-height:normal'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p style='text-align:justify'>In this problem we will consider Boolean formulas
+written according to the following BNF grammar:</p>
+
+<pre><span style='font-size:9.0pt'>&lt;formula&gt; ::= &lt;clause&gt; | &lt;formula&gt; &quot;|&quot; &lt;clause&gt;</span></pre><pre><span
+style='font-size:9.0pt'>&lt;clause&gt; ::= &quot;(&quot; &lt;conjunction-of-literals&gt; &quot;)&quot;</span></pre><pre><span
+style='font-size:9.0pt'>&lt;conjunction-of-literals&gt; ::= &lt;literal&gt; | &lt;conjunction-of-literals&gt; &quot;&amp;&quot; &lt;literal&gt;</span></pre><pre><span
+style='font-size:9.0pt'>&lt;literal&gt; ::= &lt;variable&gt; | &quot;~&quot; &lt;variable&gt;</span></pre><pre><span
+style='font-size:9.0pt'>&lt;variable&gt; ::= &quot;a&quot; | &quot;b&quot; | &quot;c&quot; | ... | &quot;z&quot;</span></pre><pre><span
+style='font-size:9.0pt'>&nbsp;</span></pre>
+
+<p class=MsoNormal style='text-align:justify;line-height:normal'><span
+style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Each formula can
+contain up to 26 different Boolean variables, which are denoted by lowercase
+English letters. We use the ampersand sign (&quot;</span><span
+style='font-size:10.0pt;font-family:"Courier New"'>&amp;</span><span
+style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&quot;) to
+denote conjunction, vertical bar (&quot;</span><span style='font-size:10.0pt;
+font-family:"Courier New"'>|</span><span style='font-size:12.0pt;font-family:
+"Times New Roman","serif"'>&quot;) for disjunction, and tilde (&quot;</span><span
+style='font-size:10.0pt;font-family:"Courier New"'>~</span><span
+style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&quot;) for
+inversion. The truth tables of these operators are shown below for your
+reference. </span></p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellpadding=0>
+ <tr>
+  <td style='padding:.75pt .75pt .75pt .75pt'>
+  <table class=MsoNormalTable border=1 cellpadding=0>
+   <tr>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>x</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>y</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>x &amp; y</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+   </tr>
+  </table>
+  </td>
+  <td width=20 style='width:15.0pt;padding:.75pt .75pt .75pt .75pt'></td>
+  <td style='padding:.75pt .75pt .75pt .75pt'>
+  <table class=MsoNormalTable border=1 cellpadding=0>
+   <tr>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>x</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>y</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>x | y</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+   </tr>
+  </table>
+  </td>
+  <td width=20 style='width:15.0pt;padding:.75pt .75pt .75pt .75pt'></td>
+  <td style='padding:.75pt .75pt .75pt .75pt'>
+  <table class=MsoNormalTable border=1 cellpadding=0>
+   <tr>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>x</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>~x</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>true</span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Times New Roman","serif"'>false</span></p>
+    </td>
+   </tr>
+  </table>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal style='line-height:normal'><span style='font-size:12.0pt;
+font-family:"Times New Roman","serif"'>A formula is called satisfiable if it is
+possible to assign values to its variables in such a way as to make the formula
+evaluate to true. </span></p>
+
+<pre><span style='font-size:9.0pt'>&nbsp;</span></pre>
+
+<p class=MsoNormal style='text-align:justify;line-height:normal'><span
+style='font-size:12.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
+line-height:115%;font-family:"Garamond","serif"'>Input</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;line-height:normal'><span
+style='font-size:12.0pt;font-family:"Times New Roman","serif"'>The first line
+of the input file contains an integer <b>T</b> (1 &#8804; <b>T</b> &#8804;
+5000). Each of the next <b>T</b> lines contains a Boolean formula. You can
+assume that the formulas will strictly follow the grammar specified above, and
+will not be longer than 250 characters. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
+line-height:115%;font-family:"Garamond","serif"'>Output</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;line-height:normal'><span
+style='font-size:12.0pt;font-family:"Times New Roman","serif"'>For each
+formula, you should determine whether it is satisfiable, and output a line
+&quot;YES&quot; if yes, it is, and &quot;NO&quot; otherwise.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
+line-height:115%;font-family:"Garamond","serif"'>&nbsp;</span></b></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0>
+ <tr>
+  <td width=226 valign=top style='width:169.45pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal style='text-align:justify;line-height:normal'><b><span
+  style='font-size:16.0pt;font-family:"Garamond","serif"'>Sample Input</span></b></p>
+  </td>
+  <td width=352 valign=top style='width:264.05pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal style='text-align:justify;line-height:normal'><b><span
+  style='font-size:16.0pt;font-family:"Garamond","serif"'>Output for Sample
+  Input</span></b></p>
+  </td>
+ </tr>
+ <tr style='height:63.15pt'>
+  <td width=226 valign=top style='width:169.45pt;padding:0in 0in 0in 0in;
+  height:63.15pt'><pre><span style='font-size:11.0pt'>2</span></pre><pre><span
+  style='font-size:11.0pt'>(a&amp;b&amp;c)|(a&amp;b)|(a)</span></pre><pre><span
+  style='font-size:11.0pt'>(x&amp;~x)</span></pre></td>
+  <td width=352 valign=top style='width:264.05pt;padding:0in 0in 0in 0in;
+  height:63.15pt'><pre><span style='font-size:11.0pt'>YES</span></pre><pre><span
+  style='font-size:11.0pt'>NO</span></pre>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:10.0pt;font-family:"Courier New"'>&nbsp;</span></p>
+  </td>
+ </tr>
+</table>
+
+<div style='border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 1.0pt 0in'>
+
+<p class=MsoNormal style='text-align:justify;line-height:normal;border:none;
+padding:0in'><b><span style='font-size:12.0pt;font-family:"Courier New"'>&nbsp;</span></b></p>
+
+</div>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Garamond","serif"'>ProblemSetter: &nbsp; Ivan
+Krasilnikov</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>

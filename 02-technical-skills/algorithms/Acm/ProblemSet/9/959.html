@@ -1,0 +1,189 @@
+
+<!--Converted with LaTeX2HTML 2002-2-1 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Car Rallying</TITLE>
+<META NAME="description" CONTENT="Car Rallying">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2002-2-1">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Car Rallying</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+You are about to participate as a co-driver in the next edition of
+the ``Rallye de Monte-Carlo'' (organized by ACM - Automobile Clube
+de Monaco). Before the actual race all drivers are allowed to run
+on the tracks of the course. In these reconnaissance drives, the
+co-drivers, who sit next to the drivers, write down shorthand
+notes on how to best drive the stage.
+
+<P>
+Based on your observations on these notes, you were able to create a
+map with the advisable speed limits of track sections.  Passing by
+these locations over the speed limit is not recommended, since it can
+make your car crash. To assist your pilot, you need to devise a
+winning strategy based on the speed limits. And a nice computer
+program could be handy for this task...
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p959a.eps}$
+ -->
+<IMG
+HEIGHT="234" ALIGN="BOTTOM" BORDER="0"
+ SRC="p959a.jpg"
+ ALT="\epsfbox{p959a.eps}">
+</DIV>
+
+<P>
+Given a car rally track marked with speed limits at specific
+locations, your goal is to devise a strategy to reduce and increase
+the car speed such that you will run the track at the fastest possible
+time without ever going over the speed limit.
+
+<P>
+For simplicity the track is divided into section units, each one of
+them whith a specific speed limit. At start position your car marks
+speed 0 Km/h.  You can increase your speed or decrease it by multiples
+of 10. For each 10 Km/h your car advances 1 unit. For example, if you
+have a current speed of 50 Km/h your car advances 5 units making what
+we call a move. After each move, you can change again the car
+speed. You can for instance accelerate to 70 Km/h making your car
+advance 7 units more, or you can brake to 40 Km/h making your car
+advance 4 units.
+
+<P>
+While you are running at a determined speed (in a single move), you
+can only pass track units with speed limit equal or bigger than your
+current speed. For calculations purposes, a move starts on the unit
+immediately after the current position. Due to mechanical limitations,
+rally cars have a maximum acceleration and braking speed. For
+example a car with a maximum acceleration speed of 30 Km/h and maximum
+break speed of 20 Km/h, can only make an increment to the current
+speed of 30, 20, 10, 0, -10 or -20 Km/h.
+
+<P>
+Your car starts the race before the first unit of the track (a
+``virtual'' zero unit) and to finish the race it must pass over the
+last unit of the track, passing the finish line. You can cross the
+finish line at any speed. Note that arriving at the last unit is not
+considered terminating the race!
+
+<P>
+Your task is to give the optimal strategy for the car, that is, the
+one that minimizes the number of total moves needed to finish the
+track without ever exceeding the speed limit.
+
+<P>
+The following figure illustrates a track example and its corresponding
+optimal strategy (5 moves). This track is also given in sample input.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p959b.eps}$
+ -->
+<IMG
+ WIDTH="777" HEIGHT="468" ALIGN="BOTTOM" BORDER="0"
+ SRC="p959b.jpg"
+ ALT="\epsfbox{p959a.eps}">
+</DIV>
+
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of input contains an integer <SPAN CLASS="MATH"><I>C</I></SPAN>, giving the number 
+of test cases that follow <!-- MATH
+ $(1 \le C \le 10)$
+ -->
+<SPAN CLASS="MATH">(1<I>C</I>10)</SPAN>.
+
+<P>
+Each test case starts with a line containing two integers <SPAN CLASS="MATH"><I>A</I></SPAN> and
+<SPAN CLASS="MATH"><I>B</I></SPAN> separated by a single space, indicating the maximum values of
+acceleration and braking. <SPAN CLASS="MATH"><I>A</I></SPAN> and <SPAN CLASS="MATH"><I>B</I></SPAN> are always
+multiple of 10 and <!-- MATH
+ $10 \le A,B \le 240$
+ -->
+<SPAN CLASS="MATH">10<I>A</I>, <I>B</I>240</SPAN>.
+
+<P>
+The next line describes the track. It is given by pairs of integers
+<SPAN CLASS="MATH"><I>NV</I></SPAN> indicating a section of <SPAN CLASS="MATH"><I>N</I></SPAN> units with speed limit <SPAN CLASS="MATH"><I>V</I></SPAN>. 
+The end of the track is indicated by an <TT>0 0</TT> pair.
+<SPAN CLASS="MATH"><I>V</I></SPAN> will always be a positive multiple of 10 smaller than 250. The
+maximum number of units in one track is 10000.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+There is one line for each test case, containing the minimum number of
+moves that a car needs to make to finish the corresponding track.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+30 10
+10 100 5 70 3 40 6 100 0 0
+40 50
+15 100 0 0
+40 20
+1 50 1 40 1 30 1 20 1 10 1 20 1 30 1 40 1 50 0 0
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+5
+3
+5
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+MIUP'2006
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

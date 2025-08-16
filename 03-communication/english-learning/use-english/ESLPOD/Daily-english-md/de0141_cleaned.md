@@ -1,0 +1,71 @@
+# A Brainstorming Session
+
+Welcome to English as a Second Language Podcast num ber 141: A Brainstorming Session. 
+
+This is  English as a Second Language Podcast numbe r 141. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+Today’s podcast is about people who are trying to c ome up with new ideas at a brainstorming session. Let’s get started! > Judy: I've called this meeting so we can brainstorm  some fundraising ideas. As you know, we're in danger of closing. Any thoughts?   
+> Stan: I thought that Juan was working on getting do nors. 
+> Judy: He is, but we can't count on that coming thro ugh.  
+> Dominique: How much do we need to raise? What's a b allpark figure?  
+> Judy: We need at least $50,000 for next year. 
+> Dominique: That's a lot of money, but I think we'll  come up with something. How about a benefit performance?  
+> Stan: That sounds promising. Who can we get to perf orm? 
+> Judy: It would be great to get someone like Barry M anilow.  
+> Dominique: I think we're shooting too high. I was t hinking more like a local band or comedy group.  
+> Stan: I've got it. My brother works for The Improv.  He knows a lot of comedians from this area. Maybe we can get a few of them to p erform. 
+> Dominique: That would be great.  
+> The title of this podcast is “A Brainstorming Sessi on.” “To brainstorm” (brainstorm) – as a verb – means that you and someo ne else, perhaps a group of people, get together and you try to think of ideas to solve a problem – that is to brainstorm. And a “session” is simply the same here  as a meeting. Well, there are three people in today’s podcast having a brains torming session. Judy begins by saying, “I’ve called this meeting so we can brai nstorm some fundraising ideas.” The verb “to call” means, of course, you ca n call someone on your telephone, but we also use the verb “to call” with the idea of a meeting. “I’m going to call this meeting,” means I’m going to organize this meeting. Well, the meeting is to “brainstorm some fundraising ideas.” Once aga in, that verb “to fundraise” (fundraise) – all one word – “to fundraise” means t o try to make money, usually for an organization. A volunteer organization, for example, would try to do fundraising. And the noun for that is “fundraiser.”  Someone might say, “We’re having a fundraiser for my church.” So, you are try ing to make money. The verb would be “to raise money” for your organization.  
+
+Judy says that their organization is “in danger of closing.” “In danger of,” means that it hasn’t happened yet, but it could happen an d it’s always a negative thing that could happen. So, for example, you tell your b oss that he is an idiot, that he’s stupid. Well, you are now in danger of losing your job. So, that’s the meaning of “in danger of.” It’s when something bad may happen. There’s a possibility, it could happen. 
+
+Well, in this dialog, their organization is in dang er of closing. And notice also that we use the “ing” form of the verb. So, not “in dang er of close,” but “in danger of closing,” or shutting down. Stan recommends that – or comments rather – that he thought Juan was working on getting donors. A “dono r” (donor) is, as you probably know, someone who gives money. The verb is  “to donate” (donate). And Judy says that yes, he is. Juan is working on g etting donors. I should probably explain “He is working on” and the “ing” f orm, “getting.” “I am working on finishing my paper” – that means I am trying to, I am in the act of finishing my paper. Well, Judy says that they can’t “count on th at coming through.” “To count on” (count) – two words – means to depend upon, to rely upon, to think that it is going to happen. People sometimes say, “Don’t count  on it,” meaning don’t rely on that, it may not happen. 
+
+“To come through” here as a verb – “to come through ” (through) – means that – we use that expression, that verb “to come through, ” talking about someone who is going to help you, usually, out of a difficult s ituation and they haven’t yet helped you, but you hope that they will do what the y promised to do. And so, we’d say, “Well, I hope he comes through with that money,” meaning he says he was going to find the money so let’s hope he, in fa ct, does. And it’s usually used when you’re trying to help someone out of a difficu lt situation. Dominique says, “What’s a ballpark figure?” for how much money they  need. “What’s a ballpark figure?” “Ballpark” (ballpark) – all one word – a “ ballpark” is a place where you play baseball, for example, or football – it’s a bi g stadium. But the expression “Ballpark figure” – and “figure” (figure) – just me ans here, number. We use that expression “A ballpark figure” to mean an estimate,  an approximate number. Someone says, “Well, I’m not really exactly sure ho w much,” and you say, “Well, give me a ballpark figure” – that means an estimate , a guess. It may not necessarily be true, but it’s a guess, a good guess  – that’s a ballpark figure. 
+
+Judy says they need $50,000. Dominique says, “That’ s a lot of money,” and she suggests a “benefit performance.” A “benefit (benef it) performance” – a “performance” is usually a show or, for example, yo u could have a symphony orchestra or a band or a play – all of these could be performances. It’s when they actually sing or dance or whatever it is. Well, a b enefit performance is a special performance where people pay money to see the enter tainment – the performance. And that money goes to the organizatio n to help the organization. Stan says, “This sounds promising.” That expression  “It sounds promising” means it sounds like it’s a good idea. It sounds li ke something that will actually work. You can also say, “It looks promising.” For e xample, “I went on an interview for a new job because I told my boss he was stupid and fired me.” And the person – my friend says, “Well, how does it look?” And I say, “Well, it looks promising,” meaning I think I may get the job if I can keep my mouth shut.  
+
+Dominique says, “We’re shooting too high,” because Judy recommends getting Barry Manilow as a singer. Barry Manilow is an Amer ican singer from the 1970’s and 80’s. I guess he is still alive and Barry Manil ow is – he must be in his 90’s, I think. Anyway, he is a famous American pop singer. And Dominique says, “I think we’re shooting too high.” “To shoot (shoot) too hig h” means, or we also say “to aim (aim) too high” – means that you are trying to do more than is possible – trying to get a big famous singer – that’s not goin g to be possible. It’s shooting too high. It’s too difficult. Stan recommends that they try another solution. He says, “I’ve got it,” meaning I have an idea. I have  the solution. His brother works for “The Improv.” An “Improv” (improv) is short for  “improvisation” and it’s a place where you have comedians, where people get up and t ell jokes. And there’s actually a place here in Los Angeles called “The Im prov” and it’s a place where  
+
+you can go see famous comedians. Well, Stan says he  knows a lot of comedians and a “comedian” (comedian) is someone who tells jo kes – better than me.  
+
+Judy says, “I like how this is shaping up.” “To sha pe up” (shape) up (up) – two words – “to shape up” means you like how things are  developing. You like how things are turning out – are progressing – are comi ng along – all of those are the same. “To shape up” – “things are shaping up.” Now,  there’s another use of that verb “to shape up” and it’s sometimes used to mean to improve yourself. If your mother says, “You need to shape up” means you need to behave better. You need to act better. You need to improve yourself.  
+
+Judy says that they’re “out of time,” meaning they have no more time for their meeting but they agreed to meet on Friday to “hamme r out the details.” “To hammer (hammer) out (out)” – two words. Well, a “ha mmer” is what you use to put a nail – a little piece of metal in wood, for e xample. You hammer it. It’s long and it has a little – usually made of some sort of metal and it’s hard and it’s made for hitting. Well, “to hammer out,” however, means to figure out, to go over all of the smaller details. You can use this verb, for exa mple, when you’re talking about an agreement or a negotiation. “We’re going to hamm er out the details” means we’re going to figure them out. We have the big gen eral idea, now we’re going to talk about the – each individual item and all of it s details. 
+
+Now let’s listen to the dialogue this time at a nat ive rate of speech. 
+
+[start of story] 
+
+Judy: I've called this meeting so we can brainstorm  some fundraising ideas. As you know, we're in danger of closing. Any thoughts?   
+
+Stan: I thought that Juan was working on getting do nors. 
+
+Judy: He is, but we can't count on that coming thro ugh.  
+
+Dominique: How much do we need to raise? What's a b allpark figure?  
+
+Judy: We need at least $50,000 for next year. 
+
+Dominique: That's a lot of money, but I think we'll  come up with something. How about a benefit performance?  
+
+Stan: That sounds promising. Who can we get to perf orm? 
+
+Judy: It would be great to get somebody  like Barry  Manilow.  
+
+Dominique: I think we're shooting too high. I was t hinking more like a local band or comedy group.  
+
+Stan: I've got it. My brother works for The Improv.  He knows a lot of comedians from this area. Maybe we can get a few of them to p erform. 
+
+Dominique: That would be great.  
+
+Judy: I like how this is shaping up. We're out of t ime, but let's meet again on Friday to hammer out the details. Thanks everybody.  
+
+[end of story] 
+
+Thank you for listening to today’s podcast. It was written as always, by Dr. Lucy Tse. We also want to thank Dr. Marlene Rodriguez wh o helped us with reading the dialog today. Thank you, Marlene! 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. We’ll see you next time on ESL Podcast. 
+
+English as a Second Language podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. This podcast is copyr ight 2006.
+

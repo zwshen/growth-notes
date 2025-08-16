@@ -1,0 +1,143 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<META NAME="Generator" CONTENT="EditPlus">
+<META NAME="Author" CONTENT="Monirul Hasan">
+<META NAME="Keywords" CONTENT="UVa Monthly Contest">
+<META NAME="Description" CONTENT="August 2003, UVa Monthly Contest">
+<TITLE>
+Flowers of a Beautiful Mind
+</TITLE>
+
+<style type="text/css">
+.paragraph {text-align: justify};
+</style>
+
+</HEAD>
+<BODY>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem B</B></FONT><BR>
+<FONT SIZE="5"><B>Flowers of a Beautiful Mind</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 2 seconds</FONT>
+</CENTER>
+</P>
+
+<P CLASS="paragraph">
+A beautiful mind looks for beauty in everything. Determinant is a mathematician who finds many beautiful flowers in intersecting circles. You can see his flowers below. The layers are marked with different colors. You can assume that the topmost flower is the smallest and darkest. The bottom layer(s) is(are) covered by the top layer(s). You can assume that
+<OL>
+<LI>	The circles intersect one another at a common point and at an uncommon point.
+<LI>	The circles are of equal radius.
+<LI>	The consecutive circles are at equal angular distance.
+<LI>	The flower in each layer has equal number of petals.
+<LI>	Assume that pi=2*cos<SUP>-1</SUP>(0.0)
+</OL>
+</P>
+<TABLE ALIGN=center CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR>
+<TD>
+<IMG SRC="p10540a.jpg">
+</TD>
+<TD>
+<IMG SRC="p10540b.jpg">
+</TD>
+<TD>
+<IMG SRC="p10540c.jpg">
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0">
+<TD ALIGN=center>Three circles intersect</TD>
+<TD ALIGN=center>Four circles intersect</TD>
+<TD ALIGN=center>Six circles intersect</TD>
+</TR>
+<TR>
+<TD>
+<IMG SRC="p10540d.jpg">
+</TD>
+<TD>
+<IMG SRC="p10540e.jpg">
+</TD>
+<TD>
+<IMG SRC="p10540f.jpg">
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0">
+<TD ALIGN=center>Eight circles intersect</TD>
+<TD ALIGN=center>Ten circles intersect</TD>
+<TD ALIGN=center>Fifteen circles intersect</TD>
+</TR>
+<TR>
+<TD ALIGN=center COLSPAN=3>
+<IMG SRC="p10540g.jpg">
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0">
+<TD ALIGN=center COLSPAN=3>Fifteen circles intersect</TD>
+</TR>
+</TABLE>
+
+<P CLASS="paragraph">
+Given the radius (<B>R</B>) and number (<B>N</B>) of intersecting circles, you will have to find the total area of each layer (<B>Li</B>), the total visible area of each layer (<B>Vi</B>). Total Area of each layer means the summation of the surface area of all the petals in that layer. For example, the petals of the bottom most layer are always circles. So the total area of the bottom most layer is always N*(area of one circle).
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The input file contains less than <B>1200</B> lines of input. Each line contains two positive integers <B>R (50 &gt= R &gt 0)</B> and <B>N (100 &gt= N &gt= 3)</B> as described in the problem statement. Input is terminated by a line where <B>R=0</B> and <B>N=0</B>. 
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+For each line of input, produce (<B>L+2</B>) lines of output, where <B>L</B> is the number of layers in that flower.
+</P>
+<P CLASS="paragraph">
+The first line of the output for each layer is the output serial number as shown in the sample output. The very next line contains an integer L where L is the number of layers in the flower. Each of the next L lines should contain two floating-point numbers. The first floating point number in the i-th line denotes the total area of the i-th layer (From top to bottom) and the second floating point number denotes the visible area of the i-th layer. All floating-point numbers should be rounded up to four digits after the decimal point. Errors less than 10<SUP>-4</SUP> will be ignored.   
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR>
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0">
+<TD VALIGN="top">
+<PRE>
+10 3
+10 5
+10 7
+0 0
+</PRE>
+</TD>
+<TD VALIGN="top">
+<PRE>
+Set 1:
+2
+54.3516 54.3516
+942.4778 833.7745
+Set 2:
+3
+20.2666 20.2666
+466.9495 426.4163
+1570.7963 657.1639
+Set 3:
+4
+10.4406 10.4406
+260.0283 239.1470
+1023.5143 513.8984
+2199.1149 412.1145
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+<HR>
+<B>Problemsetter: Shahriar Manzoor, special thanks to Derek Kisman</B>
+</P>
+
+</BODY>
+</HTML>

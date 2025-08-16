@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Little Black Book</TITLE>
+<META NAME="description" CONTENT="Little Black Book">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Little Black Book</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The Public Relations Office is looking for an easier way to
+compile the information for their Black Book, a listing of all
+faculty members.  Currently, each department types up a list of
+their faculty and submits the list to PR.  PR then takes all the
+lists and makes a combined list that is sorted alphabetically by
+last name.  So far they have been doing this task by hand, which
+takes far more time than the average PR employee has to spare!
+<P>
+<P>
+What PR is looking for is a program that will take these faculty
+listings and combine them in a certain format that PR can use for
+inclusion in the Black Book.  All the lists are stored in text
+files.  Each department's file is sorted by last name.  The
+program should take these individually sorted files and combine
+them into a single sorted file in the format shown below.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input file will contain, on the first line, a
+number (between 2 and 12) that reports the number of departments that
+your program should sort and write to the output file.
+Following the first line will be a series of sets of lines. The first line of each set contains a department title, and following lines contain the data to be sorted.
+<P>
+The information
+reported is in this order: Title, First Name, Last Name, Street
+Address, Home Phone, Work Phone, and Campus Mailbox. The information is delimited with commas.
+<P>
+A blank line separates two sets of lines. There are the same number of  department titles and sets of data as the number on the first line reports.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+The format of each record held in the output file should be
+as follows:
+<P>
+<P>
+<TT>--------------------</TT>
+<P>
+<TT>&lt;</TT>Title<TT>&gt;</TT> <TT>&lt;</TT>FirstName<TT>&gt;</TT> <TT>&lt;</TT>LastName<TT>&gt;</TT>
+<P>
+<TT>&lt;</TT>HomeAddress<TT>&gt;</TT>
+<P>
+<TT>Department: &lt;</TT>Department<TT>&gt;</TT>
+<P>
+<TT>Home Phone: &lt;</TT>HomePhone<TT>&gt;</TT>
+<P>
+<TT>Work Phone: &lt;</TT>WorkPhone<TT>&gt;</TT>
+<P>
+<TT>Campus Box: &lt;</TT>CampusBox<TT>&gt;</TT>
+<P>
+<P>
+The dashed line should be shown at the top of each record.  The
+characters &quot;<TT>&lt;</TT>&quot; and &quot;<TT>&gt;</TT>&quot; show where a field should be placed.
+Please pay attention to spacing.
+<P>
+You may assume that all input files will be in the proper syntax,
+with no extra spaces.  PR therefore expects that the data they
+are requesting will be in the proper syntax.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>2
+English Department
+Dr.,Tom,Davis,Anystreet USA,555-2832,555-2423,823
+Mrs.,Jessica,Lembeck,Center Street,555-2543,555-8584,928
+
+Computer Science
+Mr.,John,Euler,East Pleasure,555-1432,555-2343,126</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>----------------------------------------
+Dr. Tom Davis
+Anystreet USA
+Department: English Department 
+Home Phone: 555-2832
+Work Phone: 555-2423
+Campus Box: 823
+----------------------------------------
+Mr. John Euler
+East Pleasure
+Department: Computer Science 
+Home Phone: 555-1432
+Work Phone: 555-2343
+Campus Box: 126
+----------------------------------------
+Mrs. Jessica Lembeck
+Center Street
+Department: English Department
+Home Phone: 555-2543
+Work Phone: 555-8584
+Campus Box: 928</PRE>
+<P>
+</BODY>
+</HTML>

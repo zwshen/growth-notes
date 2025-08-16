@@ -1,0 +1,158 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Problem A: The Monocycle</TITLE>
+<META NAME="description" CONTENT="Problem A: The Monocycle">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Problem A: The Monocycle</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A monocycle is a cycle that runs on one wheel and the one we will be considering 
+is a bit more special. It has a solid wheel colored with five different
+colors as shown in the figure: 
+
+<P>
+<DIV ALIGN="CENTER">
+
+<!--width 5in p0a.pdf-->
+<img src="p10047a.gif">
+</DIV>
+
+<P>
+The colored segments make equal angles (72<SUP><I>o</I></SUP>) at
+the center. A monocyclist rides this cycle on an 
+<!-- MATH: $M \times N$ -->
+<IMG
+ WIDTH="61" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10047img1.gif"
+ ALT="$M \times N$">
+grid of square
+tiles. The tiles have such size that moving forward from the center of one
+tile to that of the next one makes the wheel rotate exactly 72<SUP><I>o</I></SUP> around its
+own center. The effect is shown in the above figure. When the wheel is at the
+center of square 1, the mid­point of the periphery of its blue segment is in
+touch with the ground. But when the wheel moves forward to the center of the
+next square (square 2) the mid­point of its white segment touches the ground. 
+
+<P>
+<DIV ALIGN="CENTER">
+<img src="p10047b.gif">
+
+<!--p0b.pdf-->
+</DIV>
+
+<P>
+Some of the squares of the grid are blocked and hence
+the cyclist cannot move to them. The cyclist starts from some square and tries
+to move to a target square in minimum amount of time. From any square either
+he moves forward to the next square or he remains in the same square but turns
+90<SUP><I>o</I></SUP> left or right. Each of these actions requires exactly 1 second to
+execute. He always starts his ride facing north and with the mid­point of the
+green segment of his wheel touching the ground. In the target square, too, the
+green segment must be touching the ground but he does not care about the
+direction he will be facing. 
+
+<P>
+Before he starts his ride, please help him find out whether
+the destination is reachable and if so the minimum amount of time he will
+require to reach it.   
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2> 
+
+<P>
+The input may contain multiple test cases. 
+
+<P>
+The first line of each test case contains two integers <I>M</I> and <I>N</I> (<IMG
+ WIDTH="55" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10047img2.gif"
+ ALT="$1 \le M$">,
+<IMG
+ WIDTH="61" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10047img3.gif"
+ ALT="$N \le 25$">)
+giving the dimensions of the grid. Then follows the description of
+the grid in <I>M</I> lines of <I>N</I> characters each. The character `<TT>#</TT>' will
+indicate a blocked square, all other squares are free. The starting location
+of the cyclist is marked by `<TT>S</TT>' and the target is marked by `<TT>T</TT>'.
+  
+The input terminates with two zeros for <I>M</I> and <I>N</I>.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case in the input first print the test case number on a
+separate line as shown in the sample output. If the target location can be
+reached by the cyclist print the minimum amount of time (in seconds) required
+to reach it exactly in the format shown in the sample output, otherwise, print
+``<TT>destination not reachable</TT>".                 
+
+<P>
+Print a blank line between two successive test cases.  
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1 3
+S#T
+10 10
+#S.......#
+#..#.##.##
+#.##.##.##
+.#....##.#
+##.##..#.#
+#..#.##...
+#......##.
+..##.##...
+#.###...#.
+#.....###T
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Case #1
+destination not reachable
+ 
+Case #2
+minimum time = 49 sec
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-12-26</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

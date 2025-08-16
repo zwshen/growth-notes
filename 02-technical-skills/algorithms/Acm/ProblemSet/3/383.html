@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Shipping Routes</TITLE>
+<META NAME="description" CONTENT="Shipping Routes">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Shipping Routes</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The Slow Boat to China Shipping company needs a program to
+help them quickly quote costs to prospective customers. The cost
+of a shipment depends on the size of the shipment and on how
+many shipping legs it requires.  A shipping leg connects two
+warehouses, but since every pair of warehouses is not directly
+connected by a leg, it might require more than one leg to send a
+shipment from one warehouse to another.
+<P>
+<P>
+A data set can represent from 1 to 30
+warehouses. A two-letter code name will identify each warehouse
+(capital letters only).  Shipping legs can exist between any two
+distinct warehouses. All legs are bidirectional.
+<P>
+<P>
+<P>
+<B>The cost of a shipment is equal to the size of the shipment times
+the number of shipping legs required times $100.</B>
+<P>
+<P>
+The input to the program identifies the warehouse code names and
+the existence of all shipping legs.  For a given shipping request,
+consisting of the size of the shipment, the source warehouse and
+the destination warehouse, the program will output the best
+(cheapest) cost for the shipment, if it is possible to send shipments
+from the requested source to the requested destination. Alternately,
+the program must state that the request cannot be fulfilled.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The first line will contain an integer from 1 to 10 inclusive
+that represents the number of  data sets in the input file.  Each data
+set represents a new shipping configuration.
+<P>
+<P>
+The first line of data in a data set will contain three integers, say
+<I>M</I>, <I>N</I>, and <I>P</I>:  <I>M</I> is an integer from 1 to 30 inclusive representing
+the number of warehouses in the data set;  <I>N</I> is an integer from 0 to
+<I>M</I>*(<I>M</I>-1)/2 inclusive that represents the number of legs between
+warehouses in the data set; <I>P</I> is an integer from 0 to 10 inclusive
+that represents the number of shipping requests for which cost
+information is required.
+<P>
+The second line of data in a data set contains <I>M</I> two-letter code
+names for the <I>M</I> warehouses of the data sets.  Only capital letters
+are used. A single blank separates code names.
+<P>
+<I>N</I> lines follow the line of code names, containing shipping leg
+information in the format: ``<EM>XX YY</EM>&quot;, with <EM>XX</EM> and <EM>YY</EM> being 
+the codes for two distinct warehouses in the set that have a 
+direct link (a shipping leg) between them. There will be a single 
+blank between the warehouse codes.
+<P>
+The <I>N</I> lines of shipping leg information are followed by <I>P</I> lines of
+shipping requests, one request per line.  Each shipping request will
+begin with an integer between 1 and 20 inclusive that represents
+the size of the shipment.  The shipment size will be followed by a
+pair of code names in the format ``<EM>AA  BB</EM>&quot;, with <EM>AA</EM> and <EM>BB</EM>
+being the code for two distinct warehouses in the set which
+represent the source and destination of the requested shipment.
+<P>
+<P>
+The input will be valid and consistent.  A shipping leg will only be
+represented once within a data set.  Data about legs will always
+refer to warehouses that have been identified as belonging to the
+data set.  See the example below for clarification of the input
+format.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+The first line of output should read ``<TT>SHIPPING ROUTES OUTPUT</TT>&quot;. For each data set there should be a section of output
+enumerating which data set the output section represents followed
+by <I>P</I> lines of the required information. Each of the <I>P</I> lines should
+list either the cheapest cost of the respective shipment or the phrase
+``<TT>NO SHIPMENT POSSIBLE</TT>&quot;. The end of the output should be
+noted also.  Produce output consistent with the example below.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>2
+6  7  5
+AA CC QR FF DD AB
+AA CC
+CC QR
+DD CC
+AA DD
+AA AB
+DD QR
+AB DD
+5  AA AB
+14 DD CC
+1  CC DD
+2  AA FF
+13 AB QR
+3 0 1
+AA BB CC
+5  AA CC</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>SHIPPING ROUTES OUTPUT
+
+DATA SET  1
+
+$500
+$1400
+$100
+NO SHIPMENT POSSIBLE
+$2600
+
+DATA SET  2
+
+NO SHIPMENT POSSIBLE
+
+END OF OUTPUT</PRE>
+<P>
+</BODY>
+</HTML>

@@ -1,0 +1,103 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>History Grading</TITLE>
+<META NAME="description" CONTENT="History Grading">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">History Grading</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Background</A></FONT></H2>
+<P>
+Many problems in Computer Science involve maximizing some measure
+according to constraints.
+<P>
+Consider a history exam in which students are asked to put several
+historical events into chronological order.  Students who order all the
+events correctly will receive full credit, but how should partial credit
+be awarded to students who incorrectly rank one or more of the
+historical events?
+<P>
+Some possibilities for partial credit include:
+<OL><LI> 1 point for each event whose rank matches its correct rank<LI> 1 point for each event in the longest (not necessarily contiguous)
+sequence of events which are in the correct order relative to each other.
+</OL>
+<P>
+For example, if four events are correctly ordered 1 2 3 4 then the
+order 1 3 2 4 would receive a score of 2 using the first method (events
+1 and 4 are correctly ranked) and a score of 3 using the second method
+(event sequences 1 2 4 and 1 3 4 are both in the correct order relative
+to each other).
+<P>
+In this problem you are asked to write a program to score such questions
+using the second method.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+<P>
+Given the correct chronological order of <I>n</I> events  <IMG WIDTH=73 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline34" SRC="111img1.gif"  >  as
+ <IMG WIDTH=84 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline36" SRC="111img2.gif"  >  where  <IMG WIDTH=77 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline38" SRC="111img3.gif"  >  denotes the ranking of
+event <I>i</I> in the correct chronological order and a sequence of student
+responses  <IMG WIDTH=85 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline42" SRC="111img4.gif"  >  where  <IMG WIDTH=78 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline44" SRC="111img5.gif"  >  denotes the
+chronological rank given by the student to event <I>i</I>; determine the
+<U> length </U> of the longest (not necessarily contiguous) sequence
+of events in the student responses that are in the correct chronological
+order relative to each other.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>
+The first line of the input will consist of one integer <I>n</I> indicating
+the number of events with  <IMG WIDTH=82 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline50" SRC="111img6.gif"  > .  The second line will
+contain <I>n</I> integers, indicating the correct chronological order of <I>n</I>
+events.  The remaining lines will each consist of <I>n</I> integers with each
+line representing a student's chronological ordering of the n events.
+All lines will contain <I>n</I> numbers in the range  <IMG WIDTH=52 HEIGHT=27 ALIGN=MIDDLE ALT="tex2html_wrap_inline60" SRC="111img7.gif"  > , with each number
+appearing exactly once per line, and with each number separated from
+other numbers on the same line by one or more spaces.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>
+For each student ranking of events your program should print the score
+for that ranking.  There should be one line of output for each student
+ranking.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Input 1</A></FONT></H2>
+<P>
+<PRE>4
+4 2 3 1
+1 3 2 4
+3 2 1 4
+2 3 4 1</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">Sample Output 1</A></FONT></H2>
+<P>
+<PRE>1
+2
+3</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001007000000000000000">Sample Input 2</A></FONT></H2>
+<P>
+<PRE>
+10
+3 1 2 4 9 5 10 6 8 7
+1 2 3 4 5 6 7 8 9 10
+4 7 2 3 10 6 9 1 5 8
+3 1 2 4 9 5 10 6 8 7
+2 10 1 3 8 4 9 5 7 6
+</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001008000000000000000">Sample Output 2</A></FONT></H2>
+<P>
+<PRE>
+6
+5
+10
+9
+</PRE>
+<P>
+</BODY>
+</HTML>

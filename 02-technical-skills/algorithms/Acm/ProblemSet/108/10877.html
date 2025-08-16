@@ -1,0 +1,316 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./h_files/filelist.xml">
+<link rel=Edit-Time-Data href="./h_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem H - Diceoids</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>38</o:Revision>
+  <o:TotalTime>491</o:TotalTime>
+  <o:Created>2004-07-21T15:52:00Z</o:Created>
+  <o:LastSaved>2005-06-22T05:45:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>201</o:Words>
+  <o:Characters>1147</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>9</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1408</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	mso-font-alt:Tahoma;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129023 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129023 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:18.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-font-kerning:0pt;
+	font-weight:bold;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:18.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:24.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Arial Unicode MS";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:.8in .8in .5in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1029"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoTitle><span style='font-size:28.0pt;mso-bidi-font-size:1.0pt;
+font-family:Arial'>Problem H<o:p></o:p></span></p>
+
+<p class=MsoSubtitle><span style='font-size:20.0pt;mso-bidi-font-size:1.0pt;
+font-family:Arial'>Diceoids<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none'><b><span style='font-family:Arial;color:black'>Input:</span></b><span
+style='font-family:Arial;color:black'> standard input<br>
+<b>Output:</b> standard output<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Arial;color:black'></span></b><span style='font-family:Arial;color:black;mso-bidi-font-weight:
+bold'></span><span style='font-family:Arial;color:black'> </span><span
+style='color:black'><o:p></o:p></span></p>
+<p>The following picture shows four dice.
+Or are they all dice?<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+<center><img width=433 height=153 src="p10877a.jpg">
+</center>
+
+
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<br style='mso-ignore:vglayout' clear=ALL>
+
+<p class=MsoBodyText style='mso-layout-grid-align:auto;text-autospace:ideograph-numeric ideograph-other'><span
+style='mso-bidi-font-size:12.0pt'>Artifacts (a) and (b) are dice; (c) and (d)
+are not dice, but they are the same—you can see that by a suitable rotation of
+(d). Thus, here we have two classes of dice-like artifacts (diceoids), classified
+by comparison under suitable rotations.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+
+<center><p>
+<img width=198 height=136 src="p10877b.jpg" v:shapes="_x0000_s1028"></td></p></center>
+<p>You are given a bag of diceoids, and your job is to classify them and report
+how many classes there are. (Your job is not to determine how many are dice.)
+To facilitate description of diceoids in a text medium, we label the faces of
+the cube:</p>
+
+<p class=MsoNormal style='text-align:justify'>then a diceoid is encoded as a
+sequence of six numbers d<sub>A</sub> , . . . , d<sub>F</sub> , meaning that
+face i bears d<sub>i</sub> dots. Example: 5 3 6 2 1 4 means that face A has 5
+dots, face B has 3 dots, face C has 6 dots, etc. It is <span
+style="mso-spacerun: yes"> </span>entirely possible that different faces have
+the same number of dots, e.g., 2 2 2 3 3 3, but every face has at least 1 dot
+and at most 6 dots.<o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h1><span style='mso-bidi-font-size:12.0pt;font-family:Arial'>Input:<o:p></o:p></span></h1>
+
+<p class=MsoNormal style='text-align:justify'>The input file contains several test
+cases. The description of each test case is given below:</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Each test case begins with the
+number of diceoids n (n&lt;=1000), followed by the description of n dicecoids. </p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h1><span style='mso-bidi-font-size:12.0pt;font-family:Arial'>Output:<o:p></o:p></span></h1>
+
+<p class=MsoBodyText style='mso-layout-grid-align:auto;text-autospace:ideograph-numeric ideograph-other'><span
+style='mso-bidi-font-size:12.0pt'>For each test case your program should output
+the number of classes. Follow the format specified in the output for sample
+input. <o:p></o:p></span></p>
+
+<h1><span style='font-size:16.0pt;mso-bidi-font-size:1.0pt;font-family:Arial'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h1>
+
+<h1><span style='font-size:16.0pt;mso-bidi-font-size:1.0pt;font-family:Arial'>Sample
+Input<span style="mso-spacerun: yes">                             
+</span>Output for Sample Input<o:p></o:p></span></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width=307 valign=top style='width:3.2in;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>7<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>5
+  3 6 2 1 4<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>4
+  1 5 3 2 6<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>5
+  6 3 2 4 1<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>4
+  5 1 3 6 2<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>2
+  2 2 3 3 3<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>2
+  3 2 3 3 2<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>1
+  1 1 1 1 1<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>0</span></b><b><span
+  style='font-size:11.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;color:black;mso-fareast-language:ZH-CN'><o:p></o:p></span></b></p>
+  </td>
+  <td width=309 valign=top style='width:231.85pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;mso-fareast-language:ZH-CN'>4<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p class=MsoNormal><b><span style='font-family:Arial'>Source: Queens and
+Toronto local contest<o:p></o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,153 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>The Incredible Hull</TITLE>
+<META NAME="description" CONTENT="The Incredible Hull">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+The Incredible Hull</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A <EM>simple polygon</EM> is a polygon that contains no self-intersecting lines.  A <EM>convex polygon</EM> is a simple 
+polygon with all internal angles less than 180 degrees.  For a set of two-dimensional objects, their 
+<EM>convex hull</EM> is the convex polygon of least area that completely encloses all of the objects.  In the figure 
+below, the three solid-lined objects on the left are enclosed in a dotted-line convex polygon, but that 
+polygon is not their convex hull; on the right the same three objects are enclosed by their convex hull.
+
+<P>
+<DIV ALIGN="CENTER">
+<img src=p596.gif>
+</DIV>
+
+<P>
+Determining the convex hull of a set of objects is a fundamental problem in both computer graphics and
+computational geometry.  The object of this problem is to write a program that will report the convex 
+hull of a set of simple polygons.  An input file will define several such sets of polygons for which convex 
+hulls should be reported in the output file.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Each line of the input file will begin with either the letter `<TT>S</TT>', the letter `<TT>P</TT>', or the word `<TT>END</TT>'.  Lines 
+starting with `<TT>S</TT>' begin a new set of polygons.  Lines starting with `<TT>P</TT>' define a polygon in the current 
+set.  The word `<TT>END</TT>' will appear only as the last line of the input file.
+
+<P>
+
+<P>
+<BR>
+Each `<TT>S</TT>' starting a line will be followed by a single space and then a character string which identifies the 
+set of polygons.  Each `<TT>P</TT>' starting a line will be followed by a single space and then  a list of integers 
+delimited by single spaces.  The first integer specifies the number of vertices in the polygon, and the 
+remaining integers specify, in counterclockwise order, the (<I>x</I>,<I>y</I>) coordinates of each polygon vertex.
+
+<P>
+
+<P>
+<BR>
+Each set of polygons will contain from 1 to 20 simple polygons.  Each polygon will contain from 3 to 
+20 distinct vertices.  Each vertex will be an integer coordinate in the range (-1000,-1000) to 
+(1000,1000).  No input polygon will have more than two adjacent collinear points, that is a point will 
+not occur on an edge between two other points.
+
+<P>
+
+<P>
+<BR>
+It may be assumed that all input will be syntactically correct.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Two lines should be output for each set of polygons.  The first line should start with the character string 
+from the input file which identifies the polygon set, followed by the characters ``<TT> convex hull:</TT>".  
+The second line should list the coordinates of the vertices in the convex hull, each vertex being preceded 
+by a single space and in the format ``(<I>x</I>,<I>y</I>)", where <I>x</I> and <I>y</I> are the integer coordinates of the vertex.  
+The output of the convex hull vertices should begin with the vertex with the largest <I>x</I>-coordinate, ties 
+being resolved by the selecting the smaller <I>y</I>-coordinate.  The vertices of the convex hull should be 
+output in counterclockwise order.
+
+<P>
+
+<P>
+<BR>
+Any vertex that is part of an input polygon that is also part of the convex hull should appear in the 
+output.  That is to say points should not be eliminated from the convex hull to prevent more than two 
+adjacent points on the hull from being collinear.  For example, supposing that (10,1), (10,7) and (10,12) 
+are consecutive points on the convex hull, the point (10,7) should not be removed but rather reported as 
+part of the convex hull.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+S Sample 1
+P 5 8 0 8 8 0 8 5 6 2 3
+P 3 6 13 2 18 2 13
+P 4 15 6 15 14 10 14 10 6
+S Sample 2
+P 8 1 2 -3 5 1 8 -3 12 -7 8 -3 5 -7 2 -3 -2
+S Sample 3
+P 4 150 100 150 150 100 150 100 100
+P 4 180 130 180 180 130 180 130 130
+S Sample 4
+P 4 20 5 10 10 0 5 10 0
+P 4 20 20 10 25 0 20 10 15
+P 4 20 35 10 40 0 35 10 30
+END
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+Sample 1 convex hull:
+ (15,6) (15,14) (2,18) (0,8) (2,3) (8,0)
+Sample 2 convex hull:
+ (1,2) (1,8) (-3,12) (-7,8) (-7,2) (-3,-2)
+Sample 3 convex hull:
+ (180,130) (180,180) (130,180) (100,150) (100,100) (150,100)
+Sample 4 convex hull:
+ (20,5) (20,20) (20,35) (10,40) (0,35) (0,20) (0,5) (10,0)
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-01-11</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

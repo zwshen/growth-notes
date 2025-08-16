@@ -1,0 +1,466 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="g_files/filelist.xml">
+<link rel=Edit-Time-Data href="g_files/editdata.mso">
+<link rel=OLE-Object-Data href="g_files/oledata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem G - Working with Small Numbers</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>6</o:Revision>
+  <o:TotalTime>133</o:TotalTime>
+  <o:LastPrinted>2007-07-24T07:48:00Z</o:LastPrinted>
+  <o:Created>2007-07-24T03:07:00Z</o:Created>
+  <o:LastSaved>2007-07-24T07:48:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>214</o:Words>
+  <o:Characters>1226</o:Characters>
+  <o:Company>ACM-ICPC</o:Company>
+  <o:Lines>10</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1438</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>125</w:Zoom>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:black;}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("g_files/header.html") fs;
+	mso-footnote-continuation-separator:url("g_files/header.html") fcs;
+	mso-endnote-separator:url("g_files/header.html") es;
+	mso-endnote-continuation-separator:url("g_files/header.html") ecs;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:1.0in .7in .6in .7in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-page-numbers:0;
+	mso-title-page:yes;
+	mso-even-header:url("g_files/header.html") eh1;
+	mso-header:url("g_files/header.html") h1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="4098"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:16.2pt'>
+  <td width=103 rowspan=2 valign=top style='width:77.4pt;background:#E6E6E6;
+  padding:0in 5.4pt 0in 5.4pt;height:16.2pt'><span style='font-size:12.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Times New Roman";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-ansi-language:EN-US;mso-fareast-language:
+  EN-US;mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always'>
+  </span>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:60.0pt;font-family:
+  Arial;color:#333333'>G<o:p></o:p></span></b></p>
+  </td>
+  <td width=571 colspan=2 valign=top style='width:428.05pt;background:#D9D9D9;
+  padding:0in 5.4pt 0in 5.4pt;height:16.2pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;mso-bidi-font-size:
+  24.0pt;font-family:Arial'>Working with Small Numbers</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:24.0pt;font-family:
+  Arial'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:16.2pt'>
+  <td width=285 style='width:214.0pt;background:silver;padding:0in 5.4pt 0in 5.4pt;
+  height:16.2pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:Arial'>Input: </span></b><span
+  style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Input<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:Arial'>Output: </span></b><span
+  style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output<o:p></o:p></span></p>
+  </td>
+  <td width=285 style='width:214.05pt;background:silver;padding:0in 5.4pt 0in 5.4pt;
+  height:16.2pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:28.0pt;mso-bidi-font-size:
+  10.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<h5 style='text-align:justify'><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal;mso-bidi-font-weight:bold'>Working with summation is easy
+but sometimes tricky as well, especially when we have to deal with very small
+numbers within them. For example given the value of m, n you have to find the
+value of the following expression:</span></span><span class=StyleArial16pt><span
+style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";font-weight:
+normal;mso-bidi-font-weight:bold'><o:p></o:p></span></span></h5>
+
+<h5 align=center style='text-align:center'><span class=StyleArial16pt><span
+style='font-size:16.0pt;mso-bidi-font-size:12.0pt;font-weight:normal;
+mso-bidi-font-weight:bold'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+ filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:408.75pt;
+ height:63.75pt' o:ole="">
+ <v:imagedata src="g_files/image001.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=545 height=85
+src="p11250a.gif" v:shapes="_x0000_i1025"><![endif]><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1025"
+  DrawAspect="Content" ObjectID="_1246790108">
+ </o:OLEObject>
+</xml><![endif]--><o:p></o:p></span></span></h5>
+
+<p class=MsoNormal>Or in other words if <span class=StyleArial16pt><span
+style='font-size:16.0pt;mso-bidi-font-size:12.0pt;font-weight:normal;
+mso-bidi-font-weight:bold'><!--[if gte vml 1]><v:shape id="_x0000_i1026"
+ type="#_x0000_t75" style='width:369.75pt;height:53.25pt' o:ole="">
+ <v:imagedata src="g_files/image002.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=493 height=71
+src="p11250b.gif" v:shapes="_x0000_i1026"><![endif]><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1026"
+  DrawAspect="Content" ObjectID="_1246790109">
+ </o:OLEObject>
+</xml><![endif]--></span></span>, then you will have to find the values of a
+and b. Here <b style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:
+normal'>a</i></b> and <b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'>b</i></b> are two relative prime integers.
+The values of <b style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:
+normal'>a</i></b> and <b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'>b</i></b> will not always fit even in a
+64-bit unsigned integer.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<h5 style='text-align:justify'><span class=StyleArial16pt><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt'>Input</span></span><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:10.0pt;
+mso-fareast-font-family:"Arial Unicode MS"'><o:p></o:p></span></span></h5>
+
+<p class=MsoNormal style='text-align:justify'>The input file contains 2000 lines
+of inputs. Each line contains two integers which denotes the values of m and n
+(<sub><!--[if gte vml 1]><v:shape id="_x0000_i1027" type="#_x0000_t75" style='width:111pt;
+ height:15.75pt' o:ole="">
+ <v:imagedata src="g_files/image003.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=148 height=21
+src="p11250c.gif" v:shapes="_x0000_i1027"><![endif]></sub><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1027"
+  DrawAspect="Content" ObjectID="_1246790110">
+ </o:OLEObject>
+</xml><![endif]-->) respectively. Input is terminated by a line containing two
+zeroes. This line should not be processed.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<h4><span class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:
+10.0pt'>Output <o:p></o:p></span></span></h4>
+
+<p class=MsoNormal style='text-align:justify'>For each line of input produce
+four lines of outputs. The descriptions of these four lines are given below:</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>The first line of each set
+contains the serial of output. Next line prints out the value of a, the third
+line contains the dividing line of the fraction and the fourth line contains
+the value of b. The length of the dividing line is equal to the length of b.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Print a blank line after the
+output of each set of input. </p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'><o:p>&nbsp;</o:p></p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial;font-style:normal'>Sample
+Input<span style='mso-spacerun:yes'>                               </span>Output
+for Sample Input<o:p></o:p></span></b></h1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='background:#CCCCCC;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=319 valign=top style='width:239.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>30
+  30<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>3
+  5<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>0
+  0<o:p></o:p></span></b></p>
+  </td>
+  <td width=330 valign=top style='width:247.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>Case
+  1:<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>29757025<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>----------<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>9644811264<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>Case
+  2:<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>209<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>-----<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>72576<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Problemsetter:
+Shahriar Manzoor </p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Special
+Thanks: Derek Kisman</p>
+
+</div>
+
+</body>
+
+</html>

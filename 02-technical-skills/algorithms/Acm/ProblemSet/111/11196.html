@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Problem B: Birthday Cake</title>
+<link rel="stylesheet" href="problem.css">
+</head>
+<body>
+
+<center>
+<h1>Problem B</h1>
+<h2>Birthday Cake</h2>
+</center>
+
+<p>Today's my mummy's birthday. I want to make a birthday cake for her. It should contain exactly <i>m</i> cylinder-shaped layers, and its volume should be exactly <i>n</i>*pi. 
+We number the cylinders 1, 2, ..., <i>m</i> from bottom to top. The <i>i</i>-th cylinder has a positive integer radius <i>r<sub>i</sub></i> and a positive integer height <i>h<sub>i</sub></i>. 
+To make the cake look pretty, It should be satisfied that for all <i>i</i> < <i>m</i>, <i>r<sub>i</sub></i> > <i>r<sub>i</i>+1</sub> and <i>h<sub>i</sub></i> > <i>h<sub>i</i>+1</sub>.</p>
+
+<p align="center"><img src="p11196.jpg" /></p> 
+
+<p>The surface of the cake will be entirely ice cream. To make the cake a little bit cheaper, we decide to use as little ice cream as possible. In other words, the surface area (excluding the bottom surface, since there is no ice cream on the bottom of course) should be minimized.</p>
+
+<h2>Input</h2>
+The input consists of at most 10 test cases. Each case contains two integers <i>n</i>, <i>m</i> (<i>n</i> < 100001, <i>m</i> < 11), the volume and number of layers of the cake. 
+The last case is followed by a single zero, which should not be processed.
+
+<h2>Output</h2>
+For each test case, print the case number and an integer <i>S</i>, where <i>S</i>*pi is the minimal surface area. If the cake cannot be made, print a single zero.
+
+<h2>Sample Input</h2>
+<pre>
+100 2
+1000 3
+0
+</pre>
+
+<h2>Output for the Sample Input</h2>
+<pre>
+Case 1: 68
+Case 2: 316
+</pre>
+
+<hr />
+<i>Rujia Liu's Present 1: A Tiny Contest of Brute Force</i><br />
+<i>Adapted from Chinese National Olympiad in Informatics 1999, with test data enhanced</i>
+
+</body>
+</html>

@@ -1,0 +1,90 @@
+# Types of Car and Vehicles
+
+Welcome to English as a Second Language Podcast number 6 09: Types of Cars and Vehicles. 
+
+This is English as a Second Language Podcast episode 609.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Go to our website at eslpod.com and download a Learnin g Guide for this episode that will help you improve your English even faster. 
+
+This episode is called “Types of Cars and Vehicles.”  It’s a dialogue between Robert and Mary, where we’re going to hear a lot of vocabulary related to types, or kinds, of cars.  Let’s get started. 
+
+[start of dialogue] 
+
+Robert:  Hi, I’m Robert.  What are you in the market for today? 
+
+Mary:  I want to buy a new car, but I’m not sure what I  want. 
+
+Robert:  Well, you’ve come to the right place.  We have a very large selection of cars and trucks – just about any type of vehicle you can think of.  Why don’t I show you around? 
+
+Mary:  Okay, that would be great. 
+
+Robert:  Over here, we have some nice compacts and mid-si ze cars.  We have two-door or four-door sedans, coupes, and hatchbacks.  We e ven have this beautiful convertible sports car.  What do you think? 
+
+Mary:  It’s very nice, but I want something a little big ger for my family. 
+
+Robert:  Okay, no sweat.  Walk this way and you’ll see o ur station wagons, minivans, and SUVs.  These seat anywhere from 6 to 10 pe ople.  We even have pickups. 
+
+Mary:  I’m not sure if any of these will fit my family? 
+
+Robert:  How many children do you have?  
+
+ Mary:  Eleven. 
+
+Robert:  Eleven?  In that case, you might want to buy tw o! 
+
+[end of dialogue] 
+
+The scene of this dialogue is a “car dealership,” a place where they sell new cars.  The salesperson is named Robert, and Robert begins our dialogue by saying, “Hi, I’m Robert.  What are you in the market fo r today?”  “To be in the market for (something)” means to be shopping for somet hing, to be considering a certain kind of something that is available for sale; you’ re deciding which one you’re going to buy.  You might say, “I’m in the market for a new phone.”  I really need a new phone.  I wish the listeners of ESL Podcast w ould give me an iPhone and an iPad.  That’s what I’m in the market for; I’m going to buy them.  Of course, if someone gave them to me, I would not say no! 
+
+Well, Mary is in the market for buying a new car, or sim ply in the market for a new car.  She says, “I want to buy a new car, but I’m no t sure what I want.” Robert says, “Well, you’ve come to the right place (you ar e in the right place). We have a very large selection of cars and trucks – just abou t any type of vehicle you can think of.”  A “truck” is a large vehicle used to ca rry things, not just carry people.  Usually there is an open area in the back of th e vehicle to put large objects.  The expression “just about” means almost or appro ximately.  “What time is it?”  “It’s just about noon.”  Or, you could say, “We  have just about every kind of dessert here.  Cakes, pies, cookies, ice cream, candy, and so forth.”  So, “just about” is almost or approximately, but there are some ot her meanings you can find in our Learning Guide for these words. 
+
+Robert says they have just about any type of vehicle you can t hink of.  “Vehicle” (vehicle) is any large machine with an engine that is used  to carry people or things from one place to another.  It could be a car; i t could be a truck; it could be a motorcycle, anything that has a motor – an engine – th at is used to move people from one place to another.  Robert says, “Why do n’t I show you around?” “Why don’t” here means I think it is a good idea.  “To  show (someone) around” is a phrasal verb meaning to give you a tour of an area or to show you what, in this case, the store has for sale. 
+
+Mary says, “Okay, that would be great,” meaning yes.  Rober t says, “Over here, we have some nice compacts and mid-size cars.”  A “compact car”  is a very small car, one of the smallest you can find.  A “mid-size (mid-size) car” is a  
+
+ medium-sized car – not too small, not too big, somewhere  in the middle.  Robert says, “We have two-door or four-door sedans, coupes, and ha tchbacks.”  These are three kinds of cars.  A “sedan” (sedan) is usually a ca r with four doors – two in front, two in back – that has room for at least four  people.  A “coupe” (coupe) is a small car with only two doors, and is usually what we would call a “sports car.” It’s a car that goes fast, that looks nice, that will allo w you to attract a lot of beautiful women – well, certain kinds of women!  A “h atchback” (hatchback – one word) is a car that has either two or four doors, but  in the back it has a very large door that opens up, and usually you can put large items in the back of this kind of car.  Often the seats in the back will go down – will f old down so you have more room.  I have a hatchback car; there are four doors and t hen there is a fifth door, a large door that is where you would normally find the  trunk of the car – the back storage part of the car, and that is used just like a t runk but it’s much bigger than a trunk.  So, we have sedans, coupes, and hatchbacks.  Robe rt says, “We even have this beautiful convertible sports car.”  A “converti ble car” is one where the roof – the top of the car folds down or can be removed so that you don’t have anything above you, there’s no roof.  A sports car, as I me ntioned earlier, is often a small car, usually expensive, that can go very fast, so you can  attract the attention of police officers!   
+
+Robert shows all these cars to Mary and says, “What do you think?”  What do you think of these cars?  Mary says, “It’s very nice, but I want  something bigger for my family.”  Robert says, “Okay, no sweat.”  “No sweat ” (sweat) means no problem.  It’s an informal phrase we use to let someon e else know that what they are concerned about or what they are worried about is n ot a problem; you have a solution for your problem.   
+
+“No sweat,” he says, “Walk this way (come with me) and you’l l see our station wagons, minivans, and SUVs.”  A “station wagon” is a larg e car that has a lot of storage space in the back.  It’s long more than it is tal l.  So, it is a long car, usually four doors, but there is also a hatchback-like door in the back, but there’s a lot more space.  These were very popular in the 60s and  the 70s and the 80s. They’ve become less popular now because there are some oth er kinds of large vehicles that are used such as minivans and SUVs, which we’ll  explain in a moment.  But station wagons were very popular.  My fathe r always drove a station wagon until he was at least in his 70s.  Part of the reason was that he had a big family, and so he needed all of that room.  In fact, I bought his old station wagon and drove it when I was in graduate school.  Tha t really attracted the beautiful women!  “Minivans” are large vehicles that ha ve a lot of room for passengers – for people.  Typically they’ll have seven or e ight seats.  It’s long, but much taller than a station wagon.  A “SUV” is a spo rts utility vehicle.  This is a  
+
+ large car, both tall and long, and very heavy.  It was or iginally designed to travel on uneven surfaces, places like the desert or in the countr y where are no roads. But in fact, most people that own these SUVs don’t use them anywhere outside of the regular roads and highways.  They’re very popula r here in Los Angeles and in many other cities.  They are definitely not the ch eapest cars you can buy. 
+
+Getting back to the dialogue, Robert says, “These seat anyw here from 6 to 10 people.”  The expression “to seat” (seat) as a verb means i t has enough seats for that many people.  So for example, a stadium – a baseb all stadium that has 55,000 seats would be described as a stadium that seats 55 ,000.  Robert says that these station wagons, minivans, and SUVs seat anywhere  from 6 to 10 people.  The expression “anywhere from…(one number to another – anywhere from 5 to 50)” is simply used to express a range of somethi ng, to give the minimum and the maximum – anywhere from X to Y.  Robe rt also says that they have pickups (pickups – one word).  A “pickup,” or sometimes it’s called a “pickup truck” is a small truck with a large open area in  the back that has low sides.  It’s very similar to other kinds of trucks, except the p ickup truck always, or almost always doesn’t have a cover on the back part where yo u put large objects, the flat part in the back of the vehicle. 
+
+Mary says, “I’m not sure if any of these will fit my family? ” meaning will be good enough or big enough.  Robert says, “How many children d o you have?”  Mary says, “Eleven.”  Robert says, “Eleven?  In that case (in that  situation), you might want to buy two (two cars or two trucks or two station wa gons)!”  Of course, some of you know I am the youngest of 11 children, so perh aps this dialogue was written for me – after all, my mother’s name is Mar y!   
+
+Now let’s listen to the dialogue at a normal speed. 
+
+[start of dialogue] 
+
+Robert:  Hi, I’m Robert.  What are you in the market for today? 
+
+Mary:  I want to buy a new car, but I’m not sure what I  want. 
+
+Robert:  Well, you’ve come to the right place.  We have a very large selection of cars and trucks – just about any type of vehicle you can think of.  Why don’t I show you around? 
+
+Mary:  Okay, that would be great. 
+
+ Robert:  Over here, we have some nice compacts and mid-si ze cars.  We have two-door or four-door sedans, coupes, and hatchbacks.  We e ven have this beautiful convertible sports car.  What do you think? 
+
+Mary:  It’s very nice, but I want something a little big ger for my family. 
+
+Robert:  Okay, no sweat.  Walk this way and you’ll see o ur station wagons, minivans, and SUVs.  These seat anywhere from 6 to 10 pe ople.  We even have pickups. 
+
+Mary:  I’m not sure if any of these will fit my family? 
+
+Robert:  How many children do you have? 
+
+Mary:  Eleven. 
+
+Robert:  Eleven?  In that case, you might want to buy tw o! 
+
+[end of dialogue] 
+
+She can write scripts on just about any topic, that’s our own Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

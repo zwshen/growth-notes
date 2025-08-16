@@ -1,0 +1,1764 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="keywords" content="UVa, Online Judge, Volume 7">
+<meta name="description" content="Methods to Solve UVa Online Judge">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>World of Seven - Methods to Solve - Volume 7</title>
+<meta name="Microsoft Theme" content="none">
+<meta name="Microsoft Border" content="t, default">
+</head>
+
+<body bgcolor="#C0C0C0"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<div align="center">
+	<center>
+	<table border="2" cellpadding="0" cellspacing="0" width="924">
+		<tr>
+			<td bgcolor="#FF6600">
+			<p align="center"><font color="#FFFFFF">
+			<a href="http://nus.edu.sg/">
+			<img alt="NUS Home" src="../_borders/nuslogohome.gif" border="0" align="left" width="183" height="94"></a><strong><font size="5" face="Trebuchet MS">7</font><font face="Trebuchet MS" size="2"><br>
+			<nobr><A HREF="../index.html" TARGET="">Home</A></nobr>&nbsp;<nobr><A HREF="acmoj.html" TARGET="">Up</A></nobr></font></strong></font></td>
+		</tr>
+	</table>
+	</center></div>
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><!--msnavigation--><td valign="top">
+<basefont size="2" color="green">
+<div align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="924" bgcolor="#FFFFF0">
+		<tr>
+			<td>
+
+
+    <p align="center" style="margin-left: 20px; margin-right: 20px">
+    <font size="1" face="Verdana"><a name="Problem Name"><br>
+    </a></font><font size="2" face="Verdana">Last updated on: 
+      <!--webbot
+bot="Timestamp" S-Type="REGENERATED" S-Format="%d %B %Y %I:%M:%S %p" startspan -->29 April 2009 09:04:02 PM<!--webbot bot="Timestamp" i-checksum="55367" endspan --></font></p>
+    <p align="left" style="margin-left: 10; margin-right: 10">
+    <font face="Verdana" size="2"><b>Comment on this volume:</b> This volume 
+    consists of some regional problems, many of them are still can't be judged. 
+    I said that the difficulty rating for this volume is medium...</font></p>
+<p align="left" style="margin-left: 10; margin-right: 10">
+    <font face="Verdana" size="2"><span lang="en-gb">Some hints for this volume are contributed by my CS3233 
+	student:<br>
+	750-799: Lim Boon Hwee, Matthew (ML)</span></font></p>
+    <div align="center">
+      <table border="1" width="700" cellspacing="0" cellpadding="2" height="145" style="border-collapse: collapse" cellspacing="0">
+        <tr>
+          <th height="1" align="left" width="30" bordercolor="#000000" bgcolor="#0099FF">
+          <p align="center">
+          <font size="2" face="Verdana" color="#FFFFFF">No</font></th>
+          <th height="1" width="275" bordercolor="#000000" bgcolor="#0099FF">
+          <font size="2" face="Verdana" color="#FFFFFF">
+          Problem Name</font></th>
+          <th height="1" width="10" bordercolor="#000000" bgcolor="#0099FF">
+          <font face="Verdana" size="2" color="#FFFFFF">*</font></th>
+          <th height="1" bordercolor="#000000" bgcolor="#0099FF">
+          <font face="Verdana" size="2" color="#FFFFFF">Algorithm</font></th>
+          <th height="1" bordercolor="#000000" bgcolor="#0099FF">
+          <font face="Verdana" size="2" color="#FFFFFF">Solved by</font></th>
+        </tr>
+        <tr>
+          <td height="1" align="left" colspan="5" style="font-family: Verdana, Arial, Helvetica, sans-serif; " bordercolor="#FF0000" bgcolor="#A7D3FF">
+        <p align="center"><b><font size="2">700:
+        <a target="_blank" href="http://www.acm.inf.ethz.ch/ProblemSetArchive/B_EU_MCRC/1999/index.html">
+        Mid-Central European Regionals</a> - 1999 (continued to 705-712)</font></b></p>
+          </td>
+          </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">700</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; "><font face="Verdana" size="2">
+          <a href="#700 - Date Bugs">Date Bugs</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">5.0</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">701</font></td>
+          <td height="1" width="275"><font face="Verdana" size="2">
+          The Archaeologist's Dilemma</font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">6.0</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Math</font></td>
+          <td align="center" height="1">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">702</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">The Vindictive Coach</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">703</font></td>
+          <td height="1" width="275">
+          <font face="Verdana" size="2">
+			<a href="#703 - Triple Ties: The Organizers Nightmare">Triple Ties: The Organizer's 
+          Nightmare</a></font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">4.5</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">704</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Colour Hash</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" colspan="5" style="font-family: Verdana, Arial, Helvetica, sans-serif; " bordercolor="#FF0000" bgcolor="#A7D3FF">
+        <p align="center"><b><font size="2">705-712:
+        <a target="_blank" href="http://www.acm.inf.ethz.ch/ProblemSetArchive/B_EU_MCRC/1999/index.html">
+        Mid-Central European Regionals</a> - 1999</font></b></p>
+          </td>
+          </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">705</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Maze</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">706</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; "><font face="Verdana" size="2">
+          <a href="#706 - LC-Display">LC-Display</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">5.5</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Output-related</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">707</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Robbery</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">7.0</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">3-D DFS/BFS..., but I 
+          haven't try it yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">708</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Dreisam Equations</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">709</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Formatting Text</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">710</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">The Game</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">7.0</font></span></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Runtime Error...
+          something is wrong</font></span></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">711</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Dividing up</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">8.0</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">DP... but I haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">712</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">S-Trees</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">4.5</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Graph</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" colspan="5" style="font-family: Verdana, Arial, Helvetica, sans-serif; border-color: #0000FF; " bordercolor="#FF0000" bgcolor="#A7D3FF">
+        <p align="center"><b><font size="2">713-721: <a href="http://www.acm.inf.ethz.ch/ProblemSetArchive/B_EU_CERC/1998/index.html" target="_blank">Central
+        European Regionals</a> - 1998 (<a target="_blank" href="http://contest.mff.cuni.cz/archive/cerc1998/index.html">2nd 
+		link</a>)</font></b></p>
+          </td>
+          </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">713</font></td>
+          <td height="1" width="275" style="border-color: #0000FF; "><font face="Verdana" size="2">
+          <a href="#713 - Adding Reversed Numbers">Adding Reversed Numbers</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #0000FF; ">
+          <span lang="en-gb"><font face="Verdana" size="2">3.5</font></span></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">714</font></td>
+          <td height="1" width="275" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2"><a href="#714 - Copying Books">Copying Books</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">6.0</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Divide &amp; Conquer or
+          DP</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">715</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Substitution Cipher</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">716</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Commedia dell'arte</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#999999" style="border-color: #0000FF; ">
+          <span lang="en-gb"><font face="Verdana" size="2">717</font></span></td>
+          <td height="1" width="275" bgcolor="#999999" style="border-color: #0000FF; ">
+          <span lang="en-gb"><font face="Verdana" size="1">Calculating 
+          Expressions on Turing Machine</font></span></td>
+          <td align="center" height="1" width="10" bgcolor="#999999" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#999999" style="border-color: #0000FF; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Problem description 
+          missing...</font></span></td>
+          <td align="center" height="1" bgcolor="#999999" style="border-color: #0000FF; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">718</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Skycrapper Floors</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #0000FF; " bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">719</font></td>
+          <td height="1" width="275" style="border-color: #0000FF; " bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Glass Beads</font></td>
+          <td align="center" height="1" width="10" style="border-color: #0000FF; " bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; " bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; " bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">720</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Hares and Foxes</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">721</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Invitation Cards</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" colspan="5" style="font-family: Verdana, Arial, Helvetica, sans-serif; border-color: #008000; " bordercolor="#FF0000" bgcolor="#A7D3FF">
+        <p align="center"><b><font size="2">722-727: </font> <a href="http://www.acm.inf.ethz.ch/ProblemSetArchive/B_US_EastCen/1990/index.html" target="_blank">
+        <font size="2">East
+        Central Regionals</font></a><font size="2"> - 1990</font></b></p>
+          </td>
+          </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#999999" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">722</font></span></td>
+          <td height="1" width="275" bgcolor="#999999" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Lakes</font></span></td>
+          <td align="center" height="1" width="10" bgcolor="#999999" style="border-color: #008000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#999999" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Problem description 
+          missing...</font></span></td>
+          <td align="center" height="1" bgcolor="#999999" style="border-color: #008000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#999999" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">723</font></span></td>
+          <td height="1" width="275" bgcolor="#999999" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Comment Removal</font></span></td>
+          <td align="center" height="1" width="10" bgcolor="#999999" style="border-color: #008000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#999999" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Problem description 
+          missing...</font></span></td>
+          <td align="center" height="1" bgcolor="#999999" style="border-color: #008000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#999999" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">724</font></span></td>
+          <td height="1" width="275" bgcolor="#999999" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Reverse</font></span></td>
+          <td align="center" height="1" width="10" bgcolor="#999999" style="border-color: #008000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#999999" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Problem description 
+          missing...</font></span></td>
+          <td align="center" height="1" bgcolor="#999999" style="border-color: #008000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #008000; ">
+          <font face="Verdana" size="2">725</font></td>
+          <td height="1" width="275" style="border-color: #008000; "><font face="Verdana" size="2">
+          <a href="#725 - Division">Division</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #008000; ">
+          <font size="2" face="Verdana">4.0</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          <font face="Verdana" size="2">Math</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #008000; ">
+          <font face="Verdana" size="2">726</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #008000; ">
+          <font face="Verdana" size="2">Decode</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">7.0</font></span></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">WA... dunno what's 
+          wrong</font></span></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #008000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #008000; ">
+          <font face="Verdana" size="2">727</font></td>
+          <td height="1" width="275" style="border-color: #008000; "><a href="#727 - Equation">
+          <font size="2" face="Verdana">Equation</font></a></td>
+          <td align="center" height="1" width="10" style="border-color: #008000; ">
+          <font size="2" face="Verdana">4.0</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          <font face="Verdana" size="2">Math</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" colspan="5" style="font-family: Verdana, Arial, Helvetica, sans-serif; " bordercolor="#FF0000" bgcolor="#A7D3FF">
+        <p align="center"><b><font size="2">728-733:
+        <a target="_blank" href="http://www.acm.inf.ethz.ch/ProblemSetArchive/B_US_EastCen/1991/index.html">East
+        Central Regionals</a> - 1991</font></b></p>
+          </td>
+          </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">728</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Scatter Point Plot</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">729</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; "><font face="Verdana" size="2">
+          <a href="#729 - The Hamming Distance Problem">The Hamming Distance Problem</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; ">
+          <font size="2" face="Verdana">5.0</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">730</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Mouse Code Generation</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">731</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Numerical Summation of a 
+          Series</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">732</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; ">
+          <a href="#732 - Anagram by Stack">
+          <font face="Verdana" size="2">Anagrams by Stack</font></a></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; ">
+          <font size="2" face="Verdana">5.0</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Math (Permutation)</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">733</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Follow the Folding Dot</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #FF0000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" colspan="5" style="font-family: Verdana, Arial, Helvetica, sans-serif; " bordercolor="#0000FF" bgcolor="#A7D3FF">
+        <p align="center"><b><font size="2">734-739:
+		<a target="_blank" href="http://www.acm.inf.ethz.ch/ProblemSetArchive/B_US_MidCen/1993/index.html">
+		Mid Central Regionals</a> - 1993</font></b></p>
+          </td>
+          </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">734</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">The Programmer's Hex</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">735</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">Dart-a-Mania</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">736</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">Lost in Space</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bordercolor="#0000FF">
+          <font face="Verdana" size="2">737</font></td>
+          <td height="1" width="275" bordercolor="#0000FF"><font face="Verdana" size="2">
+          <a href="#737 - Gleaming the Cubes">Gleaming the Cubes</a></font></td>
+          <td align="center" height="1" width="10" bordercolor="#0000FF">
+          <font face="Verdana" size="2">6.5</font></td>
+          <td align="center" height="1" bordercolor="#0000FF">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1" bordercolor="#0000FF">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">738</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">A Logical Problem</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#0000FF">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bordercolor="#0000FF">
+          <font face="Verdana" size="2">739</font></td>
+          <td height="1" width="275" bordercolor="#0000FF"><font face="Verdana" size="2">
+          <a href="#739 - Soundex Indexing">Soundex Indexing</a></font></td>
+          <td align="center" height="1" width="10" bordercolor="#0000FF">
+          <font face="Verdana" size="2">4.5</font></td>
+          <td align="center" height="1" bordercolor="#0000FF">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1" bordercolor="#0000FF">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" colspan="5" style="font-family: Verdana, Arial, Helvetica, sans-serif; " bgcolor="#A7D3FF">
+        <p align="center"><b><font size="2">740:
+		<a target="_blank" href="http://www.acm.inf.ethz.ch/ProblemSetArchive/B_US_EastCen/1988/index.html">East
+        Central Regionals</a> - 1988</font></b></p>
+          </td>
+          </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">740</font></td>
+          <td height="1" width="275">
+          <a href="#740 - Baudot Data Communication Code">
+          <font face="Verdana" size="2">Baudot Data Communication Code</font></a></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">5.0</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">741</font></td>
+          <td height="1" width="275">
+          <font face="Verdana" size="2">
+			<a href="#741 - Burrows Wheeler Decoder">Burrows Wheeler Decoder</a></font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">4.5</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Sorting, Decryption</font></td>
+          <td align="center" height="1">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">742</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Domino Game</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">9.9</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Hm,should be backtracking problem rite?</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">743</font></td>
+          <td height="1" width="275">
+          <font face="Verdana" size="2"><a href="#743 - The MTM Machine">The MTM Machine</a></font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">4.5</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Backtracking</font></td>
+          <td align="center" height="1">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">744</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Triangular Museum</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">745</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Numeric Puzzles Again!</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">746</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Polygon Visibility</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">747</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Grid Soccer</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" colspan="5" style="font-family: Verdana, Arial, Helvetica, sans-serif; " bgcolor="#A7D3FF">
+        <p align="center"><b><font size="2">748-750:
+		<a target="_blank" href="http://www.acm.inf.ethz.ch/ProblemSetArchive/B_US_EastCen/1988/index.html">East
+        Central Regionals</a> - 1988</font></b></p>
+          </td>
+          </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">748</font></td>
+          <td height="1" width="275"><font face="Verdana" size="2">
+          <a href="#748 - Exponentiation">Exponentiation</a></font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">4.5</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Math</font></td>
+          <td align="center" height="1">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">749</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Machine Repair Simulation</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" colspan="5" style="font-family: Verdana, Arial, Helvetica, sans-serif; " bordercolor="#FF0000" bgcolor="#A7D3FF">
+        <p align="center"><font size="2"><b>Assigned to Lim Boon Hwee, Matthew</b></font></td>
+          </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">750</font></td>
+          <td height="1" width="275"><font face="Verdana" size="2">
+          <a href="#750 - 8 Queens Chess Problem">8 Queens Chess 
+          Problem</a></font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">6.5</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Chess</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" colspan="5" style="font-family: Verdana, Arial, Helvetica, sans-serif; " bordercolor="#008000" bgcolor="#A7D3FF">
+        <p align="center"><b><font size="2">751-758:
+		<a target="_blank" href="http://www.acm.inf.ethz.ch/ProblemSetArchive/B_US_EastCen/1999/index.html">East
+        Central Regionals</a> - 1999 (Minus problem A-B-C-D)</font></b></p>
+          </td>
+          </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">751</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">Triangle War</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#008000">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">752</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">Unscrambling Images</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#008000">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bordercolor="#008000">
+          <font face="Verdana" size="2">753</font></td>
+          <td height="1" width="275" bordercolor="#008000">
+          <font face="Verdana" size="2"><a href="#753 - A Plug for UNIX">A Plug for UNIX</a></font></td>
+          <td align="center" height="1" width="10" bordercolor="#008000">
+          <font face="Verdana" size="2">6.0</font></td>
+          <td align="center" height="1" bordercolor="#008000">
+          <font face="Verdana" size="2">Graph (Maximum Bipartite Matching)</font></td>
+          <td align="center" height="1" bordercolor="#008000">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">754</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">Treasure Hunt</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#008000">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bordercolor="#008000">
+          <font face="Verdana" size="2">755</font></td>
+          <td height="1" width="275" bordercolor="#008000"><font face="Verdana" size="2">
+          <a href="#755 - 487-3279">487-3279</a></font></td>
+          <td align="center" height="1" width="10" bordercolor="#008000">
+          <font face="Verdana" size="2">4.5</font></td>
+          <td align="center" height="1" bordercolor="#008000">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1" bordercolor="#008000">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bordercolor="#008000">
+          <font face="Verdana" size="2">756</font></td>
+          <td height="1" width="275" bordercolor="#008000"><font face="Verdana" size="2">
+          <a href="#756 - Biorhythms">Biorhythms</a></font></td>
+          <td align="center" height="1" width="10" bordercolor="#008000">
+          <font face="Verdana" size="2">5.5</font></td>
+          <td align="center" height="1" bordercolor="#008000">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1" bordercolor="#008000">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">757</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">Gone Fishing</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#008000">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#008000">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bordercolor="#008000">
+          <font size="2" face="Verdana">758</font></td>
+          <td height="1" width="275" bordercolor="#008000"><font face="Verdana" size="2">
+          <a href="#758_-_The_Same_Game">The Same Game</a></font></td>
+          <td align="center" height="1" width="10" bordercolor="#008000">
+          <font face="Verdana" size="2">6.0</font></td>
+          <td align="center" height="1" bordercolor="#008000">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1" bordercolor="#008000">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" colspan="5" style="font-family: Verdana, Arial, Helvetica, sans-serif; " bordercolor="#FF0000" bgcolor="#A7D3FF">
+        <p align="center"><b><font size="2">759-764:
+		<a target="_blank" href="http://contest.mff.cuni.cz/archive/noam1998/index.html">
+		Northeast North America Regionals</a> - 1998</font></b></p>
+          </td>
+          </tr>
+        <tr>
+          <td height="1" align="left" width="30" bordercolor="#FF0000">
+          <font face="Verdana" size="2">759</font></td>
+          <td height="1" width="275" bordercolor="#FF0000">
+          <font face="Verdana" size="2">
+			<a href="#759_-_The_Return_of_the_Roman_Empire">The Return of the Roman Empire</a></font></td>
+          <td align="center" height="1" width="10" bordercolor="#FF0000">
+          <span lang="en-gb"><font face="Verdana" size="2">7.0</font></span></td>
+          <td align="center" height="1" bordercolor="#FF0000">
+          <font face="Verdana" size="2">Still WA</font></td>
+          <td align="center" height="1" bordercolor="#FF0000">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bordercolor="#FF0000">
+          <font face="Verdana" size="2">760</font></td>
+          <td height="1" width="275" bordercolor="#FF0000">
+          <font face="Verdana" size="2"><a href="#760_-_DNA_Sequencing">DNA Sequencing</a></font></td>
+          <td align="center" height="1" width="10" bordercolor="#FF0000">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bordercolor="#FF0000">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bordercolor="#FF0000">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bordercolor="#FF0000">
+          <span lang="en-gb"><font face="Verdana" size="2">761</font></span></td>
+          <td height="1" width="275" bordercolor="#FF0000">
+          <span lang="en-gb"><font face="Verdana" size="2">Transform those 
+          strings</font></span></td>
+          <td align="center" height="1" width="10" bordercolor="#FF0000">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bordercolor="#FF0000">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bordercolor="#FF0000">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bordercolor="#FF0000">
+          <font size="2" face="Verdana">762</font></td>
+          <td height="1" width="275" bordercolor="#FF0000"><font face="Verdana" size="2">
+          <a href="#762 - We Ship Cheap">We 
+          Ship Cheap</a></font></td>
+          <td align="center" height="1" width="10" bordercolor="#FF0000">
+          <font face="Verdana" size="2">4.5</font></td>
+          <td align="center" height="1" bordercolor="#FF0000">
+          <font face="Verdana" size="2">Graph Traversal</font></td>
+          <td align="center" height="1" bordercolor="#FF0000">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" bordercolor="#FF0000">
+          <font face="Verdana" size="2">763</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" bordercolor="#FF0000">
+          <font face="Verdana" size="2">Fibinary Numbers</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" bordercolor="#FF0000">
+          <span lang="en-gb"><font face="Verdana" size="2">7.0</font></span></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#FF0000">
+          <span lang="en-gb"><font face="Verdana" size="2">WA, what's wrong with 
+          this?</font></span></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#FF0000">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" bordercolor="#FF0000">
+          <font face="Verdana" size="2">764</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" bordercolor="#FF0000">
+          <font face="Verdana" size="2">Pentominos</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" bordercolor="#FF0000">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#FF0000">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" bordercolor="#FF0000">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" colspan="5" style="font-family: Verdana, Arial, Helvetica, sans-serif; border-color: #0000FF; " bordercolor="#FF0000" bgcolor="#A7D3FF">
+        <p align="center"><b><font size="2">765-772: <a href="http://www.acm.inf.ethz.ch/ProblemSetArchive/B_EU_NERC/1997/index.html" target="_blank">Northeastern 
+        European Regionals</a> - 1997</font></b></p>
+          </td>
+          </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">765</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">References</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">766</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Sum of powers</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">767</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Game</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #0000FF; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #0000FF; ">
+          <span lang="en-gb"><font face="Verdana" size="2">768</font></span></td>
+          <td height="1" width="275" style="border-color: #0000FF; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Crossword</font></span></td>
+          <td align="center" height="1" width="10" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">76<span lang="en-gb">9</span></font></td>
+          <td height="1" width="275" style="border-color: #0000FF; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Magic of David 
+          Copperfield</font></span></td>
+          <td align="center" height="1" width="10" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #0000FF; ">
+          <span lang="en-gb"><font face="Verdana" size="2">770</font></span></td>
+          <td height="1" width="275" style="border-color: #0000FF; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Puncher</font></span></td>
+          <td align="center" height="1" width="10" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #0000FF; ">
+          <span lang="en-gb"><font face="Verdana" size="2">771</font></span></td>
+          <td height="1" width="275" style="border-color: #0000FF; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Flying Stars</font></span></td>
+          <td align="center" height="1" width="10" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #0000FF; ">
+          <span lang="en-gb"><font face="Verdana" size="2">772</font></span></td>
+          <td height="1" width="275" style="border-color: #0000FF; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Divide et unita</font></span></td>
+          <td align="center" height="1" width="10" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" style="border-color: #0000FF; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <span lang="en-gb"><font face="Verdana" size="2">773</font></span></td>
+          <td height="1" width="275">
+          <span lang="en-gb"><font face="Verdana" size="2">The JustaPox Language</font></span></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <span lang="en-gb"><font face="Verdana" size="2">774</font></span></td>
+          <td height="1" width="275">
+          <span lang="en-gb"><font face="Verdana" size="2">Driving in City 
+          Squares</font></span></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">77<span lang="en-gb">5</span></font></td>
+          <td height="1" width="275">
+          <span lang="en-gb"><font face="Verdana" size="2">
+			<a href="#775_-_Hamiltonian_Cycle">Hamiltonian Cycle</a></font></span></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">776</font></td>
+          <td height="1" width="275">
+          <font face="Verdana" size="2">
+          <a href="#776 - Monkeys in a Regular Forest">Monkeys in a Regular Forest</a></font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">4.0</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Graph (Flood Fill)</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0">
+          <span lang="en-gb"><font face="Verdana" size="2">777</font></span></td>
+          <td height="1" width="275" bgcolor="#C0C0C0">
+          <span lang="en-gb"><font face="Verdana" size="2">Codebreakers</font></span></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Haven't try ye<span lang="en-gb">t</span></font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">778</font></td>
+          <td height="1" width="275">
+          <font face="Verdana" size="2"><a href="#778_-_Recording_a_tape">Recording a tape</a></font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">779</font></td>
+          <td height="1" width="275">
+          <font face="Verdana" size="2">Wily Hacker's Problem</font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">780</font></td>
+          <td height="1" width="275">
+          <font face="Verdana" size="2">Sentence Generator</font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">781</font></td>
+          <td height="1" width="275">
+          <font face="Verdana" size="2">Optimisation</font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">782</font></td>
+          <td height="1" width="275">
+          <font face="Verdana" size="2"><a href="#782 - Contour Painting">Contour Painting</a></font></td>
+          <td align="center" height="1" width="10">
+          <span lang="en-gb"><font face="Verdana" size="2">6.0</font></span></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Graph (F<span lang="en-gb">lood</span> F<span lang="en-gb">ill</span>) 
+          +
+          Output-related</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">783</font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Trains</font></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font size="2" face="Verdana">784</font></td>
+          <td height="1" width="275"><font face="Verdana" size="2">
+          <a href="#784 - Maze Exploration">Maze 
+          Exploration</a></font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">4.5</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Graph (Flood Fill) + Output-related</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" colspan="5" style="font-family: Verdana, Arial, Helvetica, sans-serif; border-color: #008000; " bordercolor="#FF0000" bgcolor="#A7D3FF">
+        <p align="center"><b><font size="2">785-791:
+        <a target="_blank" href="http://www.acm.inf.ethz.ch/ProblemSetArchive/B_EU_SERC/1996/index.html">
+        Southeastern European Regional</a> - 199</font></b><font size="2"><b>6</b></font></p>
+          </td>
+          </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #008000; ">
+          <font size="2" face="Verdana">785</font></td>
+          <td height="1" width="275" style="border-color: #008000; ">
+          <p align="left"><font size="2" face="Verdana">
+          <a href="#785 - Grid Coloring">Grid Coloring</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #008000; ">
+          <font size="2" face="Verdana">5.5</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          <font size="2" face="Verdana">Graph (F<span lang="en-gb">lood</span> F<span lang="en-gb">ill</span>) 
+          +
+          Output-related</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0" style="border-color: #008000; ">
+          <font face="Verdana" size="2">7<span lang="en-gb">86</span></font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Working with 
+          Relations</font></span></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0" style="border-color: #008000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #008000; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0" style="border-color: #008000; ">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #008000; ">
+          <font face="Verdana" size="2">787</font></td>
+          <td height="1" width="275" style="border-color: #008000; ">
+          <font face="Verdana" size="2">
+			<a href="#787_-_Maximum_Sub-sequence_Product">Maximum Sub-sequence Product</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #008000; ">
+          <font face="Verdana" size="2">9.0</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          <font face="Verdana" size="2"><span lang="en-gb">WA, m</span>ust use BigNumber</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">788</font></span></td>
+          <td height="1" width="275" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">One Day Tours</font></span></td>
+          <td align="center" height="1" width="10" style="border-color: #008000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">789</font></span></td>
+          <td height="1" width="275" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">
+			<a href="#789_-_Indexing">Indexing</a></font></span></td>
+          <td align="center" height="1" width="10" style="border-color: #008000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #008000; ">
+          <font face="Verdana" size="2">790</font></td>
+          <td height="1" width="275" style="border-color: #008000; ">
+          <font face="Verdana" size="2"><a href="#790_-_Head_Judge_Headache">Head Judge Headache</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #008000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">791</font></span></td>
+          <td height="1" width="275" style="border-color: #008000; ">
+          <span lang="en-gb"><font face="Verdana" size="2">Term Reductions</font></span></td>
+          <td align="center" height="1" width="10" style="border-color: #008000; ">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" style="border-color: #008000; ">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <span lang="en-gb"><font face="Verdana" size="2">792</font></span></td>
+          <td height="1" width="275">
+          <span lang="en-gb"><font face="Verdana" size="2">Program Modules</font></span></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1">
+          </td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">793</font></td>
+          <td height="1" width="275">
+          <font face="Verdana" size="2"><a href="#793 - Network Connections">Network Connections</a></font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">4.0</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Set (Union-Find)</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">79<span lang="en-gb">4</span></font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0">
+          <span lang="en-gb"><font face="Verdana" size="2">Straightest Paths</font></span></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">79<span lang="en-gb">5</span></font></td>
+          <td height="1" width="275">
+          <span lang="en-gb"><font face="Verdana" size="2">
+			<a href="#795_-_Sandorfs_Cipher">Sandorf's Cipher</a></font></span></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">796</font></td>
+          <td height="1" width="275">
+          <font face="Verdana" size="2"><a href="#796_-_Critical_Links">Critical Links</a></font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">6.5</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Graph (Articulation Point)</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">79<span lang="en-gb">7</span></font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0">
+          <span lang="en-gb"><font face="Verdana" size="2">Two Way Traffic</font></span></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">79<span lang="en-gb">8</span></font></td>
+          <td height="1" width="275" bgcolor="#C0C0C0">
+          <span lang="en-gb"><font face="Verdana" size="2">Tile Puzzle</font></span></td>
+          <td align="center" height="1" width="10" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1" bgcolor="#C0C0C0">
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td height="1" align="left" width="30">
+          <font face="Verdana" size="2">799</font></td>
+          <td height="1" width="275">
+          <font face="Verdana" size="2"><a href="#799_-_Safari_Holiday">Safari Holiday</a></font></td>
+          <td align="center" height="1" width="10">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">Haven't try yet</font></td>
+          <td align="center" height="1">
+          <font face="Verdana" size="2">ML</font></td>
+        </tr>
+      </table>
+    </div>
+    <p style="margin-left: 20; margin-right: 20" align="left">
+    <font size="2" face="Verdana">Total submit-able problems in this volume: 100<br>
+    Solved problems: 1<span lang="en-gb">9</span><br>
+    Problems in Wrong Answer list from this volume: <span lang="en-gb">12</span><br>
+    Unattempted problems: <span lang="en-gb">69<br>
+	Total hints in this volume: 25</span></font></p>
+    <hr align="left">
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="700 - Date Bugs">700 - Date Bugs</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">This problem is 'similar' to 105-The Skyline 
+    Problem and 467-Synching Signals. You can use an array of 10000 Boolean 
+    flags to mark the years. Try it</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana">
+	<a name="703 - Triple Ties: The Organizers Nightmare">703 - Triple Ties: The 
+	Organizer's Nightmare</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">Similar spirit to problem 626, with additional 
+	constraint. Just create three nested loops i,j,k from 1 to N. Check for 
+	condition:</font></p>
+	<p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">1. (i&lt;j&lt;k or i&gt;j&gt;k) and (win[i][j] &amp;&amp; win[j][k] 
+	&amp;&amp; win[k][i])<br>
+	2. (i&lt;j&lt;k) and (!win[i][j] &amp;&amp; !win[j][i] &amp;&amp; !win[i][k] &amp;&amp; !win[k][i] &amp;&amp; !win[j][k] 
+	&amp;&amp; !win[k][j])</font></p>
+	<p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">But since this problem requires you to output 
+	the total triples first, you need to do this loop twice. First, to count the 
+	total, print it, and then do this O(n^3) loop again to actually print the 
+	triples.</font></p>
+	<p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">Or you can do one loop only, insert all 
+	feasible triplets into array, then directly print this array later 
+	(faster... but sacrifice more memory storage).</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="706 - LC-Display">706 - LC-Display</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">
+    <span lang="en-gb">This is </span>a pure output-related problem. Just do 
+    what they want, precisely. There are various tricks to solve this problem 
+    and it is up to your imagination :)</font></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <span lang="en-gb"><font face="Verdana" size="2">I can say that solving this 
+    problem need patience since you must be very precise...</font></span></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="713 - Adding Reversed Numbers">7<span lang="en-gb">13</span> - 
+    <span lang="en-gb">Adding Reversed Numbers</span></a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <span lang="en-gb"><font face="Verdana" size="2">This problem is easy. Just 
+    ignore all 'reverse' stuffs... this problem can be solved without reversing 
+    anything...</font></span></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <span lang="en-gb"><font face="Verdana" size="2">Read in the input as 
+    string!!!, no default data type can store up to 200 digits...</font></span></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <span lang="en-gb"><font face="Verdana" size="2">Then do basic carry 
+    addition to the right (the normal addition is to align two numbers rightmost 
+    and then shift the carry to the left).</font></span></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <span lang="en-gb"><font face="Verdana" size="2">Example:</font></span></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <span lang="en-gb"><font face="Courier New" size="2">&nbsp;4- 3- 5- 8<br>
+&nbsp;7- 5- 4-<br>
+    -----------+<br>
+    11- 8- 9- 8<br>
+    shift carry to the right<br>
+&nbsp;1- 9- 9- 8</font></span></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <span lang="en-gb"><font face="Courier New" size="2">&nbsp;3- 0- 5-<br>
+&nbsp;7- 9- 4-<br>
+    -----------+<br>
+    10- 9- 9-<br>
+    shift carry to the right<br>
+&nbsp;0- 0- 0- 1<br>
+    here... ignore leading zeroes</font></span></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Courier New" size="2"><span lang="en-gb">&nbsp;4- 5-<br>
+&nbsp;5- 5-<br>
+    -----------+<br>
+&nbsp;9-10-<br>
+    shift carry to the right<br>
+&nbsp;9- 0- 1<br>
+    here... don't print </span>&quot;9&quot; only (terminate because there is '0' in the 
+    middle<br>
+    but you should print &quot;901&quot;</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="714 - Copying Books">7<span lang="en-gb">1</span>4 - 
+    Copying Books</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">
+    <span lang="en-gb">This  </span>is a classic partitioning problem. You can 
+    either use DP to solve this, or use Divide &amp; Conquer method. More details 
+    will be placed here later...</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="725 - Division">725 - Division</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">Just systematically enumerate all 
+    possibilities... Clever brute force approach will be able to pass the time 
+    limit.</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <a name="727 - Equation"><font size="2" face="Verdana">727 - 
+    Equation</font></a></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font size="2" face="Verdana">Given an infix expression, convert 
+    it to postfix.</font></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font size="2" face="Verdana">There are a lot of Infix to Postfix 
+    conversion algorithm available in the web. Go and learn the 
+    algorithm to solve this problem. You only need one stack to do 
+    this conversion.</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="729 - The Hamming Distance Problem">729 
+	- The Hamming Distance Problem</a> (by: Wei Tu)</font></b></h1>
+	<p style="margin-left: 10; margin-right: 10" align="left">
+    <font size="2" face="Verdana">You know the length and how many 1's should be 
+	in the bit string. Therefore, you can solve the problem by dual recursion 
+	first bit is a 0 or 1, with an extra argument of all the preceding bits.</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <a name="732 - Anagram by Stack"><font size="2" face="Verdana">732 
+    - Anagram by Stack</font></a></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font size="2" face="Verdana">Permute ii..iioo..oo (total 'i'=total 
+    'o'=length of the original word), and then try simulating this 
+    ii..iioo..oo using a stack. If our simulation yields the desired 
+    output, then print this permutation.</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="737 - Gleaming the Cubes">737 - 
+	Gleaming the Cubes</a> (by: Wei Tu)</font></b></h1>
+	<p style="margin-left: 10; margin-right: 10" align="left"><font size="2" face="Verdana">
+	If there is only one cube, then the total volume is the cube.&nbsp;If there's 
+	two, it is the intersection of the two. If there's three, the answer is the 
+	intersection of the first one intersects with the third.&nbsp;By keeping the 
+	vertices of current intersection cube, you'll be able to solve the problem.</font></p>
+	<p style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="739 - Soundex Indexing">739 - Soundex 
+    Indexing</a></font></b></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">Straightforward conversion will do. Just 
+    follow their rules :)</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <a name="740 - Baudot Data Communication Code">
+    <font size="2" face="Verdana">740 - Baudot Data Communication Code</font></a></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font size="2" face="Verdana">What you have to do is simple, 
+    decrypt the input using the given table.</font></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font size="2" face="Verdana">Store the decryption table into an 2 
+    array with size 32. One for Up-Shift table, the other for 
+    Down-Shift table. These information are given in the first 2 lines 
+    of the input.</font></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font size="2" face="Verdana">Read input per 5-characters, then 
+    use your binary-&gt;decimal technique to convert them to binary. This 
+    is the index for your decryption table.</font></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font size="2" face="Verdana">After that just print out the 
+    contents of your array with that index. Print Up-Shift characters 
+    if you are in Up-Shift mode, or Down-Shift characters if you are 
+    in Down-Shift mode. Use Flag to distinguish these 2 state. Remember: The 
+    initial state of each message should be assumed to be in the down-shift 
+    state.</font></p>
+      <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="741 - Burrows Wheeler Decoder">741 - 
+		Burrows Wheeler Decoder</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">Solving this problem will be much easier if 
+	you understand how Burrows Wheeler compression algorithm works. I suggest 
+	that you do Google search on the term: 'Burrows Wheeler'. You'll find the 
+	decompression algorithm there. The algorithm is in linear time.</font></p>
+      <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="743 - The MTM Machine">743 - The MTM 
+      Machine</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">You need a recursive checker. Formulate your 
+    recursive checker based on the rule given. Once it violates the rule, output 
+    &quot;NOT ACCEPTABLE&quot;, otherwise, output the new number produced by this MTM 
+    machine. </font></p>
+      <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="748 - Exponentiation">748 - 
+		Exponentiation</a> (By: Darkman)</font></b></h1>
+	<p style="margin-left: 10; margin-right: 10" align="left">
+      <font face="Verdana" size="2">First, found out where the decimal point is. 
+		If after the decimal point there are x digits and the power is n, then 
+		the final result will have n*x digits after the decimal point (Of course 
+		you have to eliminate the trailing zeros explicitly). Then convert the 
+		original number into an integer by withdrawing the '.' , example, if it 98.876 then the integer 
+		is 98876, then use your BigNumber exponentiation. The remaining part is all 
+		about printing the output in the right format, which is replacing the 
+		'.' back.</font><h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <a name="750 - 8 Queens Chess Problem">
+    <font size="2" face="Verdana">750 - 8 Queens Chess Problem</font></a></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font size="2" face="Verdana">This problem is quite popular, refer 
+    to your algorithm books regarding 'backtracking', they usually use 
+    8 Queens problem as a sample.<br>
+	Alternative: Brute Force. Use 1D array (only one queen per column) to find 
+	combinations. Finally, check if diagonals violate rule.</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="753 - A Plug for UNIX">753 - A Plug 
+    for UNIX</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">A maximum bipartite matching problem. 
+    Formulated this problem as a graph and then pass it to a specialized maximum 
+    bipartite matching algorithm or a network flow algorithm.</font></p>
+<p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">Alternative: Bipartite Matching. Create a 
+	graph that has a source node connected to all plugs with each capacity 1, 
+	all devices connects to plugs with capacity 1, all adapters connect from 
+	plug A to plug B with infinite capacity, and all devices connects the sink 
+	with capacity 1. After that, use a maxflow algorithm to determine that 
+	maximum number of connected devices. The answer will then be total-connected 
+	devices. Note that adapters should only connect one way. A to B does not 
+	mean B to A.</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="755 - 487-3279">755 - 487-3279</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">Ad hoc, simulation. Convert all to numbers. 
+	Use STL map for 'hashing'. All telephone numbers are 7-digits, with '-' 
+	between 3rd and 4th number. Trailing zeroes (if int is used) should be added 
+	when necessary.</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="756 - Biorhythms">756 - Biorhythms</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">Similar to problem 105, 467, and 700... use an 
+    array to flags these days... Please browse the internet to find out more 
+    about biorhythms.<br>
+	Complete search, ad-hoc. If they are already in the triple peak, calculate 
+	the next one.</font></p>
+<p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2"><b><a name="758_-_The_Same_Game">758 - The 
+	Same Game</a></b><br>
+	<br>
+	Ad-hoc. Fun! Takes time to code, but just follow instructions.</font></p>
+<p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2"><b>
+	<a name="759_-_The_Return_of_the_Roman_Empire">759 - The Return of the Roman 
+	Empire</a></b><br>
+	<br>
+	Backtracking / Coin change. Notice that valid numeric sequences are just 
+	these rules:<br>
+	<br>
+	1. Pick 0 or 1 from each row. Top to bottom only.<br>
+	M MM MMM<br>
+	C CC CCC CD D DC DCC DCCC CM<br>
+	X XX XXX XL L LX LXX LXXX XC<br>
+	I II III IV V VI VII VIII IX<br>
+	<br>
+	2. The string should terminate, i.e. no trailing characters.<br>
+	<br>
+	Store the sequence used to get the converted number.</font></p>
+<p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2"><b><a name="760_-_DNA_Sequencing">760 - DNA 
+	Sequencing</a></b><br>
+	<br>
+	Complete search. Use strncmp for each and every possible combination. Note 
+	that null zero should not be checked (do not go out of bounds!).</font></p>
+<p style="margin-left: 10; margin-right: 10" align="left">
+    <b>
+    <font size="2" face="Verdana"><a name="762 - We Ship Cheap">762 - 
+    We Ship Cheap</a></font></b></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">Solve this problem using Breath-First Search. 
+    Formulate the input as a graph, then since the edge weight is uniform, the 
+    shortest one found by BFS will be the minimal route. Simply start traversing 
+    from starting city to destination city. Note that input is quite large.</font></p>
+<p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2"><b><a name="775_-_Hamiltonian_Cycle">775 - 
+	Hamiltonian Cycle</a></b><br>
+	<br>
+	Backtracking / complete search. Note that all nodes can only be traversed 
+	once except the first node. Possible not to mark the first node when it 
+	first start. Order does not seem to be important.</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="776 - Monkeys in a Regular Forest">776 - 
+    Monkeys in a Regular Forest</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">To solve this problem (+ problem 784 and 785), 
+    you need a recursive flood-fill algorithm, which I believe should be a 
+    standard algorithm taught in algorithm class. Flood-fill the area which have the same monkey 
+    ID (represent the same family), starting with number 1 from top-left to 
+    bottom-right. The output must be formatted as requested, otherwise you'll 
+    get Presentation Error. </font></p>
+<p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2"><b><a name="778_-_Recording_a_tape">778 - 
+	Recording a tape</a></b><br>
+	<br>
+	Ad-hoc, complete search. Surprising that so few attempted the question. 
+	Perhaps it's because there is no limits set. So here it is: Max number of 
+	songs = 32. Try to place all the songs into Side A, then place the songs 
+	starting at the back into side B(in a binary way).</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="782 - Contour Painting">78<span lang="en-gb">2</span> - 
+    <span lang="en-gb">Contour Painting</span></a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">Similar as problem 776, we use flood-fill 
+    algorithm to paint the maze.<span lang="en-gb"> But this time we only paint 
+    if and only if it is near the border. (the initial '*' can be inside or 
+    outside the border, treat them appropriately).</span></font></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <span lang="en-gb"><font face="Verdana" size="2">I think this problem is the 
+    hardest among 776-782-784-785 flood fill problems...</font></span></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="784 - Maze Exploration">784 - 
+    Maze Exploration</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">Similar as problem 776<span lang="en-gb"> and 
+    782</span>, we use flood-fill 
+    algorithm to paint the maze.</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="785 - Grid Coloring">785 - 
+    Grid Coloring</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">Similar as 784, just use flood-fill algorithm 
+    appropriately. The difference between 784 and 785 is very minimal. You can 
+    solve two problems using roughly similar source code.</font></p>
+<p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2"><b>
+	<a name="787_-_Maximum_Sub-sequence_Product">787 - Maximum Sub-sequence 
+	Product</a></b><br>
+	<br>
+	Big Int. Use java (or write your own) BigInt class. Credits to chrismoh in 
+	UVA forum for the algorithm. Starting from the first element, update the 
+	largest positive and negative product. Upon reading 0 or end, reset the 
+	values. Print the highest number calculated. Note that the result may be 
+	negative or zero.</font></p>
+<p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2"><b><a name="789_-_Indexing">789 - Indexing</a></b><br>
+	<br>
+	Ad-hoc. Use STL map for storing the words that needed to be indexed. 
+	Unfortunately, it does not have a test case yet. Any blank answer will do 
+	for now (hint hint).<br>
+	<br>
+	<b><a name="790_-_Head_Judge_Headache">790 - Head Judge Headache</a><br>
+	</b><br>
+	Ad-hoc. Use STL sort and comparator for easier coding. The setter did not 
+	specify the requirements well, which is well discussed in the UVA forums. 
+	When events occur at the same time, all rejected answers, ie. &quot;N&quot;, are 
+	considered first before the accepted &quot;Y&quot;. Also, show all the teams up to the 
+	highest number that have submitted something, ie if 1,2,4 submitted 
+	something, show 1,2,3,4. Finally, do not print trailing spaces, and keep the 
+	numbers aligned to the right.</font></p>
+    <h1 style="margin-left: 10; margin-right: 10" align="left"><b>
+    <font size="2" face="Verdana"><a name="793 - Network Connections">793 - 
+    Network Connections</a></font></b></h1>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">The best way to solve this problem is using 
+    disjoint forest set data structure (implementation of Union Find data 
+    structure).</font></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2">When you know 2 computers are connected, union 
+    them by calling union_set(comp1,comp2), then for checking connectivity, you 
+    can just determine if find_set(comp1) == find_set(comp2). Everything will be 
+    very simple if you do this. However, don't forget if this is a multiple 
+    input problems.<br>
+	<br>
+	<b><a name="795_-_Sandorfs_Cipher">795 - Sandorf's Cipher</a></b><br>
+	<br>
+	Ad-hoc. Find out the one to one mapping between the message and the cipher. 
+	Use paper with holes (at the correct places of course). Read the question 
+	carefully - it says that the paper with holes turn, but I initially 
+	understood it as the bottom paper turns... Also note that the trailing # 
+	should be removed.<br>
+	<br>
+	<b><a name="796_-_Critical_Links">796 - Critical Links</a></b><br>
+	<br>
+	Modified DFS. This problem can be solved by modifying DFS to check for 
+	articulation points. During DFS, store dfsnum(u) the order that the element 
+	u is checked, and low(u) the lowest order number that element u can be 
+	accessed from. Whenever dfsnum(u) &lt; low(v), edge u-v is a bridge. Remember 
+	to sort the answer in ascending order.<br>
+	<br>
+	<b><a name="799_-_Safari_Holiday">799 - Safari Holiday</a></b><br>
+	<br>
+	Math. For people who read the forums (too much), the answer of this problem 
+	is posted in the forums. It deals with block designs but the implementation 
+	is just 2 mod checks.</font></p>

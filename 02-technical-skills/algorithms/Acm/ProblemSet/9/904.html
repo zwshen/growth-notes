@@ -1,0 +1,82 @@
+<HTML>
+<HEAD>
+<TITLE>UP ACM Programming Contest (2003) / Round 1: Problem E</TITLE>
+</HEAD>
+
+<BODY bgcolor="white">
+
+<font color="#0000FF">
+<H1>Problem E</H1>
+
+<H1 align="center">Overlapping Air Traffic Control Zones</H1>
+</font>
+
+<P align="justify">
+Optimization of air traffic flow is one of the essential ways for
+airlines to maintain economic viability. All too often, however,
+weather and other anomalous conditions disrupt air traffic flow
+resulting in significant costs. Automation systems for optimizing
+flows are not currently able to quickly reconfigure when path planning
+must account for dynamic conditions such as moving weather
+systems. Human intervention is usually used to decide route
+modifications. 
+
+<P align="justify">
+Decisions on route modification for one aircraft must take into
+account neighboring aircraft safe zones in order to minimize possible
+collision risks. We will consider a 3D model in which the safe zone for
+one aircraft is represented as a parallelepiped.
+
+<P align="justify">
+Evaluation of aircraft collision risks, in this model, can be done by
+calculating the volume of the intersecting safe zones of the aircrafts
+in a given air traffic control zone. In other words, we need to be
+able to determine the volume of intersecting parallelepipeds.
+
+<FONT color="#0000FF"><H2>Problem</H2></FONT>
+Consider a number of parallelepipeds in space, having all the edges
+parallel to the axes. Your task is to write a program that outputs
+the volume occupied simultaneously by two or more parallelepipeds.
+
+Each parallelepiped is characterized by 6 integer values, the
+coordinates of two of its vertices<p>
+
+<it>(x<sub>1</sub>,y<sub>1</sub>,z<sub>1</sub>), (x<sub>2</sub>,
+y<sub>2</sub>,z<sub>2</sub>)</it> with <it>x<sub>1</sub> &lt;
+x<sub>2</sub></it>, <it>y<sub>1</sub> &lt; y<sub>2</sub></it> and
+<it>z<sub>1</sub> &lt; z<sub>2</sub></it>
+
+<FONT color="#0000FF"><H2>Input</H2></FONT>
+The input file contains several test cases, each of them consists of an integer <it>0 &le; n &ge; 15</it> in the
+first line followed by <it>n</it> lines of 6-tuples of integers
+describing the parallelepipeds. 
+The total area occupied does not exceed <it>5x10<sup>8</sup></it>.
+
+<FONT color="#0000FF"><H2>Output</H2></FONT>
+For each test case, output on a line by itself an integer corresponding to the total volume occupied simultaneously by two or more parallelepipeds.
+
+
+<FONT color="#0000FF"><H2>Sample Input</H2></FONT>
+
+<PRE>
+  5
+  1 1 1 3 3 3
+  1 1 1 3 3 3
+  1 1 1 3 3 3
+  400000000 400000000 400000000 400000001 400000001 400000002
+  400000000 400000000 400000000 400000002 400000004 400000001
+</PRE>
+
+<FONT color="#0000FF"><H2>Sample Output</H2></FONT>
+
+<PRE>
+  9
+</PRE>
+<BR><HR>
+<i>
+Fernando Silva, CPUP'2003 Round 1<br>
+University of Porto Local Contest
+</i>
+</BODY>
+</HTML>
+

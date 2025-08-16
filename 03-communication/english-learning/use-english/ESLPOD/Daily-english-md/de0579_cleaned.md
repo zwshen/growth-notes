@@ -1,0 +1,106 @@
+# Telling People Where You¡¦re From
+
+Welcome to English as a Second Language Podcast number 5 79: Telling People Where You’re From. 
+
+This is English as a Second Language Podcast episode 579.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  You probably already know that , but did you know that we also have an ESL Podcast Store, where you can buy additional courses in English?  Yeah?  And our ESL Podcast Blog, where a couple of times a week we provide even more help in improving your English. 
+
+This episode is called “Telling People Where You’re Fro m.”  The U.S. is a land of immigrants (people from other countries), but also a co untry where people move to different parts of the country frequently.  This is go ing to tell you how you tell someone where you came from before you got to where you  are now.  Let’s get started. 
+
+[start of dialogue] 
+
+Cora:  Hi, I’m Cora. 
+
+Antonio:  I’m Antonio.  Nice to meet you. 
+
+Cora:  Same here.  Are you from around here? 
+
+Antonio:  No, I’m originally from Arkansas.  How about  you? 
+
+Cora:  I’m a native Californian, but I grew up in th e Middle East.  My parents were in the military, so we moved quite a bit, but mainly a round the Middle East. 
+
+Antonio:  That’s really interesting.  I spent some time in Jordan myself a few years ago doing research for my company.  But I’ve lived in Los Angeles for over 10 years and consider it my adopted hometown. 
+
+Cora:  Isn’t that funny?  Even though I was born here, I only moved back here two months ago.  I’m sure you know the city much better th an I do. 
+
+Antonio:  I’d be happy to show you around, to help you get reacquainted with L.A.    
+
+ Cora:  I was only eight years old when my family moved aw ay, so I have a lot of catching up to do.   
+
+Antonio:  Let’s start next weekend.  I’ll show you some o f the places where the locals like to hang out.   
+
+Cora:  That sounds great.  Is this how all Angelinos tr eat newcomers?   
+
+Antonio:  Absolutely!  I’m the city’s one-man welcome wag on. 
+
+[end of dialogue] 
+
+Cora begins our dialogue by saying, “Hi, I’m Cora (my n ame is Cora).”  Antonio says, “I’m Antonio.  Nice to meet you.”  Cora says, “Same  here,” which is an informal way of saying nice to me you, too: “Same here.  Are you from around here?”  “To be from around here” means from that loca l area, born in this particular town or city.  So if someone says after meeting  me, “Are you from around here?” meaning Los Angeles, I would have to say, “No.”   
+
+Antonio says, “No.”  He says, “I’m originally from Arkansas. ”  Arkansas is a state in the central part of the United States, south of Misso uri, north of Texas I think. Arkansas is where Antonio is originally from.  “Originall y from” means the place where you were born.  Usually we say that when you haven ’t spent a lot of time in your new location.  But even now, I’ve been in Los An geles almost 20 years, if someone asks me where I was originally from I would say St.  Paul, Minnesota. 
+
+So, Antonio is originally from Arkansas.  Cora says, “I’m a  native Californian.” “To be native to (some location)” means to have been bor n in that particular place.  In California, most of people who live here – well maybe not most – a lot of the people who live here are not native California ns.  They weren’t born in California; they came from other states or other countri es.  “Native” has a couple of other meanings in English as well, and those are i n your Learning Guide for this episode. 
+
+Cora says, “I grew up in the Middle East.”  So she was bo rn in California, but she “grew up,” she spent her childhood in another place – i n the Middle East, referring to the part of the world that is southeast of Europe, northwest of Africa: places like Iraq and Iran and Israel.  Those are countri es in the Middle East. Well, Cora says that her parents were in the military (t he army, or the navy, or the marines), so we moved quite a bit, but mainly aro und the Middle East.  This  
+
+ is not unusual for military families; they get assigned t o different places in the world, sometimes frequently.  In this case, Cora moved “qu ite a bit,” meaning a lot. 
+
+Antonio says, “That’s really interesting.  I spent some tim e in Jordan myself a few years ago doing research for my company.”  “To spend some ti me” means to do something for an amount of time, usually not very long , but you don’t say exactly how much: “I’m going to spend some time working on my e mail this afternoon,” maybe 10 minutes, maybe an hour.  Or, “I spent some tim e in New York City.”  A couple days, a week, could be longer, you’re not really sur e. 
+
+Antonio says that he spent some time in Jordan, which is an other country in the Middle East, “But I’ve lived in Los Angeles for over 10 y ears and I consider it my adopted hometown.”  Your “hometown” technically is the  place where you were born, so my hometown is St. Paul.  Your “adopted homet own” is another city that you move to that perhaps you love so much that you say, “Wel l, this is my hometown now.”  I’m going to adopt it, like you woul d adopt a child I guess or a puppy.  I don’t know why you would adopt a puppy, but – well, a cat.  Why you would adopt a cat I have no idea!  But this is differen t; this is adopted hometown. 
+
+Cora says, “Isn’t that funny (isn’t that interesting)?  Eve n though I was born here, I only moved back here two months ago.  I’m sure you know the city much better than I do.”  So Cora has been away for all these years, and she’s now coming back to Los Angeles.  Antonio, obviously interested romanti cally in Cora, says, “I’d be happy to show you around, to help you get reac quainted with L.A.”  “To show (someone) around” means to take someone to differe nt parts of the city, or to help someone become familiar with the most importan t things or places.  If you come to Los Angeles, I could show you around.  I could take  you to the beach, I could take you to downtown, to Disneyland, tell you where  the good restaurants are, and so forth.  That’s to show someone around.  Thi s verb “to show” has a couple of different meanings however.  This meaning, i n this dialogue, is a phrasal verb; for some other examples with different mea nings take a look at the Learning Guide. 
+
+Antonio says he can help Cora get reacquainted.  “To be  acquainted with (something)” is to know something, to have some informat ion about something or to know someone, but perhaps not very well.  “To get rea cquainted” means that you are going to try to become familiar again with some one that you knew a long time ago, or some place that you were in a long time a go, and that is the case with Cora.  Antonio is going to help her learn again  about Los Angeles. 
+
+ Cora says, well, “I was only eight years old when my family moved away (moved out of L.A.), so I have a lot of catching up to do.”  T he expression “to have a lot of catching up to do” means that you need to learn a lot of things in order to become as familiar with something as the other person is, or you need to learn all about these things that have happened when you were go ne.  “To catch up” is a phrasal verb that in this case means to get up to the sam e level of knowledge as another person after being gone for some reason.  If  you watch a television series and you miss a couple of weeks, you may ask your friend  to tell you what happened so you can catch up. 
+
+Well, Cora has a lot of catching up to do because she’s be en away from Los Angeles for so long.  Antonio says, seeing an opportunit y, “Let’s start next weekend.  I’ll show you some of the places where the local s like to hang out.”  A “local,” as a noun, is a person who lives in that area.  It’s especially a term that you will hear in places where there are lots of tourists.   There are the people who come and visit, and then there are the locals, the peopl e who actually live there.   
+
+So Antonio is going to show Cora where the locals like t o hang out.  “To hang out” is a phrasal verb meaning to spend your free time – your leisure time doing things that are fun but aren’t necessarily important.  G oing with your friends to a café or to a restaurant, those are places where you hang out.  It can also be used as a noun; a “hangout” is a place where a particular gr oup of people often go to. That term is especially popular when we are talking abo ut adolescents, high school, and college kids. 
+
+Cora says to Antonio, “That sounds great.  Is this how all  Angelinos treat newcomers?”  “Angelino” is someone like me, who lives in  Los Angeles.  “To treat (someone)” is to act toward someone in a particu lar way, to behave towards someone: “You should treat other people nicely,” you shou ld be nice to them. Or, “He treated his dog very badly,” he wasn’t very nice to  his dog.  Maybe the dog wasn’t very nice to him!  A “newcomer” (one word - n ewcomer) is a person who is new to an area, someone who has lived somewhere e lse and now has come to live in this particular town or city. 
+
+So, Cora is asking if all Angelinos treat newcomers, like her, so nicely.  Antonio says, “Absolutely!  I’m the city’s one-man welcome wagon.”  One-man” means one person doing something alone; not necessarily a man , could be a woman.  A “welcome wagon” is a service, if you will, that welcomes pe ople who have recently moved to a new area.  There isn’t really anythin g like a welcome wagon in modern America.  But sometimes when you move to a new  city, the local businesses might send you flyers – might send you advertisement s; your  
+
+ neighbors, perhaps, might come up and talk to you and g reet you.  That would be sort of the idea of a welcome wagon.  A “wagon” (wago n) is like a big a big cart that would be pulled by a horse for example, or it coul d be pulled by humans, and you ride inside of it.  If you think back in the 19th century in the U.S., when people were coming from the east coast of the U.S. out to the  west, out to places like California, they had horses and the horses pulled this m ode of transportation called a wagon.  It has four wheels on it; usually the w agon was “covered,” meaning there was a top to it.  That’s a wagon. 
+
+Of course, Antonio is not really being nice to Cora just because he’s nice to newcomers.  We get the idea maybe he has some romantic i nterest in Cora! 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Cora:  Hi, I’m Cora. 
+
+Antonio:  I’m Antonio.  Nice to meet you. 
+
+Cora:  Same here.  Are you from around here? 
+
+Antonio:  No, I’m originally from Arkansas.  How about  you? 
+
+Cora:  I’m a native Californian, but I grew up in th e Middle East.  My parents were in the military, so we moved quite a bit, but mainly a round the Middle East. 
+
+Antonio:  That’s really interesting.  I spent some time in Jordan myself a few years ago doing research for my company.  But I’ve lived in Los Angeles for over 10 years and consider it my adopted hometown. 
+
+Cora:  Isn’t that funny?  Even though I was born here, I only moved back here two months ago.  I’m sure you know the city much better th an I do. 
+
+Antonio:  I’d be happy to show you around, to help you get reacquainted with L.A.   
+
+Cora:  I was only eight years old when my family moved aw ay, so I have a lot of catching up to do.   
+
+Antonio:  Let’s start next weekend.  I’ll show you some o f the places where the locals like to hang out.    
+
+ Cora:  That sounds great.  Is this how all Angelinos tr eat newcomers?   
+
+Antonio:  Absolutely!  I’m the city’s one-man welcome wag on. 
+
+[end of dialogue] 
+
+Los Angeles is my adopted hometown, and that of our scrip twriter, Dr. Lucy Tse.   
+
+From Los Angeles, California, I am Jeff McQuillan.  Th ank you for listening. Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

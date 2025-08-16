@@ -1,0 +1,106 @@
+# Planning a Business Luncheon
+
+Welcome to English as a Second Language Podcast num ber 83: Planning a Business Luncheon. 
+
+You’re listening to episode 83 of English as a Seco nd Language Podcast. I’m your host, Dr. Jeff McQuillan, from the Center for Educational Development in beautiful – for the most part – Los Angeles, Califo rnia. 
+
+Today’s podcast is going to be about planning a bus iness lunch or a business luncheon. Let’s eat! 
+
+[start of dialogue] 
+
+One of my co-workers, Betty, was retiring this mont h after working for the company 23 years. I was put in charge of planning a  retirement lunch in her honor at a restaurant nearby. The company was picki ng up the tab and it was up to me to set a day and time. After asking the peopl e in the department and finding out their availability, I called the restau rant to make a reservation. 
+
+Manager: Bruno's.  
+
+Jeff: Hi, I'm calling from Nika Corporation. We wou ld like to hold a business lunch at the restaurant. 
+
+Manager: Oh, certainly. I'm Linda, the manager. I c an help you with that. How many will there be in your party? 
+
+Jeff: There will be about 18 people. 
+
+Manager: Okay. For a party that size, we have a sep arate banquet room in the back. 
+
+Jeff: Is there an extra charge to reserve the room?  
+
+Manager: No, as long as you can guarantee at least 15 guests, there is no extra charge. 
+
+Jeff: That's great. I'd like to go ahead and reserv e the room, then, for Friday, December 2, at around noon. This is a retirement pa rty and we’d like to bring a  
+
+cake for the guest of honor and some bottles of cha mpagne. Will that be acceptable? 
+
+Manager: The cake is no problem at all, but we do c harge a corkage fee of $15 a bottle for any alcohol not purchased from the resta urant.  
+
+Jeff: Oh, that's fine.  
+
+Manager: Great. I have the banquet room reserved fo r a luncheon for Nika Corporation on the 2nd of December. May I have your  name and contact information? 
+
+Jeff: Sure. I'm Jeff McQuillan and my number is 323 -555-6840, extension 42. 
+
+Manager: Thanks, Mr. McQuillan. I'll give you a cal l a week in advance to confirm the arrangements. 
+
+Jeff: Sounds good. Thanks for your help.  
+
+Manager: Thank you for choosing Bruno's. We look fo rward to seeing you on the 2nd. 
+
+[end of dialogue] 
+
+We learn in this podcast about making plans at a re staurant for a business lunch. The expression we use in the title is “luncheon” (l uncheon) and “luncheon” is just another word for lunch but it implies something mor e formal, often for a business reason. The reason for this particular business lun cheon is that one of my co- workers, Betty, was retiring this month. “To retire ” means that you are leaving your job. Usually, you retire when you are, in the United States, 64 or 65 years old. I was “put in charge” of planning a retirement  luncheon. “To be put in charge” means that you are the person who will organize. Yo u are the leader of that particular task, or thing you have to do.  
+
+Now, the lunch is in Betty’s honor, “in her honor,”  which means it’s for her. It’s something we’re doing especially for her. We use th at expression, “in your honor” or “in his honor,” to mean that it’s a special even t that we are doing to honor or to thank this person. The company is going to be “pick ing up the tab.” “To pick up the tab” means to pay for. It’s a somewhat informal  expression to pay for. The “tab” (tab) is another word for the bill or the che ck. So, you can ask, for example, “Who’s picking up the tab?” It means, “Who is payin g for this?” Not just in a restaurant but for any sort of project. I said that  it was “up to me” to set a day and  
+
+time. The expression, “it is up to you” or “it is u p to me,” means it’s my decision. I’m the one who has to choose. So, for example, if you were saying to your wife or husband, “Do you want to go to a movie or do you  want to go to a play?” and they said to you, “It’s up to you,” or simply, “Up to you,” that would mean they want you to pick. That usually is what happens in m y house.  
+
+I said that I had to find out what the “availabilit y” was of the people in my department at work. The “availability” means whethe r they can go on certain time or date. I then called the restaurant to make a “re servation.” A “reservation,” of course, is when you call a restaurant or a hotel or  airline and say, “I want to use your service at a certain time.” The woman answered  the phone with the name of the restaurant, Bruno’s. I told the woman that we w anted to “hold a business lunch” at the restaurant. “To hold a lunch” just me ans to have a lunch. We sometimes use that for events or activities. “Where  is the reception being held?” means, “Where is the reception going to be? What is  the location of the reception or the party?” The woman answering the phone introd uced herself as the manager, or the boss, of the restaurant. And she as ked me, “How many would be in your party? How many will there be in your pa rty?” “Party” here doesn’t mean a celebration. “Party” just means group or the  number of people in your group. So, when someone says, “How many in your par ty?” -- which is a very common question at a restaurant, they’re asking you  how many people are in your group, how big of a table do you need? Now, in  my case I needed 18 seats, or 18 places. I had a big “party.” And so the manag er told me, “Well, for a party that size,” meaning that big, “we have a separate b anquet room in the back.” A “banquet room” in a restaurant is a private room, a  separate room where people can have events and parties and not interfere with the rest of the restaurant, those people who are not in the party. It’s a separ ate room. A “banquet” is just another word for a very formal, very nice meal with  lots of different food.  
+
+I asked if there was an “extra charge to reserve th e room,” meaning is it going to cost more money. “Charge” is – here, really, refers  to whether they’re going to charge me more money, whether they’re going to tell  me I have to pay more money. The woman said there was no extra charge if I could “guarantee” at least 15 guests. “To guarantee” as a verb means to promis e, to say someone, “Yes, that will happen” or, “I will do that.” A “guarante e” as a noun is a promise that you make to someone. We also use that word, “guarantee, ” for something that you buy, maybe a computer or a television, and they’ll sometimes say, “This is guaranteed,” meaning if there’s something wrong wit h it, we will fix it or take it back. I then make a reservation for the 2nd of Dece mber and I tell the manager that we want to bring a cake for the “guest of hono r.” The “guest of honor” is when you have a dinner, a meal, a lunch and you are  thanking someone or you  
+
+are honoring or telling this person that they’ve do ne a good job. The person that you are having the lunch for is called the “guest o f honor.”  
+
+I also asked if I can bring some bottles of champag ne in the restaurant and the manager says, “Yes, but there’s a corkage fee.” A “ corkage fee” (corkage) – when you have a bottle of wine or champagne, there’ s a little thing at the top of the bottle that is like the cap or the top that kee ps the wine in the bottle.  We call that a “cork.” “Cork” is a type of material and “co rkage fee” means that in this case, they charge you for each bottle of champagne or wine that you bring in that you don’t buy at the restaurant. Some restaurants h ave corkage fees; some restaurants you can’t bring in wine or alcohol even  by paying an extra amount of money. I say to the woman, “That’s fine,” meaning t hat’s okay, I agree. And the woman, the manager, repeats back my information. Sh e gives my telephone number with the “area code” first. In the United St ates, there is – each different region has its own “area code.” I live in “area cod e” 310. There are many “area codes” in Los Angeles depending on where we live. A nd the regular or local telephone number has 7 digits. I also give my “exte nsion,” meaning at my work, if you call that number, you have to dial in or ask fo r phone number 42, “extension” 42. 
+
+The woman tells me that she will call me a week in advance to confirm the arrangements. “In advance” just means before. So, i f I say to you, “Let’s meet in February of next year. I’ll call you a week in adva nce of our meeting,” I mean I’m going to call that person 7 days before we are actu ally going to have our meeting. “Arrangements” just means the agreement, t he information that I gave the manager. The “arrangements for something” are t he details, the information that you need in order to do what you’re going to d o. We often talk about “arrangements at a restaurant” or “arrangements for  a meeting” – means the person who’s taking or the actual things that you h ave to do in order to have the meeting or the lunch. I say to the manager, “Sounds  good,” meaning that is okay with me, that everything is agreeable to me.  
+
+Now let’s listen to the dialogue, this time at a na tive rate of speech. 
+
+[start of dialogue] 
+
+One of my co-workers, Betty, was retiring this mont h after working for the company 23 years. I was put in charge of planning a  retirement lunch in her honor at a restaurant nearby. The company was picki ng up the tab and it was up to me to set a day and time. After asking the peopl e in the department and finding out their availability, I called the restau rant to make a reservation. 
+
+Manager: Bruno's.  
+
+Jeff: Hi, I'm calling from Nika Corporation. We wou ld like to hold a business lunch at the restaurant. 
+
+Manager: Oh, certainly. I'm Linda, the manager. I c an help you with that. How many will there be in your party? 
+
+Jeff: There will be about 18 people. 
+
+Manager: Okay. For a party that size, we have a sep arate banquet room in the back. 
+
+Jeff: Is there an extra charge to reserve the room?  
+
+Manager: No, as long as you can guarantee at least 15 guests, there is no extra charge. 
+
+Jeff: That's great. I'd like to go ahead and reserv e the room, then, for Friday, December 2, at around noon. This is a retirement pa rty and we’d like to bring a cake for the guest of honor and some bottles of cha mpagne. Will that be acceptable? 
+
+Manager: The cake is no problem at all, but we do c harge a corkage fee of $15 a bottle for any alcohol not purchased from the resta urant.  
+
+Jeff: Oh, that's fine.  
+
+Manager: Great. I have the banquet room reserved fo r a luncheon for Nika Corporation on the 2nd of December. May I have your  name and contact information? 
+
+Jeff: Sure. I'm Jeff McQuillan and my number is 323 -555-6840, extension 42. 
+
+Manager: Thanks, Mr. McQuillan. I'll give you a cal l a week in advance to confirm the arrangements. 
+
+Jeff: Sounds good. Thanks for your help.  
+
+Manager: Thank you for choosing Bruno's. We look fo rward to seeing you on the 2nd. 
+
+[end of dialogue] 
+
+Be sure to visit our website at www.eslpod.com.  
+
+From Los Angeles, California, I’m Jeff McQuillan. W e’ll see you next time on ESL Podcast. 
+
+ESL Podcast is produced by the Center for Education al Development in Los Angeles, California. This podcast is copyright 2005 . No part of this podcast may be sold or redistributed without the expressed writ ten permission of the Center for Educational Development.
+

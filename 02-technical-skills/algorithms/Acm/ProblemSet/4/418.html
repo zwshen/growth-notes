@@ -1,0 +1,161 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Molecules</TITLE>
+<META NAME="description" CONTENT="Molecules">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Molecules</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+In this abstraction from a molecular engineering problem associated with
+developing a synthetic fuel, we
+are given four, equal-length, molecular chains that are to form a super
+molecule. In the simplified two-dimensional model used here, 
+the super molecule is formed as an interlocking rectangular arrangement of
+the four given molecular chain strands. The interlocking feature is the
+sharing of a common molecule between pairs of chains.
+<P>
+<P>
+To illustrate, suppose we have the four, length-twelve, molecular chains:
+<P>
+<PRE>                      O I M D I H E I A F N L
+                      C H J D B J M H P J K D
+                      L C B J O J G I E K B O
+                      K A I N L H L O L B E J</PRE>
+<P>
+These can be placed in the interlocking arrangements:
+<P>
+<PRE>                            O           L
+                            I           C
+                            M           B
+                      C H J D B J M H P J K D
+                            I           O
+                            H           J
+                            E           G
+                            I           I
+                            A           E
+                            F           K
+                      K A I N L H L O L B E J
+                            L           O</PRE>
+<P>
+-OR-
+<P>
+<PRE>                                    O     C
+                                    I     H
+                                    M     J
+                                    D     D
+                      L C B J O J G I E K B O
+                                    H     J
+                                    E     M
+                                K A I N L H L O L B E J
+                                    A     P
+                                    F     J
+                                    N     K
+                                    L     D</PRE>
+<P>
+In this problem, we have some constraints on the arrangements being sought:
+<P>
+<DL COMPACT><DT><STRONG>1)</STRONG>
+<DD> Any of the four chains can be placed in any of the super molecule's
+four, general, horizontal or vertical slots, as in the illustrations above.
+<DT><STRONG>2)</STRONG>
+<DD> If a chain is placed in one of the two horizontal slots, it must
+keep the same left-to-right orientation
+it had in the original chain listing.
+That is, <I>it can't be flipped end-for-end</I>.
+<DT><STRONG>3)</STRONG>
+<DD> If a chain is placed in one of the two vertical slots, its
+left-to-right orientation in the original chain
+listing must match its top-to-bottom orientation in the slot. It can't be
+flipped end-for-end from this orientation.
+<DT><STRONG>4)</STRONG>
+<DD> The enclosed rectangular region at the center of the super molecule
+must have as large an area as
+possible, and the area cannot be zero. (The large-area constraint arises
+from a fuel-volatility criterion for the arrangement.
+The non-zero area constraint arises because neither the vertically nor the
+horizontally oriented chains can lie immediately next to each other without
+producing side-effects we're not considering.)
+<P>
+The area is measured as the count of vacant character positions within
+the enclosed rectangle of the
+super molecule. The area counts of the two super molecules illustrated above
+are thirty (30) and four (4).
+<DT><STRONG>5)</STRONG>
+<DD> The fore and aft tails of each chain extending beyond the super
+molecule's central interlocked rectangle must have a minimum length
+of one chain element. That is, none of the four original chains
+can have either its first or its last element as part of the
+interlocking-rectangle boundary.
+<P>
+ </DL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input consists of a series of data sets. Each data set consists of four
+molecular chains of 12 fixed elements each.
+These 12 elements are given as contiguous capital letters. The molecule
+designators within
+the chains will be restricted to the sixteen letters, <TT>A...P</TT>. The first
+letter of a chain will appear as the first character on an input line.
+<P>
+<P>
+The first molecule designator within the first chain of a data set will
+be the letter <TT>&quot;Q&quot;</TT> to indicate the end of data.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+A line with a single integer is to be emitted for each input data set
+encountered. This integer is the maximum area enclosed by any legitimate
+arrangement of the four chains.
+<P>
+<P>
+Use the output value zero (0) to indicate that no legitimate super molecule
+could be formed for a givendata set.
+<P>
+<P>
+The first digit of an output value should be the first character on a
+line.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>CDBADCBBEFEF
+DACCBADAFEAB
+EFBDCAADBDCD
+ABCDABCDABCD
+DACCBADAFEAB
+EFBDCAADBDCD
+ABCDABCDABCD
+CDBADCBBEFEF
+ABABABABABAB
+CDCDCDCDCDCD
+EEEEEEEEEEEE
+FFFFFFFFFFFF
+ABAAAAAAAABA
+CBCCCCCCCCBC
+DBDDDDDDDDBD
+EBEEEEEEEEBE
+ABBBBBBBBBBA
+ACCCCCCCCCCA
+ADDDDDDDDDDA
+AEEEEEEEEEEA
+BBBABBBABBBB
+CCACCCACCCCC
+DDDDADDADDDD
+EEAEEAEEEEEE
+Q</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>48
+48
+0
+64
+0
+6</PRE>
+<P>
+</BODY>
+</HTML>

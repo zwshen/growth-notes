@@ -1,0 +1,116 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Treasure Hunt</TITLE>
+<META NAME="description" CONTENT="Treasure Hunt">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Treasure Hunt</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Archeologists from the Antiquities and Curios Museum (ACM) have flown to Egypt to examine the
+great pyramid of Key-Ops. Using state-of-the-art technology they are able to determine that the lower
+floor of the pyramid is constructed from a series of straightline walls, which intersect to form numerous
+enclosed chambers. Currently, no doors exist to allow access to any chamber. This state-of-the-art
+technology has also pinpointed the location of the treasure room. What these dedicated (and greedy)
+archeologists want to do is blast doors through the walls to get to the treasure room. However, to
+minimize the damage to the artwork in the intervening chambers (and stay under their government
+grant for dynamite) they want to blast through the minimum number of doors. For structural integrity
+purposes, doors should only be blasted at the midpoint of the wall of the room being entered. You are
+to write a program which determines this minimum number of doors.
+
+<P>
+
+<P>
+<BR>
+An example is shown below:
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p754.gif>
+</DIV>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input will consist of several cases.The first line of the input contains the number of cases, and it's followed bya blank line.
+
+<p>The first line of each case will be an integer <I>n</I> (
+<!-- MATH: $0 \leŸ n \leŸ 30$ -->
+<IMG
+ WIDTH="88" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="754img1.gif"
+ ALT="$0 \leŸ n \leŸ 30$">)
+specifying number of
+interior walls, followed by <I>n</I> lines containing integer endpoints of each wall 
+<!-- MATH: $x_1 y_1 x_2 y_2$ -->
+<I>x</I><SUB>1</SUB> <I>y</I><SUB>1</SUB> <I>x</I><SUB>2</SUB> <I>y</I><SUB>2</SUB>. The 4 enclosing
+walls of the pyramid have fixed endpoints at (0,0), (0,100), (100,100) and (100,0) and are <EM>not</EM> included
+in the list of walls. The interior walls always span from one exterior wall to another exterior wall and
+are arranged such that no more than two walls intersect at any point. You may assume that no two
+given walls coincide. After the listing of the interior walls there will be one final line containing the
+floating point coordinates of the treasure in the treasure room (guaranteed not to lie on a wall).
+
+<P>Different cases are separated by a blank line.
+<p>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each case, print a single line listing the minimum number of doors which need to be created, in the format shown below. Print a blank line between cases.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1
+
+7
+20 0 37 100
+40 0 76 100
+85 0 0 75
+100 90 0 90
+0 71 100 61
+0 14 100 38
+100 47 47 100
+54.5 55.4
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Number of doors = 2
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

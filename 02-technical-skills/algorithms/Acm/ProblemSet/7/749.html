@@ -1,0 +1,153 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Machine Repair Simulation</TITLE>
+<META NAME="description" CONTENT="Machine Repair Simulation">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Machine Repair Simulation</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A system is composed of 1, 2, or 3 machines and a repairman responsible for
+maintaining these machines. Normally, the machines are running and producing
+a product. At random points in time, the machines fail and are fixed by the
+repairman. If a second or third machine fails while the repairman is busy
+fixing the first machine, these machines will wait on the services of the
+repairman in a first come, first served order. When repair on a machine is
+complete, the machine will begin running again and producing a product. The
+repairman will then repair the next machine waiting. When all machines are
+running, the repairman becomes idle.
+
+<P>
+Write a program that will simulate this system for a fixed period of time and
+calculate the fraction of time the machines are busy (utilization) and the
+fraction of time the repairman is busy (utilization). Machines are busy when
+producing parts and the repairman is busy when repairing machines.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input and Output</A>&nbsp;</FONT>
+</H2>
+The input file is composed of three parts each separated by a header record.
+The first part is a list of 50 random machine running times until failure.
+The second part is a list of 50 random machine repair times. The third part
+is a list of the cases to be simulated. Each case specifies the length of
+the simulation and the number of machines assigned to the repairman. Cases
+end with the specification of a 0 length and an assignment of 0 machines.
+Each case will use the same random machine running times and repair times,
+starting at the beginning.
+
+<P>
+A sample input file and the corresponding output file (print results accurately rounded to 3
+decimal places) is provided below. Diagrams are also provided to illustrate
+the simulation process.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+Machine running times (10 five column fields per record)
+ 7.0  4.5 13.0 10.5  3.0 12.0 ...................
+Machine repair times (10 five column fields per record)
+ 9.5  2.5  4.5 12.0  5.7  1.5 ...................
+Cases (2 five column fields per record)
+ 20.0    1
+ 20.0    3
+   .     .
+   .     .
+  0.0    0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+       No of     Utilization
+Case Machines Machine Repairman
+
+ 1       1       .525   .475
+ 2       3       .558   .775
+ .       .         .      .
+ .       .         .      .
+</PRE>
+
+<P>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR> 
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Case 1 Simulation</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<img src=p749a.gif>
+
+<P>
+
+<P>
+<BR>
+
+<P>
+<PRE>
+Machine Utilization   = (7 + 3.5)/20 = .525
+Repairman Utilization =     (9.5)/20 = .475
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">
+Case 2 Simulation</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<img src=p749b.gif>
+
+<P>
+
+<P>
+<BR>
+
+<P>
+<PRE>
+Machine Utilization   = ((7+3)+(4.5+6)+(13))/(3*20) = .558
+Repairman Utilization =                   (15.5)/20 = .775
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

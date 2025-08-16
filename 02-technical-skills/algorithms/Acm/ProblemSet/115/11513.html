@@ -1,0 +1,170 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>9 Puzzle</TITLE>
+<META NAME="description" CONTENT="9 Puzzle">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+9 Puzzle</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+Alex has a puzzle her father gave her last Christmas. It has nine numbered squares arranged in a <SPAN CLASS="MATH">3&#215;3</SPAN>
+<tex2html_verbatim_mark> matrix (three rows and three columns) and it's mechanically designed to allow the following types of movements:
+
+<P>
+
+<UL>
+<LI>A horizontal right move shifts one position to the right each of the squares in the corresponding horizontal row (circularly).
+</LI>
+<LI>A vertical up move shifts one position upwards each of the squares in the corresponding vertical column (circularly). 
+</LI>
+</UL>
+
+<P>
+
+<P><P>
+<BR>
+Alex's troublemaker little brother Jim snuck last night into his sister's bedroom and somehow tore the puzzle apart and put it back together. However, when Jim assembled the puzzle back, he might have done it in a configuration different from the <I>original configuration</I> of the puzzle.
+
+<P>
+
+<P><P>
+<BR>
+The next morning, when Alex found her puzzle had been scrambled, she called you to help her to reset her puzzle to its <I>original configuration</I> (shown below) as quickly as possible, so her father won't realize that the puzzle was torn and scrambled. Of course, you should do it using only valid movements, as above described.
+
+<P>
+<DIV ALIGN="CENTER">
+<TABLE COLS=3 BORDER FRAME=BOX RULES=GROUPS>
+<COLGROUP><COL ALIGN=CENTER><COLGROUP><COL ALIGN=CENTER><COLGROUP><COL ALIGN=CENTER>
+<TBODY>
+<TR><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP>
+<SPAN CLASS="MATH">1</SPAN>
+<tex2html_verbatim_mark> </TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP> <SPAN CLASS="MATH">2</SPAN>
+<tex2html_verbatim_mark> </TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP> <SPAN CLASS="MATH">3</SPAN>
+<tex2html_verbatim_mark> </TD></TR>
+</TBODY><TBODY>
+<TR><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><SPAN CLASS="MATH">4</SPAN>
+<tex2html_verbatim_mark> </TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP> <SPAN CLASS="MATH">5</SPAN>
+<tex2html_verbatim_mark> </TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP> <SPAN CLASS="MATH">6</SPAN>
+<tex2html_verbatim_mark> </TD></TR>
+</TBODY><TBODY>
+<TR><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><SPAN CLASS="MATH">7</SPAN>
+<tex2html_verbatim_mark> </TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP> <SPAN CLASS="MATH">8</SPAN>
+<tex2html_verbatim_mark> </TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP> <SPAN CLASS="MATH">9</SPAN>
+<tex2html_verbatim_mark> </TD></TR>
+</TBODY>
+</TABLE>
+
+</DIV>
+
+<P>
+
+<P><P>
+<BR>
+Your task is to write a program that, given a configuration, finds a way to set the puzzle to its original configuration spending the minimum possible number of moves to accomplish it, if the given puzzle is solvable. If this is not the case, the program should point it out.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+The problem input consists of several cases, each one defined by three lines that describe a puzzle configuration. That is, lines correspond to a top-down description of the rows of the given configuration, and each line consist of three digits, separated by one blank character.
+
+<P>
+
+<P><P>
+<BR>
+The end of the input is indicated by a line with a number <TT>0</TT>.
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each puzzle in the input, you must print a line containing <SPAN CLASS="MATH"><I>S</I></SPAN>
+<tex2html_verbatim_mark>, the minimum number of moves required to set the puzzle to its original configuration, followed by a space and <SPAN CLASS="MATH">2*<I>S</I></SPAN>
+<tex2html_verbatim_mark> characters indicating any sequence of <SPAN CLASS="MATH"><I>S</I></SPAN>
+<tex2html_verbatim_mark> moves that solves the puzzle.
+
+<P>
+
+<P><P>
+<BR>
+A move is described by two characters: the first one must be <TT>H</TT> or <TT>V</TT> (<TT>H</TT> specifies a horizontal move, and <TT>V</TT> a vertical move), and the second one must be <TT>1</TT>, <TT>2</TT>, or <TT>3</TT> to indicate the row or the column to move.
+
+<P>
+
+<P><P>
+<BR>
+If the puzzle is not solvable, you must output a line with the text ``<TT>Not solvable</TT>''.
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2 3 1
+4 5 6
+7 8 9
+7 3 9
+2 5 1
+4 8 6
+1 2 3
+4 5 6
+7 9 8
+0
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1 H1
+3 V1V3H1
+Not solvable
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Colombia'2008
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

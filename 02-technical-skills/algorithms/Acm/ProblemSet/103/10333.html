@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>The Tower of ASCII </TITLE>
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">The Tower of ASCII</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The tower of ASCII is a nice tower made of asterisk (*) , hash sign (#) and periods (.)  . A sample
+tower could be :
+<XMP>
+                                       #****#
+                                     #**....**#
+                                     #........#
+                                   #**........**#
+                                   #............#
+                                   #............#
+                                 #**............#
+                                 #..............#
+                                 #..............#
+                                 #..............#
+                             Fig : Tower of Height 10 
+
+</XMP><p>
+The tower of ASCII (TOA) has the following properties :<p>
+
+1. It has a fixed height, H. <p>
+2. Its external architecture is made up of several pieces of different sizes like : <XMP>
+
+              #**     **#    **#  **#       #**
+              #         #           #       #
+              #                     #       #  
+                                    #       #
+              1         2      3    4       5
+
+</XMP>
+So there are two types of piece. One is T-shape(1,5)  and another is 1-shape(2,3,4).
+T-shape pieces construct the Left part of TOA whether 1-shape pieces make the right part. Each piece
+width is fixed which is 3. But the height can be any positive integer.
+The intermediate spaces is filled with period.<p>
+
+3. The number of pieces in Left part is always 1 more than that of right part. 
+   In the example TOA in left part pieces of
+   4,3,2,1 height and in right part pieces of 7,2,1 height have been used.<p>
+
+4. The total number of pieces used in a TOA is it's cardinality. In our example
+   the cardinality is 4+3=7. A TOA of fixed height also has a fixed cardinality.<p>
+
+5. In each part pieces of greater height will precede pieces of less height. In the
+   given example no alternation of ( 4,3,2,1 ) order is possible. And also pieces
+   of same height can be used only once in one part.<p>
+
+6. There is one and only one TOA of height H.<p> 
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+<P>
+As specified in the properties that for a particular height the cardinality is fixed.
+To ensure this, the maximum possible cardinality is chosen for a TOA. Thus in our example
+7 is the maximum cardinality for height,10.  To make the TOA unique in each part
+the pieces of  maximum height are chosen. Such as in case of TOA of height 12 the left part
+could be ( 6,3,2,1 ) or ( 5,4,2,1 ). Whether the right part could be ( 9,2,1 )
+or ( 8,3,1 ) or ( 7,3,2 ) or ( 7,4,1 ) etc.  But only ( 6,3,2,1 ) and ( 9,2,1 ) will
+be considered for the left and right part.<p>
+Lets come to your task. You have to build a TOA of given height H using T-shape
+and 1-shape piece. You may consider each piece of any height is available.
+
+<p>
+
+</U></U><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>
+The input will contain an integer H (5<=H<=500) per line. Input is terminated by EOF.
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>
+The output specification starts with a line "Tower : #N" where N is the current TOA.
+In next H lines you have to draw the TOA of height H. Look in each line the starting
+hash sign may contain leading spaces but the ending hash sign should not be 
+followed by any space. You have to use a line break after each ending hash sign.
+Print a blank line after each TOA.
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>
+5
+10
+</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>
+Tower #1
+  #****#
+#**....#
+#......#
+#......#
+#......#
+
+Tower #2
+      #****#
+    #**....**#
+    #........#
+  #**........**#
+  #............#
+  #............#
+#**............#
+#..............#
+#..............#
+#..............#
+
+</PRE>
+
+<PRE>
+<hr><i>
+<H3>Md. Kamruzzaman</H3></i>
+</PRE>
+</BODY>
+</HTML>

@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+<meta name="keywords" content="Tsinghua-HKUST Programming Contest 2007" />
+<meta name="author" content="Cho" />
+<title>Tsinghua-HKUST Programming Contest 2007: Problem E - New Marketing Plan</title>
+
+<style type="text/css">
+<!--
+body { font-family: "Times New Roman"; font-size: 12pt; }
+.io  { font-family: Courier New; font-size: 10pt }
+-->
+</style>
+</head>
+
+<body>
+<center><span style='font-size:24pt'>Problem E - New Marketing Plan</span></center>
+<br />
+<br />
+
+You work at a company that produces circular plates. In a meeting, your boss announces a new marketing plan - the company will package the plates in specially shaped containers, so as to attract customers' attention. The specially shaped containers will always be convex polygon. The existing packaging software can easily compute the maximum plate size for a given container size, but unfortunately, it can only do so for rectangular containers. Therefore, your boss asks you to write a program that can compute the maximum plate size given the container's shape.<br />
+<br />
+<center><img src="p11257.gif" alt="Maximum plate" /></center><br />
+<br />
+The above figure shows a maximum plate placed inside a convex-polygon-shaped container.<br />
+<br />
+Given the shape of a container, you need to compute the radius of the largest possible plate which can be fitted inside the container?<br />
+<br />
+
+<b>Input</b><br />
+Input consists of multiple problem instances. Each instance begins with a single positive integer <i>n</i>, where 3 <span style='font-size:10pt'>&le;</span> <i>n</i> <span style='font-size:10pt'>&le;</span> 50. It is followed by 2<i>n</i> integers, <i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>, <i>x</i><sub>2</sub>, <i>y</i><sub>2</sub>, ..., <i>x</i><sub><i>n</i></sub>, <i>y</i><sub><i>n</i></sub>, where -1000 <span style='font-size:10pt'>&le;</span> <i>x</i><sub><i>i</i></sub>, <i>y</i><sub><i>i</i></sub> <span style='font-size:10pt'>&le;</span> 1000 for all <i>i</i>. They indicate the shape of a container which is a simple convex polygon with <i>n</i> vertices (<i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>), (<i>x</i><sub>2</sub>, <i>y</i><sub>2</sub>), ..., (<i>x</i><sub><i>n</i></sub>, <i>y</i><sub><i>n</i></sub>) in counter-clockwise order. The area of the polygon is guaranteed to be positive and no three consecutive vertices are collinear. The input data is terminated by an <i>n</i> being 0. There will not be more than 100 test cases.<br />
+<br />
+
+<b>Output</b><br />
+For each test case, print out the radius of the largest possible plate which can be fitted inside the input container. The answer should be printed with 3 digits after the decimal point in a single line.<br />
+<br />
+
+<b>Sample input</b><br />
+<div class="io">
+5<br />
+5 5 -3 4 -7 -2 2 -4 6 -1<br />
+3<br />
+0 0 10 0 0 10<br />
+0<br />
+</div>
+<br />
+
+<b>Sample output</b><br />
+<div class="io">
+4.082<br />
+2.929<br />
+</div>
+<br />
+
+<hr size="1" />
+Problem setter: Cho<br />
+Special thanks: Michael (for making up the story)<br />
+Source: Tsinghua-HKUST Programming Contest 2007<br />
+
+</body>
+</html>

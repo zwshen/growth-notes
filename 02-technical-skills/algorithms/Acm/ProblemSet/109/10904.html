@@ -1,0 +1,53 @@
+<img align=right src=p10904.jpg><h2>Problem E: Structural Equivalence</h2>
+In programming language design circles, there has been much debate about
+the merits of "structural equivalence" vs. "name equivalence" for type
+matching.  Pascal purports to have "name equivalence", but it doesn't;
+C purports to have structural equivalence, but it doesn't.  Algol 68,
+the <i>Latin</i> of programming languages, has pure structural equivalence.
+<p>
+A simplified syntax for an Algol 68 type definition is as follows:
+<pre>
+   <i>type_def</i> -> type <i>T</i> = <i>type_expr</i>
+   <i>type_expr</i> -> <i>T</i> | int | real | char | struct ( <i>field_defs</i> )
+   <i>field_defs</i> -> T | <i>field_defs</i> T
+</pre>
+<p>
+In this syntax, <i>T</i> is a programmer-defined type name (in this problem,
+for simplicity, a single upper case letter).  Plain text symbols appear
+literally in the input, and zero or more spaces may appear where there
+are spaces in the syntax.
+<p>
+Algol 68 type equivalence say that two types are equivalent if they
+are the same primitive type or they are both structures containing
+equivalent types in the same order.
+<p>
+Input consists of several test cases.
+Each test case is a sequence of Algol 68 definitions, as described
+above, one per line.  A line containing "-" separates test cases. A line containing
+"--" follows the last test case.  The output for each case will consist of several lines; each line should contain
+a list of type names, all of which represent equivalent types.  Each type
+name should appear on exactly one line of output, and the number of output
+lines should be minimized.  The names in each list should be in alphabetical
+order; the lines of output should also be in alphabetical order.  Output an empty line
+between test cases.
+<h3>Sample Input</h3>
+<pre>
+type A = int
+type B = A
+type C = int
+type X = struct(A B)
+type Y = struct(B A)
+type Z = struct(A Z)
+type S = struct(A S)
+type W = struct(B R)
+type R = struct(C W)
+--
+</pre>
+<h3>Output for Sample Input</h3>
+<pre>
+A B C
+R S W Z
+X Y
+</pre>
+<hr>
+<i>Gordon V. Cormack</i>

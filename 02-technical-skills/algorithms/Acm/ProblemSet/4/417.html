@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Word Index</TITLE>
+<META NAME="description" CONTENT="Word Index">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Word Index</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Encoding schemes are often used in situations requiring encryption or
+information storage/transmission
+economy. Here, we develop a simple encoding scheme that encodes particular
+types of words with five or fewer (lower case) letters as integers.
+<P>
+<P>
+Consider the English alphabet {<TT>a,b,c,...,z</TT>}. Using this alphabet, a set
+of <I>valid</I> words are to be formed that
+are in a strict lexicographic order. In this set of <I>valid</I> words, the
+successive letters of a word are in a strictly
+ascending order; that is, later letters in a valid word are always <I>after</I>
+previous letters with respect to their
+positions in the alphabet list {<TT>a,b,c,...,z</TT>}. For example,
+<P>
+<P>
+<TT>abc aep gwz</TT>
+<P>
+<P>
+<P>
+are all <I>valid</I> three-letter words, whereas
+<P>
+<P>
+<TT>aab are cat</TT>
+<P>
+<P>
+<P>
+are not.
+<P>
+<P>
+For each <I>valid</I> word associate an integer which gives the position of
+the word in the alphabetized list of words. That is:
+<P>
+<PRE>    a -&gt; 1
+    b -&gt; 2
+    .
+    .
+    z -&gt; 26
+    ab -&gt; 27
+    ac -&gt; 28
+    .
+    .
+    az -&gt; 51
+    bc -&gt; 52
+    .
+    .
+    vwxyz -&gt; 83681</PRE>
+<P>
+Your program is to read a series of input lines. Each input line will have
+a single word on it, that will be
+from one to five letters long. For each word read, if the word is <I>invalid</I>
+give the number 0. If the word read
+is <I>valid</I>, give the word's position index in the above alphabetical list.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input consists of a series of single words, one per line. The words are
+at least one letter long and no
+more that five letters. Only the lower case alphabetic {<TT>a,b,...,z</TT>}
+characters will be used as input. The first
+letter of a word will appear as the first character on an input line.
+<P>
+<P>
+The input will be terminated by end-of-file.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+The output is a single integer, greater than or equal to zero (0) and less
+than or equal 83681. The first digit
+of an output value should be the first character on a line. There is
+one line of output for each input line.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>z
+a
+cat
+vwxyz</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>26
+1
+0
+83681</PRE>
+<P>
+</BODY>
+</HTML>

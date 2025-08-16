@@ -1,0 +1,247 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>System Dependencies</TITLE>
+<META NAME="description" CONTENT="System Dependencies">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+System Dependencies</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Components of computer systems often have dependencies--other components that
+must be installed before they
+will function properly. These dependencies are frequently shared by multiple
+components. For example, both the
+TELNET client program and the FTP client program require that the TCP/IP
+networking software be installed before
+they can operate. If you install TCP/IP and the TELNET client program, and
+later decide to add the FTP client
+program, you do not need to reinstall TCP/IP.
+
+<P>
+
+<P>
+<BR>
+For some components it would not be a problem if the components on which they
+depended were reinstalled; it
+would just waste some resources. But for others, like TCP/IP, some component
+configuration may be destroyed if
+the component was reinstalled.
+
+<P>
+
+<P>
+<BR>
+It is useful to be able to remove components that are no longer needed. When
+this is done, components that only
+support the removed component may also be removed, freeing up disk space,
+memory, and other resources. But a
+supporting component, not explicitly installed, may be removed only if all
+components which depend on it are also
+removed. For example, removing the FTP client program and TCP/IP would mean
+the TELNET client program,
+which was not removed, would no longer operate. Likewise, removing TCP/IP by
+itself would cause the failure of
+both the TELNET and the FTP client programs. Also if we installed TCP/IP to
+support our own development, then
+installed the TELNET client (which depends on TCP/IP) and then still later
+removed the TELNET client, we would not want TCP/IP to be removed.
+
+<P>
+
+<P>
+<BR>
+We want a program to automate the process of adding and removing components.
+To do this we will maintain a
+record of installed components and component dependencies. A component can be
+installed explicitly in response to a
+command (unless it is already installed), or implicitly if it is needed for
+some other component being installed.
+Likewise, a component, not explicitly installed, can be explicitly removed
+in response to a command (if it is not
+needed to support other components) or implicitly removed if it is no
+longer needed to support another component.
+Installing an already implicitly-installed component won't make that component
+become explicity installed.
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input will contain a sequence of commands (as described below), each on
+a separate line containing no more than
+eighty characters. Item names are case sensitive, and each is no longer than
+ten characters. The command names
+(<TT>DEPEND</TT>, <TT>INSTALL</TT>, <TT>REMOVE</TT> and <TT>LIST</TT>) always appear in uppercase starting in column one, and item
+names are separated from the command name and each other by one or more spaces.
+All appropriate <TT>DEPEND</TT>
+commands will appear before the occurrence of any <TT>INSTALL</TT> command that uses them. There will be no circular
+dependencies. The end of the input is marked by a line containing only the
+word <TT>END</TT>.
+
+<P>
+
+<P><P>
+<BR>
+
+<DIV ALIGN="CENTER">
+<TABLE CELLPADDING=3 BORDER="1">
+<TR><TD ALIGN="CENTER" COLSPAN=1><EM> Command Syntax</EM></TD>
+<TD ALIGN="CENTER" COLSPAN=1><EM> Interpretation/Response</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT"><TT> DEPEND item1 item2 [item3 ...]</TT></TD>
+<TD ALIGN="LEFT"><B> item1</B> depends on <B> item2</B> (and <B> item3</B> ...)</TD>
+</TR>
+<TR><TD ALIGN="LEFT"><TT> INSTALL item1</TT></TD>
+<TD ALIGN="LEFT">install <B> item1</B> and those on which it depends</TD>
+</TR>
+<TR><TD ALIGN="LEFT"><TT> REMOVE item1</TT></TD>
+<TD ALIGN="LEFT">remove <B> item1</B>, and those on which it depends, if
+possible</TD>
+</TR>
+<TR><TD ALIGN="LEFT"><TT> LIST</TT></TD>
+<TD ALIGN="LEFT">list the names of all currently-installed components</TD>
+</TR>
+</TABLE></DIV>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Echo each line of input. Follow each echoed <TT>INSTALL</TT> or <TT>REMOVE</TT> line with the actions taken in response,
+making certain that the actions are given in the proper order. Also identify
+exceptional conditions (see Sample
+Output, below, for examples of all cases). For the <TT>LIST</TT> command, display the names of the currently installed
+components in the installation order. No output, except the echo, is produced for a <TT>DEPEND</TT> command or the line containing <TT>END</TT>. There
+will be at most one dependency list per item.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input 1</A>&nbsp;</FONT>
+</H2>
+<PRE>
+DEPEND   TELNET TCPIP NETCARD
+DEPEND TCPIP NETCARD
+DEPEND DNS TCPIP NETCARD
+DEPEND  BROWSER   TCPIP  HTML
+INSTALL NETCARD
+INSTALL TELNET
+INSTALL foo
+REMOVE NETCARD
+INSTALL BROWSER
+INSTALL DNS
+LIST
+REMOVE TELNET
+REMOVE NETCARD
+REMOVE DNS
+REMOVE NETCARD
+INSTALL NETCARD
+REMOVE TCPIP
+REMOVE BROWSER
+REMOVE TCPIP
+END
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output 1</A>&nbsp;</FONT>
+</H2>
+<PRE>
+DEPEND   TELNET TCPIP NETCARD
+DEPEND TCPIP NETCARD
+DEPEND DNS TCPIP NETCARD
+DEPEND  BROWSER   TCPIP  HTML
+INSTALL NETCARD
+   Installing NETCARD
+INSTALL TELNET
+   Installing TCPIP
+   Installing TELNET
+INSTALL foo
+   Installing foo
+REMOVE NETCARD
+   NETCARD is still needed.
+INSTALL BROWSER
+   Installing HTML
+   Installing BROWSER
+INSTALL DNS
+   Installing DNS
+LIST
+   NETCARD
+   TCPIP
+   TELNET
+   foo
+   HTML
+   BROWSER
+   DNS
+REMOVE TELNET
+   Removing TELNET
+REMOVE NETCARD
+   NETCARD is still needed.
+REMOVE DNS
+   Removing DNS
+REMOVE NETCARD
+   NETCARD is still needed.
+INSTALL NETCARD
+   NETCARD is already installed.
+REMOVE TCPIP
+   TCPIP is still needed.
+REMOVE BROWSER
+   Removing BROWSER
+   Removing HTML
+   Removing TCPIP
+REMOVE TCPIP
+   TCPIP is not installed.
+END
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input 2</A>&nbsp;</FONT>
+</H2>
+<PRE>
+DEPEND A B
+INSTALL A
+INSTALL B
+REMOVE A
+END
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output 2</A>&nbsp;</FONT>
+</H2>
+<PRE>
+DEPEND A B
+INSTALL A
+   Installing B
+   Installing A
+INSTALL B
+   B is already installed.
+REMOVE A
+   Removing A
+   Removing B
+END
+</PRE>
+
+
+<P>
+</BODY>
+</HTML>

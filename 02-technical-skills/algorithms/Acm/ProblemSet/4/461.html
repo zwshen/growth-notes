@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>The Reservation Maker</TITLE>
+<META NAME="description" CONTENT="The Reservation Maker">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">The Reservation Maker</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Write a program that will assist the receptionist in seating customer
+parties at tables and booths in a large restaurant.   Your program
+should accept for the receptionist the arrival time, the size of the
+party, whether the party desires a table or a booth, in the smoking
+or nonsmoking sections of the restaurant.
+<P>
+<P>
+For each request in a list
+of requests, the program should provide a table number and the
+approximate waiting time before the party can be seated.  The
+restaurant has the following seating characteristics:
+<P>
+<P> <IMG WIDTH=452 HEIGHT=158 ALIGN=BOTTOM ALT="tabular21" SRC="461img1.gif"  > <P>
+<P>
+Each table of the table groups is portable and can be moved such that as
+many as five tables of any group may be connected to seat a larger party
+than any one table could seat.  This connection of tables is only possible
+if the sequential number of the tables to be used are vacant.  Thus 2
+four-person tables can be joined together to seat a party of 6; 3
+four-person table can be joined to seat a party of 8, and so on.
+<P>
+Parties of 1 take 35 minutes, parties of 2 take 47 minutes at the
+restaurant (service is very predictable), parties of 3 or 4 take 52 minutes,
+while parties of 5 to 10 take 55 minutes.  Parties of greater than 10 take
+ <IMG WIDTH=166 HEIGHT=27 ALIGN=MIDDLE ALT="tex2html_wrap_inline43" SRC="461img2.gif"  >  minutes.
+<P>
+<P>
+Your program should always assign the lowest booth/table number available.
+You should also process the requests in the order given and once an
+assignment is made, not change it.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Your program should accept a sequence of reservation requests (the
+restaurant requires reservations).  Each reservation consists of one line
+with an integer arrival time (in minutes past 8:00 p.m.), the party size
+(at least 1), a blank, then an `<TT>S</TT>' or an `<TT>N</TT>' (smoking or nonsmoking), a blank, then a `<TT>B</TT>' or a `<TT>T</TT>' (booth or table).
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each reservation request
+which can be satisfied, your program should then print the list of table
+numbers or the table/booth number and the number of minutes the party will
+have to wait after their arrival.  If a request cannot be satisfied,
+print `<TT>Impossible</TT>'.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>60 5 N B
+0 4 N B
+10 3 N B
+10 2 N B
+13 2 N B
+0 6 N B
+30 12 N T
+60 8 S B</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>1 0
+2 0
+3 0
+4 0
+1 0
+2 47
+11 12 13 14 15 0
+Impossible</PRE>
+<P>
+</BODY>
+</HTML>

@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Sentence/Phrase Generator</TITLE>
+<META NAME="description" CONTENT="Sentence/Phrase Generator">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Sentence/Phrase Generator</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Write a program that generates English language phrases and sentences
+conforming to the following rules:
+<TT>
+  <P> 
+&lt;sentence&gt; ::= &lt;trans-sentence&gt; | &lt;sentence&gt; ::= &lt;intrans-sentence&gt; <BR> 
+    &lt;trans-sentence&gt; ::= &lt;subject&gt; &lt;verb-phrase&gt; &lt;object&gt; &lt;prep-phrase&gt; <BR> 
+    &lt;intrans-sentence&gt; ::= &lt;subject&gt; &lt;intrans-verb-phrase&gt;
+                 &lt;prep-phrase&gt; <BR> 
+    &lt;subject&gt; ::= &lt;noun-phrase&gt; <BR> 
+    &lt;object&gt; ::= &lt;noun-phrase&gt; <BR> 
+    &lt;noun-phrase&gt; ::= &lt;article&gt; &lt;modified-noun&gt; <BR> 
+    &lt;modified-noun&gt; ::= &lt;noun&gt; | &lt;modifier&gt; &lt;noun&gt; <BR> 
+    &lt;modifier&gt; ::= &lt;adjective&gt; | &lt;adverb&gt; &lt;adjective&gt; <BR> 
+    &lt;verb-phrase&gt; ::= &lt;trans-verb&gt; | &lt;adverb&gt; &lt;trans-verb&gt; <BR> 
+    &lt;intrans-verb-phrase&gt; ::= &lt;intrans-verb&gt; | &lt;adverb&gt;
+             &lt;intrans-verb&gt; <BR> 
+    &lt;prep-phrase&gt; ::= &lt;preposition&gt; &lt;noun-phrase&gt; | &lt;empty&gt; <BR> 
+    &lt;noun&gt; ::= man | dog | fish | computer | waves <BR> 
+    &lt;trans-verb&gt; ::= struck | saw | bit | took <BR> 
+    &lt;intrans-verb&gt; ::= slept | jumped | walked | swam <BR> 
+    &lt;article&gt; ::= the | a <BR> 
+    &lt;adjective&gt; ::= green | small | rabid | quick <BR> 
+    &lt;adverb&gt; ::= nearly | suddenly | restlessly <BR> 
+    &lt;preposition&gt; ::= on | over | through <BR> 
+    &lt;empty&gt; ::= &quot;&quot;
+  <P>
+<P>
+</TT>
+For example, the first two lines say that to generate a sentence, one
+may generate a ``trans-sentence'' or an
+``intrans-sentence''. A transitive sentence, according to the
+third rule, consists of a ``subject'', followed by a ``verb-phrase'', followed
+by an ``object'', followed by a ``prep-phrase''. Similarly, the
+next-to-last rule indicates that a ``preposition'' can be any of the
+three words <TT>on</TT>, <TT>over</TT>, or <TT>through</TT>.
+<P>
+<P>
+Your program should read from the input a number of requests for
+various kinds of phrases. Each request may be for any of the phrase
+names appearing on the left hand side of the above rules. It should
+then attempt to generate the requested phrase by applying these rules
+until all of the <TT>&lt;...&gt;</TT> have been replaced with appropriate
+words.
+<P>
+<P>
+In many cases, you will face a choice of alternate rules for expanding
+a phrase name. In these cases, you should make a choice as follows: 
+Suppose that this is the  <IMG WIDTH=21 HEIGHT=15 ALIGN=BOTTOM ALT="tex2html_wrap_inline34" SRC="464img1.gif"  >  such choice that you have faced
+since the start of execution of your program, and that you must choose
+one of <I>n</I> rules for expanding a given kind of phrase.  Let the rules
+for that phrase be numbered from  <IMG WIDTH=44 HEIGHT=12 ALIGN=BOTTOM ALT="tex2html_wrap_inline38" SRC="464img2.gif"  >  in the order of
+appearance above, and then choose rule number  <IMG WIDTH=103 HEIGHT=27 ALIGN=MIDDLE ALT="tex2html_wrap_inline40" SRC="464img3.gif"  > .
+<P>
+</TT><H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input will consist of an unspecified number of lines. Each line
+will contain, left-justified, a phrase name corresponding to one of
+the names appearing on the left-hand-side of the rules above (without
+the surrounding brackets).
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each phrase named in the output, print a single line containing
+the expansion of that phrase according to the above rules. Each word
+in the phrase should be separated from the others by a single space.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>sentence
+noun
+sentence</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>the small dog restlessly jumped through the quick dog
+fish
+a dog took the quick computer</PRE>
+<P>
+</BODY>
+</HTML>

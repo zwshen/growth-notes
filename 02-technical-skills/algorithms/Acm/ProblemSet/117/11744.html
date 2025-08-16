@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+
+
+	<title>Problem C: Parallel Carry Adder</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head><body>
+
+<h2>Problem C: Parallel Carry Adder</h2>
+
+<font color="white"><img src="p11744.jpg" width="400" align="right" border="5"></font>
+<p>Let a and b be two 31-bit binary numbers.  Consider the following method for computing a+b.  Let c,d be 31-bit numbers
+such that:
+</p><ul><li>c<sub>i</sub> = 1 if a<sub>i</sub> ≠ b<sub>i</sub>
+</li><li>c<sub>i</sub> = 0 if a<sub>i</sub> = b<sub>i</sub>
+</li><li>d<sub>i</sub> = 1 if a<sub>i</sub> = b<sub>i</sub> = 1
+</li><li>d<sub>i</sub> = 0 if a<sub>i</sub> = 0 or b<sub>i</sub> = 0
+</li></ul><p>Now, replace a with c and b with 2*d and repeat these steps until either b = 0
+or b ≥ 2<sup>31</sup>.  In the former case, the resulting value of a is the sum
+of the original numbers.  In the latter case, the sum of the original numbers
+requires 32 bits to express so we say that an overflow has occurred.
+</p>
+<p>Your task is to print the results of all intermediate calculations and report if an overflow occurs.
+</p>
+<h3>Input Format</h3>
+<p>The first number indicates the number of test cases.  Each test case consists of two 31-bit numbers
+a and b.
+</p>
+<h3>Output Format</h3>
+<p>The output for each test case is a series of lines. The first line
+consists of a and b written in binary and separated by a space.
+Following this, each line consists of the resulting values of a and b
+when one iteration of the algorithm is applied to the values
+in the previous line. Again, these should be written in binary and
+separated by a space. If any of these numbers has value at
+least 2<sup>31</sup> then the message "overflow" should be printed in place of the number.  The last line of output to
+be printed corresponds to the iteration when either b = 0 or b ≥ 2<sup>31</sup>.  The output for consecutive
+input cases should be separated by a blank line.
+</p>
+<h3>Sample Input</h3>
+<pre>2
+0000000000010000000101011101011 1000010110000110000000111111111
+1100000000000000000000000000000 0100000000000000000000000000000
+</pre>
+<h3>Sample Output</h3>
+<pre>0000000000010000000101011101011 1000010110000110000000111111111
+1000010110010110000101100010100 0000000000000000000000111010110
+1000010110010110000101011000010 0000000000000000000001000101000
+1000010110010110000100011101010 0000000000000000000010000000000
+1000010110010110000110011101010 0000000000000000000000000000000
+
+1100000000000000000000000000000 0100000000000000000000000000000
+1000000000000000000000000000000 1000000000000000000000000000000
+0000000000000000000000000000000 overflow
+</pre>
+<hr>
+<em>Zachary Friggstad</em>
+
+</body></html>

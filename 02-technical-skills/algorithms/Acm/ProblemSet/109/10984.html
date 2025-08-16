@@ -1,0 +1,129 @@
+<html>
+<head>
+    <title>Double NP-hard</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem C</B></FONT><BR>
+<FONT SIZE="5"><B>Double NP-hard</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 2 second</FONT>
+</CENTER>
+</P>
+
+<p align="right">
+<table border=0><tr><td><small>
+<i>
+"Name and Class Year:<br>
+Course to be Covered: (Course Number and Title)<br>
+Reason for covering the course independently:"</i>
+</td></tr></table>
+<tt>Hamilton College Application for Independent<br>
+Coverage of Course Work</tt>
+</small></p>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Definitions</B></FONT><BR>
+In this problem, a <i>graph</i> is a set of <b>n</b> vertices together
+with a set of <b>m</b> edges, where an <i>edge</i> is an unordered
+pair of different vertices (edges are undirected). The two vertices
+that comprise an edge are said to be that edge's <i>endpoints</i>.
+A <i>vertex cover</i> of a given graph G is a subset C of its vertices,
+such that each edge of G has at least one of its endpoints in C. An
+<i>independent set</i> of a given graph G is a subset S of its vertices,
+such that no edge of G has both of its endpoints in S.
+</P>
+
+<P CLASS="paragraph">
+The problem of finding a <i>minimum vertex cover</i> (that is, a vertex cover
+of the smallest possible size) for any graph is NP-hard.
+The problem of finding a <i>maximum independent set</i> of any graph is also
+NP-hard. That is a formal way of saying that no one knows whether there
+exists an algorithm that runs in time polynomial in <b>n</b> and solves
+any one of the two problems.
+</P>
+
+<P CLASS="paragraph">
+We want to define a class of problems that are even harder than the NP-hard
+problems. We are going to call them "Double NP-hard"! Your job is to solve
+the first Double NP-hard problem.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Problem</B></FONT><BR>
+Given a graph G, find a subset C of its vertices that is both a minimum
+vertex cover and a maximum independent set.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The first line of input gives the number of cases, <b>N</b>.
+<b>N</b> test cases follow. Each one starts with two lines containing
+<b>n</b> <nbsp>(0&lt;=<b>n</b>&lt;=1000)</nbsp> and <b>m</b> <nbsp>(0&lt;=<b>m</b>&lt;=100000)</nbsp>
+as above. The next <b>m</b> lines will each describe an edge of G as a
+pair of different vertices, which are numbered from 1 to <b>n</b>.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+For each test case, output one line containing "Case #<b>x</b>:"
+followed by either "Impossible" if there is no answer or the size <b>k</b> of
+the set C. In the latter case, on the next line, print the <b>k</b> vertices
+of C in increasing order, separated by spaces. If there are multiple answers,
+print the lexicographically smallest one.
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+4
+2
+1
+1 2
+0
+0
+10
+0
+4
+4
+1 2
+2 3
+3 4
+4 1
+</PRE>
+</TD>
+<TD>
+<PRE>
+Case #1: 1
+1
+Case #2: 0
+
+Case #3: Impossible
+Case #4: 2
+1 3
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+<HR>
+<B>Problemsetter: Igor Naverniouk</B><br>
+<B>Special thanks: Wladek Kwasnicki, Frank Chu</B>
+</P>
+
+</td></tr></table>
+</body>
+</html>
+

@@ -1,0 +1,198 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./p6_files/filelist.xml">
+<title>Problem G - Bangladesh 2001 Programming Contest</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Rezaul Alam Chowdhury</o:Author>
+  <o:LastAuthor>Administrator</o:LastAuthor>
+  <o:Revision>28</o:Revision>
+  <o:TotalTime>153</o:TotalTime>
+  <o:LastPrinted>1999-05-07T21:27:00Z</o:LastPrinted>
+  <o:Created>2000-12-04T12:45:00Z</o:Created>
+  <o:LastSaved>2000-12-07T13:42:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>152</o:Words>
+  <o:Characters>869</o:Characters>
+  <o:Company>CSE, BUET</o:Company>
+  <o:Lines>7</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>1067</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+em
+	{mso-bidi-font-style:normal;}
+p.Preformatted, li.Preformatted, div.Preformatted
+	{mso-style-name:Preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:0in 47.95pt 95.9pt 143.85pt 191.8pt 239.75pt 287.7pt 335.65pt 383.6pt 431.55pt 479.5pt;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1030"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=5>Problem G</font><o:p></o:p></span></b></p>
+
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=6>How many zeros and how many digits? </font><o:p></o:p></span></b></p>
+
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Input: </b><span style='mso-bidi-font-weight:bold'>standard input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Output: </b>standard output</p>
+
+
+<br>
+<p class=MsoNormal style='text-align:justify'>Given a decimal integer number you will
+have to find out how many trailing zeros will be there in its factorial in a given number system and also
+you will have to find how many digits will its factorial have in a given number system? You can assume that for
+a <b>b</b> based number system there are <b>b</b> different symbols to denote values 
+ranging from 0 ... <b>b-1</b>.</p>
+
+<br>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Input</font><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-weight:
+bold'>There will be several lines of input. Each line makes a block. Each line
+will contain a decimal number N (a 20bit unsigned number) and a decimal number B
+(1&lt;B&lt;=800), which is the base of the number system you have to consider.
+As for example 5! = 120 (in decimal) but it is 78 in hexadecimal number system.
+So in Hexadecimal 5! has no trailing zeros <o:p></o:p></span></p>
+
+<br>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Output</font><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>For each line of input output in
+a single line&nbsp;how many trailing zeros will the factorial of that number
+have in the given number system and also how many digits will the factorial of that
+number have in that given number system. Separate these two numbers with a single space. You can be sure
+that the number of trailing zeros or the number of digits will not be greater
+than 2^31-1</p>
+
+<br>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Input:</font><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>
+<font size=3>
+2 10<br>
+
+5 16<br>
+
+5 10<br>
+</font>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;mso-bidi-font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Output:</font><o:p></o:p></span></b></p>
+<font size=3>
+0 1<br>
+
+0 2<br>
+
+1 3<br>
+
+</font>
+________________________________________________________________________________________
+<font face="Times New Roman,Helvetica, Arial" SIZE=4>
+<br>
+<i>
+Shahriar Manzoor<br>
+16-12-2000
+
+</div>
+
+</body>
+
+</html>

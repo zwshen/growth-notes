@@ -1,0 +1,317 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./e_files/filelist.xml">
+<link rel=Edit-Time-Data href="./e_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem E - In-Circle</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>manzoor</o:Author>
+  <o:LastAuthor>shahriar</o:LastAuthor>
+  <o:Revision>5</o:Revision>
+  <o:TotalTime>2222</o:TotalTime>
+  <o:LastPrinted>2008-10-09T13:44:00Z</o:LastPrinted>
+  <o:Created>2008-10-08T16:17:00Z</o:Created>
+  <o:LastSaved>2008-10-09T13:45:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>276</o:Words>
+  <o:Characters>1575</o:Characters>
+  <o:Company>ACM-ICPC</o:Company>
+  <o:Lines>13</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1934</o:CharactersWithSpaces>
+  <o:Version>9.3821</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>125</w:Zoom>
+  <w:PunctuationKerning/>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129023 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129023 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.8in .8in 67.7pt .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1040"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:28.0pt;mso-bidi-font-size:10.0pt;font-family:
+Arial'>Problem E</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>In-Circle</span></b><span
+style='font-family:Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input: </b>S<span style='mso-bidi-font-weight:
+bold'>tandard Input<o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify'>In-circle of a triangle is the circle
+that touches all the three sides of the triangle internally. The center of the
+in-circle of a triangle happens to be the common intersection point of the
+three bisectors of the internal angles. In this problem you will not be asked
+to find the in-circle of a triangle, but will be asked to do the opposite!!</p>
+
+<p class=MsoNormal style='text-align:justify'><!--[if gte vml 1]><o:wrapblock><v:shapetype
+  id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+  path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+  <v:stroke joinstyle="miter"/>
+  <v:formulas>
+   <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+   <v:f eqn="sum @0 1 0"/>
+   <v:f eqn="sum 0 0 @1"/>
+   <v:f eqn="prod @2 1 2"/>
+   <v:f eqn="prod @3 21600 pixelWidth"/>
+   <v:f eqn="prod @3 21600 pixelHeight"/>
+   <v:f eqn="sum @0 0 1"/>
+   <v:f eqn="prod @6 1 2"/>
+   <v:f eqn="prod @7 21600 pixelWidth"/>
+   <v:f eqn="sum @8 21600 0"/>
+   <v:f eqn="prod @7 21600 pixelHeight"/>
+   <v:f eqn="sum @10 21600 0"/>
+  </v:formulas>
+  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+  <o:lock v:ext="edit" aspectratio="t"/>
+ </v:shapetype><v:shape id="_x0000_s1036" type="#_x0000_t75" style='position:absolute;
+  left:0;text-align:left;margin-left:126pt;margin-top:0;width:234pt;height:147.45pt;
+  z-index:1;mso-position-horizontal:absolute;mso-position-vertical:absolute'>
+  <v:imagedata src="./e_files/image001.png" o:title=""/>
+  <w:wrap type="topAndBottom" anchorx="page"/>
+ </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
+ <table cellpadding=0 cellspacing=0>
+  <tr>
+   <td width=168 height=0></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td><img width=312 height=197 src="p11524.jpg" v:shapes="_x0000_s1036"></td>
+  </tr>
+ </table>
+ </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
+style='mso-ignore:vglayout' clear=ALL>
+You can see in the figure above that the in-circle of triangle ABC touches the
+sides AB, BC and CA at point P, Q and R respectively and P, Q and R divides AB,
+BC and CA in ratio m1:n1, m2:n2 and m3:n3 respectively. Given these ratios and
+the value of the radius of in-circle, you have to find the area of triangle
+ABC. </p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<br style='mso-ignore:vglayout' clear=ALL>
+
+<h5 style='text-align:justify'><span class=StyleArial16pt><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:Arial'>Input</span></span><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"Arial Unicode MS"'><o:p></o:p></span></span></h5>
+
+<p class=MsoNormal style='text-align:justify'>First line of the input file
+contains an integer N (0&lt;N&lt;50001), which denotes how many input sets are
+to follow. The description of each set is given below.</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Each set consists of four lines.
+The first line contains a floating-point number r (1&lt;r&lt;5000), which
+denotes the radius of the in-circle. Each of the next three lines contains two floating-point
+numbers, which denote the values of m<sub>1</sub>, n<sub>1</sub>, m<sub>2</sub>,
+n<sub>2</sub>, m<sub>3</sub> and n<sub>3</sub> (1&lt;m<sub>1</sub>, n<sub>1</sub>,
+m<sub>2</sub>, n<sub>2</sub>, m<sub>3</sub>, n<sub>3</sub>&lt;50000)
+respectively. </p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-tab-count:5'>                                                            </span></p>
+
+<h4><span class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:
+10.0pt;font-family:Arial'>Output <o:p></o:p></span></span></h4>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:121.5pt'>For each set of
+input produce one line of output. This line contains a floating-point number
+that denotes the area of the triangle ABC. This floating-point number should
+contain four digits after the decimal point. Errors less than 5*10<sup>-3</sup>
+will be ignored. Use double-precision floating-point number for calculation. </p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial;font-style:normal'>Sample
+Input<span style="mso-spacerun: yes">                              
+</span>Output for Sample Input<o:p></o:p></span></b></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width=319 valign=top style='width:239.4pt;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>2<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>140.9500536497<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>15.3010457320
+  550.3704847907<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>464.9681681852
+  65.9737378230<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>55.0132446384
+  10.7791711946<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>208.2835101182<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>145.7725891419
+  8.8264176452<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>7.6610997600
+  436.1911036207<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>483.6031801012
+  140.2797089713<o:p></o:p></span></b></p>
+  </td>
+  <td width=324 valign=top style='width:243.0pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>400156.4075<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>908824.1322<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='font-family:Verdana'>Problemsetter: Shahriar Manzoor<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='font-family:Verdana'>Special Thanks: Mohammad Mahmudur Rahman<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>

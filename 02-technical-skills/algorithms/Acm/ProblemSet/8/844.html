@@ -1,0 +1,198 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Pousse</TITLE>
+<META NAME="description" CONTENT="Pousse">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Pousse</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Recently, the organizers of the International Conference on Functional
+Programming had a programming contest for people to show that their language
+was best. The contest main web page is at
+<code>http://www.ai.mit.edu/extra/icfp-contest/</code>.
+Each entrant had to write an implementation of the game ``pouse'', for which
+the description went as follows:
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Description of the game</A>&nbsp;</FONT>
+</H2>
+The name of the game is ``pousse" (which is French for ``push").  It is a 2
+person game, played on an <SPAN CLASS="MATH"><I>N</I></SPAN> by <SPAN CLASS="MATH"><I>N</I></SPAN> board (the original game was <!-- MATH
+ $4 \times 4$
+ -->
+<SPAN CLASS="MATH">4&#215;4</SPAN> but
+<!-- MATH
+ $N \times N$
+ -->
+<SPAN CLASS="MATH"><I>N</I>&#215;<I>N</I></SPAN> is a simple generalisation to adjust the difficulty of the game,
+and its implementation).  Initially the board is empty, and the
+players take turns inserting one marker of their color (`<TT>X</TT>' or `<TT>O</TT>') on the
+board.  The color `<TT>X</TT>' always goes first.  The columns and rows are
+numbered from 1 to <SPAN CLASS="MATH"><I>N</I></SPAN>, starting from the top left, as in:
+
+<P>
+<PRE>
+     1 2 3 4
+    +-+-+-+-+
+  1 | | | | |
+    +-+-+-+-+
+  2 | | | | |
+    +-+-+-+-+
+  3 | | | | |
+    +-+-+-+-+
+  4 | | | | |
+    +-+-+-+-+
+</PRE>
+
+<P>
+A marker can only be inserted on the board by sliding it onto a
+particular row from the left or from the right, or onto a particular
+column from the top or from the bottom.  So there are <SPAN CLASS="MATH">4*<I>N</I></SPAN> possible
+``moves" (ways to insert a marker).  They will be named `<TT>L</TT><SPAN CLASS="MATH"><I>i</I></SPAN>', `<TT>R</TT><SPAN CLASS="MATH"><I>i</I></SPAN>',
+`<TT>T</TT><SPAN CLASS="MATH"><I>i</I></SPAN>', `<TT>B</TT><SPAN CLASS="MATH"><I>i</I></SPAN>' respectively, where <SPAN CLASS="MATH"><I>i</I></SPAN> is the number of the row or column
+where the insertion takes place.
+
+<P>
+When a marker is inserted, there may be a marker on the square where
+the insertion takes place.  In this case, all markers on the insertion
+row or column from the insertion square upto the first empty square
+are moved one square further to make room for the inserted marker.
+Note that the last marker of the row or column will be pushed off the
+board (and must be removed from play) if there are no empty squares on
+the insertion row or column.
+
+<P>
+A row or a column is a ``straight" of a given color, if it contains
+<SPAN CLASS="MATH"><I>N</I></SPAN> markers of the given color.
+
+<P>
+The game ends when an insertion
+creates a configuration with more straights of one color than
+   straights of the other color; the player whose color is dominant
+   (in number of straights) WINS.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+<B>The input begins with a single positive integer on a line by itself indicating
+the number of the cases following, each of them as described below.
+This line is followed by a blank line, and there is also a blank line between
+two consecutive inputs.
+</B>
+
+<P><P>
+<BR>
+
+<P>
+The standard input of the program will contain a number <SPAN CLASS="MATH"><I>N</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="844img1.png"
+ ALT="$ \le$">100</SPAN> on the first line and
+this will be followed by a sequence of moves (in the notation
+previously described) with one move per line.  There are no
+intervening spaces or empty lines.
+
+<P>
+The program can assume that all moves in the sequence are valid.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+<B>For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</B>
+
+<P><P>
+<BR>
+
+<P>
+The organizers then want to play one submitted program against the
+others to see which is best.  So they need to know when one program wins.
+
+<P>
+Your job is to write a program to determine when a game has been won.
+The input to your program is the same as described above: an initial
+number followed by a sequence of moves.  As soon as a move produces a
+winning board position, your program should print
+out whether `<TT>X WINS</TT>' or `<TT>O WINS</TT>', and exit.  If a line containing
+`<TT>QUIT</TT>' is read before a winner is declared, your program should print
+out `<TT>TIE GAME</TT>' and exit.  As a failsafe, the last line of every
+input will be a `<TT>QUIT</TT>' line.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2
+
+4
+L2
+T2
+L2
+B2
+R2
+QUIT
+
+4
+L2
+T2
+L2
+B2
+R2
+T1
+L2
+QUIT
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+TIE GAME
+
+X WINS
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Miguel Revilla
+2002-06-15
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

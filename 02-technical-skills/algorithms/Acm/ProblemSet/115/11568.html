@@ -1,0 +1,119 @@
+<HTML>
+<HEAD><TITLE>Pincer Attack!! - Contest of Newbies 2008</TITLE>
+<META content="Pincer Attack!!" name=description>
+<META content=document name=resource-type>
+<META content=global name=distribution>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META content="MSHTML 6.00.2800.1106" name=GENERATOR>
+<META http-equiv=Content-Style-Type content=text/css></HEAD>
+
+
+<BODY>
+
+<TABLE WIDTH=100% BORDER=0 CELLPADDING=4 CELLSPACING=3 STYLE="page-break-inside: avoid">
+	<COL WIDTH=256*>
+	<COL WIDTH=256*>
+	<THEAD>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=100% BGCOLOR="#5000BF">
+				<P><FONT COLOR="#ffffff"><FONT FACE="Arial Black" SIZE=6>Problem
+				D: Pincer Attack!!</FONT></P>
+			</TD>
+		</TR>
+	</THEAD>
+</TABLE>
+
+<p>You wake up and find that you are trapped in a room. Luckily, you have a laptop computer with you, which may help you escape!
+
+<p>You manage to get a map of the room, telling you where you are and where the exit is. You also
+   know that there are two guarding robots inside the room. Normally they just <i>wander</i> around the
+   room - they always try to move forward, but if they fail (for example, if they are facing a wall), they
+   turn right until they can go forward. Before a robot moves, if you are in its direct east, south, west
+   or north, and there are no walls separating you from it, it sees you. It then stops wandering, changes
+   its direction and moves towards you. If you get out of its sight, it continues its normal wandering
+   again.
+
+<p>You get caught if you bump into a robot, or if a robot reaches you. <b>Write a program</b> that searches
+   for a path leading you to the exit without getting caught.
+
+<P><H2><A name=SECTION00001000000000000000><FONT COLOR=#5000BF>Input</FONT></A></H2>
+
+<p>Input consists of no more than <b>25</b> test cases. The first line of each case gives an integer <b><i>N</i></b> (4 &le; <b><i>N</i></b> &le; 10).
+   This is followed by <b><i>N</i></b> lines, each with <b><i>N</i></b> characters, giving the map of the room.
+
+<p>Key to the map:<ul>
+     <li><b>X</b>: Your location.</li>
+     <li><b>#</b>: A wall; an area that neither you nor the robots can travel to.</li>
+     <li><b>&nbsp;</b> (a space): An area that both you and the robots can travel to.</li>
+     <li><b>N</b>: A robot, facing north (upper side of the map).</li>
+     <li><b>E</b>: A robot, facing east (right side of the map).</li>
+     <li><b>S</b>: A robot, facing south.</li>
+     <li><b>W</b>: A robot, facing west.</li>
+     <li><b>T</b>: The exit, which is the only place that you can leave the room. Robots see it as a wall; they will not get out of the room.</li>
+   </ul>
+
+<p>There are always exactly two robots, and only one exit. The exit must appear on the boundary of the room.
+
+<p>In every step, you move before the robots do. You can either move to the adjacent area in your east,
+   south, west or north, or you can stay where you are. The two robots then move to their adjacent
+   areas in the east, south, west or north, according to the rules specified above. They are thin enough
+   to occupy the same position.
+
+<p>Input ends with a line with only the integer 0.
+
+<P><H2><A name=SECTION00002000000000000000><FONT COLOR=#5000BF>Output</FONT></A></H2>
+
+<p>For each case, your program should print a shortest path (in terms of the number of steps) that leads you to the exit, or the line "<b>You can't escape...</b>" otherwise.
+   Use the characters <b>N</b>, <b>E</b>, <b>S</b>, <b>W</b> and <b>X</b> to denote moving to the north, east, south, west, or staying where you are respectively.
+   If there are many solutions, print the lexicographically smallest one.
+
+
+<P STYLE="page-break-before: always"><H2><A name=SECTION00003000000000000000><FONT COLOR=#5000BF>Sample Input</FONT></A></H2>
+
+<PRE>
+8
+########
+#S#    #
+#E     #
+# ##   #
+###    T
+###   ##
+##  X ##
+########
+8
+########
+#S#    #
+#E  #  #
+T ##   #
+###    #
+###   ##
+##  X ##
+########
+0
+</PRE>
+
+<P><H2><A name=SECTION00004000000000000000><FONT COLOR=#5000BF>Sample Output</FONT></A></H2>
+
+<PRE>
+ENNEE
+You can't escape...
+</PRE>
+
+<P><H2><A name=SECTION00001000000000000000><FONT COLOR=#5000BF>Explanation</FONT></A></H2>
+
+<p>The following shows how you escape for the first sample case, step by step. Note how robots change their direction while wandering:
+
+<pre>
+########  ########  ########  ########  ########  ########
+#S#    #  # #    #  # #    #  # #    #  #N#    #  # #    #
+#E     #  #SE    #  #  E   #  #N  E  #  #    E #  #S    E#
+# ##   #  # ##   #  #S##   #  # ##   #  # ##   #  # ##   #
+###    T  ###    T  ###    T  ###  X T  ###   XT  ###    X
+###   ##  ###   ##  ###  X##  ###   ##  ###   ##  ###   ##
+##  X ##  ##   X##  ##    ##  ##    ##  ##    ##  ##    ##
+########  ########  ########  ########  ########  ########
+</pre>
+
+<P><HR><address>Problemsetter: Mak Yan Kei</address>
+</BODY>
+</HTML>

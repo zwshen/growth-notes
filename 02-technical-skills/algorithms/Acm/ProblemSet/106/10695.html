@@ -1,0 +1,347 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./h_files/filelist.xml">
+<link rel=Edit-Time-Data href="./h_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem H - Find the Point</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>425</o:TotalTime>
+  <o:Created>2004-07-21T15:52:00Z</o:Created>
+  <o:LastSaved>2004-07-21T16:23:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>264</o:Words>
+  <o:Characters>1509</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>12</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1853</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	mso-font-alt:Tahoma;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129023 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129023 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:18.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-font-kerning:0pt;
+	font-weight:bold;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:18.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:24.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Arial Unicode MS";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:.8in .8in .5in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1035"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoTitle><span style='font-size:28.0pt;mso-bidi-font-size:1.0pt;
+font-family:Arial'>Problem H<o:p></o:p></span></p>
+
+<p class=MsoSubtitle><span style='font-size:20.0pt;mso-bidi-font-size:1.0pt;
+font-family:Arial'>Find the Point<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none'><b><span style='font-family:Arial;color:black'>Input:</span></b><span
+style='font-family:Arial;color:black'> standard input<br>
+<b>Output:</b> standard output<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Arial;color:black'>Time
+Limit: </span></b><span style='font-family:Arial;color:black;mso-bidi-font-weight:
+bold'>2</span><span style='font-family:Arial;color:black'> seconds</span><span
+style='color:black'><o:p></o:p></span></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:1.0pt'>In the picture
+below you can see a triangle <b>ABC</b>. A point <b>O</b> is inside the
+triangle <b>ABC</b>. Given the angles <b>AOB</b>, <b>BOC</b> and <b>COA</b> and
+the coordinates of point <b>A (x1,y1)</b>, <b>B(x2,y2)</b> and <b>C(x3,y3)</b>
+your task is to find the coordinate of point <b>O</b>.<o:p></o:p></span></p>
+<p>
+<center><img src="p10695.jpg">
+</center></p>
+
+<br style='mso-ignore:vglayout' clear=ALL>
+
+<h1><span style='mso-bidi-font-size:12.0pt;font-family:Arial'>Input<o:p></o:p></span></h1>
+
+<p style='margin:0in;margin-bottom:.0001pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='mso-bidi-font-size:1.0pt;font-family:
+"Times New Roman";mso-fareast-font-family:"Times New Roman"'>The input file
+contains less than <b>1001</b> sets of input. The description of each set of
+input is given below:<o:p></o:p></span></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='mso-bidi-font-size:1.0pt;font-family:
+"Times New Roman";mso-fareast-font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='mso-bidi-font-size:1.0pt;font-family:
+"Times New Roman";mso-fareast-font-family:"Times New Roman"'>Each set of input is
+expanded in two lines. First line contains six integers <b>x<sub>1</sub>, y<sub>1</sub>,
+x<sub>2</sub>, y<sub>2</sub>, x<sub>3</sub>, y<sub>3</sub></b> <b>(-200 &lt;= x<sub>1</sub>,
+y<sub>1</sub>, x<sub>2</sub>, y<sub>2</sub>, x<sub>3</sub>, y<sub>3 </sub>&lt;=200</b>).
+The meanings of these integers are given in the problem statement and picture above.
+The second line contains three integers, which denotes the values of angles <b>AOB</b>,
+<b>BOC</b> and <b>COA</b> respectively in degree. <o:p></o:p></span></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:1.0pt;font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='mso-bidi-font-size:1.0pt;font-family:
+"Times New Roman";mso-fareast-font-family:"Times New Roman"'>There will be no
+such input where <b>A</b>, <b>B</b> and <b>C</b> are collinear. Point <b>A</b>,
+<b>B</b> and <b>C</b> are always different. Input is terminated by a set where <b>A</b>,
+<b>B</b>, <b>C</b> are all at the origin. Of course this case should not be
+processed. In this problem if two values differ by less than <b>1e-8</b> then
+they are equal.<o:p></o:p></span></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:1.0pt;font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<h1><span style='font-family:Arial'>Output<o:p></o:p></span></h1>
+
+<p style='margin:0in;margin-bottom:.0001pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><span style='mso-bidi-font-size:1.0pt;font-family:
+"Times New Roman";mso-fareast-font-family:"Times New Roman"'>For each set of
+input you should produce two lines of output. First line contains the serial of
+output as shown in the output for sample input. The next line should contain
+two floating-point numbers <b>O<sub>x</sub></b> and <b>O<sub>y</sub></b>, which
+denotes the abscissa and ordinate of point <b>O</b> respectively. These
+floating-point numbers should have six digits after the decimal point. If there
+is no such point <b>O</b> strictly inside the triangle print a line <b>“IMPOSSIBLE”</b>
+instead. Errors less than <b>2e-6</b> will be ignored. <o:p></o:p></span></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:1.0pt;font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:1.0pt;font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<h1><span style='font-size:16.0pt;mso-bidi-font-size:1.0pt;font-family:Arial'>Sample
+Input<span style="mso-spacerun: yes">                             
+</span>Output for Sample Input<o:p></o:p></span></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width=307 valign=top style='width:3.2in;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:SimSun;color:black;mso-fareast-language:
+  ZH-CN'>10 10 20 20 5 8<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:SimSun;color:black;mso-fareast-language:
+  ZH-CN'>100 200 200<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:SimSun;color:black;mso-fareast-language:
+  ZH-CN'>0 0 10 0 5 5<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:SimSun;color:black;mso-fareast-language:
+  ZH-CN'>120 120 120<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:SimSun;color:black;mso-fareast-language:
+  ZH-CN'>0 0 0 0 0 0<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:SimSun;color:black;mso-fareast-language:
+  ZH-CN'>100 100 160<o:p></o:p></span></b></p>
+  </td>
+  <td width=309 valign=top style='width:231.85pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;mso-fareast-language:ZH-CN'>Case 1:<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;mso-fareast-language:ZH-CN'>IMPOSSIBLE<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;mso-fareast-language:ZH-CN'>Case 2:<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;mso-fareast-language:ZH-CN'>5.000000 2.886751<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><![if !supportEmptyParas]>&nbsp;<![endif]><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";
+  mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<font face="Arial, Times New Roman" size=3>
+<b>Problemsetter: Shahriar Manzoor, Member of Elite Problem
+Setters’ Panel</b><br>
+
+<b>Special thanks to Derek Kisman, Member of Elite Problem
+Setters’ Panel</b>
+</font>
+</div>
+
+</body>
+
+</html>

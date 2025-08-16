@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Identifying Concurrent Events</TITLE>
+<META NAME="description" CONTENT="Identifying Concurrent Events">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Identifying Concurrent Events</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+It is important in distributed computer systems to identify those events (at
+identifiable points in time) that are concurrent, or not related to each
+other in time.  A group of concurrent events may sometimes attempt 
+to simultaneously use the same resource, and this could cause problems.
+<P>
+<P>
+Events that are not concurrent can be ordered in time.  For example, if
+event  <IMG WIDTH=13 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline42" SRC="334img1.gif"  >  can be shown to always precede event  <IMG WIDTH=13 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline44" SRC="334img2.gif"  >  in time, then  <IMG WIDTH=13 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline42" SRC="334img1.gif"  >  and  <IMG WIDTH=13 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline44" SRC="334img2.gif"  >  are
+obviously not concurrent.  Notationally we indicate that  <IMG WIDTH=13 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline42" SRC="334img1.gif"  >  precedes  <IMG WIDTH=13 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline44" SRC="334img2.gif"  >  by writing  <IMG WIDTH=56 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline54" SRC="334img3.gif"  > .  Note that the precedes relation is transitive, as expected. Thus if  <IMG WIDTH=56 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline54" SRC="334img3.gif"  >  and  <IMG WIDTH=56 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline58" SRC="334img4.gif"  > , then we can also note that  <IMG WIDTH=56 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline60" SRC="334img5.gif"  > .
+<P>
+<P>
+Sequential events in a single computation are not concurrent.  For example,
+if a particular computation performs the operations identified by events  <IMG WIDTH=13 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline42" SRC="334img1.gif"  > ,
+ <IMG WIDTH=13 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline44" SRC="334img2.gif"  >  and  <IMG WIDTH=13 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline66" SRC="334img6.gif"  >  in that order, then clearly 
+ <IMG WIDTH=56 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline54" SRC="334img3.gif"  >  and  <IMG WIDTH=56 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline58" SRC="334img4.gif"  > .
+<P>
+<P>
+Computations in a distributed system communicate by sending messages.  If
+event <EM>esend</EM> corresponds to the sending of a message by one computation, and
+event <EM>erecv</EM> corresponds to the reception of that message by a different
+computation, then we can always note that  <IMG WIDTH=110 HEIGHT=13 ALIGN=BOTTOM ALT="tex2html_wrap_inline72" SRC="334img7.gif"  > , since a message cannot be received before it is sent.
+<P>
+<P>
+In this problem you will be supplied with lists of sequential events for an
+arbitrary number of computations, and the identification of an arbitrary
+number of messages sent between these computations.  Your task is to identify
+those pairs of events that are concurrent.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+A number of test cases will be supplied.  For each test case the input will
+include first an integer, <I>NC</I>, specifying the number of computations in the
+test case.  For each of these <I>NC</I> computations there will be a single line
+containing an integer  <IMG WIDTH=33 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline78" SRC="334img8.gif"  >  that specifies the number of sequential events in
+the computation followed by  <IMG WIDTH=33 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline78" SRC="334img8.gif"  >  event names.  Event names will always contain
+one to five alphanumeric characters, and will be separated from each other
+by at least one blank.  Following the specification of the events in the last 
+computation there will be a line with a single integer, <I>NM</I>, that specifies
+the number of messages that are sent between computations.  Finally, on each
+of the following <I>NM</I> lines there will be a pair of event names specifying the
+name of the event associated with the sending of a message, and the event
+associated with the reception of the message.  These names will have
+previously appeared in the lists of events associated with computations, and
+will be separated by at least one blank.  The last test case will be followed
+by the single integer 0 on a line by itself.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each test case, print the test case number (they are numbered sequentially
+starting with 1), the number of pairs of concurrent events for the test case,
+and any two pair of the concurrent event names.  If there is only one
+concurrent pair of events, just print it.  And if there are no concurrent
+events, then state that fact.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Example</A></FONT></H2>
+<P>
+Consider the following input data:
+<P>
+<PRE>2
+2 e1 e2
+2 e3 e4
+1
+e3 e1
+0</PRE>
+<P>
+There are two computations.  In the first <TT>e1</TT>  <IMG WIDTH=15 HEIGHT=10 ALIGN=BOTTOM ALT="tex2html_wrap_inline86" SRC="334img9.gif"  >  <TT>e2</TT> and in the second <TT>e3</TT>  <IMG WIDTH=15 HEIGHT=10 ALIGN=BOTTOM ALT="tex2html_wrap_inline86" SRC="334img9.gif"  >  <TT>e4</TT>.
+A single message is sent from <TT>e3</TT> to <TT>e1</TT>, which means <TT>e3</TT>   <IMG WIDTH=15 HEIGHT=10 ALIGN=BOTTOM ALT="tex2html_wrap_inline86" SRC="334img9.gif"  >  <TT>e1</TT>.  Using the
+transitive property of the precedes relation we can additionally determine
+that <TT>e3</TT>  <IMG WIDTH=15 HEIGHT=10 ALIGN=BOTTOM ALT="tex2html_wrap_inline86" SRC="334img9.gif"  >  <TT>e2</TT>.  This leaves the pairs (<TT>e1</TT>,<TT>e4</TT>) and (<TT>e2</TT>,<TT>e4</TT>) as concurrent events.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>2
+2 e1 e2
+2 e3 e4
+1
+e3 e1
+3
+3 one two three
+2 four five
+3 six seven eight
+2
+one four
+five six
+1
+3 x y zee
+0
+2
+2 alpha beta
+1 gamma
+1
+gamma beta
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>Case 1, 2 concurrent events: 
+(e1,e4) (e2,e4) 
+Case 2, 10 concurrent events: 
+(two,four) (two,five) 
+Case 3, no concurrent events.
+Case 4, 1 concurrent events: 
+(alpha,gamma)</PRE>
+<P>
+</BODY>
+</HTML>

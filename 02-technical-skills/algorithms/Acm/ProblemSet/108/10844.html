@@ -1,0 +1,116 @@
+<html>
+<head>
+    <title>Bloques</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem E</B></FONT><BR>
+<FONT SIZE="5"><B>Bloques</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 2 seconds</FONT>
+</CENTER>
+</P>
+
+<P CLASS="paragraph">
+Little Joan has N blocks,all of them of different sizes. He is playing to build cities in the beach. A city is
+just a collection of buildings.
+</P>
+
+<P CLASS="paragraph">
+A single block over the sand can be considered as a building. Then he can construct higher buildings by
+putting a block above any other block. At most one block can be put immediately above any other block.
+However he can stack several blocks together to construct a building. However, it’s not allowed to put
+bigger blocks on top of smaller ones, since the stack of blocks may fall. A block can be specified by a
+natural number that represents its size.
+</P>
+
+<P CLASS="paragraph">
+It doesn’t matter the order among buildings. That is:
+<pre>
+1 3
+2 4
+</pre>
+is the same configuration as:
+<pre>
+3 1
+4 2
+</pre>
+</P>
+
+
+<P CLASS="paragraph">
+Your problem is to compute the number of possible different cities using N blocks. We say that #(N) gives
+the number of different cities of size N. If N=2, for instance, there are only two possible cities:
+</P>
+
+<pre>
+City #1:
+1 2
+</pre>
+
+<P CLASS="paragraph">
+In this city both blocks of size 1 and 2 are put over the sand.
+</P>
+
+<pre>
+City #2:
+1
+2
+</pre>
+
+<P CLASS="paragraph">
+In this city block of size 1 is over block is size 2, and block
+of size 2 is over the sand.
+</P>
+
+<P CLASS="paragraph">
+So, #(2)=2.
+</P>
+
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+A sequence of non-negative integer numbers, each of one in different line. All of them but the last one are
+natural numbers. The last one is 0 and means the end. Each natural number is less than 900.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+For each natural number I in the input, you must write a line with the pair of numbers I, #(I).</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+2
+3
+0
+</PRE>
+</TD>
+<TD>
+<PRE>
+2, 2
+3, 5
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+<HR>
+<B>Problemsetter: Dr. Mauricio Javier Osorio Galindo</B>
+</P>
+
+</td></tr></table>
+</body>
+</html>

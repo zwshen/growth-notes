@@ -1,0 +1,105 @@
+<!--- by Isabel Navarrete, University of Murcia, SPAIN -->
+<html>
+
+<head>
+<title> Can you decide it for ME? </title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="Can you decide it for ME?" name="description">
+</head>
+
+<body lang="EN" bgColor="#ffffff">
+<div align="center"><center>
+
+<table bgColor="#0060f0">
+<TBODY>
+  <tr>
+    <td><b><font color="#c0ffff" size="5">&nbsp;<a name="SECTION0001000000000000000000">Can
+    you decide it for ME?</a></font>&nbsp;</b></td>
+  </tr>
+</TBODY>
+</table>
+</center></div>
+
+<h2 CLASS="western"><font COLOR="#0070e8">Background</font></h2>
+
+<p class="MsoNormal"><span lang="EN-GB">As you should know, a <strong>formal system</strong>
+consists of a set of <strong>axioms</strong> and set of inference or <strong>production
+rules</strong>. Theorems, in general, are results that can be obtained upon the axioms and
+the inference rules of the system. Deciding if a statement is a theorem of a given formal
+system is not a trivial matter; in fact, for some systems it is not even possible, as we
+know by Gödel's incompleteness theorem. </span></p>
+
+<h2 CLASS="western"><font COLOR="#0070e8">The Problem</font></h2>
+
+<p class="MsoNormal"><span lang="EN-GB">ME is a formal system with an infinite number of
+axioms and just one production rule. There are only three symbols that may appear in any
+axiom of ME: the capital letters M and E, and the symbol ?. In spite of the infinite
+number of axioms, there is an easy way of identifying them:</span> 
+
+<ul>
+  <li><span lang="EN-GB"><b>Axiom definition:</b> An axiom of ME is a string of the form
+    xM?Ex? where x is a string of </span>one<span lang="EN-GB"> or more ? symbols. </span></li>
+</ul>
+
+<p class="MsoNormal"><span lang="EN-GB">Notice that the word xM?Ex? itself is not an
+axiom, because x is not a valid symbol of ME; it is just a pattern to describe the axioms.
+But ??M?E??? is indeed an axiom, because it fits the pattern, just replacing x with ??</span></p>
+
+<p class="MsoNormal" style="margin-left:3.0pt"><span lang="EN-GB">There is another type of
+valid strings in the system ME: the <i>theorems</i>. <b>Every axiom is a theorem of ME</b>.
+In addition, the following production rule gives rise to an infinite number of theorems:</span>
+
+<ul>
+  <li><p class="MsoNormal" style="margin-left:3.0pt"><span dir="LTR"><b>P<span lang="EN-GB">roduction
+    rule:</span> </b>If </span><span lang="EN-GB">xMyEz is a theorem then</span> <span
+    lang="EN-GB">xMy?Ez?</span> <span lang="EN-GB">is also a theorem, where x,y,z</span> <span
+    lang="EN-GB">are strings of </span>one<span lang="EN-GB"> or more ? symbols.</span></p>
+  </li>
+</ul>
+
+<p class="MsoNormal"><span lang="EN-GB">For instance, the string ??M?E??? is a theorem,
+because it is an axiom</span>, <span lang="EN-GB">and the string ??M??E???? is also a
+theorem, since it can be obtained upon the theorem ??M?E??? and the production rule.</span></p>
+
+<p class="MsoNormal">Can we decide if a given string is a theorem of ME? Sure!, there is a
+decision algorithm for the system ME. But your goal is less general: just write a program
+that reads strings with at most 50 symbols and decides if they are theorem of ME. </p>
+
+<h2><font COLOR="#0070e8"><a name="SECTION0001001000000000000000">Input</a></font></h2>
+
+<p>The input begins with a single positive integer <em>N</em>, on a line by itself,
+indicating the number of input lines following. Each input line contains <span
+lang="EN-GB">a string with 1 to 50 </span>characters <span lang="EN-GB">(without spaces),
+but not necessarily restricted to the symbols of ME. </span></p>
+
+<h2><font COLOR="#0070e8"><a name="SECTION0001002000000000000000">Output</a></font></h2>
+
+<p>For each input line, the program must print an output line <span lang="EN-GB">with the
+word <i>&quot;theorem</i><em>&quot;</em> if the </span>test<span lang="EN-GB"> line
+contains a theorem, or </span>the word<span lang="EN-GB"> <i>&quot;no-theorem&quot; </i>in
+other case.</span></p>
+
+<h2><font COLOR="#0070e8"><a name="SECTION0001003000000000000000">Sample Input</a></font></h2>
+
+<pre>7
+??M?E??? 
+xM?Ex?
+??M??E????
+M?E?
+??m?e???
+?M?E??
+12M12E????
+</pre>
+
+<h2><font COLOR="#0070e8"><a name="SECTION0001004000000000000000">Sample Output</a></font></h2>
+
+<pre>theorem
+no-theorem
+theorem
+no-theorem
+no-theorem
+theorem
+no-theorem
+</pre>
+</body>
+</html>

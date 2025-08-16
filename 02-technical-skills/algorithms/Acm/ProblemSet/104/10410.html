@@ -1,0 +1,61 @@
+<html>
+<title>Problem H: Tree Reconstruction </title>
+
+<h2>Problem H: Tree Reconstruction</h2>
+
+<img align="right" src="p10410.png">
+<img align="left" src="p10410.jpg" hspace=20 vspace=10>
+
+<P> You have just finished a compiler design homework question where
+you had to find the parse tree of an expression.  Unfortunately you
+left your assignment in the library, but luckily your friend picked it
+up for you.  Instead of e-mailing you the parse tree so that you can
+rewrite the solution, your friend decides to play a practical joke and
+sends you just the DFS and BFS trace.  Rather than try to redo the
+entire question you decide to reconstruct the tree.
+
+<H3>Input</H3> 
+
+The input file contains several test cases as described below.
+
+<P> The first line of a input is the number <b>n</b> (1 &lt;= <b>n</b>
+&lt;= 1000) of nodes in the tree.  The nodes in the tree are numbered
+1, 2, ..., <b>n</b>.  The remaining numbers are the BFS
+traversal followed by the DFS traversal.  Note that when a parent was
+expanded the children were traversed in ascending order.
+
+<H3>Output</H3> 
+
+
+<P> The output for each case should consist of <b>n</b> lines, one for each node.
+Each line should start with the node number followed by a colon
+followed by a list of children in ascending order.  If there is more
+than one solution, any correct answer is acceptable.
+
+
+<H3>Sample Input</H3>
+<PRE>
+8
+4 3 5 1 2 8 7 6
+4 3 1 7 2 6 5 8
+</PRE>
+
+<H3>Sample Output</H3>
+<PRE>
+1: 7
+2: 6
+3: 1 2
+4: 3 5
+5: 8
+6:
+7:
+8:
+</PRE>
+<hr>
+<b>Problem Setter: Jonathan Backer
+</b>
+</html>
+
+
+
+

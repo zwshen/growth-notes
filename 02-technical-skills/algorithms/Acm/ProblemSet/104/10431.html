@@ -1,0 +1,153 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+   <meta name="Author" content="S. M. Mahbub Murshed">
+   <meta name="Description" content="Normal Distribution">
+   <title>Normal Distribution</title>
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+</head>
+<body bgcolor="#FFFFFF" LANG="EN">
+<div align="center">
+  <center>
+  <table BGCOLOR="#CCCCFF" style="border-collapse: collapse" bordercolor="#111111" cellpadding="0" cellspacing="0" >
+<tr>
+<td align="center"><font size="+2" color="#000099"><b>Brightness of Brain 
+Contest</b></font><br><font size="+2" color="#000099">Problem C</font><br>
+<font size="4" color="#000099">Time limit: 5 second Memory: 1 MB</font></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#0070E8">
+<p align="center"><a NAME="SECTION0001000000000000000000"></a><b>
+<font size=+2 color="#C0FFFF">Normal Distribution</font></b></td>
+</tr>
+</table></center>
+</div>
+<h2>
+<a NAME="SECTION0001002000000000000000"></a><font color="#0070E8">The Problem</font></h2>
+&nbsp;&nbsp;&nbsp; One of the most important of the many distributions which
+occur in the study of statistics is the <i>normal</i>, or <i>Gaussian
+distribution</i>. The equation of the normal curve is<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border="0" src="p10431a.jpg" width="147" height="44" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -------------------------&nbsp;
+<b>[1]</b><br>where <b> <i>f(x)</i></b>
+is the <i>frequency function</i>. The total area under this curve, from
+<img border="0" src="p10431b.gif" width="50" height="14" align="middle">to
+<img border="0" src="p10431c.gif" width="49" height="16" align="middle">, is one square
+unit. Therefore the area between any two points, say from x=a to x=b, is the
+proportion of cases which lie between the two points. A plot of Eq. 1 yields a
+bell-shaped curve having a maximum ordinate at
+<img border="0" src="p10431d.gif" width="40" height="17" align="middle"> and decreasing to
+zero at both 
+<img border="0" src="p10431e.gif" width="28" height="14" align="middle"> and<img border="0" src="p10431f.gif" width="28" height="14" align="middle">.
+If the standard deviation
+<img border="0" src="p10431g.gif" width="16" height="14" align="middle">is small, the
+curve is tall and thin; if
+<img border="0" src="p10431g.gif" width="16" height="14" align="middle">is large, the
+curve is short and broad; see the <i><b>Figure 1</b></i> below-</p>
+<p align="center">
+<img border="0" src="p10431h.jpg" width="590" height="216" align="middle" hspace="50"></p>
+<p align="center">
+<i><b>Figure 1 : The Shape of the normal distribution curve (a) Small (b) Large</b></i></p>
+<p>&nbsp;&nbsp;&nbsp; In order to analyze different statistical cases, it is
+convenient to replace x in Eq. 1 with the <i>standard variable z</i> defined as</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img border="0" src="p10431i.gif" width="64" height="41" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+-------------------------&nbsp;
+<b>[2]</b></p>
+<p>where now x is to be normally distributed with a mean of zero. <b><i>Equation 1</i></b>
+then becomes a <i>unit normal distribution</i> and is written as</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border="0" src="p10431j.gif" width="119" height="44" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+-------------------------&nbsp;
+<b>[3]</b></p>
+<p>The distribution is illustrated in the following figure, <i><b>Figure 2</b></i>.</p>
+<p align="center"><img border="0" src="p10431k.jpg" width="477" height="169" hspace="100"></p>
+<p align="center"><i><b>Figure 2 : The standard normal distribution</b></i></p>
+<p>The ordinate at <i>z</i> is <b> <i>f(z)</i></b>, obtained using Eq 3. The areas
+<b> <i>
+Q(z)</i></b> and <b> <i>P(z)</i></b> under the curve can be found in statistical tables or
+approximated. Since the total area under the curve is unity</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>P(z)&nbsp; =&nbsp; 1&nbsp; -&nbsp;
+Q(z)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </i>
+-------------------------&nbsp;
+<b>[4]</b></p>
+<p>The term <b> <i>Q(z)</i></b> is obtained by integrating the area under the curve. It
+can be approximated and then programmed for calculation using a polynomial
+expansion (Hewlett-Packard <i>Applications Book</i>, op. cit., p. 107). The
+results area found to be</p>
+<p>
+&nbsp;&nbsp;&nbsp;
+<img border="0" src="p10431l.gif" width="302" height="25" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+-------------------------&nbsp;
+<b>[5]</b></p>
+<p>where</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border="0" src="p10431m.gif" width="80" height="44" align="middle">,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border="0" src="p10431n.gif" width="93" height="24" align="middle"></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+p = 0.2316419&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+b<sub>1 </sub>= 0.319381530</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+b<sub>2 </sub>= -0.356563782&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b<sub>3</sub>
+= 1.781477937</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+b<sub>4</sub> = -1.821255978&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b<sub>5</sub>
+= 1.330274429</p>
+<p>&nbsp;From the above equation we can calculate <b> <i>Q(z)</i></b> for any
+distribution.</p>
+<p>&nbsp;&nbsp;&nbsp; In this problem you have to determine the standard
+deviation and mean of some given data. Then for some given value find the number
+of population falling in the region <b> <i>Q(z)</i></b> and <b> <i>P(z)</i></b>.</p>
+<h2>
+<a NAME="SECTION0001003000000000000000"></a><font color="#0070E8">The Input</font></h2>
+The input consists of several segments. The first line of input of each segment
+is an integer <b>'<i>N</i>'</b> (0&lt;<b>N</b>&lt;2^31) indicating the population. The next line contains
+<b>'<i>N</i>'</b> 
+real numbers describing the population data (such as age of people, length of
+shaft or diameter of bearing etc.). The following line contains an integer <b>'<i>Q</i>'</b> 
+(0&lt;<b>Q</b>&lt;1000)
+number of query. And the next line similarly contains <b>'<i>Q</i>'</b> number
+describing the query.<h2>
+<a NAME="SECTION0001004000000000000000"></a><font color="#0070E8">The Output</font></h2>
+For each set of input output the data set number followed by mean, standard
+deviation, then <b>3<i>Q</i></b> numbers answering the queries. Each answer to query
+describes <b>P(z)</b> then <b>Q(z)</b> and then percentage of population `<b>T</b>' falling in
+<b>Q(z)</b> area.
+Every number must be rounded to the nearest fourth digit after the decimal 
+point.<h2>
+<a NAME="SECTION0001005000000000000000"></a><font color="#0070E8">Sample
+Input</font></h2>
+<pre>11
+96 93 90 86 86 80 78 76 68 84 100
+2
+60 100
+13
+78 60 74 82 96 68 94 86 78 90 87 56 88
+3
+100 30 59
+</pre>
+
+<h2>
+<a NAME="SECTION0001006000000000000000"></a><font color="#0070E8">Sample
+Output</font></h2>
+
+<pre>Data Set #1
+Mean = 85.1818
+Standard Deviation = 9.3895
+P(z) = 0.9963, Q(z) = 0.0037, T = 0.0403
+P(z) = 0.9427, Q(z) = 0.0573, T = 0.6299
+
+Data Set #2
+Mean = 79.7692
+Standard Deviation = 12.4777
+P(z) = 0.9475, Q(z) = 0.0525, T = 0.6821
+P(z) = 1.0000, Q(z) = 0.0000, T = 0.0004
+P(z) = 0.9520, Q(z) = 0.0480, T = 0.6241
+</pre>
+
+<hr><i>Suman Mahbub</i>
+<br><i>Created: 30-01-2002</i>
+<br><i>Updated: 14-12-2002</i>
+</body>
+</html>

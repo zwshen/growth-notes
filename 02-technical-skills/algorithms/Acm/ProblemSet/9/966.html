@@ -1,0 +1,212 @@
+<html>
+<head>
+<title>LostInheritances</title>
+<meta NAME="description" CONTENT="LostInheritances">
+<meta NAME="keywords" CONTENT="LostInheritances">
+
+<meta NAME="resource-type" CONTENT="document">
+<meta NAME="distribution" CONTENT="global">
+
+<meta NAME="Generator" CONTENT="jLaTeX2HTML v2002-2-1 JA patch-2.0">
+<meta HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<link REL="STYLESHEET" HREF="LostInheritances.css">
+
+</head>
+
+<body >
+
+<p>
+<div ALIGN="CENTER">
+<font SIZE="+2">L<small>OST INHERITANCES</small></font></div>
+
+<p>
+
+<p><p>
+<br>
+
+<p>
+
+<h1><a NAME="SECTION00010000000000000000">
+Problem</a>
+</h1>
+
+<p>
+You were put in charge of the tax collection bureau of a small
+country.
+One of the major sources of income for your country's government is
+the money received by the state when persons without heirs die.
+However, you suspect some of the tax officers have been embezzling
+part of this money.
+Since embezzlement is a very serious offence, you do not wish to pursue 
+the matter without further proof.
+
+<p>
+As such, you decide to write a computer program to calculate how much
+should have been received during the recent past, in order to compare
+it with what was actually collected.
+
+
+<p>
+The inheritance laws work as follows:
+
+<p>
+
+<ul>
+<li>Should the deceased have a living spouse and descendants, half of
+  his fortune goes to the spouse and the other half goes to their
+  descendants.
+</li>
+<li>Should there be no living spouse, the money is shared among the
+  descendants. Should there be no living descendants, all the money
+  goes to the living spouse. Should there be no living spouse nor
+  descendants (nor descendents' spouses), the money reverts to the
+  state.
+</li>
+<li>The money is divided among living descendents by assigning each
+  branch with living descendents (or descendents' spouses) an equal
+  share. 
+  Should the closest descendent still be alive the money goes to
+  him/her, otherwise it is shared as if he/she had just died.
+</li>
+<li>The state only considers a marriage official when a children
+  is born. Marriages are monogamous and there are no divorces.
+</li>
+<li>All divisions are made using integer arithmetic. Remainders are
+  lost.
+</li>
+</ul>
+
+<p>
+Consider the following example (input 1):
+1 and 2 had three children: 3, 4 and 5. 
+4 had a child, 7, but the other parent is unknown.
+5 married 6 and had a child: 8.
+
+<p>
+Later, 1 died and all his money was shared among 2 (1/2), 3, 4 and 5
+(1/6 each).
+Then 5 died leaving his money to be equally divided among 6 and 8.
+Afterwards, 4 passed away, leaving 7 as the sole heir.
+At the dead of 3, the state collects his fortune.
+Later, 2 dies, leaving her money to 7 (1/2), 6 (1/4) and 8 (1/4).
+When 6 dies, all the money goes to 8.
+7 and 8 have no heirs, at their death, their fortunes will go to the
+state.
+
+<p>
+Each person manages to save a certain amount of money each year. 
+When they die, their fortune is comprised of this amount, multiplied by
+their age, along with the money they have inherited.
+
+<p>
+
+<h1><a NAME="SECTION00020000000000000000">
+Input</a>
+</h1>
+Your program will receive 2 + N lines.
+The first line contains a single integer, with a date (a year).
+The second contains the number of citizens (N) which will follow.
+Each of the N following lines will contain 5 integers, separated by
+spaces, describing a citizen, who will be identified by an
+integer. 
+The first citizen will be number 1, the last number N.
+
+<p>
+Each citizen line has his birth year, death year, father identifier,
+mother identifier (1 to N) and annual savings, in this order.
+Citizens whose parents are unknown will have a zero in the mother or
+father fields.
+To prevent ambiguity, there will only be one death per year.
+
+<p>
+
+<h1><a NAME="SECTION00030000000000000000">
+Output</a>
+</h1>
+
+<p>
+The output consists of 2 + M lines.
+The first line contains an integer, representing the total amount of
+money collected by the state from the beginning of time up to the
+provided date (inclusive).
+The second line will indicate the number of living citizens after that
+date (M).
+Each of the following M lines will show two integers separated by a
+space: the citizen identifier, the amount of money he possesses (at
+the date).
+The M lines are sorted in ascending order by citizen identifier.
+
+<p>
+
+<h1><a NAME="SECTION00040000000000000000">
+Sample Input 1</a>
+</h1>
+
+<p>
+<pre>
+2100
+8
+1900 1950 0 0 1
+1910 2000 0 0 2
+1940 1992 1 2 10
+1940 1990 1 2 2
+1944 1981 1 2 1
+1946 2020 0 0 0
+1962 2030 4 0 5
+1980 2040 5 6 5
+
+</pre>
+
+<p>
+
+<h1><a NAME="SECTION00050000000000000000">
+Sample Output 1</a>
+</h1>
+
+<p>
+<pre>
+1524
+0
+</pre>
+
+<p>
+
+<h1><a NAME="SECTION00060000000000000000">
+
+Sample Input 2</a>
+</h1>
+
+<p>
+<pre>
+2040
+4
+1950 2010 0 0 1000
+1970 2040 1 0 500
+1990 2030 2 0 1500
+2020 2050 3 0 2000
+</pre>
+
+<p>
+
+<h1><a NAME="SECTION00070000000000000000">
+Sample Output 2</a>
+</h1>
+
+<p>
+
+<pre>
+0
+1
+4 195000
+</pre>
+
+<p>
+</body>
+</html>
+</td>
+</tr>
+</table>
+</center>
+</body>
+</html>

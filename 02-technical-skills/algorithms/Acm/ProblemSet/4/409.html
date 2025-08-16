@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Excuses, Excuses!</TITLE>
+<META NAME="description" CONTENT="Excuses, Excuses!">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Excuses, Excuses!</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Judge Ito is having a problem with people subpoenaed for jury duty
+giving rather lame excuses in order to avoid serving. In order to
+reduce the amount of time required listening to goofy excuses, Judge Ito
+has asked that you write a program that will search for a list of
+keywords in a list of excuses identifying lame excuses. Keywords can be
+matched in an excuse regardless of case.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Input to your program will consist of multiple sets of data.
+<P>
+<UL><LI> Line 1 of
+each set will contain exactly two integers. The first number ( <IMG WIDTH=87 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline30" SRC="409img1.gif"  > )
+defines the number of keywords to be used in the search. The second
+number ( <IMG WIDTH=85 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline32" SRC="409img2.gif"  > ) defines the number of excuses in the set to be
+searched.<LI> Lines 2 through <I>K</I>+1 each contain exactly one keyword.<LI> Lines
+<I>K</I>+2 through <I>K</I>+1+<I>E</I> each contain exactly one excuse.<LI> All keywords in the
+keyword list will contain only contiguous lower case alphabetic
+characters of length <I>L</I> ( <IMG WIDTH=83 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline42" SRC="409img3.gif"  > ) and will occupy columns 1 through
+<I>L</I> in the input line.<LI> All excuses can contain any upper or lower case
+alphanumeric character, a space, or any of the following punctuation
+marks [<code>SPMamp</code>&quot;.,!?&amp;] not including the square brackets and will not exceed 70
+characters in length.<LI> Excuses will contain at least 1 non-space character.
+</UL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each input set, you are to print the worst excuse(s) from the list.
+<P>
+<UL><LI> The worst excuse(s) is/are defined as the excuse(s) which contains the
+largest number of incidences of keywords.<LI> If a keyword occurs more than
+once in an excuse, each occurrance is considered a separate incidence.<LI> A keyword ``occurs&quot; in an excuse if and only if it exists in the string
+in contiguous form and is delimited by the beginning or end of the line
+or any non-alphabetic character or a space.
+</UL>
+<P>
+For each set of input, you are to print a single line with the number of
+the set immediately after the string ``<TT>Excuse Set #</TT>&quot;. (See the Sample
+Output). The following line(s) is/are to contain the worst excuse(s)
+one per line exactly as read in. If there is more than one worst
+excuse, you may print them in any order.
+<P>
+<P>
+After each set of output, you should print a blank line.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>5 3
+dog
+ate
+homework
+canary
+died
+My dog ate my homework.
+Can you believe my dog died after eating my canary... AND MY HOMEWORK?
+This excuse is so good that it contain 0 keywords.
+6 5
+superhighway
+crazy
+thermonuclear
+bedroom
+war
+building
+I am having a superhighway built in my bedroom.
+I am actually crazy.
+1234567890.....,,,,,0987654321?????!!!!!!
+There was a thermonuclear war!
+I ate my dog, my canary, and my homework ... note outdated keywords?</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>Excuse Set #1
+Can you believe my dog died after eating my canary... AND MY HOMEWORK?
+
+Excuse Set #2
+I am having a superhighway built in my bedroom.
+There was a thermonuclear war!</PRE>
+<P>
+</BODY>
+</HTML>

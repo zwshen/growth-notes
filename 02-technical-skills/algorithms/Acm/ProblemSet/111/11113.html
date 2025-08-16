@@ -1,0 +1,186 @@
+
+<!--Converted with LaTeX2HTML 2002-2-1 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Problem D - Continuous Fractions</TITLE>
+<META NAME="description" CONTENT="Problem D - Continuous Fractions">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2002-2-1">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Problem D - Continuous Fractions</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+A simple continuous fraction has the form: 
+<P><!-- MATH
+ \begin{displaymath}
+a_{1}+\frac{1}{a_{2}+{\displaystyle \frac{1}{a_{3}+{\displaystyle \frac{1}{\ddots+{\displaystyle \frac{1}{a_{n}}}}}}}}
+\end{displaymath}
+ -->
+</P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+<I>a</I><SUB>1</SUB> + <IMG
+ WIDTH="156" HEIGHT="165" ALIGN="MIDDLE" BORDER="0"
+ SRC="11113img1.png"
+ ALT="$\displaystyle {\frac{{1}}{{a_{2}+{\displaystyle \frac{1}{a_{3}+{\displaystyle \frac{1}{\ddots+{\displaystyle \frac{1}{a_{n}}}}}}}}}}$">
+</DIV><P></P>
+
+<P>
+where the <SPAN CLASS="MATH"><I>a</I><SUB>i</SUB></SPAN>'s are integer numbers. 
+
+<P>
+The previous continuous fraction could be noted as <!-- MATH
+ $[a_{1},a_{2},\ldots,a_{n}]$
+ -->
+<SPAN CLASS="MATH">[<I>a</I><SUB>1</SUB>, <I>a</I><SUB>2</SUB>,..., <I>a</I><SUB>n</SUB>]</SPAN>.
+It is not difficult to show that any rational number <!-- MATH
+ $\frac{p}{q}$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="15" HEIGHT="35" ALIGN="MIDDLE" BORDER="0"
+ SRC="11113img2.png"
+ ALT="$ {\frac{{p}}{{q}}}$"></SPAN>,
+with integers <SPAN CLASS="MATH"><I>p</I> &gt; <I>q</I> &gt; 0</SPAN>, can be represented in a unique way by a simple continuous fraction
+with <SPAN CLASS="MATH"><I>n</I></SPAN> terms, such that <!-- MATH
+ $\frac{p}{q}=[a_{1},a_{2},\ldots,a_{n-1},1]$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="15" HEIGHT="35" ALIGN="MIDDLE" BORDER="0"
+ SRC="11113img2.png"
+ ALT="$ {\frac{{p}}{{q}}}$"> = [<I>a</I><SUB>1</SUB>, <I>a</I><SUB>2</SUB>,..., <I>a</I><SUB>n-1</SUB>, 1]</SPAN>,
+where <SPAN CLASS="MATH"><I>n</I></SPAN> and the <SPAN CLASS="MATH"><I>a</I><SUB>i</SUB></SPAN>'s are positive natural numbers.
+
+<P>
+Your task is to find and print the simple continuous fraction that
+corresponds to a given rational number.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Input will consist of a series of cases, each one in a line. A line describing a case contains <SPAN CLASS="MATH"><I>p</I></SPAN> and <SPAN CLASS="MATH"><I>q</I></SPAN>, two integer numbers separated by a space, with <!-- MATH
+ $10^{20} > p > q > 0$
+ -->
+<SPAN CLASS="MATH">10<SUP>20</SUP> &gt; <I>p</I> &gt; <I>q</I> &gt; 0</SPAN>.
+
+<P>
+The end of the input is indicated by a line containing <TT>0 0</TT>.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Cases must be analyzed in the order that are read from the input.
+Output for each case will consist of several lines. The first line indicates the case number, starting at 1, using the  format:
+
+<P>
+
+<P>
+<BR>
+
+<TT>Case i:</TT> 
+
+<P>
+
+<P>
+<BR>
+replacing <TT>i</TT> by the corresponding case number. The second line displays the input data in the form
+<TT>p / q</TT>.
+
+<P>
+The remaining lines must contain the continuous fraction corresponding
+to the rational number, <!-- MATH
+ $\frac{p}{q}$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="15" HEIGHT="35" ALIGN="MIDDLE" BORDER="0"
+ SRC="11113img2.png"
+ ALT="$ {\frac{{p}}{{q}}}$"></SPAN>, specified in the given input
+line. The continuous fraction must be printed accordingly to the following
+rules:
+
+<P>
+
+<UL>
+<LI>Horizontal bars are formed by sequences of dashes `<TT>-</TT>'.
+</LI>
+<LI>The width of each horizontal bar is exactly equal to the width of
+the denominator under it.
+</LI>
+<LI>Blank characters should be printed using periods `<TT>.</TT>'
+</LI>
+<LI>The number on a fraction numerator must be printed center justified.
+That is, the number of spaces at either side must be same, if possible;
+in other case, one more space must be added at the right side.
+</LI>
+</UL>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+75 34
+65 60
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2> 
+		<PRE>
+Case 1:
+75 / 34
+..........1......
+2.+.-------------
+............1....
+....4.+.---------
+..............1..
+........1.+.-----
+................1
+............5.+.-
+................1
+Case 2:
+65 / 60
+......1...
+1.+.------
+.........1
+....11.+.-
+.........1
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+XX Colombian National Programming Contest
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

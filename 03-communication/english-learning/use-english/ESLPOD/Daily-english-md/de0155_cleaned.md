@@ -1,0 +1,74 @@
+# A Good Review of a Play
+
+Welcome to English as a Second Language Podcast num ber 155: A Good Review of a Play. 
+
+You’re listening to English as a Second Language Po dcast episode 155. I’m your host, Dr. Jeff McQuillan, coming to you from the Ce nter for Educational Development in beautiful Los Angeles, California. 
+
+On today’s podcast, we’re going to hear about two p eople going to a play at the theater. Let’s go! 
+
+[start of a dialog] 
+
+I invited Bruce to a play at the Mark Taper Forum a nd we got there a little early. We handed our tickets to the woman at the door and found our seats.  
+
+Megan: I’m glad we got here early to find our seats . I know that this is a sold out performance.  
+
+Bruce: The cast is supposed to be really good. I re ad a rave review of the play in the paper last week. The review said that the leads  are perfectly cast and the directing is inspired. Federica saw it a couple  of weeks ago and she said that the staging and the costumes were really something to see.  
+
+Megan: I’m really glad. The last time I came to a p lay at this theater, it was a bomb. The two lead actors weren’t up to their par ts and the whole production was amateur. It closed early after only two weeks.  
+
+Bruce: That won’t happen with this play. Hey, they’ re dimming the lights. The curtain should be going up any minute 
+
+[end of dialog] 
+
+In this podcast, we go to or attend a play at a the ater. The story begins with Megan saying that she invited Bruce to a play at th e Mark Taper Forum. The Mark Taper Forum is a theater here in Los Angeles. She says that they got there a little early. They arrived there a little early. “We handed our tickets to the woman at the door,” the story says, “and found our seats.” “To hand (hand) something” is to give something to someone by putti ng it in their hand – form your hand to their hand. You can hand a book. You c an hand a piece of paper.  
+
+You can hand any item that’s small enough to hold. They then found their seats – looked for and found their seats – where they were sitting.  
+
+Megan said that she was glad they had arrived early . She knew that this was a “sold out performance.” When we say it’s a “sold ou t” (sold out) – two words – we mean there are no more tickets left. Some people ma y also say, “It’s a sellout” (sellout) – that’s the same as “It has been sold ou t.” “It is sold out.” It’s a sold out “performance.” And that word “performance” (perform ance) is used for a play or any sort of – usually a live entertainment show. It  could be a dance. It could be opera. It could be singing and so forth. In this ca se, it’s a “theater play.” Well, Bruce says that the “cast” of the play is supposed to be really good. The “cast” (cast) are the people who are in the play. The acto rs and actresses are the cast, and that includes everyone who’s on the stage in th e play. The “stage,” of course, (stage) is where the play is performed – wh ere the actors are in the theater. A theater has a stage and then it has seat s. Sometimes it has a “balcony” (balcony) – that’s like a second level hi gher up, where people can sit.  
+
+Well, Bruce says that he read a “rave review” of th e play in the paper last week. A “review” (review) is when someone in the newspape r or on television, gives their opinion of the play. The people who write rev iews are usually called “critics” (critics). A “critic” is someone who writes a revie w of a play or a movie and so forth.  
+
+Well, this was a “rave review” that Bruce read. A “ rave (rave) review” means it was a great review, that the reviewer or the critic  was “raving” about the play. “To rave” means to praise, to say very good things abou t a play, to be very excited, enthusiastic. There’s also a noun “rave,” which is very different in a way. A “rave” – as a noun – is a dance – usually a dance that is in some location where you don’t normally have dances – in the desert, for exa mple. And it’s an all night party where people dance throughout the evening. I have never been to a rave before. I guess I’m too old. They became very popul ar in the 1990’s in the United States. People had rave parties. But I was not part  of that, I’m afraid. The “rave review” was in the “paper.” And when we say it was “in the paper,” we mean it was in the newspaper. People will often refer to a newspaper as simply, “the paper.” “Did you read the paper this morning?” – th ey mean did you read the newspaper – probably your local newspaper. 
+
+Well, the review in the paper said that the “leads”  were perfectly cast. The “leads” (leads) are the lead or most important actors and a ctresses. Usually, there’s one or two, maybe three, lead actors. These are the one s that you see the most – are most important for the story. We will sometimes jus t call them the “leads.” It’s the same as the “lead actors.” The actors were “perfect ly cast.” Well, we heard that  
+
+“cast” (cast) – as a noun – means people who are in  the theater play. But it can also be used as a verb – “to cast.” And “to cast” m eans that we find people for the play to be in the cast. So, we might, for examp le, see that the director is “casting” the play – that means he’s looking for pe ople to be in the play. Usually, they do this by holding auditions. An “audition” (a udition) is when you go to the director and you usually have to act for a few minu tes in front of them. And they can see whether you are good for their play. You al so can cast a movie or a television show. And here in Los Angeles, there are  lots and lots of people who go to what are called “casting calls.” And a “casti ng call” (call) is when they say, “Well, if you want to be in this play, come to this  theater on Monday morning at 8 o’clock,” and then you go and you go to an audition .  
+
+Well, getting back to our story. “The leads were pe rfectly cast in this play,” according to Bruce, meaning that the director found  the right people for those particular parts. And a “part” (part) in a play, is  the same thing as a “role” (role). A “part” or a “role” is the person – the character in  the story. For example, in the play “Hamlet” by Shakespeare, one of the roles is “ Hamlet,” another one of the roles is Hamlet’s uncle “Polonius” and so forth. So , the different parts, or different roles are the different characters in the story. Br uce also says that the directing is “inspired.” The directing is what the director does  and the “director” of a play, is the person who tells the actors what to do. He or s he is the boss of the play – the person who is responsible for putting the play on. “To put on a play” means to perform a play. Well, he’s responsible for making s ure all the actors do what they’re supposed to do. And when you say that the d irecting is “inspired” – you mean that it was very good, that he had original ne w ideas. 
+
+Bruce also says that his friend, Federica, thought that the “staging and the costumes” were something to see. The “staging” (sta ging) is the way that the stage looks. Remember the stage is where the actors  are. And the “staging,” in part, is what you see up on the stage. And usually,  there’ll be “props” (props). “Props” are anything that the actors and actresses use in the play. The “costumes” (costumes) are, of course, the clothes t hat the actors wear. Bruce says that his friend told him, “The staging and cos tumes were really something to see.” When you say, “Well, that’s something to see, ” we mean it’s really good. It’s something that you will want to see. You could say that about a play. You could also say that about a movie or even a sports game –  “Boy, the Los Angeles Lakers are something to see,” meaning they’re a goo d basketball team and you’ll enjoy them. 
+
+Megan says that she’s very glad that the play is go ing to be good because the last time she came to a play at the theater, it was  a “bomb” (bomb). That word “bomb” has many different meanings. As an adjective , in this sentence, it was a  
+
+“bomb” – with the indefinite article “a” or “a” – a  “bomb” – that means it was terrible. It was not very good. It was an awful, ho rrible, play. There’s another way of using bomb as an adjective, when we say somethin g is “the bomb” – the bomb – “the bomb” – “the” – we mean it was great. So, it  can be very confusing. The expression “the bomb” is very slang. It’s very popu lar among younger people. So, you won’t see that in the newspaper. When you use a  “bomb,” you know that it was bad, but if someone says it’s “the bomb,” or “d a bomb” – sometimes we pronounce “the” – some people pronounce “the” infor mally as if it were “da.” So, instead of “the bomb,” they say, “da bomb.” But tha t’s very informal – very slang use of that word. A “bomb” as a noun, of course, is  something that explodes – something that you will see in a war, for example, when they drop bombs from the planes. But here as an adjective, it means it w as a bad play. We often use that adjective about plays. Not so much about other  things. We don’t say, “The book was a bomb.” It’s possible but that would not be very common. We would use this for a play, in particular.  
+
+Well, Megan says that the two lead actors weren’t u p to their parts. “To be up to their parts” and remember the part is the character  that they are playing in the play. “To be up to something” means that you are ab le to do it. You have the ability – the capacity – the capability to do somet hing. You can use that for lots of different situations. If you say, for example, “My friend John isn’t up to swimming three miles today” – means he’s not ready, he’s not  able to do that, he’s not prepared to do that. Well, in this case, the lead a ctors were not up to their parts – were not good enough for their roles and “The whole  production,” Megan said, “was amateur.” The “production” (production) – the “production” is the actual performance of the play. It’s what you go see – eve rything combined – the music, the acting, the staging, the costumes – all of that  is the production. To say something was “amateur” (amateur) means that it was n’t very good. It wasn’t the opposite of amateur which is “professional.” A “pro fessional” is normally someone who gets paid to do something. An “amateur”  is someone who does not get paid. So, for example, in the United States, if  you play college basketball – if you play basketball for your university, you are an  “amateur.” You are not paid. But if you go and play for a professional team then  you become a “professional” and you are paid. We also use these two words, “pro fessional” and “amateur,” to describe how good something is done. If someone say s, “That website is really amateur” they mean it’s not very good. It was done by someone who doesn’t know what they are doing.  
+
+Megan says that this play that she saw – that was t errible – “closed early” after only two weeks. When we say a play “closes,” we mea n that’s the end of the performances at that theater. The opposite would be  “to open.” So, “When is the play going to open?” “When is the play going to clo se?” If a play is really bad, it  
+
+may close early. The theater may decide not to keep  performing that play. Bruce says that this play is not going to end early. It’s  not going to close early, I should say.  
+
+He says, “Hey! They’re dimming the lights. The curt ain should be going up any minute.” “To dim” (dim) means to lower the light. S o, if someone says we’re going to dim the lights, they mean the lights are going t o go from being very bright to less bright – usually, they turn the lights of comp letely. But they do it slowly and that’s called “dimming.” So, they dim the lights. T he curtain will now go up. The “curtain” (curtain) is what is out the front of the  stage that hides everything behind it. And then they open the curtain or the curtain g oes up – if it’s an older theater – and the play then can begin. Bruce says that “The c urtain should be going up any minute.” When someone says, “Any minute” they mean at any time, very soon – could be five seconds, could be 25 seconds but very , very soon. Someone, for example, may say, “I will be there any minute” – me ans “I’m driving there, and I will arrive very, very soon.” 
+
+Now let’s listen to the dialogue at a native rate o f speech. 
+
+[start of a dialog] 
+
+I invited Bruce to a play at the Mark Taper Forum a nd we got there a little early. We handed our tickets to the woman at the door and found our seats.  
+
+Megan: I’m glad we got here early to find our seats . I know that this is a sold out performance.  
+
+Bruce: The cast is supposed to be really good. I re ad a rave review of the play in the paper last week. The review said that the leads  were perfectly cast and the directing is inspired. Federica saw it a couple  of weeks ago and she said that the staging and the costumes were really something to see.  
+
+Megan: I’m really glad. The last time I came to a p lay at this theater, it was a bomb. The two lead actors weren’t up to their par ts and the whole production was amateur. It closed early after only two weeks.  
+
+Bruce: That won’t happen with this play. Hey, they’ re dimming the lights. The curtain should be going up any minute 
+
+[end of dialog] 
+
+ The script for today’s podcast was written by Dr. L ucy Tse. Remember to visit our website for the script of the dialog and for more i nformation about this podcast. Our website is www.eslpod.com . 
+
+From Los Angeles, California, I’m Jeff McQuillan. W e’ll see you next time on ESL Podcast. 
+
+English as a Second Language podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. This podcast is copyr ight 2006.
+

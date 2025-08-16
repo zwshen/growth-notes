@@ -1,0 +1,70 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<title>Problem F - Folding My T-Shirt</title>
+
+</head>
+
+<body bgcolor="#ffffff" lang=EN-US>
+
+<center>
+<p>
+<b><font size=5>Problem F</font></b><br>
+<b><font size=6>Folding My T-Shirt</font></b><br>
+<b>Input:</b> standard input<br>
+<b>Output:</b> standard output<br>
+<b>Time Limit:</b> 2 seconds<br>
+<b>Memory Limit:</b> 16 MB<br>
+</p>
+</center>
+
+<p>
+I have a T-Shirt. When I don't wear it any more, I fold it up. For most of the time, I can find a line so that the parts of the T-shirt on both sides are symmetrical. 
+Then, I can fold it along that line. But sadly, I cannot find such a line for some strange(really really strange, see sample input ^_^) T-shirts. 
+<p>
+<center><img src="p10416.jpg"></center>
+<p>
+In the example above, I can fold the T-shirt along the dash line, then, I got the figure on the right. Could you tell me if I
+can succeed?
+<p><b><font size=5>Input</font></b></p>
+<p>
+The first line of the input contains a single integer <b>t</b>(<b>t&lt;=20</b>) indicating the number of test cases. 
+Each test case begins with a line containing a single integer <b>n</b>(<b>3&lt;=n&lt;=100</b>) indicating the number of points of the polygon.
+In the next <b>n</b> lines each contain a pair of integers (<b>x<sub>i</sub></b>,<b>y<sub>i</sub></b>), indicating the position of the points.
+The points are given in the counter-clockwise order. The T-Shirt is valid. i.e not self-crossing. But the T-Shirt maybe not convex.
+</p>
+
+<p><b><font size=5>Output</font></b></p>
+<p>
+For each test case, output a line corresponding the answer. Answer 'Yes' if the T-Shirt can be folded, 'No' otherwise.
+</p>
+
+<p><b><font size=5>Sample Input</font></b><br>
+<font face="Courier" size=3>
+2<br>
+3<br>
+0 0<br>
+5 0<br>
+1 1<br>
+8<br>
+1 0<br>
+2 0<br>
+2 1<br>
+-2 1<br>
+-2 0<br>
+-1 0<br>
+-1 -3<br>
+1 -3<br>
+</font>
+
+<p><b><font size=5>Sample Output</font></b><br>
+<font face="Courier" size=3>
+No<br>
+Yes<br>
+</font>
+
+<font face="Times New Roman" size=3>
+<hr>
+<b>The 2nd OIBH Online Programming Contest. Author: Rujia Liu</b><br>
+</body>
+</html>

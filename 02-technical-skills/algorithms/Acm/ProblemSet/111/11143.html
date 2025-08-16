@@ -1,0 +1,396 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+	xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+	<head>
+		<title>Problem D</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta name="ProgId" content="Word.Document">
+		<meta name="Generator" content="Microsoft Word 9">
+		<meta name="Originator" content="Microsoft Word 9">
+		<link rel="Edit-Time-Data" href="http://acm.uva.es/p/v106/d_files/editdata.mso"> <!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Hossein Azizpour</o:Author>
+  <o:LastAuthor>Hossein Azizpour</o:LastAuthor>
+  <o:Revision>45</o:Revision>
+  <o:TotalTime>150</o:TotalTime>
+  <o:LastPrinted>2004-02-14T12:09:00Z</o:LastPrinted>
+  <o:Created>2003-04-09T12:45:00Z</o:Created>
+  <o:LastSaved>2004-02-20T06:50:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>254</o:Words>
+  <o:Characters>1453</o:Characters>
+  <o:Company>BUET &amp; SOFTNET</o:Company>
+  <o:Lines>12</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1784</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->  <!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <w:GrammarState>Clean</w:GrammarState>
+ </w:WordDocument>
+</xml><![endif]-->
+			<style> 
+			<!-- span.GRAME {mso-gram-e:yes;}
+	/* Font Definitions */ @font-face {font-family:"Arial Unicode MS"; panose-1:2 11 6 4 2 2 2 2 2 4; mso-font-charset:128; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-1 -369098753 63 0 4129279 0;}
+	@font-face {font-family:"\@Arial Unicode MS"; mso-font-charset:128; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-1 -369098753 63 0 4129279 0;}
+	/* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-parent:""; margin:0in; margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";}
+	h1 {mso-style-next:Normal; margin:0in; margin-bottom:.0001pt; mso-pagination:widow-orphan; page-break-after:avoid; mso-outline-level:1; tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-size:16.0pt; mso-bidi-font-size:18.0pt; font-family:"Times New Roman"; mso-font-kerning:0pt; font-weight:bold;}
+	p.MsoCaption, li.MsoCaption, div.MsoCaption {mso-style-next:Normal; margin:0in; margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; font-weight:bold;}
+	p.MsoBodyText, li.MsoBodyText, div.MsoBodyText {margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; text-align:justify; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; color:black; mso-ansi-language:EN;}
+	p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2 {margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; text-align:justify; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";}
+	a:link, span.MsoHyperlink {color:blue; text-decoration:underline; text-underline:single;}
+	a:visited, span.MsoHyperlinkFollowed {color:blue; text-decoration:underline; text-underline:single;}
+	p {margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";}
+	pre {margin:0in; margin-bottom:.0001pt; mso-pagination:widow-orphan; tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-size:10.0pt; font-family:"Courier New"; mso-fareast-font-family:"Courier New";}
+	span.StyleArial16pt {mso-style-name:"Style Arial 16 pt"; mso-ansi-font-size:16.0pt; mso-ascii-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; font-weight:bold;}
+	@page Section1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:35.3pt; mso-footer-margin:35.3pt; mso-paper-source:0;}
+	div.Section1 {page:Section1;}
+.style4 {
+	font-size: 10;
+	font-family: "Courier New", Courier, monospace;
+}
+.style5 {font-family: "Courier New", Courier, monospace}
+	-->
+			</style>
+			<!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+			<meta name="description" content="Exponentiation">
+			<meta name="keywords" content="htmlatex">
+			<meta name="resource-type" content="document">
+			<meta name="distribution" content="global"></head>
+	<body bgcolor="white" lang="EN-US" link="blue" vlink="blue">
+		<div class="Section1">
+			<p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><b><span style="FONT-SIZE: 28pt; FONT-FAMILY: Arial">Problem 
+D</span></b><span style="FONT-FAMILY: Arial"><br>
+				</span><b><span style="FONT-SIZE: 20pt; FONT-FAMILY: Arial"> &nbsp;Subtitles</span></b><span style="FONT-SIZE: 20pt; FONT-FAMILY: Arial"><br>
+				</span><span style="FONT-FAMILY: Arial"><b>Time Limit: </b> 3
+ Seconds</span></p>
+			<p style="TEXT-ALIGN: justify">Babi likes to see movies every week 
+				and&nbsp;he&nbsp;assigns a specific time of each week&nbsp;to watch new movies 
+				received during&nbsp;that week. Recently, he has received some new movies in 
+				divx format after a long period of time without any new movie! however, all the 
+				movies has foreign languages (something except Farsi), so that he tried to 
+				download appropriate subtitles of these films. After he downloaded and got 
+				disconnected from Internet, he found out that some of the subtitles, which he 
+				has downloaded, are not for the&nbsp;his distribution of the video files. After 
+				careful consideration of subtitles, he noticed that the differences may occur 
+				in one of the cases below:</p>
+			<ul>
+				<li>
+					<p style="TEXT-ALIGN: justify">The number of CDs that the subtitle is written for, 
+						is different from the number of&nbsp; Babi's video CDs.</p>
+				<li>
+					<p style="TEXT-ALIGN: justify">The duration of beginning advertisements in the 
+						distribution, which the subtitle is written for, is different from the 
+						advertisement duration of Babi's video.</p>
+				<li>
+					<p style="TEXT-ALIGN: justify">Some scenes are censored in the Babi's video.</p>
+				</li>
+			</ul>
+			<p style="TEXT-ALIGN: justify">Since Babi prefers to change the current subtitles 
+				to match his videos instead of&nbsp;searching for&nbsp;new subtitles, he needs 
+				your help to write&nbsp;a program with the following features 
+				to&nbsp;manipulate&nbsp;a subtitle:</p>
+			<ul>
+				<li>
+					<p style="TEXT-ALIGN: justify">Merge <STRONG>n</STRONG> subtitles into one subtitle 
+						and/or divide a subtitle into <STRONG>m</STRONG> subtitles.</p>
+				<li>
+					<p style="TEXT-ALIGN: justify">Shift a subtitle <STRONG>t </STRONG>
+					seconds backward 
+						or forward.</p>
+				<li>
+					<p style="TEXT-ALIGN: justify">Cutting a specific period of time from&nbsp;a 
+						subtitle.</p>
+				</li>
+			</ul>
+			<p style="TEXT-ALIGN: justify">For those who are not familiar with the format of a 
+				regular subtitle file, here is a description of ".srt" format. Every "<b>.srt"</b>
+				subtitle is a text file containing&nbsp;some individual text blocks in the 
+				following format:</p>
+			<p style="TEXT-ALIGN: justify"><b> BlockIndex<br>
+					StartTime --&gt; FinishTime<br>
+					&lt;Sentence 1&gt;<br>
+					&lt;Sentence 2&gt;<br>
+					...<br>
+					&lt;Sentence sn&gt;<br>
+					<br>
+				</b>where <STRONG>BlockIndex</STRONG> shows this block is the <STRONG>BlockIndex</STRONG><EM>th</EM>
+				block of the text file, <STRONG>StartTime</STRONG> is the time in which 
+			all 
+				sentences of this block must be shown and "FinishTime" is the time the 
+				sentences should disappear, all time descriptions are in the format <STRONG>hh:mm:ss,msmsms </STRONG>
+				(e.g. 01:20:01,630 or 99:59:59,999). Each block can have 0<b> &lt; sn &lt;= 5</b>
+				sentences that should be shown in the specified period. It should be noted that 
+				these sentences have at most <b>80</b> characters.
+				<br>
+				All blocks of the movie comes sequentially sorted in increasing 
+				order&nbsp;of&nbsp;their&nbsp;start time and the display period of two 
+				different blocks are disjoint.&nbsp;Also, the blocks are separated by a blank 
+				line. (See the sample input for an example)</p>
+			<h1><span class="StyleArial16pt"><span style="FONT-FAMILY: Arial">Input<o:p></o:p></span>
+				</span></h1>
+			<P style="TEXT-ALIGN: justify">Input has&nbsp;several test cases.&nbsp;Each test 
+				case starts with the description of Babi's video file. First, the number of 
+				CDs,&nbsp;which&nbsp;Babi's video has, <STRONG>0&lt;bcdn &lt; 6, </STRONG>come in a 
+				line. Next,&nbsp; <b>bcdn</b> time descriptions come each in a separate line 
+				denoting duration of each CD.&nbsp;Next line contains&nbsp;a time description 
+				showing the duration of Advertisement <i>in the beginning of first CD</i>. After that, 
+				a line containing an integer <STRONG>cn &lt; 100 </STRONG>come denoting the 
+				number of censored parts in the Babi's video, and then, there&nbsp;are <b>cn</b>
+				lines where <b>i</b><i><font size="2">th</font></i> line contains two time 
+				descriptions, which show the begin and the end of the <b>i</b><i><font size="2">th</font></i>
+				censored part.</P>
+			<P style="TEXT-ALIGN: justify">
+				Next, the descriptions of subtitle files come, which starts with a single 
+				number <b>0&lt;scdn &lt; 6</b> , denoting number of subtitle files.&nbsp;Then, <b>scdn</b>
+				time descriptions each in a separate line come denoting duration of each 
+				subtitle file, then a time description comes, which is the duration of advertisement 
+				<i>in the 
+				beginning of first CD</i> of&nbsp;distribution of video, which the subtitle is 
+				written for.
+				Finally, the contents of <b>scdn</b> subtitle files come in the above ".srt" 
+				format. There is&nbsp;a blank line after each block of test cases.</P>
+			<P style="TEXT-ALIGN: justify"><STRONG>Note 1. </STRONG>For&nbsp;the simplicity of 
+				reading, end of each subtitle file is marked with a Block index <b>0</b>, but 
+				you should know the subtitle files do not contain this 0 at the end, 
+				consequently <EM>in the output your program should not print this number at the end 
+					of each subtitle file</EM> .<br>
+				<STRONG>Note 2. </STRONG>There exist at most <b>1000</b> blocks in every 
+				subtitle file.<br>
+				<STRONG>Note 3. </STRONG>The time description of censored parts&nbsp;are given 
+				<i>for the distribution of video whose subtitles are downloaded by Babi</i>.<br>
+				<STRONG>Note 4. </STRONG>There is no subtitle block in the duration of 
+				advertisement.<br>
+				<b>Note 5.</b> The interval of censored parts are disjoint.<br>
+				<b>Note 6. </b>All milliseconds between first and last time of a&nbsp;censored 
+				part&nbsp;interval <EM>including first and last&nbsp;millisecond</EM> should be 
+				deleted from subtitles. For example, a censored part from <b>
+			00:00:00:001</b> to <b>00:00:00:004</b> cuts <i>the mathematical 
+			interval <b>[00:00:00:001,00:00:00:005)</b></i>.<br><b>Note 7. </b>
+			Two blocks of subtitles are called <i>equal</i> if they have exactly 
+			the same sentences. Two blocks of subtitles are called <i>joint</i> 
+			if the there is not any time between finishing time of one of them 
+			and starting time of the other one. <i>All equal joint blocks must 
+			be merged into one block</i>. <br>
+				<b>Note 8.</b> All inputs are guaranteed to be valid.</P>
+			<P style="TEXT-ALIGN: justify"><SPAN class="StyleArial16pt"><SPAN style="FONT-FAMILY: Arial">Output<o:p></o:p></SPAN>
+				</SPAN></P>
+			<p style="TEXT-ALIGN: justify">
+				For each test case, your program&nbsp;must output the contents of&nbsp; <b>bcdn</b>
+				subtitles suitable for Babi's video.<br>
+				Print out a blank line after&nbsp;each of these <b>bcdn</b> subtitle files, and 
+				also, after output of each test case.</p>
+			<table style="BACKGROUND: rgb(204,204,204) 0% 50%; WIDTH: 720px; BORDER-COLLAPSE: collapse; moz-background-clip: initial; moz-background-origin: initial; moz-background-inline-policy: initial"
+				bgcolor="#cccccc" border="1" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr bgcolor="white;">
+						<td bgcolor="#FFFFFF" style="font-size:18px"><b><center>Sample Input</center></b></td>
+						<td bgcolor="#FFFFFF" style="font-size:18px"><b><center>Sample Output</center></b></td>
+					</tr>
+					<tr>
+						<td valign="top" width="319">
+<pre>
+2
+00:00:23,000
+00:01:00,813
+00:00:01,100
+2
+00:03:35,101 00:03:40,728
+00:04:01,000 00:04:10,010
+2
+00:03:55,813
+00:00:28,000
+00:03:01,100
+
+1
+00:03:14,039 --> 00:03:15,631
+Nice car.
+
+2
+00:03:19,177 --> 00:03:21,008
+Sweet!
+
+3
+00:03:30,288 --> 00:03:31,585
+Nice.
+
+4
+00:03:34,993 --> 00:03:36,893
+You little maggot!
+
+5
+00:03:38,396 --> 00:03:40,728
+-You get back here!
+-What are you doing?
+
+6
+00:03:40,799 --> 00:03:41,823
+This your kid?
+
+7
+00:03:41,900 --> 00:03:45,267
+Take a look at his hand.
+You'll find the valve caps to my '59 Caddy.
+
+8
+00:03:45,337 --> 00:03:46,929
+Is that true, Jesse?
+
+9
+00:03:48,707 --> 00:03:53,041
+How many times have I told you
+to stop stealing parts off people's cars!
+
+10
+00:03:53,845 --> 00:03:55,813
+Go on inside. Go!
+
+0
+
+1
+00:00:01,630 --> 00:00:04,622
+Besides, that was then and this is now.
+
+2
+00:00:04,733 --> 00:00:07,167
+Yeah, and I should trust you now,
+shouldn't l?
+
+3
+00:00:07,235 --> 00:00:11,467
+Why would I try to steal the golden egg
+when I got the whole goose right here?
+
+4
+00:00:11,539 --> 00:00:15,202
+No. This goose is flying solo
+just as soon as we clean this money.
+
+5
+00:00:15,777 --> 00:00:18,268
+Till then I'm supposed
+to automatically trust you?
+
+6
+00:00:18,346 --> 00:00:21,042
+-Why wouldn't you?
+-You're a thief and a bank robber.
+
+7
+00:00:21,116 --> 00:00:23,482
+I'm not a bank robber, okay?
+
+8
+00:00:23,652 --> 00:00:27,247
+Look, you're going to get set up
+with a little something, all right?
+
+9
+00:00:27,322 --> 00:00:28,000
+A little something?
+
+
+0
+</pre>
+						</td>
+						<td valign="top" width="373">
+<pre>
+1
+00:00:14,039 --> 00:00:15,631
+Nice car.
+
+2
+00:00:19,177 --> 00:00:21,008
+Sweet!
+
+
+1
+00:00:07,288 --> 00:00:08,585
+Nice.
+
+2
+00:00:11,993 --> 00:00:12,100
+You little maggot!
+
+3
+00:00:12,171 --> 00:00:13,195
+This your kid?
+
+4
+00:00:13,272 --> 00:00:16,639
+Take a look at his hand.
+You'll find the valve caps to my '59 Caddy.
+
+5
+00:00:16,709 --> 00:00:18,301
+Is that true, Jesse?
+
+6
+00:00:20,079 --> 00:00:24,413
+How many times have I told you
+to stop stealing parts off people's cars!
+
+7
+00:00:25,217 --> 00:00:27,185
+Go on inside. Go!
+
+8
+00:00:28,815 --> 00:00:31,807
+Besides, that was then and this is now.
+
+9
+00:00:31,918 --> 00:00:32,371
+Yeah, and I should trust you now,
+shouldn't l?
+
+10
+00:00:32,372 --> 00:00:33,376
+No. This goose is flying solo
+just as soon as we clean this money.
+
+11
+00:00:33,951 --> 00:00:36,442
+Till then I'm supposed
+to automatically trust you?
+
+12
+00:00:36,520 --> 00:00:39,216
+-Why wouldn't you?
+-You're a thief and a bank robber.
+
+13
+00:00:39,290 --> 00:00:41,656
+I'm not a bank robber, okay?
+
+14
+00:00:41,826 --> 00:00:45,421
+Look, you're going to get set up
+with a little something, all right?
+
+15
+00:00:45,496 --> 00:00:46,174
+A little something?
+
+</pre>						 
+</td>
+					</tr>
+				</tbody></table>
+			<div class="MsoNormal" style="TEXT-ALIGN: center" align="center">
+				<hr align="center" size="2" width="100%">
+			</div>
+			<font face="Arial, Times New Roman"><b>Problem Setter: Hossein Azizpour</b></font></div>
+		<p><b><font face="Arial, Times New Roman" style="FONT-SIZE: 10pt">1st Amirkabir UT Annual 
+					Programming Contest&nbsp; Final Round</font></b></p>
+	</body>
+</html>
+
+
+
+

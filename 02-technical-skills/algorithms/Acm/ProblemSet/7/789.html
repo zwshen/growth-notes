@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Indexing</TITLE>
+<META NAME="description" CONTENT="Indexing">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Indexing</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Consider several lines of text written with capital letters and one character
+called KEY, specified on a line preceding the text. The words in the text are
+separated by spaces. The maximum word length is <IMG
+ WIDTH="40" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="789img1.gif"
+ ALT="$\le 80$">.
+There are no words splitted
+between two lines. The line length is also <IMG
+ WIDTH="40" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="789img1.gif"
+ ALT="$\le 80$">.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Write a program to display an  index of all words within the text starting
+with the KEY. The index must be alphabetically sorted. Each word appears in
+the index only once and must be followed by the numbers of all the lines in
+which it appears. Only a single occurrence of each word on a line must
+be included in the index.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+T
+CONSIDER SEVERAL LINES OF TEXT AND ONE CHARACTER CALLED KEY,
+SPECIFIED ON A LINE PRECEDING THE TEXT. THE WORDS IN THE TEXT ARE
+SEPARATED BY SINGLE SPACE. THERE ARE NO WORDS SPLITTED BETWEEN TWO
+LINES.
+WRITE A PROGRAM TO DISPLAY AN INDEX OF ALL WORDS WITHIN THE TEXT
+STARTING WITH THE KEY. THE INDEX MUST BE ALPHABETICALLY SORTED. EACH
+WORD IN THE INDEX MUST BE FOLLOWED BY THE LIST OF THE LINE NUMBERS IN
+WHICH IT APPEARS.
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+TEXT 1 2 5
+THE 2 5 6 7
+THERE 3
+TO 5
+TWO 3
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2001-01-05</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

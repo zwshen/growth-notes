@@ -1,0 +1,192 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns="http://www.w3.org/TR/REC-html40" xmlns:v = 
+"urn:schemas-microsoft-com:vml" xmlns:o = 
+"urn:schemas-microsoft-com:office:office" xmlns:w = 
+"urn:schemas-microsoft-com:office:word"><HEAD><TITLE>Problem E - Pizza Cutting</TITLE>
+<META content="text/html; charset=windows-1252" http-equiv=Content-Type>
+<META content=Word.Document name=ProgId>
+<META content="MSHTML 5.00.2920.0" name=GENERATOR>
+<META content="Microsoft Word 9" name=Originator><LINK 
+href="./B.%20Pizza_files/filelist.xml" rel=File-List><LINK 
+href="./B.%20Pizza_files/editdata.mso" rel=Edit-Time-Data><LINK 
+href="./B.%20Pizza_files/oledata.mso" rel=OLE-Object-Data><!--[if !mso]>
+<STYLE>v\:* {
+	BEHAVIOR: url(#default#VML)
+}
+o\:* {
+	BEHAVIOR: url(#default#VML)
+}
+w\:* {
+	BEHAVIOR: url(#default#VML)
+}
+.shape {
+	BEHAVIOR: url(#default#VML)
+}
+</STYLE>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Rezaul Alam Chowdhury</o:Author>
+  <o:LastAuthor>Administrator</o:LastAuthor>
+  <o:Revision>10</o:Revision>
+  <o:TotalTime>36</o:TotalTime>
+  <o:LastPrinted>2000-10-23T05:27:00Z</o:LastPrinted>
+  <o:Created>2000-10-23T05:28:00Z</o:Created>
+  <o:LastSaved>2000-10-23T05:35:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>264</o:Words>
+  <o:Characters>1510</o:Characters>
+  <o:Company>CSE, BUET</o:Company>
+  <o:Lines>12</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1854</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<STYLE>P.MsoNormal {
+	COLOR: black; FONT-FAMILY: "Times New Roman"; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; mso-bidi-font-size: 10.0pt; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoNormal {
+	COLOR: black; FONT-FAMILY: "Times New Roman"; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; mso-bidi-font-size: 10.0pt; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoNormal {
+	COLOR: black; FONT-FAMILY: "Times New Roman"; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; mso-bidi-font-size: 10.0pt; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+P.MsoBodyText {
+	FONT-FAMILY: "Times New Roman"; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; mso-bidi-font-size: 10.0pt; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoBodyText {
+	FONT-FAMILY: "Times New Roman"; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; mso-bidi-font-size: 10.0pt; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoBodyText {
+	FONT-FAMILY: "Times New Roman"; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; mso-bidi-font-size: 10.0pt; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+P.MsoBodyText2 {
+	COLOR: black; FONT-FAMILY: "Times New Roman"; FONT-SIZE: 11pt; MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify; mso-bidi-font-size: 10.0pt; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoBodyText2 {
+	COLOR: black; FONT-FAMILY: "Times New Roman"; FONT-SIZE: 11pt; MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify; mso-bidi-font-size: 10.0pt; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoBodyText2 {
+	COLOR: black; FONT-FAMILY: "Times New Roman"; FONT-SIZE: 11pt; MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify; mso-bidi-font-size: 10.0pt; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+EM {
+	mso-bidi-font-style: normal
+}
+P.Preformatted {
+	FONT-FAMILY: "Courier New"; FONT-SIZE: 10pt; LAYOUT-GRID-MODE: char; MARGIN: 0in 0in 0pt; mso-bidi-font-family: "Times New Roman"; mso-pagination: none; mso-fareast-font-family: "Times New Roman"; mso-style-name: Preformatted; tab-stops: 0in 47.95pt 95.9pt 143.85pt 191.8pt 239.75pt 287.7pt 335.65pt 383.6pt 431.55pt 479.5pt
+}
+LI.Preformatted {
+	FONT-FAMILY: "Courier New"; FONT-SIZE: 10pt; LAYOUT-GRID-MODE: char; MARGIN: 0in 0in 0pt; mso-bidi-font-family: "Times New Roman"; mso-pagination: none; mso-fareast-font-family: "Times New Roman"; mso-style-name: Preformatted; tab-stops: 0in 47.95pt 95.9pt 143.85pt 191.8pt 239.75pt 287.7pt 335.65pt 383.6pt 431.55pt 479.5pt
+}
+DIV.Preformatted {
+	FONT-FAMILY: "Courier New"; FONT-SIZE: 10pt; LAYOUT-GRID-MODE: char; MARGIN: 0in 0in 0pt; mso-bidi-font-family: "Times New Roman"; mso-pagination: none; mso-fareast-font-family: "Times New Roman"; mso-style-name: Preformatted; tab-stops: 0in 47.95pt 95.9pt 143.85pt 191.8pt 239.75pt 287.7pt 335.65pt 383.6pt 431.55pt 479.5pt
+}
+DIV.Section1 {
+	page: Section1
+}
+</STYLE>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1029"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]--></HEAD>
+<BODY lang=EN-US style="tab-interval: .5in">
+<DIV class=Section1>
+<P align=center class=MsoNormal style="TEXT-ALIGN: center"><B 
+style="mso-bidi-font-weight: normal"><font size=5>Problem 
+E</font></SPAN></B></P>
+<P align=center class=MsoNormal style="TEXT-ALIGN: center"><B 
+style="mso-bidi-font-weight: normal"><font size=6>Pizza 
+Cutting</font></SPAN></B></P>
+<p class=MsoNormal align=center style='text-align:center'><b>Input:</b></font><span style='mso-bidi-font-weight:bold'>standard input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Output: </b>standard output</p>
+
+
+
+<P class=MsoNormal style="TEXT-ALIGN: justify"><![if !supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P>
+<P class=MsoBodyText style="TEXT-ALIGN: justify"><SPAN 
+style="FONT-SIZE: 11pt; mso-bidi-font-size: 10.0pt">When someone calls Ivan 
+lazy, he claims that it is his intelligence that helps him to be so. If his 
+intelligence allows him to do something at less physical effort, why should he 
+exert more? He also claims that he always uses his brain and tries to do some 
+work at less effort; this is not his laziness, rather this is his intellectual 
+smartness.<o:p></o:p></SPAN></P>
+<P class=MsoBodyText style="TEXT-ALIGN: justify"><SPAN 
+style="FONT-SIZE: 11pt; mso-bidi-font-size: 10.0pt"><SPAN 
+style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN>Once Ivan was asked to cut a pizza into seven pieces to distribute it 
+among his friends. (Size of the pieces may not be the same. In fact, his piece 
+will be larger than the others.) He thought a bit, and came to the conclusion 
+that he can cut it into seven pieces by only three straight cuts through the 
+pizza with a pizza knife. Accordingly, he cut the pizza in the following way 
+(guess which one is Ivan's piece):<o:p></o:p></SPAN></P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="p10079.gif" >
+<P class=MsoBodyText style="TEXT-ALIGN: justify"><SPAN 
+style="FONT-SIZE: 11pt; mso-bidi-font-size: 10.0pt"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal style="TEXT-ALIGN: justify; TEXT-INDENT: 0.5in"><SPAN 
+style="FONT-SIZE: 11pt; mso-bidi-font-size: 10.0pt">One of his friends, who 
+never believed in Ivan’s smartness, was startled at this intelligence. He 
+thought, if Ivan can do it, why can’t my computer? So he tried to do a similar 
+(but not exactly as Ivan's, for Ivan will criticize him for stealing his idea) 
+job with his computer. He wrote a program that took the number of straight cuts 
+one makes through the pizza, and output a number representing the maximum number 
+of pizza pieces it will produce.<o:p></o:p></SPAN></P>
+<P class=MsoBodyText style="TEXT-ALIGN: justify; TEXT-INDENT: 0.5in"><SPAN 
+style="FONT-SIZE: 11pt; mso-bidi-font-size: 10.0pt">Your job here is to write a 
+similar program. It is ensured that Ivan’s friend won’t criticize you for doing 
+the same job he did.<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="TEXT-ALIGN: justify"><![if !supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P>
+<P class=MsoNormal style="TEXT-ALIGN: justify"><B 
+style="mso-bidi-font-weight: normal"><font size=5>Input</font></SPAN></B></P>
+<P class=MsoNormal style="TEXT-ALIGN: justify"><SPAN 
+style="FONT-SIZE: 11pt; mso-bidi-font-size: 10.0pt">The input file will contain 
+a single integer N</I> (0 <= N <= 210000000)<SPAN 
+style="mso-spacerun: yes">&nbsp; </SPAN>in each line representing the number of 
+straight line cuts one makes through the pizza. A negative number terminates the 
+input.<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="TEXT-ALIGN: justify; TEXT-INDENT: 0.5in"><![if !supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P>
+<P class=MsoNormal style="TEXT-ALIGN: justify"><B 
+style="mso-bidi-font-weight: normal"><font size=5>Output</font></SPAN></B></P>
+<P class=MsoBodyText2>Output the maximum number of pizza pieces the given number 
+of cuts can produce. Each line should contain only one output integer without 
+any leading or trailing space.</P>
+<P class=MsoNormal style="TEXT-ALIGN: justify"><B 
+style="mso-bidi-font-weight: normal"><SPAN 
+style="FONT-SIZE: 14pt; mso-bidi-font-size: 10.0pt"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></B></P>
+<P class=MsoNormal style="TEXT-ALIGN: justify"><B 
+style="mso-bidi-font-weight: normal"><font size=5>Sample Input: 
+</font></SPAN></B></P>
+<font face="Courier" size=3>
+5<br>
+10<br>
+-100<br>
+</font>
+<P class=MsoNormal style="TEXT-ALIGN: justify"><SPAN 
+style="FONT-SIZE: 14pt; mso-bidi-font-weight: bold; mso-bidi-font-size: 10.0pt"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal style="TEXT-ALIGN: justify"><B 
+style="mso-bidi-font-weight: normal"><font size=5>Sample Output:</font></SPAN></B></P>
+<font face="Courier" size=3>
+16<br>
+56<br>
+</font>
+__________________________________________________________________________________________<br>
+Rezaul Alam Chowdhury
+</HTML>

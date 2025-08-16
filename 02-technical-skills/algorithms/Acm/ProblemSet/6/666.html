@@ -1,0 +1,296 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Rating</TITLE>
+<META NAME="description" CONTENT="Rating">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Rating</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+One of the participants of both regional contests which took place in St. Petersburg decided 
+to determine overall rating for all
+teams that took part in at least one contest.
+
+<P>
+This participant assigned each team a unique team identifier, which was an integer 
+from 1 to 100 inclusively. For each contest
+team identifiers of the participating teams were written in a column according to their 
+place in that contest. Identifiers of the
+teams that had equal results were written on the same line. The participant started with 
+the team(s) that was(were) the best in
+that contest (writing them on the first line) and continued in the order of decreasing results.
+
+<P>
+
+<P>
+<BR>
+
+<U>Definition:</U> Let's say that the team has <B>place</B> <I>K</I> in the
+contest if exactly 
+<!-- MATH: $\underline{K -1}$ -->
+<IMG
+ WIDTH="51" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="666img1.gif"
+ ALT="$\underline{K -1}$">
+teams performed in that contest better.
+
+<P>
+
+<P>
+<BR>
+Consider the following examples of two contests' results:
+
+<P>
+
+<IMG
+ WIDTH="282" HEIGHT="228" ALIGN="MIDDLE" BORDER="0"
+ SRC="666img2.gif"
+ ALT="$\textstyle \parbox{.5\textwidth}{
+\begin{center}
+\begin{tabular}{rl}
+\multicolu...
+...1 4 \\
+5 & 5 \\
+6 & 15 8 \\
+8 & 31 18 \\
+10 &17
+\end{tabular}\end{center}}$">
+<IMG
+ WIDTH="277" HEIGHT="271" ALIGN="MIDDLE" BORDER="0"
+ SRC="666img3.gif"
+ ALT="$\textstyle \parbox{.49\textwidth}{
+\begin{center}
+\begin{tabular}{rl}
+\multicol...
+...
+5 & 6 \\
+6 & 9 \\
+7 & 19 \\
+8 & 4 20 \\
+10 & 21
+\end{tabular}\end{center}}$">
+
+<P>
+The overall rating for the teams which took part in both contests is defined in the following way:
+
+<P>
+<DL COMPACT>
+<DT>1)
+<DD>If some team performed better in both contests than some other team
+(or better in one contest and with the same result in the other contest) then
+the overall rating of the former team is higher than the rating of the latter
+team. 
+<P>
+<DT>2)
+<DD>If one of the teams in question performed better in one contest and
+the other team performed better in another contest then their overall rating
+depends on the difference of their <B>places</B> in both contests. So, in our
+example team 1 is better than team 5 in the first contest with a difference of
+3 <B>places</B> and worse in the second contest with a difference of only 1
+<B>place</B>, therefore the overall rating of team 1 is higher than team 5's
+one. If the difference of the <B>places</B> is the same for both contests then
+that teams have the equal overall ratings. The latter is also true for the
+teams that performed equally in both contests. 
+</DL>
+
+<P>
+In our example only teams 1, 4,
+5, and 9 participated twice. Team 1 has the highest rating, teams 5 and 9 with
+the equal rating follow, and team 4 has the lowest rating. 
+
+<P>
+
+<P>
+<BR>
+For the teams that
+participated in one contest only the overall rating and their position in the
+resulting list cannot be always determined. They are included in the overall
+list (where the teams which participated twice already placed according to the
+rules above) if one of the following takes place: 
+
+<P>
+<DL COMPACT>
+<DT>A)
+<DD>If there is a team that
+participated in both contests and shared the place in one of the contests with
+the team in question then the latter team shares the overall rating with this
+team too (if there is more than one such team, then they all should have the
+same overall rating, otherwise the overall rating of the team in question
+cannot be determined). 
+<P>
+<DT>B)
+<DD>If there is a <EM>position</EM> in the overall list (either
+at the beginning of the list, at the end of the list, or between some lines),
+such that before this position only the teams are located which performed
+better in the same contest as the team in question and after this position
+only the teams are located which performed worse in the same contest as the
+team in question, then the team in question occupies this position in the
+overall list. If more than one team claim to have the same position in the
+overall list, then their mutual order is defined by their <B>places</B> in their
+contests (look at the example below for details).  
+</DL>
+
+<P>
+In our example: 
+
+<P>
+
+<DIV ALIGN="CENTER">
+<TABLE CELLPADDING=3>
+<TR><TD ALIGN="RIGHT">Teams that
+participated in both contests</TD>
+<TD ALIGN="LEFT">Teams that participated in one contest only</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">3</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">1</TD>
+<TD ALIGN="LEFT">10</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">9 5</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">19</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">4</TD>
+<TD ALIGN="LEFT">20</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">15 8</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">31 18</TD>
+</TR>
+<TR><TD ALIGN="RIGHT">&nbsp;</TD>
+<TD ALIGN="LEFT">17 21</TD>
+</TR>
+</TABLE></DIV>
+
+<P>
+<UL>
+<LI>Team 3 will occupy the first
+place in the overall list (rule B).
+<LI>The positions of teams 6 and 7 cannot be
+determined.
+<LI>Team 10 will share the overall rating with team 1 (rule A).
+<LI>Team 20 will share the overall rating with team 4 (rule A).
+<LI>Team 19 will
+occupy the position between teams 9, 5 and team 4 (rule B).
+<LI>Teams 8, 15, 17,
+18, 21, and 31 will finish the overall list (rule B). But the first of them
+will be teams 15 and 8 (that took 6th <B>place</B>) followed by teams 31 and 18
+(that took 8th <B>place</B>) and teams 17 and 21 (that took 10th <B>place</B>).
+</UL>
+
+<P>
+Your task is to write a program that will create the overall rating list using
+the result tables of two contests and the given rules.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input is an integer M, then a blank line followed by M datasets. There is a blank line between datasets.
+
+Each dataset contains a description of the two contests, which are separated by an empty line. Each description starts with a
+line containing the single integer <I>N</I> (
+<!-- MATH: $1 \le N \le 100$ -->
+<IMG
+ WIDTH="102" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="666img5.gif"
+ ALT="$1 \le N \le 100$">)
+that
+indicates how many lines of the contest result table follow. Each line of the
+contest result table consists of one or more team identifiers separated by
+spaces. 
+
+<P>
+
+<P>
+<BR>
+Every team identifier occurs at most once in the description of each
+contest.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each dataset, write one or more lines with the team identifiers (separated by spaces) that represent the overall rating list.
+The order of the teams that share the same rating (thus written on the same line) is unimportant. The teams for which the
+overall rating is not determined should be absent in the output file.
+Print a blank line between datasets.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+
+6
+9
+7 1 4
+5
+15 8
+31 18
+17
+
+8
+3
+5
+1 10
+6
+9
+19
+4 20
+21
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+3
+1 10
+5 9
+19
+4 20
+15 8
+31 18
+17 21
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-05-22</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,80 @@
+<HTML>
+<HEAD>
+<TITLE>UP ACM Programming Contest (2003) / Round 1: Problem C</TITLE>
+</HEAD>
+
+<BODY bgcolor="white">
+
+<font color="#0000FF">
+<H1>Problem C</H1>
+
+<H1 align="center">Password Search</H1>
+</font>
+
+<P align="justify">
+Being able to send encoded messages during World War II was very
+important to the Allies. The messages were always 
+sent after being encoded with a known password. Having a fixed
+password was of course insecure, thus there was a need to change it
+frequently. However, a mechanism was necessary to send the new
+password. One of the mathematicians working in the cryptographic team
+had a clever idea that was to send the password hidden within the
+message itself. The interesting point was that the receiver of the
+message only had to know the size of the password and then search for
+the password within the received text. 
+
+<P align="justify">
+A password with size N can be
+found by searching the text for the most frequent substring with N
+characters. After finding the password, all the substrings that
+coincide with the password are removed from the encoded text. Now, the
+password can be used to decode the message. 
+
+<FONT color="#0000FF"><H2>Problem</H2></FONT>
+Your mission has been
+simplified as you are only requested to write a program that, given
+the size of the password and the encoded message, determines the
+password following the strategy given above. 
+
+<P align="justify">
+To illustrate your task,
+consider the following example in which the password size is three
+(N=3) and the text message is just <tt>baababacb</tt>. The password would
+then be <tt>aba</tt> because this is the substring with size 3 that appears
+most often in the whole text (it appears twice) while the other six
+different substrings appear only once (<tt>baa</tt> ; <tt>aab</tt> ;
+<tt>bab</tt> ; <tt>bac</tt> ; <tt>acb</tt>). 
+
+<FONT color="#0000FF"><H2>Input</H2></FONT>
+
+<P align="justify">
+The input file contains several test cases, each of them consists of one line with the size of the
+password, 0 < N &le; 10, followed by the text representing the
+encoded message. To simplify things, you can assume that the text only
+includes lower case letters. 
+
+<FONT color="#0000FF"><H2>Output</H2></FONT>
+
+<P align="justify">
+For each test case, your program should print as output a line with the password string. 
+
+
+<FONT color="#0000FF"><H2>Sample Input</H2></FONT>
+
+<PRE>
+3 baababacb
+</PRE>
+
+<FONT color="#0000FF"><H2>Sample Output</H2></FONT>
+
+<PRE>
+aba  
+</PRE>
+
+<BR><HR>
+<ADDRESS>
+Ricardo Lopes, CPUP'2003 Round 1<br>
+University of Porto local Contest
+</ADDRESS>
+</BODY>
+</HTML>

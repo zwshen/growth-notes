@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Combinations</TITLE>
+<META NAME="description" CONTENT="Combinations">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Combinations</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Computing the exact number of ways that <I>N</I> things can be taken <I>M</I> at a
+time can be a great challenge when <I>N</I> and/or <I>M</I> become very large.  Challenges
+are the stuff of contests.  Therefore, you are to make just such a
+computation given the following:
+<P>
+<P>
+<P>
+<B>GIVEN:</B>
+<P> <IMG WIDTH=481 HEIGHT=16 ALIGN=BOTTOM ALT="displaymath41" SRC="369img1.gif"  > <P>
+<P>
+Compute the <B>EXACT</B> value of:
+<P>
+<P> <IMG WIDTH=329 HEIGHT=41 ALIGN=BOTTOM ALT="displaymath43" SRC="369img2.gif"  > <P>
+<P>
+You may assume that the final value of <I>C</I> will fit in a 32-bit Pascal LongInt
+or a C long.
+<P>
+<P>
+For the record, the exact value of 100! is:
+<P>
+<PRE>     93,326,215,443,944,152,681,699,238,856,266,700,490,715,968,264,381,621,
+        468,592,963,895,217,599,993,229,915,608,941,463,976,156,518,286,253,
+        697,920,827,223,758,251,185,210,916,864,000,000,000,000,000,000,000,000</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+     The input to this program will be one or more lines each containing zero
+or more leading spaces, a value for <I>N</I>, one or more spaces, and a value for <I>M</I>. The last line of the input file will contain a dummy <I>N</I>, <I>M</I> pair with both values equal to zero.  Your program should terminate when this line is read.
+<P>
+<P>
+The output from this program should be in the form:
+<P>
+<P>
+<P>
+<I>N</I> <TT>things taken</TT> <I>M</I> <TT>at a time is</TT> <I>C</I> <TT>exactly.</TT>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>     100  6
+      20  5
+      18  6
+       0  0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>100 things taken 6 at a time is 1192052400 exactly.
+20 things taken 5 at a time is 15504 exactly.
+18 things taken 6 at a time is 18564 exactly.
+<P>
+</BODY>
+</HTML>

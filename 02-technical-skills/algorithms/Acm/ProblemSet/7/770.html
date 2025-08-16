@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Puncher</TITLE>
+<META NAME="description" CONTENT="Puncher">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Puncher</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Puncher is a device with several needles for making holes in tickets. At the factory there is a
+rectangular form with <I>M</I> rows and <I>N</I> columns, as shown in the picture (<I>M</I>=3, <I>N</I>=4), to make
+different punchers with 
+<!-- MATH: $1, 2, \dots, M \times N$ -->
+<IMG
+ WIDTH="124" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="770img1.gif"
+ ALT="$1, 2, \dots, M \times N$">
+needles. The rows and columns
+of needles are perpendicular to each other. The distance between rows is equal
+to the distance between columns. Obviously, it is possible to make
+
+<!-- MATH: $2^{M \times N}-1$ -->
+<IMG
+ WIDTH="81" HEIGHT="38" ALIGN="MIDDLE" BORDER="0"
+ SRC="770img2.gif"
+ ALT="$2^{M \times N}-1$">
+different punchers in this way.
+
+<P>
+
+<P>
+<BR>
+
+<DIV ALIGN="CENTER">
+
+p770.eps
+</DIV>
+
+<P>
+
+<P>
+<BR>
+However, sometimes it is not possible to distinguish tickets that are perforated by different
+punchers. Let us assume that while punching two opposite borders of the ticket are parallel to the
+rows of the needles, the other pair of opposite borders being parallel to the columns of the needles.
+The number of the holes in a perforated ticket is always equal to the number of the needles in the
+corresponding puncher. A composition of the following transformations is allowed:
+
+<P>
+<UL>
+<LI>a ticket may be perforated on any side (axial symmetry),
+<LI>it may be inserted into the puncher with any of its four borders downwards (rotation by 90,
+180 and 270 degrees),
+<LI>parallel translations are also available.
+</UL>
+
+<P>
+Your task is to write a program to determine how many actually different punchers can be made
+with an 
+<!-- MATH: $M \times N$ -->
+<IMG
+ WIDTH="61" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="770img4.gif"
+ ALT="$M \times N$">
+form. Two punchers are considered actually different, if
+it is impossible to match using any combination of the above described
+operations the holes in the two tickets perforated by these punchers.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file consists of two positive integer numbers <I>M</I> (not greater than 4) and <I>N</I> (not greater
+than 8) separated by a single space.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The output file consists of a single integer indicating the number of the actually different punchers.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3 3
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+85
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-12-30</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

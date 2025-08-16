@@ -1,0 +1,140 @@
+
+<!--Converted with LaTeX2HTML 2008 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Add bricks in the wall</TITLE>
+<META NAME="description" CONTENT="Add bricks in the wall">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Add bricks in the wall</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+This in not ``<EM>another brick in the wall</EM>", it's just a matter of adding numbers. Suppose you have a wall with the shape of a triangle, like the one shown below. The wall has 9 rows and row <SPAN CLASS="MATH"><I>i</I></SPAN> has exactly <SPAN CLASS="MATH"><I>i</I></SPAN> bricks, considering that 
+top row is the first one and bottom row is the ninth. Some bricks are labeled with a number and
+other ones are blank. Notice that labeled bricks appear only on odd rows and
+they occupy odd positions within the row. The problem you must solve is finding a suitable number for each blank
+brick taking into account one simple rule: the number of a brick is obtained by
+adding the numbers of the two bricks below it. Obviously, this rule does not apply to the ninth row.
+Numbers are supposed to be integers.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p11040.eps}$
+ -->
+<IMG
+ WIDTH="759" HEIGHT="465" ALIGN="BOTTOM" BORDER="0"
+ SRC="p11040.png"
+ ALT="\epsfbox{p11040.eps}">
+</DIV>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of the input contains an integer <SPAN CLASS="MATH"><I>N</I></SPAN>, indicating the number of test cases.
+This line is followed by the lines corresponding to the test cases. 
+ Each test case is  described in five lines. These five lines correspond
+ to odd rows of the wall, from top to bottom, as described above. Line <SPAN CLASS="MATH"><I>i</I></SPAN> contains the
+numbers corresponding to odd bricks on row <SPAN CLASS="MATH"><I>i</I></SPAN> of the wall (that is, non blank bricks), 
+enumerated from left to right and
+separated with a single space. It is supposed that each test case is correct,
+that is, there exists a solution to the problem that the case describes. 
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case, the output should consist of nine lines describing the
+numbers of all bricks of the wall. So, line <SPAN CLASS="MATH"><I>i</I></SPAN> should contain the
+numbers corresponding to the <SPAN CLASS="MATH"><I>i</I></SPAN> bricks on row <SPAN CLASS="MATH"><I>i</I></SPAN> of the wall, enumerated from left to right and
+separated by a single space.  
+
+<P>
+
+<P><P>
+<BR>
+
+<B>Note:</B> Here we have an example with two test cases. The first one corresponds to the wall depicted above.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE> 
+2
+255
+54 67
+10 18 13
+3 3 5 2
+2 1 2 1 1
+256
+64 64
+16 16 16
+4 4 4 4
+1 1 1 1 1
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE> 
+255
+121 134
+54 67 67
+23 31 36 31
+10 13 18 18 13
+5 5 8 10 8 5
+3 2 3 5 5 3 2 
+2 1 1 2 3 2 1 1
+2 0 1 0 2 1 1 0 1
+256
+128 128
+64 64 64
+32 32 32 32
+16 16 16 16 16
+8 8 8 8 8 8
+4 4 4 4 4 4 4
+2 2 2 2 2 2 2 2
+1 1 1 1 1 1 1 1 1
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

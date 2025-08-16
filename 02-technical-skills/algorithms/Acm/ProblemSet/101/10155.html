@@ -1,0 +1,190 @@
+<HTML>
+<HEAD>
+	<TITLE>Problem G: Green Eggs and Ham</TITLE>
+</HEAD>
+<BODY>
+<H2>Problem G: Green Eggs and Ham</H2>
+
+<EM>
+But, while he was shouting, he saw with surprise <BR>
+That the moon of the evening was starting to rise <BR>
+Up over his head in the darkening skies.
+</EM>
+
+
+<H3>The Problem</H3>
+<P>
+
+From the top of his tower of turtles, King Yertle sees the moon rising.
+As everyone knows, the moon is made of green cheese and the best cheese
+in the world is produced in France.
+France has also produced many great mathematicians including Descartes,
+Laplace and Fermat.
+Fermat's famous last theorem states that the equation
+<PRE>
+  x^n+y^n=z^n
+</PRE>
+has no non-zero integer solutions for <TT>x</TT>, <TT>y</TT> and <TT>z</TT>
+when <TT>n</TT> > 2.
+For readability, this equation might be better rendered
+<PRE>
+   n    n    n
+  x  + y  = z
+</PRE>
+
+</P><P>
+
+While it would be easy to render this equation and other mathematical
+expressions graphically using TeX or LaTeX, sometimes we want to include
+the expressions in text.
+Providing the TeX or LaTeX source for rendering the math is one possibility,
+but it isn't always easy to read, especially for low-TeX people.
+
+</P><P>
+
+Handling all possible expressions would render this question intractable,
+but unary minus (<TT>-</TT>) and the binary operators for addition
+(<TT>+</TT>), subtraction (<TT>-</TT>), multiplication (<TT>*</TT>),
+division (<TT>/</TT>), exponentiation (<TT>^</TT>) and equality (<TT>=</TT>)
+are sufficient for most math work.
+Remember that <TT>^</TT> associates right to left while all of the other
+binary operators associate left to right.
+
+</P><P>
+
+The order of precedence for the operations is
+<OL>
+<LI>unary <TT>-  </TT> <EM>(highest)</EM>
+<LI><TT>^</TT>
+<LI><TT>*</TT> and <TT>/</TT>
+<LI><TT>+</TT> and <TT>-</TT>
+<LI><TT>=</TT>
+</OL>
+The grouping operators <TT>()</TT> (explicit) and <TT>{}</TT> (implicit)
+serve to usurp the usual order of operations.
+
+</P><P>
+
+Input will consist of expressions using the above operators, real
+numbers (12, 1.2, .35, etc.) and single-letter variables.
+All expressions will be syntactically valid; each expression will appear on a
+line by itself.
+The format for a real number is a string of one or more decimal digits with
+an optional decimal point occurring at any position.
+Support for exponents is not required.
+
+</P><P>
+
+Output will be complicated.
+The sample output will be useful for understanding the output specification.
+
+</P><P>
+
+Each partial expression fills a rectangular box and has a logical
+vertical centre (LVC). This rectangular box must be completely filled, even if it contains blank spaces.
+Operators glue text characters and boxes together in various ways.
+Simple numbers and variables occupy boxes with the same width as their string
+representation naturally requires (four characters wide for 44.4, for example)
+and are one character high.
+Since they are only one character high, their LVC is on the line containing
+their text.
+
+</P><P>
+
+The unary minus operator followed by an expression <VAR>E</VAR> is one
+character wider than <VAR>E</VAR>.
+The LVC will be the same as for <VAR>E</VAR> and the character `-' will appear
+to the left of <VAR>E</VAR> at the LVC.
+
+</P><P>
+
+The binary operators other than <TT>/</TT> and <TT>^</TT> join two expressions
+<VAR>E<SUB>1</SUB></VAR> and <VAR>E<SUB>2</SUB></VAR>, with the result
+separating the two expressions by three characters positions.
+The character for the operator will appear as the middle character at the LVCs
+of the two expressions.
+This specifies their vertical alignment and the new LVC.
+
+</P><P>
+
+The binary operator <TT>/</TT> joins two expressions <VAR>E<SUB>1</SUB></VAR>
+and <VAR>E<SUB>2</SUB></VAR>.
+The result will be a vertical arrangement of <VAR>E<SUB>1</SUB></VAR>, a line
+of hyphens (<TT>-</TT>) and <VAR>E<SUB>2</SUB></VAR>.
+The line will be as wide as the widest of the two expressions.
+The skinnier one should be centered horizontally; if it can't be centered
+exactly it should be placed one space to the right.
+The line forms the LVC of the result.
+
+</P><P>
+
+The binary operator <TT>^</TT> joins two expressions, a base and an
+exponent.
+The result will be the exponent positioned above and to the right of the base
+with no extra space added.
+The result's LVC will be in line with the base's LVC.
+
+</P><P>
+
+The implicit grouping operator <TT>{}</TT> does not change the
+rendering or LVC of the expression that it surrounds.
+The explicit one (<TT>()</TT>) is rendered by adding a column of <TT>(</TT>s to
+the left of the grouped expression and another column of <TT>)</TT>s on the
+right.
+The resulting LVC will be halfway down; if this cannot be done exactly then the
+LVC should be placed slightly further downwards.
+
+</P><P>
+
+There should be a blank line between each expression that is printed.
+<BR>
+<BR>
+<BR>
+<BR>
+
+</P>
+
+<H3>Sample Input</H3>
+<PRE>
+x^n+y^n=z^n
+1/{1+1/{1+1/{1+x}}}
+123/1/12
+123/{-1/12}
+a^b^c+4/(1+x/{1-x})^{x-y}
+</PRE>
+<H3>Sample Output</H3>
+<PRE>
+ n    n    n
+x  + y  = z 
+
+      1      
+-------------
+        1    
+1 + ---------
+          1  
+    1 + -----
+        1 + x
+
+123
+---
+ 1 
+---
+ 12
+
+123
+---
+ -1
+ --
+ 12
+
+  c                   
+ b            4       
+a   + ----------------
+                 x - y
+      (      x  )     
+      (1 + -----)     
+      (    1 - x)     
+</PRE>
+
+</BODY>
+</HTML>

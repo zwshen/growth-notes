@@ -1,0 +1,88 @@
+<html>
+<head>
+    <title>Code Refactoring</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem B</B></FONT><BR>
+<FONT SIZE="5"><B>Code Refactoring</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 2 seconds</FONT>
+</CENTER>
+</P>
+
+<p align="right">
+<table border=0><tr><td><small>
+<i>"Harry, my dream is a code waiting to be<br>
+broken. Break the code, solve the crime."</i>
+</td></tr></table>
+<tt>Agent Cooper</tt>
+</small></p>
+
+<P CLASS="paragraph">
+Several algorithms in modern cryptography are based on the fact
+that factoring large numbers is difficult. Alicia and Bobby know
+this, so they have decided to design their own encryption scheme 
+based on factoring. Their algorithm depends on a secret code, 
+<b>K</b>, that Alicia sends to Bobby before sending him an encrypted 
+message. After listening carefully to Alicia's description, Yvette says, 
+"But if I can intercept <b>K</b> and factor it into two positive 
+integers, <b>A</b> and <b>B</b>, I would  break your encryption scheme! 
+And the <b>K</b> values you use are at most 10,000,000. Hey, this is 
+so easy; I can even factor it twice, into two different pairs of 
+integers!"
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The first line of input gives the number of cases, <b>N</b> (at
+most 25000). <b>N</b> test cases follow. Each one contains the code, 
+<b>K</b>, on a line by itself.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+For each test case, output one line containing 
+"Case #<b>x</b>: <b>K</b> = <b>A</b> * <b>B</b> = <b>C</b> * <b>D</b>", 
+where <b>A</b>, <b>B</b>, <b>C</b> and <b>D</b> are different positive
+integers larger than 1. A solution will always exist.
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+3
+120
+210
+10000000
+</PRE>
+</TD>
+<TD>
+<PRE>
+Case #1: 120 = 12 * 10 = 6 * 20
+Case #2: 210 = 7 * 30 = 70 * 3
+Case #3: 10000000 = 10 * 1000000 = 100 * 100000
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+<HR>
+<B>Problemsetter: Igor Naverniouk</B>
+</P>
+
+</td></tr></table>
+</body>
+</html>

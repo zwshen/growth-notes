@@ -1,0 +1,152 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Balancing Bank Accounts</TITLE>
+<META NAME="description" CONTENT="Balancing Bank Accounts">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Balancing Bank Accounts</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Once upon a time there was a large team coming home from the ACM World Finals. The fifteen
+travellers were confronted with a big problem:
+
+<P>
+
+<P>
+<BR>
+In the previous weeks, there had been many money transactions between them: Sometimes
+somebody paid the entrance fees of a theme park for the others, somebody else paid the hotel room,
+another one the rental car, and so on.
+
+<P>
+So now the big calculation started. Some people had paid more than others, thus the individual bank
+accounts had to be balanced again. "Who has to pay whom how much?", that was the question.
+
+<P>
+As such a calculation is a lot of work, we need a program now that will solve this problem next
+year.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file will contain one or more test cases.
+
+<P>
+Each test case starts with a line containing two integers: the number of travellers <I>n</I> (
+<!-- MATH: $2 \le n \le 20$ -->
+<IMG
+ WIDTH="88" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="538img1.gif"
+ ALT="$2 \le n \le 20$">)
+and the number of transactions <I>t</I> (
+<!-- MATH: $1 \le t \le 1000$ -->
+<IMG
+ WIDTH="101" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="538img2.gif"
+ ALT="$1 \le t \le 1000$">). On the next <I>n</I> lines the names of the travellers are
+given, one per line. The names only consist of alphabetic characters and contain no whitespace. On
+the following <I>t</I> lines, the transactions are given in the format 
+<!-- MATH: $name_1 name_2 amount$ -->
+<I>name</I><SUB>1</SUB> <I>name</I><SUB>2</SUB> <I>amount</I> where <I>name</I><SUB>1</SUB> is
+the person who gave <I>amount</I> dollars to <I>name</I><SUB>2</SUB> . The amount will always be a non-negative integer
+less than 10000.
+
+<P>
+Input will be terminated by two values of 0 for <I>n</I> and <I>t</I>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each test case, first print a line saying ``<TT>Case #</TT><I>i</I>" where <I>i</I> is the number of the test case.
+
+<P>
+Then, on the following lines, print a list of transactions that reverses the transactions given in the
+input, i.e. balances the accounts again. Use the same format as in the input. Print a blank line after
+each test case, even after the last one.
+
+<P>
+
+<P>
+<BR>
+Additional restrictions:
+
+<P>
+<UL>
+<LI>Your solution must consist of <B>at most </B><I>n</I>-1<B> transactions</B>.
+<LI>Amounts may not be negative, i.e. never output ``<TT>A B -20</TT>", output 
+``<TT>B A 20</TT>" instead.
+</UL>
+
+<P>
+If there is more than one solution satisfying these restrictions, anyone is fine.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2 1
+Donald
+Dagobert
+Donald Dagobert 15
+4 4
+John
+Mary
+Cindy
+Arnold
+John Mary 100
+John Cindy 200
+Cindy Mary 40
+Cindy Arnold 150
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+Case #1
+Dagobert Donald 15
+
+Case #2
+Mary John 140
+Cindy John 10
+Arnold John 150
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-01-11</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

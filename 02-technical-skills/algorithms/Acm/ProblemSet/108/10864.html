@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+<title>Problem I: The Predator</title>
+<style type="text/css">
+<!--
+.inout       { font-family: Courier, "Courier New", monospace; font-size: 12pt;  }
+.cbfont      { font-size: 13pt; font-family: "Times New Roman",serif; text-align: center }
+.psetter     { font-family: Tahoma,sans-serif; font-size: 10pt; font-weight: bold }
+.jbfont    	 { font-family: "Times New Roman",serif; font-size: 13pt; text-align:justify }
+.bigfont     { font-family: "Times New Roman", serif; font-size: 18pt; font-weight: bold }
+.cname 		 { font-family: Arial, sans-serif; font-size: 16pt; font-weight: bold;
+					text-align:center; line-height:100%;   }
+.pno         { font-family: Arial, sans-serif; font-size: 14pt; font-weight: bold; text-align:center }
+.pname       { font-family: Arial, sans-serif; font-size: 24pt; vertical-align: baseline; font-weight: bold; text-align:center }
+-->
+</style>
+</head>
+
+<body>
+
+<table border="2" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="20%" rowspan="3">
+				<p class="cbfont">Input: Standard In<br>
+				Output: Standard Out</td>
+				<!--contest name-->
+				<td width="60%" bgcolor="#C0C0C0" class="cname">Next Generation
+				Contest 1&nbsp;</td>
+				<td width="20%" rowspan="3">
+				<p class="cbfont"><b>Time Limit: 1 second</b></td>
+			</tr>
+			<tr>
+				<!--problem no-->
+				<td width="60%" bgcolor="#C0C0C0" class="pno">Problem I</td>
+			</tr>
+			<tr>
+				<!--problem name-->
+				<td width="60%" bgcolor="#C0C0C0" class="pname">The Predator&nbsp;</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<p class="jbfont">There is a very large square room of size 10000 X 10000. In
+this room there are several square shaped compartments. Each compartment has a
+maximum area of 10000 square units. The compartments are situated in random
+positions with the walls parallel to the walls of the room. Some of the
+compartments overlap each other. Every compartment is strictly inside the room (
+ie. There are no walls that are common to both the room and the compartments).<br>
+There is a predator somewhere in the room. The predator can not walk through the
+walls of the compartment or the room. You have to find out the area that could
+be reached by the predator.<br>
+The room could be modeled as a square grid of size 10000 X 10000.<br>
+<br>
+<img border="0" src="p10864.png" alt="part of the room" width="270" height="214"><br>
+<br>
+The figure shows a part of the room. We can define each compartment by 3
+integers. It will be in the order <b>(r, c, s)</b>. Where <b>r</b> and <b>c</b>
+indicates the upper left corner of the square and <b>s</b> determines its size.
+Note that the sides of the square passes through the grid lines. So in the
+figure above, the red square has the format (2, 2, 3), the blue square has the
+format (6, 3, 4) and the green square has the format (4, 6, 3).<br>
+&nbsp;</p>
+<p class="bigfont">Input</p>
+<p class="jbfont">There will be multiple test cases. Each case starts with an
+integer <b>C ( C&lt;=4 )</b> that determines the number of compartments in the
+room. The next <b>C</b> lines will contain three integers each that will give
+the location of the compartments in the format <b>(r, c, s)</b>. The next line
+will contain an integer <b>Q ( Q&lt;= 5 )</b>. Each of the next <b>Q</b> lines will
+contain two integers <b>pr pc</b> that will give the location of the predator.<br>
+<b>Note:</b> pr is the row and pc is the column of the predator’s position in
+the grid. The ‘+’ sign on the grid has (pr, pc) value of (3, 2).<br>
+&nbsp;</p>
+<p class="bigfont">Output</p>
+<p class="jbfont">For each test case, output the case number. Then for each
+query, output an integer that will give the area that the predator can cover.
+<br>
+Look at the sample for exact format.</p>
+<p class="bigfont">Sample Input</p>
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td class="inout">3<br>
+		2 2 3<br>
+		6 3 4<br>
+		4 6 3<br>
+		3<br>
+		3 2<br>
+		6 6<br>
+		10000 10000<br>
+		1<br>
+		5 5 10<br>
+		1<br>
+		5 5</td>
+	</tr>
+</table>
+<p class="bigfont">Sample Output</p>
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td class="inout">Case 1:<br>
+		9<br>
+		1<br>
+		99999967<br>
+		Case 2:<br>
+		100</td>
+	</tr>
+</table>
+<hr>
+<p class="psetter">Problem Setter: Sohel Hafiz</p>
+
+</body>
+
+</html>

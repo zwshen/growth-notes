@@ -1,0 +1,92 @@
+<HTML>
+<HEAD>
+<TITLE>MIUP'2003: Problem C</TITLE>
+</HEAD>
+
+<BODY bgcolor="white">
+
+<font color="#0000FF">
+<H1>Problem C</H1>
+
+<H1 align="center">Winterim Backpacking Trip</H1>
+</font>
+
+<P align="justify">
+<p align="justify"><img src="p907.jpg" align="right" width="500" height="270"><font
+color="#000000">
+This Winter we are going on a trip along the Appalachian Trail. The
+trail is a continuous marked footpath that goes from Katahdin in Maine
+to Springer Mountain in Georgia, a distance of about 2160 miles.  Even
+though our trip will only consider some part of the trail, it will be our
+first real backpacking experience and an excellent opportunity to
+acquire winter camping skills.
+
+<P align="justify"> Part of the experience is also the route planning
+of the trip. We have a list of all possible campsites that we can use
+along the way and we want to do this trip so that we only stop
+<i>K</i> nights to camp. We also know in advance the distance between
+consecutive campsites and we are only allowed to camp at a
+campsite. Our goal is to plan the trip so that we minimise the maximum
+amount of walking done in a single day. In other words, if our trip
+involves 2 nights (3 days of walking), and we walk 9, 10, 5 miles on
+each day respectively, the cost (maximum amount of walking done in one
+day) is 10. Another schedule that involves walking 9, 6, 9 miles on
+each day has cost 9.
+
+
+
+
+
+<FONT color="#0000FF"><H2>Problem</H2></FONT>
+<P align="justify"> 
+
+Given the distances between <i>N</i> consecutive campsites of a trail
+and given the number of nights for your trip, <i>K</i>, your task is
+to devise a camping strategy for the specified trail such that it
+minimises the maximum amount of walking done in a single day. Note
+that the first distance value given is the distance from our
+start-point of the trail to our 1st campsite, and the last distance
+value given is the distance from our <i>N</i>th campsite to our
+end-point of the trail.
+
+<FONT color="#0000FF"><H2>Input</H2></FONT>
+
+<P align="justify">
+The input file contains several test cases, each of them    as describes below.
+<br>
+The first line of input consists of two numbers, the number
+of campsites (<i>0 < N <= 600</i>) and the number of nights of
+the trip (<i>0 <= K <= 300</i>). The following <i>N+1</i>
+input lines indicate the distance in miles between consecutive
+campsite locations. 
+
+<FONT color="#0000FF"><H2>Output</H2></FONT>
+For each test case, on a line by itself,
+your program must output the maximum amount of walking in a single day for the
+route that minimises such value.
+
+<FONT color="#0000FF"><H2>Sample Input</H2></FONT>
+
+<PRE>
+4 3
+7
+2
+6
+4
+5
+</PRE>
+
+<FONT color="#0000FF"><H2>Sample Output</H2></FONT>
+
+<PRE>
+8
+</PRE>
+
+<HR>
+<i>
+Fernando Silva, MIUP'2003<br>
+(Portuguese National ACM Programming Contest)
+</i>
+
+</BODY>
+</HTML>

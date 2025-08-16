@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>HTML Syntax Checking</TITLE>
+<META NAME="description" CONTENT="HTML Syntax Checking">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">HTML Syntax Checking</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+This problem requires you to write a program to syntactically validate
+some simple text written  using HTML, the HyperText Markup Language in
+which all documents available on the World  Wide Web are written. We'll
+not consider the semantics, or meaning, of these documents, and will 
+only consider simplified syntactical rules.  In these documents you'll
+find ordinary text (with arbitrary line lengths) interspersed with
+markup  tags.  The markup tags we consider will always occur in pairs. 
+An example will illustrate this  point:
+<P>
+<PRE>     This is some ordinary text. &lt;ATAG&gt;  Here's some additional
+     text. &lt;BOLD&gt;  This will be boldface. &lt;/BOLD&gt;  Still more 
+     &lt;/ATAG&gt;</PRE>
+<P>
+There are two pair of markup tags in the example. The
+meaning of <TT>ATAG</TT> and <TT>BOLD</TT> is  unimportant to us in this problem, but
+typically a markup tag requests particular treatment of the  text to
+which it applies.  The markup tags are easily identified because they
+always appear in angle  brackets (that is, a less than symbol and a
+greater than symbol).  The tags we'll consider will  always be written
+as a sequence of no more than 10 upper-case alphabetic characters.  The
+end of  the document region affected by the tag is indicated by a tag
+with the same name preceded by a  forward slash, `<TT>/</TT>'  As illustrated,
+the tagged regions may encompass more than one line of text.   Also as
+shown in the example, the HTML tags must nest properly, just like
+<TT>BEGIN...END</TT> pairs in  Pascal, or `<TT>{</TT>' and `<TT>}</TT>' in C/C++.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input will consist of a number of test cases.  Each will begin with
+a separate line containing an  integer specifying the number of lines of
+text in the test case, <I>NL</I>.  <I>NL</I> will never exceed 32767.   The end of
+input is marked by a value of zero (0) for <I>NL</I>.
+<P>
+<P>
+Following the
+line specifying <I>NL</I> in each test case there will be <I>NL</I> lines of text
+which are to be  checked for syntactic conformance.  Remember that there
+is no maximum line length limit.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each test case,
+output the test case number (they are numbered sequentially starting
+with 1).   If the text is in conformance with the rules specified above,
+then output the word ``<TT>OK</TT>&quot;.  If the  text is erroneous, then output one
+of the following messages for the first error only:
+<P>
+<PRE>line #: bad character in tag name
+line #: too many/few characters in tag name 
+line #: expected &lt;/xxxxxxxxxx&gt; 
+line #: no matching begin tag.</PRE>
+<P>
+The `<TT>#</TT>' in these messages is to
+be replaced by the line number of the test case when the offending  tag
+was detected.  Examples of when these messages are displayed are found
+in the example input  and expected output immediately following.
+<P>
+<P>
+If an error is detected, after producing the appropriate error
+message your program must skip any  remaining lines in the erroneous
+test case to reach the beginning of the next test case.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>6 
+This is some ordinary text. 
+&lt;BEGIN&gt; This is included in the BEGIN tag &lt;/BEGIN&gt;  
+        &lt;START&gt;    Here's some stuff 
+and so is this 
+ 
+     more stuff. &lt;/START&gt; 
+2 
+   This has a null tag &lt;&gt; 
+   And an extra line after the error 
+5 
+   This has some good stuff &lt;OKAY&gt; and some bad stuff later on. 
+   &lt;GOOD&gt; All is still okay, but later on we'll have an error. 
+   &lt;/GOOD&gt; We're still in the pink! &lt;THISISTOOLONG&gt; 
+   This line will be skipped.  
+   As will this one. 
+1 
+   This is an interesting error: &lt;ERROR 
+2 
+   This one is okay                               &lt;IN&gt; &lt;/IN&gt;
+
+1
+   Mismatch &lt;START&gt; &lt;/STOP&gt; 
+1 
+    Missing start symbol:   &lt;OK&gt;&lt;/OK&gt;&lt;/NOTOK&gt;   more garbage... 
+1
+&lt;ELEVENChars&gt;Both too long and invalid letter&lt;/ELEVENChars&gt;
+1
+&lt;ELEVENCHARs&gt;Both too long and invalid letter&lt;/ELEVENCHARs&gt;
+1
+&lt;ELEVENCHARS!&gt;Both too long and invalid letter&lt;/ELEVENCHARS!&gt;
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>Test Case 1
+OK
+Test Case 2
+line 1: too many/few characters in tag name.
+Test Case 3
+line 3: too many/few characters in tag name.
+Test Case 4
+line 1: bad character in tag name.
+Test Case 5
+OK
+Test Case 6
+line 1: expected &lt;/START&gt;
+Test Case 7
+line 1: no matching begin tag.
+Test Case 8
+line 1: bad character in tag name.
+Test Case 9
+line 1: bad character in tag name.
+Test Case 10
+line 1: too many/few characters in tag name.
+</PRE>
+<P>
+</BODY>
+</HTML>

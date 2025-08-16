@@ -1,0 +1,167 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=GB2312">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./p3.files/filelist.xml">
+<title>Number Game</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>庞小鸣</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>庞小鸣</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>31</o:TotalTime>
+  <o:Created>2001-07-22T09:52:00Z</o:Created>
+  <o:LastSaved>2001-07-22T09:52:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>126</o:Words>
+  <o:Characters>720</o:Characters>
+  <o:Lines>6</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>884</o:CharactersWithSpaces>
+  <o:Version>9.2812</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:PunctuationKerning/>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+ /* Page Definitions */
+@page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+
+<div class=Section1 style='layout-grid:15.6pt'>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Problem D.Number Game</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Background</A></FONT></H2>
+<P>
+
+<p class=MsoNormal><span lang=EN-US><span style="mso-spacerun: yes">&nbsp;
+</span>Let’s play a number game. I will give you 2N-1(N=2^k,
+k=1,2,3,4,5,6,7,8,9,10) numbers, each number is a positive integer not bigger
+than 1000. Can you choose N of them, and add them all to <span
+style="mso-spacerun: yes">&nbsp;&nbsp;</span>a integer S, to make that S/N is a
+integer? If there are many solutions, you can only find one of them.</span></p>
+
+<p class=MsoNormal><span lang=EN-US><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Input</A></FONT></H2>
+<P>
+
+<p class=MsoNormal><span lang=EN-US><span style="mso-spacerun: yes">&nbsp;
+</span>The input file contains several scenarios. Each of them consists of 2 lines.</span></p>
+
+<p class=MsoNormal><span lang=EN-US><span style="mso-spacerun: yes">&nbsp;
+</span>For each scenario, the first line is a number N, the second line consist
+of 2N-1 numbers. There is a space between two numbers.</span></p>
+
+<p class=MsoNormal><span lang=EN-US><span style="mso-spacerun: yes">&nbsp;
+</span>The file will be ended with N=0.</span></p>
+
+<p class=MsoNormal><span lang=EN-US><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+
+<p class=MsoNormal><span lang=EN-US><span style="mso-spacerun: yes">&nbsp;
+</span>For each scenario, print a single line ‘No’ if you can’t find an answer.
+Otherwise print a line ‘Yes’, and then the other line containing N numbers (in
+any order), there should be a space between two numbers.</span></p>
+
+<p class=MsoNormal><span lang=EN-US><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Input</A></FONT></H2>
+<P>
+<p class=MsoNormal><span lang=EN-US>2</span></p>
+
+<p class=MsoNormal><span lang=EN-US>1 2 3</span></p>
+
+<p class=MsoNormal><span lang=EN-US>4</span></p>
+
+<p class=MsoNormal><span lang=EN-US>1 2 3 4 5 6 7</span></p>
+
+<p class=MsoNormal><span lang=EN-US>0</span></p>
+
+<p class=MsoNormal><span lang=EN-US><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Output</A></FONT></H2>
+<P>
+<p class=MsoNormal><span lang=EN-US>Yes</span></p>
+
+<p class=MsoNormal><span lang=EN-US>1 3</span></p>
+
+<p class=MsoNormal><span lang=EN-US>Yes</span></p>
+
+<p class=MsoNormal><span lang=EN-US>1 3 5 7</span></p>
+
+</div>
+
+</body>
+
+</html>

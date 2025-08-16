@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>Problem B - Chemical Attraction</title>
+</head>
+
+<body>
+<center><h2>Problem B</h2><h1>Chemical Attraction</h1></center>
+<p>One type of chemical compounds is the so called ionic compound, because it is composed of positively charged ions (cations) and negatively charged ions (anions) in such a way that the compound as a whole is electrically neutral. In this problem we will simplify matters by letting all cations have a charge of +1 and all anions have a charge of -1, so that we only will consider compounds consisting of one cation and one anion.
+<p>We say that a cation is attracted to an anion to form a compound. This attraction has a certain strength: a cation will be more attracted to an anion of one type then to an anion of another, different type. This attraction can be asymmetric: a type of cation can be strongly attracted to a particular anion type, but that anion can be only weakly attracted to that cation type, and vise versa (It's like real life: Alice can be heavily in love with Bob, while Bob hardly notices her...). The strength of attraction is also unique: given a cation and two different anion types, it is always possible to determine which of the two anion types the cation is most attracted to; and also: given an anion and two different cation types, it is always possible to determine which of the two cation types the anion is most attracted to.
+<p>Given Nc types of cations and Na types of anions, we define two matrices.<br>
+The <i>cation attraction matrix</i> has Nc rows and Na columns. Each row is formed by a permutation of the numbers 1 to Na, which represent the relative attraction from a cation to an anion from weak(1) to strong(Na). That is: the relative attraction from a cation of type i to an anion of type j can be found in the matrix at row i, column j.<br>
+The <i>anion attraction matrix</i> has Na rows and Nc columns and represents the reverse relative attraction: the entry at row i, column j represents the relative attraction from an anion of type i to a cation of type j. Each row is a permutation of the numbers 1 to Nc.
+<p>Two or more compounds form a mixture. Based on the relative attractions, we can determine the stability of the mixture. For a mixture of two compounds we have:
+<ul>
+<li>If the two compounds are the same, the mixture is stable.
+<li>If either the cation types or the anion types of the two compounds are the same, the mixture is stable.
+<li>If both the cation and anion types are different, the mixture is <b>not</b> stable if the cation from one compound is more attracted to the anion in the other compound then to the anion in the same compound and, simultaniously, the anion in the other compound is more attracted to the cation in the first compound then to the cation it's currently paired with. Otherwise the mixture is stable.
+</ul>
+A mixture of more then two compounds is stable if all possible pairings of two compounds within the mixture are stable. It is not stable if there is at least one combination of two compounds within the mixture that is unstable.<br>
+If we have a mixture of several, not necessarily distinct, compounds, that is unstable, we can stabelise this mixture by breaking up some compounds into their cations and anions and combine these into new compounds, until the mixture is stable. It can be proven that such a stable mixture can always be formed from any unstable mixture, although the composition of the resulting stable mixture is not necessarily unique.
+<p>For this problem we will work with hypothetical cation and anion types. Both will be denoted by a two-letter symbol, consisting of a capital and a lowercase letter. A compound will be denoted by the four-letter concatenation of the symbols of the cation and anion types, in that order. A symbol that is used for a cation type can't be also used for an anion type.
+<h1>Input</h1>
+The input will consist of several scenarios, with several mixtures per scenario.<br>
+Every scenario starts with the number of cation types on a line by itself (max. 100). Then follow one or more lines containing the symbols of the cation types, separated by spaces. The following line contains the number of anion types (max. 100) and the next line(s) the symbols of the anion types in the same way. The cation attraction matrix and the anion attraction matrix, in that order, are given next in row major order. The order of the rows and columns is the same as the order in which the symbols are listed.<br>
+Per mixture within a scenario, the number of compounds within that mixture is given on a line by itself. Then follow the compounds in one or more lines, separated by spaces. There is a maximum of 100 compounds per mixture.<br>
+The list of mixtures is ended by the number 0 for the number of compounds; this mixture should not be processed.<br>
+The input is terminated by the number 0 for the number of cations; this scenario should not be processed.
+<h1>Output</h1>
+For every mixture in the input a line "Scenario X, Mixture Y:", where X is the scenario number (starting from 1), and Y the the mixture number (starting from 1 within each scenario).<br>
+Then list the compounds of a stable mixture, possibly formed by rearranging the cation/anion pairings in the input mixture. Compounds may be listed in several lines, in any order; compounds on a line should be separated by at least one space.<br>
+Print a blank line after the output of every mixture.<br>
+If more then one stable mixture is possible, output any one of them.
+<h1>Sample Input</h1>
+<pre>
+3
+Ba Sr Th
+3
+Cl Br Fl
+1 2 3
+1 3 2
+2 1 3
+2 1 3
+1 3 2
+1 2 3
+3
+BaFl SrBr ThCl
+5
+BaFl BaFl SrFl SrCl ThFl
+0
+3
+Na Ag Fe
+5
+Su Zi Xe Ar Do
+1 2 4 3 5
+5 3 1 2 4
+2 3 1 4 5
+3 2 1
+3 2 1
+1 3 2
+1 2 3
+2 1 3
+10
+NaDo AgDo AgAr FeXe NaXe
+AgZi AgZi NaSu AgSu FeDo
+0
+0
+</pre>
+<h1>Sample Output</h1>
+<pre>
+Scenario 1, Mixture 1:
+BaCl SrBr ThFl
+
+Scenario 1, Mixture 2:
+BaFl BaCl SrFl SrFl ThFl
+
+Scenario 2, Mixture 1:
+NaDo AgSu AgSu FeDo NaXe AgZi AgZi NaXe AgAr FeDo
+
+</pre>
+<hr>
+Problem Setter: Joachim Wulff<br>
+Special Thanks: Derek Kisman
+</body>
+</html>

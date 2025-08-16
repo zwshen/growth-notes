@@ -1,0 +1,54 @@
+<html>
+<h2>Problem A: Unique Snowflakes</h2>
+
+Emily the entrepreneur has a cool business idea: packaging and selling
+snowflakes. She has devised a machine that captures snowflakes as they
+fall, and serializes them into a stream of snowflakes that flow, one by
+one, into a package. Once the package is full, it is closed and
+shipped to be sold.
+<p>
+The marketing motto for the company is "bags of uniqueness."
+To live up to the motto, every snowflake in a package
+must be different from the others. Unfortunately, this is
+easier said than done, because in reality, many of the snowflakes
+flowing through the machine are identical. Emily would like to
+know the size of the largest possible package of unique snowflakes
+that can be created. The machine can start filling the package
+at any time, but once it starts, all snowflakes flowing from
+the machine must go into the package until the package is completed
+and sealed. The package can be completed and sealed before all of
+the snowflakes have flowed out of the machine.
+<h3>Input Specification</h3>
+The first line of input contains one integer specifying the number of
+test cases to follow. Each test case begins with a line containing
+an integer <i>n</i>, the number of snowflakes processed by the machine.
+The following <i>n</i> lines each contain an integer (in the range
+0 to 10^9, inclusive) uniquely identifying
+a snowflake. Two snowflakes are identified by the same integer if
+and only if they are identical.
+The input will contain no more than one million total snowflakes.
+
+<h3>Sample Input</h3>
+
+<pre>
+1
+5
+1
+2
+3
+2
+1
+</pre>
+
+<h3>Output Specification</h3>
+For each test case output a line containing single integer, the maximum
+number of unique snowflakes that can be in a package.
+
+<h3>Output for Sample Input</h3>
+
+<pre>
+3
+</pre>
+<hr>
+<i>Ond&#345;ej Lhot&aacute;k, Richard Peng</i>
+</html>

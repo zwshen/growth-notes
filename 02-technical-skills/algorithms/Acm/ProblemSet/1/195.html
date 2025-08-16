@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Anagram</TITLE>
+<META NAME="description" CONTENT="Anagram">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Anagram</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+You are to write a program that has to generate all possible words from
+a given set of letters.
+<P>
+<P>
+<P>
+<B>Example:</B>
+Given the word &quot;<TT>abc</TT>&quot;, your program should - by exploring all different
+combination of the three letters - output the words &quot;<TT>abc</TT>&quot;, &quot;<TT>acb</TT>&quot;,
+&quot;<TT>bac</TT>&quot;, &quot;<TT>bca</TT>&quot;, &quot;<TT>cab</TT>&quot; and &quot;<TT>cba</TT>&quot;.
+<P>
+<P>
+In the word taken from the input file, some letters may appear more than
+once. For a given word, your program should not produce the same word more
+than once, and the words should be output in alphabetically ascending order.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input file consists of several words. The first line contains a number
+giving the number of words to follow. Each following line contains one word.
+A word consists of uppercase or lowercase letters from A to Z. Uppercase
+and lowercase letters are to be considered different.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each word in the input file, the output file should contain all different
+words that can be generated with the letters of the given word. The words
+generated from the same input word should be output in alphabetically ascending
+order. An upper case letter goes before the corresponding lower case letter.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>3
+aAb
+abc
+acba</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>
+Aab
+Aba
+aAb
+abA
+bAa
+baA
+abc
+acb
+bac
+bca
+cab
+cba
+aabc
+aacb
+abac
+abca
+acab
+acba
+baac
+baca
+bcaa
+caab
+caba
+cbaa</PRE>
+<P>
+</BODY>
+</HTML>

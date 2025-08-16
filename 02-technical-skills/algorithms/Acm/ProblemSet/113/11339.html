@@ -1,0 +1,237 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Sonnet Rhyme Verifier</TITLE>
+<META NAME="description" CONTENT="Sonnet Rhyme Verifier">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+G: Sonnet Rhyme Verifier</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+According to Wikipedia 
+<BLOCKQUOTE>
+The term <I>sonnet</I> derives from the Provencal word <I>sonet</I> and the Italian word
+<I>sonetto</I>, both meaning ``little song''. By the thirteenth century, it had
+come to signify a poem of fourteen lines that follows a strict rhyme scheme
+and logical structure. The conventions associated with the sonnet have evolved
+over its history. The writers of sonnets are known as <I>sonneteers</I>.
+
+</BLOCKQUOTE>
+
+<P>
+Written in Spanish, sonnets have a well defined structure over the rhymes.
+Moreover, these days sonneteers are scarce as good weather and the rules
+governing the rhymes are rather permissive. Let us consider the following
+poem:
+
+<P>
+<PRE>
+  ES ELLA
+  Locura, intensa y sin medida
+  andando errante te avisté,
+  una nota en tus manos encontré:  
+  rumor de un amor y su partida.
+  Adelante, te diré de su vida
+  aunque en mi regazo ya no esté,
+  fueron sus labios con que tropecé
+  los que te llamaron despavorida.
+  Ojos negros, pestañas en un ramo,
+  rizos finos, humor, siempre bella;
+  ¡es ella, amiga, a quien amo!
+  Zagales de secretos sus estrellas,
+  cómplices la lluvia y el álamo;
+  ... es ella, nuestra musa, ¡es ella!
+</PRE>
+
+<P>
+This poem must be consider as sonnet because it meets the following rules:
+
+<OL>
+<LI>It has 14 lines.
+</LI>
+<LI>Its rhymes have the structure <!-- MATH
+ $ABBAABBACDCDCD$
+ -->
+<SPAN CLASS="MATH"><I>ABBAABBACDCDCD</I></SPAN>
+<tex2html_verbatim_mark>, where <SPAN CLASS="MATH"><I>A</I></SPAN>
+<tex2html_verbatim_mark>, <SPAN CLASS="MATH"><I>B</I></SPAN>
+<tex2html_verbatim_mark>, <SPAN CLASS="MATH"><I>C</I></SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH"><I>D</I></SPAN>
+<tex2html_verbatim_mark>
+correspond to the suffixes <TT>ida</TT>, <TT>é</TT>, <TT>amo</TT>, and <TT>ella</TT> of the given line. In general, we are
+to allow any rhyme structure as long as it follows one of the patterns <!-- MATH
+ $ABBAABBACDECDE$
+ -->
+<SPAN CLASS="MATH"><I>ABBAABBACDECDE</I></SPAN>
+<tex2html_verbatim_mark>, <!-- MATH
+ $ABBAABBACDEDCE$
+ -->
+<SPAN CLASS="MATH"><I>ABBAABBACDEDCE</I></SPAN>
+<tex2html_verbatim_mark>
+or <!-- MATH
+ $ABBAABBACDCDCD$
+ -->
+<SPAN CLASS="MATH"><I>ABBAABBACDCDCD</I></SPAN>
+<tex2html_verbatim_mark>.
+</LI>
+<LI>It has hendecasyllable meter. 
+</LI>
+</OL>
+
+<P>
+Today you are to help the local Spanish School of Sonneteers (SSS) writing a
+program that verifies if a given composition sticks to the first two rules of
+a Spanish sonnet. The last rule is to be checked by the SSS's master sonneteer once
+the given poem passes the tests exercised by the verifier you are about to
+code.  
+
+<P>
+
+<P>
+<BR>
+
+<P>
+For the purpose of your work, two lines rhyme if, after <I>cleaning</I> them,
+they have the same suffix. Given a line in the sonnet, its clean version is the result of deleting blanks, punctuation symbols (<TT>¡</TT>, <TT>!</TT>, <TT>,</TT>, <TT>.</TT>, <TT>:</TT>, <TT>;</TT>, <TT>¿</TT>, <TT>?</TT>, <TT>-</TT>) and the last <SPAN CLASS="MATH"><I>s</I></SPAN>
+<tex2html_verbatim_mark> (if there is one) from the end of the original line. 
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input consists of several instances of the problem, each one occurring
+separated by a new line. Each instance consists of <SPAN CLASS="MATH"><I>n</I> &gt; 2</SPAN>
+<tex2html_verbatim_mark> lines: the first one consists of a list of <SPAN CLASS="MATH"><I>s</I></SPAN>
+<tex2html_verbatim_mark> suffixes (<!-- MATH
+ $4 \leq s \leq 5$
+ -->
+<SPAN CLASS="MATH">4 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11339img1.png"
+ ALT="$ \leq$"> <I>s</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11339img1.png"
+ ALT="$ \leq$"> 5</SPAN>
+<tex2html_verbatim_mark>), separated by a blank character. The suffixes are to be called <SPAN CLASS="MATH"><I>A</I></SPAN>
+<tex2html_verbatim_mark>, <SPAN CLASS="MATH"><I>B</I></SPAN>
+<tex2html_verbatim_mark>,
+<SPAN CLASS="MATH"><I>C</I></SPAN>
+<tex2html_verbatim_mark>, <SPAN CLASS="MATH"><I>D</I></SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH"><I>E</I></SPAN>
+<tex2html_verbatim_mark> according to the order in which they occur and the total number of
+them. The second line contains the title of the composition. The following
+<SPAN CLASS="MATH"><I>n</I> - 2</SPAN>
+<tex2html_verbatim_mark> lines contain the actual lines of the composition. Each line in the sonnet has at most <SPAN CLASS="MATH">80</SPAN>
+<tex2html_verbatim_mark> characters. You can safely
+assume that, in a case, a given suffix is not suffix of another one.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each problem instance, and according to the order of the input, your
+program should print a sentence of the form 
+
+<P>
+<TT><SPAN CLASS="MATH">&lt; <I>NAME</I> &gt;</SPAN>
+<tex2html_verbatim_mark>: <!-- MATH
+ $<STRUCTURE>$
+ -->
+<SPAN CLASS="MATH">&lt; <I>STRUCTURE</I> &gt;</SPAN>
+<tex2html_verbatim_mark></TT>
+
+<P>
+if
+the given composition adheres to the first two rules of a spanish sonnet or
+
+<P>
+<TT><SPAN CLASS="MATH">&lt; <I>NAME</I> &gt;</SPAN>
+<tex2html_verbatim_mark>: Not a chance!</TT> 
+
+<P>
+in other case, where <SPAN CLASS="MATH">&lt; <I>NAME</I> &gt;</SPAN>
+<tex2html_verbatim_mark> is to be
+replaced by the name of the composition and <!-- MATH
+ $<STRUCTURE>$
+ -->
+<SPAN CLASS="MATH">&lt; <I>STRUCTURE</I> &gt;</SPAN>
+<tex2html_verbatim_mark> corresponds
+to the structure of the rhyme, and is given by the order in which the suffixes
+occur.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+ida é amo ella
+ES ELLA
+Locura, intensa y sin medida
+andando errante te avisté,
+una nota en tus manos encontré:  
+rumor de un amor y su partida.
+Adelante, te diré de su vida
+aunque en mi regazo ya no esté,
+fueron sus labios con que tropecé
+los que te llamaron despavorida.
+Ojos negros, pestañas en un ramo,
+rizos finos, humor, siempre bella;
+¡es ella, amiga, a quien amo!
+Zagales de secretos sus estrellas,
+cómplices la lluvia y el álamo;
+... es ella, nuestra musa, ¡es ella!
+
+ura ima illa eto 
+OTrO 
+Esta composición posiblemente rima
+pero nunca será un soneto
+con esta frase ya no sirve
+ni tampoco porque está incompleto.
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+ES ELLA: ABBAABBACDCDCD
+OTrO: Not a chance!
+</PRE>
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

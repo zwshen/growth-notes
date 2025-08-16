@@ -1,0 +1,627 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./g_files/filelist.xml">
+<link rel=Edit-Time-Data href="./g_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem G - Doves and Bombs</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>66</o:Revision>
+  <o:TotalTime>1028</o:TotalTime>
+  <o:LastPrinted>2002-12-27T12:00:00Z</o:LastPrinted>
+  <o:Created>2004-05-15T23:46:00Z</o:Created>
+  <o:LastSaved>2004-10-29T02:58:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>580</o:Words>
+  <o:Characters>3309</o:Characters>
+  <o:Company>CSE, BUET</o:Company>
+  <o:Lines>27</o:Lines>
+  <o:Paragraphs>6</o:Paragraphs>
+  <o:CharactersWithSpaces>4063</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+span.SPELLE
+	{mso-spl-e:yes;}
+span.GRAME
+	{mso-gram-e:yes;}
+ /* Font Definitions */
+@font-face
+	{font-family:Courier;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:modern;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	color:black;}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	tab-stops:143.25pt;
+	font-size:18.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+h3
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:14.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	color:windowtext;
+	mso-font-kerning:14.0pt;
+	mso-fareast-language:ZH-CN;
+	font-weight:normal;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:16.0pt;
+	mso-bidi-font-size:18.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:SimSun;
+	color:black;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+h6
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	font-size:16.0pt;
+	mso-bidi-font-size:18.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:SimSun;
+	color:black;
+	mso-fareast-language:ZH-CN;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	color:windowtext;
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	color:black;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	color:windowtext;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:24.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	color:black;
+	font-weight:bold;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	color:black;
+	mso-bidi-font-weight:bold;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	color:black;}
+a:link, span.MsoHyperlink
+	{color:#6633CC;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+em
+	{mso-bidi-font-style:normal;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	color:black;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";
+	color:windowtext;}
+tt
+	{mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+p.Preformatted, li.Preformatted, div.Preformatted
+	{mso-style-name:Preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:0in 47.95pt 95.9pt 143.85pt 191.8pt 239.75pt 287.7pt 335.65pt 383.6pt 431.55pt 479.5pt;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:SimSun;
+	mso-bidi-font-family:"Times New Roman";
+	color:windowtext;}
+p.IOSample, li.IOSample, div.IOSample
+	{mso-style-name:IOSample;
+	mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	font-size:10.0pt;
+	font-family:Courier;
+	mso-fareast-font-family:SimSun;
+	mso-bidi-font-family:"Times New Roman";
+	color:windowtext;
+	mso-fareast-language:ZH-CN;}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:.8in .8in .8in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:71465061;
+	mso-list-template-ids:-1630137148;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:1791123213;
+	mso-list-template-ids:-2018370496;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1030">
+  <o:colormru v:ext="edit" colors="#602000"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]--><o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags" name="PlaceName"/><o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags" name="PlaceType"/><o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags" name="place"/><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">  </w:LatentStyles>
+</xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#6633cc" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<h1 align=center style='text-align:center;tab-stops:4.0in'><b><span
+style='font-size:28.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;font-style:
+normal'>Problem G</span></b><b><span style='font-size:28.0pt;mso-bidi-font-size:
+10.0pt;font-family:Arial;mso-fareast-language:ZH-CN;font-style:normal'><o:p></o:p></span></b></h1>
+
+<h1 align=center style='text-align:center'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:20.0pt;mso-bidi-font-size:18.0pt;font-family:Arial;font-style:
+normal'>Doves and Bombs<o:p></o:p></span></b></h1>
+
+<h3><b><span style='font-size:12.0pt;mso-bidi-font-size:14.0pt'>Input:</span></b><span
+style='font-size:12.0pt;mso-bidi-font-size:14.0pt'> Standard Input<o:p></o:p></span></h3>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:Arial;mso-fareast-language:ZH-CN'>Output:</span></b><span
+style='font-family:Arial;mso-fareast-language:ZH-CN'> Standard Output</span><span
+style='font-family:Arial;mso-bidi-font-weight:bold'> <o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Time Limit: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>2 Seconds<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:Arial;
+mso-bidi-font-weight:bold'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t75" style='position:absolute;
+ left:0;text-align:left;margin-left:270.45pt;margin-top:5.75pt;width:224.55pt;
+ height:177.45pt;z-index:1'>
+ <v:imagedata src="p10765.jpg" o:title=""/>
+ <w:wrap type="square" anchorx="page"/>
+</v:shape><![endif]--><![if !vml]><img width=299 height=236
+src="p10765.jpg" align=left hspace=12 v:shapes="_x0000_s1026"><![endif]><span
+style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
+color:windowtext'>It is the year 95 ACM (After the Crash of Microsoft). After
+many years of peace, a war has broken out. Your nation, the <st1:place w:st="on"><st1:PlaceType w:st="on">island</st1:PlaceType>
+of <st1:PlaceName w:st="on">Evergreen Macros And Confusing Shortcuts</st1:PlaceName></st1:place>
+(EMACS), is defending itself against the railway empire ruled by Visually
+Impaired Machinists (VIM). <o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+"Times New Roman";color:windowtext'>In the days leading up to the outbreak of
+war, your government devoted a great deal of resources toward gathering
+intelligence on VIM. It discovered the following: <o:p></o:p></span></p>
+
+<ul type=disc>
+ <li class=MsoNormal style='color:windowtext;mso-margin-top-alt:auto;
+     mso-margin-bottom-alt:auto;text-align:justify;mso-list:l0 level1 lfo3;
+     tab-stops:list .5in'><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+     "Times New Roman"'>The empire has a large network of railway stations
+     connected by bidirectional tracks. <o:p></o:p></span></li>
+ <li class=MsoNormal style='color:windowtext;mso-margin-top-alt:auto;
+     mso-margin-bottom-alt:auto;text-align:justify;mso-list:l0 level1 lfo3;
+     tab-stops:list .5in'><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+     "Times New Roman"'>Before the outbreak of the war, each railway station
+     was directly connected to at most 10 other stations. <o:p></o:p></span></li>
+ <li class=MsoNormal style='color:windowtext;mso-margin-top-alt:auto;
+     mso-margin-bottom-alt:auto;text-align:justify;mso-list:l0 level1 lfo3;
+     tab-stops:list .5in'><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+     "Times New Roman"'>Information is constantly being exchanged in VIM, but,
+     due to a design flaw, the only way it can be exchanged is to send the
+     messages by train. Before the outbreak of the war, it was possible to send
+     a message by train from any station to any other station. <o:p></o:p></span></li>
+ <li class=MsoNormal style='color:windowtext;mso-margin-top-alt:auto;
+     mso-margin-bottom-alt:auto;text-align:justify;mso-list:l0 level1 lfo3;
+     tab-stops:list .5in'><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+     "Times New Roman"'>As a last resort, the empire's central command can send
+     messages by carrier pigeon, but it tries to avoid this at all costs, as
+     the only pigeons suitable for the job must be imported, at great expense,
+     from the far-away <st1:place w:st="on"><st1:PlaceType w:st="on">land</st1:PlaceType>
+     of <st1:PlaceName w:st="on">Pigeons In Courier Outfits</st1:PlaceName></st1:place>
+     (PICO). <o:p></o:p></span></li>
+ <li class=MsoNormal style='color:windowtext;mso-margin-top-alt:auto;
+     mso-margin-bottom-alt:auto;text-align:justify;mso-list:l0 level1 lfo3;
+     tab-stops:list .5in'><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+     "Times New Roman"'>Once a pigeon has delivered a message to a railway
+     station, it must rest, and thus cannot be used again. If a pigeon has
+     delivered a broadcast message to a particular station, the message is
+     passed on, if possible, by train. <o:p></o:p></span></li>
+</ul>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+"Times New Roman";color:windowtext'>Based on this information, the government
+of EMACS has come up with a plan to disrupt the activities of the evil empire.
+They will send bomber planes to bomb the railway stations, thus hampering
+communications in the empire. This will necessitate to acquire many carrier
+pigeons by the empire, distracting it from its deadly wartime activities. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><span style='mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+"Times New Roman";color:windowtext'>Unfortunately, your government spent so
+much money on gathering intelligence that it has a very limited amount left to
+build bombs. As a result, it can bomb only one target. You have been charged
+with the task of determining the best candidate railway stations in the empire
+to bomb, based on their &quot;pigeon value&quot;. The &quot;pigeon value&quot;
+of a station is the minimum number of pigeons that after bombing this station,
+will be required to broadcast a message from the empire central command to all
+non-bombed stations. The location of the empire central command is unknown but
+we know that it is not located at a railway station. This implies, that when
+the central command needs to send a message to some non-bombed station they have
+to use at least one pigeon and then the message can be further transmitted by
+the railway. <o:p></o:p></span></p>
+
+<h4>Input<span style='mso-bidi-font-size:10.0pt'><o:p></o:p></span></h4>
+
+<p style='text-align:justify'>The input file contains several test cases. The
+data for each case begins with a line containing the following two integers: </p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l1 level1 lfo6;tab-stops:list .5in'><em>n</em>
+     the number of railway stations in the empire (3&nbsp;<span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman"'>&#8804;</span>&nbsp;<em>n</em>&nbsp;<span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman"'>&#8804;</span>&nbsp;10000).
+     The stations will be numbered starting from 0, up to <em> n-1&nbsp;</em>.
+     </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l1 level1 lfo6;tab-stops:list .5in'><em>m</em>
+     the number of stations to be identified as candidate bombing targets
+     (1&nbsp;<span style='font-family:SimSun;mso-ascii-font-family:"Times New Roman"'>&#8804;</span>&nbsp;<em>m</em>&nbsp;<span
+     style='font-family:SimSun;mso-ascii-font-family:"Times New Roman"'>&#8804;</span>&nbsp;<em>n</em>).
+     </li>
+</ul>
+
+<p style='text-align:justify'>Next few lines consists of pairs of integers.
+Each pair (<em>x</em>,<em>y</em>) indicates the presence of a bidirectional
+railway line connecting railway stations <em>x</em> and <em>y</em>. <span
+style="mso-spacerun: yes"> </span>This sequence is terminated by a line
+containing two minus 1 as shown in the sample input.</p>
+
+<p style='text-align:justify'>Input is terminated by a case where the value of
+n=m=0. This case should not be processed.</p>
+
+<h4>Output</h4>
+
+<!--pre style='text-align:justify;mso-layout-grid-align:none;text-autospace:none'--><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman";
+mso-fareast-font-family:SimSun;color:black'>For each case of input the output should give <i>m</i> most desirable railway stations to bomb. There should be exactly <i>m</i> lines, each with two integers separated by a single space. The first integer on each line will be the number of a railway station, and the second will be the &quot;pigeon value&quot; of the station. This list should be sorted, first by &quot;pigeon value&quot;, in descending order, and within the same &quot;pigeon value&quot; by railway station numbers, in ascending order. Print a blank line after the output for each set of input.<o:p></o:p></span><!--/pre--><pre
+style='mso-layout-grid-align:none;text-autospace:none'><span style='mso-fareast-font-family:
+SimSun'>&nbsp;<o:p></o:p></span></pre>
+
+<h1 align=left style='text-align:left;tab-stops:.5in'><b><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;font-style:
+normal'>Sample Input<span style="mso-spacerun:
+yes">                             </span>Output for Sample Input<o:p></o:p></span></b></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=307 valign=top style='width:3.2in;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:"Times New Roman";color:windowtext'>8 4<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:"Times New Roman";color:windowtext'>0 4<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:"Times New Roman";color:windowtext'>1 2<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:"Times New Roman";color:windowtext'>2 3<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:"Times New Roman";color:windowtext'>2 4<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:"Times New Roman";color:windowtext'>3 5<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:"Times New Roman";color:windowtext'>3 6<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:"Times New Roman";color:windowtext'>3 7<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:"Times New Roman";color:windowtext'>6 7<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";mso-fareast-language:ZH-CN'>-1 -1<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";mso-fareast-language:ZH-CN'>0 0<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";mso-fareast-language:ZH-CN'>&nbsp;<o:p></o:p></span></b></p>
+  </td>
+  <td width=309 valign=top style='width:231.85pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:"Times New Roman";color:windowtext'>2 3<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:"Times New Roman";color:windowtext'>3 3<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:"Times New Roman";color:windowtext'>4 2<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:"Times New Roman";color:windowtext'>0 1<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";color:windowtext;
+  mso-fareast-language:ZH-CN'>&nbsp;<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:.5in'><span
+lang=EN style='mso-ansi-language:EN'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+
+<p class=MsoNormal style='tab-stops:.5in'><b><span style='font-family:Arial'>Problemsetter:
+</span></b><b><span style='font-family:Arial;mso-fareast-font-family:"Times New Roman";
+color:windowtext'>Paul Shelly<o:p></o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>

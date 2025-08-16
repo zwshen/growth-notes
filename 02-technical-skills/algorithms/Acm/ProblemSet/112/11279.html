@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>Problem B: Keyboard Comparison</title>
+</head>
+<body>
+
+<center>
+<h1>Problem B</h1>
+<h1>KEYBOARD COMPARISON</h1>
+</center>
+
+<p>After spending several weeks typing using the right-handed Dvorak keyboard layout,
+the coach (introduced in the previous problem) started to wonder if it really is
+ any better. He decided to devise a method to verify this.</p>
+ 
+<p>The coach would like to compare typing on the right-handed Dvorak keyboard against
+using a QWERTY keyboard with two hands and with one hand.
+A crude, but effective way to compare keyboard layouts is to measure the total
+distance the typing fingers must travel in order to type a certain passage of text.
+Can you write a program to help the coach perform this experiment?</p>
+
+<p>The distance travelled by a finger will be measured from the centre
+of its home key to the centre of the target key and back.
+In order to simplify the computations, we pretend that every key is a perfect square
+with unit length sides, and that all keys are laid out on a perfect grid
+(even though in reality they are usually staggered).
+The diagrams below show the straightened keyboards; see the previous problem for
+shift-modified diagrams.</p>
+
+<p align=center><img src=p11279.png></p>
+
+<p align=center><em>The QWERTY and right!handed Dvorak keyboard layouts arranged on perfect grids.</em></p>
+
+<p>On the QWERTY keyboard, the home keys are "ASDFJKL;" for two hands and "FGHJ"
+for one hand. On the Dvorak keyboard, the home keys are "EHTD".
+A key is always struck by the finger from the nearest home key.</p>
+
+<p>For example, the distances for 'S' would be 0, 4, and 2 for the two-hand QWERTY, 
+one-hand QWERTY, and Dvorak keyboards, respectively. 
+Likewise, the distances for 'C' would be 2, 2.828427..., and 2, respectively.</p>
+
+<p>Given a line of text, your task is to compute the total distance travelled
+by the typing fingers in typing that text, first using the QWERTY keyboard
+with two hands, then with one hand, and finally using the right-handed Dvorak keyboard.
+You can neglect any distance travelled in typing spaces or shifting.</p>
+
+<h2>Input</h2>
+<p>The input file consists of several lines of text. Each line contains no more than 1000
+alpha-numeric characters, spaces, and punctuation found on the keyboard.</p>
+
+<h2>Output</h2>
+<p>For each line of input, your program should write a line containing three real
+numbers accurate to 2 decimal places,
+representing the total distances travelled by the typing fingers. 
+The first number corresponds to using the QWERTY layout with two hands,
+the second to one-handed QWERTY, and the third to right-handed Dvorak.</p>
+
+<h2>Sample Input</h2>
+<pre>
+CCPC
+Which keyboard is better?
+Numbers! 1234567890
+</pre>
+
+<h2>Output for the Sample Input</h2>
+<pre>
+8.00 14.81 10.47
+40.14 60.24 39.43
+58.60 74.72 92.52
+</pre>
+
+<hr>
+<i>Sonny Chan</i><br>
+<i>Calgary Collegiate Programming Contest 2006</i><br />
+</body>
+</html>

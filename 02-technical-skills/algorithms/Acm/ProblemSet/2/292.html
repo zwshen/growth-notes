@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Presentation Error</TITLE>
+<META NAME="description" CONTENT="Presentation Error">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Presentation Error</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+One of the main burdens of the Jury of the Scholastic Programming Contest is not to
+decide whether a submitted program is incorrect, but how to classify the error. In the past,
+we had <TT>'Failed Testcase', 'Wrong Answer', 'Wrong Output Format'</TT>
+and <TT>'Too much/Too Little Output'</TT> to worry about.
+<P>
+<P>
+The interpretation of these messages depended largely on the jury member involved. For
+instance, while some believe that <TT>'Wrong Answer'</TT> indicates that all
+answers are wrong, and
+<TT>'Failed Testcase'</TT> applies when at least one answer is right,
+others feel that <TT>'Wrong Answer'</TT>
+should be used if more than one answer is wrong, and <TT>'Failed Testcase'</TT>
+only if exactly one test went wrong.
+<P>
+<P>
+Fortunately, all these worries are gone, since now we only need to distinguish between
+<TT>'Wrong Answer', 'Presentation Error'</TT> and <TT>'Accepted'</TT> (all other
+messages are the result of
+compilation errors, run-time errors, and non-terminating programs).
+<P>
+<P>
+To eliminate any subjectivity in deciding between a <TT>Presentation Error</TT>
+and a <TT>Wrong Answer</TT>, the Jury of this year's Programming Contest
+has defined an exact procedure to
+determine whether a program produces a <TT>'Wrong Answer'</TT>,
+a <TT>'Presentation Error'</TT>, or should be <TT>Accepted</TT>.
+<P>
+<P>
+In the description of the rules, we distinguish between JuryOut and SubmitOut, as the
+output intended by the Jury, and the output submitted, respectively. The JuryOut contains
+parts which are considered essential in the output of a correct algorithm. Those essentials
+are placed between `[' and `]'. Those brackets are not part of the output, thus they should
+not appear in SubmitOut. The algorithm to decide
+between <TT>'Accepted', 'Wrong Answer'</TT> and
+<TT>'Presentation Error'</TT> is as follows:
+<P>
+<OL><LI> From each line in both outputs, all trailing white space (blanks and tabs) should be
+removed. After that, all trailing empty lines should be removed.<LI> If after step 1, JuryOut and SubmitOut are identical, the algorithm
+returns <TT>'Accepted'</TT>.<LI> All letters in both outputs are changed to uppercase (including those between square
+brackets).<LI> We name the essentials  <IMG WIDTH=18 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline48" SRC="292img1.gif"  >  through  <IMG WIDTH=20 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline50" SRC="292img2.gif"  > .<LI> If each of the strings  <IMG WIDTH=18 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline48" SRC="292img1.gif"  >  through  <IMG WIDTH=20 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline50" SRC="292img2.gif"  >  occurs as a string in
+SubmitOut, and  <IMG WIDTH=16 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline56" SRC="292img3.gif"  >  comes after
+(without overlapping)  <IMG WIDTH=33 HEIGHT=23 ALIGN=MIDDLE ALT="tex2html_wrap_inline58" SRC="292img4.gif"  > ,
+for all  <IMG WIDTH=70 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline60" SRC="292img5.gif"  > , then the algorithm
+returns <TT>'Presentation Error'</TT>.<LI> The algorithm returns <TT>'Wrong Answer'</TT>.
+</OL>
+<P>
+As we (the Jury) need to have such a program (and we need it NOW), your job is to write
+it for us.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input Specification</A></FONT></H2>
+<P>
+The input contains on the first line the number of test cases (N). Each test case has on
+its first line the number (J) of lines in JuryOut, and the number (S) of SubmitOut lines,
+separated by a single space. Then follow the J lines of JuryOut and the S lines of SubmitOut.
+Both JuryOut and SubmitOut are no longer than 10 lines. A line is at most 80 characters
+long. Essentials are non-empty strings that do not cross line boundaries. The first and last
+characters of an essential are not white space. Essentials will not be nested.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output Specification</A></FONT></H2>
+<P>
+The output has to be <TT>'Accepted', 'Wrong Answer'</TT>,
+or <TT>'Presentation Error'</TT> on a single line for each test case.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Example Input</A></FONT></H2>
+<P>
+<PRE>4
+1 2
+Just one line?
+Just one line?
+
+2 2
+The first characters of the alphabet are:
+[abcde]
+Here they come:
+a b c d e
+1 1
+That's it: [abcde]
+That's it: AbCdE
+1 1
+[2] and [3] make [5]
+I guess 2 and 3 are less than 50.</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Example Output</A></FONT></H2>
+<P>
+<PRE>Accepted
+Wrong Answer
+Presentation Error
+Presentation Error</PRE>
+<P>
+</BODY>
+</HTML>

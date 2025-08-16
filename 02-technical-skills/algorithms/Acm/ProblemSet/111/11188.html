@@ -1,0 +1,543 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="c_files/filelist.xml">
+<link rel=Edit-Time-Data href="c_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem C - A Strange Opera House</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="country-region"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>127</o:Revision>
+  <o:TotalTime>157</o:TotalTime>
+  <o:Created>2004-05-17T15:23:00Z</o:Created>
+  <o:LastSaved>2007-03-01T10:17:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>273</o:Words>
+  <o:Characters>1560</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>13</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1830</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:TimesNewRoman;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+h3
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:13.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:7;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:18.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:TimesNewRoman;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:24.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:#772222;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+<meta content="" name=Author>
+<meta content="" name=Keywords>
+<meta content="" name=Description>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="10242"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#772222" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:28.0pt;mso-bidi-font-size:12.0pt;font-family:
+Arial'>Problem C</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>A Strange Opera House</span></b><span
+style='font-family:Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input: </b><span style='mso-bidi-font-weight:
+bold'>Standard Input</span></span><span style='mso-bidi-font-size:10.0pt;
+font-family:Arial;color:black;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output </span><span
+style='mso-bidi-font-size:10.0pt;font-family:Arial;color:black;mso-bidi-font-weight:
+bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='mso-bidi-font-size:10.0pt;font-family:Arial;color:black;mso-bidi-font-weight:
+bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-fareast-font-family:
+SimSun;mso-fareast-language:ZH-CN'>Yesterday evening, I have dreamed of a strange
+opera house which is in the form of a simple polygon. I was standing on the
+stage at (<i style='mso-bidi-font-style:normal'>x</i>, <i style='mso-bidi-font-style:
+normal'>y</i>) singing &quot;That's All I Ask of You&quot; with my girlfriend -
+that's our favorite song.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-fareast-font-family:
+SimSun;mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-fareast-font-family:
+SimSun;mso-fareast-language:ZH-CN'>The walls can reflect our voice at most <i
+style='mso-bidi-font-style:normal'>k</i> times. The following 4 figures show
+how our voice is reflected.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-fareast-font-family:
+SimSun;mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:205.5pt;
+ height:139.5pt'>
+ <v:imagedata src="c_files/image003.png" o:title="init"/>
+</v:shape><![endif]--><![if !vml]><img width=274 height=186
+src="p11188a.gif" v:shapes="_x0000_i1025"><![endif]><!--[if gte vml 1]><v:shape
+ id="_x0000_i1026" type="#_x0000_t75" style='width:207pt;height:140.25pt'>
+ <v:imagedata src="c_files/image005.gif" o:title="k_0"/>
+</v:shape><![endif]--><![if !vml]><img width=276 height=187
+src="p11188b.gif" v:shapes="_x0000_i1026"><![endif]></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:9.0pt;mso-fareast-language:ZH-CN'>(a) </span><span
+class=GramE><span style='font-size:9.0pt;mso-fareast-font-family:SimSun;
+mso-fareast-language:ZH-CN'>the</span></span><span style='font-size:9.0pt;
+mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'> opera house</span><span
+style='font-size:9.0pt;mso-fareast-language:ZH-CN'><span
+style='mso-spacerun:yes'>  </span></span><span style='font-size:9.0pt;
+mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'><span
+style='mso-spacerun:yes'>                                   </span></span><span
+style='font-size:9.0pt;mso-fareast-language:ZH-CN'><span
+style='mso-spacerun:yes'>                               </span>(b)</span><span
+style='font-size:9.0pt;mso-fareast-font-family:SimSun;mso-fareast-language:
+ZH-CN'> our original voice<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1027" type="#_x0000_t75" style='width:207pt;height:140.25pt'>
+ <v:imagedata src="c_files/image006.gif" o:title="k_1"/>
+</v:shape><![endif]--><![if !vml]><img width=276 height=187
+src="p11188c.gif" v:shapes="_x0000_i1027"><![endif]><!--[if gte vml 1]><v:shape
+ id="_x0000_i1028" type="#_x0000_t75" style='width:207pt;height:140.25pt'>
+ <v:imagedata src="c_files/image007.gif" o:title="k_2"/>
+</v:shape><![endif]--><![if !vml]><img width=276 height=187
+src="p11188d.gif" v:shapes="_x0000_i1028"><![endif]><span
+style='font-size:9.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:9.0pt;mso-fareast-language:ZH-CN'>(c) </span><span
+class=GramE><span style='font-size:9.0pt;mso-fareast-font-family:SimSun;
+mso-fareast-language:ZH-CN'>reflecting</span></span><span style='font-size:
+9.0pt;mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'> the voice
+once</span><span style='font-size:9.0pt;mso-fareast-language:ZH-CN'><span
+style='mso-spacerun:yes'>                       </span></span><span
+style='font-size:9.0pt;mso-fareast-font-family:SimSun;mso-fareast-language:
+ZH-CN'><span style='mso-spacerun:yes'>                       </span><span
+style='mso-spacerun:yes'>     </span></span><span style='font-size:9.0pt;
+mso-fareast-language:ZH-CN'><span
+style='mso-spacerun:yes'>           </span>(d) </span><span style='font-size:
+9.0pt;mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'>reflecting the
+voice twice</span><span style='mso-fareast-font-family:SimSun;mso-fareast-language:
+ZH-CN'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:9.0pt;
+mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-fareast-font-family:
+SimSun;mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-fareast-font-family:
+SimSun;mso-fareast-language:ZH-CN'>Audiences are sitting by the walls. I wonder
+how many of them could hear our song, either directly or indirectly. Can you
+tell me?<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><i><span style='color:black;
+mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></i></b></p>
+
+<h4><b><span style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:
+Arial'>Input<o:p></o:p></span></b></h4>
+
+<p class=MsoNormal style='text-align:justify'>The input consists of <span
+style='mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'>at most 10
+test cases. Each case contains four integers <i style='mso-bidi-font-style:
+normal'>n</i>,<i style='mso-bidi-font-style:normal'> k</i>,<i style='mso-bidi-font-style:
+normal'> x </i>and<i style='mso-bidi-font-style:normal'> <span class=GramE>y<span
+style='font-style:normal'>(</span></span></i>3 </span><span style='font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>£</span></span><span style='mso-fareast-font-family:
+SimSun;mso-fareast-language:ZH-CN'> <i style='mso-bidi-font-style:normal'>n </i></span><span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>£</span></span><span
+style='mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'> 50, 0 </span><span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>£</span></span><span
+style='mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'> <i
+style='mso-bidi-font-style:normal'>k </i></span><span style='font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>£</span></span><span style='mso-fareast-font-family:
+SimSun;mso-fareast-language:ZH-CN'> 5), the number of vertices of the opera
+house, the maximal number of reflections of our voice, and the location of the
+stage. The stage will never be on a wall. The following <i style='mso-bidi-font-style:
+normal'>n</i> lines each contain two <span class=GramE>integers</span> <i
+style='mso-bidi-font-style:normal'>x<sub>i</sub></i> and <span class=SpellE><i
+style='mso-bidi-font-style:normal'>y<sub>i</sub></i></span>, the coordinates of
+the vertices. The vertices are arranged either clockwise or counterclockwise.
+The last case is followed by a single zero, which should not be processed. All
+the coordinates are integers with absolute values not greater than 1000.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-fareast-language:
+ZH-CN'><o:p>&nbsp;</o:p></span></p>
+
+<h4><b><span style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:
+Arial'>Output<o:p></o:p></span></b></h4>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-fareast-font-family:
+SimSun;mso-fareast-language:ZH-CN'>For each test case, print the case number
+and the total length of wall where our voice could arrive, to two decimal
+places.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none'><b><span
+style='mso-bidi-font-size:18.0pt;font-family:"Courier New"'><o:p>&nbsp;</o:p></span></b></p>
+
+<h1 align=left style='text-align:left;tab-stops:.5in'><b><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;font-style:
+normal'>Sample Input<span
+style='mso-spacerun:yes'>                               </span>Output for
+Sample Input<o:p></o:p></span></b></h1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;background:#CCCCCC;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width="48%" valign=top style='width:48.76%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>5 0 100 135<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>20 200<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>200 100<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>300 125<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>40 10<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>100 <span
+  class=SpellE>100</span></span><span style='font-family:"Courier New";
+  mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>8 1 25 15<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>0 <span
+  class=SpellE>0</span><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>0 20<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>30 20<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>30 0<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>20 0<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>20 10<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>10 <span
+  class=SpellE>10</span><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New"'>10 0</span><span
+  style='font-family:"Courier New";mso-fareast-font-family:SimSun;mso-fareast-language:
+  ZH-CN'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New";mso-fareast-font-family:
+  SimSun;mso-fareast-language:ZH-CN'>0</span><span style='font-size:11.0pt;
+  font-family:"Courier New";mso-fareast-font-family:SimSun;mso-bidi-font-family:
+  "Times New Roman";mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+  </td>
+  <td width="51%" valign=top style='width:51.24%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-family:"Courier New";mso-fareast-font-family:
+  SimSun;mso-fareast-language:ZH-CN'>Case 1: </span><span style='font-family:
+  "Courier New"'>469.86</span><span style='font-family:"Courier New";
+  mso-fareast-font-family:SimSun;mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Courier New";mso-fareast-font-family:
+  SimSun;mso-fareast-language:ZH-CN'>Case 2: </span><span style='font-family:
+  "Courier New"'>106.67<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New";
+  mso-fareast-font-family:SimSun;mso-bidi-font-family:"Times New Roman";
+  mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:.5in'><span
+lang=EN style='mso-ansi-language:EN'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Arial'>Problem
+setter: <span class=SpellE>Rujia</span> Liu<o:p></o:p></span></b></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+style='mso-bidi-font-weight:normal'><span lang=EN style='font-family:Arial;
+mso-ansi-language:EN'>This problem was originally used in IOI 2005 <st1:place
+w:st="on"><st1:country-region w:st="on">China</st1:country-region></st1:place>
+Team Selection Contest<o:p></o:p></span></b></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+style='mso-bidi-font-weight:normal'><span lang=EN style='font-family:Arial;
+mso-ansi-language:EN'>Special Thanks: <span class=SpellE>Yiming</span> Li<o:p></o:p></span></b></p>
+
+<p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+style='mso-bidi-font-weight:normal'><span lang=EN style='font-family:Arial;
+mso-ansi-language:EN'><o:p>&nbsp;</o:p></span></b></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;tab-stops:137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+style='mso-bidi-font-weight:normal'><span lang=EN style='font-family:Arial;
+mso-ansi-language:EN'><span style='mso-tab-count:1'>                                              </span><o:p></o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>

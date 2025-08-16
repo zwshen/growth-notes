@@ -1,0 +1,153 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+
+<html>
+<head>
+	<title>Tweedle Numbers</title>
+	<style>
+	p {text-align: justify;}
+	p.center {text-align: center;}
+    </style>
+</head>
+
+<body bgcolor=white>
+
+<h1 align=center><font color=blue>Problem E - Tweedle Numbers</font></h1>
+
+<p><img align=right src="p950.jpg" width="221" height="199" alt="" border="0">
+<p>"I know what you're thinking about," said Tweedledum; "but it isn't so, nohow."<br> 
+"Contrariwise," continued Tweedledee, "if it was so, it might be; and if it were so, it would be; but as it isn't, it ain't. That's logic."<br>
+"I'm sorry, could you help me out of this wood: it's getting dark!" you said.<br>
+"You've begun wrong!" cried Tweedledum. "The first thing in a visit is to say «How d'ye do?» and shake hands!"<br>
+And here the two brothers gave each other a hug, and then they held out the two hands that were free, to shake hands with you.<br>
+"We are now discussing the possibility of teaching Tweedle Numbers to everyone on the kingdom!" shouted Tweedledee. <br>
+"No, no, could you please just tell me the way out?" you cried. But they were already explaining how Tweedle numbers worked...
+
+<p>"It's easy, you see, since if it weren't so, it wouldn't be. That's
+logic!" both of them said.<br>
+"And we only have a few rules" they said, starting to write on a board:
+
+<ul>
+<li>All tweedle numbers are binary numbers (a sequence of zeros and ones), and always start with a 1 (one);
+<li>They have exactly <b>N</b> digits;
+<li>Each subsequence of consecutive and equal digits (let's call it a <i>run</i>) only has at maximum <b>M</b> digits
+<li>There exist exactly <b>K</b> <i>runs</i>
+</ul>
+
+<p>"Nohow. And thank you very much for asking about our numbers!", said Tweedledum.<br>
+"But I did not ask..." you said. Too late! "You like math? Funny! I'll give you examples" added Tweedledee.<br> 
+"If N=6, K=3 and M=3" he said with a great smile "then we have this Tweedle numbers!".<br>&nbsp;<br>
+
+
+<table border=1>
+<tr>
+<th>#</th>
+<th>Tweedle Nr</th>
+<th>&nbsp;</th>
+<th>#</th>
+<th>Tweedle Nr</th>
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td align=right>100011</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td align=right>110111</td>
+</tr>
+<tr>
+<td>2</td>
+<td align=right>100111</td>
+<td>&nbsp;</td>
+<td>6</td>
+<td align=right>111001</td>
+</tr>
+<tr>
+<td>3</td>
+<td align=right>110001</td>
+<td>&nbsp;</td>
+<td>7</td>
+<td align=right>111011</td>
+</tr>
+<tr>
+<td>4</td>
+<td align=right>110011</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<b>Figure 1 -</b> Tweedle numbers in ascending order for N=6, K=3, M=3
+
+<p>"Ditto, we can assign a single number for each Tweedle number, its id, if we see them in ascending order!" said Tweedledum.<br>
+"Ditto, ditto!" cried Tweedledee. "Why are you telling him that? He is not real!" shouted Tweedledee.<br>
+"I am real!" you responded in tears...<br>
+"I hope you don't suppose those are real tears?" Tweedledum interrupted in a tone of great contempt.<br>
+"Well, well, I can discover the id of a Tweedle number faster than you" Tweedledee said.<br>
+"Nohow! I'm very fast, generally," Tweedledum said on a low voice: "only today I happen to have a headache."<br> 
+"And I've got a toothache!" said Tweedledee, who had overheard the remark. "Far worse than you, but I'm still faster."<br>  
+"And you, how fast you are, you imaginary being?" they both said.
+
+<p>And you had no solution but to make a program to discover that... So many strange things happen in Wonderland!
+
+<h2><font color=blue>The Problem</font></h2>
+<p>Given a specific N, K and M, and a list of valid Tweedle Numbers, your task is to discover the number id that represent
+each number, this is, the position in which it appears if we take all the valid Tweedle Numbers for that parameters and
+sort them in ascending order of their binary representation.
+  
+<h2><font color=blue>Input</font></h2>
+<b>
+The input will contain several test cases, each of them as described below.
+Consecutive test cases are separated by a single blank line.
+</b>
+<p>
+<p>
+
+<p>The first line will contain exactly three integers: the parameters <b>N</b>, <b>K</b> and <b>M</b>, given exactly in that order.
+(<i>1 &le; N,M,K &le; 33</i>).
+
+<p>Then comes a line with a single integer <b>T</b>, saying how many
+Tweedle Numbers follow (<i>1 &le; T &le; 20</i>). Then there will be exactly
+<b><i>T</i></b> lines, each one containing a single Tweedle Number, represented as a sequence of zero or one digits. The numbers
+are valid in what respects to the parameters <b>N</b>,<b>M</b> and <b>K</b>.
+
+<h2><font color=blue>Output</font></h2>
+
+<b>
+For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+
+<p>You must output a single line for each Tweedle Number, giving it's number id. See the sample input and output, combined with
+the figure 1, to better understand what you need to do.
+
+<h2><font color=blue>Example Input</font></h2>
+<pre>
+6 3 3
+4
+111011
+100011
+110011
+100111
+</pre>
+
+<h2><font color=blue>Example Output</font></h2>
+<pre>
+7
+1
+4
+2
+</pre>
+
+<hr>
+<p class=center><b>2005 Programming Contest of Porto University</b><br>
+Round 2, 28 of September of 2005<br>
+&nbsp;<br>
+<i>(Author: <b>Pedro Ribeiro</b> - DCC/FCUP)</i>
+<hr>
+
+</body>
+
+</html>

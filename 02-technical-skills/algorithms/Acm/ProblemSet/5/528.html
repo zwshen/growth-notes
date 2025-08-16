@@ -1,0 +1,141 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>The Problem of Train Setout</TITLE>
+<META NAME="description" CONTENT="The Problem of Train Setout">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+The Problem of Train Setout</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+At a railway station there is only one out channel. There are two kinds
+of trains : the express train
+and ordinary train. The ordinary train should wait to setout until all
+the express train have setout.
+But if an ordinary train is just setouting, the incoming express train should
+wait until the ordinary
+train leaves. The leaving time of express train and ordinary train are <I>L</I><SUB><I>e</I></SUB>
+and <I>L</I><SUB><I>o</I></SUB>. And the time
+between the arriving of two express train is <I>A</I><SUB><I>e</I></SUB> and of ordinary train is <I>A</I><SUB><I>o</I></SUB>.
+The total observation
+time is <I>T</I>. You should work out a program to illustrate the number of trains
+waiting to setout at any
+time, and calculate the average time of the two kinds of trains waiting <I>W</I><SUB><I>e</I></SUB>,
+<I>W</I><SUB><I>o</I></SUB>, and the average
+time of the all trains waiting <I>W</I><SUB><I>t</I></SUB>, and the time every train waited <I>W</I>(<I>t</I>).
+Assume that the setout
+channel is empty at first and a express train comes first. And the output
+channel will never be empty.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input is a line of five numbers that represent 
+<!-- MATH: $A_e, A_o, L_e, L_o, T$ -->
+<I>A</I><SUB><I>e</I></SUB>, <I>A</I><SUB><I>o</I></SUB>, <I>L</I><SUB><I>e</I></SUB>, <I>L</I><SUB><I>o</I></SUB>, <I>T</I>
+respectively.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The first part of the output is an array of the waiting trains, one element
+per line. There are three
+numbers in a line. First is the time, second is the number of waiting express
+trains, the third is the
+number of waiting ordinary trains. At the end of the array, there is a 0.
+
+<P>
+
+<P>
+<BR>
+After the array , there is a line contains three numbers are 
+<!-- MATH: $W_e, W_o, W_t$ -->
+<I>W</I><SUB><I>e</I></SUB>, <I>W</I><SUB><I>o</I></SUB>, <I>W</I><SUB><I>t</I></SUB>.
+
+<P>
+
+<P>
+<BR>
+The last part of the output is
+also an array, one element per line. There are two elements per line. The
+first one is the train. If the
+train is an express train, then the first element begins with <TT>E</TT>, followed
+by the number of the express
+train, (the number is according to the incoming order of the train); else
+it begins with <TT>O</TT>, followed
+by the number of the ordinary train. The second is the time the train
+has waited.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+3 6 6 2 30
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+0 0 0
+3 1 0
+6 1 1
+9 2 1
+12 2 2
+15 3 2
+18 3 3
+21 4 3
+24 4 4
+27 5 4
+30 5 5
+0
+6 12 8
+0
+E1 0
+E2 3
+E3 6
+E4 9
+E5 12
+E6 15
+E7 12
+E8 9
+E9 6
+E10 3
+E11 0
+O1 24
+O2 18
+O3 12
+O4 6
+O5 0
+</PRE>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-01-11</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

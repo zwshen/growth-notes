@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Cutting Up</TITLE>
+<META NAME="description" CONTENT="Cutting Up">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Cutting Up</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Quilters often have to cut fabric into squares.  To do this, they have a
+special tool (called a rotary cutter) that can cut through many layers
+of fabric at a time.  The exact number of layers depends on the type of fabric
+being cut.  In using a rotary cutter,
+the problem is not how long the cut needs to be
+(it is just as easy to make a cut one centimeter
+long as it is to make a cut 20 centimeters
+long), but how many cuts need to be made.
+<P>
+<P>
+For example, to cut a 2 by 3 piece of fabric into 1 by
+1 squares takes five cuts if only one layer of fabric may be cut at a time:
+<P>
+<center><img src=366img2.gif></center>
+<P>
+If two layers may be cut at a time, it will only
+take three cuts (the two pieces of fabric can be placed on
+top of each other after the first cut, so when the
+second and third cuts are made, they
+will also make the fourth and fifth cuts).
+<P>
+<P>
+In cutting fabric, pieces may be placed on
+top of each other.  Pieces do not need to be of
+identical shapes to be put on top of
+each other.  For example, if the fabric above had first been cut vertically,
+a 1 by 2 piece could have been put on top of the 2 by
+2 piece.  Fabric may be rearranged between
+cuts.  Fabric can not be folded.  For
+example, to cut a 1 by 3 piece of fabric into
+squares will take 2 cuts, not 1 (if the fabric
+were folded in half before cutting).
+Quilters are thrifty people so they never have any waste: if a piece of fabric
+is <I>m</I> by <I>n</I>, they will get <I>mn</I> pieces from it.
+<P>
+<P>
+Write a program to determine the fewest cuts necessary to cut a piece
+of fabric into squares.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input will consist of a number of lines.  Each line will have 3 integers
+describing the fabric to be cut. The first is the maximum number
+of layers that can be cut at a time (between 1 and 200) and the last two
+are the dimensions (between 1 and 20 in each dimension).
+<P>
+<P>
+A line consisting of the values 0 0 0 will mark the end of input.
+This line should not be processed.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each line, echo the dimensions and give the smallest number of cuts
+that are necessary to cut it entirely into 1 by 1 squares.  Use the format
+given in the Sample Output below.
+<P>
+<P>
+Leave a blank line after each line of output.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>1 3 2
+1 5 5
+2 3 2
+3 2 3
+10 5 5
+1 2 1
+0 0 0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>3 by 2 takes 5 cuts
+
+5 by 5 takes 24 cuts
+
+3 by 2 takes 3 cuts
+
+2 by 3 takes 3 cuts
+
+5 by 5 takes 6 cuts
+
+2 by 1 takes 1 cuts</PRE>
+<P>
+</BODY>
+</HTML>

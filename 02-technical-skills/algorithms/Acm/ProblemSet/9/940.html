@@ -1,0 +1,157 @@
+<HTML>
+<BODY bgcolor="white">
+
+<FONT color="#0000FF"><H1>Problem E</H1></FONT>
+
+<FONT color="#0000FF"><H1><CENTER>Autobiographical Numbers</CENTER></H1></FONT>
+
+<P>
+In the decimal system an <I>autobiographical number</I> 
+is a natural number with no more than 10 digits, 
+
+<CENTER>
+<B>N</B> = <tt>d<sub>0</sub>d<sub>1</sub>...d<sub>r-1</sub></tt>
+&nbsp;&nbsp;&nbsp;(1 &lt;= <tt>r</tt> &lt;= 10)
+</CENTER> 
+
+<P>
+such that
+<tt>d<sub>0</sub></tt> is the number of <tt>0</tt>'s in <B>N</B>, 
+<tt>d<sub>1</sub></tt> is the number of <tt>1</tt>'s in <B>N</B>, 
+<tt>d<sub>2</sub></tt> is the number of <tt>2</tt>'s in <B>N</B>, and so on.
+
+<P>
+The notion of autobiographical number can be generalized
+to any base <B>b</B> >= 2.
+<BR>
+Let <b>A</b> = [<tt>s<sub>0</sub></tt>,
+                <tt>s<sub>1</sub></tt>,
+                 ...,
+                <tt>s<sub><b>b</b>-1</sub></tt>]
+be an <i>alphabet</i>, 
+whose symbols 
+                <tt>s<sub>0</sub></tt>,
+                <tt>s<sub>1</sub></tt>,
+                ...,
+                <tt>s<sub><b>b</b>-1</sub></tt>
+correspond to the values 0, 1, ..., <b>b</b>-1, respectively: 
+that is, value(<tt>s<sub>i</sub></tt>)=i.
+Then, an <i>autobiographical number in base <b>b</b> 
+      (under the alphabet <b>A</b>)</i> 
+is a natural number with no more than <b>b</b> symbols, 
+
+<CENTER>
+<B>N</B> = <tt>d<sub>0</sub>d<sub>1</sub>...d<sub>r-1</sub></tt>
+&nbsp;&nbsp;&nbsp;(1 &lt;= <tt>r</tt> &lt;= <b>b</b>)
+</CENTER> 
+
+<P>
+such that 
+value(<tt>d<sub>0</sub></tt>) 
+is the number of <tt>s<sub>0</sub></tt>'s in <B>N</B>, 
+value(<tt>d<sub>1</sub></tt>) 
+is the number of <tt>s<sub>1</sub></tt>'s in <B>N</B>, ..., and
+value(<tt>d<sub>r-1</sub></tt>) 
+is the number of <tt>s<sub>r-1</sub></tt>'s in <B>N</B>.
+
+<P>
+For example:
+<UL>
+  <LI> <tt>42101000</tt> is an autobiographical number in base 10, 
+       under the alphabet [<tt>0</tt>, <tt>1</tt>, <tt>2</tt>,
+                           <tt>3</tt>, <tt>4</tt>, <tt>5</tt>,
+                           <tt>6</tt>, <tt>7</tt>, <tt>8</tt>,
+                           <tt>9</tt>],
+       because it has 
+       four <tt>0</tt>'s, two <tt>1</tt>'s, one  <tt>2</tt>, 
+       zero <tt>3</tt>'s, one <tt>4</tt>,   zero <tt>5</tt>'s,
+       zero <tt>6</tt>'s, and               zero <tt>7</tt>'s;
+       <P>
+
+  <LI> <tt>A2100000001000</tt> is an autobiographical number in base 16, 
+       under the alphabet [<tt>0</tt>, <tt>1</tt>, <tt>2</tt>,
+                           <tt>3</tt>, <tt>4</tt>, <tt>5</tt>,
+                           <tt>6</tt>, <tt>7</tt>, <tt>8</tt>,
+                           <tt>9</tt>, <tt>A</tt>, <tt>B</tt>,
+                           <tt>C</tt>, <tt>D</tt>, <tt>E</tt>,
+                           <tt>F</tt>].
+       There are value(<tt>A</tt>)=10 <tt>0</tt>'s,
+       two <tt>1</tt>'s, etc.
+</UL>
+
+
+<FONT color="#0000FF"><H2>Problem</H2></FONT>
+
+<P>
+Given an alphabet <b>A</b>, with <b>b</b> symbols, 
+determine all autobiographical numbers in base <b>b</b> under <b>A</b>. 
+
+
+<FONT color="#0000FF"><H2>Input</H2></FONT>
+
+<P>
+The first line contains a positive integer <B>L</B>
+(1 &lt;= <b>L</b> &lt;= 50),
+which is the number of subsequent lines.
+
+<P>
+Each of the following <B>L</B> lines contains an alphabet.
+
+<P>
+An alphabet is a contiguous sequence of <B>b</B> distinct symbols,
+where 2 &lt;= <b>b</b> &lt;= 100.
+
+<P>
+A symbol is a printable character.
+
+
+<FONT color="#0000FF"><H2>Output</H2></FONT>
+
+<P>
+For each input alphabet, 
+the output is the sequence of all autobiographical numbers in increasing order.
+Each number is written on a different line.
+
+<P>
+The outputs of two consecutive alphabets are separated by a blank line.
+
+<FONT color="#0000FF"><H2>Sample Input</H2></FONT>
+
+<PRE>
+2
+0123
+abcdefg
+</PRE>
+
+
+<FONT color="#0000FF"><H2>Sample Output</H2></FONT>
+
+<PRE>
+1210
+2020
+
+bcba
+caca
+cbcaa
+dcbbaaa
+</PRE>
+
+
+<BR>
+<HR>
+<FONT SIZE=3D4>
+<center>
+Concurso de Programação da Universidade do Porto'2004<br>
+CPN'2004: 
+Segundo Concurso de Programação da Nova <BR>
+Março de 2004 <br>
+Departamento de Informática <br> 
+Faculdade de Ciências e Tecnologia <br>
+Universidade Nova de Lisboa
+</center>
+</font>
+<HR>
+
+</BODY>
+</HTML>
+

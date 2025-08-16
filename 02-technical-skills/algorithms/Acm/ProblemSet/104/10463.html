@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Aztec Knights</TITLE>
+<META NAME="Generator" CONTENT="EditPlus">
+<META NAME="Author" CONTENT="">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
+</HEAD>
+
+<BODY>
+<H3 ALIGN="right"><I>Return of the Aztecs</I></H3>
+<TABLE ALIGN="center" WIDTH="100%">
+<TR>
+<TD BGCOLOR="black" WIDTH="25%"><FONT SIZE="6" COLOR="white"> Problem A:</FONT></TD>
+<TD BGCOLOR="darkgray"><FONT SIZE="6"> Aztec Knights</FONT></TD>
+<TR>
+<TD COLSPAN="2" ALIGN="center">
+<BR>
+Time Limit: 6 seconds<BR>
+Memory Limit: 32 MB<BR>
+</TD>
+</TR>
+</TR>
+</TABLE>
+<HR>
+<P>Aztecs warriors are great fighters. It is obvious that aztecs have their own version of knight. It's their own version because their knights moves in a different way than the usual knights. You know that usual knights always move horizontally or vertically but aztec  knights always move diagonally. Yes, that's the difference. Look at the  following two pictures to see the difference. Don't get confused with the path shown in the picture. We count one knight move when the knight moves from the blue square to any one of the red squares.</P>
+<TABLE ALIGN="center" WIDTH="100%">
+<TR>
+<TD ALIGN="center"><IMG SRC="p10463a.jpg"></TD>
+<TD ALIGN="center"><IMG SRC="p10463b.jpg"></TD>
+</TR>
+<TR>
+<TD ALIGN="center"><B>Fig 1: Usual knight's moves</B></TD>
+<TD ALIGN="center"><B>Fig 2: Aztec knight's moves</B></TD>
+</TR>
+</TABLE>
+<P>An Aztec knight does a weird thing when it moves from one place to another. It doesn't stop at a place if it doesn't reach that place in prime number of moves. Given the initial and final position of the knight, is it possible to determine whether the knight can reach the destination and stop there or not? The knight doesn't come back to a place which it already visited.</P>
+
+<H3>Input</H3>
+<P>There can be several set of inputs. A set starts with a  pair of integers <b>m</b> and <b>n</b> <b>(4&lt;=m,n&lt;=15)</b>. <b>m</b> and <b>n</b> are the number of rows and columns of the terrain respectively. Next, there will be <b>srow</b> and <b>scol</b> indicating the current position of the knight. Finally, two more integers <b>drow</b> and <b>dcol</b> indicating the destination of the knight. The upper left most corner of the terrain is denoted as (0,0). The Input ends at EOF.</P> 
+<H3>Output</H3>
+<P>Print "<b>CASE# <i>X</i>: </b>" before every set of output where <i><b>X</b></i> is the case number. Print a line of the format "<b>The knight takes <i>l</i> prime moves.</b>" where <i>l</i> is the minimum prime number of moves required to reach the destination starting from the initial position. Print "<b>The knight takes <i>l</i> composite move(s)</b><b>.</b>" if it is not possible to reach in prime number of moves but possible in composite number of moves and <b><i>l</i></b> is the minimum number of composite move required. Print "<b>Destination is not reachable.</b>" if destination is unreachable.</P>
+<H3>Sample Input</H3>
+<PRE>
+5 5 0 0 3 4
+5 5 0 0 4 4
+5 5 0 0 0 0
+</PRE>
+<H3>Sample Output</H3>
+<PRE>
+CASE# 1: Destination is not reachable.
+CASE# 2: The knight takes 2 prime moves.
+CASE# 3: The knight takes 0 composite move(s).
+</PRE>
+<HR>
+<P>
+<B>Problem setter: Shah Arif Iqbal (Sohel)</B><BR>
+<B>Solution author: Monirul Hasan (Tomal)</B>
+</P>
+<P ALIGN="center">
+<I>There are two tragedies in life. One is not to get your heart's desire. The other is to get it.<BR>
+    -- George Bernard Shaw</I>
+</P>
+</BODY>
+</HTML>

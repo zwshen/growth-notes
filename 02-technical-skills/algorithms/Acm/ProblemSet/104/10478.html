@@ -1,0 +1,158 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>The Falling Pillars</TITLE>
+<META NAME="description" CONTENT="The Falling Pillars">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+The Falling Pillars</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The problem we will now discuss is shown in the picture below. Initially, five pillars are
+standing upright as shown in Figure 1. Here A is the rightmost point of the base of leftmost
+pillar. B, C, D and E are similar points for pillar 2, 3, 4 and 5 respectively. The pillars are placed
+at equal distance. So AB = BC = CD = DE = <SPAN CLASS="MATH"><I>d</I></SPAN>. The pillars are allowed to fall somewhat freely
+from right to left. If the pillars are numbered 1, 2, 3, 4, 5 from left to right then 1 touches 2 at P,
+2 touches 3 at Q, 3 touches 4 at R and 4 touches 5 at S. The widths of all the pillars are <SPAN CLASS="MATH"><I>w</I></SPAN> (as
+shown in an inset in Figure 2) and heights of all the pillars are <SPAN CLASS="MATH"><I>h</I></SPAN>.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10478a.eps}$
+ -->
+<IMG
+ WIDTH="674" HEIGHT="918" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10478a.gif"
+ ALT="\epsfbox{p10478a.eps}">
+</DIV>
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10478b.eps}$
+ -->
+<IMG
+ WIDTH="789" HEIGHT="382" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10478b.gif"
+ ALT="\epsfbox{p10478b.eps}">
+</DIV>
+
+<P>
+Note that Figure 1, Figure 2 and the Figure below are described as 2-D pictures, which is quite
+OK for this problem. You must also assume that all the pillars are rectangular and no sliding or
+lifting occurs when the pillars fall down. Your job is to find out the angles SDE, RCD, QBC,
+PAB in Figure 2  or other such angles in similar scenario.
+
+<P>
+There is one additional problem, which is shown in the picture above. In the left configuration
+the fallen pillar is stable but on the right configuration the fallen pillar is not stable. The cause is
+explained in the figure itself. Of course, that cause is applicable only when the pillar stands on a
+single point (In this case point C). <B>A situation is unstable only when a fallen pillar cannot
+maintain that fallen position on it's own.  A fallen pillar means, the status of a pillar when it
+falls towards right as much as it is allowed to by the given configuration</B>. You will have to
+detect if such situation occurs in any of our pillars and report it in the output. Let's call this
+situation ``<B>Unstable Situation.</B>".
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input file contains a single integer <SPAN CLASS="MATH"><I>N</I></SPAN>(<SPAN CLASS="MATH"><I>N</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10478img3.png"
+ ALT="$ \le$">20</SPAN>) which indicates how many sets
+of inputs are there. Each of the next <SPAN CLASS="MATH"><I>N</I></SPAN> lines contains one set of input. Each line contains four
+integers <SPAN CLASS="MATH"><I>n</I></SPAN>, <SPAN CLASS="MATH"><I>d</I></SPAN>, <SPAN CLASS="MATH"><I>h</I></SPAN> and <SPAN CLASS="MATH"><I>w</I></SPAN> (<!-- MATH
+ $1001>h, d, w>0$
+ -->
+<SPAN CLASS="MATH">1001 &gt; <I>h</I>, <I>d</I>, <I>w</I> &gt; 0</SPAN> and <SPAN CLASS="MATH"><I>h</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10478img4.png"
+ ALT="$ \ge$"><I>w</I></SPAN>). These four integers actually describe a
+scenario or configuration like the above picture completely. Here <SPAN CLASS="MATH"><I>n</I></SPAN> is the number of pillars
+(<SPAN CLASS="MATH">0 &lt; <I>n</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10478img3.png"
+ ALT="$ \le$">8</SPAN>), the meaning of <SPAN CLASS="MATH"><I>d</I></SPAN>, <SPAN CLASS="MATH"><I>h</I></SPAN> and <SPAN CLASS="MATH"><I>w</I></SPAN> are described in the problem statement above.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each set of input you need to output maximum of <SPAN CLASS="MATH"><I>n</I></SPAN> lines. The description of the output for
+each set is given below:
+
+<P>
+The output for each set starts with the serial number of the set as shown in the output for sample
+input. Note that there is no space just before the colon (<TT>:</TT>). If the situation is
+unstable you should
+first output the line `<TT>Unstable Situation.</TT>', without the quotes. The next <SPAN CLASS="MATH">(<I>n</I> - 1)</SPAN> lines will print
+the angles of pillars (from right to left) rounded up-to three digits after the decimal point. But if
+within the given constraints the input is impossible you should only output the line
+`<TT>Impossible.</TT>', without the quotes. There will be no such input where a fallen pillar has to
+occupy the floor where once there was the base of the pillar to it's right. Remember that you
+should assume that all pillars should be in fallen status even if all pillars are unstable.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2
+5 4 10 3
+5 4 10 1
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Case 1:
+Unstable Situation.
+84.261
+78.637
+73.349
+68.575
+Case 2:
+72.542
+56.188
+42.753
+32.876
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Problem-setter: Shahriar Manzoor, ACM Valladolid Online Judge
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

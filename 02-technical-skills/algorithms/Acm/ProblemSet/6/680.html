@@ -1,0 +1,293 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Movement of Reading Head</TITLE>
+<META NAME="description" CONTENT="Movement of Reading Head">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Movement of Reading Head</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Suppose we have <I>K</I> files representing by 
+<!-- MATH: $F_1, F_2, \dots, F_K$ -->
+<IMG
+ WIDTH="113" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="680img1.gif"
+ ALT="$F_1, F_2, \dots, F_K$">.
+The
+total length of these files, measured in block numbers, is <I>N</I> blocks, and 
+the length of each file is <I>L</I><SUB><I>i</I></SUB> block(s) for 
+<!-- MATH: $1 \le i \le K$ -->
+<IMG
+ WIDTH="82" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="680img2.gif"
+ ALT="$1 \le i \le K$">.
+We denote 
+the <I>b</I><SUP><I>th</I></SUP> block of a file <I>F</I><SUB><I>i</I></SUB> as <I>F</I><SUB><I>i</I></SUB>(<I>b</I>) for 
+<!-- MATH: $1 \le b \le L_i$ -->
+<IMG
+ WIDTH="85" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="680img3.gif"
+ ALT="$1 \le b \le L_i$">;
+e.g.,
+the 9<SUP><I>th</I></SUP> block of <I>F</I><SUB>2</SUB> file is <I>F</I><SUB>2</SUB>(9), and the 4<SUP><I>th</I></SUP> block of <I>F</I><SUB>3</SUB>
+file is <I>F</I><SUB>3</SUB>(4). 
+
+<P>
+Now consider a storage space S consisting of a single
+reading head and <I>N</I> blocks with sequential number starting from 0 to <I>N</I>-1.
+These <I>K</I> files are stored to the space S in a sequential order from 
+
+<!-- MATH: $F_1, F_2, F_3 , \dots, F_K$ -->
+<IMG
+ WIDTH="139" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="680img4.gif"
+ ALT="$F_1, F_2, F_3 , \dots, F_K$">.
+We will assume that there is no spare blocks
+left for storing these <I>K</I> files. Apparently, this means that 
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+\sum_{i=1}^K L_i = N
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="82" HEIGHT="58"
+ SRC="680img5.gif"
+ ALT="\begin{displaymath}\sum_{i=1}^K L_i = N
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+When reading from S, a profile array PF is used to indicate the starting
+block of the reading for every file, and the reading order is to read a block
+at <I>F</I><SUB>1</SUB>, then a block at <I>F</I><SUB>2</SUB>, ..., a block at <I>F</I><SUB><I>K</I></SUB> with one block being
+read for a file at one time. After <I>F</I><SUB><I>K</I></SUB> is being read, we restart to read the
+next block at <I>F</I><SUB>1</SUB>, then the next block at <I>F</I><SUB>2</SUB>, ..., and the process
+circulates in this fashion. Within a file when the previous reading has
+reached to the last block, the next block to be read is the first block of
+this file. 
+
+<P>
+Obviously, the reading head has to move through several blocks
+during each time of reading. Thus, we define a term TB(<I>P</I>) to be the total
+number of blocks that the reading head needs to move for the <I>P</I> consecutive
+times of reading. Apparently, we will be interested in finding the value of
+TB(<I>P</I>). Given the profile array PF you may assume the reading head is
+initially rested on the starting block of the first file that is going to be
+read, and thus TB(1) = 0. 
+
+<P>
+
+<P>
+<BR>
+For example: let 
+<!-- MATH: $K = 3, N =12, L_1 = 5, L_2 = 3, L_3 = 4$ -->
+<I>K</I> = 3, <I>N</I> =12, <I>L</I><SUB>1</SUB> = 5, <I>L</I><SUB>2</SUB> = 3, <I>L</I><SUB>3</SUB> = 4, PF be 2, 3, 3.
+These three files will be stored to S as shown in Fig. 1.
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p680.gif>
+
+<P>
+
+<P>
+<BR>
+Fig. 1: An example of three files being stored in the storage S.
+</DIV>
+
+<P>
+According to the given PF the reading head is initially rested on the second block of
+the first file, i.e., <I>F</I><SUB>1</SUB>(2). When reading from S, the first time of
+reading is to read the second block of <I>F</I><SUB>1</SUB>, i.e., <I>F</I><SUB>1</SUB>(2), which is located
+at position 1. At this time TB(1) = 0. The second time of reading is to read
+the third block of <I>F</I><SUB>2</SUB>, i.e., <I>F</I><SUB>2</SUB>(3), which is located at position 7. Thus,
+the total number of blocks that the reading head has to move for 2 consecutive
+times of reading, i.e., TB(2), is 6 blocks. 
+
+<P>
+Similarly, the third time of
+reading is to read the third block of <I>F</I><SUB>3</SUB>, i.e., <I>F</I><SUB>3</SUB>(3), which is located
+at position 10. This means that the reading head has to move 3 blocks for the
+third time of reading. Thus, the total number of blocks that the reading head
+has to move for 3 consecutive times of reading is 9 blocks, i.e., TB(3) = 0 +
+6 + 3 = 9 blocks. Similarly, the fourth time of reading is to read the third
+block of <I>F</I><SUB>1</SUB>, i.e., <I>F</I><SUB>1</SUB> (3), which is located at position 2. This means
+that the reading head has to move 8 blocks for the fourth time of reading.
+Thus, the total number of blocks that the reading head has to move for 4
+consecutive times of reading is 17 blocks, i.e., TB(4) = 0 + 6 + 3 + 8 = 17
+blocks. 
+
+<P>
+
+<P>
+<BR>
+Now
+given the parameters <I>K</I>, <I>N</I>, <I>L</I><SUB><I>i</I></SUB>, PF, <I>P</I>, please write a program to report the
+value of TB(<I>P</I>), where 
+<PRE><TT>
+<I>K</I>: 		 number of files, 
+<I>N</I>: 		 number of blocks in the storage S, 
+<I>L</I><SUB><I>i</I></SUB>: 		 the length of each file, whereeach value is separated by a blank, 
+PF: 		 array of <I>K</I> integers representingthe starting block of the reading for each file
+		 where each value is separated by a blank, and 
+<I>P</I>: 		 number of the consecutive times of reading.
+</TT></PRE>
+
+<P>
+
+<P>
+<BR>
+The range of each parameter is as below:
+
+<P>
+
+<!-- MATH: $1 \le K \le 10$ -->
+<IMG
+ WIDTH="93" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="680img6.gif"
+ ALT="$1 \le K \le 10$">
+
+<P>
+
+<!-- MATH: $1 \le N \le 1000$ -->
+<IMG
+ WIDTH="110" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="680img7.gif"
+ ALT="$1 \le N \le 1000$">
+
+<P>
+
+<!-- MATH: $1 \le L_i \le 100$ -->
+<IMG
+ WIDTH="103" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="680img8.gif"
+ ALT="$1 \le L_i \le 100$">
+for each <I>i</I>
+
+<P>
+
+<!-- MATH: $1 \le \mbox{ entry in PF } \le L_i$ -->
+<IMG
+ WIDTH="178" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="680img9.gif"
+ ALT="$1 \le \mbox{ entry in PF } \le L_i$">
+for each file, and
+
+<P>
+
+<!-- MATH: $1 < P \le 1000$ -->
+<IMG
+ WIDTH="108" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="680img10.gif"
+ ALT="$1 < P \le 1000$">.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Contains <I>l</I> + 2 lines.
+<PRE><TT>
+Line 1 		 <I>l</I> the number of test cases 
+Line 2 		 
+<!-- MATH: $K \ N \ L_1 \ L_2 \dots L_k$ -->
+<IMG
+ WIDTH="139" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="680img11.gif"
+ ALT="$K \ N \ L_1 \ L_2 \dots L_k$">
+PF <I>P</I> test case #1, 2<I>K</I>+3 decimalvalues
+		 		 each of which is separated by a blank 
+... 
+Line <I>k</I>+1 
+<!-- MATH: $K \ N \ L_1 \ L_2 \dots L_k$ -->
+<IMG
+ WIDTH="139" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="680img11.gif"
+ ALT="$K \ N \ L_1 \ L_2 \dots L_k$">
+PF <I>P</I> test case #<I>k</I> 
+... 
+Line <I>l</I>+1 
+<!-- MATH: $K \ N \ L_1 \ L_2 \dots L_k$ -->
+<IMG
+ WIDTH="139" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="680img11.gif"
+ ALT="$K \ N \ L_1 \ L_2 \dots L_k$">
+PF <I>P</I> test case #<I>l</I> 
+Line <I>l</I>+2 <TT>-1</TT> 		 a constant -1 representing the end of the input file
+</TT></PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Contains <I>l</I> lines.
+<PRE><TT>
+Line 1 		 output for the value of TB(<I>P</I>) at the test case #1 
+... 
+Line <I>k</I> output for the value of TB(<I>P</I>) at the test case #<I>k</I> 
+... 
+Line <I>l</I> output for the value of TB(<I>P</I>) at the test case #<I>l</I>
+</TT></PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+5
+3 12 5 3 4 2 3 3 3
+3 12 5 3 4 2 3 3 4
+3 12 5 3 4 1 1 1 4
+2 10 5 5 1 1 2
+2 10 5 5 1 2 2
+-1
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+9
+17
+15
+5
+6
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-14</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

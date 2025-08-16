@@ -1,0 +1,51 @@
+<center><h2>Problem E: Saskatchewan</h2></center><br>
+
+The province of Saskatchewan is surveyed in <i>sections</i>.  
+A section is a square mile of land.  Grid roads delimit sections; there is
+one north-south and one east-west road exactly every mile.  (Complications
+arise because of the curvature of the earth but you can disregard these
+and assume that the province is a plane.)  The provincial border is
+a polygon whose vertices correspond to the intersections of grid roads.
+However, the edges do not necessarily follow grid roads; some sections are cut by the border.  Your
+job is to compute how many sections are completely within a province like
+Saskatchewan.
+<h3>Input</h3>
+<p>
+<b>
+The input begins with a single positive integer on a line by itself indicating 
+the number of the cases following, each of them as described below. 
+This line is followed by a blank line, and there is also a blank line between 
+two consecutive inputs.
+</b>
+<p>
+<p>
+
+Standard input contains a series of no more than 100 coordinate pairs,
+one pair per line.  These coordinates give the vertices of the perimeter of the
+province; the border is formed by connecting them in order.  All coordinates
+are in the first quadrant; they range from 0 to 100,000. 
+<h3>Output</h3>
+<p>
+<b>
+For each test case, the output must follow the description below. 
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+Your output should be a single integer:  the number of sections 
+(i.e. unit squares with corners at integer coordinates) 
+fully contained within the
+province.
+<h3>Sample Input</h3>
+<pre>
+1
+
+0 0
+0 100000
+99999 100000
+100000 0
+</pre>
+<h3>Sample Output</h3>
+<pre>
+9999900000
+</pre>

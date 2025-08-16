@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Package Pricing</TITLE>
+<META NAME="description" CONTENT="Package Pricing">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Package Pricing</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The Green Earth Trading Company sells 4 different sizes of energy-efficient 
+fluorescent light bulbs for use in home lighting fixtures. The light bulbs are 
+expensive, but last much longer than ordinary incandescent light bulbs and 
+require much less energy. To encourage customers to buy and use the energy-
+efficient light bulbs, the company catalogue lists special packages which 
+contain a variety of sizes and numbers of the light bulbs. The price of a 
+package is always substantially less than the total price of the individual 
+bulbs in the package. Customers typically want to buy several different sizes 
+and numbers of bulbs. You are to write a program to determine the least 
+expensive collection of packages that satisfy any customer's request.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input file contains several datasets. Each dataset is divided into two parts. The first one describes the packages 
+which are listed in the catalogue. The second part describes individual 
+customer requests. The 4 sizes of light bulbs are identified in the input file 
+by the characters ``<TT>a</TT>&quot;, ``<TT>b</TT>&quot;, ``<TT>c</TT>&quot;, and ``<TT>d</TT>&quot;.
+<P>
+<P>
+The first part of the dataset begins with an integer <I>n</I> ( <IMG WIDTH=81 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline44" SRC="233img1.gif"  > )
+indicating the number of packages described in the catalogue. Each of the <I>n</I>
+lines that follows is a single package description. A package description 
+begins with a catalogue number (a positive integer) followed by a price (a 
+real number), and then the sizes and corresponding numbers of the light bulbs 
+in the package. Between 1 and 4 different sizes of light bulbs will be listed 
+in each description. The listing format for these size-number pairs is a 
+blank, a character (``<TT>a</TT>&quot;, ``<TT>b</TT>&quot;, ``<TT>c</TT>&quot;, or ``<TT>d</TT>&quot;) representing a size, another blank,
+and then an integer representing the number of light bulbs of that size in the 
+package. These size-number pairs will not appear in any particular order, and 
+there will be no duplicate sizes listed in any package. The following line 
+describes a package with catalogue number 210 and price $76.95 which contains
+3 size ``<TT>a</TT>&quot; bulbs, 1 size ``<TT>c</TT>&quot; bulb, and 4 size ``<TT>d</TT>&quot; bulbs.
+<PRE>        210 76.95 a 3 c 1 d 4</PRE>
+<P>
+<P>
+The second part of the dataset begins with a line containing a single
+positive integer <I>m</I> representing the number of customer requests. Each of the
+remaining <I>m</I> lines is a customer request. A listing of sizes and corresponding
+numbers of light bulbs constitutes a request. Each list contains only the 
+size-number pairs, formatted the same way that the size-number pairs are 
+formatted in the catalogue descriptions. Unlike the catalogue descriptions, 
+however, a customer request may contain duplicate sizes. The following line 
+represents a customer request for 1 size ``<TT>a</TT>&quot; bulb, 2 size ``<TT>b</TT>&quot; bulbs, 2 size
+``<TT>c</TT>&quot; bulbs, and 5 size ``<TT>d</TT>&quot; bulbs.
+<PRE>        a 1 d 5 b 1 c 2 b 1</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each request, print the customer number (1 through <I>m</I>, 1 for the first
+customer request, 2 for the second,  <IMG WIDTH=20 HEIGHT=2 ALIGN=BOTTOM ALT="tex2html_wrap_inline54" SRC="233img2.gif"  > , <I>m</I> for the  <IMG WIDTH=26 HEIGHT=15 ALIGN=BOTTOM ALT="tex2html_wrap_inline58" SRC="233img3.gif"  >  customer), a colon, the
+total price of the packages which constitute the least expensive way to fill 
+the request, and then the combination of packages that the customer should 
+order to fill that request.
+<P>
+<P>
+Prices should be shown with exactly two significant digits to the right of the 
+decimal. The combination of packages must be written in ascending order of 
+catalogue numbers. If more than one of the same type package is to be ordered, 
+then the number ordered should follow the catalogue number in parentheses. You 
+may assume that each customer request can be filled. In some cases, the least 
+expensive way to fill a customer request may contain more light bulbs of some 
+sizes than necessary to fill the actual request. This is acceptable. What 
+matters is that the customers receive <I>at least</I> what they request.
+<p>Print a blank line after each dataset.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>5
+10 25.00 b 2
+502 17.95 a 1
+3 13.00 c 1
+55 27.50 b 1 d 2 c 1
+6 52.87 a 2 b 1 d 1 c 3
+6
+d 1
+b 3
+b 3 c 2
+b 1 a 1 c 1 d 1 a 1
+b 1 b 2 c 3 c 1 a 1 d 1
+b 3 c 2 d 1 c 1 d 2 a 1</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>1:   27.50 55
+2:   50.00 10(2)
+3:   65.50 3 10 55
+4:   52.87 6
+5:   90.87 3 6 10
+6:  100.45 55(3) 502</PRE>
+<P>
+</BODY>
+</HTML>

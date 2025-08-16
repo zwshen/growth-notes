@@ -1,0 +1,114 @@
+<html>
+
+<head>
+<meta name="description" content="dedicated to BPG">
+<meta name="description" content="...still to be DF">
+<title>An Odd Love</title>
+</head>
+
+<body bgcolor="#FFFFFF" lang="EN">
+<div align="center"><center>
+
+<table border="0" bgcolor="#0060F0">
+<TBODY>
+  <tr>
+    <td><font color="#C0FFFF" size="5"><b>&nbsp;D. An Odd Love&nbsp;</b></font></td>
+  </tr>
+</TBODY>
+</table>
+</center></div>
+
+<h2><font color="#0070E8">Context</font></h2>
+
+<p>Spring has arrived and our friend Pepito has fallen in love. But he is not sure if she
+also loves him, so he decides to <em>ask the daisies</em>. He takes a daisy and
+alternately speaks the phrases &quot;She loves me&quot; and &quot;She loves me not&quot;,
+while picking one petal off the flower for each phrase. The phrase corresponding to the
+last petal tells him whether his love is reciprocated or not.</p>
+
+<p>We want to help Pepito to always obtain the answer &quot;She loves me&quot;. Therefore,
+we will make sure that all the daisies have an odd number of petals, by picking one petal
+off the flowers with an even number.</p>
+
+<h2><font color="#0070E8">The Problem</font></h2>
+
+<p>We have a rectangular field of daisies, whose width is <em>W</em> and height <em>H</em>.
+There is a daisy in each position of this field (<em>w</em>, <em>h</em>), with <em>w</em>=
+1, 2, ..., <em>W</em>, and <em>h</em>= 1, 2, ..., <em>H</em>. We have patiently counted
+the number of petals of each daisy, <em>P</em>[<em>w</em>, <em>h</em>].</p>
+
+<p>Starting from the upper-left corner of the field --i.e., from position (1, 1)-- you
+have to pass through all positions of daisies with an even number of petals. If your
+current position is (<em>w</em>, <em>h</em>), you can only do three movements: go down (<em>h</em>+1),
+go left (<em>w</em>-1) and go right (<em>w</em>+1).</p>
+
+<p>Your task is to compute the minimum number of movements necessary to pass through all
+positions with an even number of petals.</p>
+
+<p align="center"><img src="images/oddlove.png" width="449" height="153"
+alt="oddlove.png (15513 bytes)"><br>
+<em><small>A sample case with W = 5 and H = 3. The solution is 11. This sample corresponds
+to the first case in the sample input.</small></em></p>
+
+<h2><font color="#0070E8">The Input</font></h2>
+
+<p>The first line of the input contains an integer indicating the number of test cases.</p>
+
+<p>For each test case, the first line contains two integers, <em>W</em> and <em>H</em>,
+separated by a blank space. Then, there are <em>H</em> lines. Each line consists of <em>W</em>
+digits (between 1 and 9) indicating the number of petals of the corresponding daisy.</p>
+
+<h2><font color="#0070E8">The Output</font></h2>
+
+<p>For each test case, the output should contain the minimum number of movements of the
+corresponding case.</p>
+
+<h2><font color="#0070E8">Sample Input</font></h2>
+
+<pre>5
+5 3
+54578
+36329
+75241
+9 1
+759456785
+2 2
+22
+22
+6 6
+777777
+772777
+777777
+777727
+727777
+777777
+7 7
+1811181
+1118811
+1881111
+8111111
+1188181
+1881181
+1111111
+</pre>
+
+<h2><font color="#0070E8">Sample Output</font></h2>
+
+<pre>11
+7
+3
+11
+24
+</pre>
+
+
+<hr>
+
+<p align="right"><font color="#000040"><small><small><a href="http://dis.um.es/contest"
+target="_blank">OMP'09</a><br>
+<a href="http://www.um.es/informatica" target="_blank">Facultad de Informatica<br>
+</a><a href="http://www.um.es" target="_blank">Universidad de Murcia (SPAIN)</a></small></small></p>
+</font>
+
+</body>
+</html>

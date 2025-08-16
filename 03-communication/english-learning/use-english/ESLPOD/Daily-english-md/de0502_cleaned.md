@@ -1,0 +1,92 @@
+# Storing Luggage on an Airplane
+
+Welcome to English as a Second Language Podcast number 5 02: Storing Luggage on an Airplane. 
+
+This is English as a Second Language Podcast episode 502.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California.  How are you today?   Well, good.  Thank you for asking; I’m fine, too. 
+
+Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode that contains all of the vocabulary, definitions, sample sentences, additional definitions, comprehension questions, cultural  notes, and a complete transcript of everything we say on this episode. 
+
+On this episode, we’re going to be talking about taking  “luggage,” which are your bags where you put your clothing and so forth, on an air plane.  It will be a dialogue between Yoshi and Tatiana using a lot of comm on vocabulary we use to describe luggage for traveling.  Let’s get started. 
+
+[start of dialogue] 
+
+Yoshi:  Can you hold my jacket while I try to get my rolle r bag down the aisle? 
+
+Tatiana:  All right, but I have to roll my own bag d own the aisle, you know.   
+
+Yoshi:  Fine, give it back to me.  All of these overhead  bins are full.  Where are we supposed to store them? 
+
+Tatiana:  Look, there are two spaces in the back of the p lane.  You put our big bags in those bins, and I’ll put our carry-ons under t he seats in front of us. 
+
+Yoshi:  Fine, but these seats are already cramped, and now, I’ll have no legroom for the entire flight.  Great!  That’s what we get f or not getting seats in the emergency exit row. 
+
+Tatiana:  If we had seats in the emergency exit row, you’ d be complaining about not being able to recline in your seat right now.  At  least we don’t have bulkhead seats.  Stop grumbling and get moving before somebody el se snags those overhead bins and we have to check those bags. 
+
+Yoshi:  Whose idea was it to go on vacation?  
+
+ Tatiana:  It was mine.  We both need some time to get  away and unwind. 
+
+Yoshi:  Yeah, right, I can’t remember the last time I  felt this relaxed! 
+
+[end of dialogue] 
+
+Our dialogue begins with Yoshi saying to Tatiana, “Can you hold my jacket (my coat) while I try to get my roller bag down the aisle?”   A “roller (roller) bag” is a suitcase that is on wheels.  It has, typically, a long “han dle,” something that you can pull it so you don’t have to carry it.  It has wheels so you can just pull it along the ground – along the floor.  That’s why it’s called a roller bag, because it rolls. Something that “rolls” is something like a wheel that g oes around and around. 
+
+Yoshi is on the airplane, and in the center of the air plane, on a small airplane, there are seats on both sides, typically three seats on each  side, and in the middle where you walk up and down the airplane is calle d the “aisle” (aisle). Notice that Yoshi says that he wants to get his bag down the aisle.  We use “down the…” when we are talking about walking, usually on a flat surface such as on the street or on the floor.  You can walk down t he street, that means you are walking on the sidewalk next to the street – we hope .  So, “down” is just indicating that you are walking on or along a certain place.  “Down” and “up” are sometimes used for directions as well: you can walk down t he stairs, meaning you are going from a higher place to a lower place.  O r you could walk up the stairs, meaning you were going from a lower place to a higher place.  But here, “down the aisle” simply means along this particular path.  
+
+Tatiana says, “All right, but I have to roll my own bag  down the aisle, you know.” Yoshi says, “Fine, give it back to me,” meaning his jacket.  Tatiana is complaining that she doesn’t have an extra hand – an extra arm, becau se she has to roll her bag down the aisle.  Yoshi says, “All of these overhead b ins are full.”  On an airplane, inside the airplane, above the seats there a re spaces where you can put your luggage – your bags.  And then, after you put your bags in you close the door.  Those things are called “overhead bins” (bins).  A  “bin” is simply a container – a large container.  “Overhead” refers to th e fact that they are over your head; you are sitting in the chair and they are abo ve you.  So, “overhead” means above. 
+
+Yoshi complains that the overhead bins are full, there’s no more room.  He asks, “Where are we supposed to store them (to store our lugg age)?”  “To store,” as a verb, means to keep something in a safe place for a per iod of time, something that you are planning on using later.  So, I may have l ots of extra books that don’t  
+
+ fit on my bookshelf; I put them in a box and I store th em in my garage.  I keep them there until I’m ready to use them again. 
+
+Tatiana says, “Look, there are two spaces in the back of th e plane.  You put our big bags in those bins, and I’ll put our carry-ons under  the seat in front of us.” So, Tatiana is telling Yoshi to take the two large bag s and put them in an open space – an open bin in the back of the plane.  She will  then take their two smaller bags, what we call “carry-on bags,” because you can carry the m onto the plane – you can bring them onto the plane.  She’s going to stor e the carry-on bags underneath the seat in front of them, because there’s a  space in the airplane in front of the seat that you are sitting in, typically, wh ere you can put a small bag, or your shoes, or purse, or a young child who is not beha ving, who is making noise.  You can put all those in the space in front of yo u.  I’m just kidding about the child, of course! 
+
+Yoshi says, “Fine, but these seats are already cramped, and  now, I have no legroom for the entire flight.”  This Yoshi does nothi ng but complain, I’m telling you!  Yoshi says these seats are cramped.  “To be cramped” m eans to be crowded; there’s not enough room.  He says that he has no  legroom for the flight. “Legroom” is space in front of you where you can, especia lly if you have long legs, extend your legs.  But if you have something in th e seat – below the seat in front of you, well then, you don’t have any room to pu t your legs there. 
+
+Yoshi says, “Great!  That’s what we get for not getting seats in the emergency exit row.”  Each line of seats is called a “row,” typically there’ll be anywhere between 25 and maybe 55 or more rows in an airplane –  in a big airplane.  The “emergency exit” is the place where if the plane has a pr oblem, if the plane has to land or the plane goes down before you get to the airport (something that I don’t recommend!) then you may have to escape, you may have  to get out of the airplane through the emergency exits.  They aren’t the e xits that you normally take to get out of the airplane, but in an emergency, especially if it’s in middle of the plane, those are the ones that you would use.  The  emergency exit rows are always a little bit “roomier,” that is, there’s more spa ce between the row of seats and the row of seats in front it, so there’s more room  for your legs.  That’s why many people try to get the emergency exit row seats. 
+
+Tatiana says, “If we had seats in the emergency exit row,  you’d be complaining about not being able to recline in your seat right n ow.”  In the emergency exit row, especially if there are two exit rows, typically one or both the rows will have seats than do not lean back.  Normally in an airplane wh en you sit down, you can press a small button and you can put your seat back farthe r – the top part of your seat, so you can rest or sleep.  But in the emergency exit r ow, sometimes you  
+
+ can’t do that because they want to have nothing in the w ay in case of an emergency so people can get out the emergency exits.  “To r ecline” means to put the seat back.  We have a noun, a “recliner,” that’s a b ig chair, usually in your living room, that you can push the back all the way so it i s almost flat.  That’s what you can do in an airplane, or most airplanes, you ca n recline your seat, using “recline” as a verb here meaning to lean backwards. 
+
+Tatiana then says, “At least we don’t have bulkhead seats. ”  A “bulkhead” (bulkhead) is a word that describes a type of wall that se parates different parts of the plane; it can also separate different parts of a sh ip.  Usually, if you have a seat in front of the bulkhead – in front of some wall on the airplane, you can’t put anything in front of you because there is no seat directly in front of you.  That would be a problem for Tatiana and Yoshi, since they do n’t have enough room for their bags in the overhead bins. 
+
+Tatiana then says to Yoshi, “Stop grumbling and get movi ng.”  “To grumble” (grumble) means to complain, to say something negative b ut not in a loud voice, in a quiet voice.  You may say, “Oh, people with those kid s, they keep yelling, and that cat keeps screaming, and…”  That would be to g rumble; you say something negative, you complain, but you don’t say it very loudly.  Well, Yoshi is grumbling, so Tatiana tells him to stop grumbling and “get moving,” meaning start to walk forward; hurry up and begin what you are suppose d to do, which in this case is to move forward to their seats.  “Move” has many d ifferent meanings in English; take a look at our Learning Guide for a furt her definition of that and the word “store” that we used earlier in the episode. 
+
+Tatiana says that Yoshi has to get moving before somebody else snags those overhead bins.  “To snag” (snag) means to grab or get so mething quickly, especially before someone else gets them.  So when you wal k into a movie theater, you may want to snag the best seats as soon as you walk in; you’re going to find the best seats so that no one else sits th ere before you.  Tatiana wants Yoshi to snag the overhead bins – to go and put th eir bags in the overhead bins, because if they don’t fit in the overhead bins the n they have to, typically, check their bags.  “To check your bag” means to give your sui tcase – your luggage to the airline employee and they put it unde rneath the plane.  This means that you have to wait when you get to wherever you ’re going in order to get your bag back, so many people don’t like to check their bags.  But now, with new security regulations, many people, probably most peopl e who are staying overnight check their bags. 
+
+Yoshi says, “Whose idea was it to go on vacation?”  Tatiana  says, “It was mine. We both needed some time to get away and unwind.”  “T o unwind” (unwind)  
+
+ means to relax, to stop being anxious, to stop feeling st ressed.  Of course, Yoshi is not unwinding; he says, “Yeah, right, I can’t rememb er the last time I felt this relaxed!”  He’s making a joke.  “I can’t remember the la st time I felt this relaxed” means this is a very rare thing for me to be so relaxed.  Of course, he isn’t relaxed; he’s very stressed and complaining and grumbling a ll the time, even though he is on his vacation. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Yoshi:  Can you hold my jacket while I try to get my rolle r bag down the aisle? 
+
+Tatiana:  All right, but I have to roll my own bag d own the aisle, you know.   
+
+Yoshi:  Fine, give it back to me.  All of these overhead  bins are full.  Where are we supposed to store them? 
+
+Tatiana:  Look, there are two spaces in the back of the p lane.  You put our big bags in those bins, and I’ll put our carry-ons under t he seats in front of us. 
+
+Yoshi:  Fine, but these seats are already cramped, and now, I’ll have no legroom for the entire flight.  Great!  That’s what we get f or not getting seats in the emergency exit row. 
+
+Tatiana:  If we had seats in the emergency exit row, you’ d be complaining about not being able to recline in your seat right now.  At  least we don’t have bulkhead seats.  Stop grumbling and get moving before somebody el se snags those overhead bins and we have to check those bags. 
+
+Yoshi:  Whose idea was it to go on vacation? 
+
+Tatiana:  It was mine.  We both need some time to get  away and unwind. 
+
+Yoshi:  Yeah, right, I can’t remember the last time I  felt this relaxed! 
+
+[end of dialogue] 
+
+The script for this episode was written by somebody who neve r grumbles about her work, Dr. Lucy Tse.   
+
+ From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

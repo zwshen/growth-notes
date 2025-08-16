@@ -1,0 +1,104 @@
+<html>
+<head>
+    <title>Bomb, Divide and Conquer</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem H</B></FONT><BR>
+<FONT SIZE="5"><B>Bomb, Divide and Conquer</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 3 seconds</FONT>
+</CENTER>
+</P>
+
+<p align="right">
+<table border=0><tr><td><small>
+<i>"War is God's way of teaching Americans geography."</i>
+</td></tr></table>
+<tt>Ambrose Bierce (1842 - <u>1914</u>)</tt>
+</small></p>
+
+<P CLASS="paragraph">
+The enemy has <b>n</b> cities connected by <b>m</b> roads. We have
+bombers that can destroy roads. The Bomb, Divide and Conquer strategy
+dictates that if we separate the enemy's cities from each other, then
+the two (or more) pieces will be easier to secure. Bombing a road has
+a cost (fuel, risk factor, etc.) What is the minimum total cost of
+bombing enough roads to ensure that there is some pair of cities
+that have no path between them? A path is a sequence of connected roads.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The first line of input gives the number of cases, <b>N</b>.
+<b>N</b> test cases follow. Each one starts with two lines containing
+<b>n</b> <nobr>(2&lt;=<b>n</b>&lt;=150)</nobr> and <b>m</b>
+<nobr>(0&lt;=<b>m</b>&lt;=<b>n</b>(<b>n</b>-1)/2)</nobr>. The next
+<b>m</b> lines contain <b>m</b> triples of integers
+denoting two different cities (between 1 and <b>n</b>) that are connected by a
+road and the cost of destroying that road (between 1 and 1000).
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+For each test case, output one line containing "Case #<b>x</b>:" 
+followed by the total cost of disconnecting a pair of cities.
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+4
+5
+4
+1 2 100
+2 3 299
+3 5 400
+5 4 99
+3
+3
+1 2 10
+2 3 20
+1 3 40
+4
+5
+1 2 10
+2 3 100
+3 4 10
+4 1 100
+1 3 10
+3
+1
+1 2 1000
+</PRE>
+</TD>
+<TD>
+<PRE>
+Case #1: 99
+Case #2: 30
+Case #3: 30
+Case #4: 0
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+<HR>
+<B>Problemsetter: Igor Naverniouk</B>
+</P>
+
+</td></tr></table>
+</body>
+</html>

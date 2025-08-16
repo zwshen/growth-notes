@@ -1,0 +1,325 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./c_files/filelist.xml">
+<link rel=Edit-Time-Data href="./c_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem C - How Many Triangles?</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>80</o:Revision>
+  <o:TotalTime>81</o:TotalTime>
+  <o:Created>2004-05-17T15:23:00Z</o:Created>
+  <o:LastSaved>2005-06-23T14:59:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>217</o:Words>
+  <o:Characters>1241</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>10</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1524</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:TimesNewRoman;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:18.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:TimesNewRoman;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:24.0pt;
+	mso-bidi-font-size:1.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:#772222;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+<meta content="" name=Author>
+<meta content="" name=Keywords>
+<meta content="" name=Description>
+</head>
+
+<body lang=EN-US link="#772222" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoTitle><span style='font-size:28.0pt;mso-bidi-font-size:1.0pt;
+font-family:Arial'>Problem C<o:p></o:p></span></p>
+
+<p class=MsoSubtitle><span class=MsoHyperlink><span style='font-size:20.0pt;
+mso-bidi-font-size:1.0pt;font-family:Arial;color:black;text-decoration:none;
+text-underline:none'>How Many Triangles?</span></span><span style='font-size:
+20.0pt;mso-bidi-font-size:1.0pt;font-family:Arial;color:black'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none'><b><span style='font-family:Arial;color:black'>Input:</span></b><span
+style='font-family:Arial;color:black'> standard input<br>
+<b>Output:</b> standard output<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='font-family:Arial;color:black'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;tab-stops:
+0in 47.95pt 95.9pt 143.85pt 191.8pt 239.75pt 287.7pt 335.65pt 383.6pt 431.55pt;
+mso-layout-grid-align:none;text-autospace:none'>A triangle is a polygon with three
+sides and a positive area (greater than zero). Two different triangles can have
+the same perimeter. For example the two different triangles <b
+style='mso-bidi-font-weight:normal'>(3, 4, 6)</b> and <b style='mso-bidi-font-weight:
+normal'>(3, 5, 5)</b> has the same perimeter <b style='mso-bidi-font-weight:
+normal'>13</b>. In this problem you will be given an integer perimeter. Your
+task is to determine how many different triangles there are having this
+perimeter, such that the length of all the sides of the triangle are also
+integers.&quot; Two triangles are same if the lengths of three sides of a
+triangle are equal to the length of three sides of the other triangle.</p>
+
+<p class=MsoNormal align=center style='text-align:center'><img src="p10872.jpg"></p>
+
+<h3 style='text-align:justify'><span style='font-size:16.0pt;mso-bidi-font-size:
+13.5pt;font-family:Arial'>Input<o:p></o:p></span></h3>
+
+<h3 style='text-align:justify'><span class=StyleArial16pt><span
+style='font-size:12.0pt;mso-bidi-font-size:13.5pt;font-family:Arial;font-weight:
+normal'>The input file contains less than </span></span><span
+class=StyleArial16pt><span style='font-size:12.0pt;mso-bidi-font-size:13.5pt;
+font-family:Arial'>2001</span></span><span class=StyleArial16pt><span
+style='font-size:12.0pt;mso-bidi-font-size:13.5pt;font-family:Arial;font-weight:
+normal'> lines of inputs. Each line contains a positive integer </span></span><span
+class=StyleArial16pt><span style='font-size:12.0pt;mso-bidi-font-size:13.5pt;
+font-family:Arial'>N (N&lt;=2<sup>31</sup>-1)</span></span><span
+class=StyleArial16pt><span style='font-size:12.0pt;mso-bidi-font-size:13.5pt;
+font-family:Arial;font-weight:normal'> that indicates the perimeter of a
+triangle. Input is terminated by a line containing a single zero. This line
+should not be processed.</span></span><span style='font-size:16.0pt;mso-bidi-font-size:
+13.5pt;font-family:Arial'><o:p></o:p></span></h3>
+
+<h3><span style='font-size:16.0pt;mso-bidi-font-size:13.5pt;font-family:Arial'>Output<o:p></o:p></span></h3>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-weight:bold'>For each line of
+input produce one line of output, which contains the serial of output as shown
+in the output for sample input followed by an integer </span><b
+style='mso-bidi-font-weight:normal'>T</b><span style='mso-bidi-font-weight:
+bold'>. Here </span><b style='mso-bidi-font-weight:normal'>T</b><span
+style='mso-bidi-font-weight:bold'> denotes the number different triangles with
+perimeter </span><b style='mso-bidi-font-weight:normal'>N</b><span
+style='mso-bidi-font-weight:bold'>. You can safely assume that </span><b
+style='mso-bidi-font-weight:normal'>T</b><span style='mso-bidi-font-weight:
+bold'> will fit in a </span><b style='mso-bidi-font-weight:normal'>64-bit</b><span
+style='mso-bidi-font-weight:bold'> signed integer.<span style="mso-spacerun:
+yes">  </span></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial;font-style:normal'>Sample
+Input<span style="mso-spacerun: yes">                               
+</span>Output for Sample Input<o:p></o:p></span></b></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width=319 valign=top style='width:239.4pt;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'><pre><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:12.0pt'>5<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt'>7<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt'>320920391<o:p></o:p></span></b></pre>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:12.0pt'>0</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;color:black;mso-fareast-language:ZH-CN'><o:p></o:p></span></b></p>
+  </td>
+  <td width=312 valign=top style='width:3.25in;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>Case
+  1: 1<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>Case
+  2: 2<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>Case 3:
+  2145622901773234</span></b><b><span style='font-size:11.0pt;mso-bidi-font-size:
+  10.0pt;font-family:"Courier New";mso-fareast-font-family:SimSun;mso-fareast-language:
+  ZH-CN'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p class=MsoNormal><b><span style='font-family:Arial'>Problem Setter: Shahriar
+Manzoor<o:p></o:p></span></b></p>
+
+<h2>Special Thanks: Jimmy Mårdell, EPS.<span style='font-weight:normal'> <o:p></o:p></span></h2>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>

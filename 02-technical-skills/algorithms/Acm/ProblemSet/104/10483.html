@@ -1,0 +1,109 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>The Sum Equals the Product</TITLE>
+<META NAME="description" CONTENT="The Sum Equals the Product">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+The Sum Equals the Product</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+One day in a supermarket I witnessed the following scene. A young man put 3 items onto the
+conveyor belt and watched the cashier entering the numbers. He noticed that the cashier did not
+add the 3 prices but multiplied them! He of course was not willing to pay the final outcome
+which appeared on the electronic display and asked for the manager to come. In the mean time
+the young man took a piece of paper, wrote down the 3 prices and added them up. For some
+strange reason the result was precisely the same. He paid the sum (which was also the product)
+and left. This equality only appears with very special triplets of numbers. I remember the sum
+(or product) beeing within a certain range (between $ 5.70 and $ 6.10). But, what were the 3
+prices?
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input contains two numbers specifying the range, separated by a space. The sum (or
+product) is to be within this range. Both numbers are positive (<SPAN CLASS="MATH">&lt; 256.00</SPAN>) and have 2 digits after
+the decimal point.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each special triplet found (with the sum of the 3 prices being the same as their product) with
+sum (and product) within the range, the output contains one line in the format:
+
+<P>
+
+<P>
+<BR>
+
+<!-- MATH
+ $sum = a + b + c = a * b * c$
+ -->
+<SPAN CLASS="MATH"><I>sum</I> = <I>a</I> + <I>b</I> + <I>c</I> = <I>a</I>*<I>b</I>*<I>c</I></SPAN>
+
+<P>
+
+<P>
+<BR>
+Where  <SPAN CLASS="MATH"><I>a</I></SPAN>,  <SPAN CLASS="MATH"><I>b</I></SPAN> and <SPAN CLASS="MATH"><I>c</I></SPAN> are the 3 prices in ascending order. The output lines shall start with the
+smallest sum (or product) within the range and also be in ascending order. In the special case of
+multiple solutions for one and the same sum (or product), the first line shall be the one
+containing the smallest price (<SPAN CLASS="MATH"><I>a</I></SPAN>).
+
+<P>
+All numbers (<SPAN CLASS="MATH"><I>sum</I></SPAN>, <SPAN CLASS="MATH"><I>a</I></SPAN>, <SPAN CLASS="MATH"><I>b</I></SPAN>, <SPAN CLASS="MATH"><I>c</I></SPAN>) are printed with 2 digits after the decimal point.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+5.70 6.10
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+5.70 = 1.25 + 1.60 + 2.85 = 1.25 * 1.60 * 2.85
+5.85 = 1.00 + 2.25 + 2.60 = 1.00 * 2.25 * 2.60
+5.88 = 0.98 + 2.40 + 2.50 = 0.98 * 2.40 * 2.50
+6.00 = 1.00 + 2.00 + 3.00 = 1.00 * 2.00 * 3.00
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+Problem-setter: Eric Schmidt, Former student of Technical University of Vienna, Now working at BOSCH
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

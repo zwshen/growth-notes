@@ -1,0 +1,256 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Baudot Data Communication Code</TITLE>
+<META NAME="description" CONTENT="Baudot Data Communication Code">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Baudot Data Communication Code</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Data are communicated between digital computers as sequences of bits. To
+provide meaning to a sequence of bits, the bits are grouped to form a data
+character and an encoding scheme, or translation table, is provided to allow
+a computer system to translate each group of bits into a character. The
+ideal encoding scheme will provide a unique code for every possible character
+to be communicated and stored in the computer, but this requires that each
+group have a sufficient number of bits for each data character.
+
+<P>
+A code used early in the data communications industry is the Baudot code.
+Baudot uses five bits per character, thus allowing up to 32 distinct
+characters. As a technique used to extend this limitation,
+the code uses up-shift
+and down-shift modes as is used on a typewriter. In the Baudot code, each
+five bits transmitted must be
+interpreted according to whether they are up-shifted (figures)
+or down-shifted (letters). For example, the bit pattern
+11111 represents up-shift and the bit pattern 11011 represents down-shift
+characters. All characters transmitted after the sequence 11111 but before
+the shifted sequence 11011 are treated as up-shift characters.
+All characters transmitted after the sequence 11011 are treated as down-shift
+characters until the pattern 11111 is recognized. The complete BAUDOT code
+(modified for this problem) is shown in the table at the end of this problem.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input consists of two parts. The first part is the Baudot character set:
+line one contains the 32 down-shift characters and line two contains the 32
+up-shift characters. (Note: spaces are inserted for the shift characters.)
+The remainder of the input file consists of one or more messages encoded
+using the Baudot code. Each message will be on a line in the input file.
+Each line will consist of <TT>1</TT>'s and <TT>0</TT>'s, with no characters between the bits. There can be up to 80 bits per message. 
+
+<P>
+The input file will be terminated by end-of-file. The initial state of each message should be assumed to be in the down-shift state.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The output should consist of one line of text for each message. The output
+should contain the character representation, as translated using BAUDOT, of
+each of the messages.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+&lt;T*O HNM=LRGIPCVEZDBSYFXAWJ UQK 
+&gt;5@9 %,.+)4&amp;80:;3"$?#6!/-2' 71( 
+100100110011000010011111101110000111110111101
+001100001101111001001111100001001100010001100110111100000111
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+DIAL:911
+NOV 5, 8AM
+</PRE>
+
+<P>
+
+<DIV ALIGN="CENTER">
+<P>
+<TABLE CELLPADDING=3 BORDER="1">
+<TR><TD ALIGN="CENTER"><B> Bit Pattern</B></TD>
+<TD ALIGN="CENTER"><B> Down-Shift Character</B></TD>
+<TD ALIGN="CENTER"><B> Up-Shift Character</B></TD>
+</TR>
+<TR><TD ALIGN="CENTER">00000</TD>
+<TD ALIGN="CENTER">&lt;</TD>
+<TD ALIGN="CENTER">&gt;</TD>
+</TR>
+<TR><TD ALIGN="CENTER">00001</TD>
+<TD ALIGN="CENTER">T</TD>
+<TD ALIGN="CENTER">5</TD>
+</TR>
+<TR><TD ALIGN="CENTER">00010</TD>
+<TD ALIGN="CENTER">*</TD>
+<TD ALIGN="CENTER">@</TD>
+</TR>
+<TR><TD ALIGN="CENTER">00011</TD>
+<TD ALIGN="CENTER">O</TD>
+<TD ALIGN="CENTER">9</TD>
+</TR>
+<TR><TD ALIGN="CENTER">00100</TD>
+<TD ALIGN="CENTER">Space</TD>
+<TD ALIGN="CENTER">Space</TD>
+</TR>
+<TR><TD ALIGN="CENTER">00101</TD>
+<TD ALIGN="CENTER">H</TD>
+<TD ALIGN="CENTER">%</TD>
+</TR>
+<TR><TD ALIGN="CENTER">00110</TD>
+<TD ALIGN="CENTER">N</TD>
+<TD ALIGN="CENTER">,</TD>
+</TR>
+<TR><TD ALIGN="CENTER">00111</TD>
+<TD ALIGN="CENTER">M</TD>
+<TD ALIGN="CENTER">.</TD>
+</TR>
+<TR><TD ALIGN="CENTER">01000</TD>
+<TD ALIGN="CENTER">=</TD>
+<TD ALIGN="CENTER">+</TD>
+</TR>
+<TR><TD ALIGN="CENTER">01001</TD>
+<TD ALIGN="CENTER">L</TD>
+<TD ALIGN="CENTER">)</TD>
+</TR>
+<TR><TD ALIGN="CENTER">01010</TD>
+<TD ALIGN="CENTER">R</TD>
+<TD ALIGN="CENTER">4</TD>
+</TR>
+<TR><TD ALIGN="CENTER">01011</TD>
+<TD ALIGN="CENTER">G</TD>
+<TD ALIGN="CENTER">&amp;</TD>
+</TR>
+<TR><TD ALIGN="CENTER">01100</TD>
+<TD ALIGN="CENTER">I</TD>
+<TD ALIGN="CENTER">8</TD>
+</TR>
+<TR><TD ALIGN="CENTER">01101</TD>
+<TD ALIGN="CENTER">P</TD>
+<TD ALIGN="CENTER">0</TD>
+</TR>
+<TR><TD ALIGN="CENTER">01110</TD>
+<TD ALIGN="CENTER">C</TD>
+<TD ALIGN="CENTER">:</TD>
+</TR>
+<TR><TD ALIGN="CENTER">01111</TD>
+<TD ALIGN="CENTER">V</TD>
+<TD ALIGN="CENTER">;</TD>
+</TR>
+<TR><TD ALIGN="CENTER">10000</TD>
+<TD ALIGN="CENTER">E</TD>
+<TD ALIGN="CENTER">3</TD>
+</TR>
+<TR><TD ALIGN="CENTER">10001</TD>
+<TD ALIGN="CENTER">Z</TD>
+<TD ALIGN="CENTER">"</TD>
+</TR>
+<TR><TD ALIGN="CENTER">10010</TD>
+<TD ALIGN="CENTER">D</TD>
+<TD ALIGN="CENTER">$</TD>
+</TR>
+<TR><TD ALIGN="CENTER">10011</TD>
+<TD ALIGN="CENTER">B</TD>
+<TD ALIGN="CENTER">?</TD>
+</TR>
+<TR><TD ALIGN="CENTER">10100</TD>
+<TD ALIGN="CENTER">S</TD>
+<TD ALIGN="CENTER">#</TD>
+</TR>
+<TR><TD ALIGN="CENTER">10101</TD>
+<TD ALIGN="CENTER">Y</TD>
+<TD ALIGN="CENTER">6</TD>
+</TR>
+<TR><TD ALIGN="CENTER">10110</TD>
+<TD ALIGN="CENTER">F</TD>
+<TD ALIGN="CENTER">!</TD>
+</TR>
+<TR><TD ALIGN="CENTER">10111</TD>
+<TD ALIGN="CENTER">X</TD>
+<TD ALIGN="CENTER">/</TD>
+</TR>
+<TR><TD ALIGN="CENTER">11000</TD>
+<TD ALIGN="CENTER">A</TD>
+<TD ALIGN="CENTER">-</TD>
+</TR>
+<TR><TD ALIGN="CENTER">11001</TD>
+<TD ALIGN="CENTER">W</TD>
+<TD ALIGN="CENTER">2</TD>
+</TR>
+<TR><TD ALIGN="CENTER">11010</TD>
+<TD ALIGN="CENTER">J</TD>
+<TD ALIGN="CENTER">'</TD>
+</TR>
+<TR><TD ALIGN="CENTER">11011</TD>
+<TD ALIGN="CENTER">Shift Down</TD>
+<TD ALIGN="CENTER">Shift Down</TD>
+</TR>
+<TR><TD ALIGN="CENTER">11100</TD>
+<TD ALIGN="CENTER">U</TD>
+<TD ALIGN="CENTER">7</TD>
+</TR>
+<TR><TD ALIGN="CENTER">11101</TD>
+<TD ALIGN="CENTER">Q</TD>
+<TD ALIGN="CENTER">1</TD>
+</TR>
+<TR><TD ALIGN="CENTER">11110</TD>
+<TD ALIGN="CENTER">K</TD>
+<TD ALIGN="CENTER">(</TD>
+</TR>
+<TR><TD ALIGN="CENTER">11111</TD>
+<TD ALIGN="CENTER">Shift Up</TD>
+<TD ALIGN="CENTER">Shift Up</TD>
+</TR>
+</TABLE>
+
+<P>
+
+<P><P>
+<BR>
+Table: The BAUDOT code
+
+<P>
+</DIV>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

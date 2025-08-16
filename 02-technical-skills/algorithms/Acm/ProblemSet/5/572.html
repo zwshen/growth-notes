@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Oil Deposits</TITLE>
+<META NAME="description" CONTENT="Oil Deposits">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Oil Deposits</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The GeoSurvComp geologic survey company is responsible for detecting
+underground oil deposits. GeoSurvComp works with one large rectangular
+region of land at a time, and creates
+a grid that divides the land into numerous square plots. It then analyzes
+each plot separately,
+using sensing equipment to determine whether or not the plot contains oil.
+
+<P>
+A plot containing
+oil is called a pocket. If two pockets are adjacent, then they are part of
+the same oil deposit. Oil
+deposits can be quite large and may contain numerous pockets. Your job is to
+determine how many different oil deposits are contained in a grid.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains one or more grids. Each grid begins with a line
+containing <I>m</I> and <I>n</I>, the
+number of rows and columns in the grid, separated by a single space. If
+<I>m</I> = 0 it signals the end
+of the input; otherwise 
+<!-- MATH: $1 \le m \le 100$ -->
+<IMG
+ WIDTH="101" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="572img1.gif"
+ ALT="$1 \le m \le 100$">
+and 
+<!-- MATH: $1 \le n \le 100$ -->
+<IMG
+ WIDTH="96" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="572img2.gif"
+ ALT="$1 \le n \le 100$">.
+Following
+this are <I>m</I> lines of <I>n</I> characters
+each (not counting the end-of-line characters). Each character corresponds to
+one plot, and is
+either `<TT>*</TT>', representing the absence of oil, or `<TT>@</TT>', representing an oil pocket.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each grid, output the number of distinct oil deposits. Two different
+pockets are part of the
+same oil deposit if they are adjacent horizontally, vertically, or diagonally.
+An oil deposit will not contain more than 100 pockets.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1 1
+*
+3 5
+*@*@*
+**@**
+*@*@*
+1 8
+@@****@*
+5 5
+****@
+*@@*@
+*@**@
+@@@*@
+@@**@
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+0
+1
+2
+2
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1998-03-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

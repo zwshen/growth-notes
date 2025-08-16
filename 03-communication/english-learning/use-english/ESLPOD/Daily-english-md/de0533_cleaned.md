@@ -1,0 +1,78 @@
+# Making Funeral and Burial Arrangements
+
+Welcome to English as a Second Language Podcast number 5 33: Making Funeral and Burial Arrangements. 
+
+This is English as a Second Language Podcast episode 533.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development, right here in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode.  To help support these free audio podcasts you ca n also make a small donation on our website, if you would like to support  us that way. 
+
+This episode is called “Making Funeral and Burial Arrang ements.”  Reiko and Lucas are having a conversation about what will happen wh en they die – what they want done with their body after they die.  So, we ’ll have vocabulary related to death.  On that happy note, let’s get started! 
+
+[start of dialogue] 
+
+Reiko:  When I die, I want a big funeral.  The more mourners the better! 
+
+Lucas:  Not me.  I’m just the opposite.  I don’t want a ny kind of funeral or wake.  I just want to be cremated and have my ashes scattered. 
+
+Reiko:  What?  You don’t want to be buried in a beau tiful casket with a big headstone?  Better yet, how about being interred in a  mausoleum? 
+
+Lucas:  You’ve got to be kidding me!  Why would I all wa nt all of that hoopla?  I’m dead.  What difference would it make to me? 
+
+Reiko:  It’s not for you.  It’s for the mourners.  Having  a ceremony and a burial will help them grieve. 
+
+Lucas:  Not my friends and family.  The less fuss the better  for them.  Most of my family is buried in simple gravesites in non-denomination al cemeteries. 
+
+Reiko:  What’s the fun in that? 
+
+Lucas:  I think you’re forgetting one thing: we’re talki ng about death.  It’s not supposed to be fun and games! 
+
+ [end of dialogue] 
+
+Reiko begins our dialogue by saying, “When I die, I wan t a big funeral.”  A “funeral” is a ceremony that you have after a person die s; it is a way of allowing people to say goodbye.  Funerals have been around for a s long as we have any sort of recorded history in almost every culture.  Sometime s the funeral is religious; sometimes it is not.  Reiko says she wants a big funeral.  She says, “The more mourners the better!”  A “mourner” (mourne r) is a person who is very sad because someone they know has died, usually a friend or  a member of the family, or it could just be someone they know very well.  “To mourn,” as a verb, means to feel sad because someone has died; you’re rememb ering that person. Often, mourners wear (at least in Western traditions) b lack if they are “in mourning,” that is, if they are observing the time of sa dness, of grief, of sorrow after someone has died.   
+
+Reiko says, “The more mourners the better!” meaning she wants as many people there mourning her as possible.  Lucas says, “Not me (I do n’t agree).  I’m just the opposite.  I don’t want any kind of funeral or wake.”  A “wake” (wake) is a period of time after death but before a funeral, when peop le get together to remember the person.  Often there’s food at a wake; it depends on whether it’s held in someone’s home, which was the old tradition, or in what  we would call a “funeral home.”  A “funeral home” is a place that prepares the body after it dies but before it goes into the ground (before it is buried).  Wakes ca n sometimes have a religious aspect to them as well.  When someone dies, the  night before the funeral there’s often a wake, where people can go and talk to each other, talk to the family members, say some prayers for the person who has died.  That’s one kind of wake.  “Wake” has a number of different meaning s; take a look at the Learning Guide for some additional explanations. 
+
+Lucas says, “I don’t want any kind of funeral or wake.  I j ust want to be cremated and to have my ashes scattered.”  There’s usually two thin gs that you do with the body once someone dies.  One option is to “bury” the bod y; that is, to dig a hole in the ground, and put the body in the hole.  Usually,  you put it in a box before you put it in the hole.  The other option is to “crem ate” (cremate).  When someone is “cremated,” the body is burned until the only thing left you have are what are called “ashes,” gray-colored powder that is l eft.  Those ashes are then sometimes put into a small container, which is called it an “urn” (urn).  Well, Lucas doesn’t want to be buried, he wants to be cremated  and to have his ashes scattered.  “To scatter” (scatter) means to spread something  around, put a small amount of something over a large area.  “To scatter o ne’s ashes” means to take the ashes after the body has been burned – you take what  is left of the body, the ashes, and you throw it, perhaps, over a lake or in the ocean or out in the trees.   
+
+ It depends on what your preference is.  Some religious t raditions don’t allow this scattering of ashes; it’s not part of the funeral.  But some people have done this, and continue to do this: take their burned remains and  scatter them somewhere. “Scatter” has a couple of different meanings; take a loo k at the Learning Guide for some additional explanations. 
+
+Reiko says, “What?  You don’t want to be buried in a be autiful casket with a big headstone?”  We talked about the verb “to bury,” to put  the body into the ground. This is the traditional way that funerals were conducted .  This is what you typically did, at least in the United States up until r ecently you would have a funeral.  I’m not sure if it is still the most common wa y of getting rid of the body. Perhaps cremation has become more popular, I’m not sure .  The “casket” (casket) is the box that you put the dead body in before it goes into the ground. A “headstone,” sometimes called a “tombstone” (“tomb” i s another word for the place where you put a body), is a piece of stone, typicall y, that has your name on it, often the day that you were born and the day that you died, or the year that you were born and the year that you died.  Sometimes th e headstone (or gravestone) has something about the person: “He was a w onderful husband and father.”  On my headstone, it will say: “He is no longe r in beautiful Los Angeles, California”!  That’s a headstone.   
+
+Reiko says, “how about being interred in a mausoleum?”  We mentioned how the body in a casket is typically put into the ground.  But th ere’s also another option with a body and a casket, and that is to put the casket in to a mausoleum.  A “mausoleum” is small building that is used to hold the bodies of dead people. Often, this was done with a very rich family for example.   There are some churches that have mausoleums.  The Catholic cathedral he re in Los Angeles has a mausoleum underneath the church, where you can buy a place to have your body put.  “To inter” (inter) means to bury the body or to place it in a mausoleum.  It’s a special verb that we use when we’re t alking about funerals. Sometimes, the actual placing of the body in the ground  or in the mausoleum is called the “internment.” 
+
+Lucas says, “You’ve got to be kidding me!  Why would I all want all of that hoopla?”  “Hoopla” (hoopla) means a lot of excitement , a lot of attention, a great deal of activity, many things going on.  It’s a somewhat informal expression to talk about, perhaps, too much excitement, too many things going on.  When someone is celebrating, they may have a party with a lot of hoopla – a lot of things going on, music and dancing, that sort of thing.  Here, Lucas simply means he doesn’t want to go to all of this trouble aft er he dies – or at least, someone else go to that trouble.  He says, “I’m dead.  W hat difference would it make to me?”  
+
+ Reiko says, “It’s not for you.  It’s for the mourners.  Havi ng a ceremony and a burial will help them grieve.”  “To grieve” (grieve) means you are feeling sad because someone has died, or you perhaps have lost somethin g important. Reiko is saying that the funeral is to help your friends and family grieve, to get through this sadness, to let the sadness be expressed. 
+
+Lucas says, “Not my friends and family.  The less fuss the bett er for them.”  Once again, we have this expression as we had earlier in the dialogue when we heard “The more mourners the better,” here we have “The le ss fuss the better.”  This way of expressing things means simply that it would be bett er if we had more mourners, or it would be better if we had less fuss.  “F uss” (fuss) means a lot of unnecessary activity or excitement.  Lucas says his family and frie nds don’t want all of that.  “Most of my family is buried in simple gra vesites in non- denominational cemeteries.”  A “gravesite” is a place wh ere the body is buried. We mentioned before the word “tomb,” a “gravesite” is similar to that.  A “cemetery” is a large place where there are many differe nt bodies buried. “Denominational” refers to a particular type of church o r religious organization.  In the Christian tradition, that would include Anglicans, Methodists, Baptists, Catholics, and so forth.  Those are all different deno minations.  A “non- denominational” cemetery would be a cemetery for anyone , regardless of their religion. 
+
+Reiko says, “What’s the fun in that?” meaning that’s not very interesting.  Lucas says, “I think you’re forgetting about one thing: we’re  talking about death.  It’s not supposed to be fun and games!”  The expression “fun and  games” means things that are not very serious, that are only meant to have a good time.  Reiko says that being cremated and having one’s ashes scattered is n ot very fun, and Lucas says well, it’s not supposed to be fun, because we’re tal king about something that is sad, which is death.  At least, that’s Lucas’ view . 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Reiko:  When I die, I want a big funeral.  The more mourners the better! 
+
+Lucas:  Not me.  I’m just the opposite.  I don’t want a ny kind of funeral or wake.  I just want to be cremated and have my ashes scattered. 
+
+Reiko:  What?  You don’t want to be buried in a beau tiful casket with a big headstone?  Better yet, how about being interred in a  mausoleum?  
+
+ Lucas:  You’ve got to be kidding me!  Why would I all wa nt all of that hoopla?  I’m dead.  What difference would it make to me? 
+
+Reiko:  It’s not for you.  It’s for the mourners.  Having  a ceremony and a burial will help them grieve. 
+
+Lucas:  Not my friends and family.  The less fuss the better  for them.  Most of my family is buried in simple gravesites in non-denomination al cemeteries. 
+
+Reiko:  What’s the fun in that? 
+
+Lucas:  I think you’re forgetting one thing: we’re talki ng about death.  It’s not supposed to be fun and games! 
+
+[end of dialogue] 
+
+Writing scripts is not all fun and games.  Just ask the script writer for this episode, Dr. Lucy Tse.   
+
+From Los Angeles, California, I am Jeff McQuillan.  Th ank you for listening. Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

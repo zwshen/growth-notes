@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML>
+<head>
+<title>Horizon Line</title>
+<style>
+	p {text-align: justify;}
+	p.center {text-align: center;}
+</style>
+</head>
+
+<body bgcolor=white>
+
+<h1 align="center"><font color=blue>Problem A - Horizon Line</font></h1>
+
+<p>Let  <b><i>f(x)</i></b> and <b><i>g(x)</i></b> be two functions
+defined in the same domain <b>[a,b]</b>. The horizon line corresponds
+to the function that presents, in each point <b><i>x</i></b>,
+the maximum value from both original functions: <b><i>h(x)=Max(f, g)</i></b>.
+
+
+<p class=center><img src="p972.gif" width="408" height="418" alt="" border="0"><br><b>Figure 1 - </b> Construction of a horizon function
+
+<p>The maximum value of <b><i>h(x)</i></b> can be directly obtained
+from the both functions maxima, so it wouldn't make it necessary to
+determine the horizon line. Nevertheless, the same is not true for the
+minimum value of
+<b><i>h(x)</i></b> that has to be evaluated through a more complex method.
+ 
+<h2><font color=blue>The Problem</font></h2>
+
+<p>Your task for this problem is to evaluate the minimum value of a
+horizon line <b><i>h(x)</i></b>, given two functions <b><i>f(x)</i></b>
+and <b><i>g(x)</i></b>. To make it easier, both initial functions are
+composed by different steps like the dotted lines represented in
+figure 1, but <b><i>x</i></b> and <b><i>y</i></b> values are not
+necessarily integer values. Each function is composed by a sequence of
+<b><i>N</i></b> steps, with each step being defined by a length and a
+value.
+It is ensured that the last step ends at the domain upper limit and
+the domain is always <b>[0,10]</b>.
+
+<h2><font color=blue>Input</font></h2>
+
+<b>
+The input will contain several test cases, each of them as described below.
+Consecutive test cases are separated by a single blank line.
+</b>
+<p>
+<p>
+<p>The input is made of two sequences of text lines, representing the functions <b><i>f</i></b> and <b><i>g</i></b>.
+
+<p>In each sequence, the first line contains the number of the
+function
+steps <b>N</b> (integer format); it is followed by <b><i>N</i></b>
+lines containing, each one, the step value and the step length
+(by this order, in decimal format) separated by one or more spaces.
+It is ensured that a sequence has no more than 100 steps.
+
+<h2><font color=blue>Output</font></h2>
+
+<p>For each test case, the output is made of one text line containing the minimum value of the horizon line <b><i>h(x)</i></b>. It must be rounded to
+three decimal digits.
+
+<h2><font color=blue>Example Input</font></h2>
+<pre>
+4
+6.0 2.0
+1.0 3.0
+3.0 1.0
+5.0 4.0
+3
+4.0 4.0
+8.0 4.0
+1.0 2.0
+</pre>
+
+<h2><font color=blue>Example Output</font></h2>
+<pre>
+4.000
+</pre>
+
+<hr>
+<p class=center><b>2006 Programming Contest of Porto University</b><br>
+Round 3, 11th of October of 2006<br>
+&nbsp;<br>
+<i>(Author: <b>Augusto Sousa</b> - FEUP)</i>
+<hr>
+
+</body>
+
+</html>

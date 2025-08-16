@@ -1,0 +1,86 @@
+<HTML>
+<HEAD>
+<TITLE>MIUP'2003: Problem B</TITLE>
+</HEAD>
+
+<BODY bgcolor="white">
+
+<font color="#0000FF">
+<H1>Problem B</H1>
+
+<H1 align="center">Rational Neighbor</H1>
+</font>
+
+
+<FONT color="#0000FF"><H2>Introduction</H2></FONT>
+
+As we know, finding a rational close to a given
+rational is straightforward. The minimal distance
+between two distinct integers is 1.
+By contrast, there is no minimal distance between
+two distinct rationals.
+A straightforward method for finding a rational close to
+a given rational <I>a</I>/<I>b</I> is based on the following
+construction. For every <I>m</I> &gt; 0 one has
+<I>a</I>/<I>b</I> = (<I>a</I> <I>m</I>)/(<I>b</I> <I>m</I>), and the neighbors
+(<I>a</I> <I>m</I> ± 1)/(<I>b</I> <I>m</I>) lie at distance 1/(<I>b</I> <I>m</I>)
+from the given rational. So, by choosing <I>m</I> to be sufficiently
+large, one can make the distance to be as small as we please.<BR>
+<BR>
+
+
+<FONT color="#0000FF"><H2>Problem</H2></FONT>
+
+Given a rational <I>a</I>/<I>b</I>
+and an upper bound <I>n</I> for the distance,
+the problem consists to find the
+rational <I>c</I>/<I>d</I> such that:
+<DL COMPACT=compact>
+<DT><B>(i)</B><DD> <I>a</I>/<I>b</I> &lt; <I>c</I>/<I>d</I>;
+<DT><B>(ii)</B><DD> the distance between the rationals
+<I>a</I>/<I>b</I> and <I>c</I>/<I>d</I> is smaller
+or equal than <I>n</I>;
+<DT><B>(iii)</B><DD> the denominator <I>d</I> is as small as possible.
+</DL>
+
+<FONT color="#0000FF"><H2>Input</H2></FONT>
+The input will contain several test cases, each of them consisting of two lines.<br>
+The first line of the input contains
+two positive integers <I>a</I> and <I>b</I> which
+define the rational number <I>a</I>/<I>b</I>.
+The integers <I>a</I> and <I>b</I> are assumed to
+be in the interval [1,100000].
+The second line contain a positive real number <I>n</I>,
+0.00000001<FONT FACE=symbol>&le;</FONT> <I>n</I> <FONT FACE=symbol>&le;</FONT> 0.1, which gives
+the maximum distance allowed.<BR>
+<BR>
+
+<FONT color="#0000FF"><H2>Output</H2></FONT>
+
+For each test case, write to the output, on a line by itself, the two positive
+integers <I>c</I> and <I>d</I> which solve the problem.<BR>
+<BR>
+
+<FONT color="#0000FF"><H2>Sample Input</H2></FONT>
+
+<PRE>
+96 145
+0.0001
+</PRE>
+
+<FONT color="#0000FF"><H2>Sample Output</H2></FONT>
+
+<PRE>
+49 74
+</PRE>
+
+
+
+<hr>
+<i>
+Delfim Marado Torres, MIUP'2003<br>
+(Portuguese National ACM Programming Contest)
+</i>
+
+</BODY>
+</HTML>

@@ -1,0 +1,227 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./d_files/filelist.xml">
+<title>Problem D - The Treasure Hunt</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Rezaul Alam Chowdhury</o:Author>
+  <o:LastAuthor>Administrator</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:LastPrinted>1999-05-07T21:14:00Z</o:LastPrinted>
+  <o:Created>2001-01-10T10:41:00Z</o:Created>
+  <o:LastSaved>2001-01-10T10:41:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>395</o:Words>
+  <o:Characters>2256</o:Characters>
+  <o:Company>CSE, BUET</o:Company>
+  <o:Lines>18</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2770</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=5>Problem D</font></span></b></p>
+
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=6>The Treasure
+Hunt</font></span></b></p>
+
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Input : </b>treasure.in<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Output : </b>standard output</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>In this problem you will be given
+a map of a rectangular maze with square blocks. From each block you can move in
+four directions (N, E, W, S) and you lose some energy for every walk from one
+block to an adjacent one. Some blocks of the maze are really blocked - that is
+you cannot move to those blocks. Some other blocks contain some treasures that
+you will have to collect. Each treasure has a particular pickup cost and
+carrying cost associated with it. The pickup cost is the energy required to
+pick up the treasure from the floor and the carrying cost is the energy
+required to carry the treasure from one block to an adjacent one.</p>
+
+<p class=MsoNormal style='text-align:justify'><span style='mso-tab-count:1'>            </span>Now
+given a starting and ending location in the maze you will have to plan a single
+walk from the starting location to collect and carry all the treasures to the
+ending location at the expense of minimum energy.</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Input</span></b></font></p>
+
+
+<p class=MsoNormal style='text-align:justify'>The first line of the input
+contains two integers <i style='mso-bidi-font-style:normal'>R</i> and <i
+style='mso-bidi-font-style:normal'>C</i> (each <= 20) describing the dimensions
+of the maze. Then follows <i style='mso-bidi-font-style:normal'>R</i> lines of <i
+style='mso-bidi-font-style:normal'>C</i> characters each representing the map
+of the maze. Each character corresponds to a square block and represents its
+property ('.' : an empty block, '#' : a blocked block, '*' : a block containing
+a treasure, 'S' : the starting block, 'T' : the ending block).</p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'>The next line
+contains an integer representing the energy required in calories for a walk
+from a block to an adjacent one. </p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'>The next line
+contains pairs of integers (<i style='mso-bidi-font-style:normal'>P<sub>i</sub></i>,
+<i style='mso-bidi-font-style:normal'>C<sub>i</sub></i>) representing the
+pickup and carrying cost in calories for the treasures given in the map from
+top to bottom and for the same row from left to right. There will be at most 10
+treasures in the maze.</p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'>The input may
+contain multiple test cases and ends with two zeros for <i style='mso-bidi-font-style:
+normal'>R</i> and <i style='mso-bidi-font-style:normal'>C</i>.</p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;mso-bidi-font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Output</font></span></b></p>
+
+
+<p class=MsoNormal style='text-align:justify'>For each test case first output
+the hunt number. In the next line print the minimum energy required for the
+hunt. The third line will contain the description of the hunt as a sequence of
+characters containing 'N', 'E', 'W', 'S' and 'P'. 'N', 'E', 'W' and 'S' represent
+a walk to the north, east, west and south respectively and 'P' means that the
+treasure is picked up from the current location. If the hunt is impossible just
+output the sentence 'The hunt is impossible.' in a line by itself. Each test
+case output must be followed by a blank line.</p>
+
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Input</font></span></b></p>
+<font size=3 face="courier">
+5 8<br>
+
+#......T<br>
+
+..#*..#.<br>
+
+..######<br>
+
+...*...#<br>
+
+####S.#*<br>
+
+5<br>
+
+10 50 50 100 30 80 <br>
+
+10 10<br>
+
+#........*<br>
+
+..#*..#...<br>
+
+..######..<br>
+
+.......#..<br>
+
+####S..##.<br>
+
+.*.#...#..<br>
+
+.......#..<br>
+
+.##.#....#<br>
+
+.*.....#.#<br>
+
+....*..#.T<br>
+
+10<br>
+
+100 400 20 50 150 250 30 70 4 5 <br>
+
+0 0<br><br>
+</font>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Output</font></span></b></p>
+<font size=3 face="Courier">
+
+Hunt #1<br>
+
+The hunt is impossible.<br>
+
+<br>
+Hunt #2<br>
+
+Minimum energy required = 17539 cal<br>
+
+NWWWNNNEESPNWWSSSEEESSSWSSESPWWWNPWNNENPESEEESEEENENNNNNNPSSSSSWSSSSE<br>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+</font>
+</div>
+
+<font size=3 face="Times New Roman">
+_________________________________________________________________________________________
+<br>Rezaul Alam Chowdhury
+</body>
+
+</html>

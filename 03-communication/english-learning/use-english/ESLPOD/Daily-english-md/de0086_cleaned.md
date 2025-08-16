@@ -1,0 +1,82 @@
+# Asking About Jobs
+
+Welcome to English as a Second Language Podcast num ber 86: Asking About Jobs. 
+
+This is English as a Second Language Podcast episod e 86. I’m your host, Dr. Jeff McQuillan, from the Center for Educational Dev elopment in beautiful Los Angeles, California. Be sure to visit our website a t www.eslpod.com.  
+
+Today’s podcast is about asking someone politely ab out their job. Let’s go! 
+
+[start of dialogue] 
+
+I was at the store the other day. I saw a former co -worker, Michael, across the room. He used to work at my company until he quit a  few months ago to start a new job as a public relations officer at Missouri U niversity. It's a job he's been working toward for years. He wasn't happy working f or a corporation and wanted to get into either a non- profit organization or a university. I wanted to see how he was doing. The truth was, I was thinking of making a move myself.  
+
+Becky: Hey, Michael. Remember me? I'm Becky. We use d to work at Lekmans together.  
+
+Michael: Oh, sure. How are you? Long time, no see. How are things at Lekmans? 
+
+Becky: It's about the same. I've been thinking of m aking a change myself. Do you mind if I ask you a few things about your job at th e university?  
+
+Michael: No, not at all. Go ahead. 
+
+Becky: Well, I was wondering what the salaries are like. I mean, are they much lower than the corporate world?  
+
+Michael: Well, I can't speak for all universities, but my salary is a definitely lower than at Lekmans. I just don't think the salaries ar e comparable when you leave a major corporation. 
+
+Becky: Yeah, that's what I thought, but I've heard that the perks are better. I was wondering if that was really true.  
+
+Michael: I'd have to say yes and no on that. I don' t get a big end-of-the-year bonus like I did at Lekmans but I get to take class es for free if I want to. I've always wanted to get a graduate degree so I'm takin g classes now to do that. 
+
+Becky: Oh, that's great. It sounds like you're real ly happy with your move. 
+
+Michael: Yeah, I guess I am. Working at a universit y really suits me. 
+
+[end of dialogue] 
+
+We’re talking about asking someone politely about t heir job in this podcast. That’s always a sensitive subject, that is, some pe ople don’t like answering questions about their job so you want to do that ve ry politely and there are several expressions that we use in relation or rela ted to this topic. Let’s begin at the beginning of the story. The woman in the story,  Becky, says that she was in the store “the other day.” That expression “the oth er day” means the same here as “recently.” It could have been yesterday, maybe last week. She said she saw a “former co-worker” of hers. “Former” (former) mea ns, here, a “ex-co-worker,” someone who used to be a co-worker but isn’t any lo nger. We talk about former presidents and former movie stars, people who used to be but aren’t anymore. This former co-worker of hers, Michael, is now work ing as a “public relations officer” for a university. A “public relations offi cer” is someone who deals with or handles the media or the press for a company. “Publ ic relations,” in general, is making sure that your company or your business has a good image, that people get accurate information about you. 
+
+Becky says that it’s a job he’s been “working towar d” for years. To say you are “working towards something” means that that is your  goal, that you are trying to accomplish that goal. He said that he wanted to get  in to either a “non-profit” organization or a university. A “non-profit” organi zation is one that doesn’t try to make money but tries to help other people. It still  has to have money, of course, but it’s not a regular business in that sense. Beck y then says, “The truth was, I was thinking of making a move myself.” The expressi on “the truth was” or “the truth was that” is just a way of introducing some s tatement or some idea that indicates that you are going to be very honest with  the person. “To make a move,” here, means to leave your job and to go to a  different company. Then in the conversation, Becky says, “Hey Michael. Remembe r me?” and Michael says, “Oh, sure. Long time, no see.” That expression, “Lo ng time, no see,” is one we use for someone, of course, that we haven’t seen in  a long time. We could say, “It’s been a long time since I’ve seen you,” but we  usually use that short expression, “Long time, no see.” It’s a very unusua l expression because there’s no subject in the sentence. We don’t say, “Long tim e, I have not seen you,” so  
+
+I’m not sure quite why we use that. That’s one of t he few cases where you’ll see that particular form or construction of the sentenc e, “Long time, no see.”  
+
+Becky then says to Michael that she was thinking of  “making a change” herself, making a move, changing jobs, and then she introduc es a polite way of asking a question, “Do you mind if I ask you a few things ab out your job?” That expression “Do you mind if” followed by the question, “Do you mind if I ask you where you bought those shoes?” That is a polite way of introd ucing a question. Michael responds by saying, “No, not at all,” meaning, “I d on’t mind.” The response to the affirmative or positive or “yes” response to the qu estion, “Do you mind?” is “No, not at all,” or “No, I don’t mind,” meaning it does n’t bother me. When you say, “Do you mind?” you’re asking, “does it bother you? Is it okay that I ask you this question?” We can also use this as a polite way of requesting something from someone. “Do you mind moving over to the left so I can see the movie screen?” For example, you’re sitting in a theater and someon e has a big hat sitting right in front of you. I should add that if you say “Yes” to  the question, “Do you mind?” “Yes, I mind,” that’s considered rather rude to say  “Yes” to that question. Even though you might want to. Maybe it does bother you but you have to know someone pretty well to answer “Yes” to the question . “Do you mind if I take all of your money?” Then, you might want to say, “Yes, I m ind.”  
+
+But Michael doesn’t mind and he says, “Go ahead,” m eaning, “Ask your question.”  “Go ahead.” And Becky says, “Well, I wa s wondering what the salaries are like.” This is another case where you ask the question politely by putting another expression in front, “I was wonderi ng.” “To wonder” means “I was thinking about,” meaning “I have a question. I’m no t sure. I was wondering.” This is an embedded question, which means that the subje ct and the verb are reversed as they would be from a normal question. F or example, if you wanted to ask someone a question, “What are the salaries like ?” You notice that “are” comes first, the verb, and then “the salaries,” the  subject, comes second. But if the question is inside another sentence, then we sw itch the subject in the verb to normal order. “I was wondering what the salaries ar e like.” This is a very common expression, “I was wondering.” Michael says, in res ponse, “Well, I can’t speak for all universities but my salary is definitely lower. ” That expression “I can’t speak for everyone,” meaning, “my views or my opinions do n’t represent everyone but,” and then you give what your opinion is.  
+
+In this case, he says that the salaries are “compar able.” I’m sorry, he says the salaries are “not comparable” at the university ver sus a major corporation and this is something I can say is definitely true, hav ing worked at a university. The “salaries,” or the amount that you get paid is “not  comparable,” meaning it’s not the same. You can’t compare one with the other. The y’re not equal. Becky then  
+
+asks about the “perks” at Michael’s job. “Perks” (p erks), or “perk” – a “perk” is a benefit. It’s usually a word we use associated with  a job. “This job has lots of perks. I get to travel twice a year. I get a free B lackberry or Palm Treo or, you know, a new cell phone every six months.”  Those wo uld be perks. They’re not part of your regular salary but they are benefits t hat a company or organization gives you. Becky then uses the expression “I was wo ndering.” “I was wondering if that was really true.” Again, a polite way of askin g, “Is that true?” And Michel says, “I have to say, yes and no.” That expression,  of course, is when you want to answer a question both ways. It’s partly true; i t’s partly not true. So, someone says, “Are you going to the store today?” And you s ay, “Yes and no.  Yes, I’m going to the store but no, I can’t buy you anything .” 
+
+At the end of the dialogue, Michael says that worki ng at a university “really suits” him. When we say something “suits” you (suits), we mean it’s a good fit for you. It’s something that is a good match for you. And yo u can say that about a job, but you could also say it about the color of your hair.  You dye your hair green and you say, “Oh that green really suits you.” I wouldn ’t do that but, you know, some people might. So, when something suits you, it’s ap propriate for you. It’s good for you. Of course, the word, “suit” (suit), has other meanings in English. A “suit” is also what a man or a woman wears, a formal “busines s suit” with a jacket and a tie and pants, and a “suit” is also a legal term. W hen you sue someone (sue), the noun is a “suit” and that is a legal action you tak e against someone else. For example, someone hits your car and they don’t want to pay for the damage, you can “sue” them. You can file a “suit” against them so that the court will make them pay. Well, we won’t make you pay, but we will give you the dialogue again, this time at a native rate of speech. 
+
+[start of dialogue] 
+
+I was at the store the other day. I saw a former co -worker, Michael, across the room. He used to work at my company until he quit a  few months ago to start a new job as a public relations officer at Missouri U niversity. It's a job he's been working toward for years. He wasn't happy working f or a corporation and wanted to get into either a non- profit organization or a university. I wanted to see how he was doing. The truth was, I was thinking of making a move myself.  
+
+Becky: Hey, Michael. Remember me? I'm Becky. We use d to work at Lekmans together.  
+
+Michael: Oh, sure. How are you? Long time, no see. How are things at Lekmans? 
+
+Becky: It's about the same. I've been thinking of m aking a change myself. Do you mind if I ask you a few things about your job at th e university?  
+
+Michael: No, not at all. Go ahead. 
+
+Becky: Well, I was wondering what the salaries are like. I mean, are they much lower than the corporate world?  
+
+Michael: Well, I can't speak for all universities, but my salary is a definitely lower than at Lekmans. I just don't think the salaries ar e comparable when you leave a major corporation. 
+
+Becky: Yeah, that's what I thought, but I've heard that the perks are better. I was wondering if that was really true.  
+
+Michael: I'd have to say yes and no on that. I don' t get a big end-of-the-year bonus like I did at Lekmans but I get to take class es for free if I want to. I've always wanted to get a graduate degree so I'm takin g classes now to do that. 
+
+Becky: Oh, that's great. It sounds like you're real ly happy with your move. 
+
+Michael: Yeah, I guess I am. Working at a universit y really suits me. 
+
+[end of dialogue] 
+
+Be sure to visit our website at www.eslpod.com. 
+
+From Los Angeles, California, I’m Jeff McQuillan. W e’ll see you next time on ESL Podcast. 
+
+ESL Podcast is produced by the Center for Education al Development in Los Angeles, California. This podcast is copyright 2005 . No part of this podcast may be sold or redistributed without the expressed writ ten permission of the Center for Educational Development.
+

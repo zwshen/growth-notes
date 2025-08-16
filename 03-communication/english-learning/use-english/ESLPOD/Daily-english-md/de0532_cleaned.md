@@ -1,0 +1,92 @@
+# Using an Online Email Program
+
+Welcome to English as a Second Language Podcast number 5 32: Using an Online Email Program. 
+
+This is English as a Second Language Podcast episode 532.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  If you want to support this p odcast you can go to the website and become a Learning Guide member, which will  allow you to improve your English even faster by downloading a Learning Guide  for each of our current episodes.  Or, if you’d like to make a small don ation, you can do that on our website as well. 
+
+This episode is called “Using an Online Email Program” ( or email service).  It’s a dialogue between Luigi and Selma using a lot of commo n vocabulary that we “employ” (that we use) when we talk about using email o nline.  Let’s get started. 
+
+[start of dialogue] 
+
+Luigi:  What do you think of this new email program? 
+
+Selma:  I don’t know yet.  I just started using it.  The  interface is pretty intuitive, but I haven’t figured out how to sort my inbox by date.    
+
+Luigi:  That’s easy.  Let me show you.  All you have to do  is hit one of these buttons and it’ll sort automatically.   
+
+Selma:  Oh, I see.  Let me try to compose a message.  I ’ll cc: myself and I’ll bcc: you to make sure it goes through.  It looks like if I don ’t want to send it right away, I can save the message as a draft.  If I do send it, does it save a copy?   
+
+Luigi:  Yes, it should.  Refresh the page and it should  show up in “sent mail.”   
+
+Selma:  Oh, yeah, there it is.  Let’s see, I can also arch ive messages or mark them as junk or send them straight to trash.  How do I add contacts? 
+
+Luigi:  You can put contacts into your address book by dra gging an email address into your “contacts” folder, like this. 
+
+ Selma:  Okay, one more thing: I want to set up spam fil ters and some other filters to block unwanted emails.   
+
+Luigi:  You can do that in this window, see?  Whose ema ils are you blocking? 
+
+Selma:  Yours, if don’t stop forwarding all of those st upid jokes every day. 
+
+Luigi:  And deprive you of the fun?  Never! 
+
+[end of dialogue] 
+
+Luigi begins by saying, “What do you think of this new e mail program?”  A “program” is a piece of software that is used on a comput er for certain purposes, in this case for checking your email.  Selma says, “I don’t know yet.  I just started using it.  The interface is pretty intuitive.”  The “int erface” is what you see on the screen for that program.  It’s the way that you interact  with the program; the way information is displayed to you on the screen for the pro gram.  She says, “The interface is pretty intuitive.”  Something that is “intu itive” is easy to understand; it doesn’t require an explanation.  Selma says, “I haven’t f igured out how to sort my inbox by date.”  “To sort” means to put something in o rder, usually so that it’s easier to find something later.  You could sort things a lphabetically, beginning with A, B, C, and so forth.  You could sort things by da te, with the most recent email messages first.  Those are both ways of sorting your “ inbox,” that is what we call a “folder” in your email program where you see all of your new messages. You have different folders on a typical email program.   Just like you have a physical folder where you put paper, an email folder i s where you have certain kinds of email.  The inbox is where all the new messages a rrive on your computer program.   
+
+Luigi says that it’s easy to sort her inbox by date.  He says,  “Let me show you. All you have to do (meaning the only thing you have to d o) is hit one of these buttons and it’ll sort automatically.”  Selma says, “Oh, I  see.  Let me try to compose a message.”  “To compose” means to write somethin g, such as a letter, an email, an essay.  We sometimes also use this verb when ta lking about those that write music; we call them “composers,” they compose symp honies and songs for example. 
+
+Selma says, “I’ll cc: myself and I’ll bcc: you to make sure the y go through.”  “To cc: (someone)” means to send a copy of a message to other pe ople in addition to the primary person you are sending your message to.  So I  may be sending a message to my brother, but I’ll cc: my sister; she’ll also g et a copy of the email. We use the letters “cc” because they come from an old term , which is “carbon  
+
+ copy.”  Before the days of copiers (of photo-static copiers ) the only way to make a copy of a document was to put two pieces of paper into a typewriter, and you would put a piece of black or blue carbon paper in betw een the two pieces of paper.  And when you typed on the first page, the carbo n would also mark the second page and you would have a copy of that particular document.  However, you had to do it when you were typing.  If you typed it without putting the extra piece paper and the piece of carbon paper it wouldn’t  work.  I remember using carbon paper back in the 1970s, when I was in high school.   “Bcc:” is a adaptation of the old term into a new context.  “To bcc: (someone)” means to blind carbon copy someone.  This is a concept that only exists in modern email technology.  A “bcc:” is when you’re going to send anothe r copy of your message, but you’re not indicating to the primary person  that you are sending a copy to this other person.  So for example, I send a messa ge to my brother, I cc: my sister, and then I bcc: my mother.  That means that my m other gets a copy, but my brother and my sister don’t realize it.  That’s wh y we say it’s “blind.”  “To be blind” means to be unable to see, so “bcc:” is when yo u are sending a copy of something that other people who receive the message are n’t aware of.  They don’t know another copy is going to someone else.   
+
+Selma says she wants to make sure the message “went through ,” meaning that it was received, that it was actually sent out.  “It looks like if I don’t want to send it right away,” she says, “I can save the message as a draft.”  A “draft” is something that you write, but it needs be edited; it needs to b e finished.  It’s not the final version.  “Draft” has a couple of different meanings in  English; take a look at our Learning Guide for some additional explanations. 
+
+Selma says, “If I do send it, does it save a copy?” meaning does the program (the email program) save a copy of the message.  Luigi says , “Yes, it should. Refresh the page and it will show up in ‘sent mail.’”  “To refresh” a web page means that you make sure the page or the program is displ aying the most recent information.  On your web browser, the piece of softw are you use to look at things on the Internet, there is usually a refresh butt on.  You hit that button and the page we say “loads” again; it comes onto your screen a gain with the most recent version of that page.  Luigi says, “Refresh the pag e and the message will show up in ‘sent mail.’”  “Sent mail” is the folder in  your email program where you find copies of all the messages that you’ve sent.  There’s a  third folder on most email programs called an “outbox.”  An “outbox” contain s the messages that you are ready to send, but haven’t actually sent yet.  So your  outbox contains messages ready to send; your sent mail folder contains messag es you’ve already sent in the past. 
+
+ Selma says, “Oh, yeah, there it is.”  She refreshes the pa ge and she sees her message.  “Let’s see, I can also archive messages or mark the m as junk or send them straight to trash.”  “To archive” your messages mean s to take your messages out of your inbox, but not delete it; save it in another folder for later. Most people have different folders with different kinds of messages, so that you can find your messages easily later on, but you take them out of your inbox.  If a message is “spam,” if it is an advertisement that you didn’ t request or some email from someone you don’t know that you don’t want, we some times call that “junk mail” (“junk” is garbage).  Email messages that you don’t  want and you no longer want to see in your inbox, you can mark them as junk and th en put them in your trash to get rid of them (to delete them). 
+
+Selma says, “How do I add contacts?”  “Contact” is a person  with whom you are communicating.  Usually you have the person’s name, their e mail address, perhaps their phone number, their “physical” address, mea ning where their house or their office is.  This is information you would find in your contacts.  So, she wants to add a new contact.  Luigi says, “You can put contacts into your address book by dragging an email message into your ‘cont acts’ folder, like this.” So on Selma’s email program, you can take an email add ress and “drag it,” that is click on something, continue to hold down the button o n your mouse, and you move it to another part of the screen, and then you let  your mouse go.  That’s to drag things on your computer. 
+
+Selma says, “Okay, one more thing: I want to set up spam filters and some other filters to block unwanted email.”  A “spam filter” is a part of a program that blocks the junk (unwanted messages) that you get on email.  “To  block” means not to allow something to happen; in this case, not to allow e mail messages to come into your inbox.  Luigi says, “You can do that in this win dow, see?  Whose emails are you blocking?”  Selma says, “Yours (meaning Luigi’s), i f don’t stop forwarding all of those stupid jokes every day.”  This means that she’s g oing to start blocking Luigi’s email address so that emails that he sends her wil l not appear in her inbox.  Why?  Well, Luigi likes to “forward,” likes to se nd an email that he received from one person to another person.  It’s very comm on for people to send an email message that contains something they think is funny to someone else.  Often, however, the other person doesn’t want this email, and doesn’t think the joke is very funny.  I am one of those people; please do not forward me any jokes! 
+
+Luigi says, “And deprive you of the fun?  Never!” meaning  that if Selma blocks his emails, she’ll be deprived of the fun (the fun from  reading the messages).  “To deprive” (deprive) means not to let someone have somethin g or do something that is considered nice, fun, or pleasant.  “I’m going to deprive you of your coffee  
+
+ today,” you want it, but I’m not going to let you have it.  Since I don’t drink coffee anymore, that wouldn’t bother me at all; I only drink tea! 
+
+Now let’s listen to the dialogue again, this time at a  normal speed. 
+
+[start of dialogue] 
+
+Luigi:  What do you think of this new email program? 
+
+Selma:  I don’t know yet.  I just started using it.  The  interface is pretty intuitive, but I haven’t figured out how to sort my inbox by date.    
+
+Luigi:  That’s easy.  Let me show you.  All you have to do  is hit one of these buttons and it’ll sort automatically.   
+
+Selma:  Oh, I see.  Let me try to compose a message.  I ’ll cc: myself and I’ll bcc: you to make sure it goes through.  It looks like if I don ’t want to send it right away, I can save the message as a draft.  If I do send it, does it save a copy?   
+
+Luigi:  Yes, it should.  Refresh the page and it should  show up in “sent mail.”   
+
+Selma:  Oh, yeah, there it is.  Let’s see, I can also arch ive messages or mark them as junk or send them straight to trash.  How do I add contacts? 
+
+Luigi:  You can put contacts into your address book by dra gging an email message into your “contacts” folder, like this. 
+
+Selma:  Okay, one more thing: I want to set up spam fil ters and some other filters to block unwanted emails.   
+
+Luigi:  You can do that in this window, see?  Whose ema ils are you blocking? 
+
+Selma:  Yours, if don’t stop forwarding all of those st upid jokes every day. 
+
+Luigi:  And deprive you of the fun?  Never! 
+
+[end of dialogue] 
+
+I won’t deprive you of the knowledge of who wrote toda y’s wonderful script.  It was Dr. Lucy Tse.   
+
+ From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

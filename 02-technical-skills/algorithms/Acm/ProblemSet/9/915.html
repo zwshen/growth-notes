@@ -1,0 +1,87 @@
+<HTML>
+
+<head>
+<title>Stack of Cylinders</title>
+</head>
+
+<BODY bgcolor="white">
+
+<FONT color="#0000FF"><H1>Problem C</H1></FONT>
+
+<FONT color="#0000FF"><H1><CENTER>Stack of Cylinders</CENTER></H1></FONT>
+
+<p>Suppose you launch a set of cylinders, with different radius, over a hill, in such a way they get stacked like in the figure.
+
+<p>Accordingly to the radius of the cylinders, only a subset will be connected forming a
+<u>continuous path</u>. In the example represented, this path is composed by cylinders 2, 3 and 6. Cylinder <b>2</b> is the <u>path head</u> and cylinder 6 is the <u>path tail</u>.
+
+<p>The enclosing distance <b><i>d</i></b> is measured from the left support point of the path head until the right point of the path tail.
+
+<p><img src="p915.gif" width="379" height="148"><br>
+Example of a stack of cylinders.
+
+<FONT color="#0000FF"><H2>Problem</H2></FONT>
+
+<p>Given a sequence of cylinders, this problem consists in the evaluation of the enclosing distance and the sequence of cylinders that compose the continuous path. It is ensured that each cylinder can touch no more than one cylinder at its left and no more than one cylinder at its right.
+
+<FONT color="#0000FF"><H2>Input</H2></FONT>
+<b>
+The input will contain several test cases, each of them as described below.
+Consecutive test cases are separated by a single blank line.
+</b>
+<p>
+<p>
+ 
+<p>The input is a sequence of text lines, as follows.
+
+<p>The first text line contains the number <b><i>NC</i></b> (integer format) of cylinders. It is followed by a sequence of <b><i>NC</i></b> text lines containing, each line, a cylinder radius (integer or decimal format). The cylinder identifier is obtained from its series number in the sequence (starting at 1).
+<p>Note: the maximum number of cylinders is 100.
+
+<FONT color="#0000FF"><H2>Output</H2></FONT>
+<b>
+For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+
+
+<p>The first text line contains one decimal number, rounded to one decimal digit, representing the enclosing distance.
+
+<p>The second line contains the number <b><i>NP</i></b> of cylinders that compose the continuous path and it is followed by <b><i>NP</i></b> lines containing, in the proper sequence, the identifiers of the cylinders in the continuous path.
+
+<FONT color="#0000FF"><H2>Sample Input</H2></FONT>
+
+<PRE>
+7
+3
+25
+35
+5
+4
+32
+4
+</PRE>
+
+<FONT color="#0000FF"><H2>Sample Output</H2></FONT>
+
+<PRE>
+183.1
+3
+2
+3
+6
+</PRE>
+
+<BR>
+<HR>
+<i>
+Augusto Sousa, 2nd round of CPUP'04<br>
+(Concurso de Programação da Universidade do Porto 2004)<br>
+(Torneio Inter-Universitário de Programação, 2004, Round 3)
+</i>
+
+</BODY>
+</HTML>
+
+

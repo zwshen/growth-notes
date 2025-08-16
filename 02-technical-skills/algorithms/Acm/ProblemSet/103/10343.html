@@ -1,0 +1,266 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="p7_files/filelist.xml">
+<link rel=Edit-Time-Data href="p7_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>9</o:Revision>
+  <o:TotalTime>3</o:TotalTime>
+  <o:Created>2002-07-24T06:18:00Z</o:Created>
+  <o:LastSaved>2002-07-26T03:09:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>570</o:Words>
+  <o:Characters>3253</o:Characters>
+  <o:Company>BUET</o:Company>
+  <o:Lines>27</o:Lines>
+  <o:Paragraphs>7</o:Paragraphs>
+  <o:CharactersWithSpaces>3816</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:18.0pt;color:black'>Problem H<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:24.0pt;color:black'>Base64 Decoding </span></b><b
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-size:10.0pt;
+color:black'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='color:black'>Input: </span></b><span style='color:black;mso-bidi-font-weight:
+bold'>standard input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='color:black'>Output: </span></b><span style='color:black'>standard
+output<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='color:black'>Time Limit:</span></b><span style='color:black'> 1 second<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='color:black'>Memory Limit: </span></b><span
+style='color:black'>32 MB<o:p></o:p></span></p>
+
+<div>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>The following is an excerpt from section 6.8 (Base64
+Content-Transfer-Encoding) of RFC 2045. It gives details of Base64 encoding that
+is used for encoding of binary attchments in email.<br>
+&nbsp;</p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
+font-family:Arial'>The encoding process represents 24-bit groups of input bits
+as output strings of 4 encoded characters. Proceeding from left to right, a
+24-bit input group is formed by concatenating 3 8bit input groups. These 24
+bits are then treated as 4 concatenated 6-bit groups, each of which is
+translated into a single digit in the base64 alphabet. When encoding a bit
+stream via the base64 encoding, the bit stream must be presumed to be ordered
+with the most-significant-bit first. That is, the first bit in the stream will
+be the high-order bit in the first 8bit byte, and the eighth bit will be the
+low-order bit in the first 8bit byte, and so on.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
+font-family:Arial'><br>
+Each 6-bit group is used as an index into an array of 64 printable characters.
+The character referenced by the index is placed in the output string. These
+characters are identified in table below.<o:p></o:p></span></p>
+
+</div>
+
+<pre><o:p>&nbsp;</o:p></pre><pre><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Value <span
+class=GramE>Encoding<span style='mso-spacerun:yes'>&nbsp; </span>Value</span> Encoding<span style='mso-spacerun:yes'>&nbsp; </span>Value Encoding<span style='mso-spacerun:yes'>&nbsp; </span>Value Encoding</pre><pre><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>0 A<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>26 a<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>52 0<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>62 +</pre><pre><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>1 B<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>27 b<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>53 1<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>63 /</pre><pre><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2 C<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>28 c<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>54 2</pre><pre><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>. .<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.. .<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.. .<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(<span
+class=GramE>pad</span>) =</pre><pre><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>. .<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.. .<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.. .</pre><pre><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>24 Y<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>50 y<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>60 8</pre><pre><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>25 Z<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>51 z<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>61 9</pre>
+
+<div>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
+font-family:Arial'>The encoded output stream must be represented in lines of no
+more than 76 characters each. All line breaks or other characters not found in
+the table must be ignored by decoding software.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
+font-family:Arial'>&nbsp;<o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
+font-family:Arial'>Special processing is performed if fewer than 24 bits are
+available at the end of the data being encoded. A full encoding quantum is
+always completed at the end of a body. When fewer than 24 input bits are
+available in an input group, zero bits are added (on the right) to form an
+integral number of 6-bit groups. Padding at the end of the data is performed
+using the &quot;=&quot; character. Since all base64 input is an integral number
+of octets, only the following cases can arise: (1) the final quantum of
+encoding input is an integral multiple of 24 bits; here, the final unit of
+encoded output will be an integral multiple of 4 characters with no
+&quot;=&quot; padding, (2) the final quantum of encoding input is exactly 8
+bits; here, the final unit of encoded output will be two characters followed by
+two &quot;=&quot; padding characters, or (3) the final quantum of encoding
+input is exactly 16 bits; here, the final unit of encoded output will be three
+characters followed by one &quot;=&quot; padding character.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
+font-family:Arial'>&nbsp;<o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
+font-family:Arial'>Because it is used only for padding at the end of the data,
+the occurrence of any &quot;=&quot; characters may be taken as evidence that
+the end of the data has been reached (without truncation in transit). No such
+assurance is possible, however, when the number of octets transmitted was a
+multiple of three and no &quot;=&quot; characters are present.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
+font-family:Arial'>&nbsp;<o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal style='text-align:justify'>You are to write a Base64 decoder
+for a web-based email client to be used in BUET server. However, in this
+problem, to ease handing multiple datasets, you have to treat the character '#'
+specially (i.e. NOT ignore it as RFC 2045 says above). See input specification
+below. &nbsp;</p>
+
+</div>
+
+<h3 style='text-align:justify'><span style='font-size:18.0pt'>Input<o:p></o:p></span></h3>
+
+<div>
+
+<p class=MsoNormal style='text-align:justify'>There are multiple datasets, each
+terminated by the '#' mark. The last dataset, which should not be processed,
+contains no character other than the terminating '#' mark. Each dataset
+consists of a <i>valid</i> Base64 encoding of some (possibly binary) data.</p>
+
+</div>
+
+<h3 style='text-align:justify'><span style='font-size:18.0pt'>Output<o:p></o:p></span></h3>
+
+<div>
+
+<p class=MsoNormal style='text-align:justify'>Output decoded data for each
+dataset followed <i>immediately</i> by the '#' mark.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<h3><span style='font-size:18.0pt'>Sample Input<o:p></o:p></span></h3>
+
+<pre>VGhpc0lzVGVzdA==</pre><pre>#</pre><pre>QSBUZXN0IElucHV0W3so</pre><pre>KX1d</pre>
+
+<p class=MsoNormal style='text-align:justify'>##</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<h3><span style='font-size:18.0pt'>Sample Output<o:p></o:p></span></h3>
+
+<p class=MsoNormal style='text-align:justify'>ThisIsTest#A Test <span
+class=GramE>Input[</span>{()}]#</p>
+
+</div>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Mustaq Ahmed<o:p></o:p></b></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,97 @@
+<html>
+<head>
+    <title>Traffic Flow</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem C</B></FONT><BR>
+<FONT SIZE="5"><B>Traffic Flow</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 2 seconds</FONT>
+</CENTER>
+</P>
+
+<p align="right">
+<table border=0><tr><td><small>
+<i>"Arnie Pie in the sky with the morning commute.<br>
+Traffic this morning is as bad as it gets. Due to<br>
+a fire at the army testing lab a bunch of escaped,<br>
+infected mokeys are roaming the expressway. Despite<br>
+the swealtering heat, don't unroll your windows<br>
+'cause those monkeys seem confused and irritable."</i>
+</td></tr></table>
+<tt>Arnie Pie, "The Simpsons."</tt>
+</small></p>
+
+<P CLASS="paragraph">
+A city has <b>n</b> intersections and <b>m</b> bidirectional roads connecting
+pairs of intersections. Each road has a certain traffic flow capacity, 
+measured in cars per minute. There is a path from every intersection
+to every other intersection along some sequence of roads. The road
+maintenance department is over budget and needs to close as many roads 
+as possible without disconnecting any intersections. They want to
+do it in such a way that the minimum capacity among all of the 
+remaining roads is as large as possible.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The first line of input gives the number of cases, <b>N</b>.
+<b>N</b> test cases follow. Each one starts with a line containing
+<b>n</b> (0&lt;<b>n</b>&lt;=100) and <b>m</b> (0&lt;<b>m</b>&lt;=10000). 
+The next <b>m</b> lines will describe the m roads, each one using 3 
+integers, <b>u</b>, <b>v</b> and <b>c</b> (0&lt;=<b>u</b>,<b>v</b>&lt;<b>n</b>), 
+(0&lt;<b>c</b>&lt;=1000). <b>u</b> and <b>v</b>
+are the endpoints of the road and <b>c</b> is its capacity.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+For each test case, output one line containing "Case #<b>x</b>:"
+followed by the capacity of the minimum-capacity remaining road.
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+2
+2 3
+0 1 10
+0 1 20
+0 0 30
+4 5
+0 1 1
+3 1 2
+1 2 3
+2 3 4
+0 2 5
+</PRE>
+</TD>
+<TD>
+<PRE>
+Case #1: 20
+Case #2: 3
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+<HR>
+<B>Problemsetter: Igor Naverniouk</B>
+</P>
+
+</td></tr></table>
+</body>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Lotto</TITLE>
+<META NAME="description" CONTENT="Lotto">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Lotto</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+In the German Lotto you have to select 6 numbers from the set {1,2,...,49}. 
+<P>
+A popular strategy to
+play Lotto - although it doesn't increase your chance of winning - is to select a subset S containing
+<I>k</I> (<I>k</I>&gt;6) of these 49 numbers, and then play several games with choosing numbers only from S.
+<P>
+<P>
+For example, for <I>k</I>=8 and S = 1,2,3,5,8,13,21,34 there are 28 possible games: [1,2,3,5,8,13], [1,2,3,5,8,21], [1,2,3,5,8,34], [1,2,3,5,13,21], ..., [3,5,8,13,21,34].
+<P>
+<P>
+Your job is to write a program that reads in the number k and the set S and then prints all possible games choosing numbers only from S.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input Specification</A></FONT></H2>
+<P>
+The input file will contain one or more test cases.
+<P>
+Each test case consists of one line containing
+several integers separated from each other by spaces. The first integer on the line will be the
+number <I>k</I> (6 &lt; <I>k</I> &lt; 13). Then <I>k</I> integers, specifying the set S, will follow in ascending order.
+<P>
+Input will be terminated by a value of zero (0) for <I>k</I>.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output Specification</A></FONT></H2>
+<P>
+For each test case, print all possible games, each game on one line.
+<P>
+The numbers of each game have to be sorted in ascending order and separated from each other by exactly one space. The games themselves have to be sorted lexicographically, that means sorted by the lowest number first, then
+by the second lowest and so on, as demonstrated in the sample output below.
+<P>
+The test cases have to be separated from each other by exactly one blank line. Do not put a blank line after the last test case.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>7 1 2 3 4 5 6 7
+8 1 2 3 5 8 13 21 34
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>1 2 3 4 5 6
+1 2 3 4 5 7
+1 2 3 4 6 7
+1 2 3 5 6 7
+1 2 4 5 6 7
+1 3 4 5 6 7
+2 3 4 5 6 7
+
+1 2 3 5 8 13
+1 2 3 5 8 21
+1 2 3 5 8 34
+1 2 3 5 13 21
+1 2 3 5 13 34
+1 2 3 5 21 34
+1 2 3 8 13 21
+1 2 3 8 13 34
+1 2 3 8 21 34
+1 2 3 13 21 34
+1 2 5 8 13 21
+1 2 5 8 13 34
+1 2 5 8 21 34
+1 2 5 13 21 34
+1 2 8 13 21 34
+1 3 5 8 13 21
+1 3 5 8 13 34
+1 3 5 8 21 34
+1 3 5 13 21 34
+1 3 8 13 21 34
+1 5 8 13 21 34
+2 3 5 8 13 21
+2 3 5 8 13 34
+2 3 5 8 21 34
+2 3 5 13 21 34
+2 3 8 13 21 34
+2 5 8 13 21 34
+3 5 8 13 21 34</PRE>
+<P>
+</BODY>
+</HTML>

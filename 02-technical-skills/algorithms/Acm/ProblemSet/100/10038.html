@@ -1,0 +1,30 @@
+<center><h2>Problem E: Jolly Jumpers</h2></center>
+A sequence of <i>n > 0</i> integers is called a <i>jolly jumper</i>
+if the absolute values of the difference between successive elements
+take on all the values 1 through <i>n-1</i>.  For instance,
+<p>
+<pre>
+1 4 2 3
+</pre>
+is a jolly jumper, because the absolutes differences are 3, 2, and 1
+respectively.  The definition implies that any sequence of a single
+integer is a jolly jumper.  You are to write a program to determine
+whether or not each of a number of sequences is a jolly jumper.
+<h3>Input</h3>
+<p>
+Each line of input contains an integer <i>n</i> &lt;= 3000 followed by <i>n</i> integers
+representing the sequence. 
+<h3>Output</h3>
+
+ For each line of input, generate a line
+of output saying "Jolly" or "Not jolly".
+<h3>Sample Input</h3>
+<pre>
+4 1 4 2 3
+5 1 4 2 -1 6
+</pre>
+<h3>Sample Output</h3>
+<pre>
+Jolly
+Not jolly
+</pre>

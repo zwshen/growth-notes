@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="GENERATOR" content="hevea 1.08">
+  <style type="text/css">
+.toc{list-style:none;}
+.title{margin:auto;text-align:center}
+.center{text-align:center;margin-left:auto;margin-right:auto;}
+.flushleft{text-align:left;margin-left:0ex;margin-right:auto;}
+.flushright{text-align:right;margin-left:auto;margin-right:0ex;}
+DIV TABLE{margin-left:inherit;margin-right:inherit;}
+PRE{text-align:left;margin-left:0ex;margin-right:auto;}
+BLOCKQUOTE{margin-left:4ex;margin-right:4ex;text-align:left;}
+.part{margin:auto;text-align:center;}
+.esq {float: left;}
+.dir {float: right;}
+.titulo {clear: right;}
+  </style>
+</head>
+
+<body>
+<!--HEVEA command line is: /usr/bin/hevea -fix RRMaze.tex -o RRMaze.html --><!--HTMLHEAD--><!--ENDHTML--><!--PREFIX <ARG ></ARG>--><!--CUT DEF section 1 -->
+
+<p class="titulo">
+        <span class="esq">Universidade da Beira Interior</span>
+        <span class="dir">21-10-2006</span>&nbsp;
+   </p>
+
+<!--TOC section Problem G-->
+<h2 class="section">Problem G</h2>
+<!--SEC END --><br>
+
+<div class="center"><font size="5"><span
+ style="font-variant: small-caps;">Round and Round Maze</span></font></div>
+<br>
+<br>
+You have been blindfolded and brought to a strange complex of mazes.
+Each maze is divided in squares, each one with a strange circular
+plate with arrows on it. The start of each maze is on the upper left
+corner and the exit is always on the bottom right. The following
+figure shows an example maze: <br><br>
+<div class="figure"> 
+  <div class="center"> <img src="p985a.png"></div>
+  <br>
+  <div class="center">Figure 1: An example maze</div>
+  <br>
+</div>
+During a single time unit you can go from a square to one of the four
+adjacent squares. But you can only follow the directions that the
+arrows on your current square point. Trying to do other thing will get
+you killed. Each time you pass from one square to another, all plates
+rotate 90 degrees in clockwise direction, changing the way the maze
+looks. Is it possible to get to the exit? And what is the best and
+fastest way to do that? <br> <br>
+<div class="figure">
+  <div class="center"> <img src="p985b.png"></div>
+  <br>
+  <div class="center">Figure 2: The quickest path to get out of the
+example maze</div>
+  <br>
+</div>
+<!--TOC subsection Problem-->
+<h3 class="subsection">Problem</h3>
+<!--SEC END -->Given a particular maze in the conditions described
+above, your task
+is to discover how much time does it take the quickest path from the
+upper left corner to the bottom right corner (the exit). You must also
+discover if that is not possible.<br>
+<br>
+<!--TOC subsection Input-->
+<h3 class="subsection">Input</h3>
+The input file contains several test cases, each of them as describes below.
+
+<!--SEC END -->The input will start with a single line containing two
+numbers
+separated by a single space: R and C indicating respectively the
+number of rows and columns of the maze (2 &nbsp; R,C &nbsp; 500).<br>
+<br>
+Then there are exactly (R*C)-1 lines indicating in which directions
+are the arrows of each square pointing. These lines are given in a
+specific order, starting from the north to the south, and from the
+west to the east. This is, if we use the notation (row,column), the
+lines are given in the order
+(1,1),(1,2),...,(1,C),(2,1),...,(2,N),...,(R,1),...,(R,C-1). The
+bottom right corner (R,C) is not given, since it is always the exit.<br>
+<br>
+Each of these lines contains a single string of length one to four
+chars, indicating the arrows of the plate on time 0. The chars belong
+to the set N,S,W,E and represent respectively an arrow pointing to
+North, South, West and East. See example input 1 for a representation
+of the example maze given in figure 1. There will not be repeated
+chars on the same line and the chars can appear in any order.<br>
+<br>
+<!--TOC subsection Output-->
+<h3 class="subsection">Output</h3>
+<!--SEC END -->For each test case, the output should contain a single line with an integer that represents the time taken by the quickest path from the start (always square (1,1)) to the exit (always (R,C)). Remember that the plates
+always rotate when you change your current square (therefore is does
+not help to stay on the same place waiting for a rotation - it won't
+happen!) and you can only follow the directions that the arrows point
+on the present time you are on that square.<br>
+<br>
+If there is no path from the start to the exit you should print "no
+path to exit".<br>
+<br>
+<!--TOC subsection Sample Input 1-->
+<h3 class="subsection">Sample Input</h3>
+<!--SEC END -->
+<pre class="verbatim">2 2<br>NES<br>S<br>WS<br>3 2<br>NSWE<br>SW<br>SEW<br>NEW<br>SN<br></pre>
+<!--TOC subsection Sample Output 1-->
+<h3 class="subsection">Sample Output</h3>
+<!--SEC END -->
+<pre class="verbatim">4<br>no path to exit</pre>
+
+<br><BR><BR>
+<div class="figure"> 
+  <img src="p985c.png"> <br>
+  <br>
+  Figure 3: The maze of the sample input 2
+</div>
+ 
+<!--HTMLFOOT-->
+<!--ENDHTML--><!--FOOTER-->
+
+<p class="titulo">
+        <span class="esq">Maratona Inter-Universitária de Programação 2006</span>
+        <span class="dir">MIUP'2006</span>&nbsp;
+   </p>
+<hr>
+<b>Author:</b> Pedro Ribeiro (Universidade do Porto)
+
+</body>
+</html>

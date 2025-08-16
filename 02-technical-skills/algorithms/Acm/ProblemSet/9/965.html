@@ -1,0 +1,275 @@
+<html>
+<head>
+<title>PoliceRoadBlocks</title>
+<meta NAME="description" CONTENT="PoliceRoadBlocks">
+<meta NAME="keywords" CONTENT="PoliceRoadBlocks">
+
+<meta NAME="resource-type" CONTENT="document">
+<meta NAME="distribution" CONTENT="global">
+
+<meta NAME="Generator" CONTENT="jLaTeX2HTML v2002-2-1 JA patch-2.0">
+<meta HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<link REL="STYLESHEET" HREF="PoliceRoadBlocks.css">
+
+</head>
+
+<body >
+
+<p>
+<div ALIGN="CENTER">
+<font SIZE="+2">P<small>OLICE </small>R<small>OAD </small>B<small>LOCKS</small></font></div>
+
+<p>
+
+<p><p>
+<br>
+
+<p>
+
+<h1><a NAME="SECTION00010000000000000000">
+Problem</a>
+</h1>
+
+<p>
+Consider that a group of criminals was able to rob a bank 
+and got away with a considerable amount of money. However, 
+they were reckless and the security cameras were able to 
+film them. Hence, the police was able to identify everybody 
+in the group.
+
+<p>
+Suppose that the police has a map defined by <img
+ WIDTH="46" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img1.png"
+ ALT="$(L, E)$">, 
+where <img
+ WIDTH="14" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="965img2.png"
+ ALT="$L$"> denotes the set of locations (with <img
+ WIDTH="67" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img3.png"
+ ALT="$\vert L\vert \leq 10^6$">) 
+and <img
+ WIDTH="16" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="965img4.png"
+ ALT="$E$"> denotes the set of roads connecting those locations 
+(with <!-- MATH
+ $|L| - 1 \leq |E| \leq 10^6$
+ -->
+
+<img
+ WIDTH="137" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img5.png"
+ ALT="$\vert L\vert - 1 \leq \vert E\vert \leq 10^6$">). The map is connected, i.e., 
+for all pairs of locations <img
+ WIDTH="40" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img6.png"
+ ALT="$(u,v)$"> there is always a connecting 
+path in the map. 
+Let <!-- MATH
+ $f: L \times L \rightarrow \mathbb{N}$
+ -->
+<img
+ WIDTH="103" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img7.png"
+ ALT="$f: L \times L \rightarrow \mathbb{N}$"> be a function that 
+defines for every road <img
+ WIDTH="72" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img8.png"
+ ALT="$(u,v) \in E$"> how many police officers 
+are necessary to make a police road block at road <img
+ WIDTH="40" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img6.png"
+ ALT="$(u,v)$">. 
+Given a set of roads <img
+ WIDTH="21" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img9.png"
+ ALT="$E_c$">, such that <!-- MATH
+ $E_c \subseteq E$
+ -->
+<img
+ WIDTH="55" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img10.png"
+ ALT="$E_c \subseteq E$">, the 
+value of <img
+ WIDTH="43" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img11.png"
+ ALT="$f(E_c)$"> denotes the total number of police officers 
+necessary to make road blocks in every road <img
+ WIDTH="78" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img12.png"
+ ALT="$(u,v) \in E_c$">.
+
+<p>
+Since the police know the criminals, they were able to identify
+a set <img
+ WIDTH="14" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="965img13.png"
+ ALT="$S$"> (with <img
+ WIDTH="46" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img14.png"
+ ALT="$S \subset L$">) of highly suspicious places where 
+the criminals are probably hiding.
+The purpose of the criminals is to be able to get into a border
+location in order to get out of the country. The set <img
+ WIDTH="15" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="965img15.png"
+ ALT="$F$"> defines
+the set of border locations such that <img
+ WIDTH="48" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img16.png"
+ ALT="$F \subset L$"> and 
+
+<!-- MATH
+ $S \cap F = \emptyset$
+ -->
+<img
+ WIDTH="73" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img17.png"
+ ALT="$S \cap F = \emptyset$">. 
+Therefore, the police needs to make road blocks in a set of 
+roads <img
+ WIDTH="21" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img9.png"
+ ALT="$E_c$"> with <!-- MATH
+ $E_c \subseteq E$
+ -->
+<img
+ WIDTH="55" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img10.png"
+ ALT="$E_c \subseteq E$"> in order to ensure that 
+the criminals will not be able to move from the suspected locations
+to the border without using one of the roads with police 
+road blocks.
+
+<p>
+Your program must determine which is the minimum
+number of police officers necessary to control a set of roads
+<img
+ WIDTH="21" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img9.png"
+ ALT="$E_c$"> such that the criminals will not be able to run from
+the suspected locations to the border. 
+
+<p>
+
+<h1><a NAME="SECTION00020000000000000000">
+Input</a>
+</h1>
+
+The input is as follows:
+
+<ul>
+<li>One line with the number of locations <img
+ WIDTH="18" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="965img18.png"
+ ALT="$N$"> and the number of
+  roads <img
+ WIDTH="20" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="965img19.png"
+ ALT="$M$"> in the map.
+</li>
+<li>A list of <img
+ WIDTH="20" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="965img19.png"
+ ALT="$M$"> lines where in each line there are three 
+  integers. The first two are two locations <img
+ WIDTH="12" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="965img20.png"
+ ALT="$u$"> and <img
+ WIDTH="11" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="965img21.png"
+ ALT="$v$"> connected
+  in the map and the third is the number <img
+ WIDTH="49" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img22.png"
+ ALT="$f(u,v)$"> of police
+  officers necessary to establish the police road block in that
+  road.
+
+</li>
+<li>One line with a number <img
+ WIDTH="14" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="965img13.png"
+ ALT="$S$"> of suspected locations
+</li>
+<li>One line with <img
+ WIDTH="14" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="965img13.png"
+ ALT="$S$"> integers representing the suspected locations
+</li>
+<li>One line with a number <img
+ WIDTH="15" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="965img15.png"
+ ALT="$F$"> of border locations
+</li>
+<li>One line with <img
+ WIDTH="15" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="965img15.png"
+ ALT="$F$"> integers representing the border locations
+</li>
+
+</ul>
+
+<p>
+
+<h1><a NAME="SECTION00030000000000000000">
+Output</a>
+</h1>
+The output must be the minimum number of police officers necessary
+to establish road blocks in a set of roads <img
+ WIDTH="21" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="965img9.png"
+ ALT="$E_c$"> such that the
+criminals can not move from the suspected locations to the border
+without going through a road with a police road block.
+
+<p>
+
+<h1><a NAME="SECTION00040000000000000000">
+Sample Input</a>
+</h1>
+
+<p>
+<pre>
+10 13 
+1 2 2
+1 3 2
+2 4 4
+2 5 3
+3 5 5
+3 6 4
+4 5 3
+4 7 4
+5 7 6
+6 8 6
+7 8 2
+7 9 10
+8 10 10
+2
+2 3
+2
+9 10
+</pre>
+
+<p>
+
+<h1><a NAME="SECTION00050000000000000000">
+Sample Output</a>
+</h1>
+
+<p>
+<pre>
+14
+</pre>
+
+<p>
+</body>
+</html>
+</td>
+</tr>
+</table>
+</center>
+</body>
+</html>

@@ -1,0 +1,173 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>A Different Task</TITLE>
+<META NAME="description" CONTENT="A Different Task">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+A Different Task</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10795a.eps}$
+ -->
+<IMG
+ ALIGN="BOTTOM" BORDER="0"
+ SRC="p10795a.jpg"
+ ALT="\epsfbox{p10795a.eps}">
+</DIV>
+
+<P>
+The (Three peg) Tower of Hanoi problem is a popular
+one in computer science. Briefly the problem is
+to transfer all the disks from
+peg-<B>A</B> to peg-<B>C</B> using peg-<B>B</B> as intermediate one in such a
+way that at no stage a larger disk is above a smaller disk. Normally, we want
+the minimum number of moves required for this task. The problem is used as an
+ideal example for learning recursion. It is so well studied that one can find
+the sequence of moves for smaller number of disks such as <B>3</B> or <B>4</B>.
+A trivial computer program can find the case of large number of disks also.
+
+<P>
+
+<P>
+<BR>
+Here we have made your task little bit difficult by
+making the problem more flexible. Here the disks can be in any peg initially.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10795b.eps}$
+ -->
+<IMG
+ ALIGN="BOTTOM" BORDER="0"
+ SRC="p10795b.jpg"
+ ALT="\epsfbox{p10795b.eps}">
+</DIV>
+
+<P>
+If more than one disk is in a certain peg, then they will be in a valid arrangement (larger disk will not be on smaller ones). We will give you two such arrangements of disks. You will
+have to find out the minimum number of moves, which will transform the first
+arrangement into the second one. Of course you always have to maintain the
+constraint that smaller disks must be upon the larger ones.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The
+input file contains at most <B>100</B> test cases. Each test case starts with a
+positive integer <SPAN CLASS="MATH"><I>N</I></SPAN> (<!-- MATH
+ $1 \le N \le 60$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10795img3.png"
+ ALT="$ \le$"><I>N</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10795img3.png"
+ ALT="$ \le$">60</SPAN>), which means the
+number of disks. You will be given the arrangements in next two lines. Each
+arrangement will be represented by <SPAN CLASS="MATH"><I>N</I></SPAN> integers, which are <B>1</B>, <B>2</B>
+or <B>3</B>. If the <SPAN CLASS="MATH"><I>i</I></SPAN>-th (<!-- MATH
+ $1 \le i \le N$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10795img3.png"
+ ALT="$ \le$"><I>i</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10795img3.png"
+ ALT="$ \le$"><I>N</I></SPAN>)
+integer is <B>1</B>, you should consider that <SPAN CLASS="MATH"><I>i</I></SPAN>-th disk is on
+Peg-<B>A</B>. Input is terminated by <SPAN CLASS="MATH"><I>N</I> = 0</SPAN>. This case should not be
+processed. 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Output
+of each test case should consist of a line starting with 
+`<TT>Case <SPAN CLASS="MATH">#</SPAN>: </TT>' where <SPAN CLASS="MATH">#</SPAN> is the test case number. 
+It should be followed by the minimum number
+of moves as specified in the problem statement.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+1 1 1
+2 2 2
+3
+1 2 3
+3 2 1
+4
+1 1 1 1
+1 1 1 1
+0
+</PRE>   
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+Case 1: 7
+Case 2: 3
+Case 3: 0
+</PRE> 
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Problem setter: Md. Kamruzzaman<br>
+Special Thanks: Derek Kisman (Alternate Solution), Shahriar Manzoor (Picture Drawing)
+</ADDRESS>
+<hr>
+
+<ADDRESS>
+Miguel Revilla
+2004-12-10
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

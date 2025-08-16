@@ -1,0 +1,803 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./d_files/filelist.xml">
+<link rel=Edit-Time-Data href="./d_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem D - Lunar Forest</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>22</o:Revision>
+  <o:TotalTime>107</o:TotalTime>
+  <o:LastPrinted>2004-10-06T09:23:00Z</o:LastPrinted>
+  <o:Created>2005-03-04T06:16:00Z</o:Created>
+  <o:LastSaved>2005-03-14T11:46:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>424</o:Words>
+  <o:Characters>2421</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>20</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2973</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:"\FF2D\FF33 \660E\671D";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:Arial;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:Algerian;
+	panose-1:4 2 7 5 4 10 2 6 7 2;
+	mso-font-charset:0;
+	mso-generic-font-family:decorative;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"Beaconsfield Bold";
+	mso-font-alt:"Times New Roman";
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:7 0 0 0 19 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	tab-stops:143.25pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:normal;}
+h3
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.0pt;
+	font-family:Arial;
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;
+	font-weight:bold;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h6
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-line-height-alt:41.0pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	mso-element:frame;
+	mso-element-wrap:around;
+	mso-element-anchor-vertical:paragraph;
+	mso-element-anchor-horizontal:column;
+	mso-height-rule:exactly;
+	font-size:54.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Algerian;
+	mso-text-raise:-5.5pt;
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;
+	font-weight:normal;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:7;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:8;
+	font-size:20.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Beaconsfield Bold";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-font-weight:bold;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:9;
+	tab-stops:419.15pt;
+	font-size:18.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"MS Mincho";
+	mso-ansi-language:EN-GB;
+	mso-fareast-language:SV;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	mso-bidi-font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+p.paragraph, li.paragraph, div.paragraph
+	{mso-style-name:paragraph;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.quote, li.quote, div.quote
+	{mso-style-name:quote;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+ /* Page Definitions */
+@page
+	{mso-footnote-separator:url("./d_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("./d_files/header.htm") fcs;
+	mso-endnote-separator:url("./d_files/header.htm") es;
+	mso-endnote-continuation-separator:url("./d_files/header.htm") ecs;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:1.0in .8in 1.0in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-page-numbers:0;
+	mso-title-page:yes;
+	mso-even-footer:url("./d_files/header.htm") ef1;
+	mso-footer:url("./d_files/header.htm") f1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:1777599780;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1173147434 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:21.0pt;
+	mso-level-number-position:left;
+	margin-left:21.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:2044864371;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1947264914 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:21.0pt;
+	mso-level-number-position:left;
+	margin-left:21.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="6145"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:28.0pt;mso-bidi-font-size:
+12.0pt;font-family:Arial'>Problem D</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>Lunar Forest</span></b><span
+style='font-family:Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input: </b><span style='mso-bidi-font-weight:
+bold'>Standard Input<o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output <o:p></o:p></span></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Linda is a lovely girl living in
+the forest. Every morning she wakes up early, plays with animals and enjoys the
+beautiful landscape. She loves the forest very much. </p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>One day, she found an exceptional
+shining little thing on the ground. It was a seed! Linda loved it so much that
+she immediately took it home.</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>That night, Linda had a strange
+dream. She was told that the seed was from a lunar tree. If she plants the seed
+with care, a beautiful lunar tree can grow up in the forest! What's more, lunar
+trees will produce seeds. She can grow a tree, take seeds, plant seeds, then
+grow another tree... Then there will be more and more beautiful lunar trees.
+What a good idea!</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Here is how lunar trees are grown
+up:</p>
+
+<p class=MsoNormal style='margin-left:21.0pt;text-align:justify;text-indent:
+-21.0pt;mso-list:l0 level1 lfo2;tab-stops:list 21.0pt'><![if !supportLists]><span
+style='font-family:Wingdings'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Every <b style='mso-bidi-font-weight:normal'>morning</b>,
+the height of each lunar tree increases by <b style='mso-bidi-font-weight:normal'>1</b>.</p>
+
+<p class=MsoNormal style='margin-left:21.0pt;text-align:justify;text-indent:
+-21.0pt;mso-list:l0 level1 lfo2;tab-stops:list 21.0pt'><![if !supportLists]><span
+style='font-family:Wingdings'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Every tree has two harvest point <b style='mso-bidi-font-weight:
+normal'>HP1</b> and <b style='mso-bidi-font-weight:normal'>HP2 </b>For each harvest
+point, the first day that its height equals or exceeds the height of harvest
+point, it produces a seed, in the <b style='mso-bidi-font-weight:normal'>noon</b>.
+It is possible that the tree produces two seeds at the same time, but a tree
+can produce at most two seeds in total.</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Here is her plan:</p>
+
+<p class=MsoNormal style='margin-left:21.0pt;text-align:justify;text-indent:
+-21.0pt;mso-list:l1 level1 lfo4;tab-stops:list 21.0pt'><![if !supportLists]><span
+style='font-family:Wingdings'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Every <b style='mso-bidi-font-weight:normal'>afternoon</b>,
+plant zero or more seeds. Those lunar seeds will become lunar tree of height <b
+style='mso-bidi-font-weight:normal'>1</b> the next <b style='mso-bidi-font-weight:
+normal'>morning</b>. (if nothing else is done).</p>
+
+<p class=MsoNormal style='margin-left:21.0pt;text-align:justify;text-indent:
+-21.0pt;mso-list:l1 level1 lfo4;tab-stops:list 21.0pt'><![if !supportLists]><span
+style='font-family:Wingdings'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><![endif]>Every <b style='mso-bidi-font-weight:normal'>evening</b>,
+pour a glass of magic water onto a seed that has just been planted that <b
+style='mso-bidi-font-weight:normal'>afternoon</b>, or onto a lunar tree. The
+magic water makes the lunar tree grow <b style='mso-bidi-font-weight:normal'>1</b>
+extra height unit. For seeds, they'll be lunar trees of height <b
+style='mso-bidi-font-weight:normal'>2</b> the next <b style='mso-bidi-font-weight:
+normal'>morning</b>, for trees, their heights will increase by <b
+style='mso-bidi-font-weight:normal'>2</b>, not <b style='mso-bidi-font-weight:
+normal'>1</b>. She cannot pour onto two or more seeds or trees, and she cannot
+pour onto no seeds or trees.</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Linda wished that there would
+eventually be, by her hand, a lunar forest of <b>m</b> trees, with all the
+trees of the <b style='mso-bidi-font-weight:normal'>same</b> height. How fast
+can this be?</p>
+
+<p class=paragraph style='margin:0in;margin-bottom:.0001pt;tab-stops:143.25pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h5 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial'>Input</span></span><span class=StyleArial16pt><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;mso-fareast-font-family:
+"Arial Unicode MS"'><o:p></o:p></span></span></h5>
+
+<p class=MsoNormal style='text-align:justify'>The first line contains a single
+integer <b style='mso-bidi-font-weight:normal'>t</b>(<b style='mso-bidi-font-weight:
+normal'>1</b>&lt;=<b style='mso-bidi-font-weight:normal'>t</b>&lt;=<b
+style='mso-bidi-font-weight:normal'>25</b>), the number of test cases. Each
+test case is a single line containing <b style='mso-bidi-font-weight:normal'>3</b>
+integers: <b style='mso-bidi-font-weight:normal'>HP1</b>, <b style='mso-bidi-font-weight:
+normal'>HP2</b> and <b style='mso-bidi-font-weight:normal'>m</b>(<b
+style='mso-bidi-font-weight:normal'>2</b>&lt;=<b style='mso-bidi-font-weight:
+normal'>HP1</b>&lt;<b style='mso-bidi-font-weight:normal'>HP2</b>&lt;=<b
+style='mso-bidi-font-weight:normal'>8</b>, <b style='mso-bidi-font-weight:normal'>2</b>&lt;=<b
+style='mso-bidi-font-weight:normal'>m</b>&lt;=<b style='mso-bidi-font-weight:
+normal'>16</b>)</p>
+
+<p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h4 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial'>Output <o:p></o:p></span></span></h4>
+
+<p class=MsoNormal>For each case, print the case number, followed by the
+minimum number of days required.</p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h1 align=left style='text-align:left;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;font-style:
+normal'>Sample Input<span style="mso-spacerun:
+yes">                                  </span>Output for Sample Input<o:p></o:p></span></b></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" bgcolor="#cccccc"
+ style='width:100.0%;background:#CCCCCC;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width="51%" valign=top style='width:51.6%;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:"Courier New"'>2<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:"Courier New"'>2 3 3<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:"Courier New"'>3 4 14<o:p></o:p></span></b></p>
+  <pre><![if !supportEmptyParas]>&nbsp;<![endif]><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></pre></td>
+  <td width="48%" valign=top style='width:48.4%;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>Case
+  1: 6<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'>Case
+  2: 99<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !supportEmptyParas]>&nbsp;<![endif]><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='font-family:"Trebuchet MS"'>Problem setter: Rujia Liu<o:p></o:p></span></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='font-family:"Trebuchet MS"'>Special Thanks: Derek Kisman<o:p></o:p></span></p>
+
+<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='font-family:"Trebuchet MS"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='tab-stops:45.0pt'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:20.0pt;mso-bidi-font-size:12.0pt;font-family:
+Arial'>Explanation of Sample 1<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>Here is a table. We give tree
+heights in the morning, number of seeds available in the noon, how many seeds are
+planted in the afternoon, and which tree (or seed) is poured magic water. Since
+trees are identical, we use height to denote a tree.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 style='border-collapse:collapse;
+ border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width=43 valign=top style='width:.45in;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Day<o:p></o:p></b></p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Morning(heights)<o:p></o:p></b></p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Noon(seed count)<o:p></o:p></b></p>
+  </td>
+  <td width=134 valign=top style='width:100.3pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Afternoon(action)<o:p></o:p></b></p>
+  </td>
+  <td width=151 valign=top style='width:113.4pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Evening(tree
+  watered)<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=43 valign=top style='width:.45in;border:solid windowtext .5pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>1</p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>(No tree)</p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>1</p>
+  </td>
+  <td width=134 valign=top style='width:100.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>Plant 1 seed</p>
+  </td>
+  <td width=151 valign=top style='width:113.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>Seed</p>
+  </td>
+ </tr>
+ <tr>
+  <td width=43 valign=top style='width:.45in;border:solid windowtext .5pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>2</p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>2</p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>1</p>
+  </td>
+  <td width=134 valign=top style='width:100.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>No action</p>
+  </td>
+  <td width=151 valign=top style='width:113.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>Seed</p>
+  </td>
+ </tr>
+ <tr>
+  <td width=43 valign=top style='width:.45in;border:solid windowtext .5pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>3</p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>3, 2</p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>2</p>
+  </td>
+  <td width=134 valign=top style='width:100.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>Plant 1 seed</p>
+  </td>
+  <td width=151 valign=top style='width:113.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>Seed</p>
+  </td>
+ </tr>
+ <tr>
+  <td width=43 valign=top style='width:.45in;border:solid windowtext .5pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>4</p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>4, 3, 2</p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>3</p>
+  </td>
+  <td width=134 valign=top style='width:100.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>No action</p>
+  </td>
+  <td width=151 valign=top style='width:113.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>Tree of Height 2</p>
+  </td>
+ </tr>
+ <tr>
+  <td width=43 valign=top style='width:.45in;border:solid windowtext .5pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>5</p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>5, 4, 4</p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>4</p>
+  </td>
+  <td width=134 valign=top style='width:100.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>No action</p>
+  </td>
+  <td width=151 valign=top style='width:113.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>Tree of Height 4</p>
+  </td>
+ </tr>
+ <tr>
+  <td width=43 valign=top style='width:.45in;border:solid windowtext .5pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>6</p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>6, 6, 5</p>
+  </td>
+  <td width=120 valign=top style='width:1.25in;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:30.0pt center .55in'>4<span
+  style='mso-tab-count:1'>        </span></p>
+  </td>
+  <td width=134 valign=top style='width:100.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>No action</p>
+  </td>
+  <td width=151 valign=top style='width:113.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>Tree of Height 5</p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>You see, after 6 days (6 glasses of magic water were
+poured), we'll have three trees: 7, 7, 7</p>
+
+<p style='margin:0in;margin-bottom:.0001pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='font-family:"Trebuchet MS"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

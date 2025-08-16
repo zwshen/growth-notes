@@ -1,0 +1,182 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Interpreting Control Sequences</TITLE>
+<META NAME="description" CONTENT="Interpreting Control Sequences">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Interpreting Control Sequences</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Virtually all text-mode terminals are special-purpose computer systems,
+including a serial port (for communication with a modem or another computer
+system), a keyboard, a CRT, and of course, a microprocessor, some RAM, and a
+control program in ROM.
+<P>
+When a character arrives at the terminal, either from the keyboard or the
+serial port, the terminal's software classifies it as either a display
+character (which is to be displayed on the CRT) or as a character that 
+introduces a control sequence.  A control sequence is used to direct the
+terminal to do such things as clear the screen, move the cursor in a specified
+manner, or perhaps change fonts.
+<P>
+In this problem assume you are writing the software for a small terminal with
+a 10-row, 10-column display (perhaps for a point-of-sale terminal).  Rows and
+columns are numbered 0 through 9.  The character that introduces a control
+sequence is  <IMG WIDTH=7 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline39" SRC="337img1.gif"  > , the circumflex. The character (or in one case, the two
+characters) immediately following the control sequence introducer will direct
+your software in performing its special functions.  Here is the complete
+list of control sequences you will need to interpret:
+<P>
+<DL ><DT><STRONG> <IMG WIDTH=7 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline39" SRC="337img1.gif"  > <TT>b</TT></STRONG>
+<DD>
+<P>
+  Move the cursor to the beginning of the current line; the cursor row does not change
+<P>
+<DT><STRONG> <IMG WIDTH=7 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline39" SRC="337img1.gif"  > <TT>c</TT></STRONG>
+<DD>
+  Clear the entire screen; the cursor row and column do not change
+<P>
+<DT><STRONG> <IMG WIDTH=7 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline39" SRC="337img1.gif"  > <TT>d</TT></STRONG>
+<DD>
+  Move the cursor down one row if possible; the cursor column does not change
+<P>
+<DT><STRONG> <IMG WIDTH=7 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline39" SRC="337img1.gif"  > <TT>e</TT></STRONG>
+<DD>
+  Erase characters to the right of, and including, the cursor column on
+    the cursor's row; the cursor row and column do not change
+<P>
+<DT><STRONG> <IMG WIDTH=7 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline39" SRC="337img1.gif"  > <TT>h</TT></STRONG>
+<DD>
+  Move the cursor to row 0, column 0; the image on the screen is not changed
+<P>
+<DT><STRONG> <IMG WIDTH=7 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline39" SRC="337img1.gif"  > <TT>i</TT></STRONG>
+<DD>
+  Enter insert mode (see below)
+<P>
+<DT><STRONG> <IMG WIDTH=7 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline39" SRC="337img1.gif"  > <TT>l</TT></STRONG>
+<DD>
+  Move the cursor left one column, if possible; the cursor row does
+    not change
+<P>
+<DT><STRONG> <IMG WIDTH=7 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline39" SRC="337img1.gif"  > <TT>o</TT></STRONG>
+<DD>
+  Enter overwrite mode (see below)
+<P>
+<DT><STRONG> <IMG WIDTH=7 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline39" SRC="337img1.gif"  > <TT>r</TT></STRONG>
+<DD>
+  Move the cursor right one column, if possible; the cursor row does
+    not change
+<P>
+<DT><STRONG> <IMG WIDTH=7 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline39" SRC="337img1.gif"  > <TT>u</TT></STRONG>
+<DD>
+  Move the cursor up one row, if possible; the cursor column does not change
+<P>
+<DT><STRONG> <IMG WIDTH=17 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline61" SRC="337img2.gif"  > </STRONG>
+<DD>
+  Write a circumflex ( <IMG WIDTH=7 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline39" SRC="337img1.gif"  > ) at the current cursor location, exactly as if it was not a special character; this is subject to the actions of the current
+    mode (insert or overwrite)
+<P>
+<DT><STRONG> <IMG WIDTH=7 HEIGHT=7 ALIGN=BOTTOM ALT="tex2html_wrap_inline39" SRC="337img1.gif"  >  <TT>##</TT></STRONG>
+<DD>
+ Move the cursor to the row and column specified; # represents a decimal
+    digit; the first # represents the new row number, and the second #
+    represents the new column number
+<P>
+ </DL>
+<P>
+No illegal control sequences will ever be sent to the terminal.  The cursor
+cannot move outside the allowed screen locations (that is, between row 0,
+column 0 and row 9, column 9).
+<P>
+<P>
+When a normal character (not part of a control sequence) arrives at the
+terminal, it is displayed on the terminal screen in a manner that depends on
+the terminal mode.  When the terminal is in overwrite mode (as it is when it
+is first turned on), the received character replaces the character at the
+cursor's location.  But when the terminal is in insert mode, the characters
+to the right of and including the cursor's location are shifted right one
+column, and the new character is placed at the cursor's location; the
+character previously in the rightmost column of the cursor's row is lost.
+Regardless of the mode, the cursor is moved right one column, if possible.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input will contain multiple tests of your terminal software.  Each test
+begins with a line containing an integer <I>N</I>.  Following this line there will
+be <I>N</I> more lines of data, each character of which is to be treated as 
+if it was input, in the order read, to your terminal software.  There will be
+no tab characters in the input data, and ends of lines in the input are to be
+ignored.  Note that blanks in the input data are normal characters to 
+be displayed on your terminal's screen.  The last test will be followed by a
+single line containing the integer 0.  No control sequence will be split
+between two lines of the input data.
+<P>
+<P>
+At the beginning of each test case you are to assume the terminal screen is
+clear (that is, filled with blanks), that the terminal is in overwrite mode,
+and that the cursor is in row 0, column 0 of the screen.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each input test case, output a line with the case number (these are
+numbered sequentially starting with 1) and the screen image the way it would
+look at the end of processing the data in the test case.  Enclose the 
+screen image in a &quot;box;&quot; see the sample below for illustration of the required
+format.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>7
+This is bad^h^c
+^05^^
+^14/ \^d^b   /   \
+^u^d^d^l^l^l^l^l^l^l^l^l
+^r^r&lt; ACM &gt;^l^l^d/^b   \
+^b^d    \ /
+^d^l^lv
+7
+^i9^l8^l7^l6^l5^l4^l3^l2^l1^l0
+^o^d^lThis is #1^d^bThis is #2
+^d^bThis is #3^d^bThis is #4
+^d^bThis is #5^d^bThis is #6
+^d^bThis is #7^d^bThis is #8
+^i^d^bThis is #9^d^bThis is #10
+^54^e Hello^d^l^l^l^lWorld
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>Case 1
++----------+
+|     ^    |
+|    / \   |
+|   /   \  |
+|  &lt; ACM &gt; |
+|   \   /  |
+|    \ /   |
+|     v    |
+|          |
+|          |
+|          |
++----------+
+Case 2
++----------+
+|0123456789|
+|This is #1|
+|This is #2|
+|This is #3|
+|This is #4|
+|This Hello|
+|This World|
+|This is #7|
+|This is #8|
+|This is #0|
++----------+</PRE>
+<P>
+</BODY>
+</HTML>

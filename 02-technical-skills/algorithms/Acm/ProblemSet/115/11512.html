@@ -1,0 +1,157 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>GATTACA</TITLE>
+<META NAME="description" CONTENT="GATTACA">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+GATTACA</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+The Institute of Bioinformatics and Medicine (IBM) of your country has been studying the DNA sequences of several organisms, including the human one. Before analyzing the DNA of an organism, the investigators must extract the DNA from the cells of the organism and decode it with a process called ``sequencing''.
+
+<P>
+
+<P><P>
+<BR>
+A technique used to decode a DNA sequence is the ``shotgun sequencing''. This technique is a method applied to decode long DNA strands by cutting randomly many copies of the same strand to generate smaller fragments, which are sequenced reading the DNA bases (<TT>A</TT>, <TT>C</TT>, <TT>G</TT> and <TT>T</TT>) with a special machine, and re-assembled together using a special algorithm to build the entire sequence.
+
+<P>
+
+<P><P>
+<BR>
+Normally, a DNA strand has many segments that repeat two or more times over the sequence (these segments are called ``<SPAN  CLASS="textit">repetitions</SPAN>''). The repetitions are not completely identified by the shotgun method because the re-assembling process is not able to differentiate two identical fragments that are substrings of two distinct repetitions.
+
+<P>
+
+<P><P>
+<BR>
+The scientists of the institute decoded successfully the DNA sequences of numerous bacterias from the same family, with other method of sequencing (much more expensive than the shotgun process) that avoids the problem of repetitions. The biologists wonder if it was a waste of money the application of the other method because they believe there is not any large repeated fragment in the DNA of the bacterias of the family studied.
+
+<P>
+
+<P><P>
+<BR>
+The biologists contacted you to write a program that, given a DNA strand, finds the largest substring that is repeated two or more times in the sequence.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of the input contains an integer <SPAN CLASS="MATH"><I>T</I></SPAN>
+<tex2html_verbatim_mark> specifying the number of test cases (<!-- MATH
+ $1 \leq T \leq 100$
+ -->
+<SPAN CLASS="MATH">1 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11512img1.png"
+ ALT="$ \leq$"> <I>T</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11512img1.png"
+ ALT="$ \leq$"> 100</SPAN>
+<tex2html_verbatim_mark>). Each test case consists of a single line of text that represents a DNA sequence <SPAN CLASS="MATH"><I>S</I></SPAN>
+<tex2html_verbatim_mark> of length <SPAN CLASS="MATH"><I>n</I></SPAN>
+<tex2html_verbatim_mark> (<!-- MATH
+ $1 \leq n \leq 1000$
+ -->
+<SPAN CLASS="MATH">1 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11512img1.png"
+ ALT="$ \leq$"> <I>n</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11512img1.png"
+ ALT="$ \leq$"> 1000</SPAN>
+<tex2html_verbatim_mark>).
+
+<P>
+
+<P><P>
+<BR>
+You can suppose that each sequence <SPAN CLASS="MATH"><I>S</I></SPAN>
+<tex2html_verbatim_mark> only contains the letters <TT>A</TT>, <TT>C</TT>, <TT>G</TT> and <TT>T</TT>.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each sequence in the input, print a single line specifying the largest substring of <SPAN CLASS="MATH"><I>S</I></SPAN>
+<tex2html_verbatim_mark> that appears two or more times repeated in <SPAN CLASS="MATH"><I>S</I></SPAN>
+<tex2html_verbatim_mark>, followed by a space, and the number of ocurrences of the substring in <SPAN CLASS="MATH"><I>S</I></SPAN>
+<tex2html_verbatim_mark>.
+
+<P>
+
+<P><P>
+<BR>
+If there are two or more substrings of maximal length that are repeated, you must choose the least according to the lexicographic order.
+
+<P>
+
+<P><P>
+<BR>
+If there is no repetition in <SPAN CLASS="MATH"><I>S</I></SPAN>
+<tex2html_verbatim_mark>, print ``<TT>No repetitions found!</TT>''
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+6
+GATTACA
+GAGAGAG
+GATTACAGATTACA
+TGAC
+TGTAC
+TTGGAACC
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+A 3
+GAGAG 2
+GATTACA 2
+No repetitions found!
+T 2
+A 2
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Colombia'2008
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

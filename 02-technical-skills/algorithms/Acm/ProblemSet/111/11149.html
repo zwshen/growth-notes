@@ -1,0 +1,76 @@
+<HTML>
+<HEAD><TITLE>Power of Matrix - Contest of Newbies 2006</TITLE>
+<META content="Power of Matrix" name=description>
+<META content=document name=resource-type>
+<META content=global name=distribution>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META content="MSHTML 6.00.2800.1106" name=GENERATOR>
+<META http-equiv=Content-Style-Type content=text/css><LINK 
+href="trainingtask.css" rel=STYLESHEET></HEAD>
+
+
+<BODY>
+
+<TABLE WIDTH=100% BORDER=0 CELLPADDING=4 CELLSPACING=3 STYLE="page-break-inside: avoid">
+	<COL WIDTH=256*>
+	<COL WIDTH=256*>
+	<THEAD>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=100% BGCOLOR="#550077">
+				<P><FONT COLOR="#ffffff"><FONT FACE="Arial Black" SIZE=6>Problem
+				B : Power of Matrix</FONT></P>
+			</TD>
+		</TR>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=100% BGCOLOR="#550077">
+				<P ALIGN=RIGHT><FONT COLOR="#ffffff"><FONT FACE="Arial Black" SIZE=3>Time
+				limit: 10 seconds</FONT></P>
+			</TD>
+		</TR>
+	</THEAD>
+</TABLE>
+
+<P><font size=6>C</font>onsider an <b>n</b>-by-<b>n</b> matrix <b>A</b>. We define <b>A</b><sup><i>k</i></sup> = <b>A</b> * <b>A</b> * ... * <b>A</b> (<i>k</i> times). Here, * denotes the usual matrix multiplication.
+
+<p>You are to write a program that computes the matrix <b>A</b> + <b>A</b><sup>2</sup> + <b>A</b><sup>3</sup> + ... +  <b>A</b><sup><i>k</i></sup>.
+
+<P><H2><A name=SECTION00001000000000000000><FONT color=#550077>Example</FONT></A></H2>
+
+<p>Suppose <b>A</b> = <img align=center src="p11149a.gif">. Then <b>A</b><sup>2</sup> = <img align=center src="p11149a.gif"><img align=center src="p11149a.gif"> = <img align=center src="p11149b.gif">, thus:
+<p><img align=center border=1 src="p11149c.gif">
+
+<p>Such computation has various applications. For instance, the above example actually counts all the paths in the following graph:
+
+<p><img src="p11149d.gif">
+
+<P><H2><A name=SECTION00001000000000000000><FONT color=#550077>Input</FONT></A></H2>
+
+<p>Input consists of no more than 20 test cases. The first line for each case contains two positive integers <b>n</b> (&le; 40) and <i>k</i> (&le; 1000000). This is followed by <b>n</b> lines, each containing <b>n</b> non-negative integers, giving the matrix <b>A</b>.
+
+<p>Input is terminated by a case where <b>n</b> = 0. This case need NOT be processed.
+
+<P><H2><A name=SECTION00002000000000000000><FONT color=#550077>Output</FONT></A></H2>
+
+<p>For each case, your program should compute the matrix <b>A</b> + <b>A</b><sup>2</sup> + <b>A</b><sup>3</sup> + ... +  <b>A</b><sup><i>k</i></sup>. Since the values may be very large, you only need to print their <i>last digit</i>. Print a blank line after each case.
+
+<P><H2><A name=SECTION00004000000000000000><FONT color=#550077>Sample Input</FONT></A></H2>
+
+<PRE>
+3 2
+0 2 0
+0 0 2
+0 0 0
+0 0
+</PRE>
+
+<P><H2><A name=SECTION00004000000000000000><FONT color=#550077>Sample Output</FONT></A></H2>
+<PRE>
+0 2 4
+0 0 2
+0 0 0
+
+</PRE>
+
+<P><HR><ADDRESS>Problemsetter: Mak Yan Kei</ADDRESS>
+</BODY>
+</HTML>

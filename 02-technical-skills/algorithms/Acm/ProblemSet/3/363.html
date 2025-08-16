@@ -1,0 +1,119 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Approximate Matches</TITLE>
+<META NAME="description" CONTENT="Approximate Matches">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Approximate Matches</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Given a non-null string of text <I>S</I>, a non-null
+string of text <I>P</I>, and an integer  <IMG WIDTH=40 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline60" SRC="363img1.gif"  > , find
+all non-null substrings of <I>S</I> that match or ``approximately
+match&quot; <I>P</I> with at most <I>k</I> mismatches.
+The substring  <IMG WIDTH=16 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline68" SRC="363img2.gif"  >  is considered to <EM>match</EM> the string <I>P</I> if they are
+identical (as you might expect), and <EM>approximately match</EM>
+if the strings differ by no more than <I>k</I> mismatches, as defined next.
+<P>
+<P>
+If a minimum of <I>m</I> characters have to be removed from  <IMG WIDTH=16 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline68" SRC="363img2.gif"  >  to make it
+identical to <I>P</I>, then  <IMG WIDTH=16 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline68" SRC="363img2.gif"  >  approximately matches <I>P</I> with
+<I>m</I> mismatches.  If a minimum of <I>n</I> characters
+have to be removed from <I>P</I> to make it identical to
+ <IMG WIDTH=16 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline68" SRC="363img2.gif"  > , then  <IMG WIDTH=16 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline68" SRC="363img2.gif"  >  approximately matches <I>P</I> with <I>n</I>
+mismatches.  If <I>m</I> characters have to be removed from  <IMG WIDTH=16 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline68" SRC="363img2.gif"  >  and <I>n</I>
+characters have to be removed from <I>P</I> to make  <IMG WIDTH=16 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline68" SRC="363img2.gif"  >  and <I>P</I>
+identical, then  <IMG WIDTH=16 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline68" SRC="363img2.gif"  >  approximately matches
+<I>P</I> with <I>m</I>+<I>n</I> mismatches (here <I>m</I>+<I>n</I> should be minimized).
+<P>
+<P>
+Consider the string <I>S</I> =``<TT>The sky is blue</TT>&quot;.
+<P>
+<UL><LI> The substring ``<TT>The sky</TT>&quot; in <I>S</I> matches the
+string ``<TT>The sky</TT>&quot;.<LI> The substring ``<TT>The sky</TT>&quot; in <I>S</I> approximately matches the
+string ``<TT>The skye</TT>&quot; with one mismatch (the extra ``<TT>e</TT>&quot; in the string).)<LI> The substring ``<TT>sky is</TT>&quot; in <I>S</I> approximately matches the
+string ``<TT>skis</TT>&quot; with two mismatches (the characters ``<TT>y</TT>&quot;
+and ``<TT> </TT>&quot; in the substring).<LI> The substring ``<TT>sky is</TT>&quot; in <I>S</I> approximately matches the
+string ``<TT>tennis</TT>&quot; with eight
+mismatches (four characters are removed from ``<TT>sky is</TT>&quot; and
+four are removed from ``<TT>tennis</TT>&quot;).
+</UL>
+<P>
+As another example, the string ``<TT>scrapple</TT>&quot; approximately
+matches the string ``<TT>apples</TT>&quot; with four
+mismatches (by removing <TT>s</TT>, <TT>c</TT>, <TT>r</TT> from
+``<TT>scrapple</TT>&quot; and <TT>s</TT> from ``<TT>apples</TT>&quot;).  Although there are
+other ways to remove letters from these two strings to make the
+results identical (for example removing all but the <TT>s</TT> from both strings),
+four characters is the minimum number that can be removed.
+<P>
+<P>
+Note that case is important in this problem; thus <TT>T</TT> does not
+match <TT>t</TT>, but <TT>T</TT> approximately matches <TT>t</TT> with two mismatches.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Each data set consists of three lines that contain <I>k</I>, <I>S</I>, and <I>P</I>,
+respectively. <I>k</I> is an integer; <I>S</I> is a string of
+length between 1 and 50 inclusive,
+and <I>P</I> is a string of length between 1 and 20
+inclusive.  Your program must stop processing data when it encounters
+a negative value for <I>k</I><H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each match with <I>i</I> mismatches ( <IMG WIDTH=69 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline144" SRC="363img3.gif"  > ), your program must
+generate a line of one of the following forms (whichever is appropriate):
+<P>
+<P>
+<P>
+<I>Q</I> matches <I>P</I>
+<P>
+<I>Q</I> matches <I>P</I> with 1 mismatch
+<P>
+<I>Q</I> matches <I>P</I> with <I>i</I> mismatches
+<P>
+<P>
+<P>
+where <I>Q</I> is a substring of <I>S</I> that matches <I>P</I> or that approximately
+matches <I>P</I> with <I>i</I> mismatches. If more than one substring in
+<I>S</I> matches or approximately matches <I>P</I>,
+they must be printed in the order they appear in <I>S</I> (from left to right).
+Substrings that start at the same position must be listed in the order
+of their size (shortest to longest). No value for <I>Q</I> may be listed more
+than once. If there is no match, no output should be generated. Leave a blank
+line after the output for
+each data set (even if there is no output for the data set).
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>1
+He did not care about the carpet in the car.
+car
+2
+ABC
+BC
+-1</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE> car matches car with 1 mismatch
+ca matches car with 1 mismatch
+car matches car
+care matches car with 1 mismatch
+ar matches car with 1 mismatch
+carp matches car with 1 mismatch
+car. matches car with 1 mismatch
+
+AB matches BC with 2 mismatches
+ABC matches BC with 1 mismatch
+B matches BC with 1 mismatch
+BC matches BC
+C matches BC with 1 mismatch
+</PRE>
+<P>
+</BODY>
+</HTML>

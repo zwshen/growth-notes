@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Run, Run, Runaround Numbers</TITLE>
+<META NAME="description" CONTENT="Run, Run, Runaround Numbers">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Run, Run, Runaround Numbers</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+An <I>N</I>-digit runaround number is characterized as follows:
+<P>
+<UL><LI> It is an integer with exactly <I>N</I> digits, each of which is between 1 and 9, inclusively.<LI> The digits form a sequence with each digit telling where the next digit in
+the sequence occurs. This is done by giving the number of digits to the
+right of the digit where the next digit
+in the sequence occurs. If necessary, counting wraps around from the
+rightmost digit back to the leftmost.<LI> The leftmost digit in the number is the first digit in the sequence,
+and the sequence must return to this digit after all digits in the number
+have been used exactly once.<LI> No digit will appear more than once in the number.
+</UL>
+<P>
+For example, consider the number 81362. To verify that this is a runaround
+number, we use the steps shown below:
+<P>
+<OL><LI> Start with the leftmost digit, 8: <TT><U> 1 3 6 2</TT></U><LI> Count 8 digits to the right, ending on 6 (note the wraparound): <TT><U> 1 3 <U> 2</TT></U></U><LI> Count 6 digits to the right, ending on 2: <TT><U> 1 3 <U> <U></TT></U></U></U><LI> Count 2 digits to the right, ending on 1: <TT><U> <U> 3 <U> <U></TT></U></U></U></U><LI> Count 1 digit to the right, ending on 3: <TT><U> <U> <U> <U> <U></TT></U></U></U></U></U><LI> Count 3 digits to the right, ending on 8 (where we began): <TT><U> <U> <U> <U> <U></TT></U></U></U></U></U>
+</OL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+In this problem you will be provided with one or more input lines, each
+with a single integer <I>R</I> having between 2 and 7 digits followed immediately
+by the end of line. For each such
+number, determine the smallest runaround number that is equal to or greater
+than <I>R</I>. There will always be such a number for each of the input numbers.
+Display the resulting number in the
+format illustrated below. The last line of the input will contain only
+the digit 0 in column 1.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>12
+123
+1234
+81111
+82222
+83333
+911111
+7654321
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>Case 1: 13
+Case 2: 147
+Case 3: 1263
+Case 4: 81236
+Case 5: 83491
+Case 6: 83491
+Case 7: 913425
+Case 8: 8124956</PRE>
+<P>
+</BODY>
+</HTML>

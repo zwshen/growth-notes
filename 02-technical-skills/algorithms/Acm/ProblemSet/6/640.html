@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Self Numbers</TITLE>
+<META NAME="description" CONTENT="Self Numbers">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Self Numbers</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+In 1949 the Indian mathematician D.R. Kaprekar discovered a class
+of numbers called self-numbers. For any positive integer <I>n</I>, define
+<I>d</I>(<I>n</I>) to be <I>n</I> plus the sum of the digits of <I>n</I>. (The <I>d</I> stands
+for <EM>digitadition</EM>, a term coined by Kaprekar.) For example, <I>d</I>(75) = 75 + 7 + 5 = 87.  Given any positive integer <I>n</I> as a starting
+point, you can construct the infinite increasing sequence of integers
+<I>n</I>, <I>d</I>(<I>n</I>), <I>d</I>(<I>d</I>(<I>n</I>)), 
+<!-- MATH: $d(d(d(n)))$ -->
+<I>d</I>(<I>d</I>(<I>d</I>(<I>n</I>))), .... For example, if you start with
+33, the next number is 33 + 3 + 3 = 39, the next is 39 + 3 + 9 = 51, the next
+is 51 + 5 + 1 = 57, and so you generate the sequence
+
+<P>
+<PRE>
+33, 39, 51, 57, 69, 84, 96, 111, 114, 120, 123, 129, 141, ...
+</PRE>
+
+<P>
+The number <I>n</I> is called a  
+<B><I>generator</I></B>  of <B><I>d</I>(<I>n</I>)</B>.  In the
+sequence above, 33 is a generator of 39, 39 is a generator of 51, 51
+is a generator of 57, and so on.  Some numbers have more than one
+generator: for example, 101 has two generators, 91 and 100.  A number
+with 
+<B><I>no</I></B> generators is a  
+
+<!-- MATH: $self-number$ -->
+<B><I>self</I>-<I>number</I></B>. There are thirteen
+self-numbers less than 100: 1, 3, 5, 7, 9, 20, 31, 42, 53, 64, 75, 86,
+and 97.  
+
+<P>
+
+<P>
+<BR>
+Write a program to output all positive self-numbers less than or equal 1000000
+in increasing order, one per line.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+1
+3
+5
+7
+9
+20
+31
+42
+53
+64
+ |
+ |       &lt;-- a lot more numbers
+ |
+9903
+9914
+9925
+9927
+9938
+9949
+9960
+9971
+9982
+9993
+ |
+ |
+ |
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-01-17</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

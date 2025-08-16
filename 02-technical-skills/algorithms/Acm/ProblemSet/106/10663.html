@@ -1,0 +1,76 @@
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="description" content="Unix ls">
+<meta name="keywords" content="htmlatex">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="GENERATOR" content="Microsoft FrontPage Express 2.0">
+<title>Non-Powerful Subsets</title>
+<link rel="STYLESHEET" href="htmlatex.css">
+</head>
+
+<body bgcolor="#FFFFFF" lang="EN">
+<div align="center"><center>
+
+<table border="0" bgcolor="#0060F0">
+    <tr>
+        <td><font color="#C0FFFF" size="5"><b> Non-Powerful
+        Subsets </b></font></td>
+    </tr>
+</table>
+</center></div>
+
+<p align="left">&nbsp;</p>
+
+<p align="left">Let's define a subset of natural numbers as
+&quot;non-powerful&quot; if it has no subset so that the sum of
+its elements is a power.
+Powers are: N<sup>M</sup>, for all N and M &ge; 2. Note that 1 is not considered as a power.</p>
+
+<p align="left">Given integers <i>a</i> and <i>b</i> our goal is to obtain the first
+maximal subset with numbers in the interval [<i>a</i>,<i>b</i>]
+satisfying the above property. The subset X is before than Y if X has at least one
+element less or equal than every element of Y. If the first value coincides, you must output the solution with lowest second value, and so on. Such a subset is
+named &quot;maximal&quot; if no more elements can be added to
+it.</p>
+
+<h2 align="left"><a name="SECTION0001001000000000000000"><font
+color="#0070E8">Input</font></a></h2>
+
+<p align="left">The input file contains several test cases, one per line.  Each test
+case contains the two integers <i>a</i> and <i>b</i>, 1 &le; <i>a</i>
+&le; <i>b</i> &le; 1000, as described above.  Input is terminated by
+EOF.</p>
+
+<h2 align="left"><a name="SECTION0001002000000000000000"><font
+color="#0070E8">Output</font></a></h2>
+
+<p align="left">For each input, you should print a line with the numbers belonging to
+the subset, sorted and space-delimited.  The subset will always
+contain at least one element.</p>
+
+<h2 align="left"><a name="SECTION0001003000000000000000"><font
+color="#0070E8">Sample Input</font></a></h2>
+
+<p align="left">
+<pre>2 3
+3 20
+4 28
+</pre>
+</p>
+
+<h2 align="left"><a name="SECTION0001004000000000000000"><font
+color="#0070E8">Sample Output</font></a></h2>
+
+<PRE>2 3
+3 7 10 11
+5 6 7 17 28
+</PRE>
+
+<p align="left">&nbsp;</p>
+</body>
+</html>

@@ -1,0 +1,159 @@
+
+<!--Converted with LaTeX2HTML 2002-2-1 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Problem C - Babylonian Roulette</TITLE>
+<META NAME="description" CONTENT="Problem C - Babylonian Roulette">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2002-2-1">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Problem C - Babylonian Roulette</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+<BLOCKQUOTE>
+<DIV ALIGN="RIGHT">
+<SMALL CLASS="FOOTNOTESIZE">... Los babilonios se entregaron al juego. El que no adquiría suertes era considerado un pusilánime, un apocado. Con el tiempo, ese desdén justificado se duplicó. Era despreciado el que no jugaba, pero también eran despreciados los perdedores que abonaban la multa ...
+</SMALL></DIV></BLOCKQUOTE>
+<P>
+<BLOCKQUOTE>
+<DIV ALIGN="RIGHT"><SMALL CLASS="FOOTNOTESIZE"><SMALL CLASS="FOOTNOTESIZE">Jorge Luis Borges, La lotería de Babilonia, Ficciones
+
+</SMALL></SMALL></DIV>
+</BLOCKQUOTE>
+
+<P>
+People of Babylon were devoted to chance games and one of the most popular was a special kind of roulette. Recently, some old Babylonian tablets were found. They described details of the roulette game. 
+
+<P>
+In modern terms, the rules of the game were as follows:
+
+<UL>
+<LI>Roulette's compartments had only six labels: <TT>-1, -2, -3, 1, 2, 3</TT>.
+</LI>
+<LI>The game was played by turns, during a day. Turns were numerated <TT>0, 1, 2, ...</TT>
+</LI>
+<LI>Players could win or lose a multiple of the <SPAN  CLASS="textit">bet</SPAN>, a quantity of money that was constant along the day.
+</LI>
+<LI>At turn <SPAN CLASS="MATH"><I>t</I></SPAN> there was an amount of money <SPAN CLASS="MATH"><I>P</I><SUB>t</SUB></SPAN>, called the <SPAN  CLASS="textit">pot</SPAN>.
+</LI>
+<LI>At the start, there was an initial amount of money <SPAN CLASS="MATH"><I>P</I><SUB>0</SUB></SPAN> in the pot. 
+</LI>
+<LI><SPAN CLASS="MATH"><I>P</I><SUB>0</SUB></SPAN> and the bet were positive numbers arbitrarily defined by the King. 
+</LI>
+<LI>In a turn, a player turned the roulette. A player could not play more than once in a day. Depending on the compartment where the ball came to rest, the player lose (or won, if the value was negative) an amount <!-- MATH
+ $w_{t} = L * bet$
+ -->
+<SPAN CLASS="MATH"><I>w</I><SUB>t</SUB> = <I>L</I>*<I>bet</I></SPAN> of money, where <SPAN CLASS="MATH"><I>L</I></SPAN> corresponded to the compartment's label.
+</LI>
+<LI>The won money was taken from the pot (or put in it if the player lose), i.e. the value of the pot in a given turn was determined by <!-- MATH
+ $P_{t+1} = P_{t} + w_{t}$
+ -->
+<SPAN CLASS="MATH"><I>P</I><SUB>t+1</SUB> = <I>P</I><SUB>t</SUB> + <I>w</I><SUB>t</SUB></SPAN>.
+</LI>
+<LI>If as a result of the last rule <SPAN CLASS="MATH"><I>P</I><SUB>t+1</SUB></SPAN> was a negative number the winner won only the maximum multiple of the bet that he could win without making a negative pot.   
+</LI>
+<LI>If at some turn the pot was less than the bet, the game was ended for that day. If that was not the case the game continued till sunset.
+</LI>
+</UL> 
+
+<P>
+Beside the tablets that explained the rules some other tablets were found. These had lines with three  numbers. Archeologists conjecture that each of these lines were part of a kind of accountability system for the game, where numbers represented, for a given day, the value of the pot at the beginning, the bet and the value of the pot at the end.
+
+<P>
+For example, a line with the numbers
+<DIV ALIGN="LEFT">
+<TT>10000 1500 11500</TT>
+
+</DIV>
+
+<P>
+could mean that there was only one turn where the player lose with label <TT>1</TT>. Another possibility is that there were three turns with results <TT>2</TT>, <TT>1</TT> and <TT>-2</TT>. 
+
+<P>
+On the other hand, there were found other tablets with triplets of numbers that seem like the above described that, however, cannot represent results of a game day. There is no hypothesis of what they are.  
+
+<P>
+Archeologists want to validate their hypothesis analyzing batches of tablets with triplets. They want to 
+estimate the number of people that played in a day. To begin, they want to establish, for each triplet of numbers in a tablet that could represent a result of a game day, the minimal number of players that played that day. In the above example the answer to this question is <TT>1</TT>. Tablets that cannot represent results should be identified. You are hired to help with this task.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input file contains several test cases, each one of them in a separate line. 
+Each test case is a triplet of non negative integers, indicating the initial pot, the bet and the final pot for a day. Each of the input numbers is less than <SPAN CLASS="MATH">10<SUP>8</SUP></SPAN>. The initial pot and the bet are greater than <SPAN CLASS="MATH">0</SPAN>. 
+
+<P>
+A line with a triplet of <TT>0</TT>'s denotes the end of the input.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Output texts for each input case are presented in the same order that input is read. For each test case the answer must be a printed line.
+
+<P>
+If the test case cannot represent the result of a game day, the output line has the words <TT>No accounting tablet</TT>. In other case, the printed answer is one positive integer number telling the minimal number of players that could turn the roulette for the day corresponding to the annotations. 
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+10000 1000 22000
+24 13 2
+5100 700 200
+54 16 158
+360 6 72
+25 10 5
+0 0 0
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2> 
+		<PRE>
+4
+No accounting tablet
+3
+No accounting tablet
+16
+1
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+XX Colombian National Programming Contest
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

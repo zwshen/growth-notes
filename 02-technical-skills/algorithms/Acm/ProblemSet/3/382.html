@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Perfection</TITLE>
+<META NAME="description" CONTENT="Perfection">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Perfection</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+From the article Number Theory in the 1994 Microsoft Encarta: ``If
+<EM>a</EM>, <EM>b</EM>, <EM>c</EM> are integers such that <I>a</I> = <I>bc</I>, a is called a multiple of <EM>b</EM> or of
+<EM>c</EM>, and <EM>b</EM> or <EM>c</EM> is called a divisor or factor of <EM>a</EM>. If <EM>c</EM> is not  <IMG WIDTH=20 HEIGHT=24 ALIGN=MIDDLE ALT="tex2html_wrap_inline41" SRC="382img1.gif"  > , <EM>b</EM> is
+called a proper divisor of <EM>a</EM>. Even integers, which include 0, are
+multiples of 2, for example, -4, 0, 2, 10; an odd integer is an
+integer that is not even, for example, -5, 1, 3, 9. A perfect number
+is a positive integer that is equal to the sum of all its positive,
+proper divisors; for example, 6, which equals 1 + 2 + 3, and 28,
+which equals 1 + 2 + 4 + 7 + 14, are perfect numbers. A positive
+number that is not perfect is imperfect and is deficient or abundant
+according to whether the sum of its positive, proper divisors is
+smaller or larger than the number itself. Thus, 9, with proper
+divisors 1, 3, is deficient; 12, with proper divisors 1, 2, 3, 4, 6, is
+abundant.&quot;
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Problem Statement</A></FONT></H2>
+<P>
+Given a number, determine if it is perfect,
+abundant, or deficient.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Input</A></FONT></H2>
+<P>
+A list of <I>N</I> positive integers (none greater than 60,000),
+with 1 &lt; <I>N</I> &lt; 100. A 0 will mark the end of the list.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Output</A></FONT></H2>
+<P>
+The first line of output should read <TT>PERFECTION OUTPUT</TT>.  The next <I>N</I> lines of output should list for each input
+integer whether it is perfect, deficient, or abundant, as shown in the
+example below.  Format counts: the echoed integers should be
+right justified within the first 5 spaces of the output line, followed
+by two blank spaces, followed by the description of the integer. 
+The final line of output should read <TT>END OF OUTPUT</TT>.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>15 28 6 56 60000 22 496 0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>PERFECTION OUTPUT
+   15  DEFICIENT
+   28  PERFECT
+    6  PERFECT
+   56  ABUNDANT
+60000  ABUNDANT
+   22  DEFICIENT
+  496  PERFECT
+END OF OUTPUT</PRE>
+<P>
+</BODY>
+</HTML>

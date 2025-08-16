@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Roman Digititis</TITLE>
+<META NAME="description" CONTENT="Roman Digititis">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Roman Digititis</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Many persons are familiar with the Roman numerals for relatively
+small numbers.  The symbols  ``<TT>i</TT>&quot;, ``<TT>v</TT>&quot;, ``<TT>x</TT>&quot;, ``<TT>l</TT>&quot;, and ``<TT>c</TT>&quot; represent the
+decimal values 1, 5, 10, 50, and 100 respectively.  To  represent other
+values, these symbols, and multiples where necessary, are concatenated,
+with the  smaller-valued symbols written further to the right.  For
+example, the number 3 is represented as  ``<TT>iii</TT>&quot;, and the value 73 is
+represented as ``<TT>lxxiii</TT>&quot;.  The exceptions to this rule occur for numbers 
+having units values of 4 or 9, and for tens values of 40 or 90.  For
+these cases, the Roman  numeral representations are ``<TT>iv</TT>&quot; (4), ``<TT>ix</TT>&quot; (9),
+``<TT>xl</TT>&quot; (40), and ``<TT>xc</TT>&quot; (90).  So the Roman numeral  representations for 24,
+39, 44, 49, and 94 are ``<TT>xxiv</TT>&quot;, ``<TT>xxxix</TT>&quot;, ``<TT>xliv</TT>&quot;, ``<TT>xlix</TT>&quot;, and ``<TT>xciv</TT>&quot;, 
+respectively.
+<P>
+<P>
+The preface of many books has pages numbered with Roman
+numerals, starting with ``<TT>i</TT>&quot; for the  first page of the preface, and
+continuing in sequence.  Assume books with pages having 100 or  fewer
+pages of preface.  How many ``<TT>i</TT>&quot;, ``<TT>v</TT>&quot;, ``<TT>x</TT>&quot;, ``<TT>l</TT>&quot;, and ``<TT>c</TT>&quot; characters are
+required to number  the pages in the preface?  For example, in a five
+page preface we’ll use the Roman numerals ``<TT>i</TT>&quot;,  ``<TT>ii</TT>&quot;, ``<TT>iii</TT>&quot;, ``<TT>iv</TT>&quot;, and
+``<TT>v</TT>&quot;, meaning we need 7 ``<TT>i</TT>&quot; characters and 2 ``<TT>v</TT>&quot; characters.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input will consist of a sequence of integers in the
+range 1 to 100, terminated by a zero.  For  each such integer, except
+the final zero, determine the number of different types of characters 
+needed to number the prefix pages with Roman numerals.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each integer in the input, write one line
+containing the input integer and the number of  characters of each type
+required.  The examples shown below illustrate an acceptable format.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>1
+2
+20
+99
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>1: 1 i, 0 v, 0 x, 0 l, 0 c
+2: 3 i, 0 v, 0 x, 0 l, 0 c
+20: 28 i, 10 v, 14 x, 0 l, 0 c
+99: 140 i, 50 v, 150 x, 50 l, 10 c</PRE>
+<P>
+</BODY>
+</HTML>

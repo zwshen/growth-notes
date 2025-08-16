@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Tile Puzzle</TITLE>
+<META NAME="description" CONTENT="Tile Puzzle">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Tile Puzzle</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+In a puzzle a rectangular surface of width <I>w</I> and height <I>h</I> is split into a collection
+of rectangular tiles. The tiles
+with the same dimensions form a similarity group. Solving the puzzle is to rebuild
+ the surface by using the tiles
+from the collection. There can be many solutions. Two solutions are considered different
+if the tiles from at least
+one similarity  group  follow  different  placement patterns  in  the  two  solutions.
+For example,  in  the  puzzle  from
+figure 1  there are  two groups of  two similar  tiles  each. The  tiles  can be combined
+in  eleven different  ways  to solve the puzzle.
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p798.gif>
+
+<P>
+
+Figure 1: Combining tiles to rebuild a surface
+</DIV>
+
+<P>
+Write a program that for a given puzzle, as described above, computes the total number of different solutions
+of the puzzle. The puzzle surface and the tiles have integer dimensions.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input and Output</A>&nbsp;</FONT>
+</H2>
+The program reads sets of data from a text file. Each data set, that describes a puzzle,
+has the format 
+<!-- MATH: $w\ h\ n\ m_1\ w_1\ h_1\ \dots\ m_n\ w_n\ h_n$ -->
+<IMG
+ WIDTH="242" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="798img1.gif"
+ ALT="$w\ h\ n\ m_1\ w_1\ h_1\ \dots\ m_n\ w_n\ h_n$">,
+where 
+<!-- MATH: $0 < w,h \le 100$ -->
+<IMG
+ WIDTH="117" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="798img2.gif"
+ ALT="$0 < w,h \le 100$">
+are
+ the dimensions of  the surface  to be  rebuild, 
+<!-- MATH: $0 < n \le 10$ -->
+<IMG
+ WIDTH="88" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="798img3.gif"
+ ALT="$0 < n \le 10$">
+is  the
+number of groups of similar tiles, <I>m</I><SUB><I>k</I></SUB> is the number of similar tiles in the <I>k</I>-th group
+and <IMG
+ WIDTH="49" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="798img4.gif"
+ ALT="$w_k\ h_k$">
+are the width and
+the height of the tiles  in the <I>k</I>-th group. Input data are correct,  i.e. the tiles can be always combined to rebuild
+the surface and all tiles must be used in the process.
+
+<P>
+
+<P>
+<BR>
+For each set of data, the program writes the number of tile combinations on a separate line.
+The first data set in the sample below corresponds to the puzzle shown in figure 1.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+3 2 2
+2 1 1
+2 1 2
+
+5 2 2
+2 1 1
+4 1 2
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+11
+56
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2001-01-05</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

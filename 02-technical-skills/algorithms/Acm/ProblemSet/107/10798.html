@@ -1,0 +1,141 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Be Wary of Roses</TITLE>
+<META NAME="description" CONTENT="Be Wary of Roses">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Be Wary of Roses</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+You've always been proud of your prize rose garden. However, some
+jealous fellow gardeners will stop at nothing to gain an edge over you.
+They have kidnapped, blindfolded, and handcuffed you, and dumped you
+right in the middle of your
+treasured roses! You need to get out, but you're not sure you can do it
+without trampling any precious flowers.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10798.eps}$
+ -->
+<IMG
+ ALIGN="right" BORDER="0"
+ SRC="p10798.jpg"
+ ALT="\epsfbox{p10798.eps}">
+</DIV>
+
+<P>
+Fortunately,
+you have the layout of your garden committed to memory. It is an
+<!-- MATH
+ $N \times N$
+ -->
+<SPAN CLASS="MATH"><I>N</I>&#215;<I>N</I></SPAN> collection of square plots (<SPAN CLASS="MATH"><I>N</I></SPAN> odd), some containing
+roses. You are standing on a square marble plinth in the exact center.
+Unfortunately, you are
+quite disoriented, and have no idea which direction you're facing! Thanks to
+the plinth, you can orient yourself facing one of <B>North</B>, <B>East</B>, <B>South</B>,
+or <B>West</B>, but you have no way to know which.
+
+<P>
+You must come up with an escape path that tramples the fewest possible roses, no matter which direction you're initially facing. Your path must start in the center, consist only of horizontal and vertical moves, and end by leaving the grid.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Every case begins with <SPAN CLASS="MATH"><I>N</I></SPAN>, the size of grid (<!-- MATH
+ $1 \le N \le 21$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10798img2.png"
+ ALT="$ \le$"><I>N</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10798img2.png"
+ ALT="$ \le$">21</SPAN>), on a line. <SPAN CLASS="MATH"><I>N</I></SPAN> lines with <SPAN CLASS="MATH"><I>N</I></SPAN> characters each follow, describing the garden: `<TT>.</TT>' indicates a plot
+without any roses, `<TT>R</TT>' indicates the location of a rose, and `<TT>P</TT>' stands for the plinth in the center.
+
+<P>
+Input will end on a case where <SPAN CLASS="MATH"><I>N</I> = 0</SPAN>. This case should not be processed.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each case, output a line containing the minimum guaranteed number of roses you can step on while escaping.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+5
+.RRR.
+R.R.R
+R.P.R
+R.R.R
+.RRR.
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+At most 2 rose(s) trampled.
+</PRE>
+
+<P>
+
+
+<P>
+<BR>
+<hr>
+<ADDRESS>
+Problem setter: Derek Kisman<br>
+Special Thanks: Md. Kamruzzaman
+</ADDRESS>
+
+<HR>
+<ADDRESS>
+Miguel Revilla
+2004-12-10
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,103 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Parse Tree</TITLE>
+<META NAME="Generator" CONTENT="EditPlus">
+<META NAME="Author" CONTENT="">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
+</HEAD>
+
+<BODY>
+<H3 ALIGN="right"><I>Return of the Aztecs</I></H3>
+<TABLE ALIGN="center" WIDTH="100%">
+<TR>
+<TD BGCOLOR="black" WIDTH="25%"><FONT SIZE="6" COLOR="white"> Problem E:</FONT></TD>
+<TD BGCOLOR="darkgray"><FONT SIZE="6">Parse Tree</FONT></TD>
+<TR>
+<TD COLSPAN="2" ALIGN="center">
+<BR>
+Time Limit: 2 seconds<BR>
+Memory Limit: 32 MB<BR>
+</TD>
+</TR>
+</TR>
+</TABLE>
+<HR>
+<P>
+Given an expression and some rules, a corresponding parse-tree can be drawn. If the leaves of the trees are traversed from left to right, then the expression from which the tree was generated can be found. The leaves contain the terminal symbols, and the internal nodes contain the non-terminal symbols. For this problem, terminals consist of <B>{i, +, -, *, /, (, )}</B> and the non-terminals are <B>{E, T, F}</B>. The rules for this specific problem are:
+</P>
+<TABLE WIDTH="100%" ALIGN="center">
+<TR>
+<TD ALIGN="left">
+<UL>
+<LI>E -> E + T 
+<LI>E -> E - T 
+<LI>E -> T 
+<LI>T -> T * F 
+<LI>T -> T / F 
+<LI>T -> F 
+<LI>F -> i 
+<LI>F -> (E)
+</UL>
+</TD>
+<TD ALIGN="center">
+<IMG SRC="p10467.gif">
+</TD>
+</TR>
+<TR>
+<TD>&nbsp</TD>
+<TD ALIGN="center">This is NOT a parse tree</TD>
+</TR>
+</TABLE>
+<H3>Input</H3>
+<P>
+Input consists of several test cases. Each case is in a line by itself. Each line contains a non-empty expression which doesn’t have any blank space in it. There will be no invalid and ambiguous input, i.e., there will always be a unique parse-tree for the input. Input is terminated by EOF. 
+</P>
+<H3>Output</H3>
+<P>
+For each test case, print the parse- tree. The leftmost leaf should be at column 1, the leaf next to that should be at column 4, the next leaf should be at column 7, and so on. Each non-terminal should have a ‘|’ on the same column in the following line and a non- terminal in the next line on the same column. A string of ‘=’ should spread on both sides of ‘|’ just enough to cover its immediate children. There should be no blank line within a parse-tree. Print a single blank line between test cases. No line should have blank spaces at the end. You can safely assume that a single parse tree won’t need more than 200 lines to be drawn and no line will need more than 200 characters. Look at the sample outputs for clearer idea. 
+</P>
+<H3>Sample Input</H3>
+<PRE>
+i+i*i
+i+i*(i+i)
+</PRE>
+<H3>Sample Output</H3>
+<PRE>
+   E
+===|======
+E  +     T
+|     ===|===
+T     T  *  F
+|     |     |
+F     F     i
+|     |
+i     i
+
+   E
+===|======
+E  +     T
+|     ===|=========
+T     T  *        F
+|     |     ======|======
+F     F     (     E     )
+|     |        ===|===
+i     i        E  +  T
+               |     |
+               T     F
+               |     |
+               F     i
+               |
+               i
+</PRE>
+<HR>
+<P>
+<B>Problem setter: Sadrul Habib Chowdhury (Adil)</B>
+</P>
+<P ALIGN="center"><I>When you have eliminated the impossible, whatever remains, however improbable, must be the truth.<BR>
+	-- Sherlock Holmes
+
+</I></P>
+</BODY>
+</HTML>

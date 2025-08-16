@@ -1,0 +1,49 @@
+<body TEXT="#000000" BGCOLOR="#FFFFFF" >
+<title>Problem C: Beavergnaw </title>
+
+<h2>Problem C: Beavergnaw </h2>
+
+When chomping a tree the beaver cuts a very specific shape out of the
+tree trunk.  What is left in the tree trunk looks like two frustums
+of a cone joined by a cylinder with the diameter the same as its
+height.  A very curious beaver tries not to demolish a tree but rather
+sort out what should be the diameter of the cylinder joining the
+frustums such that he chomped out certain amount of wood.  You
+are to help him to do the calculations.
+<p>
+<img align="right" src="p10297a.jpg" hspace=10 vspace=10>
+<img align="left" src="p10297b.gif" hspace=10 vspace=10>
+We will consider an idealized beaver chomping an idealized tree.  Let
+us assume that the tree trunk is a cylinder of diameter <b>D</b> and
+that the beaver chomps on a segment of the trunk also of height
+<b>D</b>.  What should be the diameter <b>d</b> of the inner cylinder
+such that the beaver chmped out <b>V</b> cubic units of wood?  <p>
+Input contains multiple cases each presented on a separate line.  Each
+line contains two integer numbers <b>D</b> and <b>V</b> separated by
+whitespace. <b>D</b> is the linear units and <b>V</b> is in cubic
+units. <b>V</b> will not exceed the maximum volume of wood that the
+beaver can chomp.  A line with <b>D</b>=0 and <b>V</b>=0 follows the
+last case.
+<p>
+For each case, one line of output should be produced
+containing one number rounded to three fractional digits giving
+the value of <b>d</b> measured in linear units.
+
+<h3>Sample input</h3>
+<pre>
+10 250
+20 2500
+25 7000
+50 50000
+0 0
+</pre>
+
+
+<h3>Output for sample input</h3>
+<pre>
+8.054
+14.775
+13.115
+30.901
+</pre>
+

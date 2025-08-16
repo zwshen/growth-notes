@@ -1,0 +1,251 @@
+
+<!--Converted with LaTeX2HTML 2002-2-1 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>The Incredible Pile Machine</TITLE>
+<META NAME="description" CONTENT="The Incredible Pile Machine">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2002-2-1">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+The Incredible Pile Machine</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The ``WeePileIT Industries'' intends to conquer the market with an
+automatic system that organizes piles of scrambled things
+(bottles, cans, batteries, etc.) into individual piles. They are
+developing a multi-purpose machine that detects the type of an
+item placed anywhere in a scrambled pile and moves it to its
+destination pile (let us call this an ``operation''). The problem
+is that, with more than two types of items available, it becomes
+difficult to determine which pile should be allocated to each type
+in order to minimize the number of move operations. For example,
+let us suppose we have three scrambled piles of three types of
+items (named ``0'', ``1'' and ``2''), such as in figure 1
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p953a.eps}$
+ -->
+<IMG
+ WIDTH="652" HEIGHT="96" ALIGN="BOTTOM" BORDER="0"
+ SRC="953img1.png"
+ ALT="\epsfbox{p953a.eps}">
+</DIV>
+<P>
+<DIV ALIGN="CENTER">Figure 1: Three scrambled piles.
+
+</DIV>
+
+<P>
+The numbers below each pile represent the distribution of types in
+that pile (in pile 1, we have 2 items of type 0, 3 items of type 1
+and 4 items of type 2, hence ``2 3 4''). Now, if we move the four
+items of type 2 from pile 1 to pile 2 and the single item of type
+2 from pile 3 to pile 2, we get one unscrambled pile (pile 2), as
+we can see in figure 2
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p953b.eps}$
+ -->
+<IMG
+ WIDTH="673" HEIGHT="69" ALIGN="BOTTOM" BORDER="0"
+ SRC="953img2.png"
+ ALT="\epsfbox{p953b.eps}">
+</DIV>
+<P>
+<DIV ALIGN="CENTER">Figure 2: With 5 operations, pile 2 collects the elements of type 2.
+
+</DIV>
+
+<P>
+The same reasoning could be followed to organize piles 1 and 3. In
+figure 3, we show a possible final result.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p953c.eps}$
+ -->
+<IMG
+ WIDTH="715" HEIGHT="73" ALIGN="BOTTOM" BORDER="0"
+ SRC="953img3.png"
+ ALT="\epsfbox{p953c.eps}">
+</DIV>
+<P>
+<DIV ALIGN="CENTER">Figure 3: The final result, with 9 move operations.
+
+</DIV>
+
+<P>
+As you can imagine, there is a large number of ways to organize
+our piles. And some surely need more operations than others...
+
+<P>
+Your task is to write a program for the ``WeePileIT Industries''
+that calculates the minimum number of operations necessary for
+unscrambling a set of piles. The program must receive a
+description of the piles and return an indication of which pile
+will receive which type and the number of operations necessary. We
+assume that, for organizing T types, we will always need exactly
+<SPAN CLASS="MATH"><I>T</I></SPAN> piles.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input starts with an isolated integer <SPAN CLASS="MATH"><I>N</I> &lt; 100</SPAN>, indicating the
+number of test cases that follows. Then, each line of the input
+corresponds to an independent test case. Each test case starts
+with the number <SPAN CLASS="MATH"><I>T</I></SPAN> (with <SPAN CLASS="MATH"><I>T</I> &lt; 10</SPAN>) of different types of items
+(which also corresponds to the number of available piles). Then,
+for each pile <SPAN CLASS="MATH"><I>P</I></SPAN>, there is a set of integers  <SPAN CLASS="MATH"><I>P</I><SUB>ij</SUB></SPAN> (<!-- MATH
+ $1 \le
+i \le T$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="953img4.png"
+ ALT="$ \le$"><I>i</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="953img4.png"
+ ALT="$ \le$"><I>T</I></SPAN>; <!-- MATH
+ $1 \le j \le T$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="953img4.png"
+ ALT="$ \le$"><I>j</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="953img4.png"
+ ALT="$ \le$"><I>T</I></SPAN>; <!-- MATH
+ $0 \le P_{ij} \le 1000$
+ -->
+<SPAN CLASS="MATH">0<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="953img4.png"
+ ALT="$ \le$"><I>P</I><SUB>ij</SUB><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="953img4.png"
+ ALT="$ \le$">1000</SPAN>) representing
+all the types of items in that pile. Thus the input will be:
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p953d.eps}$
+ -->
+<IMG
+ WIDTH="374" HEIGHT="67" ALIGN="BOTTOM" BORDER="0"
+ SRC="953img5.png"
+ ALT="\epsfbox{p953d.eps}">
+</DIV>
+
+<P>
+The input stream will end with an EOF sign. In the example above,
+the input would be:
+
+<P>
+<PRE>
+3 2 3 4 0 0 2 1 3 1
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case, your program must print a set of <SPAN CLASS="MATH"><I>T</I></SPAN> integers,
+indicating, for each pile, which type should be assigned. The
+first integer will correspond to the type assigned to pile 1, the
+second to pile 2, and so on. After these integers, your program
+must print the minimum number, <SPAN CLASS="MATH"><I>Min</I></SPAN>, of operations determined.
+Thus, the output will be:
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p953e.eps}$
+ -->
+<IMG
+ WIDTH="111" HEIGHT="20" ALIGN="BOTTOM" BORDER="0"
+ SRC="953img6.png"
+ ALT="\epsfbox{p953e.eps}">
+</DIV>
+
+<P>
+In case there are more than one possibility of pile assignment,
+choose always the one with lower order (e.g. if 012 and 210 yield
+9 operations, choose 012). In the example above, the output would
+be:
+
+<P>
+<PRE>
+021 9
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+4
+3 2 3 4 0 0 2 1 3 1
+3 66 66 0 66 66 0 66 66 66
+6 476 357 874 50 594 394 320 803 817 348 252 940 453 500 647 299
+94 143 800 947 561 885 389 172 301 276 612 130 540 731 774 306 96
+239 227 907
+2 99 1 1 99
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+021 9
+012 264
+251340 12741
+01 2
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+MIUP'2006
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

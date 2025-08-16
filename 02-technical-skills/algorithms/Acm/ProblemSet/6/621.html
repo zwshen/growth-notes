@@ -1,0 +1,145 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Secret Research</TITLE>
+<META NAME="description" CONTENT="Secret Research">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Secret Research</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+At a certain laboratory results of secret research are thoroughly encrypted. 
+A result of a single experiment is stored as an information of its completion:
+
+<P>
+
+<P>
+<BR>
+
+`positive result',
+`negative result',
+`experiment failed' or
+`experiment not completed'
+
+<P>
+
+<P>
+<BR>
+The encrypted result constitutes a string of digits S, which may take 
+one of the following forms:
+
+<P>
+<PRE><TT>
+<IMG
+ WIDTH="13" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="621img1.gif"
+ ALT="$\bullet$">
+positive result 		 S = 1 or S = 4 or S = 78 
+<IMG
+ WIDTH="13" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="621img1.gif"
+ ALT="$\bullet$">
+negative result 		 S = S35 
+<IMG
+ WIDTH="13" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="621img1.gif"
+ ALT="$\bullet$">
+experiment failed 		 S = 9S4 
+<IMG
+ WIDTH="13" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="621img1.gif"
+ ALT="$\bullet$">
+experiment not completed 		 S = 190S
+</TT></PRE>
+
+<P>
+(A sample result S35 means that if we add digits 35 from the right hand 
+side to a digit sequence then we shall get the digit sequence corresponding 
+to a failed experiment)
+
+<P>
+
+<P>
+<BR>
+You are to write a program which decrypts given sequences of digits.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+A integer <I>n</I> stating the number of encrypted results and then
+consecutive <I>n</I> lines, each containing a sequence of digits given as ASCII strings.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each analysed sequence of digits the following lines should be sent 
+to output (in separate lines):
+
+<P>
+<PRE><TT>
+		 <TT>+</TT> 		  for a positive result
+		 <TT>-</TT> 		  for a negative result
+		 <TT>*</TT> 		  for a failed experiment
+		 <TT>?</TT> 		  for a not completed experiment
+</TT></PRE>
+
+<P>
+In case the analysed string does not determine the experiment result, 
+a first match from the above list should be outputted.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+4
+78
+7835
+19078
+944
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
++
+-
+?
+*
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-01-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

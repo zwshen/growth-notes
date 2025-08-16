@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>Problem E: Exclusively Edible</title>
+</head>
+<body>
+
+<center>
+<h1>Problem E</h1>
+<h1>EXCLUSIVELY EDIBLE</h1>
+</center>
+<img align=right src=p11311_0.png>
+<p>Hansel and Gretel like cakes, but especially the so called “grid cake" served
+in Wolfgang Puck's restaurants. It is made of <em>mn</em> pieces of different
+cakes, resembling a 2D <em>m</em>-by-<em>n</em> grid when looked at from above
+(hence the name).</p>
+
+<p>The only thing that Hansel and Gretel do not like about grid cakes is that
+each of them has to contain a piece of the Scrumptious Caramel Topping cake.
+(Image of a three-by-four grid cake with brown Scrumptious
+Caramel Topping cake is shown)
+It turns out that the only reason Wolfgang Puck has the Scrumptious Caramel
+Topping cake in his recipe book is because he inherited it from his late
+great-great-grandmother.</p>
+
+<p>Neither Hansel nor Gretel want to have the "bad" piece in their portion
+of the cake, so they came up with the following way to decide who gets the bad
+piece: first Hansel cuts a piece of the cake along the grid lines,
+then Gretel does the same and they keep alternating until there is only
+the Scrumptious Caramel Topping cake piece left and one of them is forced to take it.</p>
+
+<p>For example, with a two-by-three grid cake, the illustrations below show the following steps:
+<li>I.&nbsp;&nbsp; Hansel cuts the leftmost column. (Gretel is left with a two-by-two grid cake.)</li><br>
+<li>II.&nbsp; Gretel cuts the leftmost column. (Hansel is left with a one-by-two grid cake.)</li><br>
+<li>III. Hansel cuts the bottom square off. (Gretel is left with the piece of Scrumptious Caramel Topping cake.)</p>
+
+<p align="center"><img src="p11311_1.png"></p>
+<p align=center><em>A sequence of cuts to determine whether
+Hansel or Gretel is getting the bad piece.</em></p>
+
+<p>Hansel and Gretel have eaten many grid cakes together and have played this
+game so many times that they know who will take the bad piece before starting.
+In fact, if they observe Hansel will take the bad piece,
+then Gretel knows a strategy to ensure Hansel takes the bad piece.
+Hansel also knows this strategy.</p>
+
+<p>Given the original cake and position of the Scrumptious Caramel Topping cake
+piece in the grid, who will take the bad piece?</p>
+
+<h2>Input</h2>
+<p>The first line of the input file contains a number <em>t</em> (1 &le; <em>t</em> &le; 100),
+the number of test cases. Then <em>t</em> lines follow, each containing <em>m n r c</em>
+(separated by spaces) where <em>m</em> and <em>n</em> (2 &le; <em>m, n</em> &le; 48)
+are the width and the length of the cake and <em>(r,c)</em> is the zero-based
+position of the Scrumptious Caramel Topping cake piece in the grid cake
+(0 &le; <em>r</em> &le; <em>m</em>-1, 0 &le; <em>c</em> &le; <em>n</em>-1).</p>
+
+<h2>Output</h2>
+<p>For each test case print the name of the person that gets the bad piece
+assuming that Hansel makes the first cut and that Hansel and Gretel always cut
+the cake at an optimal location (trying not to get the Scrumptious Caramel Topping cake piece).
+Note that "cut" here refers to a straight line cut (along a grid line)
+that separates the cake into two pieces.</p>
+
+<h2>Sample Input</h2>
+<pre>
+2
+2 3 0 2
+11 11 5 5
+</pre>
+
+<h2>Output for the Sample Input</h2>
+<pre>
+Gretel
+Hansel
+</pre>
+
+<hr>
+<i>Darko Aleksic</i><br>
+<i>Calgary Collegiate Programming Contest 2007</i><br />
+</body>
+</html>

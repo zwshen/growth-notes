@@ -1,0 +1,171 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Page Selection by Keyword Matching</TITLE>
+<META NAME="description" CONTENT="Page Selection by Keyword Matching">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Page Selection by Keyword Matching</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Anyone who has used the World Wide Web is familiar with search engines used to
+find pages matching a user-
+generated query. Many of these engines are quite sophisticated, using advanced
+algorithms and parallel searching
+techniques to provide fast, accurate responses.
+
+<P>
+This problem is somewhat simpler. A group of web pages has been classified by
+associating a list of keywords,
+given in decreasing order of relevance, with each page (i.e., the order of
+keywords is from the most specific keyword
+to the least specific). For example, a page on programming in Smalltalk has
+the keywords Smalltalk, programming,
+and computers in that order; the most relevant keyword is Smalltalk.
+
+<P>
+Queries also include a list of keywords, again from most to least relevant.
+For example, in a query consisting of the
+keyword Smalltalk followed by the keyword computers, Smalltalk is more
+important than computers.
+
+<P>
+In this problem you are to determine the top five (or fewer) pages that match
+each of an arbitrary number of queries.
+To determine the strength of the relationship between a query and a web page,
+assume the keywords for each page
+and each query are assigned integer weights, in descending order, starting
+with <SPAN CLASS="MATH"><I>N</I></SPAN>, where <SPAN CLASS="MATH"><I>N</I></SPAN> is the maximum number
+of keywords allowed for a web page and query. The strength of the relationship
+is the sum of the products of the
+weights associated with each keyword that appears both in the web page list
+and the query list. For example, assume
+the following web pages and keyword lists:
+
+<P>
+<DL>
+<DT><STRONG>Page 1:</STRONG></DT>
+<DD>Smalltalk, programming, computers
+</DD>
+<DT><STRONG>Page 2:</STRONG></DT>
+<DD>computers, programming
+</DD>
+<DT><STRONG>Page 3:</STRONG></DT>
+<DD>computers, Smalltalk
+</DD>
+</DL>
+
+<P>
+For <SPAN CLASS="MATH"><I>N</I></SPAN> equal 8, a query with keywords Smalltalk and programming in that order
+yields a strength rating of 113 for
+Page 1 (8*8 + 7*7), 49 for Page 2 (7*7), and 56 for Page 3 (8*7).
+A query with keywords Smalltalk and computers
+yields a strength rating of 106 for Page 1 (8*8 + 7*6), 56 for
+Page 2 (7*8), and 112 for Page 3 (8*7 + 7*8).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Input data consist of one line for each web page and query. A line consists of
+a code letter followed by a list of
+keywords. Code letters <TT>P</TT>, <TT>Q</TT>, and <TT>E</TT> denote a page, a query, and the
+end of file respectively. Code letters and
+keywords are separated by at least one space. <TT>P</TT>'s and <TT>Q</TT>'s may occur
+in any order. Pages are added sequentially
+starting with one. Each page has at least one but no more than 8 keywords.
+Each word consists of no more than 20
+alphabetic characters. The case of characters in the keywords is not significant.
+There will be a maximum of 25 pages in the input.
+
+<P>
+Each query also has of a list of between one and eight keywords. Again, a keyword
+has no more than 20 alphabetic
+characters, case being insignificant. Number the queries sequentially starting with one.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each query, identify the 5 (or fewer) pages read so far that are most relevant
+to the query. Print a single line
+containing the query identifier, a colon, and the page identifiers of the five most
+relevant pages in the decreasing
+order of relevance. Page identifiers consist of the letter `<TT>P</TT>' followed by the
+page number. Query identifiers consist
+of the letter `<TT>Q</TT>' followed by the query number. If several pages have
+the same relevance, list them by increasing
+page number. Do not list pages that have no relationship (zero strength),
+even if fewer than five pages are identified.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+P Smalltalk programming computers
+P computers programming
+P computers Smalltalk
+P FORTRAN programming
+P COBOL programming
+P programming
+Q Smalltalk
+Q programming
+Q computers
+Q Smalltalk computers
+Q Smalltalk programming
+Q cooking French
+E
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Query Pages
+Q1:   P1 P3
+Q2:   P6 P1 P2 P4 P5
+Q3:   P2 P3 P1
+Q4:   P3 P1 P2
+Q5:   P1 P3 P6 P2 P4
+Q6:
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Miguel Revilla
+2004-09-17
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

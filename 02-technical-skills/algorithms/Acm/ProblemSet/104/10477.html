@@ -1,0 +1,192 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>The Hybrid Knight</TITLE>
+<META NAME="description" CONTENT="The Hybrid Knight">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+The Hybrid Knight</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Hybridization is a very important concept in Biology, Chemistry and in many other fields. But is
+not at all an important concept in chess. Today we shall introduce a new chess knight, which can
+move like a normal knight, a mutant knight and like a mutant pawn in a chessboard.
+
+<P>
+The following figure illustrates the different types of moves of our hybrid knight. Please note
+that the knight is never allowed to land outside the board.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10477a.eps}$
+ -->
+<IMG
+ WIDTH="864" HEIGHT="476" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10477a.gif"
+ ALT="\epsfbox{p10477a.eps}">
+</DIV>
+
+<P>
+Unfortunately, the knight cannot move according to
+his own will. It maintains the following cyclic order
+when it chooses its movement. It means if the
+knight's first movement is like a knight, the second
+movement will be like a mutant knight, the third
+movement will be like a mutant pawn, the fourth
+movement will be again like a knight and so on. The
+same cycle applies if the hybrid knight starts with the
+mutant knight move or with the mutant pawn move.
+The cycle to be followed is shown in the given
+figure.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10477b.eps}$
+ -->
+<IMG
+ WIDTH="404" HEIGHT="369" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10477b.gif"
+ ALT="\epsfbox{p10477b.eps}">
+</DIV>
+
+<P>
+Given the size of the square shaped board, your job is to find the minimum number of moves
+required by the hybrid knight to reach from one board position to another. The board positions
+are numbered in row major order from top to bottom. So in a (8<SPAN CLASS="MATH">&#215;</SPAN>8) chessboard the identifier of
+the top-left corner is 1 and the identifier of the bottom right corner is 64.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains at most 20 sets of input. Each set starts with two integers <SPAN CLASS="MATH"><I>N</I></SPAN>(<!-- MATH
+ $4 \le N \le 20$
+ -->
+<SPAN CLASS="MATH">4<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10477img3.png"
+ ALT="$ \le$"><I>N</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10477img3.png"
+ ALT="$ \le$">20</SPAN>)
+and <SPAN CLASS="MATH"><I>S</I></SPAN>(<!-- MATH
+ $S \le 1000$
+ -->
+<SPAN CLASS="MATH"><I>S</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10477img3.png"
+ ALT="$ \le$">1000</SPAN>). <SPAN CLASS="MATH"><I>N</I></SPAN> indicates that you have to work with a <!-- MATH
+ $N \times N$
+ -->
+<SPAN CLASS="MATH"><I>N</I>&#215;<I>N</I></SPAN> board and <SPAN CLASS="MATH"><I>S</I></SPAN> is the total
+number of queries in that set. Each of the next <SPAN CLASS="MATH"><I>S</I></SPAN> lines contains 1 query. Each query contains two
+integers <SPAN CLASS="MATH"><I>B</I></SPAN> and <SPAN CLASS="MATH"><I>E</I></SPAN> (<!-- MATH
+ $1 \le B, E \le N*N$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10477img3.png"
+ ALT="$ \le$"><I>B</I>, <I>E</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10477img3.png"
+ ALT="$ \le$"><I>N</I>*<I>N</I></SPAN>). Here <SPAN CLASS="MATH"><I>B</I></SPAN> is the starting location of the knight and <SPAN CLASS="MATH"><I>E</I></SPAN> is the
+destination location of the knight. Input is terminated with a set whose value of <SPAN CLASS="MATH"><I>N</I></SPAN> is zero. This
+case should not be processed. You can assume that the hybrid knight takes 0 moves to go from
+X to X, where X is a valid board position. However, there will be no such query where <SPAN CLASS="MATH"><I>B</I></SPAN> and <SPAN CLASS="MATH"><I>E</I></SPAN>
+is equal.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each set of input you should output the serial of the set as shown in the output for sample
+input. For each query in a set you should output the minimum number of moves required by the
+hybrid knight to move from <SPAN CLASS="MATH"><I>B</I></SPAN> to <SPAN CLASS="MATH"><I>E</I></SPAN>. If the destination is unreachable from the source, print a `<TT>?</TT>'
+without the quotes.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+5 2
+10 15
+10 20
+10 1
+2 10
+0 10
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Set 1:
+1
+2
+Set 2:
+4
+</PRE>
+
+<P>
+
+<P><P>
+<BR>
+
+<B>Note:</B> The illustration given below shows the movement required for set 2.
+Here to go from 2 to 10 in a
+10<SPAN CLASS="MATH">&#215;</SPAN>10 board the hybrid knight uses its mutant knight move first to go to cell number 15.
+Then it uses the mutant pawn move to go one row down to cell number 25. The third move is like a
+regular knight, it takes our knight to cell number 17. The fourth and final move is a mutant
+knight move that takes our knight to the destination. We're showing the first 4 rows of the
+10<SPAN CLASS="MATH">&#215;</SPAN>10 board here.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10477c.eps}$
+ -->
+<IMG
+ WIDTH="776" HEIGHT="331" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10477c.gif"
+ ALT="\epsfbox{p10477c.eps}">
+</DIV>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Problem-setters: Monirul Hasan Tomal (Implementation & Enhancement) & Shahriar
+Manzoor (Basic Idea & Initial Problem Statement)
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

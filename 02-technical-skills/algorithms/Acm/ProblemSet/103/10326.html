@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>The Polynomial Equation</TITLE>
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">The Polynomial Equation</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+<P>
+A Polynomial equation of degree n is defined as follows :<p> <xmp>
+              C + Sum (Ci*x^i) = 0.  for i=1 to n. </xmp><p> 
+A polynomial equation of n degree can have at most n distinct roots
+which may be both real or complex. Such as a quadratic equation : <p><xmp>
+              x^2 - 5x + 6 = 0 </xmp>
+has two roots 2 and 3.  In this problem you have to generate such a polynomial
+equation whose roots are already given.
+
+<p>
+
+</U></U><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>
+The input will start with a positive integer N indicating the number of roots of the
+polynomial equation. The next line will contain the roots each of which is an integer.
+N will not exceed 50. Input is terminated by EOF.
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>
+You have to show the polynomial using x as a variable. If coeffecient of any term x^i (i > 0)
+becomes zero then you need not show that term. In case of coeffecient being 1 only
+print x^i(i > 0). Again if the constant term is zero always use + 0. See sample output for more clarification. <p>
+You can be sure that no coeffecient will exceed 10^15.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>
+2
+2 3
+2
+-2 -3
+3
+0 1 -1
+</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>
+x^2 - 5x + 6 = 0
+x^2 + 5x + 6 = 0
+x^3 - x + 0 = 0
+</PRE>
+<PRE>
+<hr>
+<i><H3>Md. Kamruzzaman</H3></i>
+</pre>
+</BODY>
+</HTML>

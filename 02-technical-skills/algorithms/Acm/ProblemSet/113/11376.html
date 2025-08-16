@@ -1,0 +1,91 @@
+<HTML>
+<HEAD><TITLE>Tilt! - Contest of Newbies 2007</TITLE>
+<META content="Tilt!" name=description>
+<META content=document name=resource-type>
+<META content=global name=distribution>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META content="MSHTML 6.00.2800.1106" name=GENERATOR>
+<META http-equiv=Content-Style-Type content=text/css></HEAD>
+
+
+<BODY>
+
+<TABLE WIDTH=100% BORDER=0 CELLPADDING=4 CELLSPACING=3 STYLE="page-break-inside: avoid">
+	<COL WIDTH=256*>
+	<COL WIDTH=256*>
+	<THEAD>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=100% BGCOLOR="#5000BF">
+				<P><FONT COLOR="#ffffff"><FONT FACE="Arial Black" SIZE=6>Problem
+				F: Tilt!</FONT></P>
+			</TD>
+		</TR>
+	</THEAD>
+</TABLE>
+
+<br>
+<img src="p11376a.png" align=right>
+
+<p>You probably have heard of "2D tilt maze" before. It is created by Andrea Gilbert, a software engineer living in England. Ever since its first Internet appearence in 1998, 2D tilt maze has always been one of the most popular online puzzles in the world.
+
+<P>In a 2D tilt maze, a red ball sits in a flat tray containing one or more blue squares. The challenge is to guide the ball around the tray and collect all the blue squares. Tilt the tray to, literally, start the ball rolling. The ball rolls in a straight line until it hits a wall, then you can tilt again.
+
+<P>The figure on the right is a maze. It can be looked upon as a 5 x 5 grid with some lines omitted. The line pattern of every cell of this grid can then be represented by a hexadecimal number:
+
+<p><img src="p11376b.png" align=left>
+
+<p>So, the maze above can be represented as:
+
+<pre>
+9AC9C
+18006
+5120C
+12806
+3A63E
+</pre>
+
+<br>
+
+<p>You are asked to <b>write a program</b> that analyses some mazes, and works out their shortest solutions. You can be sure that all given mazes are solvable.
+
+<P><H2><A name=SECTION00001000000000000000><FONT color=#5000BF>Input</FONT></A></H2>
+
+<p>The input file consists of several test cases. The format of each of them is described as follows:
+
+<p>The first line gives an integer <b><i>N</i></b> (2 &le; <b><i>N</i></b> &le; 10). There are then <b><i>N</i></b> lines, each with <b><i>N</i></b> hexadecimal numbers, representing the line pattern of each cell. The next line contains two integers <b><i>r</i></b> and <b><i>c</i></b> (1 &le; <b><i>r</i></b>, <b><i>c</i></b> &le; <b><i>N</i></b>), which are the coordinates of the starting position of the ball. Finally comes a list of coordinates of the blue square(s).
+   Coordinates of each blue square are given on a separate line, i.e. one line with two numbers for a square. 
+
+<p>The input file is terminated by a line with only the number 0.
+
+<P><H2><A name=SECTION00002000000000000000><FONT color=#5000BF>Output</FONT></A></H2>
+
+<p>For each case, your program should output a single line with the description of a path with minimum length that the ball can collect all the blue squares. Use the letters 'N', 'S', 'E' and 'W' to denote north, south, east and west respectively. Note that by 'north' we mean facing upwards. If there are multiple shortest solutions, print the lexicographically smallest one.
+
+<P STYLE="page-break-before: always"><H2><A name=SECTION00003000000000000000><FONT color=#5000BF>Sample Input</FONT></A></H2>
+
+<PRE>
+5
+9AC9C
+18006
+5120C
+12806
+3A63E
+1 1
+5 5
+0
+</PRE>
+
+<P><H2><A name=SECTION00004000000000000000><FONT color=#5000BF>Sample Output</FONT></A></H2>
+
+<PRE>
+ESWNENWSE
+</PRE>
+
+<P><H2><A name=SECTION00001000000000000000><FONT color=#5000BF>Notes on Test Data</FONT></A></H2>
+
+<p>There are less than <b>40</b> sets of input, each of them containing no more than <b>25</b> blue squares. All except two test cases can be solved within <b>35</b> steps. One of the two harder cases takes at least <b>49</b> steps to solve, and the other <b>53</b>.
+
+<P><HR>
+<address>Thanks to Andrea Gilbert for allowing us to use the puzzles.</address>
+</BODY>
+</HTML>

@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Keeps Going and Going and ...</TITLE>
+<META NAME="description" CONTENT="Keeps Going and Going and ...">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Keeps Going and Going and ...</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Lazy functional languages like Haskell and Miranda support features that are
+not found in other
+programming languages, including infinite lists. Consider the following
+simple (and useful) recursive declaration:
+
+<P>
+<PRE>
+letrec
+  count n = cons n (count (n+1))
+in
+  count 0
+</PRE>
+
+<P>
+The function <TT>cons</TT> <EM>cons</EM>tructs lists, so the above declaration creates the following structure:
+
+<P>
+<PRE>
+cons 0 (count 1)
+= cons 0 (cons 1 (count 2))
+= cons 0 (cons 1 (cons 2 ...))
+= [0,1,2,...]
+</PRE>
+
+<P>
+Lazy languages can do this because they only evaluate expressions that are
+actually used. If a
+program creates an infinite list and only looks at items 2 and 3 in it,
+the values in positions 0
+and 1 are never evaluated and the list structure is only evaluated so far
+as the fourth node.
+
+<P>
+
+<P>
+<BR>
+It is also possible to use more than one function to build an infinite list.
+Here is a declaration
+that creates the list <TT>["even","odd","even",...]</TT>:
+
+<P>
+<PRE>
+letrec
+  even = cons "even" odd
+  odd = cons "odd" even
+in
+  even
+</PRE>
+
+<P>
+There are also functions that manipulate infinite lists. The functions <TT>take</TT> and <TT>drop</TT> can be
+used to remove elements from the start of the list, returning the (removed) front elements or
+the remainder of the list, respectively. Another useful function is <TT>zip</TT>, which combines two lists
+like the slider on a zipper combines the teeth. For example,
+
+<P>
+<PRE>
+zip (count 0) (count 10) = [0,10,1,11,2,12,...]
+</PRE>
+
+<P>
+Your task is to implement a subset of this functionality.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input is an integer N, then a blank lsne followed by
+N datasets. There is a blank line between datasets.
+<p>
+The first line of each dataset consists of two positive integers, <I>n</I> and <I>m</I>. <I>n</I> is
+the number of declarations to follow and <I>m</I> is the number of test cases.
+
+<P>
+
+<P>
+<BR>
+Each declaration takes the form <EM>name = expr</EM>. There are two forms for <EM>expr</EM> : <TT>zip</TT> <EM>name1 name2</EM>
+and 
+<!-- MATH: $x_0\ x_1 \dots x_i\ name3$ -->
+<IMG
+ WIDTH="145" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="606img1.gif"
+ ALT="$x_0\ x_1 \dots x_i\ name3$">.
+In the first case, <EM>name</EM> is the result of zipping <EM>name1</EM> and <EM>name2</EM>
+together. The other case defines the first <I>i</I> + 1 non-negative integers in the
+list <EM>name</EM> (where <I>i</I> is at least 0) and <EM>name3</EM> is the name of the list that continues it (mandatory--all lists will be infinite).
+
+<P>
+
+<P>
+<BR>
+The test cases take the form 
+<!-- MATH: $name\ s\ e$ -->
+<IMG
+ WIDTH="76" HEIGHT="16" ALIGN="BOTTOM" BORDER="0"
+ SRC="606img2.gif"
+ ALT="$name\ s\ e$">,
+where <I>s</I> and <I>e</I> are non-negative
+integers, <IMG
+ WIDTH="44" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="606img3.gif"
+ ALT="$s \le e$">
+and 
+<!-- MATH: $e - s < 250$ -->
+<I>e</I> - <I>s</I> &lt; 250.
+
+<P>
+
+<P>
+<BR>
+No line of input will be longer than 80 characters. Names consist of a single
+capital letter.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each test case, print the integers in positions <I>s</I> to <I>e</I> of the list <EM>name</EM>.
+List elements are numbered starting with 0. Print a blank line between datasets.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+
+5 3
+S = 4 3 2 1 A
+O = 1 O
+E = 0 E
+A = zip E O
+Z = zip Z S
+A 43455436 43455438
+S 2 5
+Z 1 10
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+0 1 0
+2 1 0 1
+4 4 3 4 2 3 1 4 0 2
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-03-24</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

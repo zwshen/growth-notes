@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Safebreaker</TITLE>
+<META NAME="description" CONTENT="Safebreaker">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Safebreaker</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+We are observing someone playing the game of Mastermind. The object of this game
+is to find a secret code by intelligent guess work, assisted by some clues. In this case the
+secret code is a 4-digit number in the inclusive range from 0000 to 9999,
+say ``3321''. The
+player makes a first random guess, say ``1223'' and then, as for each of the future guesses,
+gets a clue telling him how good his guess is. A clue consists of two numbers: the number
+of correct digits (in this case 1: the ``2'' at the third position) and the additional number of
+digits guessed correctly but in the wrong place (in this case 2:
+the ``1'' and the ``3''). The clue would in this case be: ``1/2''.
+<P>
+<P>
+Write a program that given a set of guesses and corresponding clues, tries to find the secret code.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input Specification</A></FONT></H2>
+<P>
+The first line of input specifies the number of test cases (<I>N</I>) your program has to process.
+Each test case consists of a first line containing the number of
+guesses <I>G</I> ( <IMG WIDTH=85 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline35" SRC="296img1.gif"  > ), and
+<I>G</I> subsequent lines consisting of exactly 8 characters: a code of four digits, a blank, a digit
+indicating the number of correct digits, a `<TT>/</TT>' and a digit indicating the number of correct but
+misplaced digits.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output Specification</A></FONT></H2>
+<P>
+For each test case, the output contains a single line saying either:
+<P>
+<UL><LI> <TT>impossible</TT> if there is no code consistent with all guesses.<LI> <I>the secret code</I> if there is exactly one code consistent with all guesses.<LI> <TT>indeterminate</TT> if there is more than one code which is consistent with all guesses.
+</UL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Example Input</A></FONT></H2>
+<P>
+<PRE>4
+6
+9793 0/1
+2384 0/2
+6264 0/1
+3383 1/0
+2795 0/0
+0218 1/0
+1
+1234 4/0
+1
+1234 2/2
+2
+6428 3/0
+1357 3/0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Example Output</A></FONT></H2>
+<P>
+<PRE>3411
+1234
+indeterminate
+impossible</PRE>
+<P>
+</BODY>
+</HTML>

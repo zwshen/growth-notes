@@ -1,0 +1,141 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+
+<!--Converted with LaTeX2HTML 2002-2-1 (1.70)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Euler's Totient Function</title>
+	<style>
+	tt { font-weight: bold; font-size: 12pt; }
+	pre { font-weight: bold; font-size: 12pt; }
+	h2 { color: #0070E8; }
+	p { text-align: justify; }
+	</style>
+</head>
+<body><h1 style="text-align:center"><span style="background-color: #0060F0; color: #C0FFFF;">&nbsp;Euler's Totient Function&nbsp;</span></h1>
+<h3 style="text-align:center">Time-Limit: 5 second(s)</h3>
+<HEAD>
+
+<BODY >
+
+<P>
+<BR>
+<BR>
+
+<P>
+As you might know, Euler's totient function <IMG
+ WIDTH="35" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="p11073img1.png"
+ ALT="$\phi(n)$"> is defined as the number of positive integers
+ <em>a, a &le; n</em> that are relatively prime to <IMG
+ WIDTH="13" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="p11073img3.png"
+ ALT="$n$">. Two numbers are relatively prime if their
+greatest common divisor is 1. If the prime factorization of <!-- MATH
+ $n = p_1^{e_1}p_2^{e_2}\ldots
+p_j^{e_j}$
+ -->
+<IMG
+ WIDTH="121" HEIGHT="35" ALIGN="MIDDLE" BORDER="0"
+ SRC="p11073img4.png"
+ ALT="$n = p_1^{e_1}p_2^{e_2}\ldots
+p_j^{e_j}$"> is known the value of <IMG
+ WIDTH="35" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="p11073img1.png"
+ ALT="$\phi(n)$"> can be calculated via the following formula:
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ \begin{displaymath}
+\Pi_{i = 1}^{j} (p_i-1)p_{i}^{e_i-1}
+\end{displaymath}
+ -->
+
+<IMG
+ WIDTH="121" HEIGHT="28" BORDER="0"
+ SRC="p11073img5.png"
+ ALT="\begin{displaymath}\Pi_{i = 1}^{j} (p_i-1)p_{i}^{e_i-1}\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+Now your task is to calculate the positive integers <IMG
+ WIDTH="13" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="p11073img3.png"
+ ALT="$n$"> which fulfill the
+equation <IMG
+ WIDTH="65" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="p11073img6.png"
+ ALT="$\phi(n) = x$"> for a given <IMG
+ WIDTH="13" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="p11073img7.png"
+ ALT="$x$">. 
+<P>
+
+	<BR>
+<BR>
+	<B>Input</B> <BR>
+The input consists of a number of lines. On each line there is a single positve integer
+with no leading zeros. There are no spaces in the input. All numbers will be positive
+integers smaller than <IMG
+ WIDTH="83" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="p11073img8.png"
+ ALT="$1000000000$">.
+	<BR>
+<BR>
+<P>
+
+	<B>Output</B> <BR>
+For each line of input there should be one line of output. If the equation <!-- MATH
+ $\phi(n)
+    = x$
+ -->
+<IMG
+ WIDTH="65" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="p11073img6.png"
+ ALT="$\phi(n) = x$"> has a solution, print all its solutions on a single line.
+The solutions should be printed in ascending order and should be seperated by a space. If
+there is no solution to the equation, print: <TT>No solution.</TT>
+	<BR>
+<BR>
+<P>
+
+	<B>Sample Input</B>
+
+<P>
+
+<DIV ALIGN="LEFT">
+<TT>
+1<BR>
+3<BR>
+6<BR>
+<BR>&nbsp;</TT>
+</DIV>
+<BR>
+<BR>
+<P>
+<B>Sample Output</B>
+<P>
+
+<DIV ALIGN="LEFT">
+<TT>
+1 2<BR>
+No solution.<BR>
+7 9 14 18<BR>
+<BR>&nbsp;</TT>
+</DIV>
+
+<P>
+
+<P>
+<BR><HR>
+Tilmann Spiegelhauer - FAU Local Winter Contest
+</BODY>
+</HTML>

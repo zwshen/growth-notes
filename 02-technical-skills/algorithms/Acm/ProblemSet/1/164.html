@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>String Computer</TITLE>
+<META NAME="description" CONTENT="String Computer">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">String Computer</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Extel have just brought out their newest computer, a string processing
+computer dubbed the X9091. It is hoped that it will have some value in
+cryptography and related fields. (It is rumoured that the Taiwanese
+are working on a clone that will correct Stage 1 essays, but we will
+ignore such vapourware). This computer will accept input strings and
+produce output strings from them, depending on the programs loaded
+into them at the time. The chip is the ultimate in RISC
+technology--it has only three transformation instructions:
+<P>
+<UL><LI> Delete a character at a particular position.<LI> Insert a character at a particular position.<LI> Change the character at a particular position to a different character.
+</UL>
+<P>
+Programs for this machine are written in a form of machine code where
+each instruction has the format <TT>ZXdd--Z</TT> represents the code for the
+instruction (<TT>D</TT>, <TT>I</TT> or <TT>C</TT>), <TT>X</TT> is a character and <TT>dd</TT>
+represents a two
+digit number. A program is terminated by a special halt instruction
+consisting of the letter `<TT>E</TT>'. Note that each instruction works on the
+string in memory at the time the instruction is executed.
+<P>
+To see how this all works consider the following example. It is
+desired to transform the string `<TT>abcde</TT>' to the string `<TT>bcgfe</TT>'. This
+could be achieved by a series of Change commands, but is not minimal.
+The following program is better.
+<P>
+<P> <IMG WIDTH=610 HEIGHT=103 ALIGN=BOTTOM ALT="tabular32" SRC="164img1.gif"  > <P>
+Write a program that will read in two strings (the input string and
+the target string) and will produce a <EM>minimal</EM> X9091 program necessary
+to transform the input string into the target string. Since there may
+be multiple solutions, only one should be produced. Any solution that
+satisfies these criteria will be accepted.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+Input will consist of a series of lines, each line containing two
+strings separated by exactly one space. The strings will consist of no
+more than 20 lower case characters. The file will be terminated by a
+line consisting of a single <TT>#</TT>.
+<P>
+Output will consist of a series of lines, one for each line of the
+input. Each will consist of a program in X9091 language.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>abcde bcgfe
+#</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>Da01Cg03If04E</PRE>
+<P>
+</BODY>
+</HTML>

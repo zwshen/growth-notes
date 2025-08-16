@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Bits</TITLE>
+<META NAME="description" CONTENT="Bits">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Bits</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+It is not always easy to transfer data from one computer system to the other. You need
+proper standards for data encoding, and may also need to compress data to save bandwidth
+and thus reduce costs.
+<P>
+<P>
+To assist the designer in making implementation choices related to the available band-width, a tool is required that computes the size of each message in bits. The tool has to read and interpret the format of each message to do so.
+<P>
+<P>
+A message can best be described by giving the underlying grammar, which uses the following terminals:
+<P>
+<P>
+<P> <IMG WIDTH=440 HEIGHT=60 ALIGN=BOTTOM ALT="tabular20" SRC="293img1.gif"  > <P>
+<P>
+<P>
+A message is defined by the following grammar:
+<P>
+<P>
+<P> <IMG WIDTH=399 HEIGHT=190 ALIGN=BOTTOM ALT="tabular26" SRC="293img2.gif"  > <P>
+<P>
+<P>
+Note that the message grammar is specified according to the following notational conventions:
+<P>
+<P>
+<P> <IMG WIDTH=354 HEIGHT=82 ALIGN=BOTTOM ALT="tabular71" SRC="293img3.gif"  > <P>
+<P>
+<P>
+Any two tokens may be separated by an arbitrary amount of white space (blanks, tabs an
+newlines). White space does not occur within tokens.
+<P>
+<P>
+The (minimal) amount of bits needed to transmit a message can be computed using the
+following rules:
+<P>
+<P>
+<P> <IMG WIDTH=672 HEIGHT=103 ALIGN=BOTTOM ALT="tabular74" SRC="293img4.gif"  > <P><H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input Specification</A></FONT></H2>
+<P>
+The input contains on the first line the number of test cases (N). Each test case will contain
+message according to the grammar above. Messages may be separated by an arbitrary amount
+of white space. You may assume that the input is syntactically correct.
+For each range `<I>L</I>..<I>H</I>',
+it holds that  <IMG WIDTH=49 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline109" SRC="293img5.gif"  > . A string consists of a positive number of characters.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output Specification</A></FONT></H2>
+<P>
+For each message, output the
+sentence: <TT>'A &quot;</TT><I>id</I><TT>&quot; message requires</TT> <I>S</I> <TT>bits.'</TT>,
+where id is the identifier of the message and <I>S</I> its size in bits.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Example Input</A></FONT></H2>
+<P>
+<PRE>3
+year : [1970..2030]
+team : {
+        name : string(14)
+        members : array [1..3] of {
+                sex : ( male, female )
+                name : string(20)
+                age : [16..30]
+        }
+        position : [1..40]
+}
+jurynames : array [1..3] of string(20)</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Example Output</A></FONT></H2>
+<P>
+<PRE>A &quot;year&quot; message requires 6 bits.
+A &quot;team&quot; message requires 539 bits.
+A &quot;jurynames&quot; message requires 420 bits.</PRE>
+<P>
+</BODY>
+</HTML>

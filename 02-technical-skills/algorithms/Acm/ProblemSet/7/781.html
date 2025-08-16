@@ -1,0 +1,228 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Optimisation</TITLE>
+<META NAME="description" CONTENT="Optimisation">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Optimisation</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A company decides to simulate on computer the process of manufacturing its own goods.
+In order to do that, it makes the following observations:
+<DL COMPACT>
+<DT>1.
+<DD>The whole process can be splitted into several steps; between them there are some
+dependencies. This can be represented by a diagram (graph), which we suppose to be only one
+for all goods produced by company as in figure 1;
+<P>
+
+<P>
+<BR>
+
+<DIV ALIGN="CENTER">
+
+<img src=p781a.gif>
+</DIV>
+
+<P>
+<DT>2.
+<DD>First step designates the start of manufacturing process;there is only one first step,
+denoted by the number 1;
+<DT>3.
+<DD>There are not steps isolated or outside the process (every step is linked by a path with
+the first step);
+<DT>4.
+<DD>Some steps are total dependants; so, we claim that the step <I>i</I> is total dependant of
+step <I>j</I> if every path in the fabrication process cannot arrive to
+<I>i</I> without was passing through <I>j</I>.
+</DL>
+
+<P>
+So, all steps are total dependants of step 1.
+
+<P>
+
+<P>
+<BR>
+
+<B>Example:</B> In the process shown by the figure 1 the step 4
+is total dependant of step 3, steps 5,6 and 7 are total dependants
+of 4 (hence of 3), but step 3 is not total dependant of step 2.
+
+<P>
+
+<P>
+<BR>
+The Computing Center Dept. of company notes that whole manufacturing process is
+easier to be controlled if it would be structured by a tree, as follows:
+<UL>
+<LI>All steps of manufacturing process are nodes of the tree;
+<LI>Each node ensures total dependence of all its own descendants;
+</UL>
+
+<P>
+The tree associated to the diagram from figure 1 is shown in figure 2.
+
+<P>
+
+<P>
+<BR>
+
+<DIV ALIGN="CENTER">
+
+<img src=p781b.gif>
+</DIV>
+
+<P>
+Your task is to write a program that builds this dependence tree.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+    The input file contains several input data sets. An input data set has the following format:
+
+<P>
+
+<P>
+<BR>
+
+<I>n</I> - number of steps of manufacturing process (
+<!-- MATH: $2 \le n \le 99$ -->
+<IMG
+ WIDTH="88" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="781img2.gif"
+ ALT="$2 \le n \le 99$">);
+
+<P>
+
+<TABLE CELLPADDING=3>
+<TR><TD ALIGN="CENTER"><I>a</I><SUB>11</SUB></TD>
+<TD ALIGN="CENTER"><I>a</I><SUB>12</SUB></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="781img3.gif"
+ ALT="$\dots$"></TD>
+<TD ALIGN="CENTER"><I>a</I><SUB>1<I>n</I></SUB></TD>
+</TR>
+<TR><TD ALIGN="CENTER"><I>a</I><SUB>21</SUB></TD>
+<TD ALIGN="CENTER"><I>a</I><SUB>22</SUB></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="781img3.gif"
+ ALT="$\dots$"></TD>
+<TD ALIGN="CENTER"><I>a</I><SUB>2<I>n</I></SUB></TD>
+</TR>
+<TR><TD ALIGN="CENTER"><IMG
+ WIDTH="9" HEIGHT="27" ALIGN="BOTTOM" BORDER="0"
+ SRC="781img4.gif"
+ ALT="$\vdots$"></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="9" HEIGHT="27" ALIGN="BOTTOM" BORDER="0"
+ SRC="781img4.gif"
+ ALT="$\vdots$"></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="25" HEIGHT="28" ALIGN="BOTTOM" BORDER="0"
+ SRC="781img5.gif"
+ ALT="$\ddots$"></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="9" HEIGHT="27" ALIGN="BOTTOM" BORDER="0"
+ SRC="781img4.gif"
+ ALT="$\vdots$"></TD>
+</TR>
+<TR><TD ALIGN="CENTER"><I>a</I><SUB><I>n</I>1</SUB></TD>
+<TD ALIGN="CENTER"><I>a</I><SUB><I>n</I>2</SUB></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="781img3.gif"
+ ALT="$\dots$"></TD>
+<TD ALIGN="CENTER"><I>a</I><SUB><I>nn</I></SUB></TD>
+</TR>
+</TABLE>
+
+<P>
+
+<P>
+<BR>
+where <I>a</I><SUB><I>i</I></SUB><I>j</I>=1 if step <I>j</I> follows directly step <I>i</I> in the process diagram, otherwise <I>a</I><SUB><I>i</I></SUB><I>j</I>=0.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+    At output, the program must write <I>n</I>-1 lines for every input data set; each line has
+the format:
+
+<P>
+
+<IMG
+ WIDTH="25" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="781img6.gif"
+ ALT="$i \ j$">
+
+<P>
+with the meaning that node <I>j</I> is a direct descendant of node <I>i</I> in the tree.
+    The pair (<I>i</I><SUB>1</SUB> <I>j</I><SUB>1</SUB>) follows (<I>i</I><SUB>2</SUB> <I>j</I><SUB>2</SUB>) if and only if (<I>i</I><SUB>1</SUB>&lt;<I>i</I><SUB>2</SUB>) or (<I>i</I><SUB>1</SUB>=<I>i</I><SUB>2</SUB>
+    and <I>j</I><SUB>1</SUB>&lt;<I>j</I><SUB>2</SUB>).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+10
+0 1 1 0 0 0 0 0 0 0
+0 0 1 0 0 0 0 0 0 0
+0 0 0 1 0 0 0 0 0 0
+0 0 1 0 1 1 0 0 0 0
+0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 1 0 0 0
+0 0 0 1 0 0 0 1 0 0
+0 0 1 0 0 0 0 0 1 1
+1 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 0 0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1 2
+1 3
+3 4
+4 5
+4 6
+4 7
+7 8
+8 9
+8 10
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2001-01-05</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

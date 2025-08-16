@@ -1,0 +1,173 @@
+
+<!--Converted with LaTeX2HTML 2008 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Pachinko</TITLE>
+<META NAME="description" CONTENT="Pachinko">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Pachinko</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The game of Pachinko has been all the rage in Japan for nearly a century. The game is played by 
+shooting a metal ball into a special gaming device, depicted below. The ball then falls from somewhere 
+at the top of the board, bouncing against a series of obstacles on its way down. If the player is 
+lucky, the ball goes into one of the pockets, and additional balls are released as a jackpot. 
+Otherwise, the ball is lost (and the game as well). 
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p11707a.eps}$
+ -->
+<IMG
+ WIDTH="257" HEIGHT="259" ALIGN="BOTTOM" BORDER="0"
+ SRC="p11707a.png"
+ ALT="\epsfbox{p11707a.eps}">
+</DIV>
+
+<P>
+In the Pachinko parlour <EM>I Control the Physics Core</EM>, the machine boards are rectangular, and the 
+player can drop the ball from any point at a height of 100 centimetres, corresponding to points with 
+cartesian coordinates <SPAN CLASS="MATH">(<I>x</I>, 100)</SPAN>, where <!-- MATH
+ $-100 < x < 100$
+ -->
+<SPAN CLASS="MATH">-100 &lt; <I>x</I> &lt; 100</SPAN>. Obstacles are segments defined by the 
+coordinates of their endpoints. There are neither horizontal nor zero-length obstacles, and they do 
+not intersect one another. For our purposes, we can assume that the ball is a point with no thickness, 
+and we ignore issues of friction, inertia or ricochets. In particular, we can disregard the horizontal 
+displacement of the ball during falls. There is only one jackpot pocket, located at the bottom of the 
+board, between coordinates (-10, 0) and (10, 0). If the ball falls exactly in one of the endpoints, we 
+consider that it hits the jackpot; and if a ball falls exactly into one of the endpoints of a segment, 
+it rolls on that segment, rather than falling through. 
+
+<P>
+Some of the machines at the ICPC parlour have long been suspected of being rigged, as rumour has it 
+that nobody has ever hit the jackpot. A neutral committee has therefore been appointed to verify or 
+refute this claim. As a member, you have taken part in discussions and game trials, all of which have 
+been inconclusive. Much as you enjoyed playing the game for free, after enduring several of the 
+endless meetings you decide it is about time the matter was settled once and for all. To this end, you 
+have taken on the task of writing a program to determine whether the jackpot is reachable or not, 
+based on the specifications of the Pachinko device.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Your program will be tested on one or more machines. The description of each machine starts with an 
+integer <SPAN CLASS="MATH"><I>n</I></SPAN> (<!-- MATH
+ $0 \le n \le 500$
+ -->
+<SPAN CLASS="MATH">0<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11707img2.png"
+ ALT="$ \le$"><I>n</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11707img2.png"
+ ALT="$ \le$">500</SPAN>), indicating the number of segments in it. Each of the following <SPAN CLASS="MATH"><I>n</I></SPAN> 
+lines describes a segment by giving 4 real numbers <!-- MATH
+ $x\ y\ x'\ y'$
+ -->
+<SPAN CLASS="MATH"><I>x</I>&nbsp;<I>y</I>&nbsp;<I>x'</I>&nbsp;<I>y'</I></SPAN> , representing the coordinates <SPAN CLASS="MATH">(<I>x</I>, <I>y</I>)</SPAN> and <SPAN CLASS="MATH">(<I>x'</I>, <I>y'</I>)</SPAN> of each of its endpoints, where <!-- MATH
+ $-100 < x < x' < 100$
+ -->
+<SPAN CLASS="MATH">-100 &lt; <I>x</I> &lt; <I>x'</I> &lt; 100</SPAN>, <!-- MATH
+ $0 < y < 100$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>y</I> &lt; 100</SPAN>, <!-- MATH
+ $0 < y' < 100$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>y'</I> &lt; 100</SPAN>, <SPAN CLASS="MATH"><I>y</I><IMG
+ WIDTH="18" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="11707img3.png"
+ ALT="$ \ne$"><I>y'</I></SPAN>. No two segments intersect. A blank line follows each case. The last line of input contains `<TT>-1</TT>'.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each machine, answer yes if the jackpot is reachable and no otherwise.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2
+-20 60 20 85
+-20 35 10 5
+
+2
+-5 50 -20 25
+5 50 20 25
+
+7
+-20 80 -10 75
+-15 65 5 70
+15 75 25 80
+-5 65 10 45
+-20 55 -5 40
+-15 20 10 35
+15 30 25 20
+
+-1
+</PRE> 
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+yes
+yes
+no
+</PRE> 
+
+<P>
+<DIV ALIGN="CENTER">
+
+<!-- MATH
+ $\epsfbox{p11707b.eps}$
+ -->
+<IMG
+ WIDTH="1220" HEIGHT="331" ALIGN="BOTTOM" BORDER="0"
+ SRC="p11707b.png"
+ ALT="\epsfbox{p11707b.eps}">
+</DIV>
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

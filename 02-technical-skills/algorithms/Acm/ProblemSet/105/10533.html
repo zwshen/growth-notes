@@ -1,0 +1,303 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./c_files/filelist.xml">
+<link rel=Edit-Time-Data href="./c_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem C - Digit Primes</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>39</o:Revision>
+  <o:TotalTime>1147</o:TotalTime>
+  <o:LastPrinted>2003-07-25T04:57:00Z</o:LastPrinted>
+  <o:Created>2003-05-03T08:19:00Z</o:Created>
+  <o:LastSaved>2003-07-25T23:32:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>172</o:Words>
+  <o:Characters>985</o:Characters>
+  <o:Company>CSE, BUET</o:Company>
+  <o:Lines>8</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>1209</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	tab-stops:143.25pt;
+	font-size:18.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-bidi-font-weight:normal;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	mso-bidi-font-weight:bold;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:#6633CC;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+em
+	{mso-bidi-font-style:normal;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+p.Preformatted, li.Preformatted, div.Preformatted
+	{mso-style-name:Preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:0in 47.95pt 95.9pt 143.85pt 191.8pt 239.75pt 287.7pt 335.65pt 383.6pt 431.55pt 479.5pt;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.8in .8in 67.7pt .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#6633cc" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:28.0pt;mso-bidi-font-size:10.0pt;font-family:
+Arial'>Problem C</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>Digit Primes</span></b><span
+style='font-family:Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input: </b><span style='mso-bidi-font-weight:
+bold'>Standard Input<o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output <o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Time Limit: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>4 Seconds</span></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoBodyText3><span style='color:black'>A prime number is a positive
+number, which is divisible by exactly two different integers. A digit prime is a
+prime number whose sum of digits is also prime. For example the prime number <b>41</b>
+is a digit prime because <b>4+1=5</b> and <b>5</b> is a prime number. <b>17</b>
+is not a digit prime because <b>1+7 = 8</b>, and <b>8</b> is not a prime
+number. In this problem your job is to find out the number of digit primes
+within a certain range less than <b>1000000</b>.</span></p>
+
+<p class=MsoBodyText3><span style='font-family:"Arial Unicode MS"'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleArial16pt><span style='font-size:16.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial;mso-bidi-font-family:"Times New Roman"'>Input</span></span><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"Arial Unicode MS";mso-bidi-font-family:
+"Times New Roman"'><o:p></o:p></span></span></p>
+
+<p class=MsoBodyText3>First line of the input file contains a single integer <b>N
+(0&lt;N&lt;=500000) </b>that indicates the total number of inputs. Each of the
+next <b>N</b> lines contains two integers <b>t1</b> and <b>t2</b> <b>(0&lt;t1&lt;=t2&lt;1000000).
+</b></p>
+
+<p class=MsoBodyText3>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify'><span class=StyleArial16pt><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;mso-bidi-font-family:
+"Times New Roman"'>Output<o:p></o:p></span></span></p>
+
+<h1><span style='font-style:normal'>For each line of input except the first
+line produce one line of output containing a single integer that indicates the
+number of digit primes between <b>t1</b> and <b>t2</b> (inclusive).<o:p></o:p></span></h1>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial;font-style:normal'>Sample Input <o:p></o:p></span></b></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+  <td width=308 valign=top style='width:231.1pt;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'>3<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'>10 20<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'>10 100<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'>100 10000<o:p></o:p></span></b></p>
+  </td>
+  <td width=308 valign=top style='width:231.15pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'>1<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New"'>10<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'>576<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p class=MsoNormal style='text-align:justify;tab-stops:429.75pt'><b>Problemsetter:
+Shahriar Manzoor, Member of Elite Problemsetters' Panel<o:p></o:p></b></p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:429.75pt'><b><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></b></p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:429.75pt'><b>/*Note: You
+should at least use scanf() and printf() to take input and produce output for
+this problem. cin and cout is too slow for this problem to get it within time
+limit.*/<o:p></o:p></b></p>
+
+</div>
+
+</body>
+
+</html>

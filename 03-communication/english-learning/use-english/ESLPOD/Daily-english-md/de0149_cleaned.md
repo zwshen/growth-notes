@@ -1,0 +1,94 @@
+# Watching Sports on TV
+
+Welcome to English as a Second Language Podcast num ber 149 – Watching Sports on TV.  
+
+This is English as a Second Language Podcast episod e 149. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+On this podcast, we’re going to watch a little spor ts on TV. Let's go.  
+
+[start of dialog] 
+
+Laura: Oh, I didn't think I’d make it home in time for the game. 
+
+Jun: What game? 
+
+Laura: The playoffs! Turn on the TV. I hope it's st ill in the first quarter. It is! Who's winning? What's the score?  
+
+Jun: I don't know. You know I don't watch sports. W hoa! That was a great shot. Did you see that?  
+
+Laura: No, what happened? Maybe they'll show it aga in on instant replay. I wonder who the coach put in for the starting lineup . 
+
+Jun: Geez. I think there's a player down on the cou rt.  
+
+Laura: It looks like he's walking off the court. He  can't be hurt too badly.  
+
+Jun: Look! They're putting your favorite player in.  Oh, what a play! 
+
+Laura: Wait a second. I thought you didn't watch sp orts. 
+
+Jun: I was never a sports fan before I met you. I t hink you're a bad influence on me.  
+
+Laura: Yes, very bad. Now, stop hogging the couch a nd pass the chips.  
+
+[end of dialog] 
+
+In our dialog, Laura comes home and says to Jun, “O h, I didn't think I'd make it home in time for the game.” “To make it home” means  to arrive back at your house or your apartment. “In time” means in time fo r something, before something happens. “I hope to make it home in time for the baseball game, which starts at seven o'clock.” That means I hope t o get home before seven o'clock so I can watch the baseball game.  
+
+Jun doesn't know which game Laura is talking about.  He says, “What game?” Laura says, “The playoffs.” “Playoffs” (playoffs) i s when you have teams toward the end of their season, playing each other for the  championship. The championship is the game that determines which team  is the best team. If you have, for example, eight teams, you might have the four teams that have done the best during that particular season play each ot her in games that would be called “playoffs.” The “playoffs” are when you play  another team and the winning team gets to go on in the tournament, in the compet ition, so that they can get into the final game, the championship game, to determine  who the winner is.  
+
+In American football, for example, we have playoffs  that determine which two teams are going to go to the championship game call ed the Super Bowl. In baseball, we have playoffs that determine who will go into the World Series. All of these are examples of playoffs. 
+
+So, Laura is telling Jun that she came home to watc h the playoffs. She says, “Turn on the TV.” She says, “I hope it's still in t he first quarter.” There are some games, like American football or basketball, that a re divided into four parts. Each part is called a “quarter.” “Quarter” means 25% of something. We have a coin in the United States called a “quarter.” It's a quarte r of a dollar. It’s 25 cents. A dollar is a hundred cents. Well, we also have those  kinds of divisions in sports. In baseball, we don't have quarters. In baseball, we h ave what are called “innings” and there are nine of them, but in other sports, th ere are quarters, and Laura is hoping that the playoff game she wants to watch is still in the first quarter, meaning they haven't gone to the next quarter. The game is still being played in the very first part.  
+
+She says, “It is. Who's winning? What's the score?”  The “score” is the number of points that each team has. So, in football, the sco re could be something like 21 to 14, or 7 to 3. In basketball, it could be 87 to 75 or something like that. Jun says, “I don't know.” I don't know the score. “You know I do n't watch sports.”  
+
+But then, Jun, who's watching the television, gives  us an expression of surprise, usually of a happy surprise. He says, “Whoa! That w as a great shot.” In basketball, we use the word “shot,” when a player t akes the ball and throws it to  
+
+what's called the “net.” The net is the round hole that the ball has to go through. “Shot,” as a noun, is the throwing of the ball. The  verb is “to shoot” (shoot) and “shot” is the past tense of shoot. But here, it's u sed as a noun. Jun says, “That was a great shot. Did you see that?”  
+
+Laura, who apparently wasn't watching the televisio n even though she's the one who wanted to watch the playoffs, says, “No. What h appened? Maybe they'll show it again on instant replay.” The word “show,” when talking about television, can mean a program, a television program. It can al so be used as a verb to mean “to broadcast,” “to put up on the screen,” “to  let us see.” In this case, Laura is hoping that they will show or let everyone see t hat play, that great shot, again on instant replay.  
+
+“Instant” means right away. “Replay” means to play again. In sports, especially television sports, it's possible for them to show y ou a play again, right after it has happened, in case you missed it or to look at it mo re closely. “Instant replay” can be found in almost every sport now on television. L aura says, “I wonder who the coach put in for the starting lineup.” “I wonder” m eans I'm not sure. I'm not sure who the coach put in for the starting lineup. The “ coach” is the person who is responsible for running the team. The coach makes t he decisions about what the people playing the game will do. The people who pla y the game are called the “players.” The “starting lineup” is the group of pl ayers who begin the game. Usually, they're your best players. Your lineup is a list of the people who are going to be playing. Your starting lineup are the p eople who begin the game. So, Laura is wondering who the coach put in for the sta rting lineup. “To put in” here means to play, to actually say, “Okay. You go out a nd you play.” 
+
+Jun says, “Geez. I think there is a player down on the court.” “Geez” is a word we use for expressing surprise about something. Jun sa ys, “There is a player down on the court.” “Down” here means lying down, usuall y because they're injured, because they're hurt. The “court” (court) describes  the area where basketball is played. We use court also for the sport of tennis. We have the “tennis court”.  It’s the place where tennis is played. For football, we would call it a “field” – either a soccer field or an American football field. In base ball, it's also called a “field.” But in basketball, we use the word “court.”  
+
+Laura says, “It looks like he” – the player – “is w alking off the court.” “To walk off” means to leave, to exit. “He can't be hurt too badl y.” Laura means that that he must not have been injured very seriously, because he's able to stand up and walk off the court.  
+
+Jun says, “Look, they’re putting your favorite play er in.” Once again, we have that phrasal verb “to put in,” meaning to tell someone t o go and play. Laura's favorite player is now going to be playing in the game. Jun then says, “Oh, what a play!” A “play” here, as a noun, means some action in the sport that usually decides either the point being scored or some other importa nt part of the game. In basketball, making a shot that scores three points from a long distance away would be a great play. It would be a great part of the game, a great performance in the game.  
+
+Laura says, “Wait a second,” meaning wait a short a mount of time, wait a moment. “I thought you didn't watch sports.” Laura is surprised at how excited Jun is about watching this game, since he said earl ier that he didn't like to watch sports. Jun says, “I was never a sports fan before I met you.” A “sports fan” would be someone who likes to watch sports.  
+
+Jun says, “I think you're a bad influence on me.” S omething that is an “influence” on you is something that affects you, something tha t changes you somehow. Jun is saying that Laura is a bad influence on him. Her  actions have changed him for the worse. Of course, he's making a joke here. Laur a says, “Yes, very bad. Now, stop hogging the couch and pass the chips.” The “co uch” is the sofa. It's a large seat where, usually, three or more people can sit d own.  
+
+“To hog” (hog) is an informal verb meaning to use s omething so that no one else can use it. If you're hogging the couch, you're sit ting on the couch in such a way that no one else can sit on it. Maybe you're lying on it. “To pass the chips” means to give something to another person. In this case, the something is chips. Chips are potato chips, or corn chips, or tortilla chips,  that are very popular when people are watching sports. They’ll often eat potat o chips or some other kind of chip as food for when they're watching the game. So  Laura is telling Jun to stop hogging the couch. Let her sit down and give her so me chips so she can eat. 
+
+Now let’s listen to the dialog, this time at a norm al speed.  
+
+[start of dialog] 
+
+Laura: Oh, I didn't think I’d make it home in time for the game. 
+
+Jun: What game? 
+
+Laura: The playoffs! Turn on the TV. I hope it's st ill in the first quarter. It is! Who's winning? What's the score?  
+
+Jun: I don't know. You know I don't watch sports. W hoa! That was a great shot. Did you see that?  
+
+Laura: No, what happened? Maybe they'll show it aga in on instant replay. I wonder who the coach put in for the starting lineup . 
+
+Jun: Geez. I think there's a player down on the cou rt.  
+
+Laura: It looks like he's walking off the court. He  can't be hurt too badly.  
+
+Jun: Look! They're putting your favorite player in.  Oh, what a play! 
+
+Laura: Wait a second. I thought you didn't watch sp orts. 
+
+Jun: I was never a sports fan before I met you. I t hink you're a bad influence on me.  
+
+Laura: Yes, very bad. Now, stop hogging the couch a nd pass the chips.  
+
+[end of dialog] 
+
+She's the best player on Team ESLPod. I speak, of c ourse, of our wonderful scriptwriter, Dr. Lucy Tse. 
+

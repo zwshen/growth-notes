@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>Problem C - Very Funny, Mr. Feynman!</title>
+</head>
+<body>
+<center>
+<h2>Problem C</h2>
+<h1>Very Funny, Mr. Feynman!</h1></center>
+<p>The digital expansion of the irrational number &pi; has since long attracted all kinds of people who try to find regularities, oddities and curiosa in it. There even are people who try to memorise as many digits as possible, and competitions on various levels are held. If you look at the first thousand or so digits of &pi;, you might notice the six consecutive nines, starting at place 762 ([1]):
+<blockquote>
+3.<br>
+14159265358979323846264338327950288419716939937510582097494459230781640628620899862803482534211<br>
+70679821480865132823066470938446095505822317253594081284811174502841027019385211055596446229489<br>
+54930381964428810975665933446128475648233786783165271201909145648566923460348610454326648213393<br>
+60726024914127372458700660631558817488152092096282925409171536436789259036001133053054882046652<br>
+13841469519415116094330572703657595919530921861173819326117931051185480744623799627495673518857<br>
+52724891227938183011949129833673362440656643086021394946395224737190702179860943702770539217176<br>
+29317675238467481846766940513200056812714526356082778577134275778960917363717872146844090122495<br>
+34301465495853710507922796892589235420199561121290219608640344181598136297747713099605187072113<br>
+4<b>999999</b>8372978049951059731732816096318595024459455346908302642522308253344685035261931188171010<br>
+00313783875288658753320838142061717766914730359825349042875546873115956286388235378759375195778<br>
+18577805321712268066130019278766111959092164201989380952572010654858632788659361533818279682303<br>
+01952035301852968995773622599413891249721775283479131515574857242454150695950829533116861727855<br>
+889075098381754637464939319255060400927701671139009848824012...
+</blockquote>
+To &pi;-memorisers and other curiosa seekers, this repeat of nines is known as the Feynman point. Wikipedia ([2]):
+<blockquote>The name refers to a remark made by the physicist Richard Feynman, expressing a wish to memorise the digits of &pi; as far as that point so that when reciting them, he would be able to end with &quot;... nine, nine, nine, nine, nine, nine, and so on.&quot;</blockquote>
+<p>To appreciate the oddity of this repeat of six digits so early in the sequence, you may like to know that the first repeats of six for the digits 0 to 8 occur at positions 1699927, 255945, 963024, 710100, 828499, 244453, 252499, 399579 and 222299 respectively ([3]).
+
+<h1>The Problem</h1>
+<p>In this problem we will seek repeats in an other class of irrational numbers: the square roots of primes upto one million. More specific, we will try to find the first occurence of a repeat of three (or more) digits in the decimal expansion of the square root.<br>
+The number of digits that occur before the first repeat of three is called the prefix length. Among the square roots of primes, there are quite a few that start off with three the same digits and thus have a prefix length of zero; &radic;79 = 8.8881944..., &radic;1109 = 33.3016516... and &radic;1973 = 44.4184646... being the first. We ignore the decimal dot, so &radic;723407 = 850.533362... has a prefix length of 4 before the digit 3 repeats three times. Within the range specified, &radic;581149 has the longest prefix: 1387 digits precede the first repeat of three.
+
+<h1>Input</h1>A number of cases each on a line by itself. Each case consists of one number: a prime number smaller than 1000000. The number 0 terminates the input and should not be processed.
+<h1>Output</h1>For each prime in the input, one line containing three numbers: the prime, the prefix length and the repeated digit, separated by one space.
+<h1>Sample Input</h1>
+<pre>79
+723407
+581149
+0</pre>
+<h1>Sample Output</h1>
+<pre>79 0 8
+723407 4 3
+581149 1387 6</pre>
+<hr>
+Problem Setter: Joachim Wulff, Netherlands<br>
+Special Thanks: Igor Naverniouk, PHD Student, U Toronto
+<hr>
+[1] <a href="http://3.141592653589793238462643383279502884197169399375105820974944592.com">http://3.141592653589793238462643383279502884197169399375105820974944592.com</a><br>
+[2] <a href="http://en.wikipedia.org/wiki/Feynman_point">http://en.wikipedia.org/wiki/Feynman_point</a><br>
+[3] <a href="http://mathworld.wolfram.com/PiDigits.html">http://mathworld.wolfram.com/PiDigits.html</a>
+</body></html>

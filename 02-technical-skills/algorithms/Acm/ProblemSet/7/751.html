@@ -1,0 +1,151 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Triangle War</TITLE>
+<META NAME="description" CONTENT="Triangle War">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Triangle War</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Triangle War is a two-player game played on the following triangular grid:
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p751a.gif>
+</DIV>
+
+<P>
+Two players, A and B, take turns filling in any dotted line connecting two dots, with A starting first. Once a line is filled, it cannot be filled again. If the line filled by a player completes one or more triangles, she owns the completed triangles and she is awarded another turn (i.e. the opponent skips a
+turn). The game ends after all dotted lines are filled in, and the player with the most triangles wins the game. The difference in the number of triangles owned by the two players is not important.
+
+<P>
+
+<P>
+<BR>
+For example, if A fills in the line between 2 and 5 in the partial game on the left below:
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p751b.gif>
+</DIV>
+
+<P>
+Then, she owns the triangle labelled A and takes another turn to fill in the line between 3 and 5. B can
+now own 3 triangles (if he wishes) by filling in the line between 2 and 3, then the one between 5 and 6,
+and finally the one between 6 and 9. B would then make one more move before it is A's turn again.
+
+<P>
+
+<P>
+<BR>
+In this problem, you are given a number of moves that have already been made. From the partial
+game, you should determine which player will win assuming that each player plays a perfect game from
+that point on. That is, assume that each player always chooses the play that leads to the best possible
+outcome for himself/herself.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+You will be given a number of games in the input. The first line of input is a positive integer indicating
+the number of games to follow. Each game starts with an integer 
+<!-- MATH: $6 Ÿ\le m Ÿ\le 18$ -->
+<IMG
+ WIDTH="92" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="751img1.gif"
+ ALT="$6 Ÿ\le m Ÿ\le 18$">
+indicating the number of
+moves that have been made in the game. The next <I>m</I> lines indicate the moves made by the two players
+in order, each of the form <I>i j</I> (with <I>i</I> &lt; <I>j</I>) indicating that the line between <I>i</I> and <I>j</I> is filled in that
+move. You may assume that all given moves are legal.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each game, print the game number and the result on one line as shown below. If A wins, print the
+sentence ``<TT>A wins.</TT>'' If B wins, print ``<TT>B wins.</TT>''
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+4
+6
+2 4
+4 5
+5 9
+3 6
+2 5
+3 5
+7
+2 4
+4 5
+5 9
+3 6
+2 5
+3 5
+7 8
+6
+1 2
+2 3
+1 3
+2 4
+2 5
+4 5
+10
+1 2
+2 5
+3 6
+5 8
+4 7
+6 10
+2 4
+4 5
+4 8
+7 8
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Game 1: B wins.
+Game 2: A wins.
+Game 3: A wins.
+Game 4: B wins.
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

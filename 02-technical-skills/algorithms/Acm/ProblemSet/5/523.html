@@ -1,0 +1,201 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Minimum Transport Cost</TITLE>
+<META NAME="description" CONTENT="Minimum Transport Cost">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Minimum Transport Cost</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+There are <I>N</I> cities in Spring country. Between each pair of cities there
+may be one transportation
+track or none. Now there is some cargo that should be delivered from one city
+to another. The transportation fee consists of two parts:
+
+<P>
+<DL COMPACT>
+<DT>1.
+<DD>the cost of the transportation on the path between these cities, and
+<DT>2.
+<DD>a certain tax which will be charged whenever any cargo passing through
+one city, except for the source and the destination cities.
+</DL>
+
+<P>
+You must write a program to find the route which has the minimum cost.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input is an integer M, then a blank line followed by M datasets. There is a blank line between datasets.
+
+The data of path cost, city tax, source and destination cities are given
+in each dataset, which is of the form:
+
+<P>
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+\begin{array}{cccc}
+a_{11} & a_{12} & \dots & a_{1N} \\
+a_{21} & a_{22} & \dots & a_{2N} \\
+\dots & \dots & \ddots & \dots \\
+a_{N1} & a_{N2} & \dots & a_{NN} \\
+b_1 & b_2 & \dots & b_N \\
+c & d & & \\
+e & f & & \\
+\dots & \dots & & \\
+g & h & &
+\end{array}
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="160" HEIGHT="211"
+ SRC="523img1.gif"
+ ALT="\begin{displaymath}\begin{array}{cccc}
+a_{11} & a_{12} & \dots & a_{1N} \\
+a_{2...
+...& \\
+e & f & & \\
+\dots & \dots & & \\
+g & h & &
+\end{array}\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+where <I>a</I><SUB><I>ij</I></SUB> is the transport cost from city <I>i</I> to city <I>j</I>, 
+<!-- MATH: $a_{ij} = -1$ -->
+<I>a</I><SUB><I>ij</I></SUB> = -1 indicates there is no direct path between
+city <I>i</I> and city <I>j</I>. <I>b</I><SUB><I>i</I></SUB> represents the tax of passing through city <I>i</I>. And
+the cargo is to be delivered from
+city <I>c</I> to city <I>d</I>, city <I>e</I> to city <I>f</I>, ..., and city <I>g</I> to city <I>h</I>. 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each datase, you must output the sequence of cities
+passed by and the total cost, which is of the form:
+
+<P>
+
+<P><P>
+<BR>
+
+<TT>From </TT><I>c</I><TT> to </TT><I>d</I><TT> :</TT>
+
+<P>
+
+<TT>Path:</TT> <I>c</I><TT>-&gt;</TT><I>c</I><SUB>1</SUB><TT>-&gt;</TT><IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="523img2.gif"
+ ALT="$\dots$"><TT>-&gt;</TT><I>c</I><SUB><I>k</I></SUB><TT>-&gt;</TT><I>d</I>
+
+<P>
+
+<TT>Total cost :</TT> <IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="523img2.gif"
+ ALT="$\dots$">
+
+<P>
+
+<P><P>
+<BR>
+
+<IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="523img2.gif"
+ ALT="$\dots$">
+
+<P>
+
+<P><P>
+<BR>
+
+<TT>From </TT><I>e</I><TT> to </TT><I>f</I><TT> :</TT>
+
+<P>
+
+<TT>Path:</TT> <I>e</I><TT>-&gt;</TT><I>e</I><SUB>1</SUB><TT>-&gt;</TT><IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="523img2.gif"
+ ALT="$\dots$"><TT>-&gt;</TT><I>e</I><SUB><I>k</I></SUB><TT>-&gt;</TT><I>f</I>
+
+<P>
+
+<TT>Total cost :</TT> <IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="523img2.gif"
+ ALT="$\dots$">
+
+<P>
+Print a blank line between datasets,
+<p>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1
+
+0 3 22 -1 4
+3 0 5 -1 -1
+22 5 0 9 20
+-1 -1 9 0 4
+4 -1 20 4 0
+5 17 8 3 1
+1 3
+3 5
+2 4
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+From 1 to 3 :
+Path: 1--&gt;5--&gt;4--&gt;3
+Total cost : 21
+
+From 3 to 5 :
+Path: 3--&gt;4--&gt;5
+Total cost : 16
+
+From 2 to 4 :
+Path: 2--&gt;1--&gt;5--&gt;4
+Total cost : 17
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-01-11</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

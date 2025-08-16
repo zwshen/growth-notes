@@ -1,0 +1,64 @@
+<img src=p10556.gif align=right><h2>Problem C: Biometrics</h2>
+Recently, the term <i>Biometrics</i> been used to refer to the 
+emerging field of technology devoted to identification of individuals 
+using biological traits, such as those based on retinal or iris 
+scanning, fingerprints, or face recognition.
+<p>
+A simple biometric system translates a human image into a polygon
+by considering certain features (eyes, nose, ears, etc.) to be vertices
+and connecting them with line segments.  
+The polygon has distinct vertices
+but may be degenerate in that the
+line segments could intersect.  Because these polygons are generally
+created from remote images, there is some uncertainty as to their
+scale and rotation.  Your job is to determine whether or not
+two polygons are similar; that is, can they be made equal
+by repositioning, rotating and magnifying them?
+<p>
+Input consists of several test cases.  Each test case consists
+of three lines containing:
+<ul>
+<li><i>f</i>, the number of features
+<li><i>f</i> coordinate pairs giving the vertices of the first polygon
+<li><i>f</i> coordinate pairs giving the vertices of the second polygon
+</ul>
+The vertices for both polygons correspond to the same set of features
+in the same order;
+for example, <i>right ear tip</i>, <i>chin cleft</i>, <i>right eye</i>, <i>nose</i>, <i>left eye</i>, <i>left ear tip</i>, <i>space between front teeth</i>.   
+Each polygon has <i>f</i> distinct vertices;
+each vertex is given
+as an <i>x</i> and <i>y</i> coordinate pair.  There are at least
+three and no more than ten features.  Coordinates are integers
+between -1000 and 1000.  A line containing 0 follows the last test
+case.
+<p>
+For each case, output a line "similar" or "dissimilar" as appropriate.
+The two polygons are similar if, after some combination of
+translation, rotation, and scaling (but not reflection)
+both vertices corresponding to each feature are in the same
+position.
+<h3>Sample Input</h3>
+<pre>
+4
+0 0 0 1 1 1 1 0
+0 1 1 0 0 -1 -1 0
+3
+0 0 10 0 10 10
+0 0 -10 0 -10 10
+3
+0 0 10 10 20 20
+0 0 11 11 22 22
+3
+0 0 10 10 20 20
+0 0 11 11 20 20
+0
+</pre>
+<h3>Output for Sample Input</h3>
+<pre>
+similar
+dissimilar
+similar
+dissimilar
+</pre>
+<hr>
+<i>G. V. Cormack</i>

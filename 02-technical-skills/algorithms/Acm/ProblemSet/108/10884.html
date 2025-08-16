@@ -1,0 +1,124 @@
+<html>
+<head>
+    <title>Persephone</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem G</B></FONT><BR>
+<FONT SIZE="5"><B>Persephone</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 2 seconds</FONT><BR>
+</CENTER>
+</P>
+
+<p align="right">
+<table border=0><tr><td><small>
+Kaylee: <i>Is that him?</i><br>
+Mal: <i>That's the buffet table.</i><br>
+Kaylee: <i>Well... how do we know unless we... question it?</i>
+</td></tr></table>
+<tt>Jane Espenson</tt>
+</small></p>
+
+<P CLASS="paragraph">
+In the good old days, Atherton Wing used to be a respected gentleman and an expert
+at fencing, but things have changed. Now, the only fencing he does is around cattle
+on his ranch. His fortune has been improving lately, and he has decided to buy a
+new pasture. He has enough money to buy <b>n</b> one-meter segments of fencing and
+must surround an area of a field with a fence. The rules on Persephone dictate that
+each one-meter fence segment must be placed either in the east-west direction or
+in the north-south direction. Fence segments must not intersect and each segment must
+be connected to exactly two other segments, one on each end. Cattle must be able
+to walk freely from any point inside the surrounded area to any other point inside
+the fence.
+</P>
+
+<P CLASS="paragraph">
+In addition to those rules, Atherton knows that the government keeps track of each
+pasture by recording the smallest bounding rectangle that contains the pasture. No
+parts of the field inside this rectangle will be sold to other farmers. In case that
+Atherton does not have enough money to buy the whole rectangle right now, he wants to build
+his fence in such a way that he will be able to move the segments later and surround the
+whole bounding rectangle in the future, without wasting segments. In other words, he
+should not be able to surround the whole bounding rectangle and have extra fence segments
+left over. Finally, he must use all of his available fence segments and surround a pasture
+of positive area. The image on the left shows a valid pasture of perimiter 32 and its
+bounding rectangle. The example on the right is invalid because the same number of fence
+segments can be used to surround everything inside the bounding rectangle, plus one more
+square meter of land.
+</P>
+
+<center>
+<table border=0>
+<tr>
+    <td><img src="p10884a.png" width=256 height=256></td>
+    <td><img src="p10884b.png"  width=256 height=256></td>
+</tr>
+<tr>
+    <td><center>valid</center></td>
+    <td><center>invalid</center></td>
+</tr>
+</table>
+</center>
+
+<P CLASS="paragraph">
+In how many different shapes can Atherton arrange his fence segments to obey all of
+the above conditions? Shapes that are symmetric (with respect to rotation or reflection)
+are considered different. The image below shows all the 7 possible shapes built using 8
+fence segments.
+</P>
+
+<center>
+<img src="p10884c.png" width=512 height=128>
+</center>
+
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The first line of input gives the number of cases, <b>N</b>. <b>N</b> test
+cases follow. Each one is a line containing a positive integer <b>n</b> (at most
+100) - the number of fence segments Atherton has.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+For each test case, output one line containing "Case #<b>x</b>:"
+followed by the number of different shapes he can build.
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+3
+8
+49
+100
+</PRE>
+</TD>
+<TD>
+<PRE>
+Case #1: 7
+Case #2: 0
+Case #3: 357215388993130669706869321408
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+<HR>
+<B>Problemsetter: Igor Naverniouk</B>
+</P>
+
+</td></tr></table>
+</body>
+</html>

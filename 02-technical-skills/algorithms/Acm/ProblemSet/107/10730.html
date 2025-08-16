@@ -1,0 +1,54 @@
+<title>Problem : Check for antiarithmetic permutation</title>
+<img align=right src=p10730.jpg>
+
+<h2>Problem D: Antiarithmetic?</h2>
+
+<p>
+A permutation of <em>n</em> is a bijective function of the initial
+<em>n</em> natural numbers: 0, 1, ... <em>n</em>-1.  A permutation
+<em>p</em> is called antiarithmetic if there is no subsequence of it
+forming an arithmetic progression of length bigger than 2, i.e. there
+are no three indices
+0&nbsp;&le;&nbsp;<em>i</em>&nbsp;&lt;&nbsp;<em>j</em>&nbsp;&lt;&nbsp;<em>k</em>&nbsp;&lt;&nbsp;<em>n</em>
+such that
+(<em>p<sub>i</sub></em>&nbsp;,&nbsp;<em>p<sub>j</sub></em>&nbsp;,&nbsp;<em>p<sub>k</sub></em>)
+forms an arithmetic progression.
+<p>
+<p>
+For example, the sequence (2, 0, 1, 4, 3) is an antiarithmetic
+permutation of 5.  The sequence (0, 5, 4, 3, 1, 2) is not an
+antiarithmetic permutation as its first, fifth and sixth term (0, 1,
+2) form an arithmetic progression; and so do its second, forth and
+fifth term (5, 3, 1).
+<p>
+Your task is to check whether a given permutation of <em>n</em> is
+antiarithmetic.
+<p>
+There are several test cases, followed by a line containing 0.
+Each test case is a line of the input file containing a natural number
+3&nbsp;&le;&nbsp;<em>n</em>&nbsp;&le;&nbsp;10000 followed by a colon and
+then followed by <em>n</em> distinct numbers separated by whitespace.
+All <em>n</em> numbers are natural numbers smaller than <em>n</em>.
+<p>
+For each test case output one line with <tt>yes</tt> or <tt>no</tt>
+stating whether the permutation is antiarithmetic or not.
+
+<h3>Sample input</h3>
+<pre>
+3: 0 2 1 
+5: 2 0 1 3 4
+6: 2 4 3 5 0 1
+0
+</pre>
+
+
+<h3>Output for sample input</h3>
+<pre>
+yes
+no
+yes
+</pre>
+
+<hr>
+
+<em>Piotr Rudnicki</am>

@@ -1,0 +1,653 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="i_files/filelist.xml">
+<link rel=Edit-Time-Data href="i_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem H - So Doku Checker</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>19</o:Revision>
+  <o:TotalTime>113</o:TotalTime>
+  <o:LastPrinted>2002-10-30T12:22:00Z</o:LastPrinted>
+  <o:Created>2004-10-01T02:53:00Z</o:Created>
+  <o:LastSaved>2005-10-29T07:42:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>583</o:Words>
+  <o:Characters>3326</o:Characters>
+  <o:Company>CSE, BUET</o:Company>
+  <o:Lines>27</o:Lines>
+  <o:Paragraphs>7</o:Paragraphs>
+  <o:CharactersWithSpaces>3902</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	tab-stops:143.25pt;
+	font-size:18.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+h3
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Arial Unicode MS";
+	font-weight:bold;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:24.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	mso-bidi-font-weight:bold;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:#6633CC;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+em
+	{mso-bidi-font-style:normal;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+address
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-style:italic;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+p.Preformatted, li.Preformatted, div.Preformatted
+	{mso-style-name:Preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:0in 47.95pt 95.9pt 143.85pt 191.8pt 239.75pt 287.7pt 335.65pt 383.6pt 431.55pt 479.5pt;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.8in .8in 67.7pt .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:236942339;
+	mso-list-template-ids:-914078788;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:816340924;
+	mso-list-template-ids:-1574792176;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:1687704936;
+	mso-list-template-ids:-2049042410;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3
+	{mso-list-id:1932003913;
+	mso-list-template-ids:-1974972802;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="4098"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#6633CC" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:28.0pt;mso-bidi-font-size:10.0pt;font-family:
+Arial'>Problem H</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>So <span class=SpellE>Doku</span>
+Checker<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Input: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output <o:p></o:p></span></p>
+
+<p style='text-align:justify'>The best logical puzzles often are puzzles that
+are based on a simple idea. So Doku is one such type of puzzle. Although So
+Dokus have been around for some twenty years, in the last few years they
+conquered the world exponentially. Hundreds of newspapers and websites are now
+publishing them on a daily basis. For those of you unfamiliar with these
+puzzles, let me give a brief introduction.</p>
+
+<p class=MsoNormal align=center style='text-align:center'><img width=365
+height=365 src="p10957.jpg"></p>
+
+<p>The picture above contains an example of a Su <span class=SpellE>Doku</span>
+puzzle. As you can see, we have a 9X9 grid filled with single digits from 1 to
+9 and empty places. The grid is further divided into nine 3X3 sub-grids,
+indicated by the thick lines. To solve the puzzle you have to fill the empty
+places with digits according to the following rules:</p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l0 level1 lfo3;tab-stops:list .5in'>Every row should contain the
+     digits 1 to 9 exactly once; </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l0 level1 lfo3;tab-stops:list .5in'>Every column should contain
+     the digits 1 to 9 exactly once; </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l0 level1 lfo3;tab-stops:list .5in'>Every 3X3 sub-grid should
+     contain the digits 1 to 9 exactly once. </li>
+</ul>
+
+<p>A well formed Su <span class=SpellE>Doku</span> can be solved with paper and
+pencil using logical deduction only. To be well formed it should be legal (no
+row, column or sub-grid contains a digit more than once), solvable (the empty
+places can all be filled while respecting the rules) and unique (there is only
+one solution). This is what your program is going to check.</p>
+
+<h5><span class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:
+10.0pt;mso-bidi-font-family:"Times New Roman"'>Input</span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman";
+mso-fareast-font-family:"Arial Unicode MS"'><o:p></o:p></span></span></h5>
+
+<p style='text-align:justify'>The input contains several (partially) filled
+grids, each representing a Su <span class=SpellE>Doku</span> puzzle. For every
+puzzle there are 9 lines with 9 digits giving the puzzle in row major order.
+Empty places in the puzzle are represented by the digit 0 (zero). Digits on a
+line are separated by one space. The grids are separated by one empty line.</p>
+
+<p style='text-align:justify'>The first grid in the sample input represents the
+puzzle given in the picture.</p>
+
+<h4><span class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:
+10.0pt;mso-bidi-font-family:"Times New Roman"'>Output </span></span><span
+class=StyleArial16pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'><o:p></o:p></span></span></h4>
+
+<p style='text-align:justify'>For every grid in the input, determine one of the
+following four verdicts: </p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l3 level1 lfo6;tab-stops:list .5in'>&quot;Illegal&quot;
+     if the puzzle violates one of the three rules; </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l3 level1 lfo6;tab-stops:list .5in'>&quot;Unique&quot;
+     if only one solution exists; </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l3 level1 lfo6;tab-stops:list .5in'>&quot;Ambiguous&quot;
+     if more than one solution exists; </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l3 level1 lfo6;tab-stops:list .5in'>&quot;Impossible&quot;
+     if no solution exists; </li>
+</ul>
+
+<p class=MsoNormal style='text-align:justify'>Print one line per grid, in the <span
+class=SpellE>format:&quot;Case</span> &lt;N<span class=GramE>&gt;:</span>
+&lt;VERDICT&gt;.&quot;, where N is the case number, starting from 1, and
+VERDICT is one of the four words in the list. See the sample output for the
+exact format.</p>
+
+<p style='text-align:justify'><b>Note</b>: an &quot;Illegal&quot; puzzle is
+also &quot;Impossible&quot;, of course, but your program should print
+&quot;Illegal&quot; in that case. Only print &quot;Impossible&quot; if the
+input doesn't violate one of the three rules, but the puzzle still can't be
+solved.</p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'><o:p>&nbsp;</o:p></p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial;font-style:normal'>Sample
+Input<span style='mso-spacerun:yes'>                              
+</span>Output for Sample Input<o:p></o:p></span></b></h1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='background:#CCCCCC;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=399 valign=top style='width:239.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'><pre><b
+  style='mso-bidi-font-weight:normal'>0 <span class=SpellE>0</span> 3 9 0 <span
+  class=SpellE>0</span> 7 6 0<o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'>0 4 0 <span class=SpellE>0</span> <span class=SpellE>0</span> 6 0 <span
+  class=SpellE>0</span> 9<o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'>6 0 7 0 1 0 <span class=SpellE>0</span> <span class=SpellE>0</span> 4<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>2 0 <span class=SpellE>0</span> 6 7 0 <span
+  class=SpellE>0</span> 9 0<o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'>0 <span class=SpellE>0</span> 4 3 0 5 6 0 <span class=SpellE>0</span><o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>0 1 0 <span class=SpellE>0</span> 4 9 0 <span
+  class=SpellE>0</span> 7<o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'>7 0 <span class=SpellE>0</span> <span class=SpellE>0</span> 9 0 2 0 1<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>3 0 <span class=SpellE>0</span> 2 0 <span
+  class=SpellE>0</span> <span class=SpellE>0</span> 4 0<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>0 2 9 0 <span class=SpellE>0</span> 8 5 0 <span
+  class=SpellE>0</span> <o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'><o:p>&nbsp;</o:p></b></pre><pre><b style='mso-bidi-font-weight:normal'>0 <span
+  class=SpellE>0</span> 3 9 0 <span class=SpellE>0</span> 7 6 0<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>0 4 0 <span class=SpellE>0</span> <span
+  class=SpellE>0</span> 6 0 <span class=SpellE>0</span> 9<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>6 0 <span class=SpellE>0</span> <span
+  class=SpellE>0</span> 1 0 <span class=SpellE>0</span> <span class=SpellE>0</span> 4<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>0 <span class=SpellE>0</span> <span
+  class=SpellE>0</span> 6 7 0 <span class=SpellE>0</span> 9 0<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>0 <span class=SpellE>0</span> 4 0 <span
+  class=SpellE>0</span> 5 6 0 <span class=SpellE>0</span><o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>0 1 0 <span class=SpellE>0</span> 4 9 0 <span
+  class=SpellE>0</span> <span class=SpellE>0</span><o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>7 0 <span class=SpellE>0</span> <span
+  class=SpellE>0</span> 9 0 2 0 1<o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'>3 0 <span class=SpellE>0</span> 2 0 <span class=SpellE>0</span> <span
+  class=SpellE>0</span> 4 0<o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'>0 2 0 <span class=SpellE>0</span> <span class=SpellE>0</span> 8 5 0 <span
+  class=SpellE>0</span> <o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'><o:p>&nbsp;</o:p></b></pre><pre><b style='mso-bidi-font-weight:normal'>0 <span
+  class=SpellE>0</span> 3 9 0 <span class=SpellE>0</span> 7 6 0<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>0 4 0 <span class=SpellE>0</span> <span
+  class=SpellE>0</span> 6 0 <span class=SpellE>0</span> 9<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>6 0 7 0 1 0 <span class=SpellE>0</span> <span
+  class=SpellE>0</span> 4<o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'>2 0 <span class=SpellE>0</span> 6 7 0 <span class=SpellE>0</span> 9 0<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>0 <span class=SpellE>0</span> 4 3 0 5 6 0 <span
+  class=SpellE>0</span><o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'>0 1 0 <span class=SpellE>0</span> 4 9 0 <span class=SpellE>0</span> 7<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>7 2 0 <span class=SpellE>0</span> 9 0 2 0 1<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>3 0 <span class=SpellE>0</span> 2 0 <span
+  class=SpellE>0</span> <span class=SpellE>0</span> 4 0<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>0 2 9 0 <span class=SpellE>0</span> 8 5 0 <span
+  class=SpellE>0</span> <o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'><o:p>&nbsp;</o:p></b></pre><pre><b style='mso-bidi-font-weight:normal'>0 <span
+  class=SpellE>0</span> 3 9 0 <span class=SpellE>0</span> 7 6 0<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>0 4 0 <span class=SpellE>0</span> <span
+  class=SpellE>0</span> 6 0 <span class=SpellE>0</span> 9<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>6 0 7 0 1 0 <span class=SpellE>0</span> <span
+  class=SpellE>0</span> 4<o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'>2 0 <span class=SpellE>0</span> 6 7 0 <span class=SpellE>0</span> 9 0<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>0 <span class=SpellE>0</span> 4 3 0 5 6 0 <span
+  class=SpellE>0</span><o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'>0 1 0 <span class=SpellE>0</span> 4 9 0 <span class=SpellE>0</span> 7<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>7 5 0 <span class=SpellE>0</span> 9 0 2 0 1<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>3 0 <span class=SpellE>0</span> 2 0 <span
+  class=SpellE>0</span> <span class=SpellE>0</span> 4 0<o:p></o:p></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'>0 2 9 0 <span class=SpellE>0</span> 8 5 0 <span
+  class=SpellE>0</span> <o:p></o:p></b></pre><pre><b><span style='mso-bidi-font-size:
+  12.0pt'><o:p>&nbsp;</o:p></span></b></pre></td>
+  <td width=371 valign=top style='width:222.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'><pre><b style='mso-bidi-font-weight:
+  normal'>Case 1: Unique.<o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'>Case 2: Ambiguous.<o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'>Case 3: Illegal.<o:p></o:p></b></pre><pre><b style='mso-bidi-font-weight:
+  normal'>Case 4: Impossible.<o:p></o:p></b></pre>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'>Problem setter: Little Joey (Joachim)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'>Special Thanks: Jimmy </span></b><b><span style='font-family:
+Arial'>Mårdell, EPS </span></b><b><span style='mso-bidi-font-size:12.0pt;
+font-family:Arial;color:windowtext'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:12.0pt;font-family:Arial;
+color:windowtext'><o:p>&nbsp;</o:p></span></p>
+
+<h2>Epilogue (not required to solve the problem)</h2>
+
+<p>The (unique) solution to the given puzzle is:</p>
+
+<pre><o:p>&nbsp;</o:p></pre><pre>1 5 3 9 8 4 7 6 2</pre><pre>8 4 2 7 3 6 1 5 9</pre><pre>6 9 7 5 1 2 8 3 4</pre><pre>2 3 8 6 7 1 4 9 5</pre><pre>9 7 4 3 2 5 6 1 8</pre><pre>5 1 6 8 4 9 3 2 7</pre><pre>7 6 5 4 9 3 2 8 1</pre><pre>3 8 1 2 5 7 9 4 6</pre><pre>4 2 9 1 6 8 5 7 3</pre>
+
+<p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>If
+you are interested in the fascinating world of Su <span class=SpellE>Dokus</span>
+and solving them by hand, Google is a good starting point. Also <span
+class=SpellE>Wikipedia</span> has a nice entry on Su <span class=SpellE>Dokus</span>
+describing their history and giving some mathematical background. </p>
+
+<p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='mso-bidi-font-size:12.0pt;font-family:Arial;color:windowtext'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

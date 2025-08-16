@@ -1,0 +1,195 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Problem H: Fold-up Patterns</TITLE>
+<META NAME="description" CONTENT="Problem H: Fold-up Patterns">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Problem H: Fold-up Patterns</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Background</A>&nbsp;</FONT>
+</H2>
+Fold-up patterns for solids like cubes or octahedrons can be found in many
+books, but without actually folding them it is hard to tell whether they will
+really work. We will restrict our attention to a special class of patterns.
+
+<P>
+
+<P>
+<BR>
+
+<DIV ALIGN="CENTER">
+
+<img src=p10046a.gif width=700>
+</DIV>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+The Problem</A>&nbsp;</FONT>
+</H2>
+Given a fold-up pattern built from unit squares in the plane, together with a 
+description along what edges it should be folded in what direction, decide
+whether it will result in a closed surface of a solid in three dimensions.
+If it does, find the volume of the solid.
+
+<P>
+More precisely, the pattern consists of a connected set of unit
+squares in the plane. For any edge between connected sides you are
+told whether to fold forward, back, or not at all along that edge,
+always at right angles. If an edge of two adjacent squares in the
+pattern is not mentioned in the input, you may assume that the squares
+are not connected and can be ripped apart when folding. However,
+connected edges must always be folded according to the description.
+
+<P>
+For our purposes a closed surface is one so that every square in the
+pattern separates the inside from the outside. When folded, the squares of 
+the pattern lie on a rectangular, 3-dimensional grid, and each separates a cell
+(cubes of side length one unit) on the inside from one on the outside. For
+every cell it must be clear whether it is inside or outside. The following
+sketch illustrates this rule in two dimensions (the ``insides'' are shaded).
+
+<P>
+
+<P>
+<BR>
+
+<DIV ALIGN="CENTER">
+
+<img src=p10046b.gif width=700>
+</DIV>
+
+<P>
+Note that according to our definition the second pattern in the sketch at 
+the top of the page is a closed surface, although it rather looks like two 
+separate cubes attached along an edge.
+
+<P>
+Two different squares must not occupy exactly the same position in
+space, though they may (and should for a closed surface) touch at
+edges and vertices. Make sure that the pattern does not interpenetrate
+itself through connected edges. Apart from that, do not worry about
+the process of folding, e.g. what edges are folded first or whether
+part of the structure is in the way for the rest.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+The Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of the input specifies the number of scenarios. 
+
+<P>
+For each scenario, the first line provides the number 
+<!-- MATH: $1\leq n\leq 1000$ -->
+<IMG
+ WIDTH="105" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10046img1.gif"
+ ALT="$1\leq n\leq 1000$">
+of 
+squares in the pattern and the number 
+<!-- MATH: $0\leq e\leq 4000$ -->
+<IMG
+ WIDTH="103" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10046img2.gif"
+ ALT="$0\leq e\leq 4000$">
+of edges. Squares are 
+labelled by the integers 0 to (<I>n</I>-1). The following <I>e</I> lines describe one 
+edge each using the following four numbers:
+<UL>
+<LI>
+The two numbers <I>s</I><SUB>1</SUB> and <I>s</I><SUB>2</SUB> (with 
+<!-- MATH: $0\leq s_1<s_2<n$ -->
+<IMG
+ WIDTH="125" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10046img3.gif"
+ ALT="$0\leq s_1<s_2<n$">)
+of the squares that 
+are joined by the edge.
+<LI>
+The position <I>p</I> of the square <I>s</I><SUB>2</SUB> with respect to the square <I>s</I><SUB>1</SUB> in the
+pattern. Here <I>p</I>=0,1,2, or 3 mean above, to the left, below, or to the
+right, respectively (see sketch).
+<LI>The number <I>f</I>=0,1,2 tells you to fold along the edge either not at all, or 
+forward, or back, respectively.
+</UL>
+It is guaranteed that the folded pattern fits in a cube with a side length of 
+40. You can also assume that the pattern is connected and can be drawn in the 
+plane without overlapping.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+The Output</A>&nbsp;</FONT>
+</H2>
+For each scenario print a line containing either 
+``<code>Not a closed surface</code>'' 
+if the pattern does not form a closed surface or 
+``<code>Closed surface, volume=</code>'' 
+and the volume as an integer if it does. 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2
+6 5
+0 2 2 1
+1 2 3 1
+2 3 3 1
+2 4 2 1
+4 5 2 0
+12 11
+0 3 2 1
+1 5 2 1
+2 3 3 1
+3 4 3 1
+4 5 3 2
+5 6 3 1
+6 7 3 1
+7 8 3 1
+8 9 3 2
+3 10 2 1
+5 11 2 1
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Not a closed surface
+Closed surface, volume=2
+</PRE>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-11-19</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

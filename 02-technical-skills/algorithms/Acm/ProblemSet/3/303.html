@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Pipe</TITLE>
+<META NAME="description" CONTENT="Pipe">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Pipe</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The GX Light Pipeline Company started to prepare bent pipes for the new
+transgalactic light pipeline.
+During the design phase of the new pipe shape the company ran into the
+problem of determining how far
+the light can reach inside each component of the pipe. Note that the
+material which the pipe is made from
+is not transparent and not light reflecting.
+<P>
+<center><img src=303img10.gif></center>
+<P>
+Each pipe component consists of many straight pipes connected tightly together.
+For the programming
+purposes, the company developed the description of each component as a
+sequence of points  <IMG WIDTH=199 HEIGHT=27 ALIGN=MIDDLE ALT="tex2html_wrap_inline31" SRC="303img1.gif"  > , where
+ <IMG WIDTH=142 HEIGHT=19 ALIGN=MIDDLE ALT="tex2html_wrap_inline33" SRC="303img2.gif"  >  . These are the upper points of the pipe contour.
+The bottom points
+of the pipe contour consist of points with <I>y</I>-coordinate decreased by 1.
+To each upper point  <IMG WIDTH=44 HEIGHT=27 ALIGN=MIDDLE ALT="tex2html_wrap_inline37" SRC="303img3.gif"  >  there
+is a corresponding bottom point  <IMG WIDTH=74 HEIGHT=27 ALIGN=MIDDLE ALT="tex2html_wrap_inline39" SRC="303img4.gif"  >  (see picture above). The
+company wants to find, for each pipe
+component, the point with maximal <I>x</I>-coordinate that the light will reach.
+The light is emitted by a segment source with endpoints  <IMG WIDTH=78 HEIGHT=27 ALIGN=MIDDLE ALT="tex2html_wrap_inline43" SRC="303img5.gif"  > 
+and  <IMG WIDTH=48 HEIGHT=27 ALIGN=MIDDLE ALT="tex2html_wrap_inline45" SRC="303img6.gif"  >  (endpoints are emitting light too). Assume that the light is
+not bent at the pipe bent points and the bent points do not stop the light beam.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input file contains several blocks each describing one pipe component.
+Each block starts with the
+number of bent points  <IMG WIDTH=81 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline47" SRC="303img7.gif"  >  on separate line. Each of the next <I>n</I>
+lines contains a pair of real values  <IMG WIDTH=35 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline51" SRC="303img8.gif"  > 
+separated by space. The last block is denoted with <I>n</I> = 0.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+The output file contains lines corresponding to blocks in input file.
+To each block in the input file there
+is one line in the output file. Each such line contains either a real value,
+written with precision of two decimal
+places, or the message <TT>Through all the pipe.</TT>. The real value is the
+desired maximal <I>x</I>-coordinate of the
+point where the light can reach from the source for corresponding pipe
+component. If this value equals to
+ <IMG WIDTH=17 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline57" SRC="303img9.gif"  > , then the message <TT>Through all the pipe.</TT> will appear in the
+output file.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>4
+0 1
+2 2
+4 1
+6 4
+6
+0 1
+2 -0.6
+5 -4.45
+7 -5.57
+12 -10.8
+17 -16.55
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>4.67
+Through all the pipe.</PRE>
+<P>
+</BODY>
+</HTML>

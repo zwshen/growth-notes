@@ -1,0 +1,158 @@
+<title>D :: Dying Tree</title>
+<style type="text/css">
+<!--
+.style1 {
+	font-family: Garamond;
+	font-weight: bold;
+	font-size: 28px;
+	color: #FFFFFF;
+}
+.style2 {
+	color: #0000FF;
+	font-weight: bold;
+}
+.style4 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 18px;
+	color: #0000FF;
+}
+.style10 {font-family: "Courier New", Courier, monospace; font-weight: bold; font-size: 13px; }
+.style12 {font-family: Garamond; font-weight: bold; font-size: 16px; color: #FFFFFF; }
+-->
+</style>
+<body>
+<table width="100%" border="0">
+  <tr>
+    <td width="3%" height="38">&nbsp;</td>
+    <td  width="26%" bgcolor="#0000FF"><div align="center" class="style1">Problem D </div></td>
+    <td bgcolor="#0000FF" width="35%"><div align="center"><span class="style1">
+    Dying Tree</span></div></td>
+    <td width="26%" align="center" valign="middle" bgcolor="#0000FF"><div align="center"><span class="style12">Time 
+    Limit : 2 seconds</span></div></td>
+    <td width="8%"><div align="center"></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3">
+      <p align="justify"><br><font face="Calibri">Once upon the time in the forest, there were 
+        lots of trees who were all friends to one another. One of the trees T was very 
+        sick. She needed a tree doctor to save her life. As you may already know, trees 
+        can't move, but what you probably didn't know is that they can talk. Each tree 
+        t1 can talk to tree t2 if the minimum distance between any two branches from 
+        each 
+        is less than or equal to some value <span class="style10">k</span>. All trees decided to help their sick 
+        friend by trying to reach a doctor tree. They will continue to tell one another 
+        that tree T is sick until some tree S finds a tree doctor (who is at distance <span class="style10">d</span>      or less from any branch of tree S). S will tell the doctor about her friend so he can go help 
+        her.</font></p>
+      <ul>
+        <li>
+          <p align="left"><font face="Calibri">A tree is represented by a set of points 
+            representing her branches.</font>      
+        </li>
+        <li>
+          <p align="left"><font face="Calibri">A doctor is represented by a single 
+            point.</font>      
+        </li>
+      </ul>
+    <p align="left"><font face="Calibri"></font></p></td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2"><span class="style4">Input</span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3" align="justify"><p align="justify">Input begins with a number <span class="style10">t</span> &lt; 100   representing the number of test cases; t test cases follow. Each test case   begins with 4 integers 0 &lt; <span class="style10">n</span> &lt; 100, 0 &lt; <span class="style10">m</span> &le; 10, 0 &le; <span class="style10">k, d</span> &le; 100 where n   is the number of trees in the forest, <span class="style10">m</span> is the number of doctors in the forest,   <span class="style10">k</span> &amp; <span class="style10">d</span> are as described above. The next m lines represent the positions of   doctors in x, y coordinates. The following lines describe the set of trees in   the forest. Each set begins with an integer 0 &lt; <span class="style10">b</span> &lt; 10 representing the   number of branches this tree has. Followed by b points representing the branches   positions. The sick tree is always the first tree in the input. All points   coordinates are integers with absolute values less than or equal to   1000.</p>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3"><span class="style4">Output</span></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3" align="justify"><p align="left">For each test case determine whether or not the   trees can help their friend by finding a doctor for her. If yes, then print   "Tree can be saved :)", if no then print "Tree can't be saved :(".</p></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><span class="style4">Sample Input</span></td>
+    <td><span class="style4">Sample Output </span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+
+    <td valign="top"><p align="left" class="style10">2<BR>
+      3 2 2 3<BR>
+      3 8<BR>
+      7 4<BR>
+      <strong>4</strong><BR>
+      0   0<BR>
+      1 1<BR>
+      3 2<BR>
+      2 0<BR>
+      <strong>3</strong><BR>
+      6 -1<BR>
+      7 1<BR>
+      8 2<BR>
+      <strong>3</strong><BR>
+      -1   -1<BR>
+      2 -3<BR>
+      5 -2<BR>
+      3 2 1 2<BR>
+      3 8<BR>
+      7 4<BR>
+      <strong>4</strong><BR>
+      0 0<BR>
+      1 1<BR>
+      3   2<BR>
+      2 0<BR>
+      <strong>3</strong><BR>
+      6 -1<BR>
+      7 1<BR>
+      8 2<BR>
+      <strong>3</strong><BR>
+      -1 -1<BR>
+      2 -3<BR>
+    5   -2</p></td>
+
+    <td valign="top"><span class="style10">Tree can be saved :)<BR>
+      Tree can't be saved :(<br>
+    <br />
+</span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td class="style10" colspan="3"><hr />
+      <p>Problem Setter: Asmaa Magdi<br /> 
+        Special Thanks: Muhammad Magdy<br>
+      Alternate Solution: Sohel Hafiz </p>
+      <p>Illustration: The following diagram depicts Sample #1 </p>
+      <p><img src="p11474.png"></p></td>
+    <td valign="top">&nbsp;</td>
+    <td width="1%">&nbsp;</td>
+    <td width="1%">&nbsp;</td>
+  </tr>
+</table>
+</body>

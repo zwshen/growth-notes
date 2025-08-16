@@ -1,0 +1,182 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Word Search Wonder</TITLE>
+<META NAME="description" CONTENT="Word Search Wonder">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Word Search Wonder</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Word search is a game enjoyed by all ages. The basic idea is to find certain specified words
+within a given matrix of letters.
+
+<P>
+One interesting means of constructing a word search matrix is to take some written text (in
+upper case), strip out all but the characters <TT>A-Z</TT>, and format the resulting sequence of characters
+into columns of <I>s</I> characters. That is, taking <I>s</I> = 9 and given the text
+
+<P>
+
+<P>
+<BR>
+Our revels now are ended. These our actors, 
+<P>
+As I foretold you, were all spirits and 
+<P>
+Are melted into air, into thin air: 
+<P>
+And, like the baseless fabric of this vision, 
+<P>
+The cloud-capp'd towers, the gorgeous palaces, 
+<P>
+The solemn temples, the great globe itself, 
+<P>
+Ye all which it inherit, shall dissolve 
+<P>
+And, like this insubstantial pageant faded, 
+<P>
+Leave not a rack behind. We are such stuff 
+<P>
+As dreams are made on, and our little life 
+<P>
+Is rounded with a sleep. 
+<P>
+
+<P>
+<BR>
+We obtain the following word-search matrix:
+
+<P>
+<PRE>
+          ONERIYLNEIITSFODEGCESGLHEDNSNAEAWSEDRFEE
+          UODAFOSDDNRHSTNCREEMTLFIRIDITNACETAELEDE
+          RWTCOUPAITAEFHTASOSNHOYCISLNITVKAUMOIIWP
+          RAHTRWIRNONBAIHPTUTTEBEHTSISAFEBRFSNTSI
+          EREOEERETTDABSEPHSHEGEAISOKULANEEFAATRT
+          VESRTRIMOHLSRVCDEPEMRIATHLEBPDOHSARNLOH
+          EEESOETEAIIEIILTGASPETLIAVTSAETIUSEDEUA
+          LNOALASLINKLCSOOOLOLASLNLEHTGDANCDMOLNS
+          SDUSDLATRAEEOIUWRALETEWHLAIAELRDHRAUIDL
+</PRE>
+
+<P>
+We can now search this matrix for words. For example, the word ``<TT>SAFE</TT>'' can be found starting
+at lexicographic position 246 and running eastward in the text
+(by lexicographic position we mean the numerical position with the search matrix when counting consecutively
+and column-wise from the first character, which is position 0).
+Since, running row-wise, we
+are looking at every <I>s</I>'th character, the value of <I>s</I> is sometimes called a <EM>skip</EM> value.
+
+<P>
+
+<P>
+<BR>
+For this problem, you will be given search words, a search text, and a skip value. Your job
+(well, really, your program's job) is to find the location of each of the search words within the
+search text, formatted into a search matrix according to the given skip value.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input is an integer K, then a blank line followed by K datasets. There is a blank line between datasets.
+
+<p>The first line of each dataset contains a single integer specifying the skip value to use in doing the
+word search. The second line will contain a single integer <I>m</I> specifying the number of words to
+search for. The next <I>m</I> lines will contain the words to search for, one word per line. The words
+will be given in all uppercase. No word will be more than 32 characters in length. There will
+be a maximum of 128 search words. After the search words will be a line containing a single
+integer <I>n</I> giving the number of lines in the search text. The next <I>n</I> lines contain the search text.
+
+<P>
+
+<P>
+<BR>
+No line of search text will be more than 128 characters long. All characters in the text will be
+upper case. There will be a maximum of 5452 lines.(The number of lines in Hamlet.)
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Each line of output should contain a search word, the lexicographical location of the first character of the word in the search text, and its orientation (the direction in which the rest of
+characters are oriented with respect to the first character). 
+
+<P>
+Valid directions are <TT>N</TT>, <TT>NE</TT>, <TT>E</TT>, <TT>SE</TT>, <TT>S</TT>,
+<TT>SW</TT>, <TT>W</TT>, and <TT>NW</TT>, in that order of precedence, indicating text running in the corresponding directions within the word search
+text matrix. If a word occurs more than once in the search matrix, you should print out only the
+location with the lowest lexicographical position of the first
+letter. The words in the output should be ordered as given in the input.
+Each line of output should contain the search word, followed by a space, then the lexicographic
+position of the word, followed by another space, and finally the direction that word runs in
+the search text. If a word is not found in the search matrix, the line should contain the word
+followed by a space and then the text
+<TT>NOT FOUND</TT>
+
+<P>Print a blank line between datasets.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1
+
+9
+5
+SAFE
+TOES
+SHAKE
+SPEARE
+GLOBE
+11
+OUR REVELS NOW ARE ENDED. THESE OUR ACTORS,
+AS I FORETOLD YOU, WERE ALL SPIRITS, AND
+ARE MELTED INTO AIR, INTO THIN AIR:
+AND, LIKE THE BASELESS FABRIC OF THIS VISION,
+THE CLOUD-CAPP'D TOWERS, THE GORGEOUS PALACES,
+THE SOLEMN TEMPLES, THE GREAT GLOBE ITSELF,
+YEA, ALL WHICH IT INHERIT, SHALL DISSOLVE,
+AND, LIKE THIS INSUBSTANTIAL PAGEANT FADED,
+LEAVE NOT A RACK BEHIND. WE ARE SUCH STUFF
+AS DREAMS ARE MADE ON; AND OUR LITTLE LIFE
+IS ROUNDED WITH A SLEEP.
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+SAFE 246 E
+TOES 85 SW
+SHAKE NOT FOUND
+SPEARE NOT FOUND
+GLOBE 189 S
+</PRE>
+
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1998-03-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

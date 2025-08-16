@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Kibbles `n' Bits `n' Bits `n' Bits</TITLE>
+<META NAME="description" CONTENT="Kibbles `n' Bits `n' Bits `n' Bits">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Kibbles `n' Bits `n' Bits `n' Bits</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+A certain frazzled programmer is writing a program that receives
+two numbers at a time in hexadecimal form, performs an addition
+or subtraction on them, and outputs the result in decimal form.
+However, the binary representation of the hexadecimal numbers
+also needs to be output, in the exact format shown by the sample output below.
+<P>
+<P>
+This programmer would gladly write the routine to do this
+himself, but every time he tries to do anything in base 2, he
+breaks out in hives.  So if you write this little routine for
+him, he would be eternally grateful.
+<P>
+<P>
+You may assume the following:
+<UL><LI> The largest allowable hexadecimal number is <TT>FFF</TT>.<LI> When subtracting, the second number will always be smaller
+     than the first, i.e. no negative results.<LI> The spacing in the input file will be uniform throughout,
+     i.e. no spaces at the beginning of a line, and one space
+     between each element.
+</UL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input for this program will come from a file.  The format for
+the file is as follows:
+<P>
+<P>
+<P>
+<I>N</I> (This is the number of expressions to compute)
+<P>
+<I>HEX</I>1 (+ or -) <I>HEX</I>2 (The first expression)
+<P>
+ .
+<P>
+ .
+<P>
+ .
+<P>
+<I>HEX</I>1 (+ or -) <I>HEX</I>2 (The <I>n</I>th expression)
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+The output file should be in the following format:
+<P>
+<P>
+<P>
+<I>BINARY</I>1 (+ or -) <I>BINARY</I>2 = <I>DECIMAL</I> (first result)
+<P>
+ .
+<P>
+ .
+<P>
+ .
+<P>
+<I>BINARY</I>1 (+ or -) <I>BINARY</I>2 = <I>DECIMAL</I> (<I>n</I>th result)
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>2
+A + 3
+AAA + BBB</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>0000000001010 + 0000000000011 = 13
+0101010101010 + 0101110111011 = 5733</PRE>
+<P>
+</BODY>
+</HTML>

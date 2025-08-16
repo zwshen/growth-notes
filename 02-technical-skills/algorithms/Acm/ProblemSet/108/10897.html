@@ -1,0 +1,224 @@
+
+<!--Converted with LaTeX2HTML 2002-2-1 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>C: Travelling Distance</TITLE>
+<META NAME="description" CONTENT="C: Travelling Distance">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2002-2-1">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+C: Travelling Distance</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+In geography, you have probably learned that locations on Earth are represented by latitude and longitude. Lines of latitude run in the same direction as the Equator. Latitudes start at the Equator, which is <SPAN CLASS="MATH"><IMG
+ WIDTH="21" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img1.png"
+ ALT="$0^{\circ}$"></SPAN>, representing the North-South direction. The range of latitudes is <SPAN CLASS="MATH"><IMG
+ WIDTH="38" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img2.png"
+ ALT="$180^{\circ}$"></SPAN>: from <SPAN CLASS="MATH"><IMG
+ WIDTH="45" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img3.png"
+ ALT="$90^{\circ}N$"></SPAN> (North Pole) to <SPAN CLASS="MATH"><IMG
+ WIDTH="21" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img1.png"
+ ALT="$0^{\circ}$"></SPAN>, and from <SPAN CLASS="MATH"><IMG
+ WIDTH="21" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img1.png"
+ ALT="$0^{\circ}$"></SPAN> to <SPAN CLASS="MATH"><IMG
+ WIDTH="41" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img4.png"
+ ALT="$90^{\circ}S$"></SPAN> (South Pole). Lines of longitude run from North Pole to South Pole. Longitudes start at the meridian of Greenwich, which is <SPAN CLASS="MATH"><IMG
+ WIDTH="21" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img1.png"
+ ALT="$0^{\circ}$"></SPAN>, representing the East-West direction. The range of longitudes is <SPAN CLASS="MATH"><IMG
+ WIDTH="38" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img5.png"
+ ALT="$360^{\circ}$"></SPAN>: from <SPAN CLASS="MATH"><IMG
+ WIDTH="52" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img6.png"
+ ALT="$180^{\circ}E$"></SPAN> to <SPAN CLASS="MATH"><IMG
+ WIDTH="21" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img1.png"
+ ALT="$0^{\circ}$"></SPAN>, and from <SPAN CLASS="MATH"><IMG
+ WIDTH="21" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img1.png"
+ ALT="$0^{\circ}$"></SPAN> to <SPAN CLASS="MATH"><IMG
+ WIDTH="57" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img7.png"
+ ALT="$180^{\circ}W$"></SPAN>. Therefore <SPAN CLASS="MATH"><IMG
+ WIDTH="52" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img6.png"
+ ALT="$180^{\circ}E$"></SPAN> is the same as <SPAN CLASS="MATH"><IMG
+ WIDTH="57" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img7.png"
+ ALT="$180^{\circ}W$"></SPAN>. 
+
+<P>
+Latitudes and longitudes use degrees as their unit. Degrees use minutes and seconds instead of plain decimal digits. 1 degree has 60 minutes, and 1 minute has 60 seconds. Only seconds have decimal digits. For example, Kingston, Ontario, is located at <!-- MATH
+ $44^{\circ}16'N$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="67" HEIGHT="17" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img8.png"
+ ALT="$44^{\circ}16'N$"></SPAN>, <!-- MATH
+ $76^{\circ}30'W$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="70" HEIGHT="17" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img9.png"
+ ALT="$76^{\circ}30'W$"></SPAN>, and Toronto, Ontario, is located at <!-- MATH
+ $43^{\circ}41'N$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="67" HEIGHT="17" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img10.png"
+ ALT="$43^{\circ}41'N$"></SPAN>, <!-- MATH
+ $79^{\circ}38'W$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="70" HEIGHT="17" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img11.png"
+ ALT="$79^{\circ}38'W$"></SPAN>. 
+
+<P>
+Assuming the Earth is a perfect sphere, the mean radius of the Earth is 6371.01 km. If you are given the latitude and longitude of two locations, can you find out the minimum walking distance between the two locations?
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input starts with a line containing a number <SPAN CLASS="MATH"><IMG
+ WIDTH="15" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img12.png"
+ ALT="$n$"></SPAN>, which is the number of pairs of locations, followed by <SPAN CLASS="MATH"><IMG
+ WIDTH="15" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img12.png"
+ ALT="$n$"></SPAN> lines. Each line consists of the position of the two locations, separated by a space. Positions are in the format of:
+<BR><P></P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+<!-- MATH
+ \begin{displaymath}
+a \ b \ c \ X \ d \ e \ f \ Y
+\end{displaymath}
+ -->
+
+<IMG
+ WIDTH="122" HEIGHT="30" BORDER="0"
+ SRC="10897img13.png"
+ ALT="\begin{displaymath}
+a \ b \ c \ X \ d \ e \ f \ Y
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+The first four represent the latitude. <SPAN CLASS="MATH"><IMG
+ WIDTH="20" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img14.png"
+ ALT="$X$"></SPAN> is either the character `<TT>N</TT>' or `<TT>S</TT>', and the latitude is <!-- MATH
+ $a^{\circ}b'c''X$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="65" HEIGHT="17" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img15.png"
+ ALT="$a^{\circ}b'c''X$"></SPAN> (<SPAN CLASS="MATH"><IMG
+ WIDTH="14" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img16.png"
+ ALT="$a$"></SPAN> degrees, <SPAN CLASS="MATH"><IMG
+ WIDTH="12" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img17.png"
+ ALT="$b$"></SPAN> minutes, and <SPAN CLASS="MATH"><IMG
+ WIDTH="12" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img18.png"
+ ALT="$c$"></SPAN> seconds). The next four represent the longitude. <SPAN CLASS="MATH"><IMG
+ WIDTH="18" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img19.png"
+ ALT="$Y$"></SPAN> is either the character `<TT>E</TT>' or `<TT>W</TT>', and the longitude is <!-- MATH
+ $d^{\circ}e'f''Y$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="66" HEIGHT="35" ALIGN="MIDDLE" BORDER="0"
+ SRC="10897img20.png"
+ ALT="$d^{\circ}e'f''Y$"></SPAN>. Each is separated by a space. <SPAN CLASS="MATH"><IMG
+ WIDTH="14" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img16.png"
+ ALT="$a$"></SPAN>, <SPAN CLASS="MATH"><IMG
+ WIDTH="12" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img17.png"
+ ALT="$b$"></SPAN>, <SPAN CLASS="MATH"><IMG
+ WIDTH="13" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img21.png"
+ ALT="$d$"></SPAN>, <SPAN CLASS="MATH"><IMG
+ WIDTH="12" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img22.png"
+ ALT="$e$"></SPAN> are integers, while <SPAN CLASS="MATH"><IMG
+ WIDTH="12" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img18.png"
+ ALT="$c$"></SPAN> and <SPAN CLASS="MATH"><IMG
+ WIDTH="15" HEIGHT="33" ALIGN="MIDDLE" BORDER="0"
+ SRC="10897img23.png"
+ ALT="$f$"></SPAN> are floating point numbers with two decimal digits.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The output consists of <SPAN CLASS="MATH"><IMG
+ WIDTH="15" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="10897img12.png"
+ ALT="$n$"></SPAN> lines, each lines contain a number with two decimal digits, in km, the minimum surface distance between the two locations on Earth. Note that you must travel on the surface of the Earth. You can assume that there is no mountain between the two places.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2
+44 16 0.00 N 76 30 0.00 W 43 41 0.00 N 79 38 0.00 W
+22 18 12.34 N 114 10 56.78 E 49 11 43.21 N 123 10 7.65 W
+</PRE> 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+258.97
+10255.47
+</PRE> 
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

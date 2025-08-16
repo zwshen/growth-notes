@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Bicoloring</TITLE>
+<META NAME="description" CONTENT="Problem E: Bicoloring">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Bicoloring</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+In 1976 the ``Four Color Map Theorem" was proven with the assistance of a
+computer. This theorem states that every map can be colored using only four
+colors, in such a way that no region is colored using the same color as a
+neighbor region. 
+
+<P>
+Here you are asked to solve a simpler similar problem. You
+have to decide whether a given arbitrary connected graph can be bicolored.
+That is, if one can assign colors (from a palette of two) to the nodes in such
+a way that no two adjacent nodes have the same color. To simplify the problem
+you can assume:
+
+<P>
+<UL>
+<LI>no node will have an edge to itself.
+<LI>the graph is nondirected. That is, if a node <I>a</I> is said to be connected
+to a node <I>b</I>, then you must assume that <I>b</I> is connected to <I>a</I>.
+<LI>the graph will be strongly connected. That is, there will be at least
+one path from any node to any other node.
+</UL>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2> 
+The input consists of several test cases. Each test case
+starts with a line containing the number <I>n</I> (
+<!-- MATH: $1 < n < 200$ -->
+1 &lt; <I>n</I> &lt; 200) of different
+nodes. The second line contains the number of edges <I>l</I>. After this, <I>l</I> lines
+will follow, each containing two numbers that specify an edge between the two
+nodes that they represent. A node in the graph will be labeled using a number
+<I>a</I> (
+<!-- MATH: $0 \le a < n$ -->
+<IMG
+ WIDTH="79" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10004img2.gif"
+ ALT="$0 \le a < n$">). 
+
+<P>
+An input with <I>n</I> = 0 will mark the end of the input and is
+not to be processed.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2> 
+You have to decide whether the input graph can be
+bicolored or not, and print it as shown below.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+3
+3
+0 1
+1 2
+2 0
+9
+8
+0 1
+0 2
+0 3
+0 4
+0 5
+0 6
+0 7
+0 8
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+NOT BICOLORABLE.
+BICOLORABLE.
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-21</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

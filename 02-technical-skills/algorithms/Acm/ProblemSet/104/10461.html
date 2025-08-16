@@ -1,0 +1,175 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./p3_files/filelist.xml">
+<link rel=Edit-Time-Data href="./p3_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem I - Difference</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Administrator</o:Author>
+  <o:LastAuthor>Administrator</o:LastAuthor>
+  <o:Revision>9</o:Revision>
+  <o:TotalTime>6</o:TotalTime>
+  <o:Created>2001-02-20T07:08:00Z</o:Created>
+  <o:LastSaved>2001-02-20T07:14:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>222</o:Words>
+  <o:Characters>1268</o:Characters>
+  <o:Company>BUET</o:Company>
+  <o:Lines>10</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1557</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in' bgcolor="#D0d0FF">
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=5>Problem I</font></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=6>Difference</font></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Input: </b><span style='mso-bidi-font-weight:bold'>standard input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Output: </b>standard output</p>
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Time Limit: </b>6 seconds</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>     You are given a list of jobs with associated time to complete them. 
+Also are given a list of job dependencies. Your job is to calculate the maximum possible difference among all possible completion time of a particular job. 
+For this problem, job dependency is a bit simpler. When a job depends on several other jobs to be completed, finishing of all of them will allow it to execute. 
+Furthermore, jobs cannot be executed in parallel and there will be no idle moment.
+</p>
+<p>
+<center>
+<img src="p10461.jpg">
+</center>
+</p>
+<p class=MsoNormal style='text-align:justify'>
+In the above example job-B cannot be started before A and D. So it can be started  after 5 days and it must be started after
+7 days. Here for job-B, the difference is 2 days.
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Input</font></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>Input starts with a pair of integers <b>v(1<=v<=500)</b> and <b>e(0<=e<=500)</b> where <b>v</b> represents the number of jobs and <b>e</b> represents the number of dependencies in the dependency list. 
+Following is a line with <b>v</b> integers each indicating the time in days to complete the jobs where the i'th integer denotes the completion time of the i'th job. 
+The jobs are numbered by integers from 1 to <b>v</b>. Next <b>e</b> lines has the form "<b>x y</b>" which means that job <b>x</b> should be completed prior to job <b>y(1 <= x, y <= v)</b>. 
+Next line has an integer <b>q</b> which denotes the number of queries to answer which is followed by <b>q</b> integers <b>x (1 <= x <= v)</b>. 
+A line with <b>v</b> = <b>e</b> = 0 ends the input session. Every block will be followed by a blank line.
+There will be no impractical situation (Each job can be completed) in input.
+
+
+ </p>
+
+
+<br>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Output</font></span></b></p>
+<p class=MsoNormal style='text-align:justify'>For each query in a block output the result according to the problem description in a separate line. 
+A blank line is essential after every block of data. See the sample output.
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Input</font></span></b></p>
+<font face="courier" size=3>
+</font>
+<xmp>
+4 4
+4 3 2 1
+2 1
+2 4
+3 1 
+3 4
+2
+1 2 
+
+4 4
+4 3 2 1
+2 1
+2 4
+3 1 
+3 4
+2
+3 4
+
+0 0
+</xmp>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Output</font></span></b></p>
+<font face="courier" size=3>
+<xmp>
+Case #1:
+1
+2
+
+Case #2:
+3
+4
+
+</xmp>
+</font>
+</div>
+<hr size=2 width="100%" align=center>
+<p class=MsoNormal><b><span style='color:windowtext'>Author : Mohammad Sajjad Hossain</span></b></p>
+<i> 
+The Real Programmers' Contest-2 </i>
+
+</body>
+
+</html>

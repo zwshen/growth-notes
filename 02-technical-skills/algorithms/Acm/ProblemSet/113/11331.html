@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Problem I: The Joys of Farming</title>
+	<meta name="author" content="Martin M&uuml;ller">
+	<meta name="generator" content="WebDesign">
+</head>
+<body>
+
+<h2>Problem I: The Joys of Farming</h2>
+
+<p>
+<img src="p11331.png", align="right", hspace=40>
+Farmer John owns <em>b</em> bulls and <em>c</em> cows. 
+He also owns <em>b+c</em> fields where each field can hold either one cow or one bull.
+The fields are located in an area with many hills, so for some pairs of fields the
+animals in those fields cannot see each other.
+
+Unfortunately, his bulls really do not like each other, and neither do his cows. 
+To avoid making any animal angry, John would like to assign the animals
+to fields such that no two bulls can see each other and no two cows can see each other.
+Help determine if John can assign his bulls and cows in such a manner.
+
+<p>
+Input: 
+The first line of input contains <em>n</em>, the number of examples.
+The first line of each example contains integers <em>b, c</em>, and <em>a</em> where <em>0 &le; b,c &le; 1000</em>
+are, respectively, the number of bulls and cows
+and <em>0 &le; a &le; 20,000</em>.
+The next <em>a</em> lines of input each contains two numbers <em>u</em> and <em> v</em>
+which indicates that animals placed in fields <em>u</em> and <em>v</em>
+can see each other.  Fields are numbered from 1 to <em>b+c</em>.
+
+<p>
+Output:
+For each example, output a single line containing <em>yes</em> if peace can be ensured, and <em>no</em> if it can not.
+
+
+
+<h3>Sample input</h3>
+<pre>
+2
+2 2 4
+1 2
+2 3
+3 4
+4 1
+3 1 2
+1 2
+3 4
+</pre>
+
+<h3>Output for sample input</h3>
+<pre>
+yes
+no
+</pre>
+
+<hr>
+
+<em>Martin M&uuml;ller</em>
+
+</body>
+</html>

@@ -1,0 +1,262 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Right Hand Rule</TITLE>
+<META NAME="description" CONTENT="Right Hand Rule">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Right Hand Rule</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Mazes
+are one of the most popular forms of puzzles. The numerous branches and dead
+ends of intricately constructed mazes can put the patience and problem-solving
+skill of the solver to a challenging test. But even for a budding programmer,
+writing a computer program that explores a maze is a trivial task. However, the
+addition of a rather ``not so intelligent" agent to the maze can really make it
+delicate.
+
+<P>
+
+<P>
+<BR>
+There
+are many strategies that one can employ while exploring a maze. Marking off the
+cells, and carrying a ball of thread are two such strategies. There is yet
+another strategy which we call the ``Right Hand Rule". This rule suggests that
+the solver keeps the right hand in constant contact with one of the walls as he
+proceeds. This method guarantees that if there is an exit, the solver will be
+able to reach it, if it is reachable from the cell he started. Otherwise, it
+would take him through every cell that is reachable from his starting cell.
+This may not be the best idea when one would want to go from a cell to another
+cell in the maze. But if we would like to put a programmed agent to keep
+exploring the maze, this rule can be quite useful.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10796a.eps}$
+ -->
+<IMG
+ ALIGN="left" BORDER="0"
+ SRC="p10796a.jpg"
+ ALT="\epsfbox{p10796a.eps}">
+</DIV>
+
+<P>
+In this
+problem, we have one such programmed agent, called ``<B>Agent K</B>", that is
+continuously exploring a rectangular maze. <B>Agent K</B> can move in four directions,
+<B>UP</B>, <B>DOWN</B>, <B>LEFT</B> and <B>RIGHT</B>, but cannot move through
+the walls. <B>K</B> has its right hand in constant contact with the wall.
+It goes through the cells of the maze taking one unit time to make a
+move. It does not take any time to make a turn in the same cell, though.
+It may happen that <B>K</B>
+finds an exit from the maze and falls out.
+But that does not end <B>K</B>'s
+exploration. The moment it falls out,
+it is re-spawned in the cell from where
+its journey began.
+
+<P>
+The
+accompanying picture illustrates this scenario. In a <!-- MATH
+ $10 \times 10$
+ -->
+<SPAN CLASS="MATH">10&#215;10</SPAN> rectangular
+maze, Agent <B>K</B> is placed in cell (9,3) facing <B>UP</B>. The
+impermeable walls are gray, and the passable cells are white. <B>K</B> follows
+the right hand rule and moves along the path in the red line. At time 42,
+<B>K</B> is at cell (3,0) - so at time 43, <B>K</B> is supposed to be out
+of the maze. But instead of falling out, <B>K</B> reappears at cell (9,2)
+at time 43. For some mazes it may happen that <B>K</B> never finds an
+exit. In those cases, <B>K</B> will have a closed path, which in which it would loop
+forever.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p10796b.eps}$
+ -->
+<IMG
+ ALIGN="left" BORDER="0"
+ SRC="p10796b.jpg"
+ ALT="\epsfbox{p10796b.eps}">
+</DIV>
+
+<P>
+Now your task is to find the shortest path from a given starting cell to a
+designated destination cell. You must avoid <B>Agent K</B> at all cost. You may not be in the same cell as <B>K</B> at the same time as him, and you may not walk to a cell if <B>K</B> is walking from that cell to your cell (then you would be caught in the corridor if you and <B>K</B> approach each other from opposite
+direction). You can move in the same four directions as <B>K</B>, and you both
+make your moves simultaneously. Additionally, you may choose to not move, and
+wait one unit of time for agent <B>K</B> to do its next move.
+
+<P>
+Let us
+illustrate this scenario in the same sample maze. If you are to go from cell (1,1) to cell (9,2) in shortest possible time, one approach could be waiting
+at cell (1,1) till time 10 and then start moving along the path
+shown in blue. There are of course, other ways to go from (1,1) to (9,2)
+but the minimum possible time required remains to be 21. You only need
+to compute the minimum time, not the path.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input consists of several test cases. The first
+line of the input file contains a single integer, <SPAN CLASS="MATH"><I>T</I></SPAN> (<!-- MATH
+ $1 \le T \le 25$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10796img3.png"
+ ALT="$ \le$"><I>T</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10796img3.png"
+ ALT="$ \le$">25</SPAN>)
+indicating the number of test cases. Then <SPAN CLASS="MATH"><I>T</I></SPAN> test cases follow. The first line
+of each of the test case would give you the number of rows, <SPAN CLASS="MATH"><I>R</I></SPAN>
+(<!-- MATH
+ $1 \le R \le 20$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10796img3.png"
+ ALT="$ \le$"><I>R</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10796img3.png"
+ ALT="$ \le$">20</SPAN>) and the number of columns, <SPAN CLASS="MATH"><I>C</I></SPAN> (<!-- MATH
+ $1 \le C \le 20$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10796img3.png"
+ ALT="$ \le$"><I>C</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10796img3.png"
+ ALT="$ \le$">20</SPAN>)
+of the maze. In the next line you would find three pairs of numbers and a
+letter. The pairs are given in row, column format representing your starting
+cell, destination cell and agent <B>K</B>'s starting cell respectively. The
+letter at the end of this line can be `<TT>U</TT>', `<TT>D</TT>', `<TT>L</TT>', or `<TT>R</TT>'
+giving you the direction <B>K</B> is facing. So `<TT>1 1 9 2 9 2 U</TT>' would
+essentially mean that you are at cell (1,1), you need to go to cell (9,2),
+and agent <B>K</B> is at cell (9,2) and is facing <B>UP</B>. It is
+guaranteed that there will be a wall to the right hand side of agent <B>K</B>.
+In the next <SPAN CLASS="MATH"><I>R</I></SPAN> lines, the maze description is given. A `<TT>#</TT>' in a
+cell represents an impermeable wall, whereas a `<TT>.</TT>' would mean that the
+cell is passable. Cell (0,0) is the upper left corner of the maze.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The output for each test case starts with the test case
+number in the format `<TT>Maze <SPAN CLASS="MATH"><I>x</I></SPAN>: </TT>' where <!-- MATH
+ $1 \le x \le T$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10796img3.png"
+ ALT="$ \le$"><I>x</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10796img3.png"
+ ALT="$ \le$"><I>T</I></SPAN>. Then
+there would be exactly one integer denoting the minimum unit time required for
+you to reach the destined cell; if it is impossible to reach the destined cell,
+output `<TT>-1</TT>' instead.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+10 10
+1 1 9 2 9 2 U
+##########
+#........#
+#.####.#.#
+..#..#.#.#
+.....#.#.#
+.###.#.#.#
+.#.#.#.#.#
+.#.#.###.#
+.#.#.....#
+...#######
+5 5
+0 0 4 3 4 3 U
+.....
+##.#.
+....#
+.##.#
+....#
+5 5
+0 0 2 3 3 3 U
+.....
+#####
+.#..#
+.#..#
+.####
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+Maze 1: 21
+Maze 2: 15
+Maze 3: -1
+</PRE>
+
+<P>
+
+
+<P>
+<BR>
+<hr>
+<ADDRESS>
+Problem setter: Monirul Hasan<br>
+Special Thanks: Jimmy Mårdell, Md. Kamruzzaman
+</ADDRESS>
+
+<HR>
+<ADDRESS>
+Miguel Revilla
+2004-12-10
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

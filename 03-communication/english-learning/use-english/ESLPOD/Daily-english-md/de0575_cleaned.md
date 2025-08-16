@@ -1,0 +1,98 @@
+# Being an Early or Late Riser
+
+Welcome to English as a Second Language Podcast number 5 75: Being an Early or Late Riser. 
+
+This is English as a Second Language Podcast episode 575.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Support this podcast by becoming an ESL Podcast member.  I f you do, you’ll get the Learning Guide for each episode, an 8- to 10-page  guide that will help you improve your English even faster.  Or if you don’t want to become a member, you can make a donation by going to our website at eslpod.com . 
+
+This episode is dialogue between Spiro and Nancy.  They’r e going to be talking about whether they get up early in the morning or lat e in the morning, and vocabulary related to that topic.  Let’s get started. 
+
+[start of dialogue] 
+
+Spiro:  Hey, watch out! 
+
+Nancy:  Oh, I’m sorry.  I didn’t see you there.  I thoug ht I would be the only person up at the crack of dawn.  What are you doing sitti ng on the stoop at this ungodly hour? 
+
+Spiro:  I’m trying to turn over a new leaf.   
+
+Nancy:  What do you mean?   
+
+Spiro:  I’m in the habit of staying up until all hour s of the night.  I hardly ever get enough sleep and walk around all day sleep-deprived.  I’ m trying to see if I can make the switch from being a night owl to an early rise r.  I’m hoping the new hours will make me a changed man. 
+
+Nancy:  That sounds very commendable, but that still doesn’ t answer my question.  What are you doing sitting out here? 
+
+Spiro:  I’m waiting for the coffee shop to open. 
+
+Nancy:  Can you eat breakfast this early in the morning?  
+
+ Spiro:  No, but I can drink coffee, lots and lots of coff ee. 
+
+Nancy:  You’ll definitely be the first one in line. 
+
+Spiro:  I guess what they say is true: the early bird get s the worm. 
+
+Nancy:  I don’t know about worms, but the early bird wil l definitely get the first dose of caffeine! 
+
+[end of dialogue] 
+
+Spiro begins by saying, “Hey, watch out!”  “Watch out” me ans be careful; it’s a phrase we use to warn someone who is in danger, to tell  someone when something bad might happen to them.  We’re telling t hem to be careful – watch out.  Nancy says, “Oh, I’m sorry.  I didn’t see you there.   I thought I would be the only person up at the crack of dawn.”  “To be up at the  crack (crack) of dawn (dawn)” means to be awake and out of your bed at a very early hour, very early in the morning.  The “dawn” is the beginning of the day, the beginning of the morning.   
+
+“What are you doing sitting on the stoop at this ungodl y hour?”  Nancy is asking Spiro why he is sitting on the stoop (stoop).  A “stoop” is an area outside the front door of some homes or some apartment buildings in the city, usually with several steps that lead down to the sidewalk.  We often associate this with buildings – apartment buildings, especially in older cities on the Ea st Coast, but you can have a stoop anywhere.  “Stoop” has, believe it or not, other meanings as well, and those can be found in the Learning Guide. 
+
+Nancy wants to know what Spiro is doing sitting on the st oop at this ungodly hour.  The expression “an ungodly hour” means very early i n the morning when most people are asleep.  It’s sometimes used either to b e funny or to express the idea that it is too early for people to be up and awa ke and sitting on stoops. 
+
+Spiro says, “I’m trying to turn over a new leaf (leaf).”   The expression “to turn over a new leaf” means to begin a new phase – a new pa rt of your life by changing your behavior in some way.  “I used to always eat  McDonald hamburgers for lunch.  But today I’m going to turn ove r a new leaf, I’m going to have Burger King hamburgers instead!”  See, I’ve changed  my behavior.  I’m joking, of course; that’s not a changing your behavior if you’re going from one restaurant to another eating the same thing.  “To tur n a new leaf” would be to  
+
+ start eating something different – something healthy.  “To turn over a new leaf” means to go from doing something usually not good to d oing something good. 
+
+Nancy says, “What do you mean?” and Spiro says, “I’m in the habit of staying up until all hours of the night.”  “To be in the habit  of (something)” means to be accustomed to or used to doing something: “Many Americans a re in the habit of eating a small breakfast.”  That’s something they usually do.  “To stay up” is a two-word phrasal verb meaning to not go to bed, to r emain awake until it is very late at night when most people are already sleeping.  “All hours of the night” is a phrase that means throughout the night, going from pe rhaps 10:00 at night until 5:00 in the morning or 7:00 in the morning.  Colleg e students preparing for an exam may study all hours of the night.  They’ll not good  to sleep the day before they have their exam – which is probably not a good idea  actually! 
+
+Well, Spiro says that he is in the habit of (he’s used t o) staying up until all hours of the night.  He says, “I hardly ever get enough sleep a nd walk around all day sleep-deprived.”  To be “sleep-deprived” means to be very tired because you have not had enough sleep.  “To deprive” (deprive) mean s to withhold or not give someone something.  In this case, you’re not giving yourse lf enough sleep.  He says, “I’m trying to see if I can make the switch from b eing a night owl to an early riser.”  “To make the switch” means to begin to do someth ing differently, to change to something else; “I used to buy all of my clothin g at the store, now I’m going to make the switch and buy it online.”  Spiro says t hat he wants to make the switch from being a night owl to an early riser.  A  “night owl “ (owl) is a person who enjoys being awake very late at night, someone who f eels that they have more energy at night; they like staying up late.  An “ow l” is a bird that is often awake at night, or at least that’s what people think, so  a night owl is someone who stays up late.  The opposite of a night owl would b e an early riser (riser). “To rise” means to get up.  To be an “early riser” (w ith an “r” at the end) means to be a person who gets up early.  So, he wants to become a  person who instead of being a night owl is an early riser.  He says, “I’m hop ing the new hours will make me a changed man.”  “To be a changed man,” or a “chan ged woman,” means that you have had a major or very important change in yo ur life, a transformation, something that has made you a better person. 
+
+Nancy says, “That sounds very commendable.”  Something that i s “commendable” means it is admirable, it is good, it’s som ething that’s very impressive that people should congratulate you for.  Nancy says this is commendable, “but that still doesn’t answer my question.   What are you doing sitting out here (on the stoop)?”  Spiro says, “I’m wait ing for the coffee shop to open.”  He wants to go buy some coffee, so he wants to wait until the coffee shop  
+
+ (the store where they sell coffee) is open.  Nancy says, “Ca n you eat breakfast this early in the morning?”  Spiro says, “No, but I can drink coffee, lots and lots of coffee.”  Coffee, of course, has caffeine in it, which i s a chemical that will make you stay awake. 
+
+Nancy says, “You’ll definitely be the first one in line,” meaning the first one there when the store opens.  Spiro says, “I guess what they say is true: the early bird gets the worm.”  This is an old expression: “The early bi rd gets the worm.”  It means that people who wake up early are more successful beca use they can take advantage of opportunities that are not available to other people, or they can get to places early and get more things done.  Or, if  for example, a store is having a sale – a very popular sale, and you go early in t he morning you’re more likely to get that thing that you want to buy.  Later i n the day, the store may not have any more left.  So, the early bird gets the worm.  A “worm” is a small, little animal that crawls on the ground; it’s something that b irds – many birds eat. They go down to the ground and they pick up these worms a nd they eat them. The word “early bird,” or the term “early bird” also m eans the same as an early riser, so you could say “I’m an early bird.”  That means I get up early. 
+
+Nancy says, “I don’t know about worms, but the early bird w ill definitely get the first dose of caffeine!”  A “dose” (dose) is the amount o f a drug or a medicine that you are supposed to take.  Nancy is making sort of a joke here.  Caffeine, she’s saying, is a drug that Spiro needs – that Spiro is going  to take when he drinks his coffee. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Spiro:  Hey, watch out! 
+
+Nancy:  Oh, I’m sorry.  I didn’t see you there.  I thoug ht I would be the only person up at the crack of dawn.  What are you doing sitti ng on the stoop at this ungodly hour? 
+
+Spiro:  I’m trying to turn over a new leaf.   
+
+Nancy:  What do you mean?   
+
+Spiro:  I’m in the habit of staying up until all hour s of the night.  I hardly ever get enough sleep and walk around all day sleep-deprived.  I’ m trying to see if I can  
+
+ make the switch from being a night owl to an early rise r.  I’m hoping the new hours will make me a changed man. 
+
+Nancy:  That sounds very commendable, but that still doesn’ t answer my question.  What are you doing sitting out here? 
+
+Spiro:  I’m waiting for the coffee shop to open. 
+
+Nancy:  Can you eat breakfast this early in the morning? 
+
+Spiro:  No, but I can drink coffee, lots and lots of coff ee. 
+
+Nancy:  You’ll definitely be the first one in line. 
+
+Spiro:  I guess what they say is true: the early bird get s the worm. 
+
+Nancy:  I don’t know about worms, but the early bird wil l definitely get the first dose of caffeine! 
+
+[end of dialogue] 
+
+If you’re in the habit of listening to our podcast every day, you’ll know that the scriptwriter for this episode was probably Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

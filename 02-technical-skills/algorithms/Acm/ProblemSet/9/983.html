@@ -1,0 +1,211 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+            "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+
+<HEAD>
+
+
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<META name="GENERATOR" content="hevea 1.08">
+<STYLE type="text/css">
+.toc{list-style:none;}
+.title{margin:auto;text-align:center}
+.center{text-align:center;margin-left:auto;margin-right:auto;}
+.flushleft{text-align:left;margin-left:0ex;margin-right:auto;}
+.flushright{text-align:right;margin-left:auto;margin-right:0ex;}
+DIV TABLE{margin-left:inherit;margin-right:inherit;}
+PRE{text-align:left;margin-left:0ex;margin-right:auto;}
+BLOCKQUOTE{margin-left:4ex;margin-right:4ex;text-align:left;}
+.part{margin:auto;text-align:center;}
+.esq {float: left;}
+.dir {float: right;}
+.titulo {clear: right;}
+</STYLE>
+</HEAD>
+
+<BODY >
+<!--HEVEA command line is: /usr/bin/hevea -fix blurring.tex -o blurring.html -->
+<!--HTMLHEAD-->
+<!--ENDHTML-->
+<!--PREFIX <ARG ></ARG>-->
+<!--CUT DEF section 1 -->
+
+<p class="titulo">
+        <span class="esq">Universidade da Beira Interior</span>
+        <span class="dir">21-10-2006</span>&nbsp;
+   </p>
+
+
+<!--TOC section Problem E-->
+
+<H2 CLASS="section">Problem E</H2><!--SEC END -->
+
+<DIV CLASS="center"><FONT SIZE=5><SPAN STYLE="font-variant:small-caps"> Localized Summing for Blurring</SPAN></FONT></DIV>
+
+
+<!--TOC subsection Problem-->
+
+<H3 CLASS="subsection">Problem</H3><!--SEC END -->
+
+
+Many problems in image processing and computer graphics need to
+process large two dimensional arrays and with modern real time
+applications they need to process them very <B>fast</B>. For
+instance when one wishes to blur an image a "Convolution" filter is
+applied, this involves nothing more than summing the values near or
+around a particular pixel and applying some mathematical function for
+instance calculating the average value. More complicated functions
+exist, the Gaussian Blur being quite popular. In a Gaussian Blur when
+summing not all pixel values have equal weights in the sum, in other
+words pixel weights aren't equal - they are given a value according to
+a bell-shaped Gaussian curve.<BR><BR>
+
+This problem involves computing local information, very similar to
+"blurring" an image, but a shade simpler! You will be given an <I>N</I> &times; <I>N</I>
+array of integer data and your task will be to calculate an (<I>N</I>&minus;<I>M</I>+1) &times;
+(<I>N</I>&minus;<I>M</I>+1) array of integers. Each element of this resulting matrix is
+the sum of the local <I>M</I> &times; <I>M</I> points of the original matrix.
+<BR><BR>
+
+For instance, consider the following example for a 4 by 4 Matrix <I>X</I> with <I>M</I>=3.<BR><BR>
+
+
+For 
+<I>X</I>=<IMG SRC="p983a.png"> the resultant "blurred" matrix is <IMG SRC="p983b.png"><br><br>
+
+The highlighted matrix elements show the points to be summed at the first element of the matrix. The first element of a matrix is the bottom left hand corner (in this diagram).
+
+<!--TOC subsection Input-->
+
+<H3 CLASS="subsection">Input</H3><!--SEC END -->
+<b>
+The input will contain several test cases, each of them as described below.
+Consecutive test cases are separated by a single blank line.
+</b>
+<p>
+<p>
+
+
+The input values consist of (<I>N</I> &times; <I>N</I>) +1 lines.<BR>
+
+The first line contains the integer values of N and M separated by a single space.<BR>
+
+The next <I>N</I> &times; <I>N</I> lines contain the elements of the matrix, one per line, from the bottom left element to the top right one. <BR>
+
+The maximum value of N is 1000. M is always greater or equal to 2 and less than N.<BR>
+
+Each element of the matrix is a positive integer value less than 16 (0,1,..15). 
+
+<!--TOC subsection Output-->
+
+<H3 CLASS="subsection">Output</H3><!--SEC END -->
+<b>
+For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+
+
+The output data consists of the elements of the resulting matrix plus one extra integer value, the total sum of the elements.<BR>
+
+The elements of the "blurred" matrix are displayed one per line, starting from the bottom left to the top right element. <BR>
+
+The last line contains the total sum. This sum is guaranteed to be at most a 64 bit integer. 
+
+<!--TOC subsection Sample Input 1-->
+
+<H3 CLASS="subsection">Sample Input</H3><!--SEC END -->
+
+<PRE CLASS="verbatim">
+4 3
+1 
+2 
+2 
+1 
+1 
+0 
+2 
+2 
+0 
+2 
+3 
+3 
+1 
+2 
+1 
+3 
+
+5 2
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+1
+1 
+1 
+1 
+1 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+1
+0
+0 
+</PRE>
+<!--TOC subsection Sample Output 1-->
+
+<H3 CLASS="subsection">Sample Output</H3><!--SEC END -->
+
+<PRE CLASS="verbatim">
+13 
+17 
+12 
+18 
+60
+
+1 
+2
+2 
+0 
+2 
+3 
+3 
+2 
+2 
+3 
+3 
+2 
+0 
+2 
+2 
+0 
+29
+</PRE>
+
+<p>
+<h3>Note:</h3> The first sample input represents the input and output data for the example described above.
+
+<!--HTMLFOOT-->
+<!--ENDHTML-->
+<!--FOOTER-->
+
+<p class="titulo">
+        <span class="esq">Maratona Inter-Universitária de Programação 2006</span>
+        <span class="dir">MIUP'2006</span>&nbsp;
+   </p>
+<hr>
+<b>Author:</b> Paul Crocker (Universidade da Beira Interior)
+
+</BODY>
+</HTML>

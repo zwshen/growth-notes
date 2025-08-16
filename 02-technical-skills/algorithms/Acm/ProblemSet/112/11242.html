@@ -1,0 +1,45 @@
+<img src=p11242.gif align=right><h2>Problem D:  Tour de France</h2>
+
+A racing bicycle is driven by a chain connecting two sprockets.
+Sprockets are grouped into two clusters:  the front cluster 
+(typically consisting of 2 or 3 sprockets) and the rear cluster
+(typically consisting of between 5 and 10 sprockets).  At any
+time the chain connects one of the front sprockets to one
+of the rear sprockets.  The drive ratio -- the ratio of the
+angular velocity of the pedals to that of the wheels -- is
+n:m where n is the number of teeth on the rear sprocket and
+m is the number of teeth on the front sprocket.
+Two drive ratios  d<sub>1</sub>&lt;d<sub>2</sub> are adjacent
+if there is no other drive ratio  d<sub>1</sub>&lt;d<sub>3</sub>&lt;d<sub>2</sub>.
+The <i>spread</i> between a pair of drive ratios d<sub>1</sub>&lt;d<sub>2</sub> is
+their quotient:  d<sub>2</sub>/d<sub>1</sub>.
+You are to compute the maximum spread between two adjacent
+drive ratios achieved by a particular pair of front and
+rear clusters.
+<p>
+Input consists of several test cases, followed by a line containing 0.
+Each test case is specified by the following input:
+<ul>
+<li>f:  the number of sprockets in the front cluster;
+<li>r:  the number of sprockets in the rear cluster;
+<li>f integers, each giving the number of teeth on one of the gears in the front cluster;
+<li>r integers, each giving the number of teeth on one of the gears in the rear cluster.
+</ul>
+You may assume that no cluster has more than 10 sprockets and
+that no gear has fewer than 10 or more than 100 teeth.
+<p>
+For each test case, output the maximum spread rounded
+to two decimal places.
+<h3>Sample Input</h3>
+<pre>
+2 4
+40 50
+12 14 16 19
+0
+</pre>
+<h3>Output for Sample Input</h3>
+<pre>
+1.19
+</pre>
+<hr>
+<i>Ondrej Lhotak and Gordon V. Cormack</i>

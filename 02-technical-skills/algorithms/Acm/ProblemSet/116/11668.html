@@ -1,0 +1,433 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="c_files/filelist.xml">
+<link rel=Edit-Time-Data href="c_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem C - How Many Teams?</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceName"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceType"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Mahmudur Rahman</o:Author>
+  <o:LastAuthor>shahriar</o:LastAuthor>
+  <o:Revision>28</o:Revision>
+  <o:TotalTime>864</o:TotalTime>
+  <o:LastPrinted>2009-09-10T02:38:00Z</o:LastPrinted>
+  <o:Created>2008-10-08T13:19:00Z</o:Created>
+  <o:LastSaved>2009-09-10T02:39:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>435</o:Words>
+  <o:Characters>2482</o:Characters>
+  <o:Company>EEE, BUET</o:Company>
+  <o:Lines>20</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2912</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>125</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-line-height-alt:11.0pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:18.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	mso-font-kerning:0pt;}
+pre
+	{mso-style-link:"Char Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";
+	mso-bidi-language:AR-SA;}
+span.CharChar
+	{mso-style-name:"Char Char";
+	mso-style-locked:yes;
+	mso-style-link:"HTML Preformatted";
+	font-family:"Courier New";
+	mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;
+	mso-bidi-language:AR-SA;}
+p.ListParagraph, li.ListParagraph, div.ListParagraph
+	{mso-style-name:"List Paragraph";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.ListParagraphCxSpFirst, li.ListParagraphCxSpFirst, div.ListParagraphCxSpFirst
+	{mso-style-name:"List ParagraphCxSpFirst";
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.ListParagraphCxSpMiddle, li.ListParagraphCxSpMiddle, div.ListParagraphCxSpMiddle
+	{mso-style-name:"List ParagraphCxSpMiddle";
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+p.ListParagraphCxSpLast, li.ListParagraphCxSpLast, div.ListParagraphCxSpLast
+	{mso-style-name:"List ParagraphCxSpLast";
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-language:AR-SA;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="4098"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:24.0pt;font-family:Arial'>Problem C</span></b><span
+style='font-size:24.0pt;font-family:Arial'><br>
+</span><b><span style='font-size:20.0pt;font-family:Arial'>How Many Teams?</span></b><b><span
+style='font-size:24.0pt;font-family:Arial'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:11.0pt;font-family:Arial'>Input: </span></b><span
+style='font-size:11.0pt;font-family:Arial;mso-bidi-font-weight:bold'>Standard
+Input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:11.0pt;font-family:Arial'>Output: </span></b><span
+style='font-size:11.0pt;font-family:Arial;mso-bidi-font-weight:bold'>Standard
+Output <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_s1047" type="#_x0000_t75"
+ style='position:absolute;left:0;text-align:left;margin-left:228pt;
+ margin-top:3pt;width:222pt;height:174.75pt;z-index:1;visibility:visible'>
+ <v:imagedata src="c_files/image010.png" o:title=""/>
+ <w:wrap type="square"/>
+</v:shape><![endif]--><![if !vml]><img width=296 height=233
+src="p11668.jpg" align=left hspace=12 v:shapes="Picture_x0020_1"><![endif]><st1:place
+w:st="on"><st1:PlaceType w:st="on">University</st1:PlaceType> of <st1:PlaceName
+ w:st="on">Fixed Problems</st1:PlaceName></st1:place> (UFP) was planning to host
+a national level computer programming competition but just before the event
+they have realized that they don’t have a budget that is big enough for a
+national programming contest!</p>
+
+<p class=MsoNormal style='text-align:justify'>On the eve of the contest, you get
+a phone call from them and hear the inevitable – “The Contest is Called Off”.
+However, they said they will be hosting a ‘General Knowledge’ competition
+instead. </p>
+
+<p class=MsoNormal style='text-align:justify'>The restriction on the number of
+teams goes like this:</p>
+
+<p class=ListParagraph style='text-align:justify;line-height:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Times New Roman"'>Your
+university can send a total of <b style='mso-bidi-font-weight:normal'>N</b>
+contestants with <b style='mso-bidi-font-weight:normal'>K</b> members in each
+team. That means there are a total of <b style='mso-bidi-font-weight:normal'>N/K</b>
+teams.<o:p></o:p></span></i></p>
+
+<p class=MsoNormal style='text-align:justify'>A notice was sent to all
+departments of your university asking them to select their best students for
+participating in this competition. Due to the limited number of seats, a
+department can send at most 3 members.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>You managed to gather <b
+style='mso-bidi-font-weight:normal'>N</b> students from various departments.
+Within this limited time, it’s not going to be viable to come up with the best
+balanced teams. So you tell all these students to line up randomly and assign
+first <b style='mso-bidi-font-weight:normal'>K</b> students in one team, the
+next <b style='mso-bidi-font-weight:normal'>K</b> students in another team and
+so on. But, one rule that you are going to follow is that two person from the
+same department cannot be in the same team. This will enable the teams to be
+more balanced.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Of the entire <b
+style='mso-bidi-font-weight:normal'>N! (N Factorial)</b> permutations of lining
+up, can you find out how many of those are valid? A permutation is valid if you
+can assign the teams according to the rules mentioned above.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Example: Consider a case where <b
+style='mso-bidi-font-weight:normal'>N</b> = 4 and <b style='mso-bidi-font-weight:
+normal'>K</b> = 2.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>PM-<b style='mso-bidi-font-weight:
+normal'>MATH</b>, LT-<b style='mso-bidi-font-weight:normal'>CSE</b>, DK-<b
+style='mso-bidi-font-weight:normal'>MATH</b>, MMR-<b style='mso-bidi-font-weight:
+normal'>EEE</b></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Suppose you have 4 students (PM,
+LT, DK and MMR) and their departments are (MATH, CSE, MATH and EEE)
+respectively. You have to form 2 teams with 2 members in each team.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Some valid permutations are: (PM
+LT DK MMR) (LT PM DK MMR) (MMR PM LT DK<span class=GramE>)</span><br>
+And some invalid permutations are: (PM DK MMR LT) (LT MMR DK PM).</p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><o:p>&nbsp;</o:p></p>
+
+<h1><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'>Input<o:p></o:p></span></h1>
+
+<p class=MsoNormal style='text-align:justify'>The first line is an integer <span
+class=GramE><b style='mso-bidi-font-weight:normal'>T</b>(</span>T&lt;500) that
+indicates the number of test cases. Each case starts with 2 integers <span
+class=GramE><b style='mso-bidi-font-weight:normal'>N</b>(</span>1 &lt;= <b
+style='mso-bidi-font-weight:normal'>N</b> &lt;= 100) and <b style='mso-bidi-font-weight:
+normal'>K</b>(1 &lt;= <b style='mso-bidi-font-weight:normal'>K</b> &lt;= 10).
+It is guaranteed that <b style='mso-bidi-font-weight:normal'>N</b> % <b
+style='mso-bidi-font-weight:normal'>K</b> = 0. The next line will contain <b
+style='mso-bidi-font-weight:normal'>N</b> space separated strings of the format
+<b style='mso-bidi-font-weight:normal'>S1-D1 S2-D2 S3-D3 ... SN-DN</b>. <b
+style='mso-bidi-font-weight:normal'>S<sub>i</sub></b> gives you the names of
+each student and <b style='mso-bidi-font-weight:normal'>D<sub>i</sub></b> gives
+you the corresponding department of that student. All the students’ names will be
+distinct. The department and student names will be alphanumeric and the length
+of each will be at most 20.</p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><o:p>&nbsp;</o:p></p>
+
+<h1><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'>Output<o:p></o:p></span></h1>
+
+<p class=MsoNormal style='text-align:justify'>For each case, output the case
+number followed by the total number of valid permutations. Since the result
+could be very big, output the result modulo <b style='mso-bidi-font-weight:
+normal'>1234</b>.</p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><o:p>&nbsp;</o:p></p>
+
+<h1><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'>Sample Input<span
+style='mso-tab-count:2'>          </span><span
+style='mso-spacerun:yes'>                           </span>Output for Sample
+Input<o:p></o:p></span></h1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='background:#E6E6E6;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=439 valign=top style='width:329.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'><pre><span
+  style='font-size:11.0pt'>3<o:p></o:p></span></pre><pre><span
+  style='font-size:11.0pt'>2 <span class=SpellE>2</span><o:p></o:p></span></pre><pre><span
+  class=SpellE><span style='font-size:11.0pt'>sohelH</span></span><span
+  style='font-size:11.0pt'>-CSE <span class=SpellE>samee</span>-CSE<o:p></o:p></span></pre><pre><span
+  style='font-size:11.0pt'>4 2<o:p></o:p></span></pre><pre><span
+  style='font-size:11.0pt'>Blind-ECS <span class=SpellE>sidky</span>-CSE <span
+  class=SpellE>muntasir</span>-CSC <span class=SpellE>ShadowCoder</span>-EEE<o:p></o:p></span></pre><pre><span
+  style='font-size:11.0pt'>4 2<o:p></o:p></span></pre>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>ABC-D1 DEF-D1 ghi-D2
+  jkl-D3<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:1.75in;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:11.0pt'><span style='font-size:11.0pt;
+  font-family:"Courier New";mso-bidi-font-family:"Courier New"'>Case 1: 0<br>
+  Case 2: 24<br>
+  Case 3: 16<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:11.0pt'><span style='font-size:11.0pt;
+  font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal style='text-align:justify'><span class=SpellE><b><span
+style='font-family:Arial'>Problemsetter</span></b></span><b><span
+style='font-family:Arial'>: <span class=SpellE>Sohel</span> Hafiz<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:Arial'>Special
+Thanks to: <span class=SpellE>Arifuzzaman</span> <span class=SpellE>Arif</span><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

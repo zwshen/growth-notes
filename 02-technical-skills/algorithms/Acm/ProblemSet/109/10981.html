@@ -1,0 +1,95 @@
+<HTML>
+
+
+<HEAD>
+<TITLE>String Morphing - Return of the Newbies 2005</TITLE>
+
+<META content="String Morphing" name=description>
+
+<META content=1036 name=keywords>
+
+<META content=document name=resource-type>
+
+<META content=global name=distribution>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+
+<META content="MSHTML 6.00.2800.1106" name=GENERATOR>
+
+</HEAD>
+
+<TABLE WIDTH=100% BORDER=0 CELLPADDING=4 CELLSPACING=3 STYLE="page-break-inside: avoid">
+	<COL WIDTH=256*>
+	<COL WIDTH=256*>
+	<THEAD>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=100% BGCOLOR="#006666">
+				<P><FONT COLOR="#ffffff"><FONT FACE="Arial Black" SIZE=6>Problem
+				F: String Morphing</FONT></P>
+			</TD>
+		</TR>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=100% BGCOLOR="#006666">
+				<P ALIGN=RIGHT><FONT COLOR="#ffffff"><FONT FACE="Arial Black" SIZE=3>Time
+				limit: 2 seconds</FONT></P>
+			</TD>
+		</TR>
+	</THEAD>
+</TABLE>
+
+<BODY>
+ 
+
+<p><font size=6>T</font>here is a special multiplication operator such that
+
+<p><center><img src='p10981.jpg'>
+<br><font size=2><b><i>Table of special multiplication operation</i></b></font></center>
+Thus <b><i>ab = b</i></b>, <b><i>ba = c</i></b>, <b><i>bc = a</i></b>, <b><i>cb = c</i></b>, ...
+
+<p>For example, you are given the string <b><i>bbbba</i></b> and the character <b><i>a</i></b>,
+<pre>	(b(bb))(ba) = (bb)(ba)	[as bb = b]
+		    = b(ba)	[as bb = b]
+		    = bc	[as ba = c]
+		    = a		[as bc = a] </pre>
+<p>By adding suitable brackets, <b><i>bbbba</i></b> can produce <b><i>a</i></b> according to the above multiplication table.
+
+<p>You are asked to <b>write a program</b> to show the morphing steps of a string into an expected character, or otherwise, output "<b>None exist!</b>" if the given string cannot be morphed as expected.
+
+<P><H2><A name=SECTION00001000000000000000><FONT color=#006666>Input</FONT></A></H2>
+
+<P>The first line of the input file gives the number of test cases. Each case consists of two lines. The first line is the starting string which has at most 100 characters. The second line is the target character. All characters in the input are within the range of <b>a</b>-<b>c</b>.
+
+<P><H2><A name=SECTION00002000000000000000><FONT color=#006666>Output</FONT></A></H2>
+
+<P>For each test case, your output should consist several lines, showing the morphing steps of a string into the character. In case there are more than one solution, always try to start the morphing from the left. Print a blank line between consecutive sets of output.
+
+<P><H2><A name=SECTION00003000000000000000><FONT color=#006666>Sample Input</FONT></A></H2>
+
+<PRE>
+2
+bbbba
+a
+bbbba
+a
+</PRE>
+
+<P><H2><A name=SECTION00004000000000000000><FONT color=#006666>Sample Output</FONT></A></H2>
+
+
+<PRE>
+bbbba
+bbba
+bba
+bc
+a
+
+bbbba
+bbba
+bba
+bc
+a
+</PRE>
+
+<P><HR><ADDRESS><I>Problemsetter: Raymond Chun (Idea from "Adding Brackets", HKOI 99)</I><br>
+<I>Special Thanks to: Liu Chi Man (aka cx)</I>
+</ADDRESS></BODY>
+</HTML>

@@ -1,0 +1,208 @@
+<HTML>
+<HEAD>
+<TITLE>UP ACM Programming Contest (2003) / Round 1: Problem D</TITLE>
+</HEAD>
+
+<BODY bgcolor="white">
+
+<font color="#0000FF">
+<H1>Problem D</H1>
+
+<H1 align="center">Spiral of Numbers</H1>
+</font>
+
+<P align="justify">
+Consider an infinite square grid with a clockwise spiral of consecutive
+positive integers. Number 1 is placed at the center, with 2 at its
+right, 3 bellow 2, and so one, and so forth. Having placed all number
+from 1 to <I><FONT COLOR="#000000">n-1</FONT></I>, <I><FONT COLOR="#000000">n</FONT></I>
+is placed in the same line with <I><FONT COLOR="#000000">n-1</FONT></I> and
+<I><FONT COLOR="#000000">n-2</FONT></I> unless the cell to the right of the
+<I><FONT COLOR="#000000">n-1</FONT></I>, in the [<I><FONT COLOR="#000000">n-2</FONT></I>,
+<I><FONT COLOR="#000000">n-1</FONT></I>] direction, is empty, in wich case
+<I><FONT COLOR="#000000">n</FONT></I> is placed in this cell. The central
+11x11 square of the spiral is shown in the figure bellow.
+
+
+<DIV ALIGN="CENTER">
+<TABLE CELLPADDING=3 BORDER="1">
+<TR><TD ALIGN="CENTER">111</TD>
+<TD ALIGN="CENTER">112</TD>
+<TD ALIGN="CENTER">113</TD>
+<TD ALIGN="CENTER">114</TD>
+<TD ALIGN="CENTER">115</TD>
+<TD ALIGN="CENTER">116</TD>
+<TD ALIGN="CENTER">117</TD>
+<TD ALIGN="CENTER">118</TD>
+<TD ALIGN="CENTER">119</TD>
+<TD ALIGN="CENTER">120</TD>
+<TD ALIGN="CENTER">121</TD>
+</TR>
+<TR><TD ALIGN="CENTER">110</TD>
+<TD ALIGN="CENTER">73</TD>
+<TD ALIGN="CENTER">74</TD>
+<TD ALIGN="CENTER">75</TD>
+<TD ALIGN="CENTER">76</TD>
+<TD ALIGN="CENTER">77</TD>
+<TD ALIGN="CENTER">78</TD>
+<TD ALIGN="CENTER">79</TD>
+<TD ALIGN="CENTER">80</TD>
+<TD ALIGN="CENTER">81</TD>
+<TD ALIGN="CENTER">82</TD>
+</TR>
+<TR><TD ALIGN="CENTER">109</TD>
+<TD ALIGN="CENTER">72</TD>
+<TD ALIGN="CENTER">43</TD>
+<TD ALIGN="CENTER">44</TD>
+<TD ALIGN="CENTER">45</TD>
+<TD ALIGN="CENTER">46</TD>
+<TD ALIGN="CENTER">47</TD>
+<TD ALIGN="CENTER">48</TD>
+<TD ALIGN="CENTER">49</TD>
+<TD ALIGN="CENTER">50</TD>
+<TD ALIGN="CENTER">83</TD>
+</TR>
+<TR><TD ALIGN="CENTER">108</TD>
+<TD ALIGN="CENTER">71</TD>
+<TD ALIGN="CENTER">42</TD>
+<TD ALIGN="CENTER">21</TD>
+<TD ALIGN="CENTER">22</TD>
+<TD ALIGN="CENTER">23</TD>
+<TD ALIGN="CENTER">24</TD>
+<TD ALIGN="CENTER">25</TD>
+<TD ALIGN="CENTER">26</TD>
+<TD ALIGN="CENTER">51</TD>
+<TD ALIGN="CENTER">84</TD>
+</TR>
+<TR><TD ALIGN="CENTER">107</TD>
+<TD ALIGN="CENTER">70</TD>
+<TD ALIGN="CENTER">41</TD>
+<TD ALIGN="CENTER">20</TD>
+<TD ALIGN="CENTER">7</TD>
+<TD ALIGN="CENTER">8</TD>
+<TD ALIGN="CENTER">9</TD>
+<TD ALIGN="CENTER">10</TD>
+<TD ALIGN="CENTER">27</TD>
+<TD ALIGN="CENTER">52</TD>
+<TD ALIGN="CENTER">85</TD>
+</TR>
+<TR><TD ALIGN="CENTER">106</TD>
+<TD ALIGN="CENTER">69</TD>
+<TD ALIGN="CENTER">40</TD>
+<TD ALIGN="CENTER">19</TD>
+<TD ALIGN="CENTER">6</TD>
+<TD ALIGN="CENTER">1</TD>
+<TD ALIGN="CENTER">2</TD>
+<TD ALIGN="CENTER">11</TD>
+<TD ALIGN="CENTER">28</TD>
+<TD ALIGN="CENTER">53</TD>
+<TD ALIGN="CENTER">86</TD>
+</TR>
+<TR><TD ALIGN="CENTER">105</TD>
+<TD ALIGN="CENTER">68</TD>
+<TD ALIGN="CENTER">39</TD>
+<TD ALIGN="CENTER">18</TD>
+<TD ALIGN="CENTER">5</TD>
+<TD ALIGN="CENTER">4</TD>
+<TD ALIGN="CENTER">3</TD>
+<TD ALIGN="CENTER">12</TD>
+<TD ALIGN="CENTER">29</TD>
+<TD ALIGN="CENTER">54</TD>
+<TD ALIGN="CENTER">87</TD>
+</TR>
+<TR><TD ALIGN="CENTER">104</TD>
+<TD ALIGN="CENTER">67</TD>
+<TD ALIGN="CENTER">38</TD>
+<TD ALIGN="CENTER">17</TD>
+<TD ALIGN="CENTER">16</TD>
+<TD ALIGN="CENTER">15</TD>
+<TD ALIGN="CENTER">14</TD>
+<TD ALIGN="CENTER">13</TD>
+<TD ALIGN="CENTER">30</TD>
+<TD ALIGN="CENTER">55</TD>
+<TD ALIGN="CENTER">88</TD>
+</TR>
+<TR><TD ALIGN="CENTER">103</TD>
+<TD ALIGN="CENTER">66</TD>
+<TD ALIGN="CENTER">37</TD>
+<TD ALIGN="CENTER">36</TD>
+<TD ALIGN="CENTER">35</TD>
+<TD ALIGN="CENTER">34</TD>
+<TD ALIGN="CENTER">33</TD>
+<TD ALIGN="CENTER">32</TD>
+<TD ALIGN="CENTER">31</TD>
+<TD ALIGN="CENTER">56</TD>
+<TD ALIGN="CENTER">89</TD>
+</TR>
+<TR><TD ALIGN="CENTER">102</TD>
+<TD ALIGN="CENTER">65</TD>
+<TD ALIGN="CENTER">64</TD>
+<TD ALIGN="CENTER">63</TD>
+<TD ALIGN="CENTER">62</TD>
+<TD ALIGN="CENTER">61</TD>
+<TD ALIGN="CENTER">60</TD>
+<TD ALIGN="CENTER">59</TD>
+<TD ALIGN="CENTER">58</TD>
+<TD ALIGN="CENTER">57</TD>
+<TD ALIGN="CENTER">90</TD>
+</TR>
+<TR><TD ALIGN="CENTER">101</TD>
+<TD ALIGN="CENTER">100</TD>
+<TD ALIGN="CENTER">99</TD>
+<TD ALIGN="CENTER">98</TD>
+<TD ALIGN="CENTER">97</TD>
+<TD ALIGN="CENTER">96</TD>
+<TD ALIGN="CENTER">95</TD>
+<TD ALIGN="CENTER">94</TD>
+<TD ALIGN="CENTER">93</TD>
+<TD ALIGN="CENTER">92</TD>
+<TD ALIGN="CENTER">91</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<P align="justify">
+The spiral of numbers has some intriguing features: a lot of prime
+numbers form diagonal lines in the spiral. This is the case of 3,
+13 31, 57 and 91 in the southeast diagonal and is also the case of
+5, 17 and 37 in the southwest diagonal. As you would expect this is
+not a general rule since 65, the next number of southwest diagonal
+is not a prime number. 
+
+<P align="justify">
+Nevertheless the spiral is worth a little more investigation and we
+would like you to write a program that given a positive integer <I><FONT COLOR="#000000">n</FONT></I>
+returns its neighboring numbers in the spiral, i.e. a 3x3 square with
+<I><FONT COLOR="#000000">n</FONT></I> in the center, surrounded by the numbers
+that are placed in the same relative positions in the spiral. 
+
+<FONT color="#0000FF"><H2>Input</H2></FONT>
+
+The input file contains several test cases, each of them is a positive integer less than 2&#94;30 (a 4 byte integer) on a line by itself.
+
+<FONT color="#0000FF"><H2>Output</H2></FONT>
+
+For each test case, your program must write the neighboring numbers of the input number in 3 lines. Each line has 3 integers separated by semicolons. There must
+also be a semicolon at the end of each line.
+
+<FONT color="#0000FF"><H2>Sample Input</H2></FONT>
+
+<PRE>
+11
+</PRE>
+
+<FONT color="#0000FF"><H2>Sample Output</H2></FONT>
+
+<PRE>
+9;10;27;
+2;11;28;
+3;12;29;
+</PRE>
+
+<BR><HR>
+<i>
+José Paulo Leal, CPUP'2003 Round 1<br>
+University of Porto Local Contest
+</i>
+</BODY>
+</HTML>

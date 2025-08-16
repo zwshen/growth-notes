@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Anagram checker</TITLE>
+<META NAME="description" CONTENT="Anagram checker">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Anagram checker</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+It is often fun to see if rearranging the letters of a name gives an
+amusing anagram. For example, the letters of `WILLIAM SHAKESPEARE'
+rearrange to form `SPEAK REALISM AWHILE'.
+<P>
+<P>
+Write a program that will read in a dictionary and a list of phrases
+and determine which words from the dictionary, if any, form anagrams
+of the given phrases. Your program must find all sets of words in the
+dictionary which can be formed from the letters in each phrase. Do not
+include the set consisting of the original words. If no anagram is
+present, do not write anything, not even a blank line.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Input will consist of two
+parts. The first part is the dictionary, the second part is the set of
+phrases for which you need to find anagrams. Each part of the file
+will be terminated by a line consisting of a single <TT>#</TT>. The dictionary
+will be in alphabetic order and will contain up to 2000 words, one
+word per line. The entire file will be in upper case, and no
+dictionary word or phrase will contain more than 20 letters. You
+cannot assume the language being used is English.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+Output will consist of a series of lines. Each line will consist of
+the original phrase, a space, an equal sign (=), another space, and
+the list of words that together make up an anagram of the original
+phrase, separated by exactly one space. These words must appear in
+alphabetic sequence.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>ABC
+AND
+DEF
+DXZ
+K
+KX
+LJSRT
+LT
+PT
+PTYYWQ
+Y
+YWJSRQ
+ZD
+ZZXY
+# 
+ZZXY ABC DEF
+SXZYTWQP KLJ YRTD
+ZZXY YWJSRQ PTYYWQ ZZXY
+#</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>SXZYTWQP KLJ YRTD = DXZ K LJSRT PTYYWQ
+SXZYTWQP KLJ YRTD = DXZ K LT PT Y YWJSRQ
+SXZYTWQP KLJ YRTD = KX LJSRT PTYYWQ ZD
+SXZYTWQP KLJ YRTD = KX LT PT Y YWJSRQ ZD</PRE>
+<P>
+</BODY>
+</HTML>

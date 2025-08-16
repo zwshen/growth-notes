@@ -1,0 +1,142 @@
+<html>
+<head>
+    <title>Lift Hopping</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem ?</B></FONT><BR>
+<FONT SIZE="5"><B>Lift Hopping</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 1 second</FONT>
+</CENTER>
+</P>
+
+<p align="right">
+<table border=0><tr><td><small>
+Ted the bellhop: <i>"I'm coming up and if there isn't<br>
+a dead body by the time I get there, I'll make one<br>
+myself. You!"</i>
+</td></tr></table>
+<tt>Robert Rodriguez, "Four Rooms."</tt>
+</small></p>
+
+<P CLASS="paragraph">
+A skyscraper has no more than 100 floors, numbered from 0 to 99.
+It has <b>n</b> (1&lt;=<b>n</b>&lt;=5) elevators which travel
+up and down at (possibly) different speeds. For each <b>i</b>
+in {1, 2,... n}, elevator number <b>i</b> takes
+<b>T<sub>i</sub></b> (1&lt;=<b>T<sub>i</sub></b>&lt;=100) seconds
+to travel between any two adjacent floors (going up or down).
+Elevators do not necessarily stop at every floor. What's worse,
+not every floor is necessarily accessible by an elevator.
+</P>
+
+<P CLASS="paragraph">
+You are on floor 0 and would like to get to floor <b>k</b> as
+quickly as possible. Assume that you do not need to wait to
+board the first elevator you step into and (for simplicity) the
+operation of switching an elevator on some floor always takes
+exactly a minute. Of course, both elevators have to stop at
+that floor. You are forbiden from using the staircase. No one
+else is in the elevator with you, so you don't have to stop if
+you don't want to. Calculate the minimum number of seconds
+required to get from floor 0 to floor <b>k</b> (passing floor
+<b>k</b> while inside an elevator that does not stop there does
+not count as "getting to floor <b>k</b>").
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The input will consist of a number of test cases. Each test case
+will begin with two numbers, <b>n</b> and <b>k</b>, on a line. The
+next line will contain the numbers <b>T<sub>1</sub></b>,
+<b>T<sub>2</sub></b>,... <b>T<sub>n</sub></b>. Finally, the next
+<b>n</b> lines will contain sorted lists of integers - the first
+line will list the floors visited by elevator number 1, the next
+one will list the floors visited by elevator number 2, etc.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+<p>
+For each test case, output one number on a line by itself - the
+minimum number of seconds required to get to floor <b>k</b> from
+floor 0. If it is impossible to do, print "IMPOSSIBLE" instead.
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+2 30
+10 5
+0 1 3 5 7 9 11 13 15 20 99
+4 13 15 19 20 25 30
+2 30
+10 1
+0 5 10 12 14 20 25 30
+2 4 6 8 10 12 14 22 25 28 29
+3 50
+10 50 100
+0 10 30 40
+0 20 30
+0 20 50
+1 1
+2
+0 2 4 6 8 10
+</PRE>
+</TD>
+<TD>
+<PRE>
+275
+285
+3920
+IMPOSSIBLE
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Explanation of examples</B></FONT><BR>
+<p>
+In the first example, take elevator 1 to floor 13 (130 seconds),
+wait 60 seconds to switch to elevator 2 and ride it to floor
+30 (85 seconds) for a total of 275 seconds.
+</p>
+
+<p>
+In the second example, take elevator 1 to floor 10, switch to
+elevator 2 and ride it until floor 25. There, switch back to
+elevator 1 and get off at the 30'th floor. The total time is
+<br>10*10 + 60 + 15*1 + 60 + 5*10 = 285 seconds.
+</p>
+
+<p>
+In example 3, take elevator 1 to floor 30, then elevator 2 to
+floor 20 and then elevator 3 to floor 50.
+</p>
+
+<p>
+In the last example, the one elevator does not stop at floor 1.
+</p>
+
+<P>
+<HR>
+<B>Problemsetter: Igor Naverniouk</B><br>
+<B>Alternate solutions: Stefan Pochmann, Frank Pok Man Chu
+</P>
+
+</td></tr></table>
+</body>
+</html>

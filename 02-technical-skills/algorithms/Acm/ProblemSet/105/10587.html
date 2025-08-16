@@ -1,0 +1,79 @@
+<title>Problem G: Mayor's posters</title>
+
+<h2>Problem G: Mayor's posters </h2>
+
+The citizens of Bytetown, AB, could not stand that the candidates 
+in the mayoral election campaign have been placing their electoral posters
+at all places at their whim.  The city council has finally decided to build
+an <em>electoral wall</em> for placing the posters and introduce the following
+rules:
+
+<ul>
+<li> Every candidate can place exactly one poster on the wall.
+<li> All posters are of the same height equal to the height of the wall;
+     the width of a poster can be any integer number of bytes (<em>byte</em>
+     is the unit of length in Bytetown).
+<li> The wall is divided into segments and the width of each segment is
+     one byte.
+<li> Each poster must completely cover a contiguous number of wall segments.
+</ul>
+
+They have built a wall 10000000 bytes long (such that there is enough place 
+for all candidates).  When the electoral campaign was restarted, the candidates
+were placing their posters on the wall and their posters differed widely
+in width.  Moreover, the candidates started placing their posters on wall
+segments already occupied by other posters.  Everyone in Bytetown was curious
+whose posters will be visible (entirely or in part) on the last day before
+elections.
+<p>
+Your task is to find the number of visible posters when all the
+posters are placed given the information about posters' size, their
+place and order of placement on the electoral wall.
+<p>
+The first line of input contains a number <em>c</em> giving the number
+of cases that follow.  The first line of data for a single case
+contains number 1&nbsp;&le;&nbsp;<em>n</em>&nbsp;&le;&nbsp;10000.
+The subsequent
+<em>n</em> lines describe the posters in the order in which they were
+placed.  The <em>i</em>-th line among the <em>n</em> lines contains
+two integer numbers <em>l<sub>i</sub></em> and <em>r<sub>i</sub></em>
+which are the number of the wall segment occupied by the left end and
+the right end of the <em>i</em>-th poster, respectively. We know that
+for each 1&nbsp;&le;&nbsp;<em>i</em>&nbsp;&le;&nbsp;<em>n</em>,
+1&nbsp;&le;&nbsp;<em>l<sub>i</sub></em>&nbsp;&le;&nbsp;<em>r<sub>i</sub></em>&nbsp;&le;&nbsp;10000000.
+After the <em>i</em>-th poster is placed, it entirely covers all wall
+segments numbered <em>l<sub>i</sub></em>,&nbsp;<em>l<sub>i</sub></em>+1&nbsp;,...&nbsp;,&nbsp;<em>r<sub>i</sub></em>.
+<p>
+For each input data set print the number of visible posters after all
+the posters are placed.
+<p> 
+The picture below illustrates the case of the sample input.
+<p>
+<img src=p10587.jpg align=center>
+
+<br>
+<br><br><br><br><br><br><br><br><br>
+
+<h3>Sample input</h3>
+<pre>
+1
+5
+1 4
+2 6
+8 10
+3 4
+7 10
+</pre>
+
+
+<h3>Output for sample input</h3>
+<pre>
+4
+</pre>
+
+<hr>
+
+Author: <em>Adapted from VI AMPwPZ by P. Rudnicki</em>
+
+
+

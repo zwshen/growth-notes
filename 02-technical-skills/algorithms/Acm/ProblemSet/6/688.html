@@ -1,0 +1,214 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Mobile Phone Coverage</TITLE>
+<META NAME="description" CONTENT="Mobile Phone Coverage">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Mobile Phone Coverage</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A mobile phone company ACMICPC (Advanced Cellular, Mobile, and Internet-Connected
+Phone Corporation) is planning to set up a collection of antennas for mobile phones in a city
+called Maxnorm. The company ACMICPC has several collections for locations of antennas as
+their candidate plans, and now they want to know which collection is the best choice.
+
+<P>
+
+<P>
+<BR>
+For this purpose, they want to develop a computer program to find the coverage of a collection
+of antenna locations. Each antenna <I>A</I><SUB><I>i</I></SUB> has power <I>r</I><SUB><I>i</I></SUB>, corresponding to ``radius''. Usually, the
+coverage region of the antenna may be modeled as a disk centered at the location of the antenna
+
+<!-- MATH: $(x_i, y_i)$ -->
+(<I>x</I><SUB><I>i</I></SUB>, <I>y</I><SUB><I>i</I></SUB>) with radius <I>r</I><SUB><I>i</I></SUB>. However, in this city Maxnorm such a coverage region becomes the square
+
+<!-- MATH: $[x_i - r_i, x_i + r_i] \times [y_i - r_i, y_i + r_i]$ -->
+<IMG
+ WIDTH="257" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="688img1.gif"
+ ALT="$[x_i - r_i, x_i + r_i] \times [y_i - r_i, y_i + r_i]$">.
+In other words, the distance between two points 
+<!-- MATH: $(x_p, y_p)$ -->
+(<I>x</I><SUB><I>p</I></SUB>, <I>y</I><SUB><I>p</I></SUB>) and
+
+<!-- MATH: $(x_q, y_q)$ -->
+(<I>x</I><SUB><I>q</I></SUB>, <I>y</I><SUB><I>q</I></SUB>) is measured by the max norm 
+<!-- MATH: $\max \{ |x_p - x_q|, |y_p - y_q| \}$ -->
+<IMG
+ WIDTH="191" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="688img2.gif"
+ ALT="$\max \{ \vert x_p - x_q\vert, \vert y_p - y_q\vert \}$">,
+or, the 
+<!-- MATH: $L_{\infty}$ -->
+<IMG
+ WIDTH="31" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="688img3.gif"
+ ALT="$L_{\infty}$">
+norm, in this city
+Maxnorm instead of the ordinary Euclidean norm
+
+<!-- MATH: $\sqrt{(x_p - x_q)^2 + (y_p - y_q)^2}$ -->
+<IMG
+ WIDTH="193" HEIGHT="47" ALIGN="MIDDLE" BORDER="0"
+ SRC="688img4.gif"
+ ALT="$\sqrt{(x_p - x_q)^2 + (y_p - y_q)^2}$">.
+
+<P>
+
+<P>
+<BR>
+As an example, consider the following collection of 3 antennas
+
+<P>
+<PRE>
+4.0 4.0 3.0
+5.0 6.0 3.0
+5.5 4.5 1.0
+</PRE>
+
+<P>
+depicted in the following figure
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p688.gif>
+</DIV>
+
+<P>
+where the <I>i</I>-th row represents <I>x</I><SUB><I>i</I></SUB>, <I>y</I><SUB><I>i</I></SUB>, <I>r</I><SUB><I>i</I></SUB> such that 
+<!-- MATH: $(x_i, y_i)$ -->
+(<I>x</I><SUB><I>i</I></SUB>, <I>y</I><SUB><I>i</I></SUB>) is the position of the <I>i</I>-th antenna and
+<I>r</I><SUB><I>i</I></SUB> is its power. The area of regions of points covered by at least one antenna is 52.00 in this case.
+
+<P>
+
+<P>
+<BR>
+Write a program that finds the area of coverage by a given collection of antenna locations.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input contains multiple data sets, each representing a collection of antenna locations. A
+data set is given in the following format.
+
+<P>
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+\begin{array}{lll}
+n & & \\
+x_1 & y_1 & r_1 \\
+x_2 & y_2 & r_2 \\
+\dots & & \\
+x_n & y_n & r_n
+\end{array}
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="86" HEIGHT="115"
+ SRC="688img5.gif"
+ ALT="\begin{displaymath}\begin{array}{lll}
+n & & \\
+x_1 & y_1 & r_1 \\
+x_2 & y_2 & r_2 \\
+\dots & & \\
+x_n & y_n & r_n
+\end{array}\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+The first integer <I>n</I> is the number of antennas, such that 
+<!-- MATH: $2 Ÿ\le n Ÿ\le 100$ -->
+<IMG
+ WIDTH="96" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="688img6.gif"
+ ALT="$2 Ÿ\le n Ÿ\le 100$">.
+The coordinate of the <I>i</I>-th
+antenna is given by 
+<!-- MATH: $(x_i, y_i)$ -->
+(<I>x</I><SUB><I>i</I></SUB>, <I>y</I><SUB><I>i</I></SUB>), and its power is <I>r</I><SUB><I>i</I></SUB>. <I>x</I><SUB><I>i</I></SUB>, <I>y</I><SUB><I>i</I></SUB> and <I>r</I><SUB><I>i</I></SUB> are fractional numbers between 0 and 200 inclusive.
+
+<P>
+
+<P>
+<BR>
+The end of the input is indicated by a data set with 0 as the value of <I>n</I>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each data set, your program should output its sequence number (1 for the first data set, 2
+for the second, etc.) and the area of the coverage region. The area should be printed with two
+digits to the right of the decimal point, after rounding it to two decimal places.
+
+<P>
+
+<P>
+<BR>
+The sequence number and the area should be printed on the same line with no spaces at the
+beginning and end of the line. The two numbers should be separated by a space.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+4.0 4.0 3.0
+5.0 6.0 3.0
+5.5 4.5 1.0
+2
+3.0 3.0 3.0
+1.5 1.5 1.0
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+1 52.00
+2 36.00
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-03-05</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

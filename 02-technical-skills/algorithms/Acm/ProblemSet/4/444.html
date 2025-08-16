@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Encoder and Decoder</TITLE>
+<META NAME="description" CONTENT="Encoder and Decoder">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Encoder and Decoder</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Being in charge of the computer department of the Agency of
+International Espionage, you are asked to write a program that
+will allow a spy to encode and decode their messages.
+<P>
+You can assume a spy's message is at most 80 characters long, and
+it includes all the upper and lowercase letters of the alphabet
+plus the space, and any of the following characters:
+<P>
+<PRE>!  ,  .  :  ;  ?</PRE>
+<P>
+The following is an ASCII table of the valid characters in a
+message:
+<P>
+<PRE>     &quot;A&quot;  65   &quot;a&quot;  97   &quot; &quot;  32
+     &quot;B&quot;  66   &quot;b&quot;  98   &quot;!&quot;  33
+      .         .        &quot;,&quot;  44
+      .         .        &quot;.&quot;  46
+      .         .        &quot;:&quot;  58
+     &quot;Y&quot;  89   &quot;y&quot;  121  &quot;;&quot;  59
+     &quot;Z&quot;  90   &quot;z&quot;  122  &quot;?&quot;  63</PRE>
+<P>
+The algorithm that you should use to encode messages is to take
+the ASCII value of each character in the message, starting with
+the last character in the message and ending with the first
+character in the message.  You should then add on to the coded
+message this ASCII value written in reverse order.  For example,
+if the ASCII value is 123, the encoded message should contain the
+string &quot;<TT>321</TT>&quot;.  There should be no spaces separating the numbers
+in the encoded message.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+The input file consists of one or more lines with a normal (not encoded) or encoded message each.
+<P>
+<P>
+Output file must have the same number of lines with the corresponding encoded message or the decoded one, respectively.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>abc
+798999
+Have a Nice Day !</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>998979
+cba
+332312179862310199501872379231018117927</PRE>
+<P>
+</BODY>
+</HTML>

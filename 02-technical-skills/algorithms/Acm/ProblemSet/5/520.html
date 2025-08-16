@@ -1,0 +1,130 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Append</TITLE>
+<META NAME="description" CONTENT="Append">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Append</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Consider the following encoding scheme used in one famous compresion algorithm. Suppose
+we will code only sequences of lower case letters. Each such sequence of characters can be encoded
+to a sequence of pairs 
+<!-- MATH: $(p_i, r_i)$ -->
+(<I>p</I><SUB><I>i</I></SUB>, <I>r</I><SUB><I>i</I></SUB>), where 
+<!-- MATH: $p_i \ge– 0$ -->
+<IMG
+ WIDTH="51" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="520img1.gif"
+ ALT="$p_i \ge– 0$">
+is an integer and <I>r</I><SUB><I>i</I></SUB> is either a character (if <I>p</I><SUB><I>i</I></SUB> = 0) or
+an integer greater than zero and less or equal than <I>p</I><SUB><I>i</I></SUB> (if <I>p</I><SUB><I>i</I></SUB> &gt; 0).
+
+<P>
+We describe now the decoding procedure for our encoding scheme. Let 
+<!-- MATH: $(p_1, r_1)$ -->
+(<I>p</I><SUB>1</SUB>, <I>r</I><SUB>1</SUB>), 
+<!-- MATH: $(p_2, r_2)$ -->
+(<I>p</I><SUB>2</SUB>, <I>r</I><SUB>2</SUB>), <IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="520img2.gif"
+ ALT="$\dots$">
+be
+a code of a sequence. We get the sequence as follows: we take successively individual pairs of the
+code. If <I>p</I><SUB><I>i</I></SUB> = 0 then <I>r</I><SUB><I>i</I></SUB> is a character and we simply add <I>r</I><SUB><I>i</I></SUB> to the end of already decoded sequence.
+If <I>p</I><SUB><I>i</I></SUB> &gt; 0 then <I>r</I><SUB><I>i</I></SUB> is an integer, 
+<!-- MATH: $0 < r_i \leŸ p_i$ -->
+<IMG
+ WIDTH="87" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="520img3.gif"
+ ALT="$0 < r_i \leŸ p_i$">,
+and we add to already decoded sequence <I>r</I><SUB><I>i</I></SUB> letters from
+this sequence starting at the position <I>p</I><SUB><I>i</I></SUB> places before the end.
+
+<P>
+For example, consider the sequence of pairs (0 <I>a</I>), (1, 1), (0, <I>b</I>), (3, 3), (3, 3), (3, 2), (0, <I>c</I>). Decoding (0, <I>a</I>) we get <I>a</I>. Decoding (1, 1) we get <I>aa</I>. (0, <I>b</I>) adds <I>b</I> getting <I>aab</I>. (3, 3) will add <I>aab</I>, so now we have <I>aabaab</I>. Next pair (3, 3) will again add <I>aab</I> so we have <I>aabaabaab</I>. (3, 2) will add <I>aa</I>, so
+our sequence is 
+<!-- MATH: $aabaabaabaa$ -->
+<I>aabaabaabaa</I> and (0, <I>c</I>) adds <I>c</I>. So the decoded sequence is 
+<!-- MATH: $aabaabaabaac$ -->
+<I>aabaabaabaac</I>. Note that
+in general for a given <I>w</I> it can exist more such sequences of pairs.
+
+<P>
+Let <I>u</I>, <I>v</I> be some sequences. By <I>uv</I> we will understand the sequence created by appending of
+the sequence <I>v</I> to the end of sequence <I>u</I>. Let <I>C</I><SUB><I>w</I></SUB> be a sequence of pairs which encodes a sequence
+of lowercase letters <I>w</I>. Suppose we have given a sequence of pairs <I>C</I><SUB><I>w</I></SUB>. The question is how many
+possibilities does exist for expressing the sequence <I>C</I><SUB><I>w</I></SUB> in the form <I>C</I><SUB><I>u</I></SUB> <I>C</I><SUB><I>v</I></SUB> where <I>u</I>, <I>v</I> are sequences
+satisfying the equation <I>w</I> = <I>uv</I> and neither <I>u</I> nor <I>v</I> is empty. Write a program that will answer
+this question.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file consists of blocks of lines. Each block describes one sequence of pairs <I>C</I><SUB><I>w</I></SUB> to some
+<I>w</I> in such a way that the <I>i</I>-th line of the block contains either two integers <I>p</I><SUB><I>i</I></SUB>, <I>r</I><SUB><I>i</I></SUB>, (
+<!-- MATH: $r_i \leŸ p_i < 1000$ -->
+<IMG
+ WIDTH="113" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="520img4.gif"
+ ALT="$r_i \leŸ p_i < 1000$">)
+separated by one space or 0 followed by one space and one character. Each block ends with one empty line.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The output file contains the lines corresponding to the blocks in the input file. Each line
+contains the number of possibilities of representation of the sequence <I>C</I><SUB><I>w</I></SUB> in the form <I>C</I><SUB><I>u</I></SUB> <I>C</I><SUB><I>v</I></SUB> where
+<I>u</I>, <I>v</I> are sequences satisfying the equation <I>w</I> = <I>uv</I> and neither <I>u</I> nor <I>v</I> is empty.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+0 a
+1 1
+0 b
+3 3
+3 3
+3 2
+0 c
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+</PRE>
+
+<P>
+
+<P>
+</BODY>
+</HTML>

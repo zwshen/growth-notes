@@ -1,0 +1,373 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0051)http://www.cs.lth.se/contest/html01/ProblemVote.htm -->
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./d_files/filelist.xml">
+<link rel=Edit-Time-Data href="./d_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem D - The Uxuhul Voting System</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Andreas Björklund</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>8</o:Revision>
+  <o:TotalTime>9</o:TotalTime>
+  <o:Created>2001-10-05T17:16:00Z</o:Created>
+  <o:LastSaved>2004-05-19T03:22:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>520</o:Words>
+  <o:Characters>2968</o:Characters>
+  <o:Company>Axiom4</o:Company>
+  <o:Lines>24</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>3644</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:HyphenationZone>21</w:HyphenationZone>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:"\FF2D\FF33 \660E\671D";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	mso-font-alt:Tahoma;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129023 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129023 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;}
+h1
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:16.0pt;
+	font-family:Arial;
+	mso-font-kerning:16.0pt;
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"MS Mincho";
+	mso-fareast-language:SV;
+	font-weight:normal;
+	font-style:italic;}
+h3
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.0pt;
+	font-family:Arial;
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	mso-layout-grid-align:none;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:SimSun;
+	mso-ansi-language:SV;
+	mso-fareast-language:ZH-CN;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt .8in 70.85pt .8in;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-US style='tab-interval:65.2pt'>
+
+<div class=Section1>
+
+<p class=MsoPlainText align=center style='text-align:center'><b><span lang=SV
+style='font-size:28.0pt;mso-bidi-font-size:18.0pt;font-family:Arial'>Problem D</span></b><span
+lang=SV style='font-family:Arial'><br>
+</span><b><span lang=EN-GB style='font-size:20.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho";mso-ansi-language:EN-GB'>The
+Uxuhul Voting System</span></b><span lang=SV><br>
+</span><b><span lang=SV style='font-family:Arial'>Input:</span></b><span
+lang=SV style='font-family:Arial'> standard input<br>
+<b>Output:</b> standard output<br>
+<b>Time Limit:</b> 1 second</span><span lang=EN-GB style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:"Times New Roman";mso-fareast-font-family:
+"MS Mincho";mso-bidi-font-family:"Courier New";mso-ansi-language:EN-GB'><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span lang=EN-GB style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:"Times New Roman";mso-fareast-font-family:"MS Mincho";
+mso-bidi-font-family:"Courier New";mso-ansi-language:EN-GB'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"MS Mincho";
+mso-ansi-language:EN-GB'>One of the world's first </span><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"MS Mincho";
+mso-ansi-language:EN-US'>civilizations </span><span lang=EN-GB
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"MS Mincho";
+mso-ansi-language:EN-GB'>was that of the ancient Uxuhul indians, in the jungles
+of Central America. The Uxuhul culture flourished for almost a thousand years,
+with its golden era around <b>3200 BC</b>. Each year high priests, representing
+different parts of the realm, gathered in the capital to vote on important
+matters. There were always exactly three issues to vote on, and each issue was
+a simple yes/no question. The three issues were all decided in one single
+voting round, in the following manner:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"MS Mincho";
+mso-ansi-language:EN-GB'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"MS Mincho";
+mso-ansi-language:EN-GB'>All the priests would gather in a large room, with a
+table in the centre. On the table lie three flat stones, each with one white,
+and one black side. Each stone represented an issue, with the black side up
+symbolising the outcome <b>'no'</b> and the white side the outcome <b>'yes'</b>.
+Initially all stones had the black side up, representing negative outcome on
+all issues. In order of age, from youngest to oldest, each priest voted, by
+turning exactly one stone, thus (temporarily) changing the outcome of one
+issue. It was not allowed to skip the vote, each priest had to flip a stone.
+The colours of the side facing up on the stones after the oldest priest had
+flipped the stone of his choice, determined the final outcome of the voting on
+the three issues.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"MS Mincho";
+mso-ansi-language:EN-GB'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"MS Mincho";
+mso-ansi-language:EN-GB'>The Uxuhul political life was rather complex, with a
+lot of lobbying by different interest groups. Lobbying (and bribery), gave each
+priest preferences between the eight different outcomes of the three issues.
+Religious rules forced each priest to publicly state his preference order
+between the eight outcomes, before the voting process started. Based on knowledge
+of each other priest's preferences, it was possible for the priests to choose a
+stone to flip in the way that it gained their interest best. As the Uxuhul were
+advanced logicians, with deep knowledge of game theory, each priest was
+actually able to vote in the optimal way!<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"MS Mincho";
+mso-ansi-language:EN-GB'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"MS Mincho";
+mso-ansi-language:EN-GB'>Eventually, the complexity and rigidity of their
+political system brought the Uxuhul culture to collapse. Today only ruins
+remain of their cities and temples. Historians and archaeologists try to
+understand more about their history by studying the results from their yearly
+votes. However, only records of the priests' preferences remain, not the actual
+outcomes of the votes. Now it is your task to find a way to recover the
+outcomes.<o:p></o:p></span></p>
+
+<h3><span lang=EN-GB style='font-size:16.0pt;mso-bidi-font-size:13.0pt;
+mso-fareast-font-family:"MS Mincho";mso-ansi-language:EN-GB'>Input<o:p></o:p></span></h3>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"MS Mincho";
+mso-ansi-language:EN-GB'>The input begins with an integer <b>n</b>, <b>1&lt;n&lt;100</b>,
+the number of voting rounds. Starting on the next line, <b>n</b> problems
+follow, one by one. Each voting starts with a line containing an integer <b>m</b>,
+<b>1&lt;m&lt;100</b>, stating the number of voting priests. Then there are <b>m</b>
+lines, defining the preference order for the outcomes of the three issues for
+each voter, in order, starting with the voter who will begin the voting
+procedure. The preferences for each outcome (<b>NNN</b>, <b>NNY</b>, <b>NYN</b>,
+<b>NYY</b>, <b>YNN</b>, <b>YNY</b>, <b>YYN</b>, and <b>YYY</b> respectively,
+where <b>‘N’</b> stands for no and <b>‘Y’</b> for yes), are given as an integer
+in the range <b>[1…8]</b>. Lower numbers indicate higher preference. The
+preferences for the eight outcomes are given in the same order as the
+enumeration of the outcomes above.<o:p></o:p></span></p>
+
+<h3><span lang=EN-GB style='font-size:16.0pt;mso-bidi-font-size:13.0pt;
+mso-fareast-font-family:"MS Mincho";mso-ansi-language:EN-GB'>Output<o:p></o:p></span></h3>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"MS Mincho";
+mso-ansi-language:EN-GB'>For each of the <b>n</b> voting problems, output one
+line describing the outcome of the votes for the three issues, <b>'Y'</b> for
+yes, and <b>'N'</b> for no.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-GB style='font-family:"Courier New";
+mso-fareast-font-family:"MS Mincho";mso-ansi-language:EN-GB'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-GB style='font-family:"Courier New";
+mso-fareast-font-family:"MS Mincho";mso-ansi-language:EN-GB'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-GB style='font-family:"Courier New";
+mso-fareast-font-family:"MS Mincho";mso-ansi-language:EN-GB'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-GB style='font-family:"Courier New";
+mso-fareast-font-family:"MS Mincho";mso-ansi-language:EN-GB'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<h1><span lang=SV>Sample Input<span style="mso-spacerun:
+yes">                              </span>Output for Sample Input</span><span
+lang=SV style='mso-fareast-font-family:"Arial Unicode MS"'><o:p></o:p></span></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width=307 valign=top style='width:3.2in;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span lang=EN-GB style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Courier New";mso-fareast-font-family:"MS Mincho";
+  mso-ansi-language:EN-GB'>2<span style="mso-spacerun:
+  yes">                                  </span><o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span lang=EN-GB style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Courier New";mso-fareast-font-family:"MS Mincho";
+  mso-ansi-language:EN-GB'>4<span style="mso-spacerun:
+  yes">                                  </span><o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span lang=EN-GB style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Courier New";mso-fareast-font-family:"MS Mincho";
+  mso-ansi-language:EN-GB'>8 7 6 5 4 3 2 1<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span lang=EN-GB style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Courier New";mso-fareast-font-family:"MS Mincho";
+  mso-ansi-language:EN-GB'>8 6 3 1 2 4 5 7<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span lang=EN-GB style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Courier New";mso-fareast-font-family:"MS Mincho";
+  mso-ansi-language:EN-GB'>8 3 6 5 1 2 7 4<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span lang=EN-GB style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Courier New";mso-fareast-font-family:"MS Mincho";
+  mso-ansi-language:EN-GB'>1 2 3 4 5 6 7 8<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span lang=EN-GB style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Courier New";mso-fareast-font-family:"MS Mincho";
+  mso-ansi-language:EN-GB'>1<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none'><b><span lang=EN-GB
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New";
+  mso-fareast-font-family:"MS Mincho";mso-ansi-language:EN-GB'>1 2 3 4 5 6 7 8</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=SV style='font-size:11.0pt;
+  font-family:"Courier New";mso-fareast-font-family:SimSun;color:black;
+  mso-fareast-language:ZH-CN'><o:p></o:p></span></b></p>
+  </td>
+  <td width=309 valign=top style='width:231.85pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none'><b><span lang=SV style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;mso-fareast-language:ZH-CN'>NYY<o:p></o:p></span></b></p>
+  <h4><span lang=SV>NNY</span></h4>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=SV>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+
+<p class=MsoNormal><b><span lang=SV>Swedish National Contest</span></b></p>
+
+<p class=MsoNormal><span lang=EN-GB style='mso-fareast-font-family:"MS Mincho";
+mso-ansi-language:EN-GB'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

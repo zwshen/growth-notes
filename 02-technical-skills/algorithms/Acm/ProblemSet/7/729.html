@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>The Hamming Distance Problem</TITLE>
+<META NAME="description" CONTENT="The Hamming Distance Problem">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+The Hamming Distance Problem</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The Hamming distance between two strings of bits (binary integers) is the
+number of corresponding bit positions that differ.  This can be found by
+using XOR on corresponding bits or equivalently, by adding corresponding
+bits (base 2) without a carry.  For example, in the two bit strings that
+follow:
+<PRE>
+                               A      0 1 0 0 1 0 1 0 0 0
+                               B      1 1 0 1 0 1 0 1 0 0
+                            A XOR B = 1 0 0 1 1 1 1 1 0 0
+</PRE>
+
+<P>
+The Hamming distance (<I>H</I>) between these 10-bit strings is 6, the number of
+1's in the XOR string.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Input consists of several datasets. The first line of the input contains the number of datasets, and it's
+followed by a blank line. Each dataset contains
+<I>N</I>, the length of the bit strings and <I>H</I>, the Hamming distance, on the same line.
+There is a blank line between test cases.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>For each dataset print
+a list of all possible bit strings of length <I>N</I> that are
+Hamming distance <I>H</I>
+from the bit string containing all 0's (origin).  That is, all bit strings
+of length <I>N</I> with exactly <I>H</I> <TT>1</TT>'s printed in ascending lexicographical
+order.
+
+<P>
+
+<P>
+<BR>
+The number of such bit strings is equal to the combinatorial
+symbol <I>C</I>(<I>N</I>,<I>H</I>). This is the number of possible combinations of <I>N</I>-<I>H</I> zeros
+and <I>H</I> ones.  It is equal to
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+{N!} \over {(N-H)! H!}
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="93" HEIGHT="47"
+ SRC="729img1.gif"
+ ALT="\begin{displaymath}{N!} \over {(N-H)! H!}
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+This number can be very large.  The program should work for 
+<!-- MATH: $1 \le H \le N
+\le 16$ -->
+<IMG
+ WIDTH="132" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="729img2.gif"
+ ALT="$1 \le H \le N
+\le 16$">.
+
+<P>Print a blank line between datasets.
+<p>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+
+4 2
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+0011
+0101
+0110
+1001
+1010
+1100
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-31</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

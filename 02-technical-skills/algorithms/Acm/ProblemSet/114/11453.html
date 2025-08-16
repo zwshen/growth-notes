@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Traveling Fishmonger</title>
+</head>
+
+<body bgcolor="#FFFFFF" lang="EN">
+<div align="center"><center>
+
+<table border="0" bgcolor="#0060F0" summary="Table used for layout (ugh)">
+<tbody>
+  <tr>
+    <td><b>&nbsp;<font color="#C0FFFF" size="5">G. Traveling Fishmonger</font>&nbsp;</b></td>
+  </tr>
+</tbody>
+</table>
+</center></div>
+
+<h2><font color="#0070E8">Background</font></h2>
+<!-- ¿Dónde fue el h1? -->
+
+<p>The price of fish depends, among other things, on its freshness. To maximize profits, 
+good fishmongers will try to sell as much of their stock of fish as early as possible. 
+This is a problem for itinerant fishmongers who need to spend time traveling from one city 
+to the next to sell their fish.</p>
+
+<h2><font color="#0070E8">The Problem</font></h2>
+
+<p>You need to write a program to optimize a traveling fishmonger's itinerary. Usually a 
+fishmonger has a base city and sells its fish in other cities. Cities are connected by 
+roads. You will be given a road map, a base city, a set of destination cities and some 
+other information. Your program is expected to say in which order to visit each 
+destination city so that the fishmonger earns as much money as possible for his fish. We 
+will make the following assumptions: 
+
+<ul>
+  <li>A fishmonger can spend a day either traveling or selling fish, but not doing both 
+    things; even if that means that the fishmonger will have nothing to do in the afternoon if 
+    he only travels during the morning.</li>
+  <li>Fishmongers transport their fish using a cart pulled by oxen, hence they can only do 25 
+    kilometers each day.</li>
+  <li>The very first day, one fish can be sold for 10 euros, but its value decreases 
+    exponentially each day that passes. The price changes instantaneously at midnight, so you 
+    can assume that it is constant during a whole day.</li>
+  <li>A fishmonger can only stay one day in each city, to avoid having to deal with 
+    dissatisfied customers the day after a sale.</li>
+  <li>At each city, the fishmonger will sell at most five fishes every 10000 inhabitants 
+    (rounding down if necessary).</li>
+</ul>
+
+<h2><font color="#0070E8">The Input</font></h2>
+
+<p>The input format is as follows: 
+
+<ul>
+  <li>An integer in a single line which says the number of cities in the map (<em>NC</em>). 
+    There are no more than 1000 cities.</li>
+  <li><em>NC</em> lines each one with the name of a city and its population separated by a 
+    space. The name of a city is always a single word and the population is an integer number.</li>
+  <li>An integer in a single line which says the number of roads in the map (<em>NR</em>). 
+    There are 4000 roads at most.</li>
+  <li><em>NR</em> lines each one describing a road. A road description consists of the name of 
+    two cities and the distance (in kilometers) that separates them, all items separated by a 
+    space. A road connects two cities always in both ways.</li>
+  <li>An integer saying the number of test cases that will use the above map (<em>NT</em>).</li>
+  <li><em>NT</em> sets of 5 lines, each describing a test case in the following way:<ul>
+      <li>The first line indicates the number of fishes initially available in stock, as an 
+        integer number.</li>
+      <li>The second line says the speed of rotting (<em>RS</em>) as a floating point number. At 
+        the end of each day, the price of the fish will become <em>RS</em> times smaller due to 
+        the decreased quality and increased stink.</li>
+      <li>The third line contains the name of the base city (the starting point).</li>
+      <li>The fourth line says the number of destination cities (<em>ND</em>) (that is, cities 
+        where the fish will be sold). The base city will not be part of these set of cities. There 
+        will be 8 destination cities at most.</li>
+      <li>A line with <em>ND</em> names of destination cities.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2><font color="#0070E8">The Output</font></h2>
+
+<p>For each test case, the program shall output a single line with the destination cities 
+sorted in the best order to maximize profits, followed by &quot;<code>-&gt;</code>&quot; 
+and the achieved benefit in euros rounded up to the nearest integer, everything separated 
+by spaces. If there is more than one optimum order, the program must show the first one 
+lexicographically.</p>
+
+<h2><font color="#0070E8">Sample Input</font></h2>
+
+<pre>5
+Murcia 422861
+Cartagena 211286
+Lorca 89936
+Molina 62463
+Yecla 35161
+6
+Murcia Cartagena 55
+Murcia Molina 13
+Lorca Yecla 165
+Cartagena Yecla 186
+Cartagena Molina 64
+Molina Yecla 92
+1
+500
+1.2
+Cartagena
+2
+Murcia Lorca
+</pre>
+
+<h2><font color="#0070E8">Sample Output</font></h2>
+
+<pre>Murcia Lorca -&gt; 594
+</pre>
+</body>
+</html>

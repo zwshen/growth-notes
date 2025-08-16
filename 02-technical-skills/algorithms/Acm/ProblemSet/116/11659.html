@@ -1,0 +1,155 @@
+
+<!--Converted with LaTeX2HTML 2008 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Informants</TITLE>
+<META NAME="description" CONTENT="Informants">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Informants</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+ The Agency of Counter-intelligence of Macondo, ACM in short, is willing to 
+put to the test the quality of its informants with a simple, yet highly accurate, 
+procedure that evaluates how trustworthy a group of informants is.
+
+<P>
+The ACM determines the confidence of a group of informants by surveying the
+confidence among them: informants assert their particular opinions about other 
+ones, even themselves. As a result of the survey, the ACM gathers 
+a set of assertions of the form ``<SPAN CLASS="MATH"><I>X</I></SPAN> says <SPAN CLASS="MATH"><I>Y</I></SPAN> is reliable'' or ``<SPAN CLASS="MATH"><I>X</I></SPAN> says <SPAN CLASS="MATH"><I>Y</I></SPAN> is not
+reliable''. If <SPAN CLASS="MATH"><I>X</I></SPAN> happens to be reliable, the ACM assumes that whatever he or she says, 
+can be interpreted to be true. Otherwise, if <SPAN CLASS="MATH"><I>X</I></SPAN> is not reliable, his or her 
+opinions may be either true or false. At the end, the ACM qualifies the situation
+by determining the maximum number of informants that can be reliable according
+to the surveyed answers.
+
+<P>
+As an example, let's assume there are four informants <SPAN CLASS="MATH"><I>A</I></SPAN>, <SPAN CLASS="MATH"><I>B</I></SPAN>, <SPAN CLASS="MATH"><I>C</I></SPAN> and <SPAN CLASS="MATH"><I>D</I></SPAN>, with
+the following surveyed answers: ``<SPAN CLASS="MATH"><I>A</I></SPAN> says <SPAN CLASS="MATH"><I>B</I></SPAN> is reliable but <SPAN CLASS="MATH"><I>D</I></SPAN> is not'', 
+``<SPAN CLASS="MATH"><I>B</I></SPAN> says <SPAN CLASS="MATH"><I>C</I></SPAN> is not reliable'', and ``<SPAN CLASS="MATH"><I>C</I></SPAN> says <SPAN CLASS="MATH"><I>A</I></SPAN> and <SPAN CLASS="MATH"><I>D</I></SPAN> are reliable''. 
+In this case, it happens that at most two informants are reliable.
+
+<P>
+Your task is to help the ACM by writing an efficient program that, given the 
+results of the survey, computes the maximum number of informants that may be
+reliable.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The problem's input has several cases. Each test case begins with a line with 
+two nonnegative integer numbers, <SPAN CLASS="MATH"><I>i</I></SPAN> (<!-- MATH
+ $0 < i \leq 20$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>i</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11659img1.png"
+ ALT="$ \leq$"> 20</SPAN>) and <SPAN CLASS="MATH"><I>a</I></SPAN> (<!-- MATH
+ $0 \leq a \leq 800$
+ -->
+<SPAN CLASS="MATH">0 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11659img1.png"
+ ALT="$ \leq$"> <I>a</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11659img1.png"
+ ALT="$ \leq$"> 800</SPAN>), 
+separated by blanks. <SPAN CLASS="MATH"><I>i</I></SPAN> is the number of informants and <SPAN CLASS="MATH"><I>a</I></SPAN> is the number of 
+answers in the confidence survey. Then, <SPAN CLASS="MATH"><I>a</I></SPAN> lines follow, each one with two 
+integer numbers <SPAN CLASS="MATH"><I>x</I></SPAN> and <SPAN CLASS="MATH"><I>y</I></SPAN> (<!-- MATH
+ $1 \leq x \leq i$
+ -->
+<SPAN CLASS="MATH">1 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11659img1.png"
+ ALT="$ \leq$"> <I>x</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11659img1.png"
+ ALT="$ \leq$"> <I>i</I></SPAN>, <!-- MATH
+ $1 \leq |y| \leq i$
+ -->
+<SPAN CLASS="MATH">1 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11659img1.png"
+ ALT="$ \leq$"> | <I>y</I>| <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11659img1.png"
+ ALT="$ \leq$"> <I>i</I></SPAN>), separated 
+by blanks. If <SPAN CLASS="MATH"><I>y</I></SPAN> is positive, the input line means that ``informant <SPAN CLASS="MATH"><I>x</I></SPAN> 
+says informant <SPAN CLASS="MATH"><I>y</I></SPAN> is reliable''. If <SPAN CLASS="MATH"><I>y</I></SPAN> is negative, the then the line means 
+that ``informant <SPAN CLASS="MATH"><I>x</I></SPAN> says informant <SPAN CLASS="MATH"><I>y</I></SPAN> is not reliable''. The end of the input
+is indicated by a line with two <SPAN CLASS="MATH">0</SPAN> values (an artificial case that should 
+be ignored).
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each input case, output in a single line the corresponding answer, i.e., 
+the maximum number of reliable informants according to the answers in the
+survey.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+4 5
+1 2
+1 -4
+2 -3
+3 1
+3 4
+1 1
+1 -1
+3 3
+1 2
+2 3
+3 -1
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2
+0
+2
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

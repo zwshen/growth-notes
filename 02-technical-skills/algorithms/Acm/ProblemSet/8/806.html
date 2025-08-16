@@ -1,0 +1,244 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Spatial Structures</TITLE>
+<META NAME="description" CONTENT="Spatial Structures">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Spatial Structures</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Computer graphics, image processing, and GIS (geographic information systems) all
+make use of a data structure
+called a quadtree. Quadtrees represent regional or block data efficiently
+and support efficient algorithms for
+operations like the union and intersection of images.
+
+<P>
+A quadtree for a black and white image is constructed by successively
+dividing the image into four equal quadrants.
+If all the pixels in a quadrant are the same color (all black or all white)
+the division process for that quadrant stops.
+Quadrants that contain both black and white pixels are subdivided into
+four equal quadrants and this process
+continues until each subquadrant consists of either all black or all
+white pixels. It is entirely possible that some
+subquadrants consist of a single pixel.
+
+<P>
+For example, using <TT>0</TT> for white and <TT>1</TT> for black, the region on the
+left below is represented by the matrix of zeros and
+ones in the middle. The matrix is divided into subquadrants as shown on
+the right where gray squares represent
+subquadrants that consist entirely of black pixels.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p806a.eps}$
+ -->
+<IMG
+ WIDTH="753" HEIGHT="192" ALIGN="BOTTOM" BORDER="0"
+ SRC="p806a.jpg"
+ ALT="\epsfbox{p806a.eps}">
+</DIV>
+
+<P>
+A quadtree is constructed from the block structure of an image. The root of
+the tree represents the entire array of
+pixels. Each non-leaf node of a quadtree has four children, corresponding to
+the four subquadrants of the region
+represented by the node. Leaf nodes represent regions that consist of pixels of
+the same color and thus are not
+subdivided. For example, the image shown above, with the block structure
+on the right, is represented by the quadtree below.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p806b.eps}$
+ -->
+<IMG
+ WIDTH="435" HEIGHT="191" ALIGN="BOTTOM" BORDER="0"
+ SRC="p806b.jpg"
+ ALT="\epsfbox{p806b.eps}">
+</DIV>
+
+<P>
+Leaf nodes are white if they correspond to a block of all white pixels, and
+black if they correspond to a block of all
+black pixels. In the tree, each leaf node is numbered corresponding to
+the block it represents in the diagram above.
+The branches of a non-leaf node are ordered from left-to-right as shown
+for the northwest, northeast, southwest, and
+southeast quadrants (or upper-left, upper-right, lower-left, lower-right).
+
+<P>
+A tree can be represented by a sequence of numbers representing the root-to-leaf
+paths of black nodes. Each path is a
+base five number constructed by labeling branches
+with 1, 2, 3, or 4 with NW = 1, NE = 2, SW = 3, SE = 4, and
+with the least significant digit of the base five number corresponding to
+the branch from the root. For example, the
+node labeled 4 has path NE, SW which is <SPAN CLASS="MATH">32<SUB>5</SUB></SPAN> (base 5) or <SPAN CLASS="MATH">17<SUB>10</SUB></SPAN> (base 10);
+the node labeled 12 has path SW, SE or
+<!-- MATH
+ $43_5 = 23_{10}$
+ -->
+<SPAN CLASS="MATH">43<SUB>5</SUB> = 23<SUB>10</SUB></SPAN> ; and the node labeled 15 has path SE, SW, NW
+or <!-- MATH
+ $134_5 = 44_{10}$
+ -->
+<SPAN CLASS="MATH">134<SUB>5</SUB> = 44<SUB>10</SUB></SPAN> . The entire tree is represented by the
+sequence of numbers (in base 10)
+
+<P>
+<DIV ALIGN="CENTER">
+9 14 17 22 23 44 63 69 88 94 113
+
+</DIV>
+
+<P>
+Write a program that converts images into root-to-leaf paths and converts root-to-leaf
+paths into images.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input contains one or more images. Each image is square, and the data for
+an image starts with an integer <SPAN CLASS="MATH"><I>n</I></SPAN>,
+where <SPAN CLASS="MATH">| <I>n</I>|</SPAN> is the length of a side of the square (always a power of two,
+with <SPAN CLASS="MATH">| <I>n</I>| &le; 64</SPAN>) followed by a representation of
+the image. A representation is either a sequence of <SPAN CLASS="MATH"><I>n</I><SUP>2</SUP></SPAN> zeros and ones comprised
+of <SPAN CLASS="MATH">| <I>n</I>|</SPAN> lines of <SPAN CLASS="MATH">| <I>n</I>|</SPAN> digits per line, or
+the sequence of numbers that represent the root-to-leaf paths of each
+black node in the quadtree that represents the image.
+
+<P>
+If <SPAN CLASS="MATH"><I>n</I></SPAN> is positive, the zero/one representation follows; if <SPAN CLASS="MATH"><I>n</I></SPAN> is negative,
+the sequence of black node path numbers (in
+base 10) follows. The sequence is terminated by the number <TT>-1</TT>. A one-node tree
+that represents an all-black image is
+represented by the number <TT>0</TT>. A one-node tree that represents an all-white
+image is represented by an empty sequence (no numbers).
+
+<P>
+The end of data is signaled by a value of <TT>0</TT> for <SPAN CLASS="MATH"><I>n</I></SPAN>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each image in the input, first output the number of the image, as shown in
+the sample output. Then output the
+alternate form of the image.
+
+<P>
+If the image is represented by zeros and ones, the output consists of
+root-to-leaf paths of all black nodes in the
+quadtree that represents the image. The values should be base 10 representations
+of the base 5 path numbers, and the
+values should be printed in sorted order. If there are more than 12 black nodes,
+print a newline after every 12 nodes.
+The total number of black nodes should be printed after the path numbers.
+
+<P>
+If the image is represented by the root-to-leaf paths of black nodes, the
+output consists of an ASCII representation of
+the image with the character `<TT>.</TT>' used for white/zero and the
+character `<TT>*</TT>' used for black/one. There should be <SPAN CLASS="MATH"><I>n</I></SPAN>
+characters per line for an <!-- MATH
+ $n \times n$
+ -->
+<SPAN CLASS="MATH"><I>n</I>&#215;<I>n</I></SPAN> image.
+<p>Print a blank line between cases.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+8
+00000000
+00000000
+00001111
+00001111
+00011111
+00111111
+00111100
+00111000
+-8
+9 14 17 22 23 44 63 69 88 94 113 -1
+2
+00
+00
+-4
+0 -1
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Image 1
+9 14 17 22 23 44 63 69 88 94 113
+Total number of black nodes = 11
+
+Image 2
+........
+........
+....****
+....****
+...*****
+..******
+..****..
+..***...
+
+Image 3
+Total number of black nodes = 0
+
+Image 4
+****
+****
+****
+****
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Miguel Revilla
+2004-09-17
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

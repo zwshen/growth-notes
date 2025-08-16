@@ -1,0 +1,77 @@
+<HTML>
+<HEAD><TITLE>Headmaster's Headache</TITLE>
+<META content="Headmaster's Headache" name=description>
+<META content=1036 name=keywords>
+<META content=document name=resource-type>
+<META content=global name=distribution>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META content="MSHTML 6.00.2800.1106" name=GENERATOR>
+
+<BODY>
+
+<TABLE WIDTH=100% BORDER=0 CELLPADDING=4 CELLSPACING=3 STYLE="page-break-inside: avoid">
+	<COL WIDTH=256*>
+	<COL WIDTH=256*>
+	<THEAD>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=100% BGCOLOR="#000066">
+				<P><FONT COLOR="#ffffff"><FONT FACE="Arial Black" SIZE=6>Problem
+				D: Headmaster's Headache</FONT></P>
+			</TD>
+		</TR>
+		<TR VALIGN=BOTTOM>
+			<TD WIDTH=100% BGCOLOR="#000066">
+				<P ALIGN=RIGHT><FONT COLOR="#ffffff"><FONT FACE="Arial Black" SIZE=3>Time
+				limit: 2 seconds</FONT></P>
+			</TD>
+		</TR>
+	</THEAD>
+</TABLE>
+
+<P><font size=6>T</font>he headmaster of Spring Field School is considering employing some new teachers for certain subjects. There are a number
+   of teachers applying for the posts. Each teacher is able to teach one or more subjects. The headmaster wants to select applicants
+   so that each subject is taught by at least two teachers, and the overall cost is minimized.
+
+<img src="p10817.jpg" align=right>
+
+<P><H2><A name=SECTION00001000000000000000><FONT color=#000066>Input</FONT></A></H2>
+
+<p>The input consists of several test cases. The format of each of them is explained below:
+
+<p>The first line contains three positive integers <b><i>S</i></b>, <b><i>M</i></b> and <b><i>N</i></b>. <b><i>S</i></b> (&le; 8)
+   is the number of subjects, <b><i>M</i></b> (&le; 20) is the number of serving teachers,
+   and <b><i>N</i></b> (&le; 100) is the number of applicants.
+
+<p>Each of the following <b><i>M</i></b> lines describes a serving teacher. It first gives the cost of employing him/her (10000 &le; <b><i>C</i></b>
+   &le; 50000), followed by a list of subjects that he/she can teach. The subjects are numbered from 1 to <b><i>S</i></b>.
+   <b>You must keep on employing all of them.</b>
+   After that there are <b><i>N</i></b> lines, giving the details of the applicants in the same format.
+
+<p>Input is terminated by a null case where <b><i>S</i></b> = 0. This case should not be processed.
+
+<P><H2><A name=SECTION00001000000000000000><FONT color=#000066>Output</FONT></A></H2>
+
+<p>For each test case, give the minimum cost to employ the teachers under the constraints.
+
+<P><H2><A name=SECTION00004000000000000000><FONT color=#000066>Sample Input</FONT></A></H2>
+
+<PRE>
+2 2 2
+10000 1
+20000 2
+30000 1 2
+40000 1 2
+0 0 0
+</PRE>
+
+<P><H2><A name=SECTION00004000000000000000><FONT color=#000066>Sample Output</FONT></A></H2>
+
+<PRE>
+60000
+</PRE>
+
+<P><HR><ADDRESS><I>Problemsetter: Mak Yan Kei
+<br>Idea from "Linear Optimization in Applications", S. L. Tang, Hong Kong University Press, 1999</I>
+</ADDRESS>
+</BODY>
+</HTML>

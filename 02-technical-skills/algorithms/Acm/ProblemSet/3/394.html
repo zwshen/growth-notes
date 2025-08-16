@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Mapmaker</TITLE>
+<META NAME="description" CONTENT="Mapmaker">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Mapmaker</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The Cybersoft Computer Company (a leader in programming languages) has
+hired you to work on a new programming language named A<code>--</code>.
+Your task is to work on the array mapping tasks of the language.  You
+will take an array reference such as <code>x[5,6]</code> and map it to an
+actual physical address.  In preparation for doing this, you will
+write a program that will read in several array declarations and
+references and give the physical address of each reference.  The
+physical address output by the program should be an integer number in
+base 10.
+<P>
+<P>
+The physical address of an array reference  <IMG WIDTH=112 HEIGHT=27 ALIGN=MIDDLE ALT="tex2html_wrap_inline34" SRC="394img1.gif"  >  is
+calculated from the formula  <IMG WIDTH=234 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline36" SRC="394img2.gif"  > , where the constants  <IMG WIDTH=70 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline38" SRC="394img3.gif"  >  are calculated as specified
+below.
+<P>
+<P>
+<P> <IMG WIDTH=362 HEIGHT=145 ALIGN=BOTTOM ALT="tabular20" SRC="394img4.gif"  > <P><H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The first line of the input file contains two positive integers.  The
+first integer specifies <I>N</I>, the number of arrays defined in the data
+file, and the second integer specifies <I>R</I>, the number of array
+references for which addresses should be calculated.  The next <I>N</I>
+lines each define an array, one per line, and the following <I>R</I> lines
+contain one array reference per line for which an address should be
+calculated.
+<P>
+<P>
+Each line which defines an array contains, in the following order, the
+name of the array (which is limited to 10 characters), a positive
+integer which specifies the base address of the array, a positive
+integer which specifies the size in bytes of each array element, and
+<I>D</I>, the number of dimensions in the array (no array will have fewer
+than 1 or more than 10 dimensions).  This is followed on the same line
+by <I>D</I> pairs of integers which represent the lower and upper bounds,
+respectively, of dimensions  <IMG WIDTH=48 HEIGHT=12 ALIGN=BOTTOM ALT="tex2html_wrap_inline90" SRC="394img5.gif"  >  of the array.
+<P>
+<P>
+Each line which specifies an array reference contains the name of the
+array followed by the integer indexes  <IMG WIDTH=90 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline92" SRC="394img6.gif"  >  where <I>D</I>
+is the dimension of the array.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+The output file should contain the array references and the physical
+addresses.  There should be one array reference and physical address
+per line.  The formatting guidelines below <EM>must</EM> be adhered to.
+<P>
+<P>
+For each line of output:
+<P>
+<OL><LI> Output the name of the array<LI> Output a left square bracket<LI> Output each index value (each pair of indexes should have a
+single comma and space between them)<LI> Output a right square bracket, a space, an equal sign, and
+another space<LI> Output the physical address
+</OL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>3 4
+ONE       1500 2 2 0 3 1 5
+TWO       2000 4 3 1 4 0 5 5 10
+THREE     3000 1 1 1 9
+ONE       2 4
+THREE     7
+TWO       2 0 6
+TWO       3 3 9</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>ONE[2, 4] = 1526
+THREE[7] = 3006
+TWO[2, 0, 6] = 2148
+TWO[3, 3, 9] = 2376</PRE>
+<P>
+</BODY>
+</HTML>

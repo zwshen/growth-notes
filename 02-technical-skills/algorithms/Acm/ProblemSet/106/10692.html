@@ -1,0 +1,170 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+	<title>Problem X - Huge Mod</title> 
+<style type="text/css" media="screen">
+	body
+	{
+		margin: 10px 10px 10px 10px;
+		padding: 10;
+		line-height: 180%;
+		font-size: 12pt;
+		font-family: "times new roman";
+		text-align: justify;
+		color: #000000;
+		background-color: #FFFFFF;
+	}
+	h1
+	{
+		margin: 0;
+		color: #000000;
+		text-align: center;
+		font-family: arial;
+		font-weight: bold;
+		font-size: 28pt;
+		line-height: 120%;
+	}
+	h2
+	{
+		margin: 0;
+		color: #000000;
+		text-align: center;
+		font-family: arial;
+		font-weight: bold;
+		font-size: 20pt;
+		line-height: 120%;
+	}
+	h3
+	{
+		margin: 0;
+		color: #000000;
+		text-align: left;
+		font-family: arial;
+		font-weight: bold;
+		font-size: 18pt;
+	}
+	h4
+	{
+		margin: 0;
+		color: #000000;
+		text-align: center;
+		font-family: arial;
+		font-weight: normal;
+		font-size: 12pt;
+		line-height: 120%;
+	}
+	h5
+	{
+		margin: 0;
+		color: #000000;
+		text-align: left;
+		font-family: arial;
+		font-weight: bold;
+		font-size: 12pt;
+		line-height: 120%;
+	}
+	pre
+	{
+		margin: 0;
+		color: #000000;
+		text-align: left;
+		font: "Courier New";
+		font-weight: bold;
+		font-size: 11pt;
+		line-height: 120%;
+	}
+	table
+	{
+		margin: 0;
+		text-align: left;
+		vertical-align: top;
+		font-weight: normal;
+		font-size: 14pt;
+		background: #CCCCCC;
+		border: solid black;
+		border-width: thin;
+		width: 100%;
+	}
+	#highlighted
+	{
+		text-align: left;
+		background-color: #EFEFEF;
+		border: 1px solid #676767;
+		padding: 10px;
+		font-size: 14pt;
+	}
+
+	.imagefloat
+	{
+		float: left;
+		padding: 10px;
+		border: 1px solid #9FA41D;
+		margin: 10px 10px 0px 0px;
+	}
+	.imageinline
+	{
+		padding: 0px;
+		margin: 0 0 0 0;
+		vertical-align: text-bottom;
+	}
+
+</style>
+</head>
+<body>
+<h1>Problem X</h1>
+<h2>Huge Mod</h2>
+<h4><b>Input:</b> standard input</h4>
+<h4><b>Output:</b> standard output</h4>
+<h4><b>Time Limit:</b> 1 second</h4>
+
+<p><img class="imagefloat" src="p106921.png" alt="2^3^4^5 mod 10 = ?">The operator for exponentiation is different from the addition, subtraction, multiplication or division operators in the sense that the default associativity for exponentiation goes right to left instead of left to right. So unless we mess it up by placing parenthesis, <img class="imageinline" src="p106922.png" alt="2^3^2"> should mean <img class="imageinline" src="p106923.png" alt="2^(3^2)=2^9=512">  not <img class="imageinline" src="p106924.png" alt="(2^3)^2=8^2=64">. This leads to the obvious fact that if we take the levels of exponents higher (i.e., 2^3^4^5^3), the numbers can become quite big. But let's not make life miserable. We being the good guys would force the ultimate value to be no more than 10000.
+</p>
+
+<div id="highlighted">
+Given a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, ... , a<sub>N</sub> and m(=10000)<br>
+you only need to compute a<sub>1</sub>^a<sub>2</sub>^a<sub>3</sub>^...^a<sub>N</sub> mod m.
+</div>
+
+<p>
+<h3>Input</h3>
+There can be multiple (not more than 100) test cases. Each test case will be presented in a single line. The first line of each test case would contain the value for M(2&lt;=M&lt;=10000). The next number of that line would be N(1&lt;=N&lt;=10). Then N numbers - the values for a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, ... , a<sub>N</sub> would follow. You can safely assume that 1&lt;=a<sub>i</sub>&lt;=1000. The end of input is marked by a line containing a single hash ('#') mark.
+</p>
+
+<p>
+<h3>Output</h3>
+For each of the test cases, print the test case number followed by the value of a<sub>1</sub>^a<sub>2</sub>^a<sub>3</sub>^...^a<sub>N</sub> mod m on one line. The sample output shows the exact format for printing the test case number.
+</p>
+
+<p>
+<table>
+<tr><td><h3>Sample Input</h3></td><td><h3>Sample Output</h3></td></tr>
+<tr valign="top">
+<td>
+<pre>
+10 4 2 3 4 5
+100 2 5 2
+53 3 2 3 2
+#
+</pre>
+</td>
+<td>
+<pre>
+Case #1: 2
+Case #2: 25
+Case #3: 35
+</pre>
+</td>
+</tr>
+</table>
+</p>
+
+<p>
+<hr>
+<h5>Problem setter: Monirul Hasan, Member of Elite Problemsetters' Panel</h5>
+<h5>Special thanks: Mohammad Sajjad Hossain</h5>
+</p>
+
+</body>
+</html>

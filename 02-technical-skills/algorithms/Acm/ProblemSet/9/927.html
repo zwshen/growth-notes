@@ -1,0 +1,152 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"> <!--Converted with LaTeX2HTML 2002-2-1 (1.70) original version  by: Nikos Drakos, CBLU, University of Leeds * revised and  updated by: Marcus Hennecke, Ross Moore, Herb Swan * with  significant contributions from: Jens Lippmann, Marek Rouchal, Martin -->
+<HTML>
+	<HEAD>
+		<TITLE>MIUP'2004: Problem I</TITLE>
+		<META NAME="description" CONTENT="Integer Sequences from Addition of Terms (ISAT)">
+		<META NAME="keywords" CONTENT="isat">
+		<META NAME="resource-type" CONTENT="document">
+		<META NAME="distribution" CONTENT="global">
+		<META NAME="Generator" CONTENT="LaTeX2HTML v2002-2-1">
+		<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+		<LINK REL="STYLESHEET" HREF="isat.css">
+			<LINK REL="next" HREF="node1.html">
+	</HEAD>
+	<BODY>
+		<H1><font color="#006000">Problem H</font></H1>
+		<H1 ALIGN="center"><font color="#006000">Integer Sequences from Addition of Terms</font></H1>
+		<P ALIGN="left"></P>
+		<font color="#006000"><font color="#000000">We consider sequences formed from the 
+				addition of terms of a given sequence. Let <IMG WIDTH="43" HEIGHT="37" ALIGN="middle" BORDER="0" SRC="927img1.png" ALT="$ \{a_n\}$">,  <!-- MATH $n = 1,2,3,\ldots$ -->
+				<IMG WIDTH="116" HEIGHT="33" ALIGN="middle" BORDER="0" SRC="927img2.png" ALT="$ n = 1,2,3,\ldots$">, 
+				be an arbitrary sequence of integer numbers; <IMG WIDTH="14" HEIGHT="17" ALIGN="bottom" BORDER="0" SRC="927img3.png" ALT="$ d$">
+				a positive integer. We construct another sequence <IMG WIDTH="44" HEIGHT="37" ALIGN="middle" BORDER="0" SRC="927img4.png" ALT="$ \{b_m\}$">,  <!-- MATH $m = 1,2,3,\ldots$ -->
+				<IMG WIDTH="121" HEIGHT="33" ALIGN="middle" BORDER="0" SRC="927img5.png" ALT="$ m = 1,2,3,\ldots$">, 
+				by defining <IMG WIDTH="25" HEIGHT="35" ALIGN="middle" BORDER="0" SRC="927img6.png" ALT="$ b_m$">
+				as consisting of <!-- MATH $n \times d$ -->
+				<IMG WIDTH="49" HEIGHT="35" ALIGN="middle" BORDER="0" SRC="927img7.png" ALT="$ n \times d$">
+				occurrences of the term <IMG WIDTH="23" HEIGHT="33" ALIGN="middle" BORDER="0" SRC="927img8.png" ALT="$ a_n$">:
+			</font></font>
+		<P></P>
+		<DIV ALIGN="center"><font color="#006000"><font color="#000000"><!-- MATH \begin{equation*} b_1 = \underbrace{a_1, \ldots, a_1}_{d \text{ occurrences of  } a_1} \, , \quad b_2 = \underbrace{a_2, \ldots, a_2}_{2d \text{ occurrences of } a_2} \, , \quad b_3 = \underbrace{a_3, \ldots, a_3}_{3d \text{ occurrences of } a_3} \, -->
+				</font></font>
+			<TABLE CELLPADDING="0" WIDTH="100%" ALIGN="center">
+				<TR VALIGN="middle">
+					<TD NOWRAP ALIGN="center"><IMG WIDTH="590" HEIGHT="71" ALIGN="middle" BORDER="0" SRC="927img9.png" ALT="$\displaystyle b_1 = \underbrace{a_1, \ldots, a_1}_{d \text{ occurrences of } a_...&#10;...underbrace{a_3, \ldots, a_3}_{3d \text{ occurrences of } a_3} \, , \quad \cdots$"></TD>
+					<TD NOWRAP WIDTH="10" ALIGN="right">
+						&nbsp;&nbsp;&nbsp;</TD>
+				</TR>
+			</TABLE>
+		</DIV>
+		<font color="#006000"><font color="#000000">
+				<BR CLEAR="all">
+			</font></font>
+		<P></P>
+		<font color="#006000"><font color="#000000">For example, if <IMG WIDTH="60" HEIGHT="33" ALIGN="middle" BORDER="0" SRC="927img10.png" ALT="$ a_n = n$">, 
+				and <IMG WIDTH="49" HEIGHT="17" ALIGN="bottom" BORDER="0" SRC="927img11.png" ALT="$ d = 1$">, 
+				then the resulting sequence <IMG WIDTH="44" HEIGHT="37" ALIGN="middle" BORDER="0" SRC="927img4.png" ALT="$ \{b_m\}$">
+				is: </font></font>
+		<P></P>
+		<DIV ALIGN="center"><font color="#006000"><font color="#000000"><!-- MATH \begin{equation*} -->
+				</font></font>
+			<TABLE CELLPADDING="0" WIDTH="100%" ALIGN="center">
+				<TR VALIGN="middle">
+					<TD NOWRAP ALIGN="center"><IMG WIDTH="240" HEIGHT="71" ALIGN="middle" BORDER="0" SRC="927img12.png" ALT="$\displaystyle \underbrace{1}_{b_1},\underbrace{2,2}_{b_2},\underbrace{3,3,3}_{b_3},&#10; \underbrace{4,4,4,4}_{b_4},\cdots$"></TD>
+					<TD NOWRAP WIDTH="10" ALIGN="right">
+						&nbsp;&nbsp;&nbsp;</TD>
+				</TR>
+			</TABLE>
+		</DIV>
+		<font color="#006000"><font color="#000000">
+				<BR CLEAR="all">
+			</font></font>
+		<P></P>
+		<H2><font color="#006000"><font color="#000000"><FONT color="#006000">Problem</FONT></font></font></H2>
+		<P align="left">
+			<font color="#006000"><font color="#000000">Given <IMG WIDTH="23" HEIGHT="33" ALIGN="middle" BORDER="0" SRC="927img8.png" ALT="$ a_n$">
+					and <IMG WIDTH="14" HEIGHT="17" ALIGN="bottom" BORDER="0" SRC="927img3.png" ALT="$ d$">
+					we want to obtain the corresponding <IMG WIDTH="15" HEIGHT="17" ALIGN="bottom" BORDER="0" SRC="927img13.png" ALT="$ k$">th 
+					integer in the sequence <IMG WIDTH="44" HEIGHT="37" ALIGN="middle" BORDER="0" SRC="927img4.png" ALT="$ \{b_m\}$">. 
+					For example, with <IMG WIDTH="60" HEIGHT="33" ALIGN="middle" BORDER="0" SRC="927img10.png" ALT="$ a_n = n$">
+					and <IMG WIDTH="49" HEIGHT="17" ALIGN="bottom" BORDER="0" SRC="927img11.png" ALT="$ d = 1$">
+					we have 3 for <IMG WIDTH="50" HEIGHT="17" ALIGN="bottom" BORDER="0" SRC="927img14.png" ALT="$ k = 6$">; 
+					we have 4 for <IMG WIDTH="50" HEIGHT="17" ALIGN="bottom" BORDER="0" SRC="927img15.png" ALT="$ k=7$">. 
+					With <IMG WIDTH="60" HEIGHT="33" ALIGN="middle" BORDER="0" SRC="927img10.png" ALT="$ a_n = n$">
+					and <IMG WIDTH="49" HEIGHT="17" ALIGN="bottom" BORDER="0" SRC="927img16.png" ALT="$ d = 2$">, 
+					we have 2 for <IMG WIDTH="50" HEIGHT="17" ALIGN="bottom" BORDER="0" SRC="927img14.png" ALT="$ k = 6$">; 
+					we have 3 for <IMG WIDTH="50" HEIGHT="17" ALIGN="bottom" BORDER="0" SRC="927img15.png" ALT="$ k=7$">.
+				</font></font>
+			<H2><font color="#006000"><font color="#000000"><FONT color="#006000">Input</FONT></font></font></H2>
+		<P align="left">
+			The first line of input contains <i>C</i> (<i>0 &lt; C &lt; 100</i>
+		), the number of test cases that follows.
+		<p align="left"><font color="#006000"><font color="#000000">Each of the <font color="black"><i>C</i><font color="#006000"><font color="#000000">
+								test cases consists of three lines: </font></font>
+		</p>
+		<OL>
+			<LI>
+				<font color="#006000"><font color="#000000">The first line represents <IMG WIDTH="23" HEIGHT="33" ALIGN="middle" BORDER="0" SRC="927img8.png" ALT="$ a_n$">
+						- a polynomial in <IMG WIDTH="16" HEIGHT="16" ALIGN="bottom" BORDER="0" SRC="927img17.png" ALT="$ n$">
+						of degree <IMG WIDTH="11" HEIGHT="16" ALIGN="bottom" BORDER="0" SRC="927img18.png" ALT="$ i$">
+						with non-negative integer coefficients in increasing order of the power:<!-- MATH \begin{displaymath} a_n = c_0+c_1 n +c_2 n^2+c_3 n^3+\cdots + c_i n^i -->
+					</font></font>
+				<P></P>
+				<DIV ALIGN="center">
+					<font color="#006000"><font color="#000000"><IMG WIDTH="335" HEIGHT="41" ALIGN="middle" BORDER="0" SRC="927img19.png" ALT="$\displaystyle a_n = c_0+c_1 n&#10;+c_2 n^2+c_3 n^3+\cdots + c_i n^i \, ,&#10;$">
+						</font></font>
+				</DIV>
+				<P></P>
+				<font color="#006000"><font color="#000000">where <!-- MATH $c_j \in \mathbb{N}_0$ -->
+						<IMG WIDTH="64" HEIGHT="35" ALIGN="middle" BORDER="0" SRC="927img20.png" ALT="$ c_j \in \mathbb{N}_0$">,  <!-- MATH $j = 0,\ldots,i$ -->
+						<IMG WIDTH="96" HEIGHT="34" ALIGN="middle" BORDER="0" SRC="927img21.png" ALT="$ j = 0,\ldots,i$">. 
+						This polynomial <IMG WIDTH="23" HEIGHT="33" ALIGN="middle" BORDER="0" SRC="927img8.png" ALT="$ a_n$">
+						is codified by its degree <IMG WIDTH="11" HEIGHT="16" ALIGN="bottom" BORDER="0" SRC="927img18.png" ALT="$ i$">
+						followed by the coefficients <IMG WIDTH="20" HEIGHT="33" ALIGN="middle" BORDER="0" SRC="927img22.png" ALT="$ c_j$">,  <!-- MATH $j = 0,\ldots,i$ -->
+						<IMG WIDTH="96" HEIGHT="34" ALIGN="middle" BORDER="0" SRC="927img21.png" ALT="$ j = 0,\ldots,i$">. 
+						All the numbers are separated by a single space. </font></font>
+			<LI>
+				<font color="#006000"><font color="#000000">The second line is the positive integer <IMG WIDTH="14" HEIGHT="17" ALIGN="bottom" BORDER="0" SRC="927img3.png" ALT="$ d$">.
+					</font></font>
+			<LI>
+				<font color="#006000"><font color="#000000">The third line is the positive integer <IMG WIDTH="15" HEIGHT="17" ALIGN="bottom" BORDER="0" SRC="927img13.png" ALT="$ k$">.
+					</font></font>
+			</LI>
+		</OL>
+		<P>
+			<font color="#006000"><font color="#000000">It is assumed that the polynomial <IMG WIDTH="23" HEIGHT="33" ALIGN="middle" BORDER="0" SRC="927img8.png" ALT="$ a_n$">
+					is a polynomial of degree less or equal than 20 (<!-- MATH $1 \le i \le 20$ -->
+					<IMG WIDTH="90" HEIGHT="34" ALIGN="middle" BORDER="0" SRC="927img23.png" ALT="$ 1 \le i \le 20$">) 
+					with non-negative integer coefficients less or equal than 10000 (<!-- MATH $0 \le c_j \le 10000$ -->
+					<IMG WIDTH="127" HEIGHT="33" ALIGN="middle" BORDER="0" SRC="927img24.png" ALT="$ 0 \le c_j \le 10000$">,  <!-- MATH $j = 0,\ldots,i$ -->
+					<IMG WIDTH="96" HEIGHT="34" ALIGN="middle" BORDER="0" SRC="927img21.png" ALT="$ j = 0,\ldots,i$">);<!-- MATH $1 \le d \le 100000$ -->
+					<IMG WIDTH="131" HEIGHT="35" ALIGN="middle" BORDER="0" SRC="927img25.png" ALT="$ 1 \le d \le 100000$">;  <!-- MATH $1 \le k \le 1000000$ -->
+					<IMG WIDTH="141" HEIGHT="35" ALIGN="middle" BORDER="0" SRC="927img26.png" ALT="$ 1 \le k \le 1000000$">.
+				</font></font>
+			<H2><font color="#006000"><font color="#000000"><FONT color="#006000">Output</FONT></font></font></H2>
+		<P>
+			<font color="#006000"><font color="#000000">The output is a sequence of lines, one for 
+					each test case. Each of these lines contains </font></font><FONT color="#006000">
+				<FONT color="#000000">the <IMG WIDTH="15" HEIGHT="17" ALIGN="bottom" BORDER="0" SRC="927img13.png" ALT="$ k$">th 
+					integer in the sequence <IMG WIDTH="44" HEIGHT="37" ALIGN="middle" BORDER="0" SRC="927img4.png" ALT="$ \{b_m\}$">&nbsp;for 
+					the corresponding test case. This value is less or equal than <IMG WIDTH="61" HEIGHT="39" ALIGN="middle" BORDER="0" SRC="927img27.png" ALT="$ 2^{63}-1$">.
+				</FONT></FONT>
+		</P>
+		<H2><font color="#006000"><font color="#000000"><FONT color="#006000">Sample Input</FONT></font></font></H2>
+		<PRE>
+<font color="#006000"><font color="#000000">2
+</font></font><FONT color=#006000><FONT color=#000000>4 3 0 0 0 23
+25
+100<BR>1 0 1<BR>1<BR>6
+</FONT></FONT></PRE>
+		<H2><font color="#006000"><font color="#000000"><FONT color="#006000">Sample Output</FONT></font></font></H2>
+		<PRE>
+<font color="#006000"><font color="#000000">1866<BR>3
+</font></font></PRE>
+		<HR>
+		<center><font color="#006000"><font color="#000000"><FONT SIZE="4">MIUP’2004: Fourth Portuguese 
+						National Programming Contest </FONT></font></font>
+		</center>
+		<HR>
+		<p><font color="#006000"><font color="#000000">Problem setter: Delfim Torres</font></font></p>
+		</FONT></FONT></FONT>
+	</BODY>
+</HTML>

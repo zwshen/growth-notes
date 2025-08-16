@@ -1,0 +1,198 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 12 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.MsoPlaceholderText
+	{color:gray;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center'><b><span style='font-size:22.0pt;line-height:115%;
+font-family:"Times New Roman","serif"'>Problem F</span></b></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center'><b><span style='font-size:20.0pt;line-height:115%;
+font-family:"Times New Roman","serif"'>Fear of The Dark</span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:3.0pt;text-align:center'><span
+style='font-family:"Times New Roman","serif"'>Time Limit: 3 Second</span></p>
+
+<p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:right'><i><span style='font-family:"Times New Roman","serif"'>“At
+night or strolling through the park, fear of the dark.”</span></i></p>
+
+<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify'><span
+style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>When
+Dickenson was walking in a dark road, he noticed that he has been surrounded by
+N ghosts. So he stopped at the point (x, y) and realized that each ghost is
+shaped like a line segment. The ghosts are fixed at their positions and they
+are not moving.  Dickenson was lucky that he was carrying a gun which can shoot
+“anti-ghost” ray to kill ghosts. But the gun can shoot the ray at a particular
+angle &#952; and can shoot at most K shots. The angle &#952; can’t be less than
+1 degree or greater than 180 degree. Whenever he shoots a ray, the ray spreads
+at the angle ‘&#952;’ and goes towards infinity and destroying any body parts
+of the ghosts in its path. A ghost is said to be killed if “anti-ghost” rays
+destroy its whole body. If there is just a single point on the ghost’s body
+that is not being destroyed, the ghost is alive. He can shoot to any direction.
+Note that sometimes he may need several shots at several directions to
+completely kill a ghost. Given Dickenson’s position (x, y), the maximum shots K
+and the endpoints of the body of all the ghosts you have to determine the
+minimum angle which can be used to kill all the ghosts.</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal><img width=990 height=218 src="p11382.gif"></p>
+
+<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>The
+above picture shows how the gun works. A shot has been made at the angle
+‘&#952;’ and the ray destroyed some parts of the ghost G1 and then it destroyed
+the whole body of the ghost G2. </span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
+style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><u><span style='font-size:14.0pt;line-height:115%;
+font-family:"Times New Roman","serif"'>Input:</span></u></b></p>
+
+<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>The
+first line of the input contains X, the number of test cases. Each case starts
+with four numbers N (</span><span style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman","serif"'> 1 &#8804; N &#8804; 50 </span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>),
+K ( 1 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>&#8804;
+K &#8804; 10 </span><span style='font-size:12.0pt;line-height:115%;font-family:
+"Times New Roman","serif"'>), x and y. Where N is the number of ghosts, K is
+the maximum number of shots that can be made using the gun, (x, y) is the
+Cartesian co-ordinate of Dickenson’s position.  Then there will be N lines
+containing four numbers x1, y1, x2 and y2 describing each ghost’s body. Here
+(x1, y1) and (x2, y2) are the end points of a ghost’s body. All the
+co-ordinates in the input file have an absolute magnitude at most 10,000. For
+no ghost (x1, y1), (x2, y2) and (x, y) will be collinear.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify'><b><u><span
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman","serif"'>Output:</span></u></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'>For every test case you
+have to output one line which contains the minimum angle &#952; to shoot all
+the ghosts. You have to output &#952; to 4 decimal places. Errors less than or
+equal to ±0.0001 are considered to be correct. If it is impossible to kill all
+the ghosts then output -1.0000.</span></p>
+
+<p class=MsoNormal style='margin-bottom:6.0pt'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none'>
+ <tr>
+  <td width=319 valign=top style='width:239.4pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>SAMPLE
+  INPUT</span></b></p>
+  </td>
+  <td width=319 valign=top style='width:239.4pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman","serif"'>OUTPUT
+  FOR SAMPLE INPUT</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=319 valign=top style='width:239.4pt;border:solid black 1.0pt;
+  border-top:none;background:#BFBFBF;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Courier New"'>1</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Courier New"'>4 3 0 0</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Courier New"'>2 2 2 -2</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Courier New"'>3 3 3 1</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Courier New"'>4 2 8 2</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Courier New"'>-6 1 -6 0</span></p>
+  </td>
+  <td width=319 valign=top style='width:239.4pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  background:#BFBFBF;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Courier New"'>45.0000</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
+style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
+style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>Problemsetter:</span></b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>
+Tasnim Imran Sunny</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>Special
+Thanks to:</span></b><span style='font-size:12.0pt;line-height:115%;font-family:
+"Times New Roman","serif"'> Md. Mahbubul Hasan</span></p>
+
+</div>
+
+</body>
+
+</html>

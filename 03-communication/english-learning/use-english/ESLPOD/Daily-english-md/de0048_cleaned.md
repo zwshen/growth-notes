@@ -1,0 +1,90 @@
+# Getting a Haircut
+
+Welcome to English as a Second Language Podcast num ber 48 – Getting a Haircut.  
+
+This is English as a Second Language Podcast episod e 48. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+In this episode, we’re going to discuss going to ge t a haircut. Let's get started.  
+
+[start of dialogue] 
+
+I have an appointment with my hairdresser today. It  has been too long since I had my hair cut. My bangs were too long. I had spli t ends and my roots were showing. I was a mess! 
+
+I arrived for my appointment, and I told the recept ionist that I was there for an appointment with Mark. She told me that he was fini shing up with another client and that he would be with me soon. About 10 minutes  later, he came over to where I was sitting and took me back to his station .  
+
+Mark: Hi, how have you been? You're looking good. 
+
+Lucy: Thanks. I've been great. Thanks for fitting m e in today.  
+
+Mark: No problem. So, tell me, what do you want to have done today? 
+
+Lucy: I need a trim. 
+
+Mark: Okay. Let's see, how short do you want me to cut it? Shoulder length? Chin length? 
+
+Lucy: I'd like to take it up about two inches in th e back, and the bangs should fall just under my eyebrows.  
+
+Mark: Okay, I really think that's a good length for  your face shape.  
+
+Just as I had hoped, Mark did a great job with my h air. I paid the receptionist and made sure I gave him a big tip. Anyone who can do w onders with my crazy hair definitely deserves it! 
+
+[end of dialogue] 
+
+Our story begins with Lucy telling us that she has an appointment with her hairdresser today. A “hairdresser” (hairdresser) is  a person who cuts and colors and does other things with your hair. “Hairdresser”  is a somewhat older name. Nowadays, you will hear the term “stylist” (stylist ) to describe what a hairdresser does.  
+
+There's also the term “barber” (barber). A “barber”  is usually someone who cuts only men's hair. A “barber” isn't normally associat ed with the person who cuts a woman's hair. “Hairdresser” or “stylist” could be a ssociated with either a man or a woman. Traditionally, it was associated only with w omen. My mother used to go to a “hairdresser” every . . . I don't know, two we eks, a month, I don't remember – to get her hair done: to cut it, to perhaps do some thing with the color, to do whatever hairdressers do with women's hair.  
+
+Lucy says, “It has been too long since I had my hai r cut. My bangs were too long.” Your “bangs” (bangs) are the hairs that hang  in the front of your head over your forehead, usually stopping before your eyes. I f your bangs don't stop before your eyes then you, of course, can't see. Lucy says  her bangs were too long. She says, “I had split ends and my roots were showing. I was a mess!” “Split ends” (ends) is a situation where the ends of your hair a re damaged and they divide into two separate pieces when they should just be o ne piece. This is something, again, I think women worry about more than men, but  apparently it doesn't make your hair look very good when you have split ends.  
+
+Lucy says she has split ends. “And,” she says, “my roots were showing.” “Roots” (roots) here refers to the part of your hair that i s right next to your head, right next to your scalp, which is the top of your head. It's the point at which the hair grows out of your head. If you dye your hair – if you col or your hair, as many women do, and some men who don't want people to see their gra y hair – you will eventually see that the original color of your hair will begin  to show because, of course, the hair grows and new hair that grows out of your head  won't be the color of the hair that had been dyed or colored. That's the problem t hat Lucy is having. 
+
+Lucy told the receptionist that she was “there for an appointment with Mark.” The “receptionist” would be the person who works at the  front of the “salon” (salon), which is a place where hairdressers work. The “rece ptionist” is the person who makes appointments for customers and usually takes their money at the end of the haircut. The receptionist was told by Lucy that  she was there for an appointment with Mark.  
+
+The receptionist told Lucy he was “finishing up wit h another client” and that he would be with her soon. “To finish up” is a phrasal  verb meaning to be at the end of some task that you’re performing – to be almost done, but not quite done. “I'm just finishing up my project.” I'm just completing it. I'm not finished with it. It's not complete, but it is almost complete. That's the ide a of “to finish up.”  
+
+Mark is finishing up with another client. The word “client” (client) here just means a customer, usually a customer who pays for some se rvice – something that is done to them or for them. A “customer” is a more ge neral term that would be used, for example, if you were going in to buy some thing like a car or a cup of coffee. That would be a case where we would use “cu stomer.”  
+
+Lucy continues the story. She says, “About 10 minut es later, he came over to where I was sitting and took me back to his station .” So, Mark walked over to where Lucy was sitting and took her to his station.  “Station” here refers to an area where someone works inside of a hair salon, in side of what we used to call, at least for women, a “beauty parlor” (parlor). But  they don't call them “beauty parlors” anymore. Now they're called “salons,” whic h I guess sounds better.  
+
+Mark says to Lucy, “Hi, how have you been? You’re l ooking good.” Lucy says, “Thanks! I've been great. Thanks for fitting me in today.” “To fit someone in” is a phrasal verb that means to make time for someone. I f you have a busy schedule and someone wants to have an appointment with you, you may decide to fit them in. “I have a little time between my nine o'clock a ppointment and my ten o'clock appointment. I’ll fit you in at 9:45.” Mark is bein g thanked by Lucy for fitting her into his schedule today to have her hair cut.  
+
+Mark says, “No problem,” meaning it's not a problem . “So, tell me, what do you want to have done today?” Lucy says, “I need a trim .” A “trim” (trim) is a haircut that removes a small amount of hair from the bottom  of your hair, if you will, without changing the actual style of the hair. When  you trim your hair, you're not cutting off very much hair. You're just cutting off  a little bit to make it look better. Mark says, “Okay. Let's see, how short do you want me to cut it? Shoulder length? Chin length?” Mark is asking Lucy how much hair he should cut.  
+
+Lucy is being asked if she wants it shoulder length  or chin length. “Shoulder length” means that your hair would go down and stop  at your shoulder. Again, this is something we would normally talk about for a woman getting her hair cut, although, of course, there are men now who have hai r down to their shoulders. My brother had hair down to his shoulders, but that  was back in the 1970s. I guess it was more common then. Mark also gives Lucy  the option of “chin  
+
+length.” Your “chin” (chin) is the bottom of your f ace, basically. It's where your jaw is, right below your mouth, or the bottom of your m outh.  
+
+Lucy says, “I'd like to take it up about two inches  in the back, and the bangs should fall just under my eyebrows.” “To take somet hing up,” when we’re talking about haircuts, means to make it shorter, to remove  the length. We also use this phrasal verb in talking about a pair of pants that need to be shortened or a skirt that needs to be shortened. You can take it up a fe w inches. That expression is used with hair to describe how much should be cut f rom the hair. “To take something up” can also mean to start an activity. “ I'm going to take up playing the violin.” I'm going to start this new hobby, this ne w activity. In this case, however, it just means to shorten. 
+
+Lucy wants her bangs to fall just under her eyebrow s. Her “eyebrows” are, of course, the little strips of hair that are above he r eyes. She wants her bangs to stop at her eyebrows. Mark says, “Okay. I really th ink that's a good length for your face shape” – for the form or shape of your fa ce. Of course, Mark has to say that because he's getting paid by Lucy. Lucy ends t he story by saying, “Just as I had hoped” – just as I had wanted – “Mark did a gre at job with my hair.”  
+
+Lucy says, “I paid the receptionist and made sure I  gave him a big tip.” A “tip” (tip) is extra money you give someone who's done a good job, who’s given you good service. It's very common to tip your hairstyl ists or hairdresser or barber. She says, “Anyone who can do wonders with my crazy hair definitely deserves it.” She’s saying that Mark deserves extra money. H e deserves a tip because he's done such a great job with her crazy hair. “Cr azy” here doesn't mean mentally insane. “Crazy” just means difficult to co ntrol or difficult to work with. 
+
+Now let's listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+I have an appointment with my hairdresser today. It  has been too long since I had my hair cut. My bangs were too long. I had spli t ends and my roots were showing. I was a mess! 
+
+I arrived for my appointment, and I told the recept ionist that I was there for an appointment with Mark. She told me that he was fini shing up with another client and that he would be with me soon. About 10 minutes  later, he came over to where I was sitting and took me back to his station .  
+
+Mark: Hi, how have you been? You're looking good.  
+
+ Lucy: Thanks. I've been great. Thanks for fitting m e in today.  
+
+Mark: No problem. So, tell me, what do you want to have done today? 
+
+Lucy: I need a trim. 
+
+Mark: Okay. Let's see, how short do you want me to cut it? Shoulder length? Chin length? 
+
+Lucy: I'd like to take it up about two inches in th e back, and the bangs should fall just under my eyebrows.  
+
+Mark: Okay, I really think that's a good length for  your face shape.  
+
+Just as I had hoped, Mark did a great job with my h air. I paid the receptionist and made sure I gave him a big tip. Anyone who can do w onders with my crazy hair definitely deserves it! 
+
+[end of dialogue] 
+
+Thanks to our wonderful script writer, Dr. Lucy Tse , for all of her wonderful work, and thanks to you for listening.  
+

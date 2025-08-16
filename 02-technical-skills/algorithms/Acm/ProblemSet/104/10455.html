@@ -1,0 +1,268 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0063)http://acm.uva.es/contest/data/next/problemset-rey345kl/p2.html -->
+<HTML xmlns="http://www.w3.org/TR/REC-html40" xmlns:v = 
+"urn:schemas-microsoft-com:vml" xmlns:o = 
+"urn:schemas-microsoft-com:office:office" xmlns:w = 
+"urn:schemas-microsoft-com:office:word"><HEAD><TITLE>Problem C - Gray Code</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META content=Word.Document name=ProgId>
+<META content="MSHTML 6.00.2600.0" name=GENERATOR>
+<META content="Microsoft Word 10" name=Originator><LINK 
+href="p0_files/filelist.xml" rel=File-List><LINK href="p0_files/editdata.mso" 
+rel=Edit-Time-Data><!--[if !mso]>
+<STYLE>v\:* {
+	BEHAVIOR: url(#default#VML)
+}
+o\:* {
+	BEHAVIOR: url(#default#VML)
+}
+w\:* {
+	BEHAVIOR: url(#default#VML)
+}
+.shape {
+	BEHAVIOR: url(#default#VML)
+}
+</STYLE>
+<![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<STYLE>@font-face {
+	font-family: Courier;
+}
+@page Section1 {size: 8.5in 11.0in; margin: 1.0in .9in 1.0in .9in; mso-header-margin: .5in; mso-footer-margin: .5in; mso-paper-source: 0; }
+P.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-STYLE: italic; FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: justify; mso-pagination: widow-orphan; mso-outline-level: 1
+}
+P.MsoTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 18pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: center; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 18pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: center; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 18pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: center; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+P.MsoBodyText {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; COLOR: windowtext; FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoBodyText {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; COLOR: windowtext; FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoBodyText {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; COLOR: windowtext; FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+P.MsoSubtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 24pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: center; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoSubtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 24pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: center; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoSubtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 24pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: center; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+P.MsoBodyText2 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: justify; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoBodyText2 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: justify; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoBodyText2 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: justify; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+P.MsoBodyText3 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: center; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoBodyText3 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: center; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoBodyText3 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; COLOR: black; FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: center; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+A:link {
+	COLOR: #6633cc; TEXT-DECORATION: underline; text-underline: single
+}
+SPAN.MsoHyperlink {
+	COLOR: #6633cc; TEXT-DECORATION: underline; text-underline: single
+}
+A:visited {
+	COLOR: purple; TEXT-DECORATION: underline; text-underline: single
+}
+SPAN.MsoHyperlinkFollowed {
+	COLOR: purple; TEXT-DECORATION: underline; text-underline: single
+}
+P {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 0in; COLOR: black; MARGIN-RIGHT: 0in; FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto
+}
+P.preformatted {
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt; LAYOUT-GRID-MODE: char; COLOR: windowtext; FONT-FAMILY: "Courier New"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-style-name: preformatted
+}
+LI.preformatted {
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt; LAYOUT-GRID-MODE: char; COLOR: windowtext; FONT-FAMILY: "Courier New"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-style-name: preformatted
+}
+DIV.preformatted {
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt; LAYOUT-GRID-MODE: char; COLOR: windowtext; FONT-FAMILY: "Courier New"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-style-name: preformatted
+}
+DIV.Section1 {
+	page: Section1
+}
+</STYLE>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--></HEAD>
+<BODY lang=EN-US style="tab-interval: .5in" vLink=purple link=#6633cc 
+bgColor=#d0d0ff>
+<DIV class=Section1>
+<P class=MsoNormal style="TEXT-ALIGN: center" align=center><B><SPAN 
+style="FONT-SIZE: 18pt; COLOR: windowtext">Problem C</SPAN></B><SPAN 
+style="COLOR: windowtext"><BR></SPAN><B><SPAN 
+style="FONT-SIZE: 24pt; COLOR: windowtext">Gray Code</SPAN></B><SPAN 
+style="COLOR: windowtext"><BR></SPAN><B>Input:</B> standard 
+input<BR><B>Output:</B> standard output<BR><B>Time Limit:</B> 2 
+seconds<BR><B>Memory Limit:</B> 32 MB</P><BR>
+<P class=MsoNormal style="TEXT-ALIGN: justify">All of you know about Gray Code. 
+It is a number code where consecutive numbers are represented by binary patterns 
+that differ in one bit position only. In the following 4 examples of 3-bit gray 
+code are shown : 
+<CENTER><BR>0 0 0 &nbsp;&nbsp;&nbsp;&nbsp; 0 0 0 &nbsp;&nbsp;&nbsp;&nbsp; 0 0 0 
+&nbsp;&nbsp;&nbsp;&nbsp; 0 0 0 <BR>0 0 1 &nbsp;&nbsp;&nbsp;&nbsp; 0 0 1 
+&nbsp;&nbsp;&nbsp;&nbsp; 0 1 0 &nbsp;&nbsp;&nbsp;&nbsp; 0 1 0<BR>0 1 1 
+&nbsp;&nbsp;&nbsp;&nbsp; 0 1 1 &nbsp;&nbsp;&nbsp;&nbsp; 0 1 1 
+&nbsp;&nbsp;&nbsp;&nbsp; 0 1 1<BR>0 1 0 &nbsp;&nbsp;&nbsp;&nbsp; 0 1 0 
+&nbsp;&nbsp;&nbsp;&nbsp; 0 0 1 &nbsp;&nbsp;&nbsp;&nbsp; 0 0 1<BR>1 1 0 
+&nbsp;&nbsp;&nbsp;&nbsp; 1 1 0 &nbsp;&nbsp;&nbsp;&nbsp; 1 0 1 
+&nbsp;&nbsp;&nbsp;&nbsp; 1 0 1<BR>1 1 1 &nbsp;&nbsp;&nbsp;&nbsp; 1 0 0 
+&nbsp;&nbsp;&nbsp;&nbsp; 1 0 0 &nbsp;&nbsp;&nbsp;&nbsp; 1 1 1<BR>1 0 1 
+&nbsp;&nbsp;&nbsp;&nbsp; 1 0 1 &nbsp;&nbsp;&nbsp;&nbsp; 1 1 0 
+&nbsp;&nbsp;&nbsp;&nbsp; 1 1 0<BR>1 0 0 &nbsp;&nbsp;&nbsp;&nbsp; 1 1 1 
+&nbsp;&nbsp;&nbsp;&nbsp; 1 1 1 &nbsp;&nbsp;&nbsp;&nbsp; 1 0 0<BR><BR></CENTER>
+<P class=MsoNormal style="TEXT-ALIGN: justify">In this problem we will deal with 
+a gray code generation logic. This logic will generate the n-bit gray code using 
+the coding of (n-1) bits. Lets formally define the rules : 
+<LI>
+<P class=MsoNormal style="TEXT-ALIGN: justify">Each gray code has a starting bit 
+pattern. Such as "0 0 0" or "1 0 1" etc. </P>
+<LI>
+<P class=MsoNormal style="TEXT-ALIGN: justify">An n-bit gray code will have 2^n 
+rows and two consecutive rows will differ by only one bit. </P>
+<LI>
+<P class=MsoNormal style="TEXT-ALIGN: justify">Each bit pattren will be present 
+exactly once. </P>
+<LI>
+<P class=MsoNormal style="TEXT-ALIGN: justify">Gray code for 1-bit is trivial. 
+Start with a bit and invert it in the next row. </P>
+<LI>
+<P class=MsoNormal style="TEXT-ALIGN: justify">To construct n-bit gray code keep 
+any of the n bits fixed (either 0 or 1) for the first 2^(n-1) rows and use 
+(n-1)-bit gray code (generated using this logic) for remaining (n-1) bits. Then 
+invert the fixed bit for the next 2^(n-1) rows and also use (n-1)-bit gray code 
+for remaining (n-1) bits whose bit pattern of the first row is the same as the 
+bit pattern of the last row of previous 2^(n-1) rows. For example 2-bit gray 
+code starting with "00" may be : <BR>
+<CENTER>00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 00<BR>01 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10<BR>11 &nbsp; Or &nbsp; 
+11<BR>10 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 01<BR></CENTER>
+<P class=MsoNormal style="TEXT-ALIGN: justify">Simmilarly 2-bit gray code 
+starting with "01" may be : <BR>
+<CENTER>01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 01<BR>00 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11<BR>10 &nbsp; Or &nbsp; 
+10<BR>11 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 00<BR></CENTER>
+<P>
+<P class=MsoNormal style="TEXT-ALIGN: justify">If you observe carefully, you 
+will see that the 3-bit gray codes given above are also constructed using this 
+logic. Many such gray codes are possible for a particular starting bit pattern. 
+We can order them from 1 to G(n) where G(n) denotes the number of such gray 
+codes for n-bit. In our ordering scheme : </P>
+<LI>
+<P class=MsoNormal style="TEXT-ALIGN: justify">1st n-bit gray code has its 
+leftmost bit fixed and it uses 1st (n-1)-bit gray code for upper half and also 
+1st (n-1)-bit gray code for lower half. </P>
+<LI>
+<P class=MsoNormal style="TEXT-ALIGN: justify">G(n-1)'th n-bit gray code has its 
+leftmost bit fixed and it uses 1st (n-1)-bit gray code for upper half and 
+G(n-1)'th (n-1)-bit gray code for lower half. </P>
+<LI>
+<P class=MsoNormal style="TEXT-ALIGN: justify">[G(n-1)+1]'th n-bit gray code has 
+its leftmost bit fixed and it uses 2nd (n-1)-bit gray code for upper half and 
+1st (n-1)-bit gray code for lower half. </P>
+<LI>
+<P class=MsoNormal style="TEXT-ALIGN: justify">G(n)'th n-bit gray code has its 
+rightmost bit fixed and it uses G(n-1)'th (n-1)-bit gray code for both 
+halves.<BR>You have to find a n-bit gray code for given starting bit pattern and 
+index. 
+<P>
+<P class=MsoNormal><B><SPAN 
+style="FONT-SIZE: 18pt; COLOR: windowtext">Input</SPAN></B></P>
+<P class=MsoNormal style="TEXT-ALIGN: justify">The first line of the input file 
+contains a single integer <B>N (0&lt;N&lt;=1000) </B>which denotes the number of 
+inputs. Each of the next <B>N</B> lines contains a string of bits for starting 
+bit pattern and an integer for index. Number of bits will be between 1 to 6. And 
+the index will be valid. </B></P>
+<P class=MsoNormal style="TEXT-ALIGN: justify">&nbsp;</P>
+<P class=MsoNormal><B><SPAN 
+style="FONT-SIZE: 18pt; COLOR: windowtext">Output</SPAN></B></P>
+<P class=MsoNormal style="TEXT-ALIGN: justify">Print the gray code for the given 
+starting bit pattern and index. Put a blank line between two consecutive sets of 
+inputs. </P>
+<P class=MsoNormal style="TEXT-ALIGN: justify">&nbsp;</P>
+<P class=MsoNormal><B><SPAN style="FONT-SIZE: 18pt; COLOR: windowtext">Sample 
+Input</SPAN></B><SPAN style="COLOR: windowtext"> <FONT face=courier size=3><XMP>3
+000 1
+111 5
+10 2
+</XMP></FONT><BR>
+<P class=MsoNormal><B><SPAN style="FONT-SIZE: 18pt; COLOR: windowtext">Sample 
+Output</SPAN></B></P><FONT face=courier size=3><XMP>000
+001
+011
+010
+110
+111
+101
+100
+
+111
+110
+010
+011
+001
+000
+100
+101
+
+10
+00
+01
+11
+</XMP></FONT>
+<HR align=center width="100%" SIZE=2>
+</SPAN></LI></DIV>
+<P class=MsoNormal><B><SPAN style="COLOR: windowtext">Author : Md. 
+Kamruzzaman</SPAN></B></P><I>The Real Programmers' Contest-2 </I>
+<DIV></DIV>
+<DIV></DIV></BODY></HTML>

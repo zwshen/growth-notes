@@ -1,0 +1,164 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+
+<HEAD>
+<TITLE>UP ACM Programming Contest (2003) / Round 2: Problem E</TITLE>
+</HEAD>
+
+<BODY bgcolor="white">
+
+<p>&nbsp;
+
+<font color="#0000FF">
+<H1>Problem E</H1>
+
+<H1 align="center">Water Flow</H1>
+</font>
+
+<P align="justify">
+The following figure represents a succession of water deposits installed 
+downhill on a mountainside. Every deposit (except the last one) is connected 
+with the next in line via a pipe. All deposits are equal but the pipes can have 
+different specifications (such as diameter, material quality), and therefore, 
+some may sustain greater flows of water than others.
+
+<pre>                                    --------W-A-T-E-R---F-L-O-W---------&gt;
+                     +-----------+ 
+                     | Deposit A |  Pipe a      +-----------+
+                     | 11 liters |o============o| Deposit B |  Pipe b      +-----------+
+                     +-----------+  5 liters    | 0 liters  |o============o| Deposit C |
+                                    per second  +-----------+  4 liters    | 0 liters  |
+                                    (maximum)                  per second  +-----------+
+                                                               (maximum)</pre>
+
+<P align="justify">
+Due to the influence of gravity, and assuming there are no water leaks and 
+that the pipes are unobstructed, after some time all the water will flow to the 
+deposit that stands lowest on the mountainside ('C' in the previous figure). For 
+example, under the conditions depicted above, after 4 seconds all 11 liters that 
+initially were in deposit 'A' will have gone through deposit 'B' and be resting 
+inside deposit 'C' - just watch what happens:</p>
+
+<pre>                     +-----------+
+ t=0                 | Deposit A |  Pipe a      +-----------+
+(initial instant)    | 11 liters |o============o| Deposit B |  Pipe b      +-----------+
+                     +-----------+  5 liters    | 0 liters  |o============o| Deposit C |
+                                    per second  +-----------+  0 liters    | 0 liters  |
+                                                               per second  +-----------+
+                     +-----------+
+ t=1                 | Deposit A |  Pipe a      +-----------+
+(after 1 second)     | 6 liters  |o============o| Deposit B |  Pipe b      +-----------+
+                     +-----------+  5 liters    | 5 liters  |o============o| Deposit C |
+                                    per second  +-----------+  4 liters    | 0 liters  |
+                                                               per second  +-----------+
+                     +-----------+
+ t=2                 | Deposit A |  Pipe a      +-----------+
+(after 2 seconds)    | 1 liter   |o============o| Deposit B |  Pipe b      +-----------+
+                     +-----------+  1 liter     | 6 liters  |o============o| Deposit C |
+                                    per second  +-----------+  4 liters    | 4 liters  |
+                                                               per second  +-----------+
+                     +-----------+
+ t=3                 | Deposit A |  Pipe a      +-----------+
+(after 3 seconds)    | 0 liters  |o============o| Deposit B |  Pipe b      +-----------+
+                     +-----------+  0 liters    | 3 liters  |o============o| Deposit C |
+                                    per second  +-----------+  3 liters    | 8 liters  |
+                                                               per second  +-----------+
+                     +-----------+
+ t=4                 | Deposit A |  Pipe a      +-----------+
+(after 4 seconds)    | 0 liters  |o============o| Deposit B |  Pipe b      +-----------+
+                     +-----------+  0 liters    | 0 liters  |o============o| Deposit C |
+                                    per second  +-----------+  0 liters    | 11 liters |
+                                                               per second  +-----------+</pre>
+
+<P align="justify">
+You are now invited to build a simulator that determines not only how much 
+time is needed for all water to end up in the last deposit, but also to explain 
+how did that happen, much the same as shown immediately above.</p>
+
+<FONT color="#0000FF"><H2>Input</H2></FONT>
+
+The input has exactly three lines:
+
+<P align="justify">
+<ul>
+  <li>Line 1 contains the number of water deposits on the mountainside. For example, <code>N=3</code> indicates the simulation will 
+  have 3 water deposits (and therefore two water pipes).</li>
+  <li>Line 2 describes the initial contents of each water deposit, from the 
+  topmost to the lowest one. For example, <code>A=11;B=0;C=0</code> states that 
+  deposit 'A' (topmost) initially has 11 liters of water and that both 
+  remaining deposits ('B' and 'C') are empty at the beginning of the simulation.</li>
+  <li>Line 3 indicates the maximum flow of water allowed inside the pipes that 
+  connect each pair of deposits, 
+  respecting the order imposed in the previous line. For example, <code>a=5;b=4</code> 
+  means the maximum flow between deposits 'A' and 'B' (pipe 'a') is 5 
+  liters/second, and that between 'B' and 'C' (pipe 'b') it is 4 liters/second. 
+  Note, however, that the flow at an instant of time can be less than the 
+  maximum if the deposit contains insufficient water - a particular case is the 
+  empty deposit which disables the flow (see above examples).</li>
+</ul>
+
+<p>Notes:</p>
+<ul>
+  <li>All numbers (seconds, liters, and liters/second) are non-negative integers 
+  with a maximum value of 999.</li>
+  <li>There must be at least two water deposits.</li>
+  <li>The maximum flow of water inside pipes is always greater than zero (all 
+  pipes are unobstructed).</li>
+  <li>Water deposits are represented by a single uppercase letter, starting with 
+  'A' then 'B' and so on.</li>
+  <li>Pipes are identified by a single lowercase letter, beginning with 'a' then 
+  'b' and so on.</li>
+</ul>
+
+<FONT color="#0000FF"><H2>Output</H2></FONT>
+
+<P align="justify">
+The output is a table that displays the contents of all water deposits for 
+each second that passes since the initial instant until all water is resting 
+inside the last deposit (which is guaranteed to happen in no more than 999 
+seconds). The table has a line for 
+the header, a separator line, and multiple lines of data - one line for each 
+second of the simulation, including the initial instant (at zero seconds). The 
+columns of the table vary with the number of water deposits, but the first one 
+is always reserved for the elapsed time. See the sample output (below) for an 
+example of a table built according to the simulation specified in the previous 
+section.</p>
+
+Notes:
+
+<P align="justify">
+<ul>
+  <li>All table columns have a width of three characters.</li>
+  <li>Every pair of columns is separated by a single space character.</li>
+  <li>All numbers are right justified (see sample output).</li>
+  <li>Watch out for the lowercase 't' (elapsed time column).</li>
+</ul>
+
+<FONT color="#0000FF"><H2>Sample Input</H2></FONT>
+
+<P align="justify">
+
+<pre>N=3
+A=11;B=0;C=0
+a=5;b=4</pre>
+
+<FONT color="#0000FF"><H2>Sample Output</H2></FONT>
+
+<pre>  t   A   B   C
+---------------
+  0  11   0   0
+  1   6   5   0
+  2   1   6   4
+  3   0   3   8
+  4   0   0  11</pre>
+
+<BR><HR>
+<ADDRESS>
+University of Porto / 2003 ACM Programming Contest / Round 2 / 2003/09/24
+</ADDRESS>
+
+<p>&nbsp;
+
+</body>
+</html>

@@ -1,0 +1,86 @@
+# Eating Breakfast
+
+Welcome to English as a Second Language Podcast num ber 33: Eating Breakfast 
+
+This is English as a Second Language Podcast episod e 33. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development, in beautiful Los Angeles, California.  
+
+In this episode, we're going to see Lucy make and e at her breakfast. Let's get started. 
+
+[Start of story] 
+
+In the kitchen, the first thing I do is pour myself  a cup of coffee and I add a little skim milk and sugar.  My roommate usually makes a p ot when she wakes up for both of us since she gets up first.   
+
+I go the fridge to take out the eggs.  When I have time, I like to cook a hot breakfast, so I take out the frying pan, pour a lit tle oil in it, and turn on the front burner on the stovetop.  While the eggs are cooking , I put two pieces of bread into the toaster.  When the eggs are nice and brown  on the edges, I use a spatula to put them on a plate.  Some mornings, I h ave to settle for some cold cereal or just toast with jam, but it’s nice to sta rt the day with a sit-down meal when I get the chance. 
+
+When I’m done, I take my plate and my silverware to  the sink, where my roommate has left her breakfast dishes.  Since she makes the coffee in the morning, I wash the dishes.  It’s a pretty good arr angement.  I put a little dishwashing detergent on the sponge, scrub the dish es, and leave them in the drying rack to dry.   
+
+[End of story] 
+
+In this episode, Lucy eats breakfast.  She begins h er story by saying that "In the kitchen, the first thing" she does is to pour herse lf "a cup of coffee."  The first thing she does is pour herself a cup of coffee.  To  pour, "pour," means to take liquid from one container, such as a bottle or a co ffee pot, and put it into another container, such as a cup.   
+
+ESL Podcast 33 - Eating Breakfast 
+
+So, she pours herself "a cup of coffee" and adds "a  little skim milk and sugar." Coffee, "coffee," is a dark brown drink that you ca n use to wake up in the morning.  Most coffee, or regular coffee, has a cer tain drug called caffeine, "caffeine," and the caffeine helps people wake up.  If you don't want the caffeine, you can decaf coffee, "decaf."  Decaf is short for decaffeinated, meaning it doesn't have caffeine.   
+
+But, Lucy needs to wake up so she has a cup of regu lar coffee, and she puts in her coffee "a little skim milk and sugar."  Skim, " skim," milk is milk that doesn't have any fat in it.  You can have regular milk, two  percent milk with two percent fat, one percent milk, and skim milk with no fat.  She also puts in sugar, "sugar." Sugar is normally white; it has a sweet taste that it adds to food. 
+
+Lucy's "roommate usually makes a pot when she wakes  up," meaning she makes a pot of coffee.  A pot, "pot," is what the coffee is put in.  It's like a jug or a bottle; it's like a container for the coffee.  The reason t he roommate makes the pot of coffee is because "she gets up first." 
+
+Lucy goes to "the fridge" and takes "out the eggs."   The fridge, "fridge," is short for refrigerator.  A refrigerator is where you put your food so it stays cold.  To keep it cold, you put it in a refrigerator.  If you  want it to be frozen, like ice, then you put your food in a freezer, "freezer." 
+
+Lucy takes out some eggs from the refrigerator.  Eg gs, "eggs," are, in this case, things that come from a chicken.  Before the chicke n develops it begins as an egg, and this is, of course, a popular dish - a pop ular food for an American breakfast. 
+
+Lucy says that when she has time, she likes "to coo k a hot breakfast," so she takes out, or gets, a "frying pan," pours "a little  oil in it," and turns "on the front burner on the stovetop."  A frying pan, "frying pan ," (two words) is a pan where you cook food.  Usually it's foods such as an egg o r meat or vegetables, and it goes on top of heat, and the heat comes from the bu rner.   
+
+A burner, "burner," is where the fire or the heat c omes on a stove.  The stove, or stovetop, is the part of the machine in your kitche n where you can cook food.  In our house, for example, you can turn on the burner and fire - flames we would say - start to come out.  And then, you put the pan  on top of the fire - on top of the flames, and you put the meat and the oil and th e vegetables, or whatever you are cooking, in the frying pan.  To fry, "fry," is a way to cook food by putting it over heat in a pan.  
+
+ESL Podcast 33 - Eating Breakfast 
+
+ In addition to putting the frying pan on the burner , which is part of the stovetop, Lucy pours "a little oil in" the pan.  Oil, "oil," is a liquid fat that you put in a pan to help the food cook better.  Lucy says that when "th e eggs are cooking," she puts "two pieces of bread into the toaster."  Two pieces  of bread could also be two slices of bread.  A slice, "slice," is a piece of b read, in this case. 
+
+The toaster, "toaster," is a place where you put br ead and you heat it up so that the bread becomes brown.  We would say, "you toast the bread," using "toast" as a verb.  So, you toast toast in a toaster.  There y ou see the verb, the noun, and the noun, which is the machine where you make the t oast. 
+
+"When the eggs are nice and brown," meaning when th e eggs are very brown, "on the edges," Lucy uses "a spatula to put them on  a plate."  The edge, "edge," of something is the very end of something - the ver y outer part, the part that is at the very end of the object.  So, when you take an e gg and you crack it, "crack," meaning you open the egg, you crack the egg and you  put the egg into the frying pan, the egg will form something like a circle, and  at the - around the egg are the edges.  Also, I should mention that the white part of the egg - the outside of the egg is called the eggshell, "shell," the eggshell, but you don't eat the eggshells normally. 
+
+Well, Lucy uses a spatula to put the eggs onto a pl ate - to take them out of the pan and onto a plate.  A spatula, "spatula," is a u tensil; it's something you use in the kitchen.  It is flat, usually square, that has a handle on it and you can use it to go underneath the food in a frying pan to lift the food out of the pan. 
+
+"Some mornings," Lucy says, she has "to settle for some cold cereal or just toast with jam."  The expression to settle for, "settle,"  for something means that you don't necessarily want that thing - it's not the be st thing, the thing you want the most, but it's okay - it's acceptable.  When someon e said, "I - I'm settled for something," they mean they weren't completely happy  but it was okay - it was good enough for them.  This is what my wife tells m e; she says, "Jeff, I settled for you." 
+
+Toast with jam is one of the things that Lucy settl es for for breakfast when she doesn't have time to make a hot breakfast.  Toast, we already know, is bread that is cooked - that is brown.  Jam, "jam," is a liquid  made from fruit, such as strawberries or cherries.  Cereal, "cereal," is a d ry food that you usually eat with milk.  I have cereal almost every day for breakfast  because I am not a good cook like Lucy, so if I did not eat cereal, I would not eat anything.  
+
+ESL Podcast 33 - Eating Breakfast 
+
+ Lucy says "it’s nice to start the day with a sit-do wn meal when I get the chance." A sit-down, "sit-down," meal is a meal where you ta ke your time, you relax, you sit down and you have something like a formal meal.   It's a - it's a more relaxed way of eating. 
+
+Lucy says that when she's done with her food - when  she has finished eating - she takes her plate and her silverware to the sink.   Silverware, "silverware," are the utensils that you eat with.  They're the knife,  the spoon, and the fork.  So, she takes her dirty dishes to the sink where her "roomm ate has left her breakfast dishes."  So, the roommate, who gets up earlier tha n Lucy, she has already put her dishes in the sink. 
+
+Lucy says that "Since she makes the coffee" - her r oommate makes the coffee - "in the morning," Lucy washes "the dishes.  It’s a pretty good arrangement," she says.  An arrangement, "arrangement," is, in this c ase, like an agreement.  It's something that to people say yes to, and they agree  to do something.  In this case, her roommate makes the coffee; Lucy washes th e dishes.  In my house, my wife makes the dinner; I wash the dishes.  If I don't wash the dishes, I don't get to eat. 
+
+Lucy says that she "put a little dishwashing deterg ent on" a "sponge" to clean the dishes.  Detergent, "detergent," is another word fo r soap, a special kind of soap. In this case, it's soap for washing dishes, so it's  dishwashing detergent - dishwashing soap - it's the same.  You can also hav e detergent to wash your clothes, so the special soap you use to wash your c lothes in a machine would be called detergent. 
+
+Lucy puts the dishwashing detergent on a sponge.  A  sponge, "sponge," is a small piece of material that has holes in it and it 's used for washing dishes.  The water goes into the sponge, and because of these ho les, the water is absorbed by the sponge, that is it stays in the sponge so it  is good for cleaning. 
+
+Lucy scrubs her dishes, and then leaves "them in th e dying rack to dry."  To scrub, "scrub," as a verb means to clean, usually b y moving your hand back and forth over what you are trying to clean.  It means to clean with using some muscle, we would say - using some energy - using so me force to clean it. There's also a noun, scrubs, with an "s" at the end , "scrubs," that means the clothing - the special clothing that doctors wear, especially doctors that are during surgery.  They wear scrubs, that's what we c all those pieces of special clothing.  Often, it's blue or white clothing.  
+
+ESL Podcast 33 - Eating Breakfast 
+
+ Lucy puts the dishes on the drying rack.  The dryin g, "drying," rack, "rack," is a place where you can put the dishes so that they dry , and a drying rack is usually made of plastic or metal, and it has places where y ou can put individual plates and usually a separate place for silverware, and yo u use it to dry the plates and the silverware. 
+
+Now let's listen to the story, this time at a norma l speed. 
+
+[Start of story] 
+
+In the kitchen, the first thing I do is pour myself  a cup of coffee and I add a little skim milk and sugar.  My roommate usually makes a p ot when she wakes up for both of us since she gets up first.   
+
+I go the fridge to take out the eggs.  When I have time, I like to cook a hot breakfast, so I take out the frying pan, pour a lit tle oil in it, and turn on the front burner on the stovetop.  While the eggs are cooking , I put two pieces of bread into the toaster.  When the eggs are nice and brown  on the edges, I use a spatula to put them on a plate.  Some mornings, I h ave to settle for some cold cereal or just toast with jam, but it’s nice to sta rt the day with a sit-down meal when I get the chance. 
+
+When I’m done, I take my plate and my silverware to  the sink, where my roommate has left her breakfast dishes.  Since she makes the coffee in the morning, I wash the dishes.  It’s a pretty good arr angement.  I put a little dishwashing detergent on the sponge, scrub the dish es, and leave them in the drying rack to dry.  
+
+[End of story] 
+
+Thanks to our fantastic scriptwriter, Dr. Lucy Tse,  for her hard work. And thanks to you for listening. From Los Angeles, California,  I’m Jeff McQuillan. Come back and listen to us again here on ESL Podcast. 
+
+This course has been a production of the Center for  Educational Development, in beautiful Los Angeles, California.  Visit our websi te at eslpod.com. 
+
+This course was produced by Dr. Jeff McQuillan and Dr. Lucy Tse.  Copyright 2006.
+

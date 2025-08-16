@@ -1,0 +1,388 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./f_files/filelist.xml">
+<link rel=Edit-Time-Data href="./f_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem F - Permutation</title>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>125</w:Zoom>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+span.SPELLE
+	{mso-spl-e:yes;}
+span.GRAME
+	{mso-gram-e:yes;}
+ /* Font Definitions */
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129023 0;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129023 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:18.0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+h3
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Arial Unicode MS";
+	font-weight:bold;}
+h4
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:24.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:#6633CC;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+address
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-style:italic;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+p.preformatted, li.preformatted, div.preformatted
+	{mso-style-name:preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+span.stylearial16pt
+	{mso-style-name:stylearial16pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.8in .8in 67.7pt .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1051"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">  </w:LatentStyles>
+</xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#6633cc" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:28.0pt;font-family:Arial'>Problem F</span></b><span
+style='font-family:Arial'><br>
+</span><b><span style='font-size:20.0pt;font-family:Arial'>Permutation</span></b><span
+style='font-family:Arial'><br>
+<b>Input: </b>Standard Input</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:Arial'>Output: </span></b><span style='font-family:Arial'>Standard
+Output </span></p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify'>Given N and K find the N’th
+permutation of the integers from 1 to K when those permutations are
+lexicographically ordered.<span style="mso-spacerun: yes">  </span>N starts
+from 0. Since N is very large N will be represented by a sequence of K
+non-negative integers S<sub>1</sub>, S<sub>2</sub> ,…, S<sub>k</sub>. From this
+sequence of integers N can be calculated with the following expression.</p>
+
+<p class=MsoNormal style='margin-left:1.5in;text-align:justify;text-indent:
+.5in'><span style="mso-spacerun: yes"> </span><!--[if supportFields]><span
+style='mso-element:field-begin'></span><span style="mso-spacerun:
+yes"> </span>QUOTE <span style='mso-text-raise:-5.5pt'><![if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:71.25pt;
+ height:15pt'>
+ <v:imagedata src="./f_files/image001.png" o:title="" chromakey="white"/>
+</v:shape><![endif]><![if !vml]><img width=95 height=20
+src="p11525a.gif" v:shapes="_x0000_i1025"><![endif]></span><span
+style="mso-spacerun: yes"> </span><span style='mso-element:field-separator'></span><![endif]--><span
+style='mso-text-raise:-5.5pt'><!--[if gte vml 1]><v:shape id="_x0000_i1026"
+ type="#_x0000_t75" style='width:71.25pt;height:15pt'>
+ <v:imagedata src="./f_files/image001.png" o:title="" chromakey="white"/>
+</v:shape><![endif]--><![if !vml]><img width=95 height=20
+src="p11525.gif" v:shapes="_x0000_i1026"><![endif]></span><!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h5 style='text-align:justify'><span class=stylearial16pt><span
+style='font-size:16.0pt;font-family:Arial'>Input</span></span></h5>
+
+<p class=MsoNormal style='text-align:justify'>First line of the input contains
+T(&#8804;10) the number of test cases. Each of these test cases consists of 2
+lines. First line contains a integer K(1&#8804;K&#8804;50000). Next line
+contains K integers S<sub>1</sub>, S<sub>2</sub> ,…, S<sub>k</sub>.(0&#8804;S<sub>i</sub>&#8804;K-i).
+</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h4><span class=stylearial16pt><span style='font-size:16.0pt;font-family:Arial'>Output
+</span></span></h4>
+
+<p class=MsoBodyText2>For each test case output contains N’th permutation of
+the integers from 1 to K. These K integers should be separated by a single
+space.</p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+font-family:Arial;font-style:normal'>Sample
+Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Output for Sample Input</span></b><o:p></o:p></h1>
+
+<table border=0 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=301 valign=top style='width:225.9pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'><pre><span lang=EN style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;mso-ansi-language:EN'>4<o:p></o:p></span></pre><pre><span
+  lang=EN style='font-size:11.0pt;mso-bidi-font-size:10.0pt;mso-ansi-language:
+  EN'>3<o:p></o:p></span></pre><pre><span lang=EN style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;mso-ansi-language:EN'>2 1 0<o:p></o:p></span></pre><pre><span
+  lang=EN style='font-size:11.0pt;mso-bidi-font-size:10.0pt;mso-ansi-language:
+  EN'>3<o:p></o:p></span></pre><pre><span lang=EN style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;mso-ansi-language:EN'>1 0 0<o:p></o:p></span></pre><pre><span
+  lang=EN style='font-size:11.0pt;mso-bidi-font-size:10.0pt;mso-ansi-language:
+  EN'>4<o:p></o:p></span></pre><pre><span lang=EN style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;mso-ansi-language:EN'>2 1 1 0<o:p></o:p></span></pre><pre><span
+  lang=EN style='font-size:11.0pt;mso-bidi-font-size:10.0pt;mso-ansi-language:
+  EN'>4<o:p></o:p></span></pre><pre><span lang=EN style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;mso-ansi-language:EN'>1 2 1 0<o:p></o:p></span></pre>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  text-autospace:none'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+  <td width=315 valign=top style='width:236.35pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'><pre><span lang=EN
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;mso-ansi-language:EN'>3 2 1<o:p></o:p></span></pre><pre><span
+  lang=EN style='font-size:11.0pt;mso-bidi-font-size:10.0pt;mso-ansi-language:
+  EN'>2 1 3<o:p></o:p></span></pre><pre><span lang=EN style='font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;mso-ansi-language:EN'>3 2 4 1<o:p></o:p></span></pre><pre><span
+  lang=EN style='font-size:11.0pt;mso-bidi-font-size:10.0pt;mso-ansi-language:
+  EN'>2 4 3 1<o:p></o:p></span></pre>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p class=MsoNormal><span style='font-family:Verdana'>Problemsetter: Abdullah al
+Mahmud<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:Verdana'>Special Thanks: Manzurur
+Rahman Khan<o:p></o:p></span></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>

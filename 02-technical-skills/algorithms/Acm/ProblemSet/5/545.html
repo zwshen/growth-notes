@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Heads</TITLE>
+<META NAME="description" CONTENT="Heads">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Heads</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The probability of <I>n</I> heads in a row tossing a 
+fair coin is 2<SUP>-<I>n</I></SUP> 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input contains an integer <I>r</I>. Then <i>r</i> lines containing each one an integer number <I>n</I>. The value
+of <I>n</I> is as follows:
+<!-- MATH: $0< n \le 9000$ -->
+<IMG
+ WIDTH="105" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="545img1.gif"
+ ALT="$0< n \le 9000$">.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+ Print <I>r</I> lines each with the value of 2<SUP>-<I>n</I></SUP> for the given 
+values of <I>n</I>, using the format:
+
+<P>
+
+<P>
+<BR>
+
+<code>2^-</code><I>n</I><code> = x.xxxE-</code><I>y</I>
+
+<P>
+
+<P>
+<BR>
+where each <I>x</I> is a decimal digit and each <I>y</I> is a decimal integer 
+with no leading zeroes or spaces.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+8271
+6000
+1
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2^-8271 = 1.517E-2490
+2^-6000 = 6.607E-1807
+2^-1 = 5.000E-1
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-01-11</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

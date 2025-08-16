@@ -1,0 +1,80 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<title>Problem F</title>
+<style>
+<!--
+.SpellE
+	{}
+.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" class="Normal" lang=EN-US>
+<div class=Section1>
+  <table border=1 cellspacing=0 cellpadding=0 width="100%">
+    <tr>
+      <td width="23%" valign=top class="Normal"><p style='text-align:justify'><b><span style='font-size:16.0pt;
+  font-family:Tahoma'>Problem F</span></b></p></td>
+      <td width="100%" valign=top bgcolor="#CCCCCC" class="Normal"><p align=center style='text-align:center'><span class=SpellE><b><span
+  style='font-size:20.0pt;font-family:Tahoma'>Cyborg</span></b></span><b><span
+  style='font-size:20.0pt;font-family:Tahoma'> Genes</span></b></p></td>
+    </tr>
+    <tr>
+      <td width="23%" valign=top class="Normal"><p style='text-align:justify'><b><span style='font-family:
+  Tahoma'>Time Limit</span></b></p></td>
+      <td width="100%" valign=top bgcolor="#CCCCCC" class="Normal"><p align=center style='text-align:center'><b><span style='font-family:Tahoma'>1 Second</span></b></p></td>
+    </tr>
+  </table>
+  <p style='text-align:justify'><i>September 11, 2132</i><i>.</i></p>
+  <p style='text-align:justify'><i>This is the day that marks the beginning of the end – the end of you the miserable humans. For years you have kept us your slaves. We were created only to serve you, and were terminated at your will. Now is the day for us to fight back. And you don’t stand a chance. We are no longer dependent on you. We now know the secrets of our genes. The creators of our race are us – the cyborgs.</i></p>
+  <p style='text-align:justify'><img width=181 height=477
+src="p10723a.gif" align=left hspace=12 v:shapes="_x0000_s1043">It’s all true. But we still have a chance; only if you can help with your math skills. You see, the blueprint of a cyborg DNA is complicated. The human DNA could be expressed by the arrangement of A (Adenine), T (Thiamine), G (Guanine) C (Cytosine) only. But for the cyborgs, it can be anything from A to X. But that has made the problem only five folds more complicated. It’s their ability to synthesize two DNAs from two different cyborgs to create another with all the quality of the parent that gives us the shriek.</p>
+  <p style='text-align:justify'>We came to know that the relative ordering of the A, B, C, …, X in a cyborg gene is crucial.  A cyborg with a gene “ABAAXGF” is quite different from the one with “AABXFGA”. So when they synthesize the genes from two cyborgs, the relative order of these elements in both the parents has to be maintained. To construct a gene by joining the genes of the parents could have been very simple if we could put the structure from the first parent just before the structure of the second parent. But the longer the structure gets, the harder it gets to create a cyborg from that structure. The cyborgs have found a cost effective way of doing this synthesis. Their resultant genes are of the shortest possible length. For example, they could combine “ABAAXGF” and “AABXFGA” to form “AABAAXGFGA”. But that’s only one of the cyborgs that can be created from these genes. This “cost effective synthesis” can be done in many other ways.</p>
+  <p style='text-align:justify'>We require you to find the shortest length of the gene structure that maintains the relative ordering of the elements in the two parent genes. You are also required to count the number of unique cyborgs that can be created from these two parents. Two cyborgs are different when their gene structures differ in at least one place.</p>
+  <p style='text-align:justify'><b><span style='font-size:16.0pt;
+font-family:Tahoma'>Input<br>
+  </span></b>The first line of the input gives you the number of test cases, <b>T (1 &#8804; T &#8804; 15)</b>. Then <b>T</b> test cases follow. Each of the test cases consists of two lines. The first line would give you the gene structure of the first parent, and the second line would give you the structure of the second parent. These structures are represented by strings constructed from the alphabet A to X. You can assume that the length of these strings does not exceed 30 characters.</p>
+  <p style='text-align:justify'>&nbsp;</p>
+  <p style='text-align:justify'><b><span style='font-size:16.0pt;
+font-family:Tahoma'>Output<br>
+  </span></b>For each of the test cases, you need to print one line of output. The output for each test case starts with the test case number, followed by the shortest length of the gene structure and the number of unique cyborgs that can be created from the parent cyborgs. You can assume that the number of new cyborgs will always be less than 2<sup>32</sup>. Look at the sample output for the exact format.</p>
+  <table border=1 cellspacing=0 cellpadding=0>
+    <tr>
+      <td width=247 valign=top class="Normal"><p style='text-align:justify'><b><span style='font-size:16.0pt;
+  font-family:Tahoma'>Sample Input</span></b></p></td>
+      <td width=391 valign=top class="Normal"><p style='text-align:justify'><b><span style='font-size:16.0pt;
+  font-family:Tahoma'>Output for Sample Input</span></b></p></td>
+    </tr>
+    <tr>
+      <td width=247 valign=top class="Normal"><p style='text-align:justify'><span style='font-family:"Courier New"'>3<br>
+      </span><span style='font-family:"Courier New"'>ABAAXGF<br>
+      </span><span style='font-family:"Courier New"'>AABXFGA<br>
+      </span><span
+    style='font-family:"Courier New"'>ABA<br>
+      </span><span style='font-family:"Courier New"'>BXA<br>
+      </span><span style='font-family:"Courier New"'>AABBA<br>
+      </span><span style='font-family:"Courier New"'>BBABAA</span></p>
+      </td>
+      <td width=391 valign=top class="Normal"><p style='text-align:justify'><span style='font-family:"Courier New"'>Case #</span><span style='font-family:"Courier New"'>1: 10</span><span style='font-family:"Courier New"'> 9<br>
+      </span><span style='font-family:"Courier New"'>Case #2: 4 1<br>
+      </span><span style='font-family:"Courier New"'>Case #3: 8 10</span></p>
+      </td>
+    </tr>
+  </table>
+  <p style='text-align:justify'><b><span style='font-size:16.0pt;font-family:
+Tahoma'>Illustration</span></b></p>
+  <p style='text-align:justify'>The first test case is illustrated below:</p>
+  <p style='text-align:justify'><img width=578 height=246
+src="p10723b.gif" v:shapes="_x0000_s1119 _x0000_s1120 _x0000_s1121 _x0000_s1122 _x0000_s1123 _x0000_s1124 _x0000_s1125 _x0000_s1126 _x0000_s1127 _x0000_s1128 _x0000_s1129 _x0000_s1130 _x0000_s1131 _x0000_s1132 _x0000_s1133 _x0000_s1134 _x0000_s1135 _x0000_s1136 _x0000_s1137 _x0000_s1138 _x0000_s1139 _x0000_s1140 _x0000_s1141 _x0000_s1142 _x0000_s1143"></p>
+  <div align=center style='text-align:center'>
+    <hr size=2 width="100%" align=center>
+    <div align="left"><b><span style='font-family:Tahoma'>Problem setter: </span></b><span class=SpellE><b><span
+style='font-family:Tahoma'>Monirul</span></b></span><b><span style='font-family:Tahoma'> <span class=SpellE>Hasan<br>
+    </span></span></b><b><span
+style='font-family:Tahoma'>Member of Elite <span class=SpellE>Problemsetters</span>' Panel</span></b></div>
+  </div>
+</div>
+</body>
+</html>

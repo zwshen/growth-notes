@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Dollars</TITLE>
+<META NAME="description" CONTENT="Dollars">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Dollars</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+New Zealand currency consists of $100, $50, $20, $10, and $5
+notes and $2, $1, 50c, 20c, 10c and 5c coins. Write a program that
+will determine, for any given amount, in how many ways that amount may
+be made up. Changing the order of listing does not increase the count.
+Thus 20c may be made up in 4 ways: 1 <IMG WIDTH=9 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline25" SRC="147img1.gif"  > 20c, 2 <IMG WIDTH=9 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline25" SRC="147img1.gif"  > 10c, 10c+2 <IMG WIDTH=9 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline25" SRC="147img1.gif"  > 5c, and 4 <IMG WIDTH=9 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline25" SRC="147img1.gif"  > 5c.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Input will consist of a series of real numbers no greater than $300.00
+each on a separate line. Each amount will be valid, that is will be a
+multiple of 5c. The file will be terminated by a line containing zero
+(0.00).
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+Output will consist of a line for each of the amounts in the input,
+each line consisting of the amount of money (with two decimal places
+and right justified in a field of width 6), followed by the number of
+ways in which that amount may be made up, right justified in a field
+of width 17.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>0.20
+2.00
+0.00</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>  0.20                4
+  2.00              293</PRE>
+<P>
+</BODY>
+</HTML>

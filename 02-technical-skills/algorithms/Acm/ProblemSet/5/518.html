@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Time</TITLE>
+<META NAME="description" CONTENT="Time">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Time</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Let a time point be given as 6 integers 
+<!-- MATH: $y, m, d, h, min, s$ -->
+<I>y</I>, <I>m</I>, <I>d</I>, <I>h</I>, <I>min</I>, <I>s</I> where 
+<!-- MATH: $1970 <= y < 2030$ -->
+1970 &lt;= <I>y</I> &lt; 2030, 
+<!-- MATH: $0 < m < 13$ -->
+0 &lt; <I>m</I> &lt; 13,
+
+<!-- MATH: $0 < d < 32$ -->
+0 &lt; <I>d</I> &lt; 32, 
+<!-- MATH: $0 \leŸ h < 24$ -->
+<IMG
+ WIDTH="87" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="518img1.gif"
+ ALT="$0 \leŸ h < 24$">,
+
+<!-- MATH: $0 \leŸ min < 60$ -->
+<IMG
+ WIDTH="109" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="518img2.gif"
+ ALT="$0 \leŸ min < 60$">,
+
+<!-- MATH: $0 Ÿ\le s < 60$ -->
+<IMG
+ WIDTH="85" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="518img3.gif"
+ ALT="$0 Ÿ\le s < 60$">.
+Write a program which computes how many
+periods of a given length fit between two given time points. A period is given by a pair consisting of
+a positive integer and a word expressing a time unit, i.e. <TT>year</TT> or <TT>month</TT> or <TT>day</TT> or <TT>hour</TT> or <TT>minute</TT>
+or <TT>second</TT>. Every 4th year is a leap year, except every 100th which is not except every 400 year
+which is. A length of the year varies according to leap years. The same is true for the month
+February. Time units always start as usual, e.g., a year starts at 1st January, a month starts at its
+1st day, a day starts at 0 hours 0 minutes 0 seconds, etc. A period ends after its last second.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file consists of blocks of lines. Each block has three lines. The first line of a block
+contains a time point <I>D</I><SUB>1</SUB> and the second line a time point <I>D</I><SUB>2</SUB>. <I>D</I><SUB>1</SUB> always precedes <I>D</I><SUB>2</SUB>. All numbers
+in the lines are separated by one space. You can assume that the given descriptions of time points
+are correct. The third line contains a time period. There is one space between the number and the
+word in the period definition on this line. After each block, there is one empty line.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+The output file contains the lines corresponding to the blocks in the input file. A line corresponding to a block contains one integer number expressing how many specified periods are
+contained between the given time points.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1997 12 31 23 59 59
+1998 1 1 0 0 0
+1 second
+
+2000 2 29 0 0 0
+2000 2 29 23 59 59
+1 day
+
+2000 2 29 0 0 0
+2000 3 1 0 0 0
+24 hour
+
+1996 12 31 20 30 0
+1997 1 1 7 30 0
+60 minute
+
+1996 12 31 20 30 0
+1997 1 1 7 30 0
+1 hour
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+0
+1
+11
+10
+</PRE>
+
+<P>
+
+<P>
+</BODY>
+</HTML>

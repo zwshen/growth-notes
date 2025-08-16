@@ -1,0 +1,114 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Error Correction</TITLE>
+<META NAME="description" CONTENT="Error Correction">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Error Correction</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A boolean matrix has the <EM>parity property</EM> when each row and each column has an even sum, i.e.
+contains an even number of bits which are set. Here's a 4 x 4 matrix which has the parity property:
+
+<P>
+<PRE>
+1 0 1 0
+0 0 0 0
+1 1 1 1
+0 1 0 1
+</PRE>
+
+<P>
+The sums of the rows are 2, 0, 4 and 2. The sums of the columns are 2, 2, 2 and 2.
+
+<P>
+
+<P>
+<BR>
+Your job is to write a program that reads in a matrix and checks if it has the parity property. If not,
+your program should check if the parity property can be established by changing only one bit. If
+this is not possible either, the matrix should be classified as corrupt.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file will contain one or more test cases. The first line of each test case contains one
+integer <I>n</I> (<I>n</I>&lt;100), representing the size of the matrix. On the next <I>n</I> lines, there will be <I>n</I> integers
+per line. No other integers than 0 and 1 will occur in the matrix. Input will be terminated by a value
+of 0 for <I>n</I>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each matrix in the input file, print one line. If the matrix already has the parity property, print
+``<TT>OK</TT>". If the parity property can be established by changing one bit, print ``<TT>Change bit </TT>(<I>i</I>,<I>j</I>)" where <I>i</I>
+is the row and <I>j</I> the column of the bit to be changed. Otherwise, print ``<TT>Corrupt</TT>".
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+4
+1 0 1 0
+0 0 0 0
+1 1 1 1
+0 1 0 1
+4
+1 0 1 0
+0 0 1 0
+1 1 1 1
+0 1 0 1
+4
+1 0 1 0
+0 1 1 0
+1 1 1 1
+0 1 0 1
+0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+OK
+Change bit (2,3)
+Corrupt
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1999-01-11</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

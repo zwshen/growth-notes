@@ -1,0 +1,146 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Sabotage</TITLE>
+<META NAME="description" CONTENT="Sabotage">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Sabotage</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The regime of a small but wealthy dictatorship has been abruptly overthrown by an unexpected
+rebellion. Because of the enormous disturbances this is causing in world economy, an imperialist
+military super power has decided to invade the country and reinstall the old regime.
+
+<P>
+For this operation to be successful, communication between the capital and the largest city must
+be completely cut. This is a difficult task, since all cities in the country are connected by a
+computer network using the Internet Protocol, which allows messages to take any path through
+the network. Because of this, the network must be completely split in two parts, with the capital
+in one part and the largest city in the other, and with no connections between the parts.
+
+<P>
+There are large differences in the costs of sabotaging different connections, since some are much
+more easy to get to than others.
+
+<P>
+Write a program that, given a network specification and the costs of sabotaging each connection,
+determines which connections to cut in order to separate the capital and the largest city to the
+lowest possible cost.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Input file contains several sets of input. The description of each set is given below.
+
+<P>
+The first line of each set has two integers, separated by a space: First one the number of cities, <SPAN CLASS="MATH"><I>n</I></SPAN>
+in the network, which is at most 50. The second one is the total number of connections, <SPAN CLASS="MATH"><I>m</I></SPAN>, at
+most 500.
+
+<P>
+The following <SPAN CLASS="MATH"><I>m</I></SPAN> lines specify the connections. Each line has three parts separated by spaces:
+The first two are the cities tied together by that connection (numbers in the range <SPAN CLASS="MATH">1 - <I>n</I></SPAN>). Then
+follows the cost of cutting the connection (an integer in the range 1 to 40000000). Each pair of
+cites can appear at most once in this list.
+
+<P>
+Input is terminated by a case where values of <SPAN CLASS="MATH"><I>n</I></SPAN> and <SPAN CLASS="MATH"><I>m</I></SPAN> are zero. This case should not be
+processed. For every input set the capital is city number 1, and the largest city is number 2.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each set of input you should produce several lines of output. The description of output for
+each set of input is given below:
+
+<P>
+The output for each set should be the pairs of cities (i.e. numbers) between which the connection
+should be cut (in any order), each pair on one line with the numbers separated by a space. If
+there is more than one solution, any one of them will do.
+
+<P>
+Print a blank line after the output for each set of input.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+5 8
+1 4 30
+1 3 70
+5 3 20
+4 3 5
+4 5 15
+5 2 10
+3 2 25
+2 4 50
+5 8
+1 4 30
+1 3 70
+5 3 20
+4 3 5
+4 5 15
+5 2 10
+3 2 25
+2 4 50
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+4 1
+3 4
+3 5
+3 2
+
+4 1
+3 4
+3 5
+3 2
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Problem setter: Jesper Larsson, Lund University, Sweden
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

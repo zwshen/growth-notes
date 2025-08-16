@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>
+B - Term Strategy
+</title>
+</head>
+<body>
+<p><h1><center>B - Term Strategy</center></h1></p>
+	
+<p><b>Time Limit: 1 sec <br>
+Memory Limit: 16MB</b></p>
+		
+<p>Student Peter was playing billiard all the term and for that reason he missed
+all his lectures. Unfortunately that's the time for term exams which Peter must
+pass.</p>
+
+<p>Peter has N (1 &#60= N &#60= 10) courses, because he completely failed the
+previous term exams so he has to pass them too. He is already late with his
+exams and the deadline is coming. He agreed with all teachers to pass all the
+exams in one day. The idea he followed is - "Everything or nothing". After he
+made some considerations and an assumption that we'll play billiard only 5 hours
+a day, he counted the number of hours he has left to get himself prepared for
+exams. He has concluded that he has M (0 &#60 M &#60= 100) hours to get prepared.
+While he is preparing he has to read at least the name of the subject he is
+preparing for. Because of this difficult task he's preparing for at least one
+hour for each exam. If he has no time to prepare for exam - he fails it.</p>
+
+<p>Exam is evaluated using 10-grade system. To pass an exam Peter has to receive
+at least 5. Also Peter is a greedy person and he wants to have the highest
+average mark that is possible. </p>
+
+<p>As Peter is perfectly aware of his abilities he made a table L. Each line of this
+table represents a course and each column represents a number of hours Peter is
+preparing for a particular exam. Element Lij of the table means, that for i-th
+exam Peter devotes j-th hours of his available time. It is known that the more
+Peter is getting prepared for a particular exam the highest mark he receives,
+i.e. L<sub>i j</sub> = L<sub>i j+1</sub> for each 1 &#60= i &#60= N ir 1 &#60= j &#60= M - 1.</p>
+
+<p>Suddenly Peter remembers that he has a good friend. You're actually the person
+he remembered. So as he is completely desperate he asks for your help! Help Peter
+in his mission of passing exams and achieving the maximum possible average mark.</p>
+	
+<p><h4>INPUT:</h4>
+The number of tests T (T &#60 100) is given on the first line of input. First line
+of each test contains two integers N and M. Then N lines follow each containing
+M integers which define L<sub>i j</sub> element.</p>
+    
+<p><h4>OUTPUT:</h4>
+For each test case find whether Peter passes all exams. If he is that lucky to
+pass them print line: "<code>Maximal possible average mark - S.</code>" (The result must be rounded to 2 digits after decimal point).
+
+<p>In case when he is
+not that lucky, and he has at least one exam that he`s unable to pass in given
+time limits print a line "<code>Peter, you shouldn`t have played billiard that much.</code>".</p>
+
+	
+<p><h4>SAMPLE INPUT:</b></h4>
+<code><pre>
+2
+4 5
+5 5 6 7 8
+5 5 6 7 8
+5 6 7 8 8
+6 7 8 9 9
+4 5
+4 5 6 7 8
+4 5 6 7 8
+5 6 7 8 8
+6 7 8 9 9
+</pre></code>
+	
+<p><h4>SAMPLE OUTPUT:</h4></p>
+<code><pre>
+Maximal possible average mark - 5.50.
+Peter, you shouldn't have played billiard that much.
+</code></pre>
+
+<hr>
+
+<p><i>Problem setters: Aleksej Viktorchik, Leonid Shishlo. <br>
+Huge Easy Contest #1</i></p>
+
+</body>
+</html>

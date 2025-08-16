@@ -1,0 +1,104 @@
+# Lying and Telling the Truth
+
+Welcome to English as a Second Language Podcast number 5 55: Lying and Telling the Truth. 
+
+This is English as a Second Language Podcast episode 555.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  You probably know that.  But did you know you can become a Learning Guide member and download Learning  Guides for all of our current episodes that will help you improve your English even faster? 
+
+This episode is a dialogue between Elizabeth and Leo.  It’s going to use a lot of vocabulary related to expressions of lying, or how we talk a bout telling the truth. Honestly!  Let’s get started. 
+
+[start of dialogue] 
+
+Elizabeth:  You’re full of it! 
+
+Leo:  I’m telling you the God’s honest truth.  Why woul d I eat the last piece of cake when I know that you had your heart set on it? 
+
+Elizabeth:  That’s the question, isn’t it?  Why would yo u go behind my back and eat it, and then try to put one over on me? 
+
+Leo:  Would I be able to look you in the eye if I wer e lying?  Look at me.  I’m the picture of Honest Abe. 
+
+Elizabeth:  Do you expect me to believe that? 
+
+Leo:  There’s not a dishonest bone in my body.  I may te ll a white lie here and there, but I would never try to tell you a bald-faced l ie like this. 
+
+Elizabeth:  Oh, really?  Do you swear?   
+
+Leo:  I swear that I didn’t eat the last piece of cake. 
+
+Elizabeth:  There’s something fishy about the way you said that.   
+
+Leo:  I don’t know what you mean.  
+
+ Elizabeth:  You didn’t eat the last piece of cake, but you know who did. 
+
+Leo:  I’m pleading the Fifth. 
+
+Elizabeth:  Spill it, Abe! 
+
+Leo:  Not on your life! 
+
+[end of dialogue] 
+
+Elizabeth begins by saying, “You’re full of it!”  To say someone is “full of it” means that they are lying, that they are not telling th e truth.  It’s an informal expression, and a very strong expression.  You don’t want to say this to anyone that you work for or work with.  It’s a very strong expressio n.  It actually comes from a vulgar expression, which we won’t talk about, but  if you put an “sh” in front of the last word, you’ll know what I mean! 
+
+Leo says, “I’m telling you the God’s honest truth.”  The  expression “the God’s honest truth” means it is absolutely, completely true.  Yo u say this, or you could say this when someone thinks that you’re lying and you’re tr ying to convince them that you are telling the truth.  Leo says, “Why wou ld I eat the last piece of cake when I know that you had your heart set on it?”  S o, Elizabeth is mad because she thinks Leo ate the last piece of cake, probably in the refrigerator. Elizabeth had her heart set on it.  “To have your heart  set on (something)” means that you want it very much; you are planning on getting  it.  We’ll often use this expression when we don’t get what we were planning on getting.  For example, you go to your favorite Japanese restaurant and you wan t to get a certain kind of sushi, but when you get there they don’t have that sushi today and you’re disappointed.  You say, “I had my heart set on the spicy tu na roll,” or whatever it is.   
+
+So Leo asks Elizabeth why he would eat the last piece of c ake when he knew that Elizabeth had her heart set on it.  Elizabeth says, “That’s the question, isn’t it (meaning yes, why did you do that)?  Why would you go beh ind my back and eat it, and then try to put one over on me?”  “To go behi nd (someone’s) back” means to do something without telling the other person, to do something secretly, often something that will affect the other person or that t he other person probably did not want you to do.  So if your wife tells you that she does not want you to buy a new car, but one day when she is gone you go and you buy a  new car, you have gone behind her back.  And you are in big trouble budd y, let me tell you, if you did that!  “To put one over on (someone)” is a rather  complicated sounding  
+
+ expression.  It means to trick another person into thinking  something that isn’t true.  Basically, it’s to lie to the other person, to ge t them to think something that is false – that is not true: to put one over on someone .  “The students really put one over on their teacher, making her think that today was a holiday and there should be no school.”  Elizabeth is accusing – she’s saying to Leo that he’s lying. 
+
+Leo says, “Would I be able to look you in the eye if I we re lying?”  The expression “to look (someone) in the eye” means that you can look at someone and honestly tell them the truth.  The idea is that you can’t look someone in the eye – look directly at them and still tell a lie.  That’s not true , but many people, when they tell a lie, don’t look directly at the other person because th ey will indicate by the way they are looking at them that they are not telling the  truth, that they are lying. That’s the idea, I’m not sure if that’s true.  Leo says,  “Look at me.  I’m the picture of Honest Abe.”  “The picture of (something)” means I a m just like, I am identical with.  “Honest Abe” refers to Abraham Lincoln, the 16th president of the United States in the middle of the 19th century.  Abe Lincoln had the reputation for being very honest.  I’m not sure if that was true or not, but  in the U.S. there is this expression: “Honest Abe.”  Honest Abe is somebody who is very honest, who never lies. 
+
+So, Elizabeth is being told by Leo that he would never lie to her.  Elizabeth says, “Do you expect me to believe that?”  Leo says, “There’s no t a dishonest bone in my body.”  This phrase, “there’s not a dishonest bone in m y body,” means that I am not able to lie, it is not even possible for me to lie.  Leo continues, “I may tell a white lie here and there, but I would never try to tell you a bald-faced lie like this.”  A “white lie” means it’s a small, unimportant matter; it was a lie about something, but not something very important, not somethi ng serious.  Leo says, “I may tell a white lie here and there (meaning somet imes, occasionally), but I would never try to tell you a bald-faced lie.”  A “bald -faced lie” is a lie where you are almost not even trying to hide the fact that you ar e lying.  It’s a bold lie, often a lie about something that you know is completely wrong .  That would be a bald- faced lie.  “Bald” (bald) usually means someone without  hair.  “Bald-faced” would be someone who has no hair on their face, meaning they  don’t have a beard or a mustache.  The idea is that people with beards and musta ches might be dishonest; they’re trying to hide something.  I’ve always t hought this was true, actually.  Never trust a man in a beard! 
+
+Elizabeth says, “Oh, really?  Do you swear?”  Here, “to swe ar” (swear) means to promise that you are telling the truth, to say very stron gly that you are not lying. “Swear” has some other meanings in English very different  from this meaning. You can find those in our Learning Guide for this episo de. 
+
+ Leo says, “I swear that I didn’t eat the last piece of cake .”  “Elizabeth says, “There’s something fishy about the way you said that.”  W hen you say something is “fishy” (fishy) you mean there’s something strange, som ething dishonest, something wrong.  “There’s something fishy going on her e,” meaning there’s something wrong here.  Elizabeth says there’s something f ishy about the way that Leo said he didn’t eat the last piece of cake, me aning somehow, again, he’s lying. 
+
+Leo says, “I don’t know what you mean.”  Elizabeth says, “ You didn’t eat the last piece of cake, but you know who did (who did eat it).”  Leo says, “I’m pleading the Fifth.”  This expression means I’m not going to tell  you, I refuse to tell you that information because it could harm me.  This actual ly refers, in the U.S., to the Fifth Amendment to the Constitution of the Unite d States, which says that no one can be “compelled,” meaning you can’t make someone say that they committed a crime, especially in a courtroom.  So, “to pl ead the Fifth” means that you have the right, if you will, to protect yourself by n ot saying that you did something wrong. 
+
+Elizabeth says to Leo, “Spill it, Abe!”  “Abe,” of course , referring back to Honest Abe.  “To spill (something)” in this case means to say some thing that should be a secret, to tell someone a secret.  “Spill” has other mea nings also.  Once again, take a look at the Learning Guide for those. 
+
+Finally, Leo says, “Not on your life!”  “Not on your li fe” is a phrase used to mean that something is not going to happen, even if you kill me I’m not going to tell you.  It can also mean absolutely not.  If someone asks me,  “Jeff, are you going to buy a cat today?” and I say, “Not on your life!” 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Elizabeth:  You’re full of it! 
+
+Leo:  I’m telling you the God’s honest truth.  Why woul d I eat the last piece of cake when I know that you had your heart set on it? 
+
+Elizabeth:  That’s the question, isn’t it?  Why would yo u go behind my back and eat it, and then try to put one over on me? 
+
+Leo:  Would I be able to look you in the eye if I wer e lying?  Look at me.  I’m the picture of Honest Abe.  
+
+ Elizabeth:  Do you expect me to believe that? 
+
+Leo:  There’s not a dishonest bone in my body.  I may te ll a white lie here and there, but I would never try to tell you a bald-faced l ie like this. 
+
+Elizabeth:  Oh, really?  Do you swear?   
+
+Leo:  I swear that I didn’t eat the last piece of cake. 
+
+Elizabeth:  There’s something fishy about the way you said that.   
+
+Leo:  I don’t know what you mean. 
+
+Elizabeth:  You didn’t eat the last piece of cake, but you know who did. 
+
+Leo:  I’m pleading the Fifth. 
+
+Elizabeth:  Spill it, Abe! 
+
+Leo:  Not on your life! 
+
+[end of dialogue] 
+
+The script for this episode was written by Dr. Lucy Tse.  I swear!   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Come  back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

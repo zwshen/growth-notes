@@ -1,0 +1,83 @@
+<HTML>
+<HEAD>
+<TITLE>MIUP'2003: Problem E</TITLE>
+</HEAD>
+
+<BODY bgcolor="white">
+
+<font color="#0000FF">
+<H1>Problem E</H1>
+
+<H1 align="center">The BitPack Data Compression Problem</H1>
+</font>
+
+
+<div class=Section1> 
+  
+  <p>Current applications must deal with every sort of data. Some data 
+  sources are huge and some of these must be manipulated as a whole (an image 
+  for example). This context gave birth to a new area of study called data 
+  compression.</p>
+  <p>A data 
+  compression operation has two opposite faces: the compression and the 
+  decompression. Normally, when a standard is published by ISO or CCITT it only 
+  describes the simplest operation leaving the other to the application 
+  programmers.</p>
+  <p>The CCITT text for the BitPack algorithm describes the data decompression 
+  as in the following:</p>
+  <pre style="line-height:1">       While (there is input)</pre>
+  <pre style="line-height: 1">           n &lt;-- read next byte</pre>
+  <pre style="line-height: 1">           If (0&lt;= n &lt;= 127)</pre>
+  <pre style="line-height: 1">               copy the next n+1 bytes to the output as they are</pre>
+  <pre style="line-height: 1">           Else If (129&lt;= n &lt;=255)</pre>
+  <pre style="line-height: 1">               copy the next byte n-128+1 times to the output</pre>
+  <pre style="line-height: 1">           Else If n=128</pre>
+  <pre style="line-height: 1">               do nothing       
+  </pre>
+<FONT color="#0000FF"><H2>Problem</H2></FONT>
+<P align="justify"> 
+  Your task consists of writing a program that performs the opposite 
+  operation: the data compression, in such a way that a file of minimal size is 
+  obtained.</p>
+
+<FONT color="#0000FF"><H2>Input</H2></FONT>
+<P align="justify"> 
+  The input is a simple byte sequence. All files can be regarded as simple 
+  byte sequences.</p>
+</div>
+
+<div class=Section1> 
+<FONT color="#0000FF"><H2>Output</H2></FONT>
+<P align="justify"> 
+  The output file will consist of a file with compressed content. </p>
+  <p> From this file and applying the algorithm described above it should be 
+  possible to retrieve the original file.</p>
+</div>
+
+<div class=Section1>
+<FONT color="#0000FF"><H2>Samples </H2></FONT>
+  <p>Note: in the examples below [ddd] stands for a character with ASCII code 
+  equal to ddd.</p>
+<FONT color="#0000FF"><H2>Sample Input 1</H2></FONT>
+  <p>aaaaaaaarstqahbbbbbbb</p>
+<FONT color="#0000FF"><H2>Sample Output 1</H2></FONT>
+  <p>[135]a[5]rstqah[134]b</p>
+  <pre> </pre>
+<FONT color="#0000FF"><H2>Sample Input 2</H2></FONT>
+  <p>aaaaaaaaaa</p>
+<FONT color="#0000FF"><H2>Sample Output 2</H2></FONT>
+  <p>[137]a</p>
+<FONT color="#0000FF"><H2>Sample Input 3</H2></FONT>
+  <p>abcdefghij</p>
+<FONT color="#0000FF"><H2>Sample Output 3</H2></FONT>
+  <p>[9]abcdefghij</p>
+</div>
+
+<hr>
+<i>
+José Carlos Ramalho, MIUP'2003<br>
+(Portuguese National ACM Programming Contest)
+</i>
+
+</body>
+</html>

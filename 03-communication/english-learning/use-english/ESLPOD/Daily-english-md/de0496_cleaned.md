@@ -1,0 +1,104 @@
+# Driving a Company Car
+
+Welcome to English as a Second Language Podcast number 4 96: Driving a Company Car. 
+
+This is English as a Second Language Podcast episode 496.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode, which will help you improve your English even fa ster. 
+
+This episode is called “Driving a Company Car.”  It’s a di alogue between Michael and Robin that uses a lot of vocabulary related to drivi ng a car for your work – for the company you work for.  Let’s get started. 
+
+[start of dialogue] 
+
+Michael:  Shall we? 
+
+Robin:  Oh, this is nice.  Did you get a new car? 
+
+Michael:  No, this is a company car.  Getting to drive one  is one of the perks of my new job. 
+
+Robin:  Does your new position call for a lot of driving ? 
+
+Michael:  It does.  As the regional supervisor, I have to cover a large territory.  I’ll be visiting all of the affiliates across the state. 
+
+Robin:  Does that mean you can drive the company car anyti me, anywhere? 
+
+Michael:  Well, I’m only supposed to use it for official business since the company deducts the standard mileage allowance on their t axes, but there are ways to account for any extra miles I log.   
+
+Robin:  You mean you fudge the mileage numbers? 
+
+Michael:  You could say that.  It’s no big deal.  Everybod y does it, or so I’ve heard.  You know, I’ve been meaning to ask you.  Do you want to go with me to San Diego this weekend? 
+
+ Robin:  That depends.  Are you taking your company car? 
+
+Michael:  I was thinking about it. 
+
+Robin:  In that case, no, thanks.  I don’t want to be a n accessory to whatever rules you’re breaking. 
+
+Michael:  Suit yourself, but what’s a company perk if you can’t take full advantage of it? 
+
+[end of dialogue] 
+
+Michael and Robin are inside of a car, and Michael says, “ Shall we?”  This is a rather formal, polite way of asking someone whether he or she would like to join you in whatever you are doing; it’s used to ask someone t o do something with you.  Among friends or family to say “shall we” is sort of a joke because, of course, the language would be too formal. 
+
+Michael says, “Shall we,” and Robin says, “Oh, this is nice.   Did you get a new car?”  Michael says, “No, this is a company car,” a car owned by a business but that is used usually by one employee, sometimes perhaps mor e than one, but usually one.  Michael says, “Getting to drive one (one of  these cars) is one of the perks of my new job.”  A “perk” (perk) is something that y ou get from your job in addition to money.  One of the perks of working at ESL Podcast is getting to know people from all over the world who email us, and some of whom actually have visited us here in Los Angeles. 
+
+Robin says, “Does your new position call for a lot of drivi ng?”  “To call for” is a two-word – you guessed it – phrasal verb meaning to requ ire, to need.  “Call,” as a verb, has many different meanings in English; take a l ook at our Learning Guide for some additional explanations.  Michael respon ds that his new position does call for a lot of driving.  He says, “As the regional  supervisor, I have to cover a large territory.”  “Regional” is related to the wor d “region,” which is a larger area – a large area.  Here in the United States you have, for example, the region of the Pacific Northwest, which would be the states of Washin gton and Oregon.  So, “region” is a larger area.  In many countries, you have different provinces or states, but you also have regions that usually have more th an one province or state in them. 
+
+Michael is the regional supervisor (the regional boss), wh ich means he has to cover a large territory.  To “cover” a place or an area m eans that you are responsible for a certain area; you have to usually go to  and visit places in this  
+
+ larger area.  Many large companies that have stores have  different regions and regional managers that go around and travel to each sto re and talk with the local boss – the local supervisor of that store.  Michael says he ha s to cover a large territory.  A “territory” is, in this case, an area that is assigned to one person or to one group; it’s an area that one person or one group is responsible for.  At least that’s one meaning of the word “territory,” especially i f we’re talking about businesses.  You may have salesmen and women who work for t he same company, but they have different territories; they don’t  sell to the same people, they sell to people who live in different areas.  Michae l says, “I’ll be visiting all of the affiliates across the state.”  An “affiliate” (affil iate) is a person, business, or organization that is connected with some other business, p erson, or organization, but not necessarily a part of it, not necessarily in the same place or with the same leader.   
+
+In this case, Michael is visiting the affiliates of his compa ny – the company he works for, I should say.  Robin says, “Does that mean you can drive the company car anytime, anywhere?”  Michael says, “Well, I’m only suppo sed to use it for official business.”  “Official business” is something that i s related to your job, something you are required to do for your position – f or your particular work. That expression is sometimes used in talking about governm ent workers, people such as the police for example, who are going to a place.   They may say, “I’m here on official business,” meaning I’m here as part of my job, something I have to do.  But it can be used more generally to mean thi ngs that are related directly to your job that you are required to do. 
+
+Michael says the company he works for “deducts the standard mi leage allowance on their taxes.”  “To deduct” means to take off of, to remove from, to reduce.  The “standard mileage allowance,” here in the United Sta tes, is the amount of money that you can “claim” on your taxes (that you can put on your taxes) for using cars for your official company business.  For example, if I work for a company and I need to drive 400 miles to talk to someone about someth ing related to my company, I can use that driving as part of an expense; in o ther words, I can say this is something I had to pay for.  But you can only pay a certain amount, and the U.S. government, every year, tells you how much you ca n “deduct” (how much you can say that you spent) per mile.  I believe in 2008 it was 58 /.notdef.g0001 cents per mile, so if you drive 400 miles you could “claim” (you  could say on your tax forms) that you spent 234 dollars based on the standard mileage allowance. “Mileage” refers, of course, to miles; it’s the distance  – it’s the amount of driving that you do, the number of miles that you drive. 
+
+Michael adds, “but there are ways to account for any extr a miles I log.”  “To account for (something)” means to explain something, to have an explanation for  
+
+ something: “What accounts for the fact that all the wome n in Los Angeles are beautiful?”  The answer is that they all look like my wi fe, the most beautiful woman in the world.  I hope you’re listening honey!  B ack to our dialogue: Michael says that he can account for any extra miles that he  logs.  “To log,” here, means to write down something as it happens over time; in this case, it means the number of miles that he drives.  When he writes dow n the distance that he had to drive, that is “to log” your miles.  Sometimes th e verb can just mean to actually drive; someone may say, “I logged in a lot of m iles yesterday” (I drove a lot). 
+
+Robin says, “You mean you fudge the mileage numbers?”  “To fudge” (fudge), as a verb, means to change a number slightly, usually for som e dishonest intent, when you are trying to lie to someone about something.   Someone says, “How old are you?” and you say, “Oh, I’m…um…I’m 29.”  You’re fudging your age; you’re not really 29, but you want this woman to belie ve you’re 29.   
+
+Anyway, so Robin is asking Michael if he is fudging his mile age numbers, if he’s putting down the wrong amounts.  Michael said, “You co uld say that.  It’s no big deal.”  “You could say that” means that’s probably or po ssibly true.  But he says, “It’s no big deal,” it’s not something to worry about.  He says, “Everybody does it, or so I’ve heard.”  The phrase “or so I’ve heard” is used  to show that something that you just said is something you heard from other peo ple, but you don’t necessarily know that to be true based on your own experi ence.   
+
+Michael says, “You know, I’ve been meaning to ask you.  Do yo u want to go with me to San Diego this weekend?”  Robin says, “That depen ds.  Are you taking your company car?”  Michael says, “I was thinking about it.”  Robin says, “In that case, no, thanks.  I don’t want to be an accessory to what ever rules you’re breaking.”  An “accessory” here means a person who helps  someone else do something wrong, break the law, someone who helps a c riminal.  “Accessory” has several different meanings in English however, very di fferent from this; take a look at our Learning Guide for some additional expla nations. 
+
+Michael says, “Suit yourself,” meaning if you don’t want to go, that’s fine with me. This expression, “suit yourself,” is usually used when you of fer something to someone and the other person says no, and then you’re a l ittle angry.  You’re a little mad they said no, so you say, “Oh, well, suit yourse lf.  Whatever you want to do.”  Michael says, “what’s a company perk if you can’t ta ke full advantage of it?” meaning I have this company car, I should be able to use i t for my own pleasure. The government, unfortunately, doesn’t agree with tha t philosophy! 
+
+Now let’s listen to the dialogue, this time at a norma l speed.  
+
+ [start of dialogue] 
+
+Michael:  Shall we? 
+
+Robin:  Oh, this is nice.  Did you get a new car? 
+
+Michael:  No, this is a company car.  Getting to drive one  is one of the perks of my new job. 
+
+Robin:  Does your new position call for a lot of driving ? 
+
+Michael:  It does.  As the regional supervisor, I have to cover a large territory.  I’ll be visiting all of the affiliates across the state. 
+
+Robin:  Does that mean you can drive the company car anyti me, anywhere? 
+
+Michael:  Well, I’m only supposed to use it for official business since the company deducts the standard mileage allowance on their t axes, but there are ways to account for any extra miles I log.   
+
+Robin:  You mean you fudge the mileage numbers? 
+
+Michael:  You could say that.  It’s no big deal.  Everybod y does it, or so I’ve heard.  You know, I’ve been meaning to ask you.  Do you want to go with me to San Diego this weekend? 
+
+Robin:  That depends.  Are you taking your company car? 
+
+Michael:  I was thinking about it. 
+
+Robin:  In that case, no, thanks.  I don’t want to be a n accessory to whatever rules you’re breaking. 
+
+Michael:  Suit yourself, but what’s a company perk if you can’t take full advantage of it? 
+
+[end of dialogue] 
+
+The script for this episode was by someone who never fudges  the numbers, or so I’ve heard, Dr. Lucy Tse.   
+
+ From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

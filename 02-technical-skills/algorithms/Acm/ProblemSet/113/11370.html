@@ -1,0 +1,150 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Moogle</TITLE>
+<META NAME="description" CONTENT="Moogle">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+I: Moogle</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+You got the original idea of making map software, called Moogle Maps, for the new cool Maple mPhone. It will even be capable of indicating the location of a house address like ``<SPAN  CLASS="textbf">Main Street 13</SPAN>". However, since the mPhone has limited storage capacity, you need to reduce the data amount. You don't want to store the exact location of every single house number. Instead only a subset of the house numbers will be stored exactly, and the others will be linearly interpolated. So you want to select house numbers that will minimise the average interpolation error, given how many house locations you have capacity to store. We view the street as a straight line, and you will always store the first and the last house location. 
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p11370.eps}$
+ -->
+<IMG
+ WIDTH="139" HEIGHT="300" ALIGN="right" BORDER="0"
+ SRC="p11370.png"
+ ALT="\epsfbox{p11370.eps}">
+<tex2html_verbatim_mark>
+</DIV>
+
+<P>
+Given that you've stored the locations <SPAN CLASS="MATH"><I>x</I><SUB>i</SUB></SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH"><I>x</I><SUB>j</SUB></SPAN>
+<tex2html_verbatim_mark> for the houses with numbers <SPAN CLASS="MATH"><I>i</I></SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH"><I>j</I></SPAN>
+<tex2html_verbatim_mark> respectively, but no other house in between, the interpolated value for a house with number <SPAN CLASS="MATH"><I>k</I></SPAN>
+<tex2html_verbatim_mark> with <SPAN CLASS="MATH"><I>i</I> &lt; <I>k</I> &lt; <I>j</I></SPAN>
+<tex2html_verbatim_mark> is <!-- MATH
+ $x_{i} + (x_{j} - x_{i}) \cdot \frac{k-i}{j-i}$
+ -->
+<SPAN CLASS="MATH"><I>x</I><SUB>i</SUB> + (<I>x</I><SUB>j</SUB> - <I>x</I><SUB>i</SUB>)<SUP> . </SUP><IMG
+ WIDTH="31" HEIGHT="40" ALIGN="MIDDLE" BORDER="0"
+ SRC="11370img2.png"
+ ALT="$ {\frac{{k-i}}{{j-i}}}$"></SPAN>
+<tex2html_verbatim_mark>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of input gives a single integer, <!-- MATH
+ $1 \le t \le 50$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11370img3.png"
+ ALT="$ \le$"><I>t</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11370img3.png"
+ ALT="$ \le$">50</SPAN>
+<tex2html_verbatim_mark>, the number of test cases. 
+
+<P>
+For each test case, there are two lines. The first contains <!-- MATH
+ $2 \le h \le 200$
+ -->
+<SPAN CLASS="MATH">2<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11370img3.png"
+ ALT="$ \le$"><I>h</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11370img3.png"
+ ALT="$ \le$">200</SPAN>
+<tex2html_verbatim_mark> and <!-- MATH
+ $2 \le c \le h$
+ -->
+<SPAN CLASS="MATH">2<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11370img3.png"
+ ALT="$ \le$"><I>c</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11370img3.png"
+ ALT="$ \le$"><I>h</I></SPAN>
+<tex2html_verbatim_mark>, where <SPAN CLASS="MATH"><I>h</I></SPAN>
+<tex2html_verbatim_mark> is the number of houses in the street and <SPAN CLASS="MATH"><I>c</I></SPAN>
+<tex2html_verbatim_mark> is the number of house locations that can be stored. The second contains <SPAN CLASS="MATH"><I>h</I></SPAN>
+<tex2html_verbatim_mark> integers in increasing order giving the location of the <SPAN CLASS="MATH"><I>h</I></SPAN>
+<tex2html_verbatim_mark> houses. Each location is in the interval [0, 1000000].
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case, output the average interpolation error over all the <SPAN CLASS="MATH"><I>h</I></SPAN>
+<tex2html_verbatim_mark> houses for the optimal selection of <SPAN CLASS="MATH"><I>c</I></SPAN>
+<tex2html_verbatim_mark> house locations to store. The output should be given with four decimal places, but we will accept inaccuracies of up to <SPAN CLASS="MATH">&#177;</SPAN>
+<tex2html_verbatim_mark>0.001.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2 
+4 3 
+0 9 20 40 
+10 4 
+0 10 19 30 40 90 140 190 202 210
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+0.2500
+0.3000
+</PRE>
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

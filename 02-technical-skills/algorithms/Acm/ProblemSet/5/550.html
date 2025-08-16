@@ -1,0 +1,109 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Multiplying by Rotation</TITLE>
+<META NAME="description" CONTENT="Multiplying by Rotation">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Multiplying by Rotation</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+<B>Warning: Not all numbers in this problem are decimal numbers!</B>
+
+<P>
+
+<P>
+<BR>
+Multiplication of natural numbers in general is a cumbersome operation. In some
+cases however the product can be obtained by moving the last digit to the front.
+
+<P>
+
+<P>
+<BR>
+Example: 179487 * 4 = 717948
+
+<P>
+
+<P>
+<BR>
+Of course this property depends on the numbersystem you use, in the above
+example we used the decimal representation. In base 9 we have a shorter example:
+
+<P>
+
+<P>
+<BR>
+17 * 4 = 71 (base 9)
+
+<P>
+
+<P>
+<BR>
+as (9 * 1 + 7) * 4 = 7 * 9 + 1
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input for your program is a textfile. Each line consists of three numbers separated by a space:
+the base of the number system, the least significant digit of the first factor, and the second factor.
+This second factor is one digit only hence less than the base. The input file ends with the standard
+end-of-file marker.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Your program determines for each input line the number of digits of the smallest first factor with
+the rotamultproperty. The output-file is also a textfile. Each line contains the answer for the
+corresponding input line.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+10 7 4
+9 7 4
+17 14 12
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+6
+2
+4
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1998-03-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

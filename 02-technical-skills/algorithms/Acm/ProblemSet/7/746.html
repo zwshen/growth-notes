@@ -1,0 +1,131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Polygon Visibility</TITLE>
+<META NAME="description" CONTENT="Polygon Visibility">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Polygon Visibility</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+As a building block of a new graphic tool, a visibility function has to be designed: Given two convex polygons, it is necessary to identify the set of points <B>in the plane</B> from which the visibility of the second polygon is obstructed by the first one. More precisely, you are looking for the points <I>P</I>, not in the interior of the first polygon, for which there is a point
+<I>Q</I> in the second polygon such that the <EM>interior</EM> of the line segment 
+<!-- MATH: $\overline{PQ}$ -->
+<IMG
+ WIDTH="32" HEIGHT="38" ALIGN="MIDDLE" BORDER="0"
+ SRC="746img1.gif"
+ ALT="$\overline{PQ}$">
+contains some point
+of the first polygon. Your task is to write a program that implements that building block.
+
+<P>
+You may assume that the two polygons have no common points and that neither one is degenerate.
+
+<P>
+The set of points from which the visibility is obstructed can be described by a finite set of finite segments together with two infinite lines. Remember that the points in the interior of
+the first polygon are not included in the set of points from which the visibility is obstructed.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains several instances. Each instance consists of the following consecutive lines:
+
+<P>
+<UL>
+<LI>One line containing two positive integers <I>N</I> and <I>M</I> separated by one or more blank spaces. These are the number of vertices of the first and the second polygons. You may assume 
+<!-- MATH: $3 \leŸ N, M \leŸ 10000$ -->
+<IMG
+ WIDTH="145" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="746img2.gif"
+ ALT="$3 \leŸ N, M \leŸ 10000$">.
+<LI><I>N</I> lines containing each a pair of coordinates in the <I>XY</I> plane, separated by one or more blank spaces. These are the vertices of the first polygon. Every coordinate is an integer number in the range 1..10000.
+<LI><I>M</I> lines containing each a pair of coordinates in the <I>XY</I> plane, separated by one or more blank spaces. These are the vertices of the second polygon.
+</UL>
+
+<P>
+The vertices of each polygon appear in clockwise order. The input file ends with a line containing <TT>0 0</TT> and should not be processed.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each instance, you must write a line that identifies that instance, followed by a description of the set of points from which the visibility is obstructed. The description is formed by one
+of the infinite lines, the vertices that define the finite segments, and the second infinite line.
+
+<P>
+Each line and each vertex must appear in a separate line of output. Each infinite line must be represented by the slope of the line, rounded to three digits to the right of the decimal
+point. If the line is vertical, the word <TT>VERTICAL</TT> must replace its slope value. Each vertex must be represented with its coordinates, separated by a space. To avoid ambiguity, the
+vertices must be given in clockwise order with respect to the first polygon.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+3 3
+10 20
+20 20
+20 10
+10 10
+7 5
+5 7
+4 3
+20 19
+25 15
+20 10
+15 15
+10 20
+10 10
+5 15
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Instance 1
+VERTICAL
+10 20
+20 20
+20 10
+0.000
+Instance 2
+1.000
+15 15
+20 19
+25 15
+20 10
+-1.000
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,9 @@
+8
+P=1W  U=3V find I
+P=1mW U=3V find I
+P=1kW U=3V find I
+P=1MW U=3V find I
+P=1MW U=3mV find I
+P=1mW U=3MV find I
+U=1V I=1A find P
+U=1MV I=0.3MA find P

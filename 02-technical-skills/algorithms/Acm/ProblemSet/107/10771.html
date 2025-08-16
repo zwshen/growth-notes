@@ -1,0 +1,211 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Barbarian tribes</TITLE>
+<META NAME="description" CONTENT="Problem E: Barbarian tribes">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Barbarian tribes</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+In a lost land two primitive tribes coexist: Gareds and Kekas.
+Every summer solstice they meet and compete to decide
+which tribe will be the favorite of the gods for the rest of the year,
+following an old ritual:
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+First, a local guru chooses three numbers at random: <SPAN CLASS="MATH"><I>n</I></SPAN>, <SPAN CLASS="MATH"><I>m</I></SPAN> and <SPAN CLASS="MATH"><I>k</I></SPAN>.
+Afterwards, <SPAN CLASS="MATH"><I>n</I></SPAN> Gared maids (in the positions <!-- MATH
+ $1, 2, \dots, n$
+ -->
+<SPAN CLASS="MATH">1, 2,..., <I>n</I></SPAN>)
+and <SPAN CLASS="MATH"><I>m</I></SPAN> Keka maids (in the positions <!-- MATH
+ $n+1, n+2, \dots, n+m$
+ -->
+<SPAN CLASS="MATH"><I>n</I> + 1, <I>n</I> + 2,..., <I>n</I> + <I>m</I></SPAN>)
+are placed in a circle looking inwards.
+Then the guru begins to count <!-- MATH
+ $1, 2, \dots, k$
+ -->
+<SPAN CLASS="MATH">1, 2,..., <I>k</I></SPAN> starting at the first Gared maid.
+When the <SPAN CLASS="MATH"><I>k</I></SPAN>-th maid is reached, she is immediately sacrificed to the gods.
+The guru then counts again <!-- MATH
+ $1, 2, \dots, k$
+ -->
+<SPAN CLASS="MATH">1, 2,..., <I>k</I></SPAN>
+starting at the maid following the one just sacrificed.
+Again, the <SPAN CLASS="MATH"><I>k</I></SPAN>-th maid reached this way is sacrificed.
+After every two sacrifices,
+the second sacrificed maid is replaced by a new maid.
+In order to decide the tribe of the new maid,
+the guru looks at the heads of the two maids just killed
+(nothing else remains of them).
+If both heads are of the same tribe, the guru calls a Gared maid.
+If the heads are from different tribes, the guru calls a Keka maid.
+The process then begins again
+(counting and sacrificing twice and replacing once)
+starting to count at the maid following the new maid
+just added to the circle.
+Since the number of maids reduces by one after every step
+(of two sacrifices and one replacement),
+after <SPAN CLASS="MATH"><I>n</I> + <I>m</I> - 1</SPAN> steps only one maid remains.
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+According to the tradition,
+the tribe of the last maid will be the favorite of the gods.
+(What the guru does to the last maid is something you don't want to know.)
+Anyway, write a program such that,
+given <SPAN CLASS="MATH"><I>n</I></SPAN>, <SPAN CLASS="MATH"><I>m</I></SPAN> and <SPAN CLASS="MATH"><I>k</I></SPAN>, writes the name of the fortunate tribe.
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+For example, this is what happens for <SPAN CLASS="MATH"><I>n</I> = <I>m</I> = 3</SPAN> and <SPAN CLASS="MATH"><I>k</I> = 2</SPAN>
+(a ``G'' denotes a Gared maid and a ``K'' denotes a Keka maid;
+the subindexes mark the order the maids enter the circle):
+
+<OL>
+<LI>Initial content of the circle: G<SPAN CLASS="MATH"><SUB>1</SUB></SPAN> G<SPAN CLASS="MATH"><SUB>2</SUB></SPAN> G<SPAN CLASS="MATH"><SUB>3</SUB></SPAN> K<SPAN CLASS="MATH"><SUB>4</SUB></SPAN> K<SPAN CLASS="MATH"><SUB>5</SUB></SPAN> K<SPAN CLASS="MATH"><SUB>6</SUB></SPAN> 
+<BR>
+Starting to count at G<SPAN CLASS="MATH"><SUB>1</SUB></SPAN>.
+First sacrifice: G<SPAN CLASS="MATH"><SUB>2</SUB></SPAN>.
+Second sacrifice: K<SPAN CLASS="MATH"><SUB>4</SUB></SPAN> (replaced by K<SPAN CLASS="MATH"><SUB>7</SUB></SPAN>).
+</LI>
+<LI>Content of the circle: G<SPAN CLASS="MATH"><SUB>1</SUB></SPAN> G<SPAN CLASS="MATH"><SUB>3</SUB></SPAN> K<SPAN CLASS="MATH"><SUB>7</SUB></SPAN> K<SPAN CLASS="MATH"><SUB>5</SUB></SPAN> K<SPAN CLASS="MATH"><SUB>6</SUB></SPAN> 
+<BR>
+Starting to count at K<SPAN CLASS="MATH"><SUB>5</SUB></SPAN>.
+First sacrifice: K<SPAN CLASS="MATH"><SUB>6</SUB></SPAN>.
+Second sacrifice: G<SPAN CLASS="MATH"><SUB>3</SUB></SPAN> (replaced by K<SPAN CLASS="MATH"><SUB>8</SUB></SPAN>).
+</LI>
+<LI>Content of the circle: G<SPAN CLASS="MATH"><SUB>1</SUB></SPAN> K<SPAN CLASS="MATH"><SUB>8</SUB></SPAN> K<SPAN CLASS="MATH"><SUB>7</SUB></SPAN> K<SPAN CLASS="MATH"><SUB>5</SUB></SPAN> 
+<BR>
+Starting to count at K<SPAN CLASS="MATH"><SUB>7</SUB></SPAN>.
+First sacrifice: K<SPAN CLASS="MATH"><SUB>5</SUB></SPAN>.
+Second sacrifice: K<SPAN CLASS="MATH"><SUB>8</SUB></SPAN> (replaced by G<SPAN CLASS="MATH"><SUB>9</SUB></SPAN>).
+</LI>
+<LI>Content of the circle: G<SPAN CLASS="MATH"><SUB>1</SUB></SPAN> G<SPAN CLASS="MATH"><SUB>9</SUB></SPAN> K<SPAN CLASS="MATH"><SUB>7</SUB></SPAN> 
+<BR>
+Starting to count at K<SPAN CLASS="MATH"><SUB>7</SUB></SPAN>.
+First sacrifice: G<SPAN CLASS="MATH"><SUB>1</SUB></SPAN>.
+Second sacrifice: K<SPAN CLASS="MATH"><SUB>7</SUB></SPAN> (replaced by K<SPAN CLASS="MATH"><SUB>10</SUB></SPAN>).
+</LI>
+<LI>Content of the circle: G<SPAN CLASS="MATH"><SUB>9</SUB></SPAN> K<SPAN CLASS="MATH"><SUB>10</SUB></SPAN> 
+<BR>
+Starting to count at G<SPAN CLASS="MATH"><SUB>9</SUB></SPAN>.
+First sacrifice: K<SPAN CLASS="MATH"><SUB>10</SUB></SPAN>.
+Second sacrifice: G<SPAN CLASS="MATH"><SUB>9</SUB></SPAN> (replaced by K<SPAN CLASS="MATH"><SUB>11</SUB></SPAN>).
+</LI>
+<LI>Final content of the circle: K<SPAN CLASS="MATH"><SUB>11</SUB></SPAN> 
+<BR></LI>
+</OL>
+
+<P>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Input consists of zero ore more test cases.
+Each test case consists of a line
+with three positive integers: <SPAN CLASS="MATH"><I>n</I></SPAN>, <SPAN CLASS="MATH"><I>m</I></SPAN> and <SPAN CLASS="MATH"><I>k</I></SPAN>.
+You can assume <!-- MATH
+ $1 \le n + m \le 2000$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10771img1.png"
+ ALT="$ \le$"><I>n</I> + <I>m</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10771img1.png"
+ ALT="$ \le$">2000</SPAN> and <!-- MATH
+ $1 \le k \le 1000$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10771img1.png"
+ ALT="$ \le$"><I>k</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10771img1.png"
+ ALT="$ \le$">1000</SPAN>.
+A test case with <!-- MATH
+ $n = m = k = 0$
+ -->
+<SPAN CLASS="MATH"><I>n</I> = <I>m</I> = <I>k</I> = 0</SPAN> ends the input and must not be processed.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For every test case, print either <TT>"Gared"</TT> or <TT>"Keka"</TT> as convenient.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+3 3 2
+4 2 2
+0 1 7
+0 0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Keka
+Gared
+Keka
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+Author: Salvador Roura
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

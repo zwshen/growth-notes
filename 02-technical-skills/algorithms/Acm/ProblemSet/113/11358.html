@@ -1,0 +1,951 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+<title>F - Faster Processing Feasibility</title>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="p5_files/filelist.xml">
+<link rel=themeData href="p5_files/themedata.thmx">
+<link rel=colorSchemeMapping href="p5_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+@font-face
+	{font-family:Garamond;
+	panose-1:2 2 4 4 3 3 1 1 8 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:Algerian;
+	panose-1:4 2 7 5 4 10 2 6 7 2;
+	mso-font-charset:0;
+	mso-generic-font-family:decorative;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+pre
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"HTML Preformatted Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+span.HTMLPreformattedChar
+	{mso-style-name:"HTML Preformatted Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"HTML Preformatted";
+	font-family:"Courier New";
+	mso-ascii-font-family:"Courier New";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+p.cbfont, li.cbfont, div.cbfont
+	{mso-style-name:cbfont;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+span.spelle
+	{mso-style-name:spelle;
+	mso-style-unhide:no;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0in;border:outset 1.5pt;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td style='padding:0in 0in 0in 0in'>
+  <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:0in;background:#D9D9D9;border:solid white 1.5pt;
+   mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:19.5pt'>
+    <td width="20%" rowspan=2 style='width:20.0%;border:solid white 1.5pt;
+    padding:0in 0in 0in 0in;height:19.5pt'>
+    <p class=MsoNormal align=center style='text-align:center;line-height:normal'><b><span
+    style='font-size:48.0pt;font-family:"Garamond","serif"'>F</span></b></p>
+    </td>
+    <td width="56%" style='width:56.04%;border:solid white 1.5pt;padding:0in 0in 0in 0in;
+    height:19.5pt'>
+    <p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
+    style='font-size:12.0pt;font-family:Algerian'>Next generation contest - 4</span></p>
+    </td>
+    <td width="23%" rowspan=2 style='width:23.96%;border:solid white 1.5pt;
+    padding:0in 0in 0in 0in;height:19.5pt'>
+    <p class=MsoNormal align=center style='text-align:center;line-height:normal'><b
+    style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+    font-family:"Garamond","serif"'>Time Limit – 5 secs</span><o:p></o:p></b></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+    <td width="56%" valign=bottom style='width:56.04%;border:solid white 1.5pt;
+    padding:0in 0in 0in 0in'>
+    <p class=MsoNormal align=center style='text-align:center;line-height:normal'><b><span
+    style='font-size:28.0pt;font-family:"Garamond","serif"'>Faster Processing
+    Feasibility</span></b></p>
+    </td>
+   </tr>
+  </table>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='text-align:justify;line-height:normal'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'>The era of technology
+is so hectic at times! Each &amp; every single day, the crying needs for faster
+&amp; faster processors are becoming more important than before with the
+continuously increasing complexity of applications &amp; tasks. One of the
+solutions that the processor manufacturers are successfully employing nowadays
+is parallel processing. Scheduling of tasks is a prime concern while designing
+faster processors having several components working in parallel. We are
+currently building a new microprocessor that has <b>P</b> logical
+sub-processors in it. Each of the logical sub-processors can act as an
+individual processor &amp; process one of the available tasks during a time
+slot. Note that, a logical sub-processor can process only a single task in one
+time slot &amp; a task can not be processed by more than one processor during a
+time slot. Now, you are given the arrival time (the time when a task becomes
+available to the processors), processing time (the number of time slots
+necessary to complete processing the task) &amp; deadline (the earliest time
+when the processing of this task is required to be completed) for <b>T </b>tasks.
+You have to figure out if it is possible to schedule the tasks using the
+available resources in such a way that all tasks are completed before their
+respective deadlines. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'>Let us be a bit more
+specific. From now on we shall assume, each time slot equals 1 micro-second.
+The span of the first time slot is 0 to 1 micro-second while the second time
+slot is 1 to 2 micro-second &amp; so on.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'>For example, consider a
+multi-processor system with 2 logical sub-processors. You are needed to
+schedule 3 tasks A, B &amp; C with the following data.</span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=142 valign=top style='width:106.55pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'><i>Task</i></p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'><i>Arrival
+  Time</i></p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'><i>Processing
+  Time</i></p>
+  </td>
+  <td width=142 valign=top style='width:106.6pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'><i>Deadline</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=142 valign=top style='width:106.55pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>A</p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>0</p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>2</p>
+  </td>
+  <td width=142 valign=top style='width:106.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>2</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=142 valign=top style='width:106.55pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>B</p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>0</p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>3</p>
+  </td>
+  <td width=142 valign=top style='width:106.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>4</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+  <td width=142 valign=top style='width:106.55pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>C</p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>1</p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>2</p>
+  </td>
+  <td width=142 valign=top style='width:106.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>3</p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'>It is possible to
+schedule these 3 tasks in the given system so that all the tasks meet their
+respective deadlines i.e. processing of task A, B &amp; C are completed at (or
+before) time 2 micro-second, 4 micro-second &amp; 3 micro-second respectively.
+Look at the following table for a possible schedule.</span></p>
+
+<p class=MsoNormal style='text-align:justify;line-height:11.0pt'>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify;line-height:11.0pt'>&nbsp;</p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=568
+ style='width:426.25pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.35pt'>
+  <td width=95 valign=top style='width:71.0pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:32.35pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><i>Time
+  (micro-second)</i></p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:32.35pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><i>Available
+  tasks</i></p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:32.35pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><i>Assigned
+  to processor - 1</i></p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:32.35pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><i>Assigned
+  to processor – 2</i></p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:32.35pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><i>Completed
+  tasks</i></p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:32.35pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:11.0pt'><i>Due tasks</i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=95 valign=top style='width:71.0pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>0</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>A,
+  B</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>A</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>B</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>-</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>-</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=95 valign=top style='width:71.0pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>1</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>A,
+  B, C</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>A</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>C</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>-</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>-</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=95 valign=top style='width:71.0pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>2</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>B,
+  C</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>B</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>C</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>A</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>A</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=95 valign=top style='width:71.0pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>3</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>B</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>B</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>-</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>A,
+  C</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>A,
+  C</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+  <td width=95 valign=top style='width:71.0pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>4</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>-</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>-</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>-</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>A,
+  C, B</p>
+  </td>
+  <td width=95 valign=top style='width:71.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:11.0pt'>A,
+  C, B</p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
+line-height:115%;font-family:"Garamond","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
+line-height:115%;font-family:"Garamond","serif"'>Input</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'>The first line of the
+input is the number of test cases </span><b><span style='font-size:12.0pt;
+line-height:115%;font-family:"Courier New"'>C</span></b><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman","serif"'> (1 &#8804; </span><b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Courier New"'>C</span></b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>
+&#8804; 50 ). </span><span style='font-size:12.0pt;line-height:115%;font-family:
+"Courier New"'>C</span><span style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman","serif"'> test cases follow. A test case begins
+with 2 integers </span><b><span style='font-size:12.0pt;line-height:115%;
+font-family:"Courier New"'>P</span></b><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'> (1 &#8804; </span><b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Courier New"'>P</span></b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>
+&#8804; 40) &amp; </span><b><span style='font-size:12.0pt;line-height:115%;
+font-family:"Courier New"'>T</span></b><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'>(1 &#8804; </span><b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Courier New"'>T</span></b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>
+&#8804; 40), as described earlier. Each of the next </span><b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Courier New"'>T</span></b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>
+lines gives a task detail. A task detail consists of 3 integers – arrival time,
+</span><b><span style='font-size:12.0pt;line-height:115%;font-family:"Courier New"'>A<sub>i</sub></span></b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>
+(0 &#8804; </span><b><span style='font-size:12.0pt;line-height:115%;font-family:
+"Courier New"'>A<sub>i</sub></span></b><sub><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'> </span></sub><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>&#8804;
+1000), processing time, </span><b><span style='font-size:12.0pt;line-height:
+115%;font-family:"Courier New"'>R<sub>i</sub></span></b><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman","serif"'> (1 &#8804; </span><b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Courier New"'>R<sub>i</sub></span></b><sub><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>
+</span></sub><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>&#8804;
+5000) &amp; deadline, </span><b><span style='font-size:12.0pt;line-height:115%;
+font-family:"Courier New"'>D<sub>i</sub></span></b><sub><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman","serif"'> </span></sub><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>(</span><b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Courier New"'>A<sub>i</sub></span></b><sub><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>
+</span></sub><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>+
+</span><b><span style='font-size:12.0pt;line-height:115%;font-family:"Courier New"'>R<sub>i</sub></span></b><sub><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>
+</span></sub><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>&nbsp;&#8804;
+</span><b><span style='font-size:12.0pt;line-height:115%;font-family:"Courier New"'>D<sub>i</sub></span></b><sub><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>&nbsp;
+</span></sub><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>&#8804;
+10000). <sub>&nbsp;</sub></span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
+line-height:115%;font-family:"Garamond","serif"'>Output</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'>For each test case,
+print “FEASIBLE” in a line if there is a possible schedule to meet all the
+deadlines. Otherwise, print “NO WAY”.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
+line-height:115%'>&nbsp;</span></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0in;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=226 valign=top style='width:169.45pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal style='text-align:justify;line-height:normal'><b><span
+  style='font-size:16.0pt;font-family:"Garamond","serif"'>Sample Input</span></b></p>
+  </td>
+  <td width=352 valign=top style='width:264.05pt;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal style='text-align:justify;line-height:normal'><b><span
+  style='font-size:16.0pt;font-family:"Garamond","serif"'>Output for Sample
+  Input</span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:63.15pt'>
+  <td width=226 valign=top style='width:169.45pt;padding:0in 0in 0in 0in;
+  height:63.15pt'>
+  <p class=MsoNormal style='line-height:11.0pt'><span style='font-family:"Courier New"'>2<br>
+  2 3<br>
+  0 2 2<br>
+  0 3 4<br>
+  1 2 3<br>
+  2 3<br>
+  0 2 2<br>
+  0 3 3<br>
+  1 2 3</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:10.0pt;font-family:"Courier New"'>&nbsp;</span></p>
+  </td>
+  <td width=352 valign=top style='width:264.05pt;padding:0in 0in 0in 0in;
+  height:63.15pt'>
+  <p class=MsoNormal style='line-height:11.0pt'><span style='font-family:"Courier New"'>FEASIBLE<br>
+  NO WAY </span></p>
+  </td>
+ </tr>
+</table>
+
+<div style='border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 1.0pt 0in'>
+
+<p class=MsoNormal style='text-align:justify;line-height:normal'><b><span
+style='font-size:12.0pt;font-family:"Courier New"'>&nbsp;</span></b></p>
+
+</div>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Garamond","serif"'>ProblemSetter: Mohammad Mahmudur Rahman<br>
+Special Thanks: Ivan Krasilnikov</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,202 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Sandorf's Cipher</TITLE>
+<META NAME="description" CONTENT="Sandorf's Cipher">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Sandorf's Cipher</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Count Mathias Sandorf, a hero of Jules Verne, encrypted the secret
+messages of the Trieste conspirators by using a <EM>cipher key</EM> a
+6<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="795img1.gif"
+ ALT="$\times$">6 hard paper square with some holes in it. In figure 1
+the holes are marked white.
+One edge of the cipher key has a
+pinch-mark. Empty messages are coded as empty strings. For
+encrypting a non empty message follow the Sandorf's algorithm
+below.
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src= p795.gif>
+
+<P>
+
+Figure 1: Sandorf's cipher key
+</DIV>
+
+<P>
+<DL COMPACT>
+<DT>1.
+<DD>Extend the message, by appending trailing `<TT>#</TT>'
+characters, until its  length equals a multiple of 36, and then
+reverse  the  extended message. By convention,  original  messages
+do not end  with <TT>#</TT>  but,  however,  they  can contain <TT>#</TT>. For
+example, the message:
+<P>
+
+<P>
+<BR>
+
+<TT>Real Programmers use Fortran. Quiche Eaters use Pascal.</TT>
+
+<P>
+
+<P>
+<BR>
+is 55 characters long and has to be extended by appending 17
+trailing <TT>#</TT>. Right after step 1, the message is:
+
+<P>
+
+<P>
+<BR>
+
+<TT>#################.lacsaP esu sretaE ehciuQ .nartroF esu sremmargorP laeR</TT>
+
+<P>
+
+<P>
+<BR>
+
+<P>
+<DT>2.
+<DD>Position the cipher key on a sheet of paper, the pinch-mark
+facing upwards.
+<DT>3.
+<DD>Copy  the next 9 characters  from  the message
+(initially  the first 9 characters) onto the paper through  the
+holes of  the cipher key, one character per hole, from left to
+right and top to bottom.
+<DT>4.
+<DD>Turn the cipher key 90 degrees
+clockwise and repeat  from step 3 until the key gets to  its
+initial position, with the pinch-mark up. The result is a 6<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="795img1.gif"
+ ALT="$\times$">6
+matrix of characters, called a <EM>coded group</EM>.
+<DT>5.
+<DD>Repeat  from step
+2 until all characters of  the message are copied  into  coded
+groups,  then append  the rows  of  the  coded groups  from  the
+first  row  of  the  first  generated  coded group  to  the  last
+row  of  the  last generated  coded  group, following  the  order
+of  rows  in  each  group  and  the  order of  groups.  For  the
+given message there are two coded groups, shown below,
+</DL>
+
+<P>
+
+<P>
+<BR>
+
+<PRE>
+                              u#l# #          geuhoc
+                              as#r##           raPir
+                              ec##st           sutrl
+                              ##aa##          rQae o
+                              EP# ##          emFR .
+                               #e#s.          meanrs
+</PRE>
+
+<P>
+which, when appended, yield the final encrypted message:
+
+<P>
+
+<P>
+<BR>
+
+<code>u#l# #as#r##ec##st##aa##EP# ## #e#s.geuhoc raPir sutrlrQae oemFR .meanrs</code>
+
+<P>
+
+<P>
+<BR>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input and Output</A>&nbsp;</FONT>
+</H2>
+Write  a  program  that  decrypts  messages  encrypted  by  using
+the  Sandorf's  algorithm.  The  encrypted messages are  read from
+a  text  file,  one message per  line  ending with a line-break.
+Lines can be of  different length. All characters of a  line
+(except the  line-break) are part of the encrypted message which
+cannot exceed 108 characters. The decrypted messages are printed
+on  the standard output  file.  Each output  line contains a
+message  in  its  original  form, starting  from  the beginning of
+the  line.  Decoding  the  above encrypted message yields the
+result:
+
+<P>
+
+<P>
+<BR>
+
+<TT>Real Programmers use Fortran. Quiche Eaters use
+Pascal.</TT>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+irdetn ihtoteao  pesms soiaCet snaoi
+ #e#r# edt#aasdrtltn ca reyor feneiv
+o#kginasksoaemlt f  odatrnip  as ene
+w#lerhiomfte t rSp se ntt.is id,raal
+o#r#i#etbanagvareioml  nbfooheo  lny
+e# #s#holp#lpt#iiok# w#so  ts.tiis h
+
+H### ##d#l##a####n##o)##Dg#(##i#n#o#
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Competition is a disease that sooner
+or later infects every trade and
+profession and makes it take a long
+step forward. Still, it remains the
+obligation of every honorable man
+to oppose it with his skills.
+
+(Donald Honig)
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2001-01-05</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

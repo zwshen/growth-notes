@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>LC-Display</TITLE>
+<META NAME="description" CONTENT="LC-Display">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+LC-Display</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A friend of you has just bought a new computer. Until now, the most
+powerful computer he ever used has been a pocket calculator. Now,
+looking at his new computer, he is a bit disappointed, because he
+liked the LC-display of his calculator so much. So you decide to write 
+a program that displays numbers in an LC-display-like style on his computer.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input file contains several lines, one for each number to be
+displayed. Each line contains two integers <I>s</I>, <I>n</I> (
+<!-- MATH: $1 \le s \le 10, 0
+\le n \le 99\,999\,999$ -->
+<IMG
+ WIDTH="234" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="706img1.gif"
+ ALT="$1 \le s \le 10, 0
+\le n \le 99\,999\,999$">), where <I>n</I> is the number to be displayed and <I>s</I>
+is the size in which it shall be displayed.
+
+<P>
+The input file will be terminated by a line containing two zeros.
+This line should not be processed.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Output the numbers given in the input file in an LC-display-style
+using <I>s</I> ``<TT>-</TT>'' signs for the horizontal segments and
+<I>s</I> ``<TT>|</TT>'' signs for the vertical ones. Each digit occupies
+exactly <I>s</I>+2 columns and 2<I>s</I>+3 rows. (Be sure to fill all the white space
+occupied by the digits with blanks, also for the last digit.) There
+has to be exactly one column of blanks between two digits.
+
+<P>
+Output a blank line after each number. 
+(You will find a sample of each digit in the sample output.)
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2 12345
+3 67890
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+      --   --        -- 
+   |    |    | |  | |   
+   |    |    | |  | |   
+      --   --   --   -- 
+   | |       |    |    |
+   | |       |    |    |
+      --   --        -- 
+
+ ---   ---   ---   ---   --- 
+|         | |   | |   | |   |
+|         | |   | |   | |   |
+|         | |   | |   | |   |
+ ---         ---   ---       
+|   |     | |   |     | |   |
+|   |     | |   |     | |   |
+|   |     | |   |     | |   |
+ ---         ---   ---   --- 
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

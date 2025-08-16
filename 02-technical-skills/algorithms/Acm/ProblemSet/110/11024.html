@@ -1,0 +1,414 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="d_files/filelist.xml">
+<link rel=Edit-Time-Data href="d_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem D - Circular Lock</title>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+h3
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Arial Unicode MS";
+	font-weight:bold;}
+h4
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:24.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:#6633CC;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+address
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-style:italic;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+p.preformatted, li.preformatted, div.preformatted
+	{mso-style-name:preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+span.stylearial16pt
+	{mso-style-name:stylearial16pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.8in .8in 67.7pt .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="3074"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#6633CC" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:28.0pt;font-family:Arial'>Problem D</span></b><span
+style='font-family:Arial'><br>
+</span><b><span style='font-size:20.0pt;font-family:Arial'>Circular Lock</span></b><span
+style='font-family:Arial'><br>
+<b>Input: </b>Standard Input</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:Arial'>Output: </span></b><span style='font-family:Arial'>Standard
+Output </span></p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify;text-autospace:none'><span
+style='color:windowtext'>For the fourth time this month only, the absent minded
+mathematics professor <span class=SpellE>Bolkas</span> had lost his keys. Realizing,
+that a change of personality to one that <span class=GramE>keep</span> track of
+trivialities seemed unlikely, he started to invent a lock with a non-material
+key. Of course, he could just have chosen a combination lock, but as there were
+far too many numbers flying around in his daily thoughts, this idea was indeed
+a poor one. What he needed, was a lock which could be deactivated by solving a
+mathematical problem. For this type of lock, he could always be certain to have
+the “key&quot; on him. However, for the sake of safety, the problem had to be
+hard enough for anyone trying to find the solution merely by testing all
+possibilities. Still, if you knew the mathematics behind the lock, you should
+be able to deactivate it.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-autospace:none'><span
+style='color:windowtext'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-autospace:none'><span
+style='color:windowtext'>Being a big fan of modular <span class=SpellE>arithmetics</span>,
+<span class=SpellE>Bolkas</span> designed the lock as a 2 × 2 array of four
+modular devices (cf. fig. 1). A modular device is a discrete counter with a
+display showing the current state of the counter, and a trigger. Each counter
+can be in any of the states 0, 1<span class=GramE>, …,</span> p</span><span
+style='font-family:Arial;color:windowtext'>-</span><span style='color:windowtext'>1,
+where p &#8805; 1 is the period of the counter. By trigging a counter, the
+state of the counter changes from <span class=SpellE>i</span> to <span
+class=SpellE>i</span> + 1, except when the state is p</span><span
+style='font-family:Arial;color:windowtext'>-</span><span style='color:windowtext'>1,
+in which case the new state is 0. For each row and each column of the array,
+the professor put an increaser button on the panel of the lock. By pushing the
+increaser button for a row or column, both counters in that row or column are
+trigged. The lock is deactivated exactly when all four modular devices are in
+state 0. <span class=SpellE>Bolkas</span> also added a mechanism to activate
+the lock. Upon locking, each modular device is put in a randomly chosen state,
+not all equal to 0 (since in that case the lock would be immediately
+deactivated). Sadly enough, the professor soon found that for some quadruples
+of periods, it sometimes happened that the lock was put in a combination of
+states such that it could not be deactivated! However, it did not take him long
+to find an interesting relation between the locks, which helped him, and
+hopefully you, to decide if a lock could be deactivated or not:</span></p>
+
+<p class=MsoNormal align=center style='text-align:center;text-autospace:none'><span
+style='color:windowtext'><img width=296 height=343 id="_x0000_i1025"
+src="p11024.jpg"></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-autospace:none'><span
+style='color:windowtext'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-autospace:none'><span style='color:windowtext'>He
+observed that a lock whose modular devices had the periods p<sub>11</sub>, p<sub>12</sub>,
+p<sub>21</sub>, and p<sub>22</sub>, and were put in the states s<sub>11</sub>,
+s<sub>12</sub>, s<sub>21</sub>, and s<sub>22</sub>, could be deactivated if and
+only if a lock with all modular devices having the same period p = <span
+class=SpellE>gcd</span>(p<sub>11</sub>, p<sub>12</sub>, p<sub>21</sub>, p<sub>22</sub>),
+and the states <span class=SpellE>s´<sub>ij</sub></span> = <span class=SpellE>s<sub>ij</sub></span>
+mod p, could. The function <span class=SpellE><span class=GramE>gcd</span></span><span
+class=GramE>(</span>a, b, c, d) is the greatest common divider of a, b, c, and
+d.</span></p>
+
+<p class=MsoBodyText2>&nbsp; </p>
+
+<h5><span class=stylearial16pt><span style='font-size:16.0pt'>Input</span></span></h5>
+
+<p class=MsoNormal style='text-align:justify;text-autospace:none'><span
+style='color:windowtext'>The first line of input consists of a single positive
+integer n. Thereafter n scenarios follow. Each scenario consists of two rows of
+four integers each. Row <span class=SpellE>i</span> of each scenario, (1 &#8804;
+<span class=SpellE>i</span> &#8804; 2), contains the four integers s<sub>i1</sub>,
+s<sub>i2</sub>, p<sub>i1</sub>, and p<sub>i2</sub> in that order. <span
+class=SpellE><span class=GramE>s<sub>ij</sub></span></span> and <span
+class=SpellE>p<sub>ij</sub></span> are the current state and period
+respectively, of the modular device at row <span class=SpellE>i</span> and
+column j. No period <span class=SpellE>p<sub>ij</sub></span> is larger than
+10000, and 0 &#8804; <span class=SpellE>sij</span> &lt; <span class=SpellE><span
+class=GramE>pij</span></span><span class=GramE> .</span></span></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h4 style='text-align:justify'><span class=stylearial16pt><span
+style='font-size:16.0pt'>Output </span></span></h4>
+
+<p class=MsoNormal style='text-align:justify;text-autospace:none'><span
+style='color:windowtext'>For each scenario, output one line containing the text
+“Yes”, if it is possible to deactivate the lock by pressing the four row and
+column increaser buttons in some order. Otherwise the text “No” should be
+printed.</span></p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+font-family:Arial;font-style:normal'>Sample
+Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Output for Sample Input</span></b></h1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='background:#CCCCCC;border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=384 valign=top style='width:3.2in;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>2</span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>0 11 17 13</span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>5 8 6 11</span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>1 <span class=SpellE>1</span>
+  3 <span class=SpellE>3</span></span></b></p>
+  <p class=MsoNormal style='text-autospace:none'><b><span style='font-size:
+  11.0pt;font-family:"Courier New";color:windowtext'>1 0 3 <span class=SpellE>3</span></span></b></p>
+  <pre><b>&nbsp;</b></pre></td>
+  <td width=386 valign=top style='width:231.85pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>Yes</span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;font-family:"Courier New"'>No</span></b></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=3 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal>Swedish National Contest</p>
+
+</div>
+
+</body>
+
+</html>

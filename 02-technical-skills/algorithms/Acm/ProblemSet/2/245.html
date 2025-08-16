@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Uncompress</TITLE>
+<META NAME="description" CONTENT="Uncompress">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Uncompress</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+A simple scheme for creating a compressed version of a text file can be used 
+for files which contain no digit characters. The compression scheme requires 
+making a list of the words in the uncompressed file. When a non-alphabetic 
+character is encountered in the uncompressed file, it is copied directly into 
+the compressed file. When a word is encountered in the uncompressed file, it 
+is copied directly into the compressed file only if this is the first 
+occurrence of the word. In that case, the word is put at the front of the 
+list. If it is not the first occurrence, the word is not copied to the 
+compressed file. Instead, its position in the list is copied into the 
+compressed file and the word is moved to the front of the list. The numbering 
+of list positions begins at 1.
+<P>
+<P>
+Write a program that takes a compressed file as input and generates a 
+reproduction of the original uncompressed file as output. You can assume that 
+no word contains more than 50 characters and that the original uncompressed 
+file contains no digit characters.
+<P>
+<P>
+For the purposes of this problem, a word is defined to be a maximal sequence 
+of upper- and lower-case letters. Words are case-sensitive - the
+word <TT>abc</TT> is not the same as the word <TT>Abc</TT>. For example,
+<P>
+<P> <IMG WIDTH=495 HEIGHT=55 ALIGN=BOTTOM ALT="tabular23" SRC="245img1.gif"  > <P>
+<P>
+<P>
+There is no upper limit on the number of different words in the input file.
+The end of the input file is signified by the number 0 on a line by itself. 
+The terminating 0 merely indicates the end of the input and should not be part 
+of the output produced by your program.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>Dear Sally,
+
+   Please, please do it--1 would 4
+Mary very, 1 much.  And 4 6
+8 everything in 5's power to make
+14 pay off for you.
+
+   -- Thank 2 18 18--
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>Dear Sally,
+
+   Please, please do it--it would please
+Mary very, very much.  And Mary would
+do everything in Mary's power to make
+it pay off for you.
+
+   -- Thank you very much--</PRE>
+<P>
+</BODY>
+</HTML>

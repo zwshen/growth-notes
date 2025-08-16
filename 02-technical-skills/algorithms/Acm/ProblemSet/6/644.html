@@ -1,0 +1,130 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Immediate Decodability</TITLE>
+<META NAME="description" CONTENT="Immediate Decodability">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Immediate Decodability</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+An encoding of a set of symbols is said to be <EM>immediately</EM> decodable if no code for one symbol is 
+the prefix of a code for another symbol.  We will assume for this problem that all codes are in 
+binary, that no two codes within a set of codes are the same, that each code has at least one bit 
+and no more than ten bits, and that each set has at least two codes and no more than eight.
+
+<P>
+
+<P>
+<BR>
+
+<B>Examples:</B>  Assume an alphabet that has symbols  {<TT>A, B, C, D</TT>}
+
+<P>
+
+<P>
+<BR>
+The following code is immediately decodable:
+
+<P>
+
+<P>
+<BR>
+
+<code>     A:01   B:10   C:0010   D:0000</code>
+
+<P>
+
+<P>
+<BR>
+but this one is not:
+
+<P>
+
+<P>
+<BR>
+
+<code>     A:01   B:10   C:010   D:0000</code>    (Note that <TT>A</TT> is a prefix of <TT>C</TT>)
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Write a program that accepts as input a series of groups of records from a data file.
+Each record in a group contains a collection of zeroes and ones representing a binary code for a 
+different symbol.  Each group is followed by a single separator record containing a single 9; the 
+separator records are not part of the group. Each group is independent of other groups; the codes 
+in one group are not related to codes in any other group (that is, each group is to be processed 
+independently).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each group, your program should determine whether the codes in that group
+are immediately decodable, and should print a single output line giving the group number and 
+stating whether the group is, or is not, immediately decodable.
+
+<P>
+
+<P>
+<BR>
+The Sample Input describes the examples above.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+01
+10
+0010
+0000
+9
+01
+10
+010
+0000
+9
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+Set 1 is immediately decodable
+Set 2 is not immediately decodable
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-01-17</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

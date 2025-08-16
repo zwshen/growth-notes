@@ -1,0 +1,186 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Morse Code Generation</TITLE>
+<META NAME="description" CONTENT="Morse Code Generation">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Morse Code Generation</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+In determining the speed of transmission of messages in Morse code, the
+controlling element is the dot, `<TT>.</TT>'.  The dash, `<TT>-</TT>', is three dots
+in length.  Within a character the space between sounds (intra-character space) is considered to be at least a dot in length.  The inter-character space is at least a dash in length and
+the interword space is three dashes in length.  It is assumed that each
+word is five characters in length.
+
+<P>
+
+<P>
+<BR>
+For transmission speeds below thirteen (13) words-per-minute, the
+individual characters are formed using the dot length of thirteen words per
+minute, with the extra time placed  on the
+intra-character spaces. Then the inter-character space is three times the intra-character
+space, and the interword space is three times the inter-character space. Thus at 6.5
+words per minute, the inter-character space is twice that of a 13 wpm
+transmission.
+
+<P>
+
+<P>
+<BR>
+Above 13 wpm, both the character time and the intra-character spacing are
+controlled by the speed.
+
+<P>
+
+<P>
+<BR>
+For the purpose of this problem assume that the average character is eight
+(8) dots in length.  Thus for a standard of 13 wpm transmission there would
+be 13*5=65 characters per minute or 65*8=520 dot spaces per minute (and 520 intra-character spaces per minute). You are
+to use this value for the basis of your program.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+A file consisting of:
+
+<P>
+<UL>
+<LI>A table with all the different characters (one character to a
+line) which are used in the messages to be sent. Each character is followed
+by its Morse code representation as a series of `<TT>-</TT>' and `<TT>.</TT>'. For a
+complete set of possible characters, look at the table below the problem 
+description.
+
+<P>
+<LI>
+It follows one or more data sets. Each of them begins with a `<TT>@</TT>' in
+column 1 on a line by itself. Then a line with an integer indicating the
+transmission speed in words-per-minute. This is followed by the message to be
+sent.  For the purpose of transmission, end-of-line characters (except the
+last of each message) must be considered as an interword space.
+</UL>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+A copy of the message to be sent, one character (an upper case letter or a
+number) per line followed by a listing, as integers of the number of
+milliseconds the transmitter will be on and the number of milliseconds the
+transmitter will be off to result in the desired speed.  Each time is to be
+preceeded and followed by a white space.  Sound times will be followed by a
+single character `<TT>S</TT>' and no sound times will be followed by a single
+character `<TT>N</TT>'.  The required inter-character spacing will be the last
+entry in a line.  Each line will be terminated by a new line character.
+
+<P>
+A blank line separates the output of two messages
+
+<P>
+
+<P>
+<BR>
+
+<B>Complete set of characters:</B>
+Below is a table of the characters which can be used for testing and
+their Morse Code representation.
+
+<P>
+<PRE>
+A  .-           J  .---         S  ...          1  .----
+B  -...         K  -.-          T  -            2  ..---
+C  -.-.         L  .-..         U  ..-          3  ...--
+D  -..          M  --           V  ...-         4  ....-
+E  .            N  -.           W  .--          5  .....
+F  ..-.         O  ---          X  -..-         6  -....
+G  --.          P  .--.         Y  -.--         7  --...
+H  ....         Q  --.-         Z  --..         8  ---..
+I  ..           R  .-.          0  -----        9  ----.
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+A  .-
+B  -...
+D  -..
+G  --.
+O  ---
+Y  -.--
+@
+5
+A BAD BOY
+@
+13
+A good
+boy
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+A 115 S 300 N 346 S 300 N 900 N
+  2700 N
+B 346 S 300 N 115 S 300 N 115 S 300 N 115 S 300 N 900 N
+A 115 S 300 N 346 S 300 N 900 N
+D 346 S 300 N 115 S 300 N 115 S 300 N 900 N
+  2700 N
+B 346 S 300 N 115 S 300 N 115 S 300 N 115 S 300 N 900 N
+O 346 S 300 N 346 S 300 N 346 S 300 N 900 N
+Y 346 S 300 N 115 S 300 N 346 S 300 N 346 S 300 N 900 N
+
+A 115 S 115 N 346 S 115 N 346 N
+  1038 N
+G 346 S 115 N 346 S 115 N 115 S 115 N 346 N
+O 346 S 115 N 346 S 115 N 346 S 115 N 346 N
+O 346 S 115 N 346 S 115 N 346 S 115 N 346 N
+D 346 S 115 N 115 S 115 N 115 S 115 N 346 N
+  1038 N
+B 346 S 115 N 115 S 115 N 115 S 115 N 115 S 115 N 346 N
+O 346 S 115 N 346 S 115 N 346 S 115 N 346 N
+Y 346 S 115 N 115 S 115 N 346 S 115 N 346 S 115 N 346 N
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-09-04</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

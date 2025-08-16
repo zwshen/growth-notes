@@ -1,0 +1,178 @@
+<html>
+<head>
+<title>SpellingCorrector</title>
+<meta NAME="description" CONTENT="SpellingCorrector">
+<meta NAME="keywords" CONTENT="SpellingCorrector">
+
+<meta NAME="resource-type" CONTENT="document">
+<meta NAME="distribution" CONTENT="global">
+
+<meta NAME="Generator" CONTENT="jLaTeX2HTML v2002-2-1 JA patch-2.0">
+<meta HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<link REL="STYLESHEET" HREF="SpellingCorrector.css">
+
+</head>
+
+<body >
+
+<p>
+<div ALIGN="CENTER">
+<font SIZE="+2">S<small>PELLING </small>C<small>ORRECTOR</small></font></div>
+
+<p>
+
+<p><p>
+<br>
+
+<p>
+
+<h1><a NAME="SECTION00010000000000000000">
+Problem</a>
+</h1>
+We want to develop an automatic spelling corrector.
+The spelling corrector should detect words that are not present
+in its dictionary, and replace them with the nearest one.
+
+<p>
+The distance between an input word and a dictionary word is computed taking
+into account deletions, insertions and substitutions of characters: 
+an inserted or deleted character is penalized with 3 points,
+a character substitution is penalized with 5 points, while matches
+are not penalized.
+
+<p>
+Each word can have from 1 to 9 characters. Only the lowercase characters 
+from 'a' to 'z' are allowed. 
+
+
+<p>
+If multiple words in the dictionary have the same distance to the input
+word, they should be ranked in lexicographic order and the first one
+should be selected.
+
+<p>
+
+<h1><a NAME="SECTION00020000000000000000">
+Input</a>
+</h1>
+The first line in the input contains an integer <img
+ WIDTH="13" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="963img1.png"
+ ALT="$n$">
+specifying the number of words in the dictionary.
+The following <img
+ WIDTH="13" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="963img1.png"
+ ALT="$n$"> lines contain the dictionary:
+one word per line. The dictionary is sorted 
+in lexicographic order.
+
+<p>
+The dictionary is followed by a line containing <img
+ WIDTH="17" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="963img2.png"
+ ALT="$m$">, the number of words 
+of text.
+The text consists of lines of 10 words separated by white space, except the last
+one that can have less words.
+
+<p>
+
+<h1><a NAME="SECTION00030000000000000000">
+Output</a>
+</h1>
+The output consists of the corrected text:
+<img
+ WIDTH="17" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="963img2.png"
+ ALT="$m$"> words, presented in lines with 10 words, 
+except the last one that can be shorter.
+
+<p>
+
+<h1><a NAME="SECTION00040000000000000000">
+Sample Input 1</a>
+</h1>
+
+<p>
+<pre>
+
+5
+ate
+carrot
+rabbit
+the
+white 
+6
+the white rabit ate ate carott
+</pre>
+
+<p>
+
+<h1><a NAME="SECTION00050000000000000000">
+Sample Output 1</a>
+</h1>
+
+<p>
+<pre>
+the white rabbit ate ate carrot
+</pre>
+
+<p>
+
+<h1><a NAME="SECTION00060000000000000000">
+Sample Input 2</a>
+</h1>
+
+<p>
+<pre>
+20
+a
+abbey
+adapted
+ago
+almost
+but
+clumsy
+had
+he
+joined
+living
+manuel
+monk
+not
+of
+that
+the
+to
+way
+year
+22
+the clumsy momk manuel had joined the abey almost a 
+year ago but he had not adapted to that way 
+of leaving
+</pre>
+
+<p>
+
+<h1><a NAME="SECTION00070000000000000000">
+Sample Output 2</a>
+</h1>
+
+<p>
+<pre>
+the clumsy monk manuel had joined the abbey almost a 
+year ago but he had not adapted to that way 
+of living
+</pre>
+
+<p>
+</body>
+</html>
+</td>
+</tr>
+</table>
+</center>
+</body>
+</html>

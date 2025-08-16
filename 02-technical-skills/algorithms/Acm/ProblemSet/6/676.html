@@ -1,0 +1,148 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Horse Step Maze</TITLE>
+<META NAME="description" CONTENT="Horse Step Maze">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Horse Step Maze</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Maze search has been developed for a long time, and the related
+competition is held often. In this problem you have to design a program
+that simulates a computer mouse to find a path in a maze from a starting
+point to an ending point. To find such a path, the computer mouse must
+follow the `<EM>knight</EM>' steps as shown in Fig. 1. The numbers 1, 2, 3 and 4
+indicate the sequence of four directions the computer mouse has to try
+while searching for a path. Specifically, the computer mouse must
+always try direction 1 first until it cannot continue searching the path to
+the ending point in the maze. When that happens, the computer mouse
+can backtrack and try direction 2. Similarly, if direction 2 can not work,
+direction 3 is tried and then direction 4.
+
+<P>
+<!--Your program has to prevent the path to enter in a loop.-->
+Actually, our computer mouse is quite intelligent. Before it tries direction 1 it drops a stone. The mouse won't go into a field
+with a stone on it (unless it is backtracking). But it's not very clever, so after trying direction 4 (before it backtracks) it
+removes the stone.
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p676.gif>
+
+<P>
+<BR>
+<IMG
+ WIDTH="20" HEIGHT="19" ALIGN="BOTTOM" BORDER="0"
+ SRC="676img1.gif"
+ ALT="\begin{picture}(20,12)(0,0)
+\put (10,6){\circle*{12}}
+\end{picture}">
+represents the location of computer mouse at present
+
+<P>
+<BR>
+<IMG
+ WIDTH="32" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"
+ SRC="676img2.gif"
+ ALT="\begin{picture}(20,12)(0,0)
+\put (0,6){\vector(1,0){20}}
+\end{picture}">
+represents the step that computer mouse can walk
+
+<P>
+The numbers 1, 2, 3 and 4 indicate the sequence of four directions the
+computer mouse must follow to find a path in the maze.
+
+<P>
+
+<P>
+<BR>
+Fig. 1: The rule of the horse step
+</DIV>
+
+<P>
+The size of given maze is 9 by 9, and its coordinates are shown in Fig. 2.
+Initially, you are given the starting and ending points of a maze. Your
+program must print the walking path of the mouse if the ending point of
+the maze can be reached and the number of steps is less than or equal to 50000.
+If the number of steps is over 50000 print `<TT>more than 50000 steps</TT>'.
+Otherwise, ``<TT>fail</TT>'' should be printed.
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p676b.gif>
+
+<P>
+<BR>
+Fig. 2: The coordinates of the maze
+</DIV>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input is an integer N, then a blank line followed by N datasets. There is a blank line between datasets.
+
+<p>Each dataset consists of the coordinate of the starting point followed by the coordinate of the
+ending point in a maze.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each dataset, output the coordinates of the walking path from the starting point to the ending
+point or ``<TT>fail</TT>''. Print a blank line between datasets.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+
+(1,1)
+(9,9)
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+(1,1), (2,2), (1,3), (2,4), (1,5), (2,6), (1,7), (2,8), (1,9), (2,8), (3,9), (4,8), (5,9), (6,8), (7,9), (8,8), (9,9)
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-14</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

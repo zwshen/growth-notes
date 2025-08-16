@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+
+<HEAD>
+<TITLE>UP ACM Programming Contest (2003) / Round 2: Problem B</TITLE>
+</HEAD>
+
+<BODY bgcolor="white">
+
+<p>&nbsp;
+
+<font color="#0000FF">
+<H1>Problem B</H1>
+
+<H1 align="center">Polynomial Roots</H1>
+</font>
+
+Let<p>
+
+<img src="p930a.gif" width="179" height="17">
+
+<P align="justify">
+be a <em>n</em>th degree polynomial with coefficients <img
+src="p930b.gif" width="40" height="15">. If <font
+size="4"><em>z</em></font> is a root of <font
+size="4"><em>P(x)</em></font>, that is, <font
+size="4"><em>P(z)=0</em></font>, then the first degree polynomial
+<font size="4"><em>(x-z)</em></font> divides <font
+size="4"><em>P(x)</em></font>, that is, <font
+size="4"><em>P(x)=(x-z)Q(x)</em></font>, where <font
+size="4"><em>Q(x)</em></font> is a polynomial with a degree less than
+<font size="4"><em>n</em></font>. In the same way, if <font
+size="4"><em>w</em></font> is a root of <font
+size="4"><em>Q(x)</em></font>, then <font
+size="4"><em>Q(x)=(x-w)R(x)</em></font>, and, obviously, <font
+size="4"><em>P(x)=(x-z)(x-w)R(x)</em></font>, which means that <font
+size="4"><em>w</em></font> is a root of <font
+size="4"><em>P(x)</em></font>, also. This means that the more roots of
+<font size="4"><em>P(x)</em></font> we know, the easier it is to know
+the ones we don't know, because we are obtaining polynomials of
+decreasing degrees. When, finally, we obtain a 2nd degree polynomial,
+<img src="p930c.gif" width="60" height="14"> , as a result of the
+division, we have a very simple way of finding its two roots: we use
+the quadratic formula <img src="p930d.gif" width="79"
+height="33"> to compute them. </p>
+
+<p align="justify">How can we find <font
+size="4"><em>Q(x),</em></font> such that 
+<font size="4"><em>P(x)=(x-z)Q(x)</em></font>, having <font
+size="4"><em>P(x)</em></font> and one of its roots, <font
+size="4"><em>z</em></font>? That is, how can we divide <font
+size="4"><em>P(x)</em></font> by <font size="4"><em>(x-z)</em></font>?
+We describe here the <font size="4"><strong>Ruffini</strong></font>
+rule, a simple process for dividing polynomials by 1st degree
+polynomials of the form <font size="4"><em>(x-z)</em></font>:</p>
+
+<ul>
+    <li>On a first line we write the coefficients of <font
+        size="4"><em>P(x)</em></font> (see figure I). </li>
+    <li>On a second line we write the root of the polynomial <font
+        size="4"><em>(x-z)</em></font>, which is <font size="4"><em>z</em></font>
+        (see figure II). </li>
+    <li>On the third line we start by writing the first
+        coefficient of <font size="4"><em>P(x)</em></font> which
+        is 3 (see figure III). </li>
+    <li>Then we write on the second line, right below the second
+        coefficient of <font size="4"><em>P(x)</em></font>, the
+        value -6 which is the product of <font size="4"><em>z</em></font>
+        (which is -2) by the previous value on the third line
+        (which is 3). Then we write on the third line, right
+        below that -6 product value, the sum of that -6 value
+        with the second coefficient of <font size="4"><em>P(x)</em></font>
+        (which is 6), which gives the value zero (see figure IV).
+    </li>
+    <li>We repeat the previous step for the remaining
+        coefficients of <font size="4"><em>P(x)</em></font> (see
+        figure V).<br>
+        </li>
+</ul>
+
+<p><img src="p930e.gif" width="297" height="399"></p>
+
+
+<P align="justify"> 
+At the end, we obtain on the third line the coefficients of
+the resulting polynomial - <font size="4"><em>Q(x)</em></font> -
+and the remainder of the division (in this case is zero because
+we are dividing <font size="4"><em>P(x)</em></font> by one of its
+roots). In figure V we see the coefficients of <font size="4"><em>Q(x)</em></font>.
+So, <img src="p930f.gif" width="139" height="16"> . The
+remainder of the division is zero, as expected.
+
+<FONT color="#0000FF"><H2>Problem</H2></FONT>
+
+<P align="justify"> 
+Your task consists of writing a program that, given the
+coefficients of a nth degree polynomial, and n-2 roots of that
+polynomial, finds the other two roots. Assume that all roots are
+real.
+
+<FONT color="#0000FF"><H2>Input</H2></FONT>
+
+<P align="justify"> 
+
+The input is one text file (standard input) that has, in the
+first line, the number <i>k</i> of polynomials that are to be
+processed. The next 3*<i>k</i> lines contain the information
+about the <i>k</i> polynomials. The first of each set of three
+lines contains the value <i>n</i> of the polynomial degree; the
+second of each set of three lines contains n+1 values separated
+by spaces (the coefficients of the polynomial), and the third of
+each set of three lines contains n-2 values which represent n-2
+roots of the polynomial. You know that there can be some repeated
+roots; the third line of each set of three lines contains exactly
+n-2 root values, even if some of them are repeated. 
+
+
+<FONT color="#0000FF"><H2>Output</H2></FONT>
+
+<P align="justify"> 
+
+The output file must have <i>k</i>*2 lines, each pair
+containing each of the two unknown roots of the polynomial. Each
+pair of roots must be in decreasing order. These values must be
+rounded to one decimal place. 
+
+<FONT color="#0000FF"><H2>Sample Input</H2></FONT>
+
+<pre>
+3
+3
+2 -15 36 -27
+3
+6
+1 -3 -5 15 4 -12 0
+1 -2 0 2
+3
+1 2.3 1 -0.3
+-1.5
+</pre>
+
+<FONT color="#0000FF"><H2>Sample Output</H2></FONT>
+
+<pre>
+3.0
+1.5
+3.0
+-1.0
+0.2
+-1.0
+</pre>
+
+<BR><HR>
+<ADDRESS>
+University of Porto / 2003 ACM Programming Contest / Round 2 / 2003/09/24
+</ADDRESS>
+
+<p>&nbsp;
+
+</body>
+</html>
+

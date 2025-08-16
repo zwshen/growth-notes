@@ -1,0 +1,211 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Help the Leaders</TITLE>
+<META NAME="description" CONTENT="Help the Leaders">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Help the Leaders</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Have you ever listened to the speeches of leaders (Political or non-political)?
+People often find these speeches monotonous and hopeless. The leaders also
+sometimes feel very embarrassed about their speeches and they are often afraid of
+covering the same topics in two different speeches. You can save our intelligent
+leaders from these kinds of embarrassments. For example, let's consider that a
+leader has the following topics in his mind
+<DL COMPACT>
+<DT>a)</DT>
+<DD>War
+</DD>
+<DT>b)</DT>
+<DD>Terror
+</DD>
+<DT>c)</DT>
+<DD>Peace
+</DD>
+<DT>d)</DT>
+<DD>Nuclear-Bomb
+</DD>
+<DT>e)</DT>
+<DD>Human-Right
+</DD>
+<DT>f)</DT>
+<DD>Food
+</DD>
+<DT>g)</DT>
+<DD>Oil-Crisis
+</DD>
+<DT>h)</DT>
+<DD>Equal-Right
+</DD>
+</DL>
+
+<P>
+He delivers speeches on any two of these topics at once but never wants to cover the topics ``Oil-
+Crisis" and ``War" in the same speech. The same thing applies for the topics ``Nuclear-Bomb"
+and ``Equal-Right". You can help him by making all possible combinations of topics (Of course
+considering the restrictions supplied by him) so that he can choose any one from them according
+to his convenience and can avoid any blunders. The specific details are given in the input and
+output specifications.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of the input file contains an integer <SPAN CLASS="MATH"><I>n</I></SPAN>(<SPAN CLASS="MATH"><I>n</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10475img1.png"
+ ALT="$ \le$">100</SPAN>), which indicates how
+many sets of inputs are there. The description of each set is given in the paragraph below:
+
+<P>
+The first line of each set has three integers <SPAN CLASS="MATH"><I>t</I></SPAN>(<!-- MATH
+ $0 < t < 16$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>t</I> &lt; 16</SPAN>), <SPAN CLASS="MATH"><I>p</I></SPAN>(<!-- MATH
+ $0 \le p < t(t-1)/2$
+ -->
+<SPAN CLASS="MATH">0<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10475img1.png"
+ ALT="$ \le$"><I>p</I> &lt; <I>t</I>(<I>t</I> - 1)/2</SPAN>),
+<SPAN CLASS="MATH"><I>s</I></SPAN>(<!-- MATH
+ $0 < s \le 5$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>s</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10475img1.png"
+ ALT="$ \le$">5</SPAN>). Here <SPAN CLASS="MATH"><I>t</I></SPAN> denotes the number of topics in the leader's mind, <SPAN CLASS="MATH"><I>p</I></SPAN> denotes
+the number of prohibited pairs and <SPAN CLASS="MATH"><I>s</I></SPAN> is the
+total number of topics the leader wants to cover in a single speech. The next <SPAN CLASS="MATH"><I>t</I></SPAN> lines contain <SPAN CLASS="MATH"><I>t</I></SPAN>
+topics of the leader's mind. The topics are all different. Each topic will contain only
+alphanumeric characters and hyphens. Each of the next <SPAN CLASS="MATH"><I>p</I></SPAN> lines contains two different topics in
+each line separated by a single space. These pairs of topics should not come in the same speech.
+Same pair of topics may appear more than once in the input. Each topic has a maximum length
+of 15.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each set you should first print the serial of that set. Each of the next lines should contain all
+the possible topic groups. The topics in each group should be separated by a single space. Print a
+blank line after the output for each set of input. In a group the topics should be printed in the
+descending order of their lengths. If lengths of two topics are same the lexicographically smaller
+one should come first. This order should also be maintained in the printing order of the groups.
+
+<P>
+Topics should be considered case insensitive. While printing the topics print all the characters as
+uppercase. Print a blank line after the output for each case.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2
+8 2 2
+WAR
+TERROR
+PEACE
+NUCLEAR-BOMB
+HUMAN-RIGHT
+FOOD
+OIL-CRISIS
+EQUAL-RIGHT
+WAR OIL-CRISIS
+EQUAL-RIGHT NUCLEAR-BOMB
+8 0 1
+WAR
+TERROR
+PEACE
+NUCLEAR-BOMB
+HUMAN-RIGHT
+FOOD
+OIL-CRISIS
+EQUAL-RIGHT
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Output for Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Set 1:
+NUCLEAR-BOMB HUMAN-RIGHT
+NUCLEAR-BOMB OIL-CRISIS
+NUCLEAR-BOMB TERROR
+NUCLEAR-BOMB PEACE
+NUCLEAR-BOMB FOOD
+NUCLEAR-BOMB WAR
+EQUAL-RIGHT HUMAN-RIGHT
+EQUAL-RIGHT OIL-CRISIS
+EQUAL-RIGHT TERROR
+EQUAL-RIGHT PEACE
+EQUAL-RIGHT FOOD
+EQUAL-RIGHT WAR
+HUMAN-RIGHT OIL-CRISIS
+HUMAN-RIGHT TERROR
+HUMAN-RIGHT PEACE
+HUMAN-RIGHT FOOD
+HUMAN-RIGHT WAR
+OIL-CRISIS TERROR
+OIL-CRISIS PEACE
+OIL-CRISIS FOOD
+TERROR PEACE
+TERROR FOOD
+TERROR WAR
+PEACE FOOD
+PEACE WAR
+FOOD WAR
+
+Set 2:
+NUCLEAR-BOMB
+EQUAL-RIGHT
+HUMAN-RIGHT
+OIL-CRISIS
+TERROR
+PEACE
+FOOD
+WAR
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Problem-setter: Shahriar Manzoor, ACM Valladolid Online Judge
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Shuffling Patience</TITLE>
+<META NAME="description" CONTENT="Shuffling Patience">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Shuffling Patience</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Many children enjoy playing cards, especially some of the simpler
+forms of patience or solitaire, yet many of them find it difficult to
+shuffle the cards adequately. The following `patience' game assists
+this as well as aiding card recognition and boosting simple arithmetic
+skills. The essence is to `cover' exposed pairs or triples of cards
+that have a specific relationship to each other.
+<P>
+<P>
+A deck of cards consists of 52 cards, in four suits of 13 ranks. The
+suits are spades, hearts, clubs, diamonds and the ranks run from ace
+(face value one), 2, 3, 4, 5, 6, 7, 8, 9, 10, jack, queen and king.
+During play up to 16 piles in a 4 by 4 grid may be created if
+necessary, although usually fewer are needed. Deal cards, face up, in
+this 4  <IMG WIDTH=9 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline39" SRC="178img1.gif"  >  4 grid. Before playing each card check whether a pair or triple
+of cards already played can be covered. A pair of cards can be covered
+if they are of rank ace to ten and their face values add to 11. A
+triple of cards can be covered if they form the set {jack, queen,
+king}. If no pairs or triples exist, a new pile is started.
+<P>
+<P>
+Where more than one pair and/or triple exists, only one is covered
+before reassessing. Cards are always covered in the same order they
+were dealt, that is left to right, top to bottom. The first card covered
+shall be the eligible card nearest the start of play. The second card
+covered (and also the third for a triple) is its partner nearest the
+start of play. Thus if the first part of a deck consists of: <TT>TS QC 8S
+8D QH 2D 3H KH 9H...</TT>, then the first seven cards will be played as
+follows:
+<P>
+<P>
+<P> <IMG WIDTH=172 HEIGHT=38 ALIGN=BOTTOM ALT="tabular21" SRC="178img2.gif"  > <P>
+<P>
+<P>
+The next two cards (<TT>KH 9H</TT>) will then cover the pair 8S and 3H
+respectively. Note that covering pairs or triples is considered an
+indivisible operation, and thus further covering operations are not
+considered until it is complete.
+<P>
+<P>
+Write a program to simulate the playing of this game. Your program
+must read in one or more decks of cards, simulate the play and
+determine how many cards are on each pile at the end. If it is not
+possible to remain within the stipulated 16 piles, terminate that deal
+with a message as described below.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Input will consist of a
+series of decks of cards, each deck specified as 4 lines each
+containing 13 cards. Each card will be specified by two characters, a
+rank (<TT>A, 2, 3, 4, 5, 6, 7, 8, 9, T, J, Q, K</TT>) followed by a suit (<TT>S, H,
+C, D</TT>). Cards will be in the order in which they will be played. The
+file will be terminated by a line consisting of a single <TT>#</TT>.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+Output will consist of a series of lines, one line for each deck in
+the input. Each line shall start with the deck number, followed by a
+colon. If it is not possible to play a deck within the specified 4  <IMG WIDTH=9 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline39" SRC="178img1.gif"  >  4
+grid, then write a space followed by the message `<TT>Overflowed on card
+no</TT>' followed by the number of the card about to be dealt. If it is
+possible to play the entire deck, then write out the non-zero numbers
+that represent the numbers of cards in each pile when the deck is
+fully dealt.
+<P>
+<P>
+<B>All</B> numbers are to be right justified in a field 3
+characters wide.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>TS QC 8S 8D QH 2D 3H KH 9H 2H TH KS KC
+9D JH 7H JD 2S QS TD 2C 4H 5H AD 4D 5D
+6D 4S 9S 5S 7S JS 8H 3D 8C 3S 4C 6S 9C
+AS 7C AH 6H KD JC 7D AC 5C TC QD 6C 3C
+#</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>  1:  8  6  7  4  3  5  4  4  2  5  4</PRE>
+<P>
+</BODY>
+</HTML>

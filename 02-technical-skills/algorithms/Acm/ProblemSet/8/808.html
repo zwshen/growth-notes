@@ -1,0 +1,132 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Bee Breeding</TITLE>
+<META NAME="description" CONTENT="Bee Breeding">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Bee Breeding</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Professor B. Heif is conducting experiments with a species of South American
+bees that he found during an expedition to
+the Brazilian rain forest. The honey produced by these bees is of superior
+quality compared to the honey from European
+and North American honey bees. Unfortunately, the bees do not breed well in
+captivity. Professor Heif thinks the reason
+is that the placement of the different maggots (for workers, queens, etc.)
+within the honeycomb depends on
+environmental conditions, which are different in his laboratory and the rain forest.
+
+<P>
+
+<P>
+<BR>
+As a first step to validate his theory, Professor Heif wants to quantify the
+difference in maggot placement. For this he
+measures the distance between the cells of the comb into which the maggots
+are placed. To this end, the professor has
+labeled the cells by marking an arbitrary cell as number 1, and then
+labeling the remaining cells in a clockwise fashion, as
+shown in the following figure.
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p808.eps}$
+ -->
+<IMG
+ SRC="p808.gif"
+ ALT="\epsfbox{p808.eps}">
+</DIV>
+
+<P>
+For example, two maggots in cells 19 and 30 are 5 cells apart. One of the shortest
+paths connecting the two cells is via
+the cells 19 - 7 - 6 - 5 - 15 - 30, so you must move five times to adjacent
+cells to get from 19 to 30.
+
+<P>
+
+<P>
+<BR>
+Professor Heif needs your help to write a program that computes the distance,
+defined as the number of cells in a shortest
+path, between any pair of cells.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input consists of several lines, each containing two integers
+<SPAN CLASS="MATH"><I>a</I></SPAN> and <SPAN CLASS="MATH"><I>b</I></SPAN> (<!-- MATH
+ $a,b \le 10000$
+ -->
+<SPAN CLASS="MATH"><I>a</I>, <I>b</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="808img2.png"
+ ALT="$ \le$">10000</SPAN>), denoting numbers of cells. The
+integers are always positive, except in the last line where
+<SPAN CLASS="MATH"><I>a</I> = <I>b</I> = 0</SPAN> holds. This last line terminates the input and should not
+be processed.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each pair of numbers (<SPAN CLASS="MATH"><I>a</I>, <I>b</I></SPAN>) in the input file, output the distance between
+the cells labeled <SPAN CLASS="MATH"><I>a</I></SPAN> and <SPAN CLASS="MATH"><I>b</I></SPAN>. The distance is the
+minimum number of moves to get from <SPAN CLASS="MATH"><I>a</I></SPAN> to <SPAN CLASS="MATH"><I>b</I></SPAN>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+19 30
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+The distance between cells 19 and 30 is 5.
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Miguel Revilla
+2002-06-25
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

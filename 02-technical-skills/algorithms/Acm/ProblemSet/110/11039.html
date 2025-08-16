@@ -1,0 +1,115 @@
+
+<!--Converted with LaTeX2HTML 2008 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Building designing</TITLE>
+<META NAME="description" CONTENT="Building designing">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Building designing</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+An architect wants to design a very high
+building. The building will consist of some floors, and each floor has a certain
+size. The size of a floor must be greater than the size of the floor
+immediately above it. In addition, the designer (who is a fan of a famous Spanish
+football team) wants to paint the building in blue and red, each floor a colour,
+and in such a way that the colours of two consecutive floors are different.
+
+<P>
+To design the building
+the architect has <SPAN CLASS="MATH"><I>n</I></SPAN> available floors, with
+their associated sizes and colours. All the available floors are of different sizes. The architect wants to
+design the highest possible building with these restrictions, using the available floors.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input file consists of a first
+line with the number <SPAN CLASS="MATH"><I>p</I></SPAN> of cases to solve. The first line of each case contains
+the number of available floors. Then, the size and colour of each floor appear in
+one line. Each floor is represented with an integer between -999999 and 999999.
+There is no floor with size 0. Negative numbers represent red floors and
+positive numbers blue floors. The size of the floor is the absolute value of the number.
+There are not two floors with the same size.
+The maximum number of floors for a problem is 500000.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each case the output will consist
+of a line with the number of floors of the highest building with the mentioned
+conditions.&nbsp;
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE> 
+2
+5
+7
+-2
+6
+9
+-3
+8
+11
+-9
+2
+5
+18
+17
+-15
+4
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE> 
+2
+5
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,64 @@
+# Seeing a Play
+
+Welcome to English as a Second Language Podcast num ber 78 – Seeing a Play. 
+
+This is English as a Second Language Podcast episod e 78. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+Today's episode is going to be about going to the t heater to see a play. Let's go.  > I ran into my neighbor Dennis yesterday afternoon. He asked if I wanted two tickets to the theater. He had season tickets but c ouldn't go to this performance. It was opening night of Shakespeare's The Tempest . I jumped at his offer and invited Lucy to come along. 
+> We arrived at the theater half an hour before openi ng curtain. We had the tickets in hand and didn't need to pick them up at the will  call window. The doors to the theater were open and we handed our tickets to the ticket takers standing in the doorway.  
+> We looked for our seats and were pleasantly surpris ed to find that we had some of the best seats in the house! I thought we would be sitting in the balcony, but we were in the orchestra section in the center. Thi s was great! The lights dimmed and the curtain went up.  
+> At the end of the second act, there was an intermis sion. Lucy and I went into the lobby and bought drinks from the bar. After about 1 5 minutes, the lights flickered and we went back to our seats.  
+> After the last act, the audience gave the actors a standing ovation. This was the best play I had seen in ages. The acting was superb , and the staging and direction were fresh. I couldn't have asked for a b etter theater experience. I owed Dennis big time for giving me his tickets.
+
+In this episode, we went to the theater to see a pl ay. I begin the story by saying, “I ran into my neighbor Dennis yesterday afternoon. ” “To run into someone” means to meet someone whom you weren't expecting to  meet.  
+
+Dennis asked me “if I wanted two tickets to the the ater.” A “theater” is a place where you go and see a play – a live, dramatic perf ormance. Dennis had season tickets. “Season (season) tickets” are tickets for several different performances – by the same group of actors, in this case – during a certain period of time. Usually, season tickets for a theater include all o f the performances for the four or five months, perhaps more, when the theater is h aving performances.  
+
+You can have season tickets to a lot of different k inds of events. You could have season tickets to a professional football team, or to a college football team, or to a professional soccer team. That means you have tic kets for all of their games throughout the entire year, throughout the season w hen they are playing. Sometimes the season can go across two different ca lendar years. It might start in September and end in May of the following year, but we would still call those “season tickets.” I say that Dennis “had season tic kets but couldn't go to this performance,” couldn't go to this particular night when the play was being performed.  
+
+“It was opening night of Shakespeare's The Tempest ,” I say. “Opening night” is the first night that the play can be seen. It's the  first night of the performance of the play or concert or whatever the event is. This was Shakespeare's The Tempest  – one of my favorite Shakespeare plays, actually. I say that “I jumped at his offer.” “To jump at” something means to immedia tely accept it, to enthusiastically accept it. “The beautiful woman as ked me to dance, and I jumped at the opportunity.” For some reason, my wif e didn't like that. I'm not sure why.  
+
+I say that I “invited Lucy to come along” – to come  with me. “We arrived at the theater half an hour before opening curtain.” So, w e arrived at the building where the play was going to be performed 30 minutes befor e it began. “Opening curtain” is when the play begins. I say, “We had th e tickets in hand,” we had them with us, “and didn't need to pick them up” (or get them) “at the will call window.”  
+
+A “will call window” is a place where you get your tickets if you have already purchased them in advance, before the performance. Sometimes, you buy a ticket and perhaps you don't have a chance to get t hem mailed to you, although nowadays a lot of these things are done electronica lly. If that happens, you can go to the theater, to the “will call window,” and t hat's a place where you pick up tickets you've already paid for, typically. I say, “The doors to the theater were open and we handed” – or gave – “our tickets to the  ticket takers.” A “ticket taker” does exactly what you might expect. He takes your t icket from you and allows you into wherever you're going – in this case, the theater.  
+
+Lucy and I “looked for our seats and were pleasantl y surprised” – meaning it was a good surprise – “to find that we had some of the best seats in the house.” The expression “the best seats in the house” means the best place to sit in order to see some event, for example in the theater or a sta dium. The best seats in the house would be the seats perhaps right next to the theater stage or right next to the performers. “House” here doesn't refer to an ac tual house where you live. We don't mean the best chairs in your home. We mean th e best place to sit in an auditorium or theater in order to see and enjoy the  performance. I say, “I thought we would be sitting in the balcony.”  
+
+The “balcony” (balcony) is the section of seats tha t is above the main floor where the seats are. It's sort of like the second, or per haps third or fourth, area above the main floor where you sit – what's sometimes cal led the “orchestra section,” the section that would be right next to the orchest ra, if there were an orchestra for a musical performance such as an opera. The bal cony is either on the side of the theater or in the back of the theater, above th e main floor of the theater. Sometimes balcony seats aren't very good because th ey are located at a greater distance than the seats that are on the main floor or the orchestra section.  
+
+I say that “the lights dimmed and the curtain went up.” “To dim” (dim) means to make the lights get darker slowly. So, you are lowe ring the level or the intensity of the lights. “Dimming the lights” doesn't mean tu rning the lights off completely; it just means making them darker or making the area wh ere you are darker.  
+
+I say, “The lights dimmed and the curtain went up.”  “The curtain went up” means to say that the performance began. The “curtain” he re refers to a large piece of material, usually made of cloth, that hangs at the front of the stage. When the play begins, the curtain goes up, or sometimes the curtain is drawn on both sides. It moves on both sides so that you can then see the actors and what is called the “scenery” – the physical background for the play.  
+
+I then say, “At the end of the second act, there wa s an intermission.” The word “act” here is used to describe a section or part of  a play. When we talk about a play “in three acts,” there are three major parts o f the play, or three major sections of the story. “Intermission” (intermission ) is a break between sections of the play. Typically, there's one intermission in a play that comes somewhere in the middle of the play, or a little after the middl e of the play. “Intermissions” are generally short – 10 or 15 minutes is typical.  
+
+This intermission was 15 minutes. After the intermi ssion was over, after the 15 minutes were over, “the lights flickered.” “To flic ker” (flicker) is for the lights in a theater or anywhere to quickly come on and off. Thi s could happen because  
+
+you're having electrical problems. But when it’s do ne in a theater, it's a way of indicating to everyone who is standing outside the theater, or inside the theater, that the play is going to start again, that intermi ssion is now over. It's a sign for you to go back and sit down in your seat. This has nothing to do with the popular photography website “Flickr,” which is spelled with out an “e” for some reason.  
+
+I say that “after the last act, the audience gave t he actors a standing ovation.” A “standing ovation” (ovation) is when everyone stand s up on their feet and claps. That's called a “standing ovation.” I say, “This wa s the best play I had seen in ages.” “In ages” means in a very long time. “The ac ting was superb” – that is, excellent – “and the staging and direction were fre sh.”  
+
+“Staging” (staging) is the design and organization of the things on the actual stage where the play is performed – where they put the chairs, where they put the table, and so forth. “Direction” refers to what  the director does. The director is the person who tells the actors how to say their li nes, how to act, how to behave during different parts of the play. All of that wou ld be part of the direction. I call the direction “fresh.” “Fresh” here means new. It d oesn't seem as though the director just took old ideas and put them up there.  He came up with something new.  
+
+I close the story by saying, “I couldn't have asked  for a better theater experience. I owed Dennis big time for giving me his tickets.” The expression “could not have asked for” is used to explain certain ideal conditi ons, to explain that the situation was as good as I could hope for. It's the best poss ible situation; it could not have been better. That's why we say we “couldn't have as ked for more.” It wouldn't be possible, because this was already so good.  
+
+“To owe someone big time” means very much – to be i n someone's debt, to have to pay someone back a great deal because of somethi ng they have done for you. In general, the term “big time” just means very muc h. And that's what I'm saying at the end of the story.  
+
+Now let's listen to the story, this time at a norma l speed.  
+
+[start of story] 
+
+I ran into my neighbor Dennis yesterday afternoon. He asked if I wanted two tickets to the theater. He had season tickets but c ouldn't go to this performance. It was opening night of Shakespeare's The Tempest . I jumped at his offer and invited Lucy to come along. 
+
+We arrived at the theater half an hour before openi ng curtain. We had the tickets in hand and didn't need to pick them up at the will  call window. The doors to the theater were open and we handed our tickets to the ticket takers standing in the doorway.  
+
+We looked for our seats and were pleasantly surpris ed to find that we had some of the best seats in the house! I thought we would be sitting in the balcony, but we were in the orchestra section in the center. Thi s was great! The lights dimmed and the curtain went up.  
+
+At the end of the second act, there was an intermis sion. Lucy and I went into the lobby and bought drinks from the bar. After about 1 5 minutes, the lights flickered and we went back to our seats.  
+
+After the last act, the audience gave the actors a standing ovation. This was the best play I had seen in ages. The acting was superb , and the staging and direction were fresh. I couldn't have asked for a b etter theater experience. I owed Dennis big time for giving me his tickets. 
+
+[end of story] 
+
+Thanks to our wonderful scriptwriter, Dr. Lucy Tse,  for her wonderful scripts, and thanks to you for listening. 
+

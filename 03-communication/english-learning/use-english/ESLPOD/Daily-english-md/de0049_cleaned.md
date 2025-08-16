@@ -1,0 +1,70 @@
+# Preparing a Paper (for School)
+
+Welcome to English as a Second Language Podcast num ber 49 – Preparing a Paper for School.  
+
+This is English as a Second Language Podcast episod e 49. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.  
+
+In this episode, we're going to hear a conversation  between a student and his teacher. Let’s get started.  
+
+[start of dialogue] 
+
+Student: I wonder if I could ask you some questions  about our paper, Professor. Do you want us to cite our sources in the footnotes ? 
+
+Professor: You should use endnotes for longer expla nations. Otherwise, just follow the style sheet I passed out for citations i n your paper. 
+
+Student: I see. And what about the cover page? Is t here a special format for that as well? 
+
+Professor: Do you have the handout I passed out wit h you? If you look at the bottom of that, you'll see that you should follow t he format of the American Psychological Association, fifth edition. 
+
+Student: Okay, I guess I missed that. 
+
+[end of dialogue] 
+
+Our dialogue begins with the student saying to the professor, “I wonder if I could ask you some questions about our paper, Professor.”  A “professor” is a teacher at a college or university. We are listening to a d ialogue between a student and a professor. We guess that the student has gone to ta lk to the professor after class or in her office.  
+
+The student says, “I wonder if.” That expression “I  wonder if” is a polite phrase used to introduce a topic or to ask permission to d o something. You might say to your boss, “I wonder if I could leave early this af ternoon, because I have a doctor’s appointment.” You are asking nicely and po litely. The student is being polite to the professor, as students should be.   
+
+ He says, “Do you want us to cite our sources in the  footnotes?” The student is asking about a paper – an essay, a written paper th at the professor has given the class. The student asks the professor if she wants them to cite their sources. “To cite” (cite) means to state or to say where you fou nd a certain piece of information. You are providing what we would call t he “source” of the information – where you got it from.  
+
+So, if you are writing a paper for school and you m ake some statement about the topic, often the professor will ask you to cite you r sources. “Where did you read that?” “What book did you read that in?” Or, “What article did you find that in?” Nowadays, it might be, “What website was that on?” Note that “cite” sounds the exact same as “sight,” which refers to your ability  to see. We’re not talking about that kind of sight; we’re talking about “cite” as a  verb meaning to name or to give details about where you got information.  
+
+A “footnote” (footnote) is a little note on the bot tom of the piece of paper that you are writing your article on. We call that the “foot er.” That's the bottom of the paper. The top of the paper is called the “header” (header), just like your head is the top of your body and your feet are at the botto m of your body. Well, at the bottom of the page, you can have a “footnote.”  
+
+It's a small note, usually with a little number on it that corresponds to a number somewhere in the main article in the main text. A “ footnote” gives you additional information about what you are talking about, or it  gives you the source of the information. Another word for a “source” in this ca se would be a “citation” (citation). A “citation” is when you list the sourc e of your information.  
+
+Going back to our dialogue, then, we have the stude nt asking the professor if he has to “cite” his sources in the footnotes. The pro fessor says, “You should use endnotes for longer explanations.” The professor is  saying that instead of putting the notes at the bottom of each page, she wants the m at the end of the entire paper. When the notes are at the end of the paper, we call them “endnotes” instead of “footnotes,” which makes sense, I guess,  since they’re at the end.  
+
+The professor says, “Otherwise, just follow the sty le sheet I passed out for citations in your paper.” At the university and in other places that publish things, you have a style sheet that tells you how you are g oing to write and format the things that you are publishing or printing. In a un iversity, each academic department has a style sheet that it follows. There  are a couple of popular style books that are used. There is the Chicago style. Th ere is the American  
+
+Psychological Association or “APA” style. Different  academic areas use different style books, or different styles.  
+
+A “style sheet” would be a piece of paper or severa l pieces of paper that indicate how you should format the paper – where you should put the title, where you should put the footnotes or how the footnotes shoul d be formatted, and so forth. The professor is telling the student to follow the style sheet she “passed out.” “To pass out” means to give, especially when a professo r or teacher gives things to her students. You can also pass out pieces of paper  to a large group of people even though you're not in school. It's not a phrasa l verb we use only in school. 
+
+A “citation,” as I mentioned earlier, is a written statement explaining where you got your information. The student says, “I see” – m eaning “I understand” – “and what about the cover page? Is there a special forma t for that as well?” This is not a very intelligent student, since the professor jus t told him to look on the style sheet. I think the professor should fail the studen t right now. Give him an F. He's just not good enough, not smart enough, to be in th is class.  
+
+So, the idiot student is asking about the cover pag e. The “cover page” is the top sheet of paper that goes in front of your essay. It  usually lists the title, the author or the person who wrote the essay, and other basic kinds of information. In a class, it would include perhaps the name of the pro fessor and the class that the student is in. The student is asking about the form at of the cover sheet. The “format” is the form or the style in which the cove r sheet or any other part of the paper is written.  
+
+The professor says, “Do you have the handout I pass ed out with you?” A “handout” (handout) is a piece of paper that a – ty pically, a professor or teacher gives to her students, that has information about w hat you are supposed to do. The term “handout,” as a noun, more generally can m ean any kind of written information that is given to a group of people in a  meeting or any other sort of situation where you are giving information to peopl e on paper. The student is asked if he has the handout the professor passed ou t with him. That is, did he bring it with him? Does he have it there in the pro fessor's office? (If that's where we are.)  
+
+The professor says, “If you look at the bottom of t hat, you'll see that you should follow the format of the American Psychological Ass ociation, 5th Edition.” Remember we talked earlier about different kinds of  style books or style sheets. One of them used in many different areas of the uni versity is the APA or American Psychological Association style sheet or s tylebook. The more technical term actually would be “style manual.”   
+
+ The student is asked if he has the sheet – the hand out that the professor passed out or gave to the students. The student says, “Oka y, I guess I missed that.” “To miss” something, as a verb, means not to see it, no t to notice it. The student, of course, didn't look carefully, and therefore missed  the information that the professor is talking about.  
+
+Now let’s listen to the dialogue, this time at a no rmal speed.  
+
+[start of dialogue] 
+
+Student: I wonder if I could ask you some questions  about our paper, Professor. Do you want us to cite our sources in the footnotes ? 
+
+Professor: You should use endnotes for longer expla nations. Otherwise, just follow the style sheet I passed out for citations i n your paper. 
+
+Student: I see. And what about the cover page? Is t here a special format for that as well? 
+
+Professor: Do you have the handout I passed out wit h you? If you look at the bottom of that, you'll see that you should follow t he format of the American Psychological Association, fifth edition. 
+
+Student: Okay, I guess I missed that. 
+
+[end of dialogue] 
+
+We’d like thank our wonderful scriptwriter, Dr. Luc y Tse, for her wonderful scripts, and we’d like to thank you for listening. 
+

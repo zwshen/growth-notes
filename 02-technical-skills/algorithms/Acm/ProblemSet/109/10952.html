@@ -1,0 +1,474 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="d_files/filelist.xml">
+<link rel=Edit-Time-Data href="d_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem D - Pattern Transformations</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Andreas Björklund</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>11</o:Revision>
+  <o:TotalTime>113</o:TotalTime>
+  <o:LastPrinted>2005-10-29T07:39:00Z</o:LastPrinted>
+  <o:Created>2004-10-01T07:34:00Z</o:Created>
+  <o:LastSaved>2005-10-29T07:39:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>288</o:Words>
+  <o:Characters>1643</o:Characters>
+  <o:Company>Axiom4</o:Company>
+  <o:Lines>13</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1928</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-alt:"\FF2D\FF33 \660E\671D";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;}
+h1
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:16.0pt;
+	font-family:Arial;
+	mso-font-kerning:16.0pt;
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;
+	font-weight:bold;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"MS Mincho";
+	mso-fareast-language:SV;
+	font-weight:normal;
+	font-style:italic;}
+h3
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.0pt;
+	font-family:Arial;
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;
+	font-weight:bold;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	mso-layout-grid-align:none;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:SimSun;
+	mso-ansi-language:SV;
+	mso-fareast-language:ZH-CN;
+	font-weight:bold;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;
+	font-weight:bold;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Arial Unicode MS";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Arial Unicode MS";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Courier New";}
+tt
+	{font-family:"Arial Unicode MS";
+	mso-ascii-font-family:"Arial Unicode MS";
+	mso-fareast-font-family:"Arial Unicode MS";
+	mso-hansi-font-family:"Arial Unicode MS";
+	mso-bidi-font-family:"Arial Unicode MS";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.55pt .8in 70.55pt .8in;
+	mso-header-margin:35.3pt;
+	mso-footer-margin:35.3pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="6146"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:65.2pt'>
+
+<div class=Section1>
+
+<p class=MsoPlainText align=center style='text-align:center'><b><span lang=SV
+style='font-size:28.0pt;mso-bidi-font-size:18.0pt;font-family:Arial'>Problem D</span></b><span
+lang=SV style='font-family:Arial'><br>
+</span><b><span lang=SV style='font-size:24.0pt;font-family:Arial'>Pattern
+Transformations</span></b><span lang=SV><br>
+</span><b><span lang=SV style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial'>Input:</span></b><span lang=SV style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial'> standard input<br>
+<b>Output:</b> standard output<br style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]></span><span lang=EN-GB style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:"Times New Roman";mso-fareast-font-family:"MS Mincho";
+mso-bidi-font-family:"Courier New";mso-ansi-language:EN-GB'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><span style='mso-ansi-language:EN-US;mso-fareast-language:
+EN-US'>Consider the two patterns of <b style='mso-bidi-font-weight:normal'>'O'</b>
+and <b style='mso-bidi-font-weight:normal'>'X'</b> below (<b style='mso-bidi-font-weight:
+normal'>'.'</b> represent an empty square). We want the first pattern to be transformed
+into the second pattern in one time unit. During this time unit, each symbol (<b
+style='mso-bidi-font-weight:normal'>'O'</b> and <b style='mso-bidi-font-weight:
+normal'>'X'</b>) can move one step in any of the four directions (or remain at
+its current square). All movements happen simultaneously, so a symbol can move
+to an occupied square, if that symbol is moved to some other square. If a
+symbol moves from square <b style='mso-bidi-font-weight:normal'>A</b> to <b
+style='mso-bidi-font-weight:normal'>B</b>, and the symbol at <b
+style='mso-bidi-font-weight:normal'>B</b> moves to <b style='mso-bidi-font-weight:
+normal'>A</b>, we have a <i>swap</i>. Write a program which calculates the
+least number of swaps needed to transform a given pattern into another given
+pattern. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='font-size:10.0pt;font-family:"Courier New";mso-ansi-language:EN-US;
+mso-fareast-language:EN-US'>.XO<span class=GramE>..</span><span
+style='mso-spacerun:yes'>  </span>..<span class=GramE>XO.</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='font-size:10.0pt;font-family:"Courier New";mso-ansi-language:EN-US;
+mso-fareast-language:EN-US'>..<span class=GramE>O..</span><span
+style='mso-spacerun:yes'>  </span>.XX<span class=GramE>..</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='font-size:10.0pt;font-family:"Courier New";mso-ansi-language:EN-US;
+mso-fareast-language:EN-US'>.XX<span class=GramE>..</span><span
+style='mso-spacerun:yes'>  </span>..<span class=GramE>O..</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><span style='mso-ansi-language:EN-US;mso-fareast-language:
+EN-US'>To transform the first pattern above into the second one requires one
+swap: The two symbols in the first line are moved to the <span class=GramE>right,</span>
+the <b style='mso-bidi-font-weight:normal'>'O'</b> in the second line must be
+swapped with the <b style='mso-bidi-font-weight:normal'>'X'</b> below. The
+other <b style='mso-bidi-font-weight:normal'>'X'</b> is moved up.<o:p></o:p></span></p>
+
+<h3><span lang=EN-GB style='font-size:16.0pt;mso-bidi-font-size:13.0pt;
+mso-fareast-font-family:"MS Mincho";mso-ansi-language:EN-GB'>Input<o:p></o:p></span></h3>
+
+<h3 style='text-align:justify'><span lang=SV style='font-size:12.0pt;
+font-family:"Times New Roman";font-weight:normal;mso-bidi-font-weight:bold'>The
+first line in the input contains the number of test cases to follow (at most </span><span
+lang=SV style='font-size:12.0pt;font-family:"Times New Roman"'>20</span><span
+lang=SV style='font-size:12.0pt;font-family:"Times New Roman";font-weight:normal;
+mso-bidi-font-weight:bold'>). Each test case starts with a line containing two
+integers, </span><span lang=SV style='font-size:12.0pt;font-family:"Times New Roman";
+mso-bidi-font-weight:normal'>w</span><span lang=SV style='font-size:12.0pt;
+font-family:"Times New Roman";font-weight:normal;mso-bidi-font-weight:bold'>
+and </span><span lang=SV style='font-size:12.0pt;font-family:"Times New Roman";
+mso-bidi-font-weight:normal'>h</span><span lang=SV style='font-size:12.0pt;
+font-family:"Times New Roman";font-weight:normal;mso-bidi-font-weight:bold'> </span><span
+lang=SV style='font-size:12.0pt;font-family:"Times New Roman"'>(1 &#8804; </span><span
+lang=SV style='font-size:12.0pt;font-family:"Times New Roman";mso-bidi-font-weight:
+normal'>w</span><span lang=SV style='font-size:12.0pt;font-family:"Times New Roman"'>,
+</span><span lang=SV style='font-size:12.0pt;font-family:"Times New Roman";
+mso-bidi-font-weight:normal'>h</span><span lang=SV style='font-size:12.0pt;
+font-family:"Times New Roman"'> &#8804; 8)</span><span lang=SV
+style='font-size:12.0pt;font-family:"Times New Roman";font-weight:normal;
+mso-bidi-font-weight:bold'>, the width and height of the two patterns. Then
+follow </span><span lang=SV style='font-size:12.0pt;font-family:"Times New Roman";
+mso-bidi-font-weight:normal'>h</span><span lang=SV style='font-size:12.0pt;
+font-family:"Times New Roman";font-weight:normal;mso-bidi-font-weight:bold'>
+lines describing each row of the two patterns (the two patterns will be
+separated with a single space, see the sample input). The only allowed
+characters in the patterns will be the symbols </span><span lang=SV
+style='font-size:12.0pt;font-family:"Times New Roman"'>'O'</span><span lang=SV
+style='font-size:12.0pt;font-family:"Times New Roman";font-weight:normal;
+mso-bidi-font-weight:bold'>, </span><span lang=SV style='font-size:12.0pt;
+font-family:"Times New Roman"'>'X'</span><span lang=SV style='font-size:12.0pt;
+font-family:"Times New Roman";font-weight:normal;mso-bidi-font-weight:bold'>
+and </span><span lang=SV style='font-size:12.0pt;font-family:"Times New Roman"'>'.'</span><span
+lang=SV style='font-size:12.0pt;font-family:"Times New Roman";font-weight:normal;
+mso-bidi-font-weight:bold'>. <o:p></o:p></span></h3>
+
+<h3><span lang=EN-GB style='font-size:16.0pt;mso-bidi-font-size:13.0pt;
+mso-fareast-font-family:"MS Mincho";mso-ansi-language:EN-GB'>Output<o:p></o:p></span></h3>
+
+<h1 style='text-align:justify'><span lang=SV style='font-size:12.0pt;
+font-family:"Times New Roman";font-weight:normal;mso-bidi-font-weight:bold'>For
+each input you should output a line containing a single integer: the least
+number of swaps required to transform the first pattern into the second. If the
+transformation is not possible, output<span style='mso-spacerun:yes'>  </span>a
+-1. <o:p></o:p></span></h1>
+
+<h1><span lang=SV>Sample Input<span
+style='mso-spacerun:yes'>                    </span><span
+style='mso-spacerun:yes'>           </span>Output for Sample Input</span><span
+lang=SV style='mso-fareast-font-family:"Arial Unicode MS"'><o:p></o:p></span></h1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='background:#CCCCCC;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=402 valign=top style='width:3.35in;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>3<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>5 3<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>.XO<span
+  class=GramE>..</span> ..XO.<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>..O.. .XX<span
+  class=GramE>..</span><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>.XX<span
+  class=GramE>..</span> ..O..<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>4 <span
+  class=SpellE>4</span><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>OXOX XOXO<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>XX.O OX.X<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+  class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:
+  11.0pt;font-family:"Courier New";mso-ansi-language:EN-US;mso-fareast-language:
+  EN-US'>O..</span></b></span><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;font-family:"Courier New";mso-ansi-language:EN-US;
+  mso-fareast-language:EN-US'>X X<span class=GramE>..</span>O<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>XOXO OXOX<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>3 4<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>.X<span
+  class=GramE>. .</span>X.<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>.OX XO.<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>..O .O.<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>... ...<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span lang=SV style='font-size:11.0pt;
+  mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=402 valign=top style='width:3.35in;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>1<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>0<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-ansi-language:EN-US;mso-fareast-language:EN-US'>-1<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span lang=SV style='font-size:11.0pt;
+  mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=SV>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<p class=MsoCaption><span lang=SV>Problem setter: Jimmy Mårdell, EPS</span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=SV
+style='font-family:Arial'>Special thanks: Derek Kisman, EPS<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='mso-ansi-language:EN-US;mso-fareast-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

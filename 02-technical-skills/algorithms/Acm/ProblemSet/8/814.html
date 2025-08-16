@@ -1,0 +1,213 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>The Letter Carrier's Rounds</TITLE>
+<META NAME="description" CONTENT="The Letter Carrier's Rounds">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+The Letter Carrier's Rounds</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+For an electronic mail application you are to describe the SMTP-based communication
+that takes place between pairs of
+MTAs. The sender's User Agent gives a formatted message to the sending Message
+Transfer Agent (MTA). The sending
+MTA communicates with the receiving MTA using the Simple Mail Transfer Protocol (SMTP).
+The receiving MTA
+delivers mail to the receiver's User Agent. After a communication link is initialized,
+the sending MTA transmits
+command lines, one at a time, to the receiving MTA, which returns a three-digit coded
+response after each command is
+processed. The sender commands are shown below in the order sent for each message.
+There is more than one RCPT TO
+line when the same message is sent to several users at the same MTA. A message to
+users at different MTAs requires separate SMTP sessions.
+
+<P>
+<PRE><TT>
+<TT>HELO</TT> 		 <SPAN CLASS="MATH"><I>myname</I></SPAN> Identifies the sender to the receiver (yes, there is only one L) 
+<BR><TT>MAIL</TT> 		 <TT>FROM:</TT><SPAN CLASS="MATH">&lt; <I>sender</I> &gt;</SPAN> Identifies the message sender 
+<BR><TT>RCPT</TT> 		 <TT>TO:</TT><SPAN CLASS="MATH">&lt; <I>user</I> &gt;</SPAN> Identifies one recipient of the message 
+<BR><TT>DATA</TT> 		 		 Followed by an arbitrary number of lines of text comprising the message 
+<BR>
+body, ending with a line containing a period in column one. 
+<BR><TT>QUIT</TT> 		 		 Terminates the communication.
+</TT></PRE>
+
+<P>
+The following response codes are sent by the receiving MTA:
+<DL>
+<DT><STRONG>221</STRONG></DT>
+<DD>Closing connection (after QUIT)
+</DD>
+<DT><STRONG>250</STRONG></DT>
+<DD>Action was okay (after MAIL FROM and RCPT TO specifying an acceptable user,
+or completion of a message)
+</DD>
+<DT><STRONG>354</STRONG></DT>
+<DD>Start sending mail (after DATA)
+</DD>
+<DT><STRONG>550</STRONG></DT>
+<DD>Action not taken; no such user here (after RCPT TO with unknown user)
+</DD>
+</DL>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input contains descriptions of MTAs followed by an arbitrary number of messages.
+Each MTA description begins
+with the MTA designation and its name (1 to 15 alphanumeric characters). Following
+the MTA name is the number of
+users that receive mail at that MTA and a list of the users (1 to 15 alphanumeric
+characters each). The MTA description
+is terminated by an asterisk in column 1. Each message begins with the sending
+user's name and is followed by a list of
+recipient identifiers. Each identifier has the form <EM>user@mtaname</EM>.
+The message (each line containing no more than 72
+characters) begins and terminates with an asterisk in column 1. A line with an
+asterisk in column 1 instead of a sender
+and recipient list indicates the end of the entire input.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each message, show the communication between the sending and receiving MTAs.
+Every MTA mentioned in a
+message is a valid MTA; however, message recipients may not exist at the
+destination MTA. The receiving MTA rejects
+mail for those users by responding to the RCPT TO command with the 550 code.
+A rejection will not affect delivery to
+authorized users at the same MTA. If there is not at least one authorized
+recipient at a particular MTA, the DATA is not
+sent. Only one SMTP session is used to send a message to users at a particular MTA.
+For example, a message to 5 users
+at the same MTA will have only one SMTP session. Also a message is addressed to
+the same user only once. The order
+in which receiving MTAs are contacted by the sender is the same as in the input file. As shown in the sample output, prefix the
+communication with the communicating MTA names, and indent each non-empty communication line.
+
+No innecessary spaces should be printed.
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+MTA London 4 Fiona Paul Heather Nevil
+MTA SanFrancisco 3 Mario Luigi Shariff
+MTA Paris 3 Jacque Suzanne Maurice
+MTA HongKong 3 Chen Jeng Hee
+MTA MexicoCity 4 Conrado Estella Eva Raul
+MTA Cairo 3 Hamdy Tarik Misa
+*
+Hamdy@Cairo Conrado@MexicoCity Shariff@SanFrancisco Lisa@MexicoCity
+*
+Congratulations on your efforts !!
+--Hamdy
+*
+Fiona@London Chen@HongKong Natasha@Paris
+*
+Thanks for the report!  --Fiona
+*
+*
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Connection between Cairo and MexicoCity
+     HELO Cairo
+     250
+     MAIL FROM:&lt;Hamdy@Cairo&gt;
+     250
+     RCPT TO:&lt;Conrado@MexicoCity&gt;
+     250
+     RCPT TO:&lt;Lisa@MexicoCity&gt;
+     550
+     DATA
+     354
+     Congratulations on your efforts !!
+     --Hamdy
+     .
+     250
+     QUIT
+     221
+Connection between Cairo and SanFrancisco
+     HELO Cairo
+     250
+     MAIL FROM:&lt;Hamdy@Cairo&gt;
+     250
+     RCPT TO:&lt;Shariff@SanFrancisco&gt;
+     250
+     DATA
+     354
+     Congratulations on your efforts !!
+     --Hamdy
+     .
+     250
+     QUIT
+     221
+Connection between London and HongKong
+     HELO London
+     250
+     MAIL FROM:&lt;Fiona@London&gt;
+     250
+     RCPT TO:&lt;Chen@HongKong&gt;
+     250
+     DATA
+     354
+     Thanks for the report!  --Fiona
+     .
+     250
+     QUIT
+     221
+Connection between London and Paris
+     HELO London
+     250
+     MAIL FROM:&lt;Fiona@London&gt;
+     250
+     RCPT TO:&lt;Natasha@Paris&gt;
+     550
+     QUIT
+     221
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Miguel Revilla
+2002-06-25
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

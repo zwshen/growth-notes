@@ -1,0 +1,59 @@
+<html>
+<title>Problem D: Cutting tabletops</title>
+
+<h2>Problem D: Cutting tabletops</h2>
+
+
+<img align="left" src="p10406a.jpg" hspace=10 vspace=10>
+<img align="right" src="p10406b.jpg" hspace=10 vspace=10>
+<em>Bever Lumber</em> hires beavers to cut wood.  The company has
+recently received a shippment of tabletops. Each tabletop is a convex
+polygon.  However, in this hard economic times of cutting costs the
+company has ordered the tabletops from a not very respectable but cheap
+supplier.  Some of the tabletops have the right shape but they are
+slightly too big.  The beavers have to chomp of a strip of wood
+of a fixed width from each edge of the tabletop such that they
+get a tabletop of a similar shape but smaller.  Your task is to
+find the area of the tabletop after beavers are done.
+<p> 
+
+Input consists of a number of cases each presented on a separate line.
+Each line consists of a sequence of numbers.  The first number is
+<b>d</b> the width of the strip of wood to be cut off of each edge of
+the tabletop in centimeters.  The next number <b>n</b> is an integer
+giving the number of vertices of the polygon.  The next <b>n</b> pairs
+of numbers present <b>x</b><sub>i</sub> and <b>y</b><sub>i</sub>
+coordinates of polygon vertices for 1 &lt;= i &lt;= <b>n</b> given in
+clockwise order. A line containing only two
+zeroes terminate the input.
+<p>
+<b>d</b> is much smaller than any of the sides of the polygon.  The
+beavers cut the edges one after another and after each cut the number
+of vertices of the tabletop is the same. 
+<p>
+For each line of input produce one line of output containing one number
+to three decimal digits in the fraction giving the area of the 
+tabletop after cutting.
+<p>
+
+<h3>Sample input</h3>
+<pre>
+2 4 0 0 0 5 5 5 5 0
+1 3 0 0 0 5 5 0
+1 3 0 0 3 5.1961524 6 0
+3 4 0 -10 -10 0 0 10 10 0
+0 0
+</pre>
+
+
+<h3>Output for sample input</h3>
+<pre>
+1.000
+1.257
+2.785
+66.294
+</pre>
+<hr>
+<b>Problem Setter: Piotr Rudnicki
+</b>
+</html>

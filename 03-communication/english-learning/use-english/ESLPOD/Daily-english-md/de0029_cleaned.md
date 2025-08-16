@@ -1,0 +1,69 @@
+# Staying In
+
+Welcome to English as a Second Language Podcast num ber 29 – Staying In.  
+
+This is English as a Second Language Podcast episod e 29. I'm your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California. 
+
+In this episode, we're going to discuss staying in on a Friday night. Let's get started. > It was Friday night, and my roommate and I felt lik e staying in. We both had had a tough week at work and decided to have a low-key evening. On my way home, I stopped at the video rental store and rented a co uple of movies. I got a new release and a classic. I thought I had left my memb ership card at home, but I found it at the last minute. I like going to my loc al rental store because it doesn't charge late fees. That's handy when I don't have ti me to return the DVDs the next day.  
+> My roommate and I were feeling too tired to go out to eat, so we decided to order in. We mulled over the take-out menus from restaura nts that had delivery service, but couldn't decide which restaurant to or der from. The trouble was that we had never eaten at the two restaurants nearby. O rdering from either one would be a crapshoot. In the end, we decided to jus t order a pizza. I called the restaurant and placed our delivery order.  
+> About a half hour later, the delivery person came t o the door. I asked him if I could pay with a credit card, and he said, "Sure." I handed him my card and he wrote down the number. I signed the slip and added a tip to the total. He gave me a copy of the slip as a receipt and then handed me the pizza. I was really glad to get it; I was starving.  
+> With our movies and the pizza, we were all set. The re's nothing like a night at home, vegging out to get over a hectic week.
+
+We heard me talking about what my roommate and I di d on Friday night. A “roommate” (roommate) is a person who lives with yo u. You could also call that person a “housemate.” Normally, when you say “roomm ate” or “housemate” you  
+
+are referring to someone you are not romantically i nvolved with and who is also not one of your relatives.  
+
+My friend and I “felt like staying in.” The express ion “to stay in” means to stay at home, not to go anywhere. The opposite of “staying in” is “going out.” When someone says, “I’m going out tonight,” they mean th ey’re not going to stay at home. They’re going to go to the movies or to a par ty or wherever they’re going.  
+
+I said that my roommate and I “had had a tough week  at work.” A “tough (tough) week” means a difficult week, a hard week, a week w ith many problems. So, we decided to have a “low-key evening.” “Low-key” (low -key) means calm, relaxed, without a lot of excitement. You can use that term “low-key” to describe an evening or a morning or any time of the day. You ca n also use it to describe a person. “He’s very low-key” means he’s very calm, h e’s very relaxed.  
+
+I went to the “video rental store.” A “video (video ) rental store” is a place where you can rent movies – nowadays, mostly DVDs, though  some video stores in the United States still have the old VHS tapes. I got “ a new release and a classic.” A “new release” (release) is a movie that is just now  available on DVD. We use the term “new release” for movies, and we also use it f or songs; a new song that has just come out is also a “new release.” A “classic” is an older movie that is still considered a very good movie. We use the expression  “it’s a classic” to describe movies or books or anything that is old but conside red to be of very high quality, to be very good.  
+
+I thought I had left my “membership card” at home, but I “found it at the last minute.” A “membership (membership) card” is a card  like a credit card, except it is used to show that someone is a member of a club or a group or, in this case, a video store. You need to have a membership card in order to rent movies at the video store. You can also have a membership card fo r other places, like a gym, for example. If it’s a commercial or a private gym,  you have to pay to become a member of the gym, and then you get a membership ca rd so you can use that particular gym. And while you’re working hard at th e gym, I’m home watching a movie! 
+
+“At the last minute” means right at the very end of  when something is possible. So, we sometimes say to students, “Don’t wait until  the last minute to do your homework,”  meaning if your assignment is due tomor row morning, don’t wait until 10 p.m. tonight to start it. That would be wa iting until the last minute. 
+
+I said that I like going to the local video rental store because “they don’t charge late fees.” “Late fees” (fees) or a “late fee” is m oney that you have to pay if you  
+
+bring something back late, after it is due. Librari es in the United States, for example, charge a late fee if you bring a book back  a day late. You have to pay a late fee, also called a “fine,” for bringing it bac k late. But in the story, the local video rental store doesn’t charge late fees. 
+
+I said that it’s “handy” not to have late fees. Whe n we say something is “handy” (handy), we mean it is convenient – it makes our li ves easier. We also use the term “handy” to describe someone who is good at fix ing many different things. The old expression is “handyman” (handyman). A “han dyman” is very good at fixing things.  
+
+My roommate and I were “too tired to go out to eat, ” so we “decided to order in.” “To go out to eat” means to go out to a restaurant,  to go somewhere to eat other than your house. “To order in” means to stay at hom e and have food delivered to you by the restaurant. I said we “mulled over the t ake-out menus.” “To mull (mull) over” means to look at closely and to think about v ery carefully. We mulled over the take-out menus.  
+
+There are three ways you can buy food from a restau rant. You can “eat in,” meaning you eat at the restaurant. You can have it “delivered,” which means the restaurant brings the food to your house. Or, you c an get “take-out.” “Take-out” (take-out) means you order your food from the resta urant and then you go and pick up the food and take it back to your house. Ma ny restaurants that have take- out menus also deliver.  
+
+My friend and I found two nearby restaurants that h ad delivery service, or the ability to bring the food to you. But “the trouble was” that we had never eaten at either of those restaurants before. The expression “the trouble was” is a common way to introduce a problem that you have. For examp le, if you are having difficulty deciding which pen you want to buy, you could say, “The trouble is, I don’t know if I want black ink or blue ink.” So, it ’s the way you can introduce or describe a problem.  
+
+We had never eaten at those two restaurants before,  so I said that ordering from either one would be a “crapshoot.” A “crapshoot” (c rapshoot) is a word that comes from a gambling game called “craps,” in which  you roll two dice down a long board, hoping to get certain numbers. Dice are  those little white cubes that have numbers or dots on each side and are used in g ambling and board games. One of them is called a “die,” and two or more are called “dice.” So, “craps” is a game that uses dice.  
+
+A “crapshoot” here, however, just means that you ar e gambling. You don’t really know how it will turn out – it’s something that is unknown. So, if you are deciding between two things, and you don’t know which one yo u should choose, you might pick randomly – you might just say, “I’ll tak e that one.” That’s a crapshoot. You’re not sure what the results will be; you just hope that you will be lucky and get something good.  
+
+The word “crap” is also a vulgar term in English, v ery similar to garbage. When we say, “That’s crap!” it means that something is b ad, terrible, garbage. But it’s a vulgar, informal expression. You do not want to say  that to your teacher or to your boss, at least not if you still want to work a t that job.  
+
+My roommate and I decided to just order pizza inste ad. I gave the delivery person my credit card, and I “signed the slip and a dded a tip to the total.” The “slip” (slip), or the credit card slip, is a little  piece of paper that you sign when you pay with a credit card. We call that a slip. And a “tip” (tip) is the extra money that you give a service person or a waiter for giving go od service. In the United States, it’s usually between 10 and 20 percent, dep ending on the service.  
+
+I said that I was glad the pizza arrived, because I  “was starving.” “To starve” literally means not to have any food to eat – to di e from not having enough food. But here we use it informally to mean very, very hu ngry. I said that with our movies and the pizza, we were “all set.” When we sa y we are “all set,” we mean we are completely ready for something. “Are you all  set for your trip to San Francisco?” means “Are you ready? Have you done eve rything you need to do in preparation?”  
+
+I said, “There’s nothing like a night at home, vegg ing out to get over a hectic week.” “To veg (veg) out” means to relax and not do  anything very intellectual or anything that requires any work. So, “vegging out” would mean coming home, sitting down, and watching some stupid television p rogram for an hour or two and not doing anything very active. “To get over” means  to recover from. “To get over an illness” means to get better from that illness.  
+
+Finally, a “hectic week” is a week that has a lot o f activity, too much activity. If you are too busy, then you are having a “hectic wee k.”  
+
+Now let’s listen to our story, this time at a norma l speed. 
+
+[start of story] 
+
+It was Friday night, and my roommate and I felt lik e staying in. We both had had a tough week at work and decided to have a low-key evening. On my way home, I stopped at the video rental store and rented a co uple of movies. I got a new release and a classic. I thought I had left my memb ership card at home, but I found it at the last minute. I like going to my loc al rental store because it doesn't charge late fees. That's handy when I don't have ti me to return the DVDs the next day.  
+
+My roommate and I were feeling too tired to go out to eat, so we decided to order in. We mulled over the take-out menus from restaura nts that had delivery service, but couldn't decide which restaurant to or der from. The trouble was that we had never eaten at the two restaurants nearby. O rdering from either one would be a crapshoot. In the end, we decided to jus t order a pizza. I called the restaurant and placed our delivery order.  
+
+About a half hour later, the delivery person came t o the door. I asked him if I could pay with a credit card, and he said, "Sure." I handed him my card and he wrote down the number. I signed the slip and added a tip to the total. He gave me a copy of the slip as a receipt and then handed me the pizza. I was really glad to get it; I was starving.  
+
+With our movies and the pizza, we were all set. The re's nothing like a night at home, vegging out to get over a hectic week. 
+
+[end of story] 
+
+Thanks to our wonderful scriptwriter, Dr. Lucy Tse,  for her hard work. And thanks to you for listening. From Los Angeles, California,  I’m Jeff McQuillan. Come back and listen to us again here on ESL Podcast. 
+
+ESL Podcast is produced by the Center for Education al Development in Los Angeles, California. This podcast is copyright 2006 .
+

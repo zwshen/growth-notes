@@ -1,0 +1,74 @@
+# Buying Fake Products
+
+Welcome to English as a Second Language Podcast number 5 62: Buying Fake Products. 
+
+This is English as a Second Language Podcast episode 562.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+You can support our podcast by going to our website at e slpod.com and becoming a member of ESL Podcast.  When you becoming a m ember, you get a Learning Guide for each of our current episodes that w ill help you improve your English even faster.  If you don’t want to become a mem ber you can send a small donation to support our work. 
+
+This episode is called “Buying Fake Products.”  Let’s get started. 
+
+[start of dialogue] 
+
+Lindsay:  Look at this designer bag I bought.  It was such a steal! 
+
+Rafael:  Let me see that.  You do know that this is an imitation, not the real thing, right? 
+
+Lindsay:  What do you mean?  Of course it’s real. 
+
+Rafael:  Where did you buy it?   
+
+Lindsay:  Well, there was a guy on the street selling al l of these genuine designer bags.  He said he got them straight from the factory, an d that’s why he could sell them at such a markdown. 
+
+Rafael:  The reason he could sell it dirt cheap is because  this is a knockoff.  I know you’re a sucker for a bargain, but I can’t believe you  fell for his line.   
+
+Lindsay:  How do you know this is a knockoff?  Are you an expe rt on women’s handbags?  I still think this is real, and I’m sure I di dn’t get ripped off. 
+
+Rafael:  Whatever you say.  As they say, there’s a sucker bor n every minute! 
+
+ [end of dialogue] 
+
+Lindsay begins the dialogue by saying to Rafael, “Look a t this designer bag I bought.  It was such a steal!”  A “designer” bag or a “d esigner” anything is something that has a particular label or brand, especial ly in fashion.  When we’re talking about clothing if you said, “Well, that’s a desig ner dress made by Gucci,” that is a specific company – a specific “designer” (person wh o creates the piece of clothing, who designs the piece of clothing – the w ay it looks), and that would be a designer dress.  Well, this is a designer bag.  She says, “It was such a steal.”  “Steal” here means a bargain, something that you got at a very low price. “Steal” has a couple of other very different meanings ho wever; take a look at the Learning Guide for some more explanations of that word . 
+
+Rafael says, “Let me see that (give that to me so I can see  it).”  He says, “You do know that this is an imitation, not the real thing, ri ght?”  An “imitation” is a copy, a fake, something that is not original.  If you go to Ita ly you can often see Roman copies of Greek original statues.  Of course, the Romans h ad their own statues that were original, but many times they imitated the Greek statues.  Those statues are imitations; they’re not the original of the  statue.  Well, this is an imitation designer bag; it’s not the real thing.  The  expression “the real thing” means the original, not a copy, not a fake. 
+
+Lindsay says, “What do you mean?  Of course it’s real.”  S he thinks the bag she bought is, in fact, really the real thing.  Rafael says, “Where did you buy it?”  She says, “Well, there was a guy (a man) on the street selling  all of these genuine designer bags.”  So, Lindsay was walking down the street a nd saw a man selling bags that he said were genuine.  “Genuine” (genuine) means real, not fake, the same as “the real thing.”  The man said these were genu ine bags.  Well, of course, if you are walking down the street in a big city a nd someone is selling something to you like, for example, a bag made by Prada or some other designer, you probably should realize that these are not  usually genuine; they are, in fact, fakes.  They make it and then put the nam e on it, even though it isn’t the real thing.   
+
+Lindsay, however, apparently is not too smart; she says the man said he got them straight from the factory, and that’s why he could sell them at such a markdown.  “To get (something) straight from (something  or someone)” means directly from.  I once bought a new laptop computer onl ine, and I received the computer straight from China – straight from the factor y, the place where the computer was made in China.  It was sent to me interna tionally, directly to my  
+
+ house.  I got it straight from the factory.  Lindsay says t hat because this person got the bags straight from the factory he could sell the m at a markdown.  A “markdown” (one word) is a discount, something lower tha n the regular price. 
+
+Rafael says, “The reason (this man) could sell (the bags) dirt cheap is because this is a knockoff.”  The expression “dirt (dirt) cheap” mea ns very inexpensive, very cheap, at a very low cost.  “Dirt” is what you find o n the ground – it is the ground.  If you dig down in a garden or dig in the f ront of your house you will have dirt.  That’s the black stuff, typically, unless you li ve in the North Pole, in which case there is no dirt.  But if you live in the Nort h Pole, you probably can’t buy designer bags up there!  Anyway, “dirt cheap” means ve ry cheap.  The reason he can sell the bags dirt cheap is because they are knockoffs.  A “knockoff” (knockoff – one word) is a copy, an imitation; it’s another word for a fake.  We usually use the term when we are talking about  a physical object.  You could also have, for example, a fake excuse or a fake reaso n for doing something.  But if you use the word “knockoff,” you’re ref erring to an actual physical item, something that someone is selling that the y say is original – is genuine, but isn’t.   
+
+Rafael says, “I know you’re a sucker for a bargain, but I can’t believe you fell for his line.”  A couple of expressions there: first “to be a sucker for (something)” means to be a person who likes something very much, and be cause they like it so much they can be easily fooled – easily tricked into thin king that you’re getting this thing, even though it isn’t real, even though no rmal people would not necessarily think it’s real.  “To be a sucker for” can also mean you like something very much, or when you are presented with this thing you c an’t resist.  For example, I’m a sucker for new technology.  If there’s some  new thing out there – new device, I need to have it.  I want to have it; I’m a sucker for those sorts of things.  Lindsay is a sucker for a bargain.  A “bargain” is same as a “steal,” it’s a very good price on something.  Rafael says he can’t believe Lindsay fell for the man’s line.  “To fall for (something)” means to be foo led by someone, or to be tricked by something.  Men often fall for women who are  beautiful and smile at them and laugh at their jokes.  Here, “to fall for” w ould mean to fall in love, but generally it means to be tricked.  I’m not saying that f alling in love is the same as being fooled, though wise men say only fools fall in love .  I think I should write a song about that!  Anyway, Rafael says that Lindsay fell fo r this man’s line.  The word “line” here means something that someone said to yo u usually to trick you, to fool you, to get you to believe something that isn’t true.  “Line” has lots of different meanings in English however; look at the Lear ning Guide for some more explanations.  
+
+ So Lindsay says, “How do you know this (bag) is a knockoff?  Ar e you an expert on women’s handbags?  I think this is real, and I’m sure I didn’t get ripped off.” “To get ripped (ripped) off” means to get cheated, to  have lost money because you were tricked or fooled.  Rafael says, “Whatever you sa y.”  This is an informal phrase used when you don’t believe what the other perso n is saying, but you do not want to continue arguing or fighting about it.  He says, “As they say, there’s a sucker born every minute!”  “As they say” is a way of saying th is is a common expression, this is a common saying.  And there is a common expression, a common saying in English “there’s a sucker born every minute .”  A “sucker” is someone who is easily fooled – is easily tricked.  “There’s a  sucker born every minute” means there are lots of people who are suckers – who are easily tricked. This expression is usually “attributed to,” people usually sa y it was first said by, the person who founded, or started, one of the first  circuses in the United States, a man by the name of P.T. Barnum.  A “circus” is a perf ormance where you have animals and people doing interesting tricks.  P.T. Barnu m’s circus is still around in the United States; you can still go see it.  Now it ’s called Ringling Brothers and Barnum & Bailey’s Circus.  I used to see it every year when  I was a child. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Lindsay:  Look at this designer bag I bought.  It was such a steal! 
+
+Rafael:  Let me see that.  You do know that this is an imitation, not the real thing, right? 
+
+Lindsay:  What do you mean?  Of course it’s real. 
+
+Rafael:  Where did you buy it?   
+
+Lindsay:  Well, there was a guy on the street selling al l of these genuine designer bags.  He said he got them straight from the factory, an d that’s why he could sell them at such a markdown. 
+
+Rafael:  The reason he could sell it dirt cheap is because  this is a knockoff.  I know you’re a sucker for a bargain, but I can’t believe you  fell for his line.   
+
+ Lindsay:  How do you know this is a knockoff?  Are you an expe rt on women’s handbags?  I still think this is real, and I’m sure I di dn’t get ripped off. 
+
+Rafael:  Whatever you say.  As they say, there’s a sucker bor n every minute! 
+
+[end of dialogue] 
+
+Don’t fall for one of the imitation English podcasts o ut there; get the real thing, with the genuine scripts written by our own Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

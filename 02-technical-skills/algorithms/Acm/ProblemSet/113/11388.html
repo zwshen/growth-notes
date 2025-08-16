@@ -1,0 +1,294 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 10 (filtered)">
+<title>Problem D: GCD LCM</title>
+
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:Arial;}
+h2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:Arial;}
+h4
+	{margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Times New Roman";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:28.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+tt
+	{font-family:"Courier New";}
+p.Codedata, li.Codedata, div.Codedata
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:11.0pt;
+	font-family:"Courier New";}
+p.Semititle, li.Semititle, div.Semititle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-variant:small-caps;
+	font-weight:bold;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;border-collapse:collapse'>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF9900'>I</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:blue'>I </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:teal'>U </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>C  </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:teal'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF9900'>O</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:blue'>N</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>L</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#993300'>I</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF9900'>N</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'>E</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'>   C </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>O</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'>N </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>T</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:maroon'>E</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:fuchsia'>S</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:green'>T</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:maroon'>  </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF6600'>2 </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'>0</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#CC99FF'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#993300'>0</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:maroon'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#99CC00'>8</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:18.0pt;font-family:Arial'>Problem D: GCD LCM</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-family:Arial'>Input: standard input<br>
+  Output: standard output</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+  style='font-family:Arial'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>The
+  GCD of two positive integers is the largest integer that divides both the
+  integers without any remainder. The LCM of two positive integers is the
+  smallest positive integer that is divisible by both the integers. A positive
+  integer can be the GCD of many pairs of numbers. Similarly, it can be the LCM
+  of many pairs of numbers. In this problem, you will be given two positive
+  integers. You have to output a pair of numbers whose GCD is the first number
+  and LCM is the second number.</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Input</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>The
+  first line of input will consist of a positive integer <b>T</b>. <b>T</b>
+  denotes the number of cases. Each of the next <b>T</b> lines will contain two
+  positive integer, <b>G</b> and <b>L.</b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Output</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>For
+  each case of input, there will be one line of output. It will contain two
+  positive integers <b>a</b> and <b>b</b>, <b>a &#8804; b</b>, which has a GCD
+  of <b>G</b> and LCM of <b>L. </b>In case there is more than one pair
+  satisfying the condition, output the pair for which <b>a</b> is minimized. In
+  case there is no such pair, output -1.</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Constraints</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;border:none;
+  border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>-           <b>T
+  </b><b>&#8804; 100</b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>-           Both
+  <b>G </b>and <b>L </b>will be less than <b>2<sup>31</sup></b>.</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign=top style='width:50.0%;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Sample Input</span></b></p>
+  </td>
+  <td width="50%" valign=top style='width:50.0%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Output for Sample Input</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign=top style='width:50.0%;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span style='font-family:"Courier New"'>2</span></b></p>
+  <p class=MsoNormal><b><span style='font-family:"Courier New"'>1 2</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-family:"Courier New"'>3 4</span></b></p>
+  </td>
+  <td width="50%" valign=top style='width:50.0%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span style='font-family:"Courier New"'>1 2</span></b></p>
+  <p class=MsoBodyText style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-family:"Courier New"'>-1</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;border:none;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-family:Arial'>Problem setter: Shamim Hafiz</span></b></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>

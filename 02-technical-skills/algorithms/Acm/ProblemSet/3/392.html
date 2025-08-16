@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Polynomial Showdown</TITLE>
+<META NAME="description" CONTENT="Polynomial Showdown">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Polynomial Showdown</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Given the coefficients of a polynomial from degree 8 down to 0, you
+are to format the polynomial in a readable format with unnecessary
+characters removed.  For instance, given the coefficients 0, 0, 0, 1,
+22, -333, 0, 1, and -1, you should generate an output line which
+displays <code>x^5 + 22x^4 - 333x^3 + x - 1</code>.
+<P>
+<P>
+The formatting rules which must be adhered to are as follows:
+<P>
+<OL><LI> Terms must appear in decreasing order of degree.<LI> Exponents should appear after a caret ``<code>^</code>''.<LI> The constant term appears as only the constant.<LI> Only terms with nonzero coefficients should appear, unless all terms
+have zero coefficients in which case the constant term should appear.<LI> The only spaces should be a single space on either side of the
+binary + and - operators.<LI> If the leading term is positive then no sign should precede it;
+a negative leading term should be preceded by a minus sign, as in
+<code>-7x^2 + 30x + 66</code>.<LI> Negated terms should appear as a subtracted unnegated term (with
+the exception of a negative leading term which should appear as
+described above).  That is, rather than <code>x^2 + -3x</code>, the output
+should be <code>x^2 - 3x</code>.<LI> The constants 1 and -1 should appear only as the constant
+term.  That is, rather than <code>-1x^3 + 1x^2 + 3x^1 - 1</code>, the output
+should appear as <code>-x^3 + x^2 + 3x - 1</code>.
+<P>
+</OL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+The input file will contain one or more lines of coefficients
+delimited by one or more spaces.  There are nine coefficients per
+line, each coefficient being an integer with a magnitude of less than
+1000.  The output file should contain the formatted polynomials, one
+per line.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>0    0    0    1   22 -333    0    1   -1
+0    0    0    0    0    0  -55    5    0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>x^5 + 22x^4 - 333x^3 + x - 1
+-55x^2 + 5x</PRE>
+<P>
+</BODY>
+</HTML>

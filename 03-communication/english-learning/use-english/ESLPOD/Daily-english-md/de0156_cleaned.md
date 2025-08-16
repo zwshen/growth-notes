@@ -1,0 +1,92 @@
+# Rumors and Secrets
+
+Welcome to English as a Second Language Podcast num ber 156: Rumors and Secrets. 
+
+You’re listening to English as a Second Language Po dcast episode 156. I’m your host, Dr. Jeff McQuillan, coming to you from the Ce nter for Educational Development in beautiful Los Angeles, California. 
+
+This podcast is going to be about two people, talki ng about one of their fellow workers and talking about rumors that they have hea rd. Let’s get started! 
+
+[start of dialog] 
+
+Jack: So, what do you think of the new guy? 
+
+Kate: Oh, you mean Bernard? He’s okay, I guess. Why ?  
+
+Jack: Well, I heard that he left his last company u nder mysterious circumstances. I tried to find out more from Libby, but she was ve ry hush-hush about it. 
+
+Kate: I’m not surprised. Libby doesn’t like to goss ip, unlike some people…  
+
+Jack: I’m not gossiping. I just like to know more a bout the people I work with. 
+
+Kate: Okay, but don’t start any rumors. Bernard see ms nice and I think we should give him a chance. 
+
+Jack: Don’t worry. I’ll cut him some slack, but I w ant to know what skeletons are in his closet.  
+
+Kate: Take it from me. You won’t find any dirty lit tle secrets and you may make an enemy of Bernard in the process.  
+
+Jack: You’re probably right but I wonder what Natha n knows… 
+
+[end of dialog] 
+
+On this podcast, we heard a dialog between Jack and  Kate. And they are talking at work about one of their new co-workers, or new f ellow employees. The dialog begins by Jack saying, “So, what do you think of th e new guy?” “The new guy”  
+
+would be the new person, in this case. And we use t hat expression, sort of as a joke when you have someone new join your company or  your organization. And people will say, “Oh, yeah. He’s the new guy.” He’s  the new person. The old expression for this was “the new kid on the block.”  A “block,” of course, is part of a city where people live. You have streets and in b etween the streets are blocks, where the houses and the buildings are. So, the exp ression “a new kid on the block” means that someone had just moved there and all the other kids – all the other children – would refer to him as “the new kid  on the block.” Well, here it’s a similar idea, except we just say, “The new guy.”  
+
+Kate says, “Oh, you mean Bernard?” – that is, you a re talking about Bernard. She says, “He’s okay, I guess. Why?” The use of “I guess” here means I think so. She’s not actually trying to guess what this person  is like. We use that expression to mean, “I think.” But usually, when you’re not qu ite sure, you don’t have a strong opinion.  
+
+Jack says that he heard that the new guy left his c ompany “under mysterious circumstances.” In other words, Jack heard a “rumor .” And a “rumor” (rumor) is what someone says about someone else and you’re not  quite sure if it’s true or not. “Rumors” get started frequently about, for exa mple, celebrities, or movie stars. One of the most famous rumors is that Elvis,  the singer Elvis Presley, isn’t really dead – that he’s living somewhere on some sm all island. Well, that’s a rumor – a false rumor, I think. Who knows? But in t his case, the rumor is about how Bernard, the new guy, left his previous company  – his old company, his last company – “under mysterious circumstances.”  
+
+“Mysterious” is an adjective. The noun is “mystery.  And when we say something is a “mystery” we mean we don’t know what the answe r is. We don’t understand it. And “mysterious” would be the adjective. “Well,  it’s a mysterious circumstance.” A “circumstance” is a situation – wh at happens – that’s circumstance. We use that word “circumstance” a lot  to say, for example, “Under difficult circumstances,” meaning under a situation  that would be difficult, or “In these circumstances, I would recommend that you fin d another job,” meaning in this situation, I would recommend that.  
+
+Well, Bernard left his job under mysterious circums tances, according to Jack – that’s Jack’s opinion – what he heard from someone else. He says that he tried to find out more from Libby, one of his other co-wo rkers, but she was very “Hush- hush” about it. “Hush” (hush) – “hush” (hush) – “to  be hush-hush” means not to talk about it, to be secretive, to not want to tell  anyone else. Someone says, “Oh, he’s very hush-hush about his new girlfriend” means  he doesn’t want to talk about his new girlfriend – that’s to be “hush-hush. ”   
+
+ Kate says that she isn’t surprised that Libby, her co-worker, “doesn’t like to gossip, unlike some people.” “To gossip” (gossip) m eans to tell rumors to other people about someone else or to talk about someone else when they aren’t there. This, of course, is a very popular thing tha t we do. We talk about our friends or our family members and the word, in this  case, the verb “to gossip” is a negative – has a negative meaning in English. “To g ossip” is considered a bad thing, but even so, people, of course, do gossip.  
+
+We can also use “gossip” as a noun. “I heard some g ossip,” for example, or “Did you hear the gossip about Tom Cruise?” Did you? Wel l, Kate says in our story that “Libby doesn’t like to gossip, unlike some peo ple.” That expression “unlike (unlike) some people” means that she is telling Jac k that he likes to gossip. We use this expression as something of an insult to so meone else. Usually, it’s not serious. What we are saying is that this person is doing something wrong, something that he or she shouldn’t do and you are t elling them that by using this indirect expression. For example, my friend is comp laining about his brother. And I say, “Well, my brother doesn’t like to complain, unlike some people.” And if I say that to him, I mean, “unlike you.” So, we are telli ng someone that they are like that – negative – they have that negative character istic. Kate says that “Libby doesn’t like to gossip, unlike some people,” meanin g “Unlike you, Jack, who likes to gossip.”  
+
+Jack says, “I’m not gossiping. I just like to know more about the people I work with.” Kate says that Jack should not start any rum ors. Notice we use the verb “to start” with a rumor. “I’m going to start a rumor” m eans I’m going to make something up, or I’m going to tell other people som ething. I’ll be the first one to tell them.  
+
+“Bernard,” Kate says, “seems nice and I think we sh ould give him a chance.” “To give someone a chance” (chance) means to give them an opportunity. There’s a similar expression which is to give someone a “brea k” (break). You give someone a break when they do something wrong and yo u’re not going to yell at them or be angry at them or think badly of them. Yo u say, “Well, give me a break” means – can mean – that you did something wr ong, but now you want to be able to do it correctly. We also use the express ion “Give me a break,” when we don’t believe someone or we think something that  we are being told is wrong. Someone will say, “Did you hear that Elvis is  livi ng in Los Angeles?” and you say, “Give me a break” – means I don’t believe that .  
+
+Well, in the dialog, Kate says that she thinks they  should give Bernard a chance. Give him an opportunity. Jack says, “Don’t worry. I ’ll cut him some slack.” “I will  
+
+cut (cut) him some slack (slack)” – “to cut someone  some slack” is similar to give someone a break – means that we aren’t going to wor ry about that person doing everything right all the time. We usually use this expression for someone who’s just beginning a job or beginning a project. And yo u are giving them the opportunity to learn and to do better. So, you cut them some slack. The word “slack” (slack) actually is when you have a rope, o r a string, and it’s tight – meaning two people are pulling on it, for example, from different directions. Well, if you stop pulling on it, there’ll be some loose s tring or loose rope. And that’s called “slack,” when the rope isn’t tight. But “to cut someone some slack” means to give them a break, to give them a chance, to giv e them an opportunity. Jack says that he wants to know “what skeletons are  in Bernard’s closet.” A “skeleton” (skeleton) is, of course, the bones in y our body but without the skin, without the blood, without the organs. When you die , for example, you will lose those things, and you will have nothing but a skele ton. Well, you often see a skeleton, for example, as a symbol on Halloween in the United States. And it’s just the bones of a person.  
+
+Now, the expression – you want to see what skeleton s are in your closet or are hidden in your closet – the idea is that if you kil l someone and you don’t want anyone to know, you may put their body in a closet and eventually, after time passes, there will be just their skeleton – not a v ery pleasant, nice idea, but it is a common expression. People say, “I think he has some  skeletons in his closet,” meaning something happened in his past that was bad . We often look for skeletons in the closets of politicians. For exampl e, a politician will be running for president – trying to become president or prime min ister in a country – and someone will go back and talk to their old friends and find out if they did anything wrong when they were younger – that’s looking for s keletons in someone’s closet. 
+
+Well, Kate says, “Take it from me. You won’t find a ny dirty little secrets.” The first expression “take it from me” means believe me, list en to what I’m saying because I know more than you do. “Take it from me. You do not want to visit Minnesota in December. It’s much too cold.” In othe r words, I know because I have some knowledge or some experience. Kate also s ays that “You won’t find any dirty little secrets.” Well, a “secret,” you kn ow, of course, is something that you are hiding from someone else, something you are  not telling someone else. “Dirty little secrets” is an expression which means  some very bad secrets, some secrets about something negative that happened in t his person’s life.  
+
+Kate says that “You may make an enemy of Bernard in  the process.” “To make an enemy of someone” means that you get that other person angry – mad at you and then they will not like you if you do that. So,  “to make enemies” means to do  
+
+something that will get other people mad at you. Th e expression “in the process” – Kate says, “You may make an enemy of Bernard in t he process” – means while you are doing that. And usually, the expression “in  the process” is used when a person doesn’t realize or doesn’t intend for the ot her thing to happen. So, for example, in this dialog, Jack wants to find out wha t skeletons are hidden in Bernard’s closet. But if he tries to do that, Berna rd may become angry with him. That isn’t why Jack is looking for skeletons, he’s not trying to make Bernard angry, but in the process, that will happen – meani ng because he’s doing the other thing – looking for skeletons in his closet –  that may make Bernard unhappy. The dialog ends with Jack saying, “You’re probably right but I wonder what Nathan knows” – means he’s still looking for r umors and secrets and he’s now going to talk to another one of his co-workers,  Nathan. 
+
+Now let’s listen to the dialogue this time at a nat ive rate of speech. 
+
+[start of dialog] 
+
+Jack: So, what do you think of the new guy? 
+
+Kate: Oh, you mean Bernard? He’s okay, I guess. Why ?  
+
+Jack: Well, I heard that he left his last company u nder mysterious circumstances. I tried to find out more from Libby, but she was ve ry hush-hush about it. 
+
+Kate: I’m not surprised. Libby doesn’t like to goss ip, unlike some people…  
+
+Jack: I’m not gossiping. I just like to know more a bout the people I work with. 
+
+Kate: Okay, but don’t start any rumors. Bernard see ms nice and I think we should give him a chance. 
+
+Jack: Don’t worry. I’ll cut him some slack, but I w ant to know what skeletons are in his closet.  
+
+Kate: Take it from me. You won’t find any dirty lit tle secrets and you may make an enemy of Bernard in the process.  
+
+Jack: You’re probably right but I wonder what Natha n knows… 
+
+[end of dialog] 
+
+ The script for today’s podcast was written by our o wn Dr. Lucy Tse. Thank you, Lucy! If you want to read the script for our dialog , or get more information on our podcasts, remember to visit our website at www.eslp od.com. And if you have suggestions about topics for our ESL Podcast, pleas e email us at eslpod@eslpod.com.  
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. We’ll see you next time on ESL Podcast. 
+
+English as a Second Language podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. This podcast is copyr ight 2006.
+

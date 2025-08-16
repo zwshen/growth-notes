@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Majoring in Scales</TITLE>
+<META NAME="description" CONTENT="Majoring in Scales">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Majoring in Scales</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Background</A></FONT></H2>
+<P>
+In western music, the twelve notes used in musical notation are
+arranged in the following order:
+<P>
+<PRE>C/B#  C#/Db  D  D#/Eb  E/Fb  F/E#  F#/Gb  G  G#/Ab  A  A#/Bb  B/Cb</PRE>
+<P>
+Note that a slash in the above list indicates alternate notations
+for the same note.
+<P>
+<P>
+Any two notes that are adjacent to each other in the above list
+are known as a semitone.  Any two notes that have one note
+separating them in the list above are known as a tone.  A major
+scale is made up of 8 notes.  It starts on one of the above notes
+and moves in the progression tone-tone-semitone-tone-tone-tone-semitone.  For example, the major scale starting on <TT>Db</TT> is made up
+of the following notes:
+<P>
+<PRE>Db Eb F Gb Ab Bb C Db</PRE>
+<P>
+The following rules also apply to major scales:
+<P>
+<OL><LI> The scale will contain each letter from <TT>A</TT> to <TT>G</TT> once and only once, with the exception of the first letter of the scale (which will be repeated as the last note of the scale).<LI> The scale may not contain a combination of both flat (<TT>b</TT>)
+     notes and sharp (<TT>#</TT>) notes.
+</OL>
+<P>
+For the purposes of this problem, we are only concerned with the
+following major scales: <TT>C</TT>, <TT>Db</TT>, <TT>D</TT>, <TT>Eb</TT>, <TT>E</TT>, <TT>F</TT>, <TT>Gb</TT>, <TT>G</TT>, <TT>Ab</TT>, <TT>A</TT>, <TT>Bb</TT>, and <TT>B</TT>.
+<P>
+<P>
+An interval is a distance between two notes on a scale.  It can
+be either ascending or descending.  The names of the intervals
+are derived by the distance between the two notes.  Two notes
+adjacent to each other in a major scale are known as a major
+second.  Two notes in a major scale with three notes separating
+them are known as a major fifth.  An octave is a special interval
+which spans from one occurrence of a note to the next occurrence
+of it in the major scale.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Input and Output</A></FONT></H2>
+<P>
+Your program is to read an input file that contains major scale
+intervals to calculate, and is to output the results to an output
+file.  The data in the input file will consist of pairs of lines.
+The first line of each pair will contain the major scale to be
+used, and the second line of each pair will contain one or more
+intervals to be calculated.  Each interval to be calculated will
+be separated by a semicolon.  The interval to calculate will be
+specified with a starting note, a direction (<TT>UP</TT> or <TT>DOWN</TT>), and the
+interval itself (<TT>SECOND</TT>, <TT>THIRD</TT>, <TT>FOURTH</TT>, <TT>FIFTH</TT>, <TT>SIXTH</TT>, <TT>SEVENTH</TT>, or <TT>OCTAVE</TT>).  When specifying notes, the lowercase letter &quot;<TT>b</TT>&quot; will be used to represent a flat, and the symbol &quot;<TT>#</TT>&quot; will be used to
+represent a sharp.  No spaces will immediately precede or follow
+a semicolon, but one space will separate the note from the
+direction as well as the direction from the interval.
+<P>
+<P>
+The output file should be formatted as shown below, with a blank line after every test case.  Each pair of lines in
+the input file will produce a line stating the key, followed by
+the results of the calculated intervals, one interval per line.
+If the starting note of the interval is not a part of the major
+scale being used, the program should output &quot;<TT>invalid note for
+this key</TT>&quot;.
+<P>
+<P>
+The following example shows more clearly the format of the input
+and output files:
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>C
+F UP SECOND;G DOWN THIRD
+E
+F# DOWN FOURTH;Bb DOWN SEVENTH;B UP OCTAVE</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>Key of C
+F: UP SECOND &gt; G
+G: DOWN THIRD &gt; E
+ 
+Key of E
+F#: DOWN FOURTH &gt; C#
+Bb: invalid note for this key
+B: UP OCTAVE &gt; B</PRE>
+<P>
+</BODY>
+</HTML>

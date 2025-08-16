@@ -1,0 +1,82 @@
+# Joking and Making Fun of People
+
+Welcome to English as a Second Language Podcast number 4 98: Joking and Making Fun of People. 
+
+This is English as a Second Language Podcast episode 498.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Download a Learning Guide f or this episode that contains all of the vocabulary, definitions, sample sentence s, additional definitions, comprehension questions, cultural notes, and a complete transcript of everything we say on this episode.  All that is available o n our website. 
+
+This episode is called “Joking and Making Fun of People.”  It’s a dialogue between Dmitry and Charlene.  Let’s get started. 
+
+[start of dialogue] 
+
+Dmitry:  Stan is really miffed at you.  All of that tea sing at lunch really upset him. 
+
+Charlene:  What?  I was just poking fun at him for tr ying to hit on the new, young receptionist.   
+
+Dmitry:  You called him an old goat. 
+
+Charlene:  I said that tongue in cheek.  If he didn’t find that funny, then he can’t take a joke.   
+
+Dmitry:  What about last week when you told that joke a bout fat people trying to dance and you made him the butt of the joke? 
+
+Charlene:  Everybody knows I’m the class clown around here,  and I make wisecracks about everybody.  Nobody else is as thin-skinned as St an. 
+
+Dmitry:  I wouldn’t be so sure about that.  I suggest yo u watch your back.  The next joke may be on you. 
+
+Charlene:  Why?  What have you heard?   
+
+Dmitry:  Oh, nothing.  I just think it may be time for  some payback – big time! 
+
+ [end of dialogue] 
+
+Dmitry says to Charlene, “Stan is really miffed at you.”  Stan is a man’s name. “To be miffed (miffed) at (someone)” means to be mad at someone, to be upset or angry with someone.  “Miffed” usually is a little le ss severe than mad; it’s a little less serious, perhaps.  Dmitry says, “All of that tea sing at lunch really upset him.”  “To tease” (tease) as a verb means to make jokes abo ut someone, but in a friendly way; to laugh at something someone has done, bu t you’re not trying to be mean.  It’s not something that you are doing to hur t the other person.  “Tease” actually has a couple of different meanings; take a look at our Learning Guide for some additional explanations of that term. 
+
+Charlene says, “What?”  She’s surprised.  “I was just pokin g fun at him.”  “To poke (poke) fun at (someone)” is an expression that mean s to make jokes about someone.  However, it could be in a friendly way like tea sing, but it might also be in an unfriendly way in order to hurt that person.  Th e expression can be used for both cases, it just depends on the context.  Charlene, ho wever, believes that she was just teasing him, and she uses the expression “to poke f un at him” in a friendly way. 
+
+Why is she poking fun at him?  Well, because Stan was tryin g to hit on the new, young receptionist.  “To hit on (someone)” is a two-wor d phrasal verb to say something to another person that you are romantically i nterested in.  When a man comes up to a woman and says, “Come here often?” mea ning do you come to this place often, he might be hitting on her.  He might be trying to get her romantically interested in him.  Of course, that’s not a very good way to start.  In fact, that expression “Come here often?” is used now as a  joke; it’s a terrible way to try to hit on a girl or a woman.  I know, I’ve trie d it; it hasn’t worked very well! “To hit” is a verb that has many different meanings in E nglish, depending on the other words used – the other prepositions (the other ph rasal verbs).  Take a look at our Learning Guide for an explanation of a few of  those. 
+
+Poor Stan was trying to hit on the young, new reception ist.  A “receptionist” is a person in an office whose job it is to answer the phone and to welcome people as they walk into the office, if they are people who are vi siting.  So, Dmitry says, “You called him an old goat.”  That’s what Charlene sa id about Stan.  A “goat” is an animal, not a particularly attractive animal, so most people would consider that an insult, to call someone “an old goat.”  Charl ene says, “I said that tongue in cheek.”  The expression “tongue in cheek” (cheek) means as a  joke, not seriously, in a joking way.  “She made a tongue in cheek co mment about wanting to go swimming” – she wasn’t serious, she was joking.  I n this case, Stan did not think it was a joke.  Charlene goes on to say that if he didn’t find that funny, then  
+
+ he can’t take a joke.  “To take a joke” or “to be able to take a joke” means that you can laugh at yourself, you can laugh at the world.  “To not be able to take a joke” means that you are too serious, that you don’t fin d something funny; you can’t find the humor in things. 
+
+Dmitry says, “What about last week when you told that jok e about fat people trying to dance and you made him the butt of the joke?”   Dmitry is “bringing up,” or bringing to Charlene’s attention another example o f something that she said that was mean, that wasn’t just teasing.  She made a jo ke about people who are overweight trying to dance, and she made Stan the butt (butt) of the joke.  The “butt of a joke” or “the butt of the joke” is the perso n about whom a joke makes fun; it is the person who is being laughed at, and her e, it usually isn’t in a friendly way.   
+
+Charlene says, “Everybody knows I’m the class clown around he re.”  The “class clown” is an expression that comes from school, where there  is someone in your class that always makes jokes, that is always trying to be funny .  When you have a group of students, there’s usually a couple of people who always want to be the funny one, the ones making jokes; this is the “class clown.”  A “clown” is someone who tries to make other people laugh, especiall y young children, usually by putting on a strange costume (strange clothes) a nd painting their face. Here, it’s more used as a general expression to be the pe rson who tries to be funny in the group, in this case at the company where Ch arlene and Dmitry work.   
+
+Charlene says, “I make wisecracks about everybody.”  A “wisecra ck” (wisecrack – one word) is a joke; it’s a funny comment, something t hat is supposed to be clever and funny.  She says that nobody else is as thin-skinned  as Stan.  To have “thin skin” is an expression that means to be easily off ended or upset, someone who can’t laugh at themselves.  Or, it could also  mean someone who cannot take criticism without being personally hurt.  Th e opposite is “thick skin.” If someone says, “He has a thick skin,” they mean that he’s no t bothered by criticism or by jokes; he doesn’t take it personally.   
+
+Charlene is saying that, in this case, Stan is “thin-skinne d.”  Well, Dmitry says, “I wouldn’t be so sure about that,” or I wouldn’t be so su re about that.  He says, “I suggest you watch your back.”  The expression “to watch your ba ck” means to be cautious or to be careful, to try to protect yourself fr om something that might happen to you.  The idea is that other people may try t o hurt you or attack you. He says, “The next joke may be on you.”  When a joke is “on  someone,” that means it’s about someone or that person is going to be t he butt of the joke, the person that everyone else will be joking about.   
+
+ Dmitry is saying to Charlene, “The joke may be on you” – you may be the person that we laugh at.  Charlene says, “Why?  What have you h eard?”  Dmitry says, “Oh, nothing.  It just may be time for some payback.”  “ Payback” (one word) means revenge, something that you do to another person t o get even, something bad you do to another person because they did something  bad to you.  That’s called “payback.”  Dmitry then uses the expression “big time. ”  He says, “I just think it may be time for some payback – big time!”  “Big  time” is an informal expression (not something that you would want to use at work necessarily, but among friends) that means something important, someth ing significant, in a big way.  For example, you go to Las Vegas and you gamble, be cause Las Vegas is famous for people going to gamble their money on cards or other games, and you lose a thousand dollars.  Someone asks you, “Did you lo se any money in Las Vegas?” and you say, “Oh yeah, big time!” meaning a l ot, in that case. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Dmitry:  Stan is really miffed at you.  All of that tea sing at lunch really upset him. 
+
+Charlene:  What?  I was just poking fun at him for tr ying to hit on the new, young receptionist.   
+
+Dmitry:  You called him an old goat. 
+
+Charlene:  I said that tongue in cheek.  If he didn’t find that funny, then he can’t take a joke.   
+
+Dmitry:  What about last week when you told that joke a bout fat people trying to dance and you made him the butt of the joke? 
+
+Charlene:  Everybody knows I’m the class clown around here,  and I make wisecracks about everybody.  Nobody else is as thin-skinned as St an. 
+
+Dmitry:  I wouldn’t be so sure about that.  I suggest yo u watch your back.  The next joke may be on you. 
+
+Charlene:  Why?  What have you heard?   
+
+Dmitry:  Oh, nothing.  I just think it may be time for  some payback – big time! 
+
+[end of dialogue]  
+
+ The script was written for this episode by our wisecracking w riter, Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Searching Quickly</TITLE>
+<META NAME="description" CONTENT="Searching Quickly">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Searching Quickly</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Background</A></FONT></H2>
+<P>
+Searching and sorting are part of the theory and practice of computer
+science.  For example, binary search provides a good example of an
+easy-to-understand algorithm with sub-linear complexity.  Quicksort is
+an efficient  <IMG WIDTH=74 HEIGHT=27 ALIGN=MIDDLE ALT="tex2html_wrap_inline29" SRC="123img1.gif"  >  [average case] comparison based sort.
+<P>
+KWIC-indexing is an indexing method that permits efficient ``human
+search'' of, for example, a list of titles.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+<P>
+Given a list of titles and a list of ``words to ignore'', you are to
+write a program that generates a KWIC (Key Word In Context) index of the
+titles.  In a KWIC-index, a title is listed once for each keyword that
+occurs in the title.  The KWIC-index is alphabetized by keyword.
+<P>
+Any word that is not one of the ``words to ignore'' is a potential
+keyword.
+<P>
+For example, if words to ignore are
+``<code>the, of, and, as, a</code>'' and the list
+of titles is:
+<PRE>Descent of Man
+The Ascent of Man
+The Old Man and The Sea
+A Portrait of The Artist As a Young Man</PRE>
+<P>
+A KWIC-index of these titles might be given by:
+<P>
+<PRE>                      a portrait of the ARTIST as a young man 
+                                    the ASCENT of man 
+                                        DESCENT of man 
+                             descent of MAN 
+                          the ascent of MAN 
+                                the old MAN and the sea 
+    a portrait of the artist as a young MAN 
+                                    the OLD man and the sea 
+                                      a PORTRAIT of the artist as a young man 
+                    the old man and the SEA 
+          a portrait of the artist as a YOUNG man</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>
+The input is a sequence of lines, the string <code>::</code> is used to
+separate the list of words to ignore from the list of titles.  Each of
+the words to ignore appears in lower-case letters on a line by itself
+and is no more than 10 characters in length.  Each title appears on a
+line by itself and may consist of mixed-case (upper and lower) letters.
+Words in a title are separated by whitespace.  No title contains more
+than 15 words.
+<P>
+There will be no more than 50 words to ignore, no more than than 200
+titles, and no more than 10,000 characters in the titles and words to
+ignore combined.  No characters other than 'a'-'z', 'A'-'Z', and white
+space will appear in the input.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>
+The output should be a KWIC-index of the titles, with each title
+appearing once for each keyword in the title, and with the KWIC-index
+alphabetized by keyword.  If a word appears more than once in a title,
+each instance is a potential keyword.
+<P>
+The keyword should appear in all upper-case
+letters. All other words in a title should be in lower-case letters.
+Titles in the KWIC-index with the same keyword should appear in the same
+order as they appeared in the input file.  In the case where multiple
+instances of a word are keywords in the same title, the keywords should
+be capitalized in left-to-right order.
+<P>
+Case (upper or lower) is irrelevant when determining if a word is to be
+ignored.
+<P>
+The titles in the KWIC-index need NOT be justified or aligned by
+keyword, all titles may be listed left-justified.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>is
+the
+of
+and
+as
+a
+but
+::
+Descent of Man
+The Ascent of Man
+The Old Man and The Sea
+A Portrait of The Artist As a Young Man
+A Man is a Man but Bubblesort IS A DOG</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>a portrait of the ARTIST as a young man 
+the ASCENT of man 
+a man is a man but BUBBLESORT is a dog 
+DESCENT of man 
+a man is a man but bubblesort is a DOG 
+descent of MAN 
+the ascent of MAN 
+the old MAN and the sea 
+a portrait of the artist as a young MAN 
+a MAN is a man but bubblesort is a dog 
+a man is a MAN but bubblesort is a dog 
+the OLD man and the sea 
+a PORTRAIT of the artist as a young man 
+the old man and the SEA 
+a portrait of the artist as a YOUNG man</PRE>
+<P>
+</BODY>
+</HTML>

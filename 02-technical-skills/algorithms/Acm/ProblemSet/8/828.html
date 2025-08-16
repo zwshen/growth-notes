@@ -1,0 +1,183 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Deciphering Messages</TITLE>
+<META NAME="description" CONTENT="Deciphering Messages">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Deciphering Messages</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+The plaintext messages are written in the standard 26-letter
+English alphabet, A-Z. The encryption is done with the
+help of a cipher key. This cipher key is composed of an ordered
+set <SPAN CLASS="MATH"><I>L</I></SPAN> of English alphabet letters, which is called the
+alphabetical key, and an integer <SPAN CLASS="MATH"><I>N</I></SPAN> in the interval [1..25],
+which is called the numerical key. Each word of <SPAN CLASS="MATH"><I>k</I></SPAN> characters
+is encrypted into a word of length between <SPAN CLASS="MATH"><I>k</I></SPAN> and <SPAN CLASS="MATH"><I>k</I>*3</SPAN> characters.
+The encryption rules are as follows:
+
+<P>
+<DL>
+<DT><STRONG>Rule 1:</STRONG></DT>
+<DD>Each word is encrypted separately; the space between
+words is preserved. Each word is encrypted from the
+leftmost to the rightmost letters.
+</DD>
+<DT><STRONG>Rule 2:</STRONG></DT>
+<DD>A plaintext message letter <SPAN CLASS="MATH"><I>p</I></SPAN> that does not belong to <SPAN CLASS="MATH"><I>L</I></SPAN>
+is enciphered as a ciphertext letter <!-- MATH
+ $c = ciph(p)$
+ -->
+<SPAN CLASS="MATH"><I>c</I> = <I>ciph</I>(<I>p</I>)</SPAN> where
+<SPAN CLASS="MATH"><I>ciph</I></SPAN> is a function defined below.
+</DD>
+<DT><STRONG>Rule 3:</STRONG></DT>
+<DD>A plaintext message letter p that belongs to L is
+enciphered as a string of three letters: the <SPAN CLASS="MATH"><I>m</I></SPAN>-th letter of <SPAN CLASS="MATH"><I>L</I></SPAN>,
+followed by a ciphertext letter <!-- MATH
+ $c = ciph(p)$
+ -->
+<SPAN CLASS="MATH"><I>c</I> = <I>ciph</I>(<I>p</I>)</SPAN>, followed by the
+<SPAN CLASS="MATH">(<I>m</I> + 1)</SPAN>-th letter of <SPAN CLASS="MATH"><I>L</I></SPAN>. The value of <SPAN CLASS="MATH"><I>m</I></SPAN> is incremented
+by one each time this rule is applied. Arithmetic is performed
+as if <SPAN CLASS="MATH"><I>L</I></SPAN> were circular.
+</DD>
+</DL>
+
+<P>
+For each plaintext message the initial value for <SPAN CLASS="MATH"><I>m</I></SPAN> is one.
+
+<P>
+The function <SPAN CLASS="MATH"><I>ciph</I></SPAN> translates each letter to the letter <SPAN CLASS="MATH"><I>N</I></SPAN> letters
+after it in the alphabet and arithmetic is performed as if
+the alphabet were circular (for example, if <SPAN CLASS="MATH"><I>N</I></SPAN> is 2,
+then <!-- MATH
+ $ciph(A) = C, ciph(B) = D, \dots, ciph(X) = Z; ciph(Y ) =
+A; ciph(Z) = B$
+ -->
+<SPAN CLASS="MATH"><I>ciph</I>(<I>A</I>) = <I>C</I>, <I>ciph</I>(<I>B</I>) = <I>D</I>,..., <I>ciph</I>(<I>X</I>) = <I>Z</I>;<I>ciph</I>(<I>Y</I>) = <I>A</I>;<I>ciph</I>(<I>Z</I>) = <I>B</I></SPAN>).
+
+<P>
+
+<P>
+<BR>
+
+<B>NOTE:</B> The keys used in the processes of ciphering and deciphering
+are such that the ciphered text can always be
+uniquely deciphered (that is, the keys do not contain images of
+function <SPAN CLASS="MATH"><I>ciph</I></SPAN> for none of its elements).
+
+<P>
+
+<P>
+<BR>
+Your task is to write a program to decode messages encripted by
+using the method just described.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+<B>The input begins with a single positive integer on a line by itself indicating
+the number of the cases following, each of them as described below.
+This line is followed by a blank line, and there is also a blank line between
+two consecutive inputs.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+Input data file contains the alphabetical key in the first line,
+the numerical key in the second line, the number of
+messages that are to be deciphered in the third line, and a ciphered
+text message in each of the remaining lines.
+These text messages only contain uppercase letters in the standard 26-letter
+English alphabet and, if it is the case,
+also a space between words. These text messages supposedly result
+from the encryption of several original plaintext
+messages using the method described above with the cipher key given
+in the first and second lines of the input file.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+<B>For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+For each of the input ciphered text messages, output of the original
+plaintext message is required or an error message
+(`<TT>error in encryption</TT>') in case the input text is not a correct
+encryption of any plaintext message. The order
+of the messages must be preserved.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1
+
+RSAEIO
+2
+5
+RTSSKAEAGE
+GRSCAV
+RGSSCAV
+RUSIQO
+RUSSGAACEV JEGIITOOGR
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+RICE
+error in encryption
+EAT
+error in encryption
+SEAT HERE
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Isabel Nunes, MIUP'2001
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

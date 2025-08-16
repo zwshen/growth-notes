@@ -1,0 +1,181 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Dropping Balls</TITLE>
+<META NAME="description" CONTENT="Dropping Balls">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Dropping Balls</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A  number  of  <I>K</I> balls  are  dropped  one  by  one  from  the  root  of  a 
+fully  binary  tree structure  FBT. Each  time  the  ball  being  dropped 
+first  visits  a  non-terminal  node.  It then  keeps  moving down, either 
+follows  the  path  of  the  left  subtree,  or  follows  the path of the
+right subtree, until it stops at one of the leaf nodes of FBT. To determine a
+ball's moving direction a flag is set up in every non-terminal node with two
+values, either <B>false</B> or <B>true</B>. Initially, all of the flags are
+<B>false</B>. When visiting a non-terminal node if the flag's current value at
+this node is <B>false</B>, then the ball will first switch this flag's value,
+i.e., from the <B>false</B> to the <B>true</B>, and then follow the left subtree
+of this node to keep moving down. Otherwise, it will also switch this flag's
+value, i.e., from the <B>true</B> to the <B>false</B>, but will follow the right
+subtree of this node to keep moving down. Furthermore, all nodes of FBT are
+sequentially numbered, starting at 1 with nodes on depth 1, and then those on
+depth 2, and so on. Nodes on any depth are numbered from left to right. 
+
+<P>
+
+<P>
+<BR>
+For example, Fig. 1 represents a fully binary tree of maximum depth 4 with
+the node numbers 1, 2, 3, ..., 15. Since all of the flags are initially set to
+be <B>false</B>, the first ball being dropped will switch flag's values at node
+1, node 2, and node 4 before it finally stops at position 8. The second ball
+being dropped will switch flag's values at node 1, node 3, and node 6, and
+stop at position 12. Obviously, the third ball being dropped will switch
+flag's values at node 1, node 2, and node 5 before it stops at position 10. 
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p679.gif>
+
+<P>
+
+<P>
+<BR>
+Fig. 1: An example of FBT with the maximum depth 4 and sequential
+node numbers. 
+</DIV>
+
+<P>
+
+<P><P>
+<BR>
+Now consider a number of test cases where two values will be given for each test. The
+first value is <I>D</I>, the maximum depth of FBT, and the second one is <I>I</I>, 
+the <I>I</I><SUP><I>th</I></SUP> ball being dropped. You may assume the value of <I>I</I> will not
+exceed the total number of leaf nodes for the given FBT. 
+
+<P>
+Please write a program to determine the stop position <I>P</I> for
+each test case.
+
+<P>
+
+<P>
+<BR>
+For each test cases the range of two parameters <I>D</I> and <I>I</I> is as below:
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+2 \le D \le 20, \mbox{ and } 1 \le I \le 524288.
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="255" HEIGHT="30"
+ SRC="679img1.gif"
+ ALT="\begin{displaymath}2 \le D \le 20, \mbox{ and } 1 \le I \le 524288.
+\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Contains <I>l</I>+2 lines.
+<PRE><TT>
+Line 1 		 <I>I</I> the number of test cases 
+Line 2 		 <IMG
+ WIDTH="48" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="679img2.gif"
+ ALT="$D_1 \ I_1$">
+test case #1, two decimal numbers that are separatedby one blank 
+... 		 		 
+Line <I>k</I>+1 <IMG
+ WIDTH="49" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="679img3.gif"
+ ALT="$D_k \ I_k$">
+test case #<I>k</I> 
+Line <I>l</I>+1 <IMG
+ WIDTH="42" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="679img4.gif"
+ ALT="$D_l \ I_l$">
+test case #<I>l</I> 
+Line <I>l</I>+2 <TT>-1</TT> 		 a constant -1 representing the end of the input file
+</TT></PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+Contains <I>l</I> lines.
+<PRE><TT>
+Line 1 		 the stop position <I>P</I> for the test case #1 
+... 		 
+Line <I>k</I> the stop position <I>P</I> for the test case #<I>k</I> 
+... 		 
+Line <I>l</I> the stop position <I>P</I> for the test case #<I>l</I>
+</TT></PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+5
+4 2
+3 4
+10 1
+2 2
+8 128
+-1
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+				
+<PRE>
+12
+7
+512
+3
+255
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-14</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

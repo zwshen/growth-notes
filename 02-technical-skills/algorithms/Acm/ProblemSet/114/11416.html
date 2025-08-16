@@ -1,0 +1,38 @@
+<html><head><title>Excel Evaluation</title></head>
+<body><h1><center>Problem F : Excel Evaluation</center></h1><br>
+<h3>Time Limit : 1 second</h3><br>
+<div align="justify">
+Spreadsheet applications are becoming more popular now a days. You are given the module of evaluation in the ongoing project.<br>
+<br><center><img src="p11416a.gif"></center>
+The spreadsheet looks as shown in figure above. The rows are numbered from 1 to 1000 and columns are represented as A, B, .... Z, AA, AB,  ... ..  AAA …, up to ZZZ. Each cell is denoted as A1, A2.. B1, B2... Etc.<br>
+Max Row size = 1000<br>
+max coloumn size = A to ZZZ<br>
+Your job is to evaluate the cell that contains expression.<br>
+The cells may contain either a numeric constant or an expression that begin with ‘e’.<br>
+The expression is an ordinary arithmetic expression with cell references (A1, B1 etc) as operands. All operations are integer arithmetic.
+You can safely assume that there are no cyclic dependencies.<br>
+<br><center><img src="p11416b.gif"></center>
+
+<h3>Input :</h3>
+	The first line consists of number of test cases T. Each test case begins with row and column size of the spreadsheet (m x n). It is followed by the content of spreadsheet given in row major order.
+<br>
+
+<h3>Output :</h3><br>
+ For each test case, print the evaluated spreadsheet.<br>
+Print a blank line between the outputs of two test cases.<br>
+
+<h3>Sample Input :</h3><br>
+
+1<br>
+2  3<br>
+12  4  3<br>
+16  e(A1/B1) e(A2+B2*C1)<br>
+<br>
+
+<h3>Sample Output : </h3><br>
+12 4 3<br>
+16 3 25<br>
+
+<hr><br>
+<b>Problem Setter : Raghavan M,<br>Written for CarteBlanche '08</b>
+</div>

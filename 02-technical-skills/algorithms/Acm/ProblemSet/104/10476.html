@@ -1,0 +1,262 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Spam or Not Spam</TITLE>
+<META NAME="description" CONTENT="Spam or Not Spam">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Spam or Not Spam</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Unsolicited email (spam) is annoying and clutters your mailbox. You are to write a
+<EM>spam filter</EM> -
+a program that reads email messages of regular ASCII  characters (32-127) and tries to
+determine whether or not each message is spam.
+
+<P>
+How can we determine whether or not a message is spam? Spam contains words and phrases
+that are not common in genuine email messages. For example, the phrase
+
+<P>
+<PRE>
+MAKE MONEY FAST, HONEY!!
+</PRE>
+
+<P>
+is in all-uppercase, contains the word "money" and ends with a double exclamation mark.
+
+<P>
+One way to create a spam filter is to read through many spam and non-spam messages and to
+come up with a set of rules that will classify any particular message as spam or not. This process
+can be tedious and error prone to do manually. Instead you will write a program to automate the
+process.
+
+<P>
+A useful step in automatic classification is to split the text up into set of <EM>trigrams</EM>.
+A trigram is a
+sequence of three adjacent characters that appear in the message. A trigram is case sensitive. The
+example above is composed of the trigrams:
+
+<P>
+<PRE>
+MAK
+AKE
+KE
+E M
+MO
+MON
+ONE
+NEY
+EY
+Y F
+FA
+FAS
+AST
+ST,
+T,
+, H
+HO
+HON
+ONE
+NEY
+EY!
+Y!!
+</PRE>
+
+<P>
+If we examine a sample of spam and non-spam messages we find that some trigrams are more
+common in spam; whereas others are more common in non-spam. This observation leads to a
+classification method:
+
+<P>
+
+<UL>
+<LI>Examine a sample consisting of a large number of spam messages. Count the number of
+times that each trigram occurs. In the example above, there are 20 distinct trigrams; the
+trigrams <TT>ONE</TT> and <TT>NEY</TT> occur twice each and the remaining 18 trigrams occur once
+each. (Trigrams that do not occur are considered to occur 0 times.) More formally, for
+each trigram <SPAN CLASS="MATH"><I>t</I></SPAN> we compute the frequency <!-- MATH
+ $f_{spam}(t)$
+ -->
+<SPAN CLASS="MATH"><I>f</I><SUB>spam</SUB>(<I>t</I>)</SPAN> with which it occurs in the sample of
+spam.
+</LI>
+<LI>Examine a sample consisting of a large number of non-spam messages. Compute <!-- MATH
+ $f_{non-spam}(t)$
+ -->
+<SPAN CLASS="MATH"><I>f</I><SUB>non - spam</SUB>(<I>t</I>)</SPAN>,
+the frequency with which each trigram <SPAN CLASS="MATH"><I>t</I></SPAN> appears in the sample of non-spam.
+</LI>
+<LI>For each message to be filtered, compute <!-- MATH
+ $f_{message}(t)$
+ -->
+<SPAN CLASS="MATH"><I>f</I><SUB>message</SUB>(<I>t</I>)</SPAN> for each trigram <SPAN CLASS="MATH"><I>t</I></SPAN>.
+</LI>
+<LI>If  <!-- MATH
+ $f_{message}$
+ -->
+<SPAN CLASS="MATH"><I>f</I><SUB>message</SUB></SPAN> resembles <SPAN CLASS="MATH"><I>f</I><SUB>spam</SUB></SPAN> more closely than it resembles
+<!-- MATH
+ $f_{non-spam}$
+ -->
+<SPAN CLASS="MATH"><I>f</I><SUB>non - spam</SUB></SPAN> it is determined to be spam; otherwise it is determined to be non-spam.
+</LI>
+<LI>A similarity measure determines how closely <SPAN CLASS="MATH"><I>f</I><SUB>1</SUB></SPAN> and <SPAN CLASS="MATH"><I>f</I><SUB>2</SUB></SPAN> resemble one another. One of the
+simplest measures is the cosine measure:
+<!-- MATH
+ \begin{displaymath}
+similarity (f_1,f_2) = {{\sum_t f_1(t) \cdot f_2(t)} \over {{\sqrt {\sum_t [f_1(t)]^2}} \cdot
+{\sqrt {\sum_t [f_2(t)]^2}}}}
+\end{displaymath}
+ -->
+<P></P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+<I>similarity</I>(<I>f</I><SUB>1</SUB>, <I>f</I><SUB>2</SUB>) = <IMG
+ WIDTH="204" HEIGHT="57" ALIGN="MIDDLE" BORDER="0"
+ SRC="10476img1.png"
+ ALT="$\displaystyle {{\sum_t f_1(t) \cdot f_2(t)} \over {{\sqrt {\sum_t [f_1(t)]^2}} \cdot
+{\sqrt {\sum_t [f_2(t)]^2}}}}$">
+</DIV><P></P>
+</LI>
+</UL>
+
+<P>
+Then we say that a message is spam if
+<!-- MATH
+ \begin{displaymath}
+similarity(f_{message}, f_{spam}) > similarity(f_{message}, f_{non-spam})
+\end{displaymath}
+ -->
+<P></P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+<I>similarity</I>(<I>f</I><SUB>message</SUB>, <I>f</I><SUB>spam</SUB>) &gt; <I>similarity</I>(<I>f</I><SUB>message</SUB>, <I>f</I><SUB>non - spam</SUB>)
+</DIV><P></P>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input file contains several sets (less than 10) of input. The description of each set is given
+below.
+
+<P>
+The first line of each set contains three integers: <SPAN CLASS="MATH"><I>s</I></SPAN>(<SPAN CLASS="MATH">0 &lt; <I>s</I> &lt; 5</SPAN>) the number of sample spam messages
+to follow; <SPAN CLASS="MATH"><I>n</I></SPAN>(<SPAN CLASS="MATH">0 &lt; <I>n</I> &lt; 5</SPAN>) the number of sample non-spam messages to follow; <SPAN CLASS="MATH"><I>c</I></SPAN>(<SPAN CLASS="MATH">0 &lt; <I>c</I> &lt; 10</SPAN>) the number
+of messages to be classified as spam or non-spam, based on trigram the trigram frequencies of
+the sample messages. Each message consists of several lines of text and is terminated by a line
+containing `<TT>ENDMESSAGE</TT>'. This line will not appear elsewhere in the input, and is not
+considered part of the message. No line has more than 1000 characters.
+
+<P>
+Input is terminated by a set where <SPAN CLASS="MATH"><I>s</I> = 0</SPAN>, <SPAN CLASS="MATH"><I>n</I> = 0</SPAN> and <SPAN CLASS="MATH"><I>c</I> = 0</SPAN>. This set should not be processed.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each set of input your program should output a single line to identify the serial of the input
+set. The output specification for each set is given below:
+
+<P>
+For each of the <SPAN CLASS="MATH"><I>c</I></SPAN> messages, your program will output two lines. On the first line, output
+<!-- MATH
+ $similarity(f_{message}, f_{spam})$
+ -->
+<SPAN CLASS="MATH"><I>similarity</I>(<I>f</I><SUB>message</SUB>, <I>f</I><SUB>spam</SUB>)</SPAN> and <!-- MATH
+ $similarity(f_{message}, f_{non-spam})$
+ -->
+<SPAN CLASS="MATH"><I>similarity</I>(<I>f</I><SUB>message</SUB>, <I>f</I><SUB>non - spam</SUB>)</SPAN>.
+On the second line print the
+classification of the message (`<TT>spam</TT>' or `<TT>non-spam</TT>'). Round the numbers to
+five decimal digits.
+
+<P>
+For detailed description look at the output for sample input.
+
+<P>
+When forming trigrams, we never include a new line character. We don't include trigrams that
+span multiple lines, either.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2 1 1
+AAAA
+BBBB CCCC
+ENDMESSAGE
+BBBB
+ENDMESSAGE
+AAAABBBB
+ENDMESSAGE
+AAABB
+ENDMESSAGE
+2 1 2
+AAAA
+BBBB CCCC
+ENDMESSAGE
+BBBB
+ENDMESSAGE
+AAAABBBB
+ENDMESSAGE
+AAABB
+ENDMESSAGE
+AAABB
+ENDMESSAGE
+0 0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Set 1:
+0.22222 0.73030
+non-spam
+Set 2:
+0.22222 0.73030
+non-spam
+0.22222 0.73030
+non-spam
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Problem Setter: Gordon V. Cormack, University of Waterloo, Canada
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

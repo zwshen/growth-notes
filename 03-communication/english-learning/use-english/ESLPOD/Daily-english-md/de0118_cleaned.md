@@ -1,0 +1,80 @@
+# Small Talk at a Business Lunch
+
+Welcome to English as a Second Language Podcast num ber 118: Small Talk at a Business Lunch. 
+
+Welcome back to English as a Second Language Podcas t episode 118. I’m your host, Dr. Jeff McQuillan, from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Today’s podcast is going to be about talking to som eone, a business person, but in an informal way – what we would call “small talk ” or talking about unimportant things as part of an informal or social meeting. Le t’s get started! 
+
+[start of dialogue] 
+
+James: Hello, are you Muriel Douglas? 
+
+Muriel: Yes, and you must be James. It's nice to me et you at long last.  
+
+James: Yes, you too. Thanks for agreeing to meet wi th us about the new account. My associate, Susan Kim, should be here an y minute. Would you like something to drink while we're waiting? 
+
+Muriel: No, thanks. I'm fine. Did you have a nice h oliday? 
+
+James: Yes, I did. My family and I went to Tahoe to  ski and the weather was great. How about you?  
+
+Muriel: I stayed in L.A. and it was sunny the entir e weekend. We spent most of the time at home, but we did go see King Kong on Ch ristmas day. 
+
+James: How did you like it? 
+
+Muriel: It was better than I expected. But, you kno w, I think I would have enjoyed skiing in Tahoe even better. Do you go there often?  
+
+James: No, not much. My wife doesn't like to ski. S he prefers vacationing where it's warmer, like Hawaii. 
+
+Muriel: I don't blame her. I really enjoyed it ther e when we went a few years ago. I'd like to go back sometime soon. 
+
+James: Yes, me too. Oh, here's Susan now. Let me in troduce you. 
+
+[end of dialogue] 
+
+We’re talking about small talk and in this dialogue , we began by one of the people, James, saying to a woman, “Hello, are you M uriel Douglas?” He obviously doesn’t know her and doesn’t know what sh e looks like, so he asked “Are you Muriel Douglas?” and she says, “Yes, you m ust be James.” The expression “you must be” is used when you don’t kno w someone. You don’t know what they look like, but the situation, the ci rcumstances, tell you that that person is probably the one you are looking for. So,  we use that expression especially when we’re meeting someone new and we do n’t know what they look like. But it’s obvious from the situation that they  are that person. 
+
+Well, Muriel says, “It’s nice to meet you” to James . “It’s nice to meet you at long last.” “At long last,” (last) means after such a lo ng time – after a very long time. So perhaps, here, they talked on the phone for many  weeks and at long last, they met each other in this meeting. James says that he thanks Muriel for meeting with him and says that his “associate,” Susan Kim, should be here any minute. An “associate” (associate) is someone that you work  with. So, someone else in your company or your organization is your associate . And the expression “should be here any minute” is what we would say when you a re waiting for someone at a meeting who isn’t there yet, but you expect that they will be there very soon. So, that’s what James is saying. “She should be her e any minute,” meaning very short time.  
+
+Muriel asked if James had a nice holiday. “Did you have a nice holiday?” – meaning did you have a good time in your holiday, s uch as Christmas or New Year’s or Hanukkah. James says he did, that he went  to “Tahoe” to ski. “Tahoe” (Tahoe) is a famous skiing place here in California  – in northern California. And then he says to her, “How about you?” – meaning did  you have a good holiday. “How about you?” – that’s an expression you can use  after someone asks about what you did, then you would say “Well, how about y ou?” – tell me about what you did.  
+
+Well, Muriel says she stayed home and they watched King Kong on Christmas day –they went to a movie. And James asks, “How did  you like it?” Again, we’re talking here about informal conversation, and so, n otice the topics that they are talking about – vacations, movies – those are good topics that Americans will talk  
+
+about with someone that they don’t know very well. They won’t talk about religion, or politics or anything controversial – a nything that may cause problems. So, James asks Muriel, “How did you like it?” – mea ning how did you like the movie, did you like it. Tell me your opinion, how d id you like it. So, if you’re asking someone – you see someone reading a book and  you want to know if they like it and why, you would say, “How did you l ike it?” or “How do you like it?” if they’re still reading it. Muriel says, “It was b etter than I expected.” “It was better than I expected,” meaning before the movie, I didn’ t think it would be very good, but after I saw the movie, then I thought, “Oh, it’ s better than I thought it was going to be.”  
+
+She says, “but you know, I think I would have enjoy ed skiing in Tahoe even better,” meaning she would rather have gone skiing.  Notice the very common use of the word “you know.” “You know” is a conversatio n filler – we would say, in English – (filler). We use that expression “you kno w” a lot. Young people sometimes use it too much. But it’s often used when  there’s a pause in the conversation. And you want to fill it with somethin g or you want to make sure that the person is listening to you. And so, when you sa y “you know” it gets their attention. And that’s another use of “you know.” An d here in the dialogue, Muriel says, “But you know, I think I would’ve enjoyed ski ing in Tahoe,” meaning now that I think about it – “you know,” meaning she’s c onsidering it. She’s thinking about it even more.  
+
+Well, James says, or rather, is asked by Muriel, “D o you go to Tahoe often?” and James says, “Not much,” meaning no, he doesn’t go v ery much. He prefers to go to Hawaii. And Muriel says – Hawaii, of course, is the beautiful island. It’s also pronounced, more commonly here in the United States  – “Hawaii” – “Hawaii.” But in the island of “Hawaii,” they pronounce the “W” –  Hawaii is spelled (Hawaii) – in the island itself, the people who live there call i t “Havaii,” where the “W” becomes like a “V.” James tells Muriel that his wife prefer s to go to a warm place like Hawaii and Muriel says, “I don’t blame her.” “I don ’t blame her” means I understand. I agree with her. I would do the same, the same thing. “To blame someone” (blame) means to say that they are wrong, to say that they have made a mistake. But here, she’s agreeing with James’ wif e – “I don’t blame her,” meaning I agree with her. Finally, at the end of th e conversation, Susan, his associate arrives and they stop with their small ta lk. Because now, all three of the people are there for the meeting. Now they can go i nto their regular meeting and he says at the end – James says at the end of the d ialogue, “Let me introduce you,” meaning let me introduce you to Susan Kim. 
+
+Now let’s listen to the dialogue this time at a nat ive rate of speech. 
+
+[start of dialogue] 
+
+James: Hello, are you Muriel Douglas? 
+
+Muriel: Yes, and you must be James. It's nice to me et you at long last.  
+
+James: Yes, you too. Thanks for agreeing to meet wi th us about the new account. My associate, Susan Kim, should be here an y minute. Would you like something to drink while we're waiting? 
+
+Muriel: No, thanks. I'm fine. Did you have a nice h oliday? 
+
+James: Yes, I did. My family and I went to Tahoe to  ski and the weather was great. How about you?  
+
+Muriel: I stayed in L.A. and it was sunny the entir e weekend. We spent most of the time at home, but we did go see King Kong on Ch ristmas day. 
+
+James: How did you like it? 
+
+Muriel: It was better than I expected. But, you kno w, I think I would have enjoyed skiing in Tahoe even better. Do you go there often?  
+
+James: No, not much. My wife doesn't like to ski. S he prefers vacationing where it's warmer, like Hawaii. 
+
+Muriel: I don't blame her. I really enjoyed it ther e when we went a few years ago. I'd like to go back sometime soon. 
+
+James: Yes, me too. Oh, here's Susan now. Let me in troduce you. 
+
+[end of dialogue] 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. We’ll see you next time on ESL Podcast. 
+
+ESL Podcast is a production of the Center for Educa tional Development in Los Angeles, California. This podcast is copyright 2005 . No part of this podcast may be sold or redistributed without the expressed writ ten permission of the Center for Educational Development.
+

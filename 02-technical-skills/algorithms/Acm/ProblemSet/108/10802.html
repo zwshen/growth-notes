@@ -1,0 +1,119 @@
+<html>
+<head>
+    <title>Lex Smallest Drive</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem ?</B></FONT><BR>
+<FONT SIZE="5"><B>Lex Smallest Drive</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 2 seconds</FONT>
+</CENTER>
+</P>
+
+<p align="right">
+<table border=0><tr><td><small>
+<i>"OK. Let's go right."</i>
+</td></tr></table>
+<tt>Bartholomew Furrow</tt>
+</small></p>
+
+<P CLASS="paragraph">
+A <i>graph</i>, G, consists of a finite set of <i>vertices</i>, V, and 
+a set of <i>edges</i>, E, where each edge is a set of 2 vertices {u, v}. 
+A <i>walk</i> in G is a finite sequence of vertices 
+(v<sub>1</sub>, v<sub>2</sub>, ..., v<sub>k</sub>), such that for
+each pair (v<sub>i-1</sub>, v<sub>i</sub>) for i in [2, k], 
+{v<sub>i-1</sub>, v<sub>i</sub>} is in E. This is called a "walk
+from v<sub>1</sub> to v<sub>k</sub>". If V is a set of integers,
+then any two walks in G can be compared lexicographically; for
+example, the walk (3, 5, 6, 2, 8) is smaller than the walk 
+(3, 5, 6, 5, 7). A walk, W, from a to b is <i>lexicographically 
+smallest</i> if there is no other walk from a to b in G that is smaller 
+than W. A <i>drive</i> is a walk 
+(v<sub>1</sub>, v<sub>2</sub>, ..., v<sub>k</sub>), where no edge is
+used twice consecutively. That is, for all i from 2 up to k-1, 
+v<sub>i-1</sub> is not equal to v<sub>i+1</sub>.
+</P>
+
+<P CLASS="paragraph">
+Given G and a start vertex, <b>s</b>, your task is to find the 
+lexicographically smallest drives from <b>s</b> to each vertex in G.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The first line of input gives the number of cases, <b>N</b>.
+<b>N</b> test cases follow. Each one starts with a line containing
+the integers <b>n</b>, <b>m</b> and <b>s</b>.
+(0 &lt;= <b>n</b> &lt;= 100, 0 &lt;= <b>m</b> &lt;= 4950).
+The next <b>m</b> lines will list the edges of G. V is the set {0, 1,
+..., <b>n</b>-1}. <b>s</b> is in V.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+For each test case, output the line "Case #<b>x</b>:", where <b>x</b> is the
+number of the test case. Then print <b>n</b> lines, line i listing the
+lexicographically smallest drive from <b>s</b> to i using single spaces to
+separate consecutive vertices. If there is no such drive, print "No drive."
+Put an empty line after each test case.
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+2
+6 4 5
+5 0
+2 5
+4 0
+3 1
+4 4 0
+0 1
+1 2
+0 2
+0 3
+</PRE>
+</TD>
+<TD>
+<PRE>
+Case #1:
+5 0
+No drive.
+5 2
+No drive.
+5 0 4
+5
+
+Case #2:
+0
+0 1
+0 1 2
+No drive.
+
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+<HR>
+<B>Problemsetter: Igor Naverniouk</B><br>
+<B>Alternate solutions: Yury Kholondyrev, Bartholomew Furrow</B>
+</P>
+
+</td></tr></table>
+</body>
+</html>

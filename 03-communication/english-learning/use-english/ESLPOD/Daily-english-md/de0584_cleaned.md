@@ -1,0 +1,106 @@
+# Calling in Sick to Work
+
+Welcome to English as a Second Language Podcast number 5 84: Calling in Sick to Work. 
+
+This is English as a Second Language Podcast episode 584.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Go to our website at eslpod.com to download a Learning  Guide for this episode, it will help you improve your English even faster. 
+
+This episode is called “Calling in Sick to Work.”  It’s a dialogue between Peter and Magda about what happens when someone decides they are too sick to go to work.  Let’s get started. 
+
+[start of dialogue] 
+
+I was fed up with work and wanted the day off.  I decid ed to call in sick.  I wasn’t prepared, though, to be peppered with questions. 
+
+Peter:  Hello, this is Peter.  Is this Magda? 
+
+Magda:  Yes.  This is Magda. 
+
+Peter:  Hi, Magda.  I won’t be coming in today.  I’m  not feeling well.  I think I’ve come down with something. 
+
+Magda:  Hmm, what seems to be the problem? 
+
+Peter:  The problem?  Oh…I’ve been up all night throw ing up and I feel terrible. 
+
+Magda:  Didn’t you have something like this two weeks ago when you called in sick? 
+
+Peter:  Two weeks ago?  No, I had food poisoning two w eeks ago.   
+
+Magda:  And what about a month ago when you called i n sick?   
+
+Peter:  That was a 24-hour bug. 
+
+ Magda:  Didn’t you just take a day off from work because o f a death in the family? 
+
+Peter:  Yes, I had to go to the funeral. 
+
+Magda:  I see.  That’s one day off from work a week, fo ur weeks in a row.  [long silence] 
+
+Peter:  Uh, I’ll be in within the hour. 
+
+Magda:  I’m glad you’ve had a miraculous recovery.   
+
+[end of dialogue] 
+
+Peter begins our dialogue by saying that he was fed (fed ) up with work and wanted the day off.  “To be fed up” means to be very fr ustrated with something, to be very tired of doing something.  “I am fed up wi th this TV show, I don’t want to watch it anymore.”  I’m tired of it; I don’t want  to see it again.  It’s used to express extreme frustration – very frustrated.  Well, Peter  wants to have the day off, meaning he doesn’t want to work today – who does?  So, he says he decides to call in sick.  “To call in sick” means to call your boss – your supervisor – and let him or her know that you are ill, you’re sick.  Oh , you can’t go into work because you don’t feel well.  It always helps to sound very sick when you call in sick.  Peter says, “I wasn’t prepared, though, to be peppe red with questions.” “To be peppered (peppered) with questions” means to b e asked many, many questions, usually in a very short period of time – one q uestion, then another question, then another question. 
+
+Peter calls up and he says, “Hello, this is Peter.  Is thi s Magda?” and Magda says, “Yes.  This is Magda.”  Peter says, “Hi, Magda.  I won ’t be coming in today.”  “To come in” means to go to a particular pla ce where they are expecting you, usually work.  “Is John coming in today?” meaning is h e going to be here to work – is he coming to the office?  Peter says he won’t b e coming in today, “I’m not feeling well,” he says.  When someone says they “don’ t feel well” they mean they’re sick.  Perhaps they have a cold; perhaps they have a f lu or some other illness.  He says, “I think I’ve come down with something.”   “To come down with something” is a phrasal verb that usually means to catch a co ld.  You start sneezing, your head hurts; maybe you are running a tempe rature, meaning that the heat of your body is too high.  It can generally mea n, however, to become sick, but usually sick with either a cold or a flu, not too serious.  There’s actually a  
+
+ couple meaning of this verb, “to come.”  Take a look at o ur Learning Guide for some additional explanations. 
+
+So, Peter is coming down with something; it’s a nice th ing to say if you don’t want to be too specific about what your illness is.  Magda says , “Hmm, what seems to be the problem?”  What is wrong with you specifically?  Peter says, “The problem?”  Of course, he’s not prepared to answer medi cal questions from his boss.  He says, “Oh…I’ve been up all night throwing up and  I feel terrible.”  “To be up all night” means to be awake all night.  What has he been awake doing? He’s been awake throwing up.  “To throw up” is a two-w ord phrasal verb meaning to vomit (vomit), where the contents of your stomach come  out and go out your mouth.  I think you understand what I’m saying – not a very pleasant thing!   
+
+Peter says he feels terrible; he feels very, very sick.  Magda  says, “Didn’t you have something like this two weeks ago when you called in si ck?”  She’s reminding Peter that he was sick only two weeks ago with a  similar illness. Obviously, she doesn’t believe Peter.  Peter says, “Two we eks ago?  No, I had food poisoning two weeks ago.”  So, Peter is saying that he had a different illness two weeks ago; he had food poisoning.  “Food poisoning”  is when you eat some food that is bad that makes you sick; that’s food poisoning.    
+
+Magda says, “And what about a month ago when you called  in sick?”  Four weeks ago Peter was also sick.  Peter says, “That was a 24-hou r bug” (bug).  A “24-hour bug” is an illness that is not very serious that u sually only lasts for a day or so.  Again, we’re typically referring to a cold or a  flu; flu is probably more likely. A flu bug usually means that your stomach is upset, you have a headache, and so forth. 
+
+Magda says, “Didn’t you just take a day off from work be cause of a death in the family?”  Magda’s asking Peter if he took a day off from work – meaning a day he did not go into work, usually because you are sick or you ha ve some other important appointment – because of a death in the fa mily.  “A death in the family,” as you probably can guess, means when someone close t o you in your family dies: your uncle, your aunt, your grandmother.  T here’s sort of a weird joke in schools if you’re a teacher or a student, the student who doesn’t want to go to school will say that they went to their grandmother’s fun eral, and sometimes they use this excuse more than twice.  So it’s sometimes not the best one to use, especially if your grandmothers have already died two or t hree times! 
+
+Peter says, “Yes, I had to go to the funeral.”  “The fu neral” (funeral) is a ceremony – an event that happens when someone dies befor e their body is put  
+
+ into the ground.  Peter is saying that he had to go t o this funeral.  Magda says, “I see (I understand).  That’s one day off from work a week,  four times in a row.” “In a row” (row) means one after the other, consecutivel y, without any breaks or gaps.  If the Boston Red Sox win the World Series in ba seball – the big championship – this year, next year, and the year after t hat, we would say they won three years in a row.  I hope they don’t, but in ca se they do, that’s what we would say.  “Row” has a couple of different meanings in English however; you know where to find those, in our Learning Guide. 
+
+Well, Magda obviously isn’t very happy with Peter.  He kn ows that she doesn’t believe him, so Peter says, “Uh, I will be in within t he hour,” meaning in less than an hour.  Magda jokes with him somewhat, and says, “I’m g lad you’ve had a miraculous recovery.”  “Recovery” is when you get better fro m something; “miraculous” is something that is a miracle, something tha t is impossible physically.  Of course, Magda is joking here about the mira culous recovery that Peter had.   
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+I was fed up with work and wanted the day off.  I decid ed to call in sick.  I wasn’t prepared, though, to be peppered with questions. 
+
+Peter:  Hello, this is Peter.  Is this Magda? 
+
+Magda:  Yes.  This is Magda. 
+
+Peter:  Hi, Magda.  I won’t be coming in today.  I’m  not feeling well.  I think I’ve come down with something. 
+
+Magda:  Hmm, what seems to be the problem? 
+
+Peter:  The problem?  Oh…I’ve been up all night throw ing up and I feel terrible. 
+
+Magda:  Didn’t you have something like this two weeks ago when you called in sick? 
+
+Peter:  Two weeks ago?  No, I had food poisoning two w eeks ago.   
+
+Magda:  And what about a month ago when you called i n sick?    
+
+ Peter:  That was a 24-hour bug. 
+
+Magda:  Didn’t you just take a day off from work because o f a death in the family? 
+
+Peter:  Yes, I had to go to the funeral. 
+
+Magda:  I see.  That’s one day off from work a week, fo ur weeks in a row.  [long silence] 
+
+Peter:  Uh, I’ll be in within the hour. 
+
+Magda:  I’m glad you’ve had a miraculous recovery.   
+
+[end of dialogue] 
+
+Good thing our scriptwriter didn’t call in sick today!  That would be the wonderful Dr. Lucy Tse.  Thank you, Lucy.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+

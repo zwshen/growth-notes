@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Calculator Language</TITLE>
+<META NAME="description" CONTENT="Calculator Language">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Calculator Language</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Calculator Language (CL) supports assignment, positive and negative
+integers and simple arithmetic. The allowable characters in a CL
+statement are thus:
+<P>
+<P>
+<P> <IMG WIDTH=240 HEIGHT=189 ALIGN=BOTTOM ALT="tabular20" SRC="172img1.gif"  > <P>
+<P>
+<P>
+All operators have the same precedence and are right associative, thus
+15 - 8 - 3 = 15 - (8 - 3) = 10. As one would expect, brackets will
+force the expression within them to be evaluated first. Brackets may
+be nested arbitrarily deeply. An expression never has two operators
+next to each other (even if separated by a bracket), an assignment
+operator is always immediately preceded by a variable and the leftmost
+operator on a line is always an assignment. For readability, spaces
+may be freely inserted into an expression, except between a negative
+sign and a number. A negative sign will not appear before a variable.
+All variables are initialised to zero (0) and retain their values
+until changed explicitly.
+<P>
+<P>
+Write a program that will accept and evaluate expressions written in
+this language. Each expression occupies one line and contains at least
+one assignment operator, and maybe more.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Input will consist of a series of lines, each line containing a
+correct CL expression. No line will be longer than 100 characters. The
+file will be terminated by a line consisting of a single <TT>#</TT>.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+Output will consist of a series of lines, one for each line of the
+input. Each line will consist of a list of the final values of all
+variables whose value changes as a result of the evaluation of that
+expression. If more than one variable changes value, they should be
+listed in alphabetical order, separated by commas. If a variable
+changes value more than once in an expression, only the final value is
+output. A variable is said to change value if its value after the
+expression has been evaluated is different from its value before the
+expression was evaluated. If no variables change value, then print the
+message `<TT>No Change</TT>'. Follow the format shown below exactly.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>A = B = 4
+C = (D = 2)*_2
+C = D = 2 * _2
+F = C - D
+E = D * _10
+Z = 10 / 3
+#</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>A = 4, B = 4
+C = -4, D = 2
+D = -4
+No Change
+E = 40
+Z = 3</PRE>
+<P>
+</BODY>
+</HTML>

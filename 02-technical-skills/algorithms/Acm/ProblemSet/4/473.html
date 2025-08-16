@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Raucous Rockers</TITLE>
+<META NAME="description" CONTENT="Raucous Rockers">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Raucous Rockers</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+You just inherited the rights to <I>n</I> previously unreleased songs recorded by the popular group Raucous Rockers.
+You plan to release a set of <I>m</I> compact disks with a selection
+of these songs.
+Each disk can hold a maximum of <I>t</I> minutes of music, and a song can not overlap from one disk
+to another.
+Since you are a classical music fan and have no way to judge the artistic
+merits of these songs, you decide on the following criteria for making the selection:
+<OL><LI> The  songs will be recorded on the set of disks in the order of the dates they were written.<LI>
+The total number of songs included will be maximized.
+</OL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input consists of several datasets. The first line of the input indicates the number of datasets, then there is a blank line and the datasets separated by a blank line. Each dataset consists of a line containing the values of <I>n</I>, <I>t</I> and <I>m</I>
+(integer numbers) followed by a line containing a list of the length of <I>n</I> songs,  <IMG WIDTH=81 HEIGHT=23 ALIGN=MIDDLE ALT="tex2html_wrap_inline43" SRC="473img1.gif"  >  ordered by
+the date they were written (Each  <IMG WIDTH=11 HEIGHT=23 ALIGN=MIDDLE ALT="tex2html_wrap_inline45" SRC="473img2.gif"  >  is between 1 and t minutes long, both inclusive, and  <IMG WIDTH=119 HEIGHT=27 ALIGN=MIDDLE ALT="tex2html_wrap_inline49" SRC="473img3.gif"  > .)
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+<B>The output</B> for each dataset consists of one integer indicating the number of songs that, following the
+above selection criteria will fit on <I>m</I> disks. Print a blank line between consecutive datasets.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>
+2
+
+10 5 3
+3, 5, 1, 2, 3, 5, 4, 1, 1, 5
+
+1 1 1
+1
+</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>
+6
+
+1
+</PRE>
+<P>
+</BODY>
+</HTML>

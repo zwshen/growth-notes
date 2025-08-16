@@ -1,0 +1,171 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Introspective Caching</TITLE>
+<META NAME="description" CONTENT="Introspective Caching">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Introspective Caching</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p115xx.eps}$
+ -->
+<IMG
+ WIDTH="250" HEIGHT="250" ALIGN="right" BORDER="0"
+ SRC="p11563.jpg"
+ ALT="\epsfbox{p115xx.eps}">
+<tex2html_verbatim_mark>
+</DIV>
+
+<P>
+In a distributed system, data is never where you need it, and fetching data
+over a network takes time and consumes bandwidth. The problem can be mitigated
+by adding a cache, where a node stores some resources locally and if those
+resources need to be used again, it can simply take them from its cache rather
+than asking someone else for them.
+
+<P>
+However, caches have a nasty tendency to fill up, so at some point, objects
+must be evicted from the cache to make room for new objects. Choosing what
+object to remove from the cache is not easy and there are several different
+algorithms to choose from.
+
+<P>
+The marvelous Apes in Computing Machinery have come up with a fantastic new
+algorithm, the Introspective Caching Algorithm, named after a city of Peru. It
+consists of some extra hardware (a very small, precognitive monkey) which
+helps making decisions. Since the monkey can see into the future, she knows
+exactly what objects will be accessed and in what order, and using this
+information she will make optimal decisions on what objects to remove from the
+cache. Optimality here means that she will minimize the number of times an
+object is read into the cache.
+
+<P>
+All object accesses go through the cache, so every time an object is accessed,
+it must be inserted into the cache if it was not already there. All objects
+are of equal size, and no writes occur in the system, so a cached object is
+always valid. When the system starts, the cache is empty.
+
+<P>
+You have been tasked with evaluating the monkey's performance, and feeding her
+the occasional banana.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains several test cases, each of them    as described below.
+
+<P>
+The first line of input contains three integers, separated by single spaces,
+telling you how many objects fit in the cache, <!-- MATH
+ $0 < c \le 10000$
+ -->
+<SPAN CLASS="MATH">0 &lt; <I>c</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11563img2.png"
+ ALT="$ \le$">10000</SPAN>
+<tex2html_verbatim_mark>, how many
+different objects are in the system, <!-- MATH
+ $c \le n \le 100000$
+ -->
+<SPAN CLASS="MATH"><I>c</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11563img2.png"
+ ALT="$ \le$"><I>n</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11563img2.png"
+ ALT="$ \le$">100000</SPAN>
+<tex2html_verbatim_mark>, and how many
+accesses, <!-- MATH
+ $0 \le a \le 100000$
+ -->
+<SPAN CLASS="MATH">0<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11563img2.png"
+ ALT="$ \le$"><I>a</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11563img2.png"
+ ALT="$ \le$">100000</SPAN>
+<tex2html_verbatim_mark>, will occur.  The following <SPAN CLASS="MATH"><I>a</I></SPAN>
+<tex2html_verbatim_mark> lines contain a
+single integer between <SPAN CLASS="MATH">0</SPAN>
+<tex2html_verbatim_mark> and <SPAN CLASS="MATH"><I>n</I> - 1</SPAN>
+<tex2html_verbatim_mark> (inclusive) indicating what object is
+accessed. The first line corresponds to the first object accessed access and
+the last line to the last.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case, write to the output the least number of times an object must be read into the cache to
+handle the accesses listed in the input, on a line by itself.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1 2 3
+0
+0
+1
+3 4 8
+0
+1
+2
+3
+3
+2
+1
+0
+</PRE> 
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2
+5
+</PRE> 
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Rational Spiral</TITLE>
+<META NAME="description" CONTENT="Rational Spiral">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Rational Spiral</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Rational numbers can be expressed as the division of two integers. They are also countable. This means that
+an order can be placed on them just like the natural numbers. But this ordering is not obvious, and is not
+unique. Here is one way to do it: imagine a plane where the <I>X</I>-axis represents the denominator of a rational
+number and the <I>Y</I>-axis represents the numerator. Starting at the origin, spiral clockwise away from it. Each
+integer pair that you encounter will represent a rational number. See the figure below.
+<P>
+<center><img src=493img2.gif></center>
+<P>
+The first rational number that you will encounter is <IMG WIDTH=7 HEIGHT=29 ALIGN=MIDDLE ALT="tex2html_wrap_inline295" SRC="493img4.gif"  > . But wait,
+this is not a rational number! Therefore, this pair must be skipped.
+Each time that you pass the <I>Y</I>-axis, the denominator will be 0, which
+generates an illegal rational number. You will have to skip all of these.
+<P>
+You will also encounter many repeats. For example 
+<IMG WIDTH=18 HEIGHT=31 ALIGN=MIDDLE ALT="tex2html_wrap_inline297" SRC="493img5.gif"  > is the same number as <IMG WIDTH=18 HEIGHT=31 ALIGN=MIDDLE ALT="tex2html_wrap_inline299" SRC="493img6.gif"  >  . Only count the first
+occurance of rational numbers in the spiral. Also be aware that numbers can be reduced, which can also cause
+repeats. For example <IMG WIDTH=7 HEIGHT=29 ALIGN=MIDDLE ALT="tex2html_wrap_inline303" SRC="493img7.gif"  >   reduces to <IMG WIDTH=7 HEIGHT=31 ALIGN=MIDDLE ALT="tex2html_wrap_inline305" SRC="493img8.gif"  >  , so it is a repeat.
+Be sure to skip all these too.
+<P>
+Given these rules, you can generate an ordered listing of all the rational numbers which does not skip or
+repeat. Amazing, isn't it?
+<P>
+<P>
+Your mission, should you choose to accept it, is to order the rational numbers.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+There will be several lines
+of input. Each line of input will have a single integer which represents which rational number to output. For
+example, if a line of input is 4 then print out the 4<I>th</I> rational number. <B>Important</B>, the list starts with the
+<EM>zeroth</EM> element.
+<P>
+<P>
+For each line of input, print out the rational number in this form: numerator, followed by a space, followed
+by a forward slash, followed by a space, followed by the denominator.
+<P>
+<P>
+<B>Note:</B> if the rational number is
+negative, the minus sign must be printed with the numerator. For example, do not print out <TT>4 / -1</TT> , print <TT>-4 / 1</TT>  even if you are at
+the (<TT>denominator == -1, numerator == 4</TT>) location on the spiral.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>0
+1
+2
+3
+10</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>1 / 1
+0 / 1
+-1 / 1
+-2 / 1
+3 / 2</PRE>
+<P>
+</BODY>
+</HTML>

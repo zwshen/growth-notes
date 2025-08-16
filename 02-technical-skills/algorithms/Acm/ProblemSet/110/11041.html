@@ -1,0 +1,162 @@
+
+<!--Converted with LaTeX2HTML 2008 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Quarter-Finals with Brazil!? No!!!</TITLE>
+<META NAME="description" CONTENT="Quarter-Finals with Brazil!? No!!!">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Quarter-Finals with Brazil!? No!!!</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The FIFA World Cup of Germany 2006 is just going to start!
+This time, Spain cannot fail! We have to win the cup, even though
+we meet Brazil in quarter-finals <SPAN CLASS="MATH">...</SPAN> Now, seriously, everybody
+knows the ``Canarinha" (Brazilian national football
+team) is the best team. But still we can play with statistics and
+probabilities. For example, the German organizers (that are not
+so good as Brazil but very clever people) have arranged the
+competition so that eventually Germany and Brazil could only
+meet in the final. Very clever, indeed.
+
+<P>
+In this problem you will have to organize a Football World
+Cup, maximizing the probability that our team wins the cup.
+
+<P>
+
+<P><P>
+<BR>
+<SPAN CLASS="MATH">2<SUP>N</SUP></SPAN> teams participate in a cup competition
+with <SPAN CLASS="MATH"><I>N</I></SPAN> rounds. The teams are denoted by <TT>A</TT>, <TT>B</TT>, <TT>C</TT>, <TT>D</TT>, etc.
+An arrangement of the competition is given by a string, e.g.
+``<TT>ABCD</TT>", ``<TT>BDAC</TT>" or ``<TT>BA</TT>". For
+example, the string ``<TT>ABCDEFGH</TT>" means that in first
+round the matches are (<TT>A</TT> vs. <TT>B</TT>), (<TT>C</TT> vs. <TT>D</TT>), (<TT>E</TT> vs. <TT>F</TT>), <SPAN CLASS="MATH">...</SPAN>, in
+the second round (winner(<TT>A</TT>,<TT>B</TT>) vs. winner(<TT>C</TT>,<TT>D</TT>)), and so on.
+
+<P>
+We have scored all the teams with integer positive numbers,
+<SPAN CLASS="MATH"><I>s</I>(<I>x</I>)</SPAN>; the greater the better. For each pair of teams, <TT>A</TT> and <TT>B</TT>, we
+assume the probability that <TT>A</TT> beats <TT>B</TT> is given by the following: <!-- MATH
+ $P(A \mbox{ wins } B)=
+s(A)/(s(A)+s(B))$
+ -->
+<SPAN CLASS="MATH"><I>P</I>(<I>A</I> wins <I>B</I>) = <I>s</I>(<I>A</I>)/(<I>s</I>(<I>A</I>) + <I>s</I>(<I>B</I>))</SPAN>
+
+<P>
+Using this basic probability, we can compute the probability
+that <TT>A</TT> wins one round, two rounds, three rounds, and eventually
+the probability to win the cup. For example, for the arrangement
+``<TT>ABCD</TT>" the probability that A wins the cup is:
+
+<P>
+
+<P>
+<BR>
+<!-- MATH
+ $P(A \mbox{ wins } ``ABCD")= P(A \mbox{ wins } B) \ast (P(A \mbox{ wins } C) \ast P(C \mbox{ wins } D) + P(A \mbox{ wins } D) \ast P(D \mbox{ wins } C))$
+ -->
+<SPAN CLASS="MATH"><I>P</I>(<I>A</I> wins ``<I>ABCD</I>") = <I>P</I>(<I>A</I> wins <I>B</I>) <TT>*</TT> (<I>P</I>(<I>A</I> wins <I>C</I>) <TT>*</TT> <I>P</I>(<I>C</I> wins <I>D</I>) + <I>P</I>(<I>A</I> wins <I>D</I>) <TT>*</TT> <I>P</I>(<I>D</I> wins <I>C</I>))</SPAN>
+
+<P>
+
+<P>
+<BR>
+You have to compute the arrangement that maximizes the
+probability that our team wins the cup. If more than one
+arrangement is possible, you have to give the alphabetically first one.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of the input contains an integer <SPAN CLASS="MATH"><I>M</I></SPAN>,
+indicating the number of test cases.
+
+<P>
+For each test case, the first line contains an integer <SPAN CLASS="MATH"><I>N</I></SPAN>, between 1 and 5, indicating the number of rounds in the
+competition. The second line contains a single character,
+indicating the letter of our team. Then, we have a line with <SPAN CLASS="MATH">2<SUP>N</SUP></SPAN>
+integers indicating the scores of the teams, starting with A,
+that is: <SPAN CLASS="MATH"><I>s</I></SPAN>(<TT>A</TT>), <SPAN CLASS="MATH"><I>s</I></SPAN>(<TT>B</TT>), <SPAN CLASS="MATH"><I>s</I></SPAN>(<TT>C</TT>), and so on. In the case <SPAN CLASS="MATH"><I>N</I> = 5</SPAN>,
+lowercase letters are used to denote the teams form 27 to 32; and
+those letters are considered to be alphabetically greater than
+uppercase letters. That is, the teams in order are: <TT>A, B, C, D,
+E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z,
+a, b, c, d, e, f</TT>.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case, the output should consist of a string with
+<SPAN CLASS="MATH">2<SUP>N</SUP></SPAN> characters, representing the desired
+arrangement. Remember that you have to output the alphabetically
+first possibility, if the solution is not unique.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE> 
+3
+2
+A
+7 3 1 9
+2
+C
+44 44 44 44
+3
+E
+8 9 8 9 7 8 9 8
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE> 
+ACBD
+ABCD
+ABDGCEFH
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

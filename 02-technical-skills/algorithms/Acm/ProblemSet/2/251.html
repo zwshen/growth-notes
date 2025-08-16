@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Nondeterministic Trellis Automata</TITLE>
+<META NAME="description" CONTENT="Nondeterministic Trellis Automata">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Nondeterministic Trellis Automata</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+A nondeterministic trellis automaton (NTA) is a kind of parallel machine
+composed of identical finite-state processors arranged in an infinite
+triangular trellis. The top, or apex, of the triangle is a single processor.
+The next row has two processors and each successive row of an NTA has one
+more processor than the row above it. Each processor in an NTA is connected
+to two children in the row below it. Computation in an NTA occurs bottom up;
+the state of each processor in a row is based on the state of the
+processor's children and a transition table. The input to an NTA is the
+initial configuration of one row of processors. The input is specified by a
+string that gives the initial state of each processor in a row so that an
+<I>n</I>-character string specifies the initial configuration for a row of <I>n</I>
+processors. Computation proceeds up the NTA to the apex by
+nondeterministically calculating the state of each processor in a row based
+on the transition table and the state of the processor's children in the row
+below.
+<P>
+<P>
+Some states are identified as accepting states. Some transitions are
+computed nondeterministically. An input is <I>accepted</I> if some computation puts
+the apex processor into an accepting state. An input is <I>rejected</I> if no
+computation puts the apex processor into an accepting state. For example,
+the table below shows transitions for a 3-state NTA. States are labeled by
+characters ``<TT>a</TT>&quot;, ``<TT>b</TT>&quot;, and ``<TT>c</TT>&quot;; the only accepting state is ``<TT>c</TT>&quot;.
+<P>
+<center><img src=251img2.gif></center>
+<P>
+The diagram below shows two computations for the input ``<TT>bba</TT>&quot;. The
+computation on the left rejects the input since the state of the apex is
+``<TT>a</TT>&quot;; but the computation on the right accepts the input since the state of
+the apex is ``<TT>c</TT>&quot;. Since some computation results in an accepting state for
+the apex, the input ``<TT>bba</TT>&quot; is accepted by the NTA. The input ``<TT>bbb</TT>&quot; would be
+rejected by this NTA since the only computation results in the state ``<TT>a</TT>&quot; for
+the apex.
+<P>
+<center><img src=251img3.gif></center>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The states (and inputs) of an NTA are consecutive lowercase letters. Thus
+the states for a 5-state NTA are ``<TT>a</TT>&quot;, ``<TT>b</TT>&quot;, ``<TT>c</TT>&quot;, ``<TT>d</TT>&quot;, and ``<TT>e</TT>&quot;. Accepting
+states are grouped at the end of the letters so that if a 5-state NTA has
+two accepting states, the accepting states are ``<TT>d</TT>&quot; and ``<TT>e</TT>&quot;.
+<P>
+<P>
+The input for your program is a sequence of NTA descriptions and initial
+configurations. An NTA description is given by the number of states <I>n</I>
+followed by the number of accepting states on one line separated by
+whitespace. The  <IMG WIDTH=41 HEIGHT=18 ALIGN=MIDDLE ALT="tex2html_wrap_inline59" SRC="251img1.gif"  >  transition table follows in row-major order; each
+transition string is given on a separate line. Each NTA description is
+followed by a sequence of initial configurations, one per line. A line of
+``<TT>#</TT>&quot; terminates the sequence of initial configurations for that NTA. An NTA
+description in which the number of states is zero terminates the input for
+your program.
+<P>
+<P>
+NTAs will have at most 15 states, initial configuration will be at most 15
+characters.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each NTA description, print the number of the NTA (NTA 1, NTA 2, etc. ).
+For each initial configuration of an NTA print the word ``accept&quot; or ``reject&quot;
+followed by a copy of the initial configuration. Print a blank line between NTA descriptions.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>3 1
+a
+a
+c
+ca
+a
+b
+c
+b
+a
+bba
+aaaaa
+abab
+babbba
+a
+baaab
+abbbaba
+baba
+bcbab
+#
+3 2
+ab
+a
+c
+a
+ab
+b
+c
+b
+ab
+abc
+cbc
+#
+0 0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>NTA 1
+accept bba
+reject aaaaa
+reject abab
+accept babbba
+reject a
+accept baaab
+accept abbbaba
+accept baba
+reject bcbab
+
+NTA 2
+reject abc
+accept cbc</PRE>
+<P>
+</BODY>
+</HTML>

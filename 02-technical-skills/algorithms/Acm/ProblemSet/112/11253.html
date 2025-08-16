@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+<meta name="keywords" content="Tsinghua-HKUST Programming Contest 2007" />
+<meta name="author" content="Cho" />
+<title>Tsinghua-HKUST Programming Contest 2007: Problem A - Fractal</title>
+
+<style type="text/css">
+<!--
+body { font-family: "Times New Roman"; font-size: 12pt; }
+.io  { font-family: Courier New; font-size: 10pt }
+-->
+</style>
+</head>
+
+<body>
+<center><span style='font-size:24pt'>Problem A - Fractal</span></center>
+<br />
+<br />
+
+Define <i>r</i>(<i>s</i>) to be the complement of the reverse of the binary string <i>s</i>. i.e. Reverse <i>s</i> and then convert all 1's to 0's and all 0's to 1's. Further define a sequence of binary string as follow: <i>s</i><sub>0</sub> = 1 and <i>s</i><sub><i>n</i></sub> = <i>s</i><sub><i>n</i>-1</sub>1<i>r</i>(<i>s</i><sub><i>n</i>-1</sub>). i.e.<br />
+<i>s</i><sub>0</sub> = 1<br />
+<i>s</i><sub>1</sub> = 1<b>1</b>0<br />
+<i>s</i><sub>2</sub> = 110<b>1</b>100<br />
+<i>s</i><sub>3</sub> = 1101100<b>1</b>1100100<br />
+...<br />
+<br />
+We then program a robot to move at a steady speed of 1 unit per second and make a right-angle turn according to the characters of <i>s</i><sub>10</sub> after every unit of movement. At the <i>k</i><sup>th</sup> turn, the robot turns to left if the <i>k</i><sup>th</sup> character of <i>s</i><sub>10</sub> is a 1, and to right otherwise. The figure below shows the whole path of the robot.<br />
+<br />
+<center><img src="p11253.gif" alt="Path of s10" /></center><br />
+<br />
+The robot is placed at the origin (the small circle) and face east originally. It ends up at the coordinates (-32,32) (the small spot) after 2048 seconds. The path of the robot is known as a dragon curve, a pretty well-known pattern of fractal.<br />
+<br />
+If the robot is now programmed with input string <i>s</i><sub>30</sub> (with identical initial conditions as above), it will keep moving and then stop after 2<sup>31</sup> seconds. We want to know the location of the robot at any given time.<br />
+<br />
+
+<b>Input</b><br />
+Input consists of multiple problem instances. Each instance consists of a single non-negative integer <i>n</i>, where <i>n</i> <span style='font-size:10pt'>&le;</span> 10<sup>9</sup>. The input data is terminated by a negative integer. There will be less than 5000 test cases.<br />
+<br />
+
+<b>Output</b><br />
+For each input integer <i>n</i>, print out the location of the robot right after <i>n</i> second since the robot starts its journey with input string <i>s</i><sub>30</sub>. The location should be printed with the format &#8220;<span class="io">(x,y)</span>&#8221; in a single line.<br />
+<br />
+
+<b>Sample input</b><br />
+<div class="io">
+1<br />
+2<br />
+3<br />
+2048<br />
+1000000000<br />
+-1<br />
+</div>
+<br />
+
+<b>Sample output</b><br />
+<div class="io">
+(1,0)<br />
+(1,1)<br />
+(0,1)<br />
+(-32,32)<br />
+(9648,-31504)<br />
+</div>
+<br />
+
+<hr size="1" />
+Problem setter: Cho<br />
+Source: Tsinghua-HKUST Programming Contest 2007<br />
+
+</body>
+</html>

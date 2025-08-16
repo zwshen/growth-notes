@@ -1,0 +1,118 @@
+# Serving Drinks and Cocktails
+
+Welcome to English as a Second Language Podcast number 4 25: Serving Drinks and Cocktails. 
+
+This is English as a Second Language Podcast episode 425.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  On it you can find a Learning  Guide for this episode to help you improve your English even faster. 
+
+This episode is a dialogue between Spencer and Heidi t alking about making alcoholic, for the most part, drinks.  They’ll use a lot of common vocabulary, and talk about some specific kinds of popular drinks in the U. S.  Let’s get started. 
+
+[start of dialogue] 
+
+Spencer:  I’m practicing making drinks for the party tonig ht.  Do you want to try one? 
+
+Heidi:  You’re the bartender?  I didn’t know you knew how to mix drinks.   
+
+Spencer:  I can hold my own.  Okay, name it and I’ll ma ke it – any mixed drink or cocktail.   
+
+Heidi:  Okay, I’ll have a Screwdriver.   
+
+Spencer:  A Screwdriver?  Hmm…what’s in that? 
+
+Heidi:  Aren’t you supposed to know, Mr. Bartender? 
+
+Spencer:  I’ve never made one of those before, that’s al l.  Try something else. 
+
+Heidi:  How about a Bloody Mary? 
+
+Spencer:  A Bloody Mary, a Bloody Mary…do you want that on  the rocks?   
+
+Heidi:  Sure, that’ll be great.   
+
+Spencer:  Here you are – a Bloody Mary in a highball.  Enjoy!  
+
+ Heidi:  [Makes a gagging sound]  This doesn’t taste like a  Bloody Mary.  It tastes like you poured an entire bottle of alcohol into this. 
+
+Spencer:  Oh, come on.  It’s not that bad.  Here, I’ll  add a little soda, and oh, I forgot the garnish.   
+
+Heidi:  I don’t think that’s going to help.  Can I gi ve you some advice?  Stick to shots and drinks served straight up.   
+
+Spencer:  Ah, don’t lose faith in me.  Let me make you one more drink.   
+
+Heidi:  Okay, but make it virgin.  My mouth is still on fi re from the last one.   
+
+[end of dialogue] 
+
+Spencer begins our dialogue by telling Heidi “I’m pract icing making drinks for the party tonight.  Do you want to try one?”  Heidi asks, “Y ou’re the bartender?”  The “bartender” is the person whose job it is to make alcohol ic drinks at a party, or in a restaurant, or at a bar.  Heidi says, “I didn’t know yo u knew how to mix drinks.” “Mix drinks,” here, to make special, usually alcoholic, drin ks by mixing different kinds alcohol, soda, and, or perhaps, juice.  Sometimes we  refer those kind of drinks with the noun “mixed drinks.”  But here, it’s used as a verb meaning to make the drinks, to prepare the drinks.   
+
+Spencer says, “I can hold my own.”  To “hold your own” is a n expression that means to be able to do something just as well as other  people can do it.  “I can hold my own” – I’m as good as other people.  Spencer says,  “Okay, name it,” meaning tell me what kind of drink you want.  Both “to  hold your own” and “name it” have a couple of different meanings in English; ta ke a look at our Learning Guide for more information. 
+
+Spencer says, “I’ll make any mixed drink,” notice here it’s u sed as a noun: a mixed drink, “or cocktail.”  A “cocktail” (cocktail) is just ano ther name for a mixed drink; a mixed drink and cocktail are the same thing, peo ple use both names. 
+
+Heidi says, “Okay, I’ll have a Screwdriver.”  A “screwdriver” normally is a tool that you use with little pieces of metal called “screws.”  But h ere, it’s an alcoholic drink, a popular one, that is made vodka and orange ju ice.  Spencer says, “A Screwdriver?  Hmm…what’s in that?”  Well, Screwdriver is p robably the easiest drink you can make; almost everyone knows what a Screwdriver is, at least  
+
+ anyone who goes to bars and restaurants.  So, Spencer not  knowing is a good indication that he’s not very good. 
+
+Heidi says, “Aren’t you supposed to know, Mr. Bartender?”  – isn’t it your job to know?  Notice she calls him “Mr. Bartender.”  This is somet imes used as a joke when you call someone by their job or occupation, so you mi ght say to me, “Mr. Podcaster.”  It’s usually used sort of as a joke often whe n people say they know something but, in fact, they don’t. 
+
+Spencer says, “I’ve never made one of those (one of those Screwdrivers) before, that’s all.  Try something else.”  So Heidi gives him an other drink: “How about a Bloody Mary?”  A “Bloody Mary” is a drink made from vodka,  tomato juice, and usually some spices to give it a certain flavor.  But basical ly, vodka and tomato juice is a Bloody Mary, again, a very simple drink.   
+
+Spencer seems to know how to make it, and he asks Heidi if she wanted it on the rocks.  The expression “on the rocks” (rocks) means with ice.  W e use this expression when we are talking about beverages (drinks).  S ome people, for example, like to drink whisky, and they like the whisky to be poured onto some ice cubes in a glass.  That would be whisky on the rocks.  If  you don’t want ice in your drinks, you would tell the bartender you want it “ straight up.”  Straight up: “Give me a whisky straight up” – no ice, just the whisky. 
+
+Well, Spencer gives her the Bloody Mary on the rocks, and h e says, “Here you go” or “Here you are – a Bloody Mary in a highball.”  A “highball” is a type of glass, a tall glass that is often used for alcoholic beverag es.  In some parts of the country, a highball is a name of a drink.  It’s a drink w ith brandy or whisky mixed with either some sort of soda or water, but here it ju st means a glass. 
+
+Heidi says, “This doesn’t taste like a Bloody Mary.  It taste s like you poured (you put) an entire bottle of alcohol into this.”  Spencer says, “Oh, come on.”  That expression is used when you are telling somebody not to com plain, or to stop saying what they are saying because it’s wrong or it’s exagge rated.  He says, “Oh, come on.  It’s not that bad” – it’s not very bad o r as bad as you say.  He says, “Here, I’ll add a little soda.”  “Soda,” when you are talking about drinks, usually means “carbonated water,” that is water that ha s little bubbles in it.  If you’re not talking about alcoholic drinks, soda can refer t o what is called in some parts of the country “soda pop,” things like Coca-Cola or Pepsi.  In Minnesota, where I’m from, everyone just says “pop,” so you’ll say “C an I have a pop?” Whereas here in California, and in most other places, yo u would ask for a soda if  
+
+ you wanted, say, a Coca-Cola or something similar.  In m aking alcoholic drinks a soda, or what’s sometimes called “soda water,” is a carbona ted water. 
+
+Spencer says, “oh, I forgot the garnish.”  “Garnish” is som ething that’s used to decorate your plate of food or your drink.  It isn’t r eally part of the drink; it’s just something that’s supposed to make it look nice.   
+
+Heidi says, “I don’t think that’s going to help.”  She sa ys, “Can I give you some advice?  Stick to shots and drinks served straight up.”  A “sho t” is a small amount of alcohol.  There are actually little glasses which we cal l “shot glasses,” where you can pour alcohol into.  You can use it to measure th e alcohol, or you can just drink the alcohol right from the shot glass; these are cal led “shots.”  “Give me a shot of whisky.”  Sometimes especially younger people when t hey are in a bar and perhaps not experienced with drinking, or want to g et drunk, will “do shots,” that is they will drink a lot of shots of alcohol so they can get intoxicated.  This has never happened to me, but I’ve seen other people do  it.  The expression “stick to” something means do something that is very basic, or  do only this, continue doing that and don’t try to do anything more  complicated.  So, I do audio podcasts.  If I were to start doing video podcasts (with th e exception of our anniversary videos, of course), someone might say, “Jeff, you’r e not very good at that.  Stick to audio podcasts” – continue doing the simpl er thing because you don’t know enough to do the more complicated thing.  T hat’s what Heidi is saying to Spencer here. 
+
+Spencer says, “don’t lose faith in me,” meaning don’t st op having confidence in me, continue to believe in me.  “Don’t lose faith in m e.  Let me make you one more drink,” he says.  Heidi says, “Okay, but make it virgin.   My mouth is still on fire (is still hot) from the last one.”  A “virgin” dri nk is a drink without any alcohol, but it has all of the other ingredients.  So it looks l ike a regular drink but, in fact, there is no alcohol in the drink.  A “virgin,” here, me ans untouched.  The term, of course, also refers to a woman or a man who has never had  sexual relations. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Spencer:  I’m practicing making drinks for the party tonig ht.  Do you want to try one? 
+
+Heidi:  You’re the bartender?  I didn’t know you knew how to mix drinks.   
+
+ Spencer:  I can hold my own.  Okay, name it and I’ll ma ke it – any mixed drink or cocktail.   
+
+Heidi:  Okay, I’ll have a Screwdriver.   
+
+Spencer:  A Screwdriver?  Hmm…what’s in that? 
+
+Heidi:  Aren’t you supposed to know, Mr. Bartender? 
+
+Spencer:  I’ve never made one of those before, that’s al l.  Try something else. 
+
+Heidi:  How about a Bloody Mary? 
+
+Spencer:  A Bloody Mary, a Bloody Mary…do you want that on  the rocks?   
+
+Heidi:  Sure, that’ll be great.   
+
+Spencer:  Here you are – a Bloody Mary in a highball.  Enjoy! 
+
+Heidi:  [Makes a gagging sound]  This doesn’t taste like a  Bloody Mary.  It tastes like you poured an entire bottle of alcohol into this. 
+
+Spencer:  Oh, come on.  It’s not that bad.  Here, I’ll  add a little soda, and oh, I forgot the garnish.   
+
+Heidi:  I don’t think that’s going to help.  Can I gi ve you some advice?  Stick to shots and drinks served straight up.   
+
+Spencer:  Ah, don’t lose faith in me.  Let me make you one more drink.   
+
+Heidi:  Okay, but make it virgin.  My mouth is still on fi re from the last one.   
+
+[end of dialogue] 
+
+Our script today was written by someone who can hold her o wn here in Hollywood, Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+ English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  This podcast is copyright 2008 .
+

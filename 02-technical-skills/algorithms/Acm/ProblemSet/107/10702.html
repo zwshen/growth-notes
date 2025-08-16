@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+  <title>Problem G - Travelling Salesman</title>
+</head>
+<body>
+<h1 align="center">Problem G - Travelling Salesman</h1>
+<h3 align="center">Time Limit: 1 second</h3>
+<div>
+</div>
+<p>
+</p>
+ 	<p>
+  Jean is a travelling salesman. He keeps travelling among some cities. When he arrives
+  in a city, he sells everything he has and buy new things. Then he travels to another city,
+  sells his items and buy new ones.
+	</p>
+  <p>
+	In this problem you will have to find the total amount of money Jean will gain on the
+  optimal tour. On a tour he can go to some city more than once, and he must finish
+  his tour in some cities. Also there is a starting city for his tour and the number of
+  inter-city travels  he wants to do in his tour.
+  </p>
+  
+<h2>Input</h2>
+
+<p>
+	The input file contains several input sets. 
+	The description of each set is given below:
+</p>
+<p>
+    Each set starts with four integers
+    <b>C</b> (<b>2 &le; C &le; 100</b>), the number of cities, 
+    <b>S</b> (<b>1 &le; S &le; 100</b>), the identifier of the starting city,
+    <b>E</b> (<b>1 &le; E &le; 100</b>), the number of cities his tour can end at, and
+    <b>T</b> (<b>1 &le; T &le; 1000</b>), the number of inter-city travels he wants to do.
+</p>
+<p>
+ 
+		Follow <b>C</b> lines with <b>C</b> non-negative integers. 
+    The <b>j</b>'th integer of the <b>i</b>'th line will describe the profit
+    he earns when he goes from city <b>i</b> to city <b>j</b>.
+    As he does not want to make a trip to a city he is already, the <b>i</b>'th integer
+    of the <b>i</b>'th line will always be <b>0</b>. Note that going from city
+    <b>i</b> to city <b>j</b> can have a different profit than going from
+    city <b>j</b> to city <b>i</b>. <br>	
+</p>
+<p>
+		After there will be a line with <b>E</b> integers, the identifier of the cities he
+    can end his tour.
+</p>
+<p>
+    Input is terminated by a set where <b>C=S=E=T=0</b>. This set should 
+    not be processed. There is a blank line beteween two input sets.
+</p>
+
+<h2>Output</h2>
+
+<p>
+    For each input set produce one line of output, the total profit he can earn in the corresponding tour.
+
+<h2>Sample Input</h2>
+<pre>
+3 1 2 2
+0 3 5
+5 0 1
+9 2 0
+2 3
+
+0 0 0 0
+</pre>
+
+<h2>Sample Input</h2>
+<pre>
+7
+</pre>
+<p></p>
+<hr size="2" width="100%" align="center"> 
+Problem setter: Jo&atilde;o Paulo Fernandes Farias
+</body>
+</html>

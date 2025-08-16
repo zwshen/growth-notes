@@ -1,0 +1,293 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Modular Equations</TITLE>
+<META NAME="description" CONTENT="Modular Equations">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Modular Equations</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+The laws of modular arithmetic are among the best weapons
+that we have in our arsenal. We, the wannabe computer scientists, frequently
+use those laws to keep things manageable. For example if we are to compute the
+units digit of
+<!-- MATH
+ \begin{displaymath}
+2^3 5^{13} 7^{14} - 2^4 5^{14} 7^{32}
+\end{displaymath}
+ -->
+<P></P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+2<SUP>3</SUP>5<SUP>13</SUP>7<SUP>14</SUP> - 2<SUP>4</SUP>5<SUP>14</SUP>7<SUP>32</SUP>
+</DIV><P></P>
+we would be able to do that in a flash.
+However if it requires dealing with equations involving modular arithmetic,
+many of us may not feel just as comfortable. Fear not; were not going to daunt
+you with a system of gruesome modular equations  we would keep it small and
+simple.
+
+Given the range of three integers <SPAN CLASS="MATH"><I>a</I></SPAN> (<!-- MATH
+ $amin \le a \le amax$
+ -->
+<SPAN CLASS="MATH"><I>amin</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"><I>a</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"><I>amax</I></SPAN>),
+<SPAN CLASS="MATH"><I>b</I></SPAN> (<!-- MATH
+ $bmin \le b \le bmax$
+ -->
+<SPAN CLASS="MATH"><I>bmin</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"><I>b</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"><I>bmax</I></SPAN>) and <SPAN CLASS="MATH"><I>m</I></SPAN> (<!-- MATH
+ $mmin \le m \le mmax$
+ -->
+<SPAN CLASS="MATH"><I>mmin</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"><I>m</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"><I>mmax</I></SPAN>) you are to find the
+number of triples <SPAN CLASS="MATH">(<I>a</I>, <I>b</I>, <I>c</I>)</SPAN> that satisfy the equation:
+
+<!-- MATH
+ \begin{displaymath}
+(a+b) \bmod m = (a-b) \bmod m
+\end{displaymath}
+ -->
+<P></P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+(<I>a</I> + <I>b</I>) mod<I>m</I> = (<I>a</I> - <I>b</I>) mod <I>m</I>
+</DIV><P></P>
+Here is a sample.
+
+<!-- MATH
+ \begin{displaymath}
+\begin{array}{|c|c|c|}
+\hline
+\multicolumn{3}{|c|}{\bf 1 \le a \le 2, 2 \le b \le 4, 3 \le m \le 5} \\
+\hline
+{\bf (a+b) \bmod m} & {\bf =} & {\bf (a-b) \bmod m} \\
+\hline
+{\bf (1+2) \bmod 4} & {\bf 3} & {\bf (1-2) \bmod 4} \\
+\hline
+{\bf (1+3) \bmod 3} & {\bf 1} & {\bf (1-3) \bmod 3} \\
+\hline
+{\bf (1+4) \bmod 4} & {\bf 1} & {\bf (1-4) \bmod 4} \\
+\hline
+{\bf (2+2) \bmod 4} & {\bf0} & {\bf (2-2) \bmod 4} \\
+\hline
+{\bf (2+3) \bmod 3} & {\bf 2} & {\bf (2-3) \bmod 3} \\
+\hline
+{\bf (2+4) \bmod 4} & {\bf 2} & {\bf (2-4) \bmod 4} \\
+\hline
+\end{array}
+\end{displaymath}
+ -->
+<P></P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+<TABLE>
+<TR VALIGN="MIDDLE"><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP COLSPAN=3><IMG
+ WIDTH="257" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img2.png"
+ ALT="$\displaystyle \bf 1 \le a \le 2, 2 \le b \le 4, 3 \le m \le 5$"></TD></TR>
+<TR VALIGN="MIDDLE"><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="120" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img3.png"
+ ALT="$\displaystyle \bf (a+b) \bmod m$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img4.png"
+ ALT="$\displaystyle \bf =$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="120" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img5.png"
+ ALT="$\displaystyle \bf (a-b) \bmod m$"></TD></TR>
+<TR VALIGN="MIDDLE"><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="113" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img6.png"
+ ALT="$\displaystyle \bf (1+2) \bmod 4$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="14" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img7.png"
+ ALT="$\displaystyle \bf 3$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="113" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img8.png"
+ ALT="$\displaystyle \bf (1-2) \bmod 4$"></TD></TR>
+<TR VALIGN="MIDDLE"><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="113" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img9.png"
+ ALT="$\displaystyle \bf (1+3) \bmod 3$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="14" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img10.png"
+ ALT="$\displaystyle \bf 1$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="113" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img11.png"
+ ALT="$\displaystyle \bf (1-3) \bmod 3$"></TD></TR>
+<TR VALIGN="MIDDLE"><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="113" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img12.png"
+ ALT="$\displaystyle \bf (1+4) \bmod 4$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="14" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img10.png"
+ ALT="$\displaystyle \bf 1$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="113" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img13.png"
+ ALT="$\displaystyle \bf (1-4) \bmod 4$"></TD></TR>
+<TR VALIGN="MIDDLE"><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="113" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img14.png"
+ ALT="$\displaystyle \bf (2+2) \bmod 4$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="14" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img15.png"
+ ALT="$\displaystyle \bf0$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="113" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img16.png"
+ ALT="$\displaystyle \bf (2-2) \bmod 4$"></TD></TR>
+<TR VALIGN="MIDDLE"><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="113" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img17.png"
+ ALT="$\displaystyle \bf (2+3) \bmod 3$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="14" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img18.png"
+ ALT="$\displaystyle \bf 2$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="113" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img19.png"
+ ALT="$\displaystyle \bf (2-3) \bmod 3$"></TD></TR>
+<TR VALIGN="MIDDLE"><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="113" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img20.png"
+ ALT="$\displaystyle \bf (2+4) \bmod 4$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="14" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img18.png"
+ ALT="$\displaystyle \bf 2$"></TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP><IMG
+ WIDTH="113" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img21.png"
+ ALT="$\displaystyle \bf (2-4) \bmod 4$"></TD></TR>
+<TR VALIGN="MIDDLE"><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP>&nbsp;</TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP>&nbsp;</TD><TD VALIGN=BASELINE ALIGN=CENTER NOWRAP>&nbsp;</TD></TR>
+</TABLE>
+</DIV><P></P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+There can be multiple test cases. The first line of the input
+gives you the number of test cases <SPAN CLASS="MATH"><I>T</I></SPAN> (<!-- MATH
+ $1 \le T \le 20$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"><I>T</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$">20</SPAN>). Each of the next <SPAN CLASS="MATH"><I>T</I></SPAN>
+line would contain the input for each test case. The input for each test is
+given by 3 pairs of integer <SPAN CLASS="MATH"><I>amin</I></SPAN>, <SPAN CLASS="MATH"><I>amax</I></SPAN>, <SPAN CLASS="MATH"><I>bmin</I></SPAN>, <SPAN CLASS="MATH"><I>bmax</I></SPAN> and <SPAN CLASS="MATH"><I>mmin</I></SPAN>, <SPAN CLASS="MATH"><I>mmax</I></SPAN>. You can
+assume that,
+
+<UL>
+<LI><!-- MATH
+ $-1000 \le amin \le amax \le +1000$
+ -->
+<SPAN CLASS="MATH">-1000<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"><I>amin</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"><I>amax</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"> + 1000</SPAN>
+</LI>
+<LI><!-- MATH
+ $-1000 \le bmin \le bmax \le +1000$
+ -->
+<SPAN CLASS="MATH">-1000<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"><I>bmin</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"><I>bmax</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"> + 1000</SPAN>
+</LI>
+<LI><!-- MATH
+ $+1 \le mmin \le mmax \le +1000$
+ -->
+<SPAN CLASS="MATH">+1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"><I>mmin</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"><I>mmax</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10787img1.png"
+ ALT="$ \le$"> + 1000</SPAN>.
+</LI>
+</UL>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+For each of the test case you need to print the serial number of
+the test case first. Then on the same line you have to print the number of
+triples <SPAN CLASS="MATH">(<I>a</I>, <I>b</I>, <I>c</I>)</SPAN> that satisfy our modular equation.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<PRE>
+3
+1 2 2 4 3 5
+-100 100 200 350 1 1000
+5 9 10 12 2 9
+</PRE>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<PRE>
+Case 1: 6
+Case 2: 318384
+Case 3: 45
+</PRE>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Miguel Revilla
+2004-12-02
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

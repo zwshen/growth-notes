@@ -1,0 +1,283 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Maze (II)</TITLE>
+<META NAME="description" CONTENT="Maze (II)">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Maze (II)</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Johnny likes solving puzzles. He especially likes drawing and solving mazes. However, solving
+a maze he has drawn himself is too easy for him.
+
+<P>
+Since his computer is his best friend, he figures that he needs a program drawing the mazes
+for him. So he starts thinking about an algorithm performing this difficult task for him and he
+comes up with `Johnny's Simple Algorithm.'
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Johnny's Simple Algorithm</A>&nbsp;</FONT>
+</H2>
+
+<P>
+You start with a <!-- MATH
+ $M \times N$
+ -->
+<SPAN CLASS="MATH"><I>M</I>&#215;<I>N</I></SPAN> grid, where <SPAN CLASS="MATH"><I>M</I></SPAN> is the number of rows and <SPAN CLASS="MATH"><I>N</I></SPAN> is the number of columns of
+the grid. Initially, no two cells of the grid are connected to each other, so every cell is surrounded
+by walls on all four sides. The walls consist of an underscore (`<TT>_</TT>') for a horizontal wall, and a
+vertical bar (`<TT>|</TT>') for a vertical one. For example, if <SPAN CLASS="MATH"><I>M</I> = 3</SPAN> and <SPAN CLASS="MATH"><I>N</I> = 4</SPAN>, the grid looks like this:
+
+<P>
+<PRE>
+ _ _ _ _
+|_|_|_|_|
+|_|_|_|_|
+|_|_|_|_|
+</PRE>
+
+<P>
+Every cell of the grid has unique coordinates <SPAN CLASS="MATH">(<I>p</I>, <I>q</I>)</SPAN>. The lower left corner in the example is (1, 1),
+the upper right corner is (3, 4).
+
+<P>
+After choosing the dimensions of the maze, you choose a starting cell. From now on you keep
+track of a list of <EM>pending</EM> cells, which initially contains only one cell (the starting cell), and you
+repeat the following steps:
+
+<OL>
+<LI>If the list is empty, you stop. The maze is ready.
+</LI>
+<LI>Else, you consider the most recently added cell in the list (call this cell <EM>AC</EM>). If this cell
+(at the end of the list) has no <EM>unvisited</EM> neighbor cells then you remove this cell from the
+list. Every cell has at most 4 neighbor cells: on the right, left, above and below. A cell is
+unvisited if it has never been added to the list.
+</LI>
+<LI>If <EM>AC</EM> has at least one unvisited neighbor cell, you choose one of the unvisited neighbor cells
+(call this cell <EM>NC</EM>), remove the wall between <EM>AC</EM> and <EM>NC</EM> and add <EM>NC</EM> to the end of the list.
+</LI>
+</OL>
+
+<P>
+Johnny makes a nice little program using this algorithm and it works fine, but Johnny is not
+completely satisfied with the results. He is a demanding little boy and in his opinion the so-called
+<EM>branching factor</EM> of the maze is too low, i.e. the generated mazes contain very long paths and too
+few crossings. Therefore, the mazes are still too easy to solve for him.
+
+<P>
+A little trick can be applied to Johnny's Simple Algorithm, giving much better results. Johnny
+does not know it, but you will, since it will be explained below!
+
+<P>
+
+<P>
+<BR>
+The idea behind the trick is to sometimes change the order of the cells in the list. This avoids
+long paths and results in more branches. Changing the order of the cells in the list is done by
+`flipping' part of the list. A <EM>flip</EM> can be specified by giving the position of a cell in the list (where
+the first cell has position 1) and consists of reversing the sub-list starting at the specified cell and
+ending with the last cell in the list.
+
+<P>
+For example, if the list consists of the following cells:
+<!-- MATH
+ \begin{displaymath}
+(1,1) (1,2) (2,2) (3,2) (3,3)
+\end{displaymath}
+ -->
+<P></P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+(1, 1)(1, 2)(2, 2)(3, 2)(3, 3)
+</DIV><P></P>
+then a flip with starting cell number 2 results in:
+<!-- MATH
+ \begin{displaymath}
+(1,1) (3,3) (3,2) (2,2) (1,2)
+\end{displaymath}
+ -->
+<P></P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+(1, 1)(3, 3)(3, 2)(2, 2)(1, 2)
+</DIV><P></P>
+
+<P>
+
+<P>
+<BR>
+Now, we will reveal `Johnny's Advanced Algorithm.'
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Johnny's Advanced Algorithm</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The algorithm is pretty much the same as `Johnny's Simple Algorithm,' only sometimes part of
+the list is flipped. The steps you repeat after choosing the dimensions of the maze, choosing the
+starting cell and adding this cell to the list are:
+
+<OL>
+<LI>If the list of cells is empty, you stop. The maze is ready.
+</LI>
+<LI>Else you consider the last cell in the list. If this cell has no unvisited neighbor cells, then
+you remove this cell from the list.
+</LI>
+<LI>Otherwise, you read a command. If this command is:
+  <DL>
+<DT><STRONG>`<TT>F</TT> <SPAN CLASS="MATH"><I>n</I></SPAN>'</STRONG></DT>
+<DD>you flip the list, starting at position n.
+  
+</DD>
+<DT><STRONG>`<TT>U</TT>' </STRONG></DT>
+<DD>you go up: you remove the wall between the last cell in the list and the cell above it.
+      The cell above the last cell in the list is added to the list.
+  
+</DD>
+<DT><STRONG>`<TT>D</TT>' </STRONG></DT>
+<DD>you go down.
+  
+</DD>
+<DT><STRONG>`<TT>L</TT>' </STRONG></DT>
+<DD>you go left.
+  
+</DD>
+<DT><STRONG>`<TT>R</TT>' </STRONG></DT>
+<DD>you go right.
+  
+</DD>
+</DL>
+</LI>
+</OL>
+
+<P>
+Since you are taking part in a programming contest, we ask you to write a program generating
+nice mazes for Johnny, using `Johnny's Advanced Algorithm,' to make him happy again. The
+maximum size of a maze is 39<SPAN CLASS="MATH">&#215;</SPAN>39.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of the input contains the number of test cases. The input for every test case is
+divided into three parts:
+
+<UL>
+<LI>The first line contains two integer values <SPAN CLASS="MATH"><I>M</I></SPAN> and <SPAN CLASS="MATH"><I>N</I></SPAN>, specifying the dimensions of the maze:
+the number of rows <SPAN CLASS="MATH"><I>M</I></SPAN> followed by the number of columns <SPAN CLASS="MATH"><I>N</I></SPAN>.
+</LI>
+<LI>The second line contains the coordinates of the starting point (again, row followed by column).
+</LI>
+<LI>The next lines each contain a command. A command is one of the upper case characters
+`<TT>F</TT>', `<TT>U</TT>', `<TT>D</TT>', `<TT>L</TT>' and `<TT>R</TT>', appearing at the start of a line. An `<TT>F</TT>'
+character is followed by a space and an integer (the starting position of the flip.)
+</LI>
+</UL>
+
+<P>
+The input for each test case contains exactly the number of commands needed for that maze.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The resulting mazes should be printed using spaces (`'), underscores (`<TT>_</TT>'), vertical bars (`<TT>|</TT>')
+and end-of-line characters. No unnecessary whitespace should be printed. The mazes should be
+followed by one blank line.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2
+3 3
+1 1
+U
+U
+R
+D
+D
+R
+U
+U
+3 4
+2 1
+R
+U
+L
+F 2
+R
+U
+R
+D
+D
+F 4
+D
+L
+L
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+ _ _ _
+|   | |
+| | | |
+|_|_ _|
+
+ _ _ _ _
+|_  |   |
+|_ _  | |
+|_ _ _|_|
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+<b>Testsetter:</b> Joachim Wulff (Little Joey)
+<br>
+<b>Special thanks:</b> Ruben Spaans
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

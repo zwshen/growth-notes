@@ -1,0 +1,227 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Sokoban</TITLE>
+<META NAME="description" CONTENT="Problem D: Sokoban">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Sokoban</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Sokoban is a popular computer game  originally created in 1982 by Hiroyuki
+Imabayashi at the Japanese company Thinking Rabbit, Inc. ``Sokoban" is Japanese
+for ``warehouse keeper".  The idea is that you are a warehouse keeper trying to
+push boxes to their proper locations in a warehouse. The following picture
+depicts the game.
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p3.eps}$
+ -->
+<IMG
+ WIDTH="340" HEIGHT="375" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10770.jpg"
+ ALT="\epsfbox{p3.eps}">
+</DIV>
+
+<P>
+The goal of the game is to help the warehouse keeper to push the boxes to their
+correct destinations in a crowded warehouse, for which a top-view map is
+available. The drawback is that our friend is not strong enough to lift one box
+over another and he isn't strong enough to pull them either. He can only push
+one box at a time, two boxes at once are already too heavy. Moreover, a passage
+is just as narrow as a box, so if a box is blocking a path, he cannot go
+``around'' it just by squeezing himself through between the box and the wall,
+he'll need to find a clear path to reach the other side. And of course, our
+friend cannot climb over boxes, either.
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+Therefore, in order to win this game, a player needs to guide the warehouse
+keeper to move the right way through the labyrinth of walls and boxes and to
+push all the boxes to the intended target spots in the warehouse.
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+Sokoban maps with different levels of difficulty are available on the Internet.
+For instance, the  above figure is given by the following map:
+
+<P>
+<PRE>
+####
+# .#
+#  ###
+#*@  #
+#  $ #
+#  ###
+####
+</PRE>
+
+<P>
+The meaning of each character in this map is the following:
+`<TT>#</TT>' denotes a wall,
+ space  denotes an 	empty square,
+`<TT>.</TT>'  denotes an empty 	goal square,
+`<TT>$</TT>'  denotes a box on a square (a yellow box in the picture),
+`<TT>*</TT>'  denotes a box on a goal square (a red box in the picture),
+`<TT>@</TT>'  denotes the warehouse keeper position on an empty square,
+`<TT>+</TT>'  denotes the warehouse keeper position on a goal square.
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+On these maps, these are the actions that our little friend can perform:
+
+<P>
+
+<UL>
+<LI>Move to an adjacent empty square (left, right, up, down, but not in
+diagonal). Each of these actions is called a ``move".
+
+<P>
+</LI>
+<LI>Push an adjacent box to an empty square (left, right, up, down, but not
+in diagonal). Each of these actions is called a ``push". Remark that in order
+to push a box in some direction, the destination square must be empty.
+
+<P>
+</LI>
+</UL>
+
+<P>
+For instance, a possible way to solve the previous puzzle with 8 pushes is
+given in the following 9 diagrams (read them from left to right,
+and observe that only pushes are shown, moves are not displayed).
+
+<P>
+<PRE>
+    ####      ####      ####      ####      ####      ####      ####      ####      ####   
+    # .#      # .#      # .#      # .#      # .#      # .#      # .#      # .#      # *#   
+    #  ###    #$ ###    #$ ###    #$ ###    #$ ###    #@ ###    #  ###    # $###    # @### 
+    #*@  #    #+   #    #.   #    #.$  #    #.@$ #    #* $ #    #*$@ #    #*@  #    #*   # 
+    #  $ #    #  $ #    # $@ #    # @  #    #    #    #    #    #    #    #    #    #    # 
+    #  ###    #  ###    #  ###    #  ###    #  ###    #  ###    #  ###    #  ###    #  ### 
+    ####      ####      ####      ####      ####      ####      ####      ####      ####
+</PRE>
+
+<P>
+In fact, there is no way to solve this sokoban map in less than 8 pushes.
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+Your task is to write a program that, given  an integer <SPAN CLASS="MATH"><I>k</I></SPAN> and a sokoban map,
+indicates whether or not it is possible to solve the game with <SPAN CLASS="MATH"><I>k</I></SPAN> or
+less pushes (the number of moves is not taken into account).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+Input consists of zero or more test cases. Each test case consists of a line containing an integer <SPAN CLASS="MATH"><I>k</I></SPAN> followed by a sokoban map.
+You can assume that <!-- MATH
+ $1\le k\le 30$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10770img2.png"
+ ALT="$ \le$"><I>k</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10770img2.png"
+ ALT="$ \le$">30</SPAN> and that the size of the map is equal or
+smaller than <!-- MATH
+ $16\times16$
+ -->
+<SPAN CLASS="MATH">16&#215;16</SPAN>. All lines may not have the same length.
+A blank line separates two consecutive test cases.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For every test case, use a separate line to 
+print <TT>YES</TT> if the map can be solved with <SPAN CLASS="MATH"><I>k</I></SPAN> or less pushes, or print
+<TT>NO</TT> otherwise.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+7
+############
+#  $  @  . #
+############
+
+8
+####
+# .#
+#  ###
+#*@  #
+#  $ #
+#  ###
+####
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+NO
+YES
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+Author: Jordi Petit
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

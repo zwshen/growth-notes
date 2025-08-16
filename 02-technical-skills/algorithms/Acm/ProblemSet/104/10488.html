@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./e_files/filelist.xml">
+<link rel=Edit-Time-Data href="./e_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem E:Swimming gopher</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>6</o:Revision>
+  <o:TotalTime>6</o:TotalTime>
+  <o:Created>2003-04-23T13:17:00Z</o:Created>
+  <o:LastSaved>2003-04-23T13:23:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>265</o:Words>
+  <o:Characters>1515</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>12</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1860</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1031"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<h2 align=center style='text-align:center'>Problem E<span style='mso-bidi-font-size:
+12.0pt'><br>
+</span><span style='font-size:24.0pt;mso-bidi-font-size:12.0pt'>A Swimming
+Gopher</span><span style='mso-bidi-font-size:12.0pt'><br>
+</span><span style='font-size:12.0pt'>Input: </span><span style='font-size:
+12.0pt;font-weight:normal'>standard input</span><span style='font-size:12.0pt'><br>
+Output: </span><span style='font-size:12.0pt;font-weight:normal'>standard
+output</span><span style='font-size:12.0pt'><br>
+Time Limit: </span><span style='font-size:12.0pt;font-weight:normal'>2 seconds</span></h2>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t75" alt="" style='position:absolute;
+ margin-left:0;margin-top:0;width:261.75pt;height:216.75pt;z-index:1;
+ mso-wrap-distance-left:0;mso-wrap-distance-top:0;mso-wrap-distance-right:0;
+ mso-wrap-distance-bottom:0;mso-position-horizontal:left;
+ mso-position-horizontal-relative:text;mso-position-vertical-relative:line'
+ o:allowoverlap="f">
+ <v:imagedata src="p10488a.jpg"/>
+ <w:wrap type="square"/>
+</v:shape><![endif]--><![if !vml]><img width=349 height=289
+src="p10488a.jpg" align=left v:shapes="_x0000_s1026"><![endif]>A gopher
+lives in the flatlands of Northern Saskatchewan and travels frequently to see
+his cousins. After years and years of drought, there was a period of unusually
+heavy rains which resulted in all the ditches on the way of the gopher's travel
+being flooded with water. The ditches run in the West-East direction and each
+ditch is of a constant width. The gopher still wants to make his travels but being
+not a very good swimmer, he wants to minimize the distance that he has to swim
+through the ditches and with this requirement satisfied, he also wants to walk
+as little as possible on the dry land. Your task is to find the length of the
+gopher's route which minimizes his swimming and then his walking. </p>
+
+<p><!--[if gte vml 1]><v:shape id="_x0000_s1027" type="#_x0000_t75" alt=""
+ style='position:absolute;margin-left:298pt;margin-top:0;width:189pt;height:165.75pt;
+ z-index:2;mso-wrap-distance-left:0;mso-wrap-distance-top:0;
+ mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
+ mso-position-horizontal:right;mso-position-horizontal-relative:text;
+ mso-position-vertical-relative:line' o:allowoverlap="f">
+ <v:imagedata src="p10488b.jpg"/>
+ <w:wrap type="square"/>
+</v:shape><![endif]--><![if !vml]><img width=252 height=221
+src="p10488b.jpg" align=right v:shapes="_x0000_s1027"><![endif]>We are
+given a system of orthogonal coordinates, where the <em>x</em> axis is directed
+from West to East and the <em>y</em> axis is directed from South to North.
+Given are real numbers: <em>D</em> and <em>L</em>, 0 &lt; <em>L</em>, <em>L+L</em>
+&lt; <em>D</em>, such that a point (<em>x</em>, <em>y</em>) is on dry land if
+and only if there exists an integer <em>n</em> such that </p>
+
+<p class=MsoNormal align=center style='text-align:center'><em>n*D+L</em> &lt;= <em>y</em>
+&lt;= <em>(n+1)*D-L</em>. </p>
+
+<p>Given is the starting point of the gopher (<em>x<sub>s</sub>, y<sub>s</sub></em>)
+and its target point (<em>x<sub>t</sub>, y<sub>t</sub></em>). Both these points
+are on dry land. </p>
+
+<p>Each line of input contains six real numbers: <em>D</em>, <em>L</em>, <em>x<sub>s</sub>,
+y<sub>s</sub></em>, <em>x<sub>t</sub>, y<sub>t</sub></em>. For each line of
+input, output one line with the needed information in the format shown in the
+sample output. </p>
+
+<h3>Sample input</h3>
+
+<pre>100.0 10.0 0.0 50.0 100.0 50.0</pre><pre>100.0 10.0 0.0 50.0 100.0 150.0</pre><pre>100.0 10.0 0.0 -50.0 100.0 50.0</pre><pre>100.0 10.0 0.0 -50.0 100.0 150.0</pre>
+
+<h3>Output for sample input</h3>
+
+<pre>The gopher has to swim 0.00 meters and walk 100.00 meters.</pre><pre>The gopher has to swim 20.00 meters and walk 128.06 meters.</pre><pre>The gopher has to swim 20.00 meters and walk 128.06 meters.</pre><pre>The gopher has to swim 40.00 meters and walk 188.68 meters.</pre>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p class=MsoNormal><b>Piotr Rudnicki</b> </p>
+
+</div>
+
+</body>
+
+</html>

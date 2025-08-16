@@ -1,0 +1,68 @@
+<HTML>
+<HEAD>
+<TITLE>Optimal Marriage On Planet X</TITLE>
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Optimal Marriage On Planet X</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Problem</A></FONT></H2>
+
+
+<P>
+In the classical marriage problem on Earth, you are given <b>n</b> men, <b>n</b> women, plus
+a compatibility rating for each pair of man and woman (higher means more compatible).   
+You have to find the optimal pairing (i.e. a marriage), <b>n</b> disjoint pairs of men and women, 
+such that the sum of the compatibility ratings for the formed pairs (marriages) is maximum.
+Typically, this is solved using maximum bipartite matching algorithms such as the Hungarian Method,
+or network flow algorithms.
+<P>
+Unfortunately, it is not so easy on planet X, because there are 3 sexes/genders instead of 2 :-) !!!
+The 3 sexes are Xelox,Yakki, and Zabra.  You are given <b>n</b> Xeloxes, <b>n</b>Yakkis, and <b>n</b> Zabras,
+and a set of compatibility ratings, <b>r(x,y,z)</b> for each triple <b>(x,y,z)</b> where <b>x</b> is a Xelox, 
+<b>y</b> is a Yakki, <b>z</b> is a Zabra.  In this problem, you have to form <b>n</b> disjoint triples, such that 
+the sum of their compatibility ratings is maximal.  Since the aliens on planet X do not want their
+compatibility ratings to be too similar, for any two different compatibility ratings <b>r1</b>,
+and <b>r2</b>, it is guarranteeed that <b> 300*abs(r1-r2) > (r1+r2) </b>. 
+
+</U></U><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>
+There is a number of inputs.
+Each input begins with <b>n</b> (<b>n</b> < 21).
+<b>n</b><sup>3</sup> lines follow; each of the form:
+<p>
+<b>x y z r</b>
+<p>
+where <b>x</b> is the index of a Xelox, <b>y</b> is the index of a Yakki, <b>z</b> is the index of a Zabra, and 0 < <b>x,y,z</b> < <b>n</b>+1.
+<b>r</b> is the compatibility rating, <b>r(x,y,z)</b> of this triple. <b>r</b> fits inside an unsigned 32 bit integer.
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>
+For each input, output the maximum sum of the compatibility ratings after forming the optimal triples (marriages) on a single line.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>
+2
+1 1 1 0
+1 1 2 0
+1 2 1 0
+1 2 2 9
+2 1 1 9
+2 1 2 0
+2 2 1 0
+2 2 2 0
+</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>
+18
+</PRE>
+</BODY>
+</div>
+<br />
+
+<hr size="1" />
+Problem setter: Josh Bao
+<br />
+</HTML>

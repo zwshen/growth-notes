@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML>
+<head>
+<title>Kaprekar Numbers</title>
+<style>
+	p {text-align: justify;}
+	p.center {text-align: center;}
+</style>
+</head>
+
+<body bgcolor=white>
+
+<h1 align="center"><font color=blue>Problem C - Kaprekar Numbers</font></h1>
+
+<p>
+<img align=right src="p974.jpg" width="150" height="196" alt="" border="0">
+
+Shri Dattathreya Ramachandra Kaprekar was an Indian mathematician,
+whose name is associated with a number of concepts in number theory.
+He was born in Dahanu, near Mumbai, in India. Even as a small child, he was already
+interested in numbers.
+
+<p>Among his numerous contributions are the so called <i>Kaprekar numbers</i>.
+These are non-negative integer numbers such that the representation of their square
+can be split into two parts that add up to the original number again. For example,
+55 is a <i>Kaprekar number</i>, because 55<sup>2</sup> = 3025, which can be split
+into 30 and 25, and 30 + 25 = 55. There is one special rule: both
+parts of this sum must be positive. This means that, for example, 10 is
+not a <i>Kaprekar number</i>, even when 10^2 = 100 and 10+0=10 (but
+the second part of the sum is zero - not positive).
+
+ 
+<h2><font color=blue>The Problem</font></h2>
+
+<p>
+Given a range of numbers, your task is to discover and print all <i>Kaprekar
+numbers</i> within that range.
+
+
+<h2><font color=blue>Input</font></h2>
+
+<p>
+The first line of input contains a single number
+<b>N</b>, representing the number of test cases that follow (<i>1 &le;
+N &le; 1000</i>).
+
+<p>
+Than follow exactly <i>N</i> lines (one for each test case),
+each one containing two
+positive integers separated by a single space: <b>INF</b> and <b>SUP</b> (<i>2 &le; INF
+
+&le; SUP &le 40000</i>),
+indicating that the range to consider is the number interval <i>[INF,SUP]</i>
+(this means that the limits are included in the interval to consider).
+
+<h2><font color=blue>Output</font></h2>
+
+<p>For each test case you should start by printing a line in the
+format <tt><b>case #NUM</b></tt> where <i>NUM</i> is the test case
+number (starting in one).
+
+
+<p>Then, you must print all the <i>Kaprekar numbers</i> that appear in
+the respective range, in ascending order, one per line. If there are no <i>Kaprekar
+numbers</i> in the specified interval, you should print <tt><b>no
+kaprekar numbers</b></tt>.
+
+<p>There should also be a blank line between test cases.
+
+<p>See the sample output for an example. 
+
+
+<h2><font color=blue>Example Input</font></h2>
+<pre>
+3
+2 90
+30 35
+50 55
+</pre>
+
+<h2><font color=blue>Example Output</font></h2>
+<pre>
+case #1
+9
+45
+55
+
+case #2
+no kaprekar numbers
+
+case #3
+55
+</pre>
+
+<hr>
+<p class=center><b>2006 Programming Contest of Porto University</b><br>
+Round 3, 11th of October of 2006<br>
+&nbsp;<br>
+<i>(Author: <b>Pedro Ribeiro</b> - DCC/FCUP)</i>
+<hr>
+
+</body>
+
+</html>

@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.O Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<title>UFRN Q.C. IV - F. Let's swim!</title>
+<LINK REL=StyleSheet HREF="styles/ufrnqc.css" TYPE="text/css" MEDIA=screen>
+</head>
+
+<body>
+
+<div>
+<img src="images/BRAZIL.gif" height="40px" align="left">
+<img src="images/UFRN.jpg" height="40px" align="right">
+</div>
+
+<h1>F. Let's swim!</h1>
+
+<h3>Time limit: 1s</h3>
+
+<p>It is time to swim and you should help Gustavo to get a good place
+in the World Swimming Championship. The competition has two phases. In
+the first phase, the qualification phase, every competitor will swim
+and the eight fastest swimmers will advance to second phase, the big
+final. During the final, each competitor will swim again to decide who
+is the best swimmer. In the beginning of the competition, every
+swimmer has associated with him a rank indicating how good he is,
+where the best competitor has a rank <math>1</math>, the second one
+has rank <math>2</math> and so on.</p>
+
+<p> Gustavo wants to reach the finals and to finish in the top three
+to get a medal, but he does not want to spend all his energy in the
+qualification round. Actually, he desires to swim as slow as possible
+in the first phase in a way he can still advance to the final and get
+a medal.
+</p>
+
+
+<p> When going to the final, it is important to get a good lane. There
+are eight lanes in the pool and each one is assigned to a swimmer
+according to how fast he swam in the previous phase. The fastest
+swimmer gets lane #4 (the best lane), the second gets lane #5, the
+third gets lane #3, the fourth gets lane #6, the fifth gets lane #2,
+the sixth gets lane #7, the seventh gets lane #1 and the eighth one
+gets lane #8 (the worst lane).  </p>
+
+<p> During the final, Gustavo believes he can swim faster than a
+competitor if he got a better lane than him or if he has a better rank
+than him. Your task is to determine what is the worst possible place
+Gustavo can get in the first phase in a way he can advance to the
+final and get a medal. You should also determine in which position
+Gustavo will end at the final.  </p>
+
+<h2>Input</h2>
+
+<p>The first line of input gives the number of cases, <math>T</math>
+(<math>1 &le; T &le; 120</math>), after there will be a blank line and
+then the first test case. Each test case starts with <math>8 &le; N
+&le; 1000</math>, the number of competitors. The following line will
+contain an integer <math>R</math>, representing Gustavo's rank.  Then
+<math>N - 1</math> lines will follow, each line has an integer
+<math>R</math>, representing the rank of that competitor, and a time
+in the format <math>MM:SS:DD</math>, which is the time that competitor
+got in the qualification phase. The first field represents the
+minutes, <math>00 &le; MM &le; 09</math>, the second field represents
+the seconds, <math>00 &le; SS &le; 59</math>, and the third field
+represents hundredths of a second, <math>00 &le; DD &le; 99</math>.
+If more than one competitor got the same time, the tie will be broken
+according to their ranks, the competitors with best ranks will come
+first. </p>
+
+<p>You should consider <math>00:01:00</math> as the fastest time a
+competitor can get, being Gustavo the only swimmer able to achieve a
+faster time. Be aware that if two competitors are not tied with the
+same time, there should exist a difference of at least one hundredth
+of a second between their times. There is a blank line after each test
+case.</p>
+
+<h2>Output</h2>
+
+<p>For each test case you must print two lines. The first contains the
+the number of the test case (see below the exact format) and the second
+contains the following message: <tt>Gustavo should be #N
+during the qualification to achieve position #P in the final.</tt>.
+</p>
+
+<h2>Sample input</h2>
+
+<pre>
+2
+
+8
+4
+1 02:21:03
+3 02:22:17
+5 02:22:03
+6 02:21:59 
+8 02:22:99
+7 02:21:33
+2 02:21:77
+
+16
+10
+1 05:33:55
+2 05:23:32
+3 05:34:87
+4 05:33:12
+5 05:33:21
+6 05:44:17
+7 05:33:15
+16 06:02:98
+15 05:49:12
+14 05:37:44
+13 05:33:12
+12 05:39:67
+11 05:34:37
+8 05:35:88
+9 05:34:09
+
+</pre>
+
+<h2>Sample output</h2>
+
+<pre>
+Case #1:
+Gustavo should be #6 during the qualification to achieve position #3 in the final.
+Case #2:
+Gustavo should be #4 during the qualification to achieve position #3 in the final.
+</pre>
+
+<hr />
+<address>Problem setter: S&eacute;rgio Queiroz de Medeiros.<br />
+Universidade Federal do Rio Grande do Norte Qualifying Contest IV, June 9th, 2007.</address>
+
+</body>

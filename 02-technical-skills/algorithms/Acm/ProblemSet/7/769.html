@@ -1,0 +1,223 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Magic of David Copperfield</TITLE>
+<META NAME="description" CONTENT="Magic of David Copperfield">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Magic of David Copperfield</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+The well-known magician David Copperfield loves to show the following trick: a square with
+<I>N</I> rows and <I>N</I> columns of different pictures appears on a TV screen. Let us number all
+the pictures in the following order:
+
+<P>
+<DIV ALIGN="CENTER">
+<TABLE CELLPADDING=3 BORDER="1">
+<TR><TD ALIGN="CENTER">1</TD>
+<TD ALIGN="CENTER">2</TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="769img1.gif"
+ ALT="$\dots$"></TD>
+<TD ALIGN="CENTER"><I>N</I></TD>
+</TR>
+<TR><TD ALIGN="CENTER"><IMG
+ WIDTH="9" HEIGHT="27" ALIGN="BOTTOM" BORDER="0"
+ SRC="769img2.gif"
+ ALT="$\vdots$"></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="9" HEIGHT="27" ALIGN="BOTTOM" BORDER="0"
+ SRC="769img2.gif"
+ ALT="$\vdots$"></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="25" HEIGHT="28" ALIGN="BOTTOM" BORDER="0"
+ SRC="769img3.gif"
+ ALT="$\ddots$"></TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="9" HEIGHT="27" ALIGN="BOTTOM" BORDER="0"
+ SRC="769img2.gif"
+ ALT="$\vdots$"></TD>
+</TR>
+<TR><TD ALIGN="CENTER"><I>N</I>*(<I>N</I>-1)+1</TD>
+<TD ALIGN="CENTER"><I>N</I>*(<I>N</I>-1)+2</TD>
+<TD ALIGN="CENTER"><IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="769img1.gif"
+ ALT="$\dots$"></TD>
+<TD ALIGN="CENTER"><I>N</I>*<I>N</I></TD>
+</TR>
+</TABLE></DIV>
+
+<P>
+Each member of the audience is asked to put a finger on the upper left picture (i.e., picture number
+one) and The Magic begins: the magician tells the audience to move the finger <I>k</I><SUB>1</SUB> times through the
+pictures (each move is a shift of the finger to the adjacent picture up, down, left or right provided
+that there is a picture to move to), then with a slight movement of his hand he removes some of the
+pictures with an exclamation ``<EM>You are not there!</EM>", and ... it is true - your finger is not pointing to
+any of the pictures removed. Then again, he tells the audience to make <I>k</I><SUB>2</SUB> moves, and so on. At the
+end he removes all the pictures but one and smiling triumphantly declares, ``<EM>I've caught you</EM>"
+(applause).
+
+<P>
+
+<P>
+<BR>
+Just now, David is trying to repeat this trick. Unfortunately, he had a hard day before, and you
+know how hard to conjure with a headache. You have to write a program that will help David to
+make his trick.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+<P>
+<b>
+The input begins with a single positive integer on a line by itself indicating 
+the number of the cases following, each of them as described below. 
+This line is followed by a blank line, and there is also a blank line between 
+two consecutive inputs.
+</b>
+<P>
+Each test case consists of a single integer number <I>N</I> (
+<!-- MATH: $2 \le N \le 100$ -->
+<IMG
+ WIDTH="102" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="769img4.gif"
+ ALT="$2 \le N \le 100$">).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+<P>
+<b>
+For each test case, the output must follow the description below. 
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+Your program should write the following lines with numbers to the output file:
+
+<P>
+
+<P>
+<BR>
+
+
+<!-- MATH: $k_1 \ x_{1,1} \ x_{1,2} \ \dots \ x_{1,m1}$ -->
+<IMG
+ WIDTH="167" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="769img5.gif"
+ ALT="$k_1 \ x_{1,1} \ x_{1,2} \ \dots \ x_{1,m1}$">
+
+<P>
+
+
+<!-- MATH: $k_2 \ x_{2,1} \ x_{2,2} \ \dots \ x_{2,m2}$ -->
+<IMG
+ WIDTH="167" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="769img6.gif"
+ ALT="$k_2 \ x_{2,1} \ x_{2,2} \ \dots \ x_{2,m2}$">
+
+<P>
+
+<IMG
+ WIDTH="25" HEIGHT="15" ALIGN="BOTTOM" BORDER="0"
+ SRC="769img1.gif"
+ ALT="$\dots$">
+
+<P>
+
+
+<!-- MATH: $k_e \ x_{e,1} \ x_{e,2} \ \dots \ x_{e,me}$ -->
+<IMG
+ WIDTH="164" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="769img7.gif"
+ ALT="$k_e \ x_{e,1} \ x_{e,2} \ \dots \ x_{e,me}$">
+
+<P>
+
+<P>
+<BR>
+where <I>k</I><SUB><I>i</I></SUB> is a number of moves the audience should make on the <I>i</I>-th turn (
+<!-- MATH: $2N \le k \le 10000$ -->
+<IMG
+ WIDTH="129" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="769img8.gif"
+ ALT="$2N \le k \le 10000$">).
+All <I>k</I><SUB><I>i</I></SUB>
+should be different (i.e. 
+<!-- MATH: $k_i <> k_j$ -->
+<I>k</I><SUB><I>i</I></SUB> &lt;&gt; <I>k</I><SUB><I>j</I></SUB> when <I>i</I> &lt;&gt; <I>j</I>). 
+<!-- MATH: $x_{i,1}, x_{i,2}, \dots, x_{i,mi}$ -->
+<IMG
+ WIDTH="138" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="769img9.gif"
+ ALT="$x_{i,1}, x_{i,2}, \dots, x_{i,mi}$">
+are the numbers of the pictures
+David should remove after the audience will make <I>k</I><SUB><I>i</I></SUB> moves (the number of the pictures removed is
+arbitrary, but each picture should be listed only once, and at least one picture should be removed on
+each turn).
+
+<P>
+
+<P>
+<BR>
+A description of the every next turn should begin with a new line. All numbers on each line should
+be separated by one or more spaces. After <I>e</I> iterations, all pictures except one should be removed.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+1
+
+3
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+8     4 6
+13    9
+10    7 1
+7     8
+11    3 5
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-12-30</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

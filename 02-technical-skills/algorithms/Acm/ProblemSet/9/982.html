@@ -1,0 +1,182 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+            "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+
+<HEAD>
+
+
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<META name="GENERATOR" content="hevea 1.08">
+<STYLE type="text/css">
+.toc{list-style:none;}
+.title{margin:auto;text-align:center}
+.center{text-align:center;margin-left:auto;margin-right:auto;}
+.flushleft{text-align:left;margin-left:0ex;margin-right:auto;}
+.flushright{text-align:right;margin-left:auto;margin-right:0ex;}
+DIV TABLE{margin-left:inherit;margin-right:inherit;}
+PRE{text-align:left;margin-left:0ex;margin-right:auto;}
+BLOCKQUOTE{margin-left:4ex;margin-right:4ex;text-align:left;}
+.part{margin:auto;text-align:center;}
+.esq {float: left;}
+.dir {float: right;}
+.titulo {clear: right;}
+</STYLE>
+</HEAD>
+
+<BODY >
+<!--HEVEA command line is: /usr/bin/hevea -fix Cube-miup06-v3.1-B.tex -o Cube-miup06-v3.1-B.html -->
+<!--HTMLHEAD-->
+<!--ENDHTML-->
+<!--PREFIX <ARG ></ARG>-->
+<!--CUT DEF section 1 -->
+
+<p class="titulo">
+        <span class="esq">Universidade da Beira Interior</span>
+        <span class="dir">21-10-2006</span>&nbsp;
+   </p>
+
+<!--TOC section Problem D-->
+
+<H2 CLASS="section">Problem D</H2><!--SEC END -->
+
+<DIV CLASS="center"><FONT SIZE=5><SPAN STYLE="font-variant:small-caps">Cube</SPAN></FONT></DIV>
+
+
+<!--TOC subsection Problem-->
+
+<H3 CLASS="subsection">Problem</H3><!--SEC END -->
+
+
+You wake up and find yourself inside an empty cubic room.<BR>
+<BR>
+
+At first you feel surprised but then you notice that at the
+center of each wall, roof, and floor there is a gate that seems to
+give access to another similar empty cubic room.<BR>
+<BR>
+
+You start feeling a kind of fear as you move from room to room and
+realize that there is no water, there is no food, and the number
+of rooms seems endless. Unless you find an exit to get out of
+there, you are going to starve to death!<BR>
+<BR>
+
+To make things even worse, you meet other people, also wandering
+through the rooms, who tell you that some of the rooms are
+booby-trapped. If you enter a booby-trapped room, some nasty thing
+will happen to you, like an acid shower or a poisonous atmosphere
+and you will die slowly but surely.<BR>
+<BR>
+
+But there is hope! You had already notice that at a given corner
+of each room there is a decimal number, that you call the room
+number. By comparing information with the other people trapped in
+the cubes, you realize that each room number encodes the Cartesian
+coordinates of the gate that leads towards the exit. This gate
+may not be safe, though: the pointed room may have a bomb or some
+other booby-trap. Here is what you found:<BR>
+<BR>
+
+<OL CLASS="enumerate" type=1><LI CLASS="li-enumerate">
+In the coordinate system, the dimension of each cube side is 1.
+ Therefore, the gate on the floor is at (1/2, 1/2, 0), while the gate
+ at the ceiling is at (1/2, 1/2, 1).<BR><BR>
+<LI CLASS="li-enumerate">The x coordinate is the quotient between the number of even
+ digits and the number of digits.<BR><BR>
+<LI CLASS="li-enumerate">The y coordinate is the quotient between the number of digits
+ that are prime number and the number of digits (notice that 1 is not
+ a prime).<BR><BR>
+<LI CLASS="li-enumerate">The z coordinate is the quotient of the number of digits that
+ correspond to odd numbers less than 5, by the number of digits.<BR><BR>
+<LI CLASS="li-enumerate">Once simplified, all the above quotients are either 0, 1/2, or
+ 1.<BR><BR>
+<LI CLASS="li-enumerate">In order to find if the pointed room is booby-trapped you must
+ set up a vector with three coordinates using the room number,
+ computed as follows. The x-coordinate is the quotient of the first
+ digit by the second, the y-coordinate is the quotient of the third
+ digit by the fourth, and the z-coordinate is the quotient of the
+ fifth digit by the sixth. If the room number has less than 6 digits,
+ restart from the first digit; If it has more than 6 ignore the
+ remaining digits. Now, compute the dot product of this vector and
+ the vector describing the coordinates of the exit. Simplify the
+ resulting fraction. If the numerator of the simplified fraction is
+ composite (i.e., not prime nor equals to 1) the exit is safe.<BR>
+
+ Note: the dot product can be defined for two <I>n</I>-dimensional vectors X and Y by <I>X</I>.<I>Y</I>=
+ &Sigma;<SUB><I>i</I>=1</SUB><SUP><I>n</I></SUP> <I>x</I><SUB>1</SUB> <I>y</I><SUB>1</SUB> + &hellip; + <I>x</I><SUB><I>n</I></SUB> <I>y</I><SUB><I>n</I></SUB>.<BR>
+</OL>
+
+Your job is to decode the room number so that you and your companions
+can find the exit and get some fresh air. Hurry up and good luck!
+
+
+
+<!--TOC subsection Input-->
+
+<H3 CLASS="subsection">Input</H3><!--SEC END -->
+
+The input file contains several test cases, each of them is integer number, N, with 0 &lt; <I>N</I> &lt; 2000000000, representing a number found in a room, on a line by itself.
+
+
+<!--TOC subsection Output-->
+
+<H3 CLASS="subsection">Output</H3><!--SEC END -->
+
+For each test case, the output has two lines.
+
+The first line is a triple of fractions separated by spaces
+indicating in Cartesian coordinates of the local direction
+towards the exit.
+
+The second line has only one word: SAFE or FATAL, depending on
+whether the room in the pointed direction is safe or booby
+trapped.
+
+
+<!--TOC subsection Sample Input 1-->
+
+<H3 CLASS="subsection">Sample Input 1</H3><!--SEC END -->
+
+<PRE CLASS="verbatim">
+24556789
+</PRE>
+
+<!--TOC subsection Sample Output 1-->
+
+<H3 CLASS="subsection">Sample Output 1</H3><!--SEC END -->
+
+<PRE CLASS="verbatim">
+1/2 1/2 0
+FATAL
+
+</PRE>
+<!--TOC subsection Sample Input 2-->
+
+<H3 CLASS="subsection">Sample Input 2</H3><!--SEC END -->
+
+<PRE CLASS="verbatim">
+74974652
+</PRE>
+
+<!--TOC subsection Sample Output 2-->
+
+<H3 CLASS="subsection">Sample Output 2</H3><!--SEC END -->
+
+<PRE CLASS="verbatim">
+1/2 1/2 0
+SAFE
+</PRE>
+
+<!--HTMLFOOT-->
+<!--ENDHTML-->
+<!--FOOTER-->
+
+<p class="titulo">
+        <span class="esq">Maratona Inter-Universitária de Programação 2006</span>
+        <span class="dir">MIUP'2006</span>&nbsp;
+   </p>
+<hr>
+<p><b>Author:</b> Jose Oliveira (Universidade do Algarve)
+
+</BODY>
+</HTML>

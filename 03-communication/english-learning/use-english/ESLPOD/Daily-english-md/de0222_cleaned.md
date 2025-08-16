@@ -1,0 +1,82 @@
+# Alternative Medicine
+
+Welcome to English as a Second Language Podcast number 222: Alternative Medicine. 
+
+This is English as a Second Language Podcast episode 222.  I'm your host, Dr. Jeff McQuillan, coming to you from the Center for Educational Development in beautiful Los Angeles, California. 
+
+Remember to visit our website at eslpod.com.  You'll find there the Learning Guide for this episode, which contains all of the vocabulary, additional sample sentences using the words we're going to talk about today.  It also contains a complete transcript of this entire episode along with additional explanations and culture notes. 
+
+Our topic in this episode is alternative medicine.  Let's get started. 
+
+[Start of story] 
+
+I have been suffering from back pain for years.  I’ve tried several treatments prescribed by my doctor, but nothing has had a lasting effect.  I finally decided to try alternative medicine.   
+
+My friend, Amelia, swore by acupuncture.  She said that her knee pain went away after only a few weeks of therapy.  She was skeptical when she first started, but she knew after only a few sessions that it was working for her and that this was no New Age nonsense.  She thought it might work for me, too. 
+
+My co-worker, Ray, suggested that I try some homeopathic treatments.  He said that taking herbal supplements that are all natural has helped him recover after getting injured on the job a couple of months ago.  He took these as complementary to the traditional medication his doctor gave him.  He said that even though the herbs he takes haven’t undergone clinical trials, his own experience told him that they work.    
+
+I’m a little nervous about trying these unorthodox treatments, but after hearing about Amelia’s and Ray’s experiences, I’m willing to give them a try.  Nothing has worked so far, so what do I have to lose? 
+
+[End of story] 
+
+ This episode is called “Alternative Medicine.”  
+
+The word alternative means different or choosing a different kind of something. Someone may say, “What are my alternatives,” meaning what are my choices. Here, alternate medicine means a different kind of medicine.  It might also be called nontraditional medicine. 
+
+The story begins by me saying that I have suffered “from back pain for years. I’ve tried several treatments prescribed by my doctor.”  To prescribe, “prescribe,” is to give a patient - a doctor giving a patient some medicine to take.  You are prescribed, by your doctor, certain medicines.  These are things that the doctor says you should do.  Normally, when we say something is prescribed, or that it is a prescription drug, we mean that you can only get those drugs or those types of medicine from a doctor - from a medical doctor, not from an applied linguistics doctor.  I can't give you any drugs.  I can give you something better than drugs: ESLPodcast! 
+
+The story continues that although I've tried these different medicines, “nothing has had a lasting effect.”  Lasting, “lasting,” means permanent or continuing for a long time.  We sometimes say, “long-lasting,” which means the same - something that will be continuing for a long period of time.  The word lasting has another meaning, and we talk about the other meanings of that word in our Learning Guide for this episode. 
+
+The story continues by saying that “I finally decided to try alternative medicine. My friend, Amelia, swore by acupuncture.”  To swear, “swear,” by something means to trust in something - to believe in something or to rely on something.  “I swear by these pills” - “I swear by this drug.”  What I'm saying is I believe in it - I think it is good - I think it is useful. 
+
+To swear can also mean to say some vulgar words.  I won't do any here on the episode, but that's one meaning of swear.  To swear also means to say that you believe in something or to say that something is true, and that's the meaning that we're using here.   
+
+“My friend, Amelia, swore by” - swore is the past tense of swear, “swore” - she “swore by acupuncture.”  Acupuncture, “acupuncture,” is when the person, who we would call an acupuncturist, uses little pins - little needles - and sticks them in your body.  This is a nontraditional kind of medicine.  I have never had acupuncture; I don't like needles. 
+
+ The story says that my friend Amelia told me that “her knee pain went away after only a few weeks of therapy.”  Therapy, “therapy,” is a set of things or a kind of treatment that you have to reduce your pain or to make you feel better.  You can have therapy that is physical; you can have therapy that is using drugs; you can also have psychological therapy.  When somebody says, “I'm in therapy,” they mean that they are going to see a psychiatrist or a psychologist to help them feel better.  Here, the word therapy is used to mean the physical or the drugs that this particular patient is getting.  In this case, the therapy is acupuncture. 
+
+My friend says that “She was skeptical when she first started.”  To be skeptical, “skeptical,” means to doubt - to question - to not believe something.  “I'm skeptical about men from Mars visiting our planet and building the pyramids of Egypt” - I don't believe that's true - I find it difficult to believe.  Actually, I think they came from Mercury, not Mars! 
+
+The story goes on that my friend was getting better “after only a few sessions.”  A session would be the time that she went into see the acupuncturist - her treatments.  She realized that acupuncture “was no New Age nonsense.”  New Age, “New Age,” is related to a belief - an idea - almost a religious idea about healing and health and spirituality that is used to help make people feel better. It's sort of like an alternative religion versus traditional religion, that's New Age.   
+
+When we use it in the United States, usually it is a negative term.  Someone says, “Oh, that's too New Age for me,” they mean that it is not something that they believe in - they're skeptical about it - they think it's nonsense - not true. Now, of course, I'm not saying whether these things are true or not; I'm just presenting my story here - a story.  Actually, not my story; my back doesn't hurt. My shoulder hurts, but not my back. 
+
+Getting back to the story, “My co-worker, Ray, suggested that I try some homeopathic treatments.”  Homeopathic, “homeopathic,” is a kind of medicine, again, an alternative kind of medicine that uses small amounts of something to treat an illness.  The belief, I think, is that you don't want a lot of a drug or a lot of some chemical or some herb, you want only just a little bit to help treat the person - to make the person better. 
+
+“My co-worker, Ray,” said that he was “taking herbal supplements that are all natural.”  Herbal, “herbal,” notice we don't normally pronounced the “h.”  It is possible to say herbal, but most people say herbal.  The word herbal comes from herbs, “herb,” or “herbs,” (plural) which are plants, and they are plants that you can make food out of; sometimes they are plants that you make medicine out of.   
+
+ Well, these are plants that you make medicine out of.  They're called supplements, “supplements,” because they're additional.  The word supplement means to add something additional - in addition to the normal or regular treatment that you may be receiving for your pain or your injury. 
+
+So, he's taking these herbal supplements, probably tea or some sort of pill that he takes.  He says that they're “all natural.”  When we say something is all natural, we mean that there aren't any man made or human made chemicals - no artificial ingredients.  Artificial is the opposite of natural. 
+
+My friend, or rather, my co-worker, Ray, got “injured on the job a couple of months ago.”  To be injured, “injured,” just means to be hurt - to have some problem with some part of your body: your arm, your leg, your knee, and so forth. 
+
+Ray took these herbal supplements “as complementary to traditional medication” that “his doctor gave him.”  To take something complementarily or as complementary means to take it in addition to.  When we say something complements something else, “complement,” we mean that it matches - that it goes with something else.  There's also a word complimentary, spelled with an “i,” which means to say something nice about someone.  These are drugs he's taking in addition to - to complement - his “traditional medication.”  Medication is another word for the drugs that he is taking.   
+
+He says that “even though the herbs” have not “undergone clinical trials, his experience” tells him that they are working.  To undergo means to experience or participate in.  Clinical trials are scientific tests that medical researchers do, usually, to make sure the drug actually works. 
+
+I end my story by saying that “I’m a little nervous about trying these unorthodox treatments.”  Unorthodox, “unorthodox,” is the opposite of orthodox, which means traditional.  So, unorthodox would be nontraditional or alternative kinds of treatments. 
+
+“After hearing about” my friend's and co-worker's “experiences,” I say, “I’m willing to give them a try.  Nothing has worked” for me “so far” - nothing has helped me so far, “so what do I have to lose?”  That expression, what do I have to lose, means it can't hurt and it might help. 
+
+Now let's listen to the story, this time at a normal speed. 
+
+ [Start of story] 
+
+I have been suffering from back pain for years.  I’ve tried several treatments prescribed by my doctor, but nothing has had a lasting effect.  I finally decided to try alternative medicine.   
+
+My friend, Amelia, swore by acupuncture.  She said that her knee pain went away after only a few weeks of therapy.  She was skeptical when she first started, but she knew after only a few sessions that it was working for her and that this was no New Age nonsense.  She thought it might work for me, too. 
+
+My co-worker, Ray, suggested that I try some homeopathic treatments.  He said that taking herbal supplements that are all natural has helped him recover after getting injured on the job a couple of months ago.  He took these as complementary to the traditional medication his doctor gave him.  He said that even though the herbs he takes haven’t undergone clinical trials, his own experience told him that they work.    
+
+I’m a little nervous about trying these unorthodox treatments, but after hearing about Amelia’s and Ray’s experiences, I’m willing to give them a try.  Nothing has worked so far, so what do I have to lose? 
+
+[End of story] 
+
+The script for today's podcast was written by Dr. Lucy Tse.   
+
+Remember to visit our website at eslpod.com, where you can get the transcript for the story for free.  From Los Angeles, California, I'm Jeff McQuillan.  Thanks for listening.  We'll see you next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  This podcast is copyright 2006.
+

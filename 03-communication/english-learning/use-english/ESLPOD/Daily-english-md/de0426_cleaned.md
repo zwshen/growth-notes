@@ -1,0 +1,92 @@
+# Talking About Product Quality
+
+Welcome to English as a Second Language Podcast number 4 26: Talking About Product Quality. 
+
+This is English as a Second Language Podcast number 426.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode to help you improve your English even faster. 
+
+This episode is a dialogue between Brenda and Yoji tal king about product quality, the quality of things that you buy.  Are they go od, are they bad; what are some of the specific words we use in describing different  products – different things – we’ll find out in this dialogue.  Let’s get st arted. 
+
+[start of dialogue] 
+
+Brenda:  It’s fun shopping for a new cell phone, don’t  you think? 
+
+Yoji:  Sure, but I just need one with the bare basics. 
+
+Brenda:  Not me.  I want one that’s top-of-the-line.   My old phone was cheap and flimsy, and it started acting up after only a few months.  
+
+Yoji:  I want something that’s good quality, but I don ’t think I should have to pay top dollar for it, especially since I don’t need the bel ls and whistles. 
+
+Brenda:  The bells and whistles are the best part! 
+
+Yoji:  I like this one.  It seems sturdy and it should la st me for years. 
+
+Brenda:  That is one ugly phone!   
+
+Yoji:  I don’t care about its looks.  I just want someth ing functional and that won’t fall apart. 
+
+Brenda:  I’m not arguing for style over substance, but t hat phone is hideous. 
+
+Yoji:  I’ll get over it.    
+
+ Brenda:  Yes, but I’m not sure I will! 
+
+[end of dialogue] 
+
+Our dialogue begins with Brenda saying, “It’s fun shoppi ng for a new cell phone, don’t you think?”  Notice she says “don’t you think,” this i mplies that the other person will probably agree with her.  Yoji says, “Sure,  but I just need one with the bare basics” – I just need to buy a cell phone that has the bare basics.  The “bare basics” would be the simplest version of something, somethi ng that only has the absolute necessities on it, things that you would need an d nothing more.   
+
+Yoji says that he wants a cell phone with the bare basics.  Brenda says, “Not me. I want one that’s top-of-the-line.”  The expression “ top-of-the-line” refers to the best possible or the best available thing – the one wit h the highest quality, the fanciest perhaps, often the most expensive one.  Brenda says, “My old phone was cheap and flimsy.”  When we describe a product as “cheap ,” we mean it’s poor quality.  “Cheap” can also mean not very much mone y, not very expensive – “inexpensive,” we would say.  That’s if you’re using “cheap”  to describe a thing. If you’re using “cheap” to describe a person, then it’s a n insulting, negative way to describe someone who doesn’t like to spend money: “He’s cheap, he won’t take me out to dinner,” said my ex girlfriend!   
+
+Brenda says her old phone was cheap and flimsy (flimsy).  So mething that is “flimsy” is very poor quality.  It’s something that will br eak very easily, or something that is easy to damage.  Brenda says her phone st arted acting up after only a few months.  To “act up,” is a two-word ph rasal verb meaning to have problems or to create problems.  Here, it means really t o stop functioning properly, to stop working the way it should.  If you have  a watch and the watch stops because it’s broken, you might say that it is acting up – it stopped working. 
+
+Yoji says, “I want something that’s good quality (meaning  I want something that is well made), but I don’t think I should have to pay t op dollar for it.”  The expression “top dollar” means a very high price, very expensi ve.  Top dollar – the highest amount you could pay for something.  He says that “ I don’t need the bells and whistles” in his new phone.  The expression “bells and  whistles” can be used for any product, anything you buy, usually a piece of techn ology or electronics that has many different features, many complicated, perha ps, or fancy things.  It does a lot of things besides the bare basic functions.  The  cell phone, for example, that has a camera, an MP3 player, where you ca n surf the Internet – this would be a cell phone with a lot of bells and whi stles.  Literally, a “bell” is  
+
+ something that you ring [sound of a bell], that’s what a bell is.  A “whistle” is something that you would blow to make a very high pitche d sound.  In a American football game, for example, the referees (the  people who make sure that players are following the rules) have whistles which  they blow so that the players can hear them. 
+
+Brenda says, “The bells and whistles (the fancy stuff) are the best part!”  Yoji says, “I like this one.  It seems sturdy and it should last m e for years.”  To describe something as “sturdy” (sturdy) means that it will n ot break, that it is strong and reliable.  It’s the opposite of “flimsy.”  B renda says, “That is one ugly phone!”  This is a common informal expression: “that is one (something).”  It’s an expression we use to give emphasis; it’s used to show that th e following statement or the following expression is true.  For examp le, you go to a restaurant and you buy a hamburger, and the hamburger costs you 25 dollars. Your friend might say, “That’s one expensive hamburger!”   You’re saying it’s definitely true it’s an expensive hamburger. 
+
+Well, Brenda is saying that’s one ugly phone, meaning it ’s very ugly.  Yoji says, “I don’t care about its looks.”  “Looks” as a noun refers to t he physical appearance of something, the way something is viewed by other peopl e.  We often use the word “looks” in talking about a person’s physical appearan ce, but it can be used to talk about a thing – an object.  There are a couple  of different meanings of this word; take a look at our Learning Guide for some addi tional explanations. 
+
+Yoji says, “I just want something functional and that won ’t fall apart.”  “Functional” means that it is working correctly; it is able to do what it is supposed to do.  The phrasal verb “to fall apart” means to break, usually to  break into many smaller pieces.  It could also be used just to mean to stop workin g properly.  “The children were building a house of cards (with playing ca rds – little pieces of paper), but then it fell apart” – it fell down; it broke into all the individual pieces. 
+
+Brenda says, “I’m not arguing for style over substance, but  that phone is hideous.”  The expression “style over substance” refers to so mething that is very beautiful but it doesn’t work well, something that w as made by people who are more interested in the appearance (in the way it looks)  than what it can actually do.  So, you could have a beautiful watch for example, b ut if you can’t read it (if you can’t see what time it is) that’s not very useful, no t very functional.  Brenda is saying she doesn’t want something just because it looks good;  it also has to work.  “But,” she says, “that phone (the one Yoji wants) is hideous.”  “Hideous” (hideous) means very ugly, extremely unattractive.  It’s a ve ry negative way to  
+
+ describe something or, certainly, someone.  Sometimes in formally it also is used just to mean terrible or very bad, but usually it means ve ry ugly. 
+
+Yoji says, “I’ll get over it.”  To “get over” something is a phrasal verb meaning to accept something is bad – something bad has happened, bu t to continue on with your normal life, to keep living without worrying about  this bad thing.  If you had a car accident and you hurt your neck, eventually you will, we  hope, get over it. You will recover, you will continue with your life as no rmal.  This expression is sometimes used in a more negative way.  If someone says to  you, “Oh, get over it!” that expression means you need to stop worrying abo ut that, something that the other person doesn’t think is very important.  So fo r example if it’s raining and you are complaining to your friend, you are saying all the time “Oh, it’s raining. It’s so wet.  I hate this,” your friend may say to you “Ge t over it!”  Stop worrying about it; just go on with your life. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Brenda:  It’s fun shopping for a new cell phone, don’t  you think? 
+
+Yoji:  Sure, but I just need one with the bare basics. 
+
+Brenda:  Not me.  I want one that’s top-of-the-line.   My old phone was cheap and flimsy, and it started acting up after only a few months.  
+
+Yoji:  I want something that’s good quality, but I don ’t think I should have to pay top dollar for it, especially since I don’t need the bel ls and whistles. 
+
+Brenda:  The bells and whistles are the best part! 
+
+Yoji:  I like this one.  It seems sturdy and it should la st me for years. 
+
+Brenda:  That is one ugly phone!   
+
+Yoji:  I don’t care about its looks.  I just want someth ing functional and that won’t fall apart. 
+
+Brenda:  I’m not arguing for style over substance, but t hat phone is hideous. 
+
+Yoji:  I’ll get over it.    
+
+ Brenda:  Yes, but I’m not sure I will! 
+
+[end of dialogue] 
+
+Today’s good quality episode was written by Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  This podcast is copyright 2008 .
+

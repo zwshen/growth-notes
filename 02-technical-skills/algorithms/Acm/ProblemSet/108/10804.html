@@ -1,0 +1,125 @@
+<html>
+<head>
+    <title>Gopher Strategy</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem ?</B></FONT><BR>
+<FONT SIZE="5"><B>Gopher Strategy</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 3 seconds</FONT>
+</CENTER>
+</P>
+
+<p align="right">
+<table border=0><tr><td><small>
+Agent Cooper: <i>"Look at that! Ducks... on the lake!"</i>
+</td></tr></table>
+<tt>Harley Peyton, "Twin Peaks."</tt>
+</small></p>
+
+<P CLASS="paragraph">
+Gophers like to feed in the field, but they always have to look out for
+hawks that might hunt them. A group of gophers have decided to get more
+organized and need your help developing an escape strategy in case of a
+hawk attack.
+</P>
+
+<P CLASS="paragraph">
+Given the coordinates of <b>m</b> gophers and <b>n</b> holes in the
+field, what is the minimum time required for each gopher to reach a
+hole (at most one gopher per hole)? Every gopher runs in a straight
+line at a speed of 1 unit per second, and the group can tolerate
+the loss of at most <b>k</b> gophers. (Gophers are lost when they
+do not have enough time to reach an empty hole.)
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The first line of input gives the number of cases, <b>N</b>.
+<b>N</b> test cases follow. Each one starts with a line containing
+the integers <b>m</b>, <b>n</b> and <b>k</b>
+(0 &lt;= <b>m</b>, <b>n</b> &lt;= 50, 0 &lt;= <b>k</b> &lt;= <b>m</b>).
+The next <b>m</b> lines will give the x,y-coordinates of the gophers.
+The <b>n</b> lines after that will give the coordinates of the holes.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+For each test case, output the line "Case #<b>x</b>:", where <b>x</b> is the
+number of the test case. Then print the minimum number of seconds required
+for at least <b>m</b>-<b>k</b> gophers to reach a hole, rounded to 3 decimal
+places. Every answer will obey the formula<br>
+<pre>fabs(ans*1e3 - floor(ans*1e3) - 0.5) > 1e-2</pre><br>
+Print "Too bad." if there is no solution. Print an empty line after
+each test case.
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+4
+3 3 1
+0 0
+1 0
+2 0
+0 1
+1 1
+2 1.5
+3 3 1
+0 1
+1 2
+2 1
+1 0
+1 1
+2 0
+3 3 0
+0 1
+1 2
+2 1
+1 0
+1 1
+2 0
+1 0 0
+100.0 200.5
+</PRE>
+</TD>
+<TD>
+<PRE>
+Case #1:
+1.000
+
+Case #2:
+1.000
+
+Case #3:
+1.414
+
+Case #4:
+Too bad.
+
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+<HR>
+<B>Problemsetter: Igor Naverniouk</B><br>
+<B>Alternate solutions: Yury Kholondyrev, Bartholomew Furrow</B>
+</P>
+
+</td></tr></table>
+</body>
+</html>

@@ -1,0 +1,298 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 10 (filtered)">
+<title>Cubes</title>
+
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+h1
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:18.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+h2
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:18.0pt;
+	font-family:Verdana;
+	font-variant:small-caps;
+	font-weight:normal;}
+h3
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-weight:normal;}
+h4
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+p.MsoToc1, li.MsoToc1, div.MsoToc1
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoToc2, li.MsoToc2, div.MsoToc2
+	{margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:12.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin-top:12.0pt;
+	margin-right:0mm;
+	margin-bottom:3.0pt;
+	margin-left:0mm;
+	text-align:center;
+	font-size:16.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+p
+	{margin-right:0mm;
+	margin-left:0mm;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+address
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-style:italic;}
+pre
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Arial Unicode MS";}
+p.ProblemExampleCaption, li.ProblemExampleCaption, div.ProblemExampleCaption
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Courier New";
+	font-weight:bold;}
+p.ProblemExample, li.ProblemExample, div.ProblemExample
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Courier New";}
+p.Example, li.Example, div.Example
+	{margin-top:2.0pt;
+	margin-right:0mm;
+	margin-bottom:2.0pt;
+	margin-left:0mm;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+p.ExampleHeader, li.ExampleHeader, div.ExampleHeader
+	{margin-top:6.0pt;
+	margin-right:0mm;
+	margin-bottom:6.0pt;
+	margin-left:0mm;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:Arial;
+	font-weight:bold;
+	font-style:italic;}
+p.ExampleTableHeader, li.ExampleTableHeader, div.ExampleTableHeader
+	{margin-top:2.0pt;
+	margin-right:0mm;
+	margin-bottom:2.0pt;
+	margin-left:0mm;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	font-weight:bold;}
+p.FigureName, li.FigureName, div.FigureName
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:Arial;}
+p.ProblemStatement, li.ProblemStatement, div.ProblemStatement
+	{margin-top:2.0pt;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:35.45pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.ProblemIOE, li.ProblemIOE, div.ProblemIOE
+	{margin-top:6.0pt;
+	margin-right:0mm;
+	margin-bottom:3.0pt;
+	margin-left:0mm;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:Arial;
+	font-weight:bold;
+	font-style:italic;}
+span.ProblemFormula
+	{font-style:italic;}
+p.Credits, li.Credits, div.Credits
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	background:white;
+	border:none;
+	padding:0mm;
+	font-size:12.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+@page Section1
+	{size:210.0mm 842.0pt;
+	margin:72.0pt 89.85pt 72.0pt 89.85pt;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0mm;}
+ul
+	{margin-bottom:0mm;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US>
+
+<div class=Section1>
+
+<div style='border:solid windowtext 1.0pt;border-bottom:none;padding:1.0pt 4.0pt 0mm 4.0pt;
+background:silver'>
+
+<h1 style='background:silver;border:none;padding:0mm'><a name="_Toc61410105"><span
+lang=EN-CA>Problem B</span></a></h1>
+
+<h2 style='background:silver;border:none;padding:0mm'><a name="_Toc61410106"><span
+style='font-variant:normal !important;text-transform:uppercase'>Cubes</span></a></h2>
+
+</div>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>You are given 12 rods of equal length. Each of them is colored
+in certain color. Your task is to determine in how many different ways one can
+construct a cube using these rods as edges. Two cubes are considered equal if
+one of them could be rotated and put next to the other, so that the
+corresponding edges of the two cubes are equally colored.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h4>Input</h4>
+
+<p class=MsoNormal>The first line of input contains T (1&#8804;T&#8804;60), the
+number of test cases. Then T test cases follow. Each test case consists of one
+line containing 12 integers. Each of them denotes the color of the
+corresponding rod. The colors are numbers between 1 and 6.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h4>Output</h4>
+
+<p class=MsoNormal>The output for one test consists of one integer on a line -
+the number of ways one can construct a cube with the described properties.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<table class=MsoTableList4 border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none'>
+ <tr>
+  <td width=328 valign=top style='width:246.35pt;border:solid black 1.5pt;
+  border-right:none;background:gray;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=MsoNormal><b><span style='color:white'>Sample Input</span></b></p>
+  </td>
+  <td width=328 valign=top style='width:246.35pt;border:solid black 1.5pt;
+  border-left:none;background:gray;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=MsoNormal><b><span style='color:white'>Sample Output</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=328 valign=top style='width:246.35pt;border-top:none;border-left:
+  solid black 1.5pt;border-bottom:solid black 1.5pt;border-right:none;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=MsoNormal>3</p>
+  <p class=MsoNormal>1 2 2 2 2 2 2 2 2 2 2 2</p>
+  <p class=MsoNormal>1 1 2 2 2 2 2 2 2 2 2 2</p>
+  <p class=MsoNormal>1 1 2 2 3 3 4 4 5 5 6 6</p>
+  </td>
+  <td width=328 valign=top style='width:246.35pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=MsoNormal>1</p>
+  <p class=MsoNormal>5</p>
+  <p class=MsoNormal>312120</p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<div style='border:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0mm 0mm 0mm;
+background:white'>
+
+<p class=Credits>Problem source: Bulgarian National Olympiad in Informatics
+2003</p>
+
+<p class=Credits>Problem submitter: Ivaylo Riskov</p>
+
+<p class=Credits>Problem solution: Ivaylo Riskov, K M Hasan</p>
+
+</div>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,488 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="f_files/filelist.xml">
+<link rel=Edit-Time-Data href="f_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem F - Hidden Triangles</title>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>125</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+h3
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Arial Unicode MS";
+	font-weight:bold;}
+h4
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:24.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:#6633CC;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+address
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-style:italic;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+p.preformatted, li.preformatted, div.preformatted
+	{mso-style-name:preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+span.stylearial16pt
+	{mso-style-name:stylearial16pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.8in .8in 67.7pt .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="5122"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#6633CC" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:28.0pt;font-family:Arial'>Problem F</span></b><span
+style='font-family:Arial'><br>
+</span><b><span style='font-size:20.0pt;font-family:Arial'>Hidden Triangles</span></b><span
+style='font-family:Arial'><br>
+<b>Input: </b>Standard Input</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:Arial'>Output: </span></b><span style='font-family:Arial'>Standard
+Output </span></p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 align=right
+ style='border-collapse:collapse;mso-table-lspace:9.0pt;margin-left:6.75pt;
+ mso-table-rspace:9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:paragraph;
+ mso-table-anchor-horizontal:column;mso-table-left:right;mso-table-top:middle;
+ mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=327 valign=top style='width:245.35pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+  mso-element-top:middle;mso-height-rule:exactly'><img width=312 height=176
+  id="_x0000_i1025" src="p11320_001.jpg"></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td width=327 valign=top style='width:245.35pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:right;mso-element-top:middle;mso-height-rule:exactly'>Figure
+  1:</p>
+  </td>
+ </tr>
+</table>
+
+<h5 style='text-align:justify'>When consecutive lattice points along x-axis are
+connected with consecutive lattice points of another row above it, several
+triangles are formed as shown in Figure 1. Lattice points, are the points in
+two-dimensional coordinate system whose abscissa and ordinate has integer
+values. For example (3, 4) is a lattice point but (3, 4.5) is not a lattice
+point. Consecutive lattice points of a row means the lattice points whose
+y-coordinate value is same but whose x-coordinate value is consecutive. Such a
+group of lattice points can be specified by specifying only the x-coordinate of
+the left most point and x-coordinate of the rightmost point. So to describe a
+system of points in two rows, five integers are enough. Let’s say these
+integers are x<sub>1</sub>down, x<sub>2</sub>down, x<sub>1</sub>up, x<sub>2</sub>up
+and h. Where x<sub>1</sub>down and x<sub>2</sub>down are the x-coordinates of
+leftmost and rightmost points on x-axis respectively, h is the distance between
+x-axis and the row above it. <span class=GramE>x<sub>1</sub>up</span> and x<sub>2</sub>up
+are the x-coordinates of leftmost and right most points of the row above. All
+points on x-axis are connected with all points on the row above it via <span
+class=GramE>an</span> straight line segment. After connecting these points many
+triangles is formed whose base is the x-axis and height is less than h. In the
+figure-1 x<sub>1</sub>down=5, x<sub>2</sub>down=8, x<sub>1</sub>up=5 and x<sub>2</sub>up=7
+and h=1 and there 18 such triangles are formed. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h5>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify'>If x1down=0, x2down=2, x1up=0 and
+x2up=2 and h=1 then nine such triangles are formed<span class=GramE>..</span>
+All these triangles are filled black in Figure 2. </p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=219 valign=top style='width:164.25pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><img width=205 height=125 id="_x0000_i1026"
+  src="p11320_002.jpg"></p>
+  </td>
+  <td width=218 valign=top style='width:163.35pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><img width=201 height=123 id="_x0000_i1027"
+  src="p11320_003.jpg"></p>
+  </td>
+  <td width=218 valign=top style='width:163.45pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><img width=200 height=122 id="_x0000_i1028"
+  src="p11320_004.jpg"></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=219 valign=top style='width:164.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><img width=205 height=125 id="_x0000_i1029"
+  src="p11320_005.jpg"></p>
+  </td>
+  <td width=218 valign=top style='width:163.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><img width=201 height=123 id="_x0000_i1030"
+  src="p11320_006.jpg"></p>
+  </td>
+  <td width=218 valign=top style='width:163.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><img width=202 height=124 id="_x0000_i1031"
+  src="p11320_007.jpg"></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=219 valign=top style='width:164.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><img width=205 height=125 id="_x0000_i1032"
+  src="p11320_008.jpg"></p>
+  </td>
+  <td width=218 valign=top style='width:163.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><img width=201 height=123 id="_x0000_i1033"
+  src="p11320_009.jpg"></p>
+  </td>
+  <td width=218 valign=top style='width:163.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><img width=202 height=124 id="_x0000_i1034"
+  src="p11320_010.jpg"></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+  <td width=655 colspan=3 valign=top style='width:491.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>Figure 2: Formed nine triangles are shown by filling them
+  with black.</p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify'>When number of lattice points on
+the lines are very small, then such triangles are very easy to count, but for
+large number of lattice points such triangles are hard to count, let alone
+measuring the average height of such triangles.</p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoNormal style='text-align:justify'>In this problem you have to do
+this mammoth task. Given the values of x1down, x2down, x1up, x2up and h your
+job is to find the average height of all the triangles formed whose base is
+x-axis and height is less than h.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h5 style='text-align:justify'><span class=stylearial16pt><span
+style='font-size:16.0pt'>Input</span></span></h5>
+
+<p class=MsoNormal style='text-align:justify'>The input file contains at most
+5001 lines of inputs. Each line contains five integer numbers x<sub>1</sub>down,
+x<sub>2</sub>down (0&#8804;x<sub>1</sub>down&lt;x<sub>2</sub>down&#8804;100000
+and |x<sub>1</sub>down-x<sub>2</sub>down|&#8804;10000), x<sub>1</sub>up, x<sub>2</sub>up
+(0&#8804;x<sub>1</sub>up&lt;x<sub>2</sub>up&#8804;100000 and |x<sub>1</sub>up-x<sub>2</sub>up|&#8804;10000)
+and h (0&lt;h&#8804;10).</p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoNormal>Input is terminated by a line containing five zeroes. &nbsp;</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h4><span class=stylearial16pt><span style='font-size:16.0pt'>Output </span></span></h4>
+
+<p class=MsoNormal style='text-align:justify'>For each line of input produce
+one line of output. This line contains the serial of output followed by a
+floating-point number which denotes the average height of the formed triangles.
+The floating point number should have six digits after the decimal point.
+Errors less than 1.5*10<sup>-6</sup>.will <span class=GramE>be</span> ignored.
+Look at the output for sample input for details.</p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+font-family:Arial;font-style:normal'>Sample
+Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Output for Sample Input</span></b></h1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='background:#CCCCCC;border-collapse:collapse;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=301 valign=top style='width:225.9pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-autospace:none'><span style='font-size:11.0pt;
+  font-family:"Courier New"'>5 8 5 7 1</span></p>
+  <p class=MsoNormal style='text-autospace:none'><span style='font-size:11.0pt;
+  font-family:"Courier New"'>0 2 0 2 1</span></p>
+  <p class=MsoNormal style='text-autospace:none'><span style='font-size:11.0pt;
+  font-family:"Courier New"'>0 100 0 101 1</span></p>
+  <p class=MsoNormal style='text-autospace:none'><span style='font-size:11.0pt;
+  font-family:"Courier New"'>0 <span class=SpellE>0</span> <span class=SpellE>0</span>
+  <span class=SpellE>0</span> <span class=SpellE>0</span></span></p>
+  </td>
+  <td width=315 valign=top style='width:236.35pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New"'>Case
+  1: 0.542593</span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New"'>Case
+  2: 0.500000</span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New"'>Case
+  3: 0.498223</span></p>
+  <p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New"'>&nbsp;</span></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal><span class=SpellE>Problemsetter</span>: Shahriar Manzoor</p>
+
+<p class=MsoNormal>Special Thanks: Derek <span class=SpellE>Kisman</span></p>
+
+</div>
+
+</body>
+
+</html>

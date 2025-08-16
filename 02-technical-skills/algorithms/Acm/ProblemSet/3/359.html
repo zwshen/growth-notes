@@ -1,0 +1,104 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Sex Assignments And Breeding Experiments</TITLE>
+<META NAME="description" CONTENT="Sex Assignments And Breeding Experiments">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Sex Assignments And Breeding Experiments</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Everyone is familiar with the pictorial representation of family trees.
+In these &quot;pictures&quot; one uses points and lines to represent family
+structures and interfamily relationships. Thus, if M and F are the
+parents of three children, two boys and one girl, we have the figure
+below:
+<P>
+<center><img src=359img4.gif></center>
+<P>
+The next figure might represent the inter-family relationship of two
+families
+<P>
+<center><img src=359img5.gif></center>
+<P>
+It is easy to conceive of a large number of such pictures. Some can represent
+family trees and some cannot. You are to consider the
+problem of characterizing those which can represent family trees. We will
+actually work in a simpler context than that of human
+relationships. Most human societies preclude family trees of the forms
+shown below.
+<P>
+<center><img src=359img6.gif></center>
+<P>
+It is, however, quite complicated to give conditions which would eliminate
+pictures of this sort. For simplicity, we suppose that we are
+dealing with a population which is completely characterized by the condition
+of bisexual reproduction (M &amp; F). If the picture or graph
+is such that by a proper assignment of sexes to the members of the
+population, the picture represents the results of a breeding
+experiment which could theoretically take place, then we say the graph is
+sexy. Otherwise the graph is not sexy. You must write a
+program to examine an arbitrary directed graph and determine if it is sexy.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Input will be a series of descriptions of graphs in the following form:
+<P>
+<P>
+An integer <I>n</I> indicating the number of nodes in the graph, followed by
+an integer <I>m</I> indicating the number of directed edges in the graph
+will appear on the first line of input. The next <I>m</I> lines of the file
+will each contain a pair <I>x</I>, <I>y</I> of integers in the range 1 - <I>n</I>. Each pair will represent a directed edge from node <I>x</I> to node <I>y</I>. Input is terminated by end-of-file.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each graph in the input file, you will output the appropriate one of
+the following statements.
+<P>
+<P>
+<P>
+<TT>Graph number </TT> <I>i</I> <TT>is sexy</TT>
+<P>
+<TT>Graph number </TT> <I>i</I> <TT>is not sexy</TT>
+<P>
+<P>
+The number <I>i</I> represents the number of the graph in the input file.
+<P>
+<P>
+We are adopting the convention that the existence of a directed edge
+from <I>x</I> to <I>y</I> indicates that <I>x</I> is a parent of <I>y</I>. Further, each individual
+usually has exactly two parents. No individual can have two parents of
+the same sex or more than two parents. Breeding experiments do
+not extend into the indefinite past. A point is always reached where
+one or both of the parents of a member of the population are
+unknown. The nodes with no parents would appear on the top level of
+a sexy graph. Births of individuals are assumed to be sequential in
+time. Thus the following graph is not sexy.
+<P>
+<center><img src=359img7.gif></center>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>5 6 
+1 3 
+2 3 
+1 4 
+2 4 
+1 5 
+2 5 
+3 3 
+1 2 
+2 3 
+3 1</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>Graph number 1 is sexy
+Graph number 2 is not sexy</PRE>
+<P>
+</BODY>
+</HTML>

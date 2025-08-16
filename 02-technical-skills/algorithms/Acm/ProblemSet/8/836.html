@@ -1,0 +1,131 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Largest Submatrix</TITLE>
+<META NAME="description" CONTENT="Largest Submatrix">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Largest Submatrix</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Let <SPAN CLASS="MATH"><I>A</I></SPAN> be an <!-- MATH
+ $N \times N$
+ -->
+<SPAN CLASS="MATH"><I>N</I>&#215;<I>N</I></SPAN> matrix of zeros and ones. A submatrix
+<SPAN CLASS="MATH"><I>S</I></SPAN> of <SPAN CLASS="MATH"><I>A</I></SPAN> is any group of <EM>contiguous</EM> entries that forms a
+square or a rectangle.
+
+<P>
+Write a program that determines the number of elements of the
+largest submatrix of ones in <SPAN CLASS="MATH"><I>A</I></SPAN>. <EM>Largest</EM> here is measured
+by area.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+<B>The input begins with a single positive integer on a line by itself indicating
+the number of the cases following, each of them as described below.
+This line is followed by a blank line, and there is also a blank line between
+two consecutive inputs.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+The matrix is given line by line. Each line consists of <TT>0</TT>'s
+and <TT>1</TT>'s. The order of the matrix is also the number of lines
+input and <!-- MATH
+ $1 < N \le 25$
+ -->
+<SPAN CLASS="MATH">1 
+<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="836img1.png"
+ ALT="$ \le$">
+ <I>N</I>
+<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="836img1.png"
+ ALT="$ \le$">
+ 25</SPAN>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+<B>For each test case, the output must follow the description below.
+The outputs of two consecutive cases will be separated by a blank line.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+The output is the number of elements of the largest submatrix
+found.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1
+
+10111000
+00010100
+00111000
+00111010
+00111111
+01011110
+01011110
+00011110
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+16
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Fernando Silva, ACM-UP'2001
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

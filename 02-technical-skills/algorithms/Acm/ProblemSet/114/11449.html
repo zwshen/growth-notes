@@ -1,0 +1,221 @@
+<html>
+
+<head>
+<meta name="description" content="Go Alonso Go!">
+<meta name="author" content="GinesGM">
+<title>Go Alonso Go!</title>
+</head>
+
+<body bgcolor="#FFFFFF" lang="EN">
+<div align="center"><center>
+
+<table border="0" bgcolor="#0060F0">
+<TBODY>
+  <tr>
+    <td><font color="#C0FFFF" size="5"><b>&nbsp;C. Go Alonso Go!&nbsp;</b></font></td>
+  </tr>
+</TBODY>
+</table>
+</center></div>
+
+<h2><font color="#0070E8">Context</font></h2>
+
+<p>Deciding the optimum number of pit stops in a Formula One race is not a trivial matter.
+The problem is greatly influenced by many factors: the length of the circuit and the total
+number of laps, the time lost in each pit stop, the maximum tank capacity of the car, the
+fuel consumption per kilometer, the relationship between speed and current weight of the
+fuel, etc.</p>
+
+<p>You have been hired by the prestigious F1 team SlowCheapCars in order to decide their
+optimum pit stops strategy. Help them to win the race.</p>
+
+<h2><font color="#0070E8">The Problem</font></h2>
+
+<p>Each time we do a pit stop, some precious seconds are lost. In particular, there are
+two components:
+
+<ul>
+  <li>A constant time, <strong>G</strong>, due to slowing down, stopping, and accelerating
+    back up to normal speed; and</li>
+  <li>A variable quantity, <strong>x*H</strong>, depending on the number of litres added to
+    the tank (<strong>x</strong>) and the speed of the highly pressurized refueling system (<strong>H</strong>,
+    in seconds/litre).</li>
+</ul>
+
+<p>Besides, the average speed of the car per lap is not constant; on the contrary, it
+depends on the fuel load at a given moment. When the tank is full, the car is normally
+slower because of its total weight. But when it is almost empty, the car is able to go
+faster. This variation is given by the number of seconds gained per lap when the fuel load
+is reduced 10 litres, <strong>F</strong> (in seconds per 10 litres). For example, let <strong>E</strong>
+be the time to complete a lap starting with the full tank, and let <strong>D</strong> be
+this maximum capacity of the tank; if the current fuel load is <strong>D</strong>-20
+litres, the lap time will be: <strong>E</strong>-2<strong>F</strong>.</p>
+
+<p>The initial fuel load of the car is given by <strong>C</strong> (in litres). However,
+according to a recent regulation by the F.R.I.A., we have the possibility to start the
+race from the pit line; in that case, we are free to decide the initial fuel load, at the
+expense of losing <strong>I</strong> seconds in the first lap.</p>
+
+<p>Some other parameters of the problem are the total number of laps of the race, <strong>A</strong>,
+the length of the circuit, <strong>B</strong> (in kilometers), the fuel consumption per
+lap, <strong>J</strong>, and the name of the circuit, <strong>N</strong>.</p>
+
+<p>A <strong>pit stop strategy</strong> is given by the number of stops and the decision
+whether to start or not from the pit
+line. We want to obtain the optimum strategy of pit stops in a given circuit, that is, the
+one that produces the minimum total time to complete the <strong>A</strong> laps.
+Obviously, the fuel load of the car can never be below 0.</p>
+
+<h2><font color="#0070E8">The Input</font></h2>
+
+<p>The first line of the input contains an integer <em>M</em>, indicating the number of
+test cases.</p>
+
+<p>For each test case, there are the following lines (the text in <strong>bold</strong>
+appears literally):</p>
+
+<pre><strong>Circuit</strong> N
+A B
+<strong>Fuel</strong>
+C D
+<strong>Speed</strong>
+E F
+<strong>Pit stop</strong>
+G H I
+<strong>Consumption</strong>
+J</pre>
+
+<p>Where:
+
+<ul>
+  <p><strong>A</strong>: number of laps of the race (from 1 to 100). Integer.<br>
+  <strong>B</strong>: length of the circuit, i.e., kilometers per lap. Real with 2 decimal
+  digits.<br>
+  <strong>C</strong>: initial fuel in the tank of the car, in litres (from 1 to 200).
+  Integer.<br>
+  <strong>D</strong>: maximum capacity of the tank of the car, in litres (from 1 to 200, and
+  0&lt;=<strong>C</strong>&lt;=<strong>D</strong>). Integer.<br>
+  <strong>E</strong>: number of seconds per lap starting the lap with the full tank. Real
+  with 2 decimal digits.<br>
+  <strong>F</strong>: number of seconds per lap gained for each reduction of 10 litres in
+  fuel load. Real with 1 decimal digit. It could be negative.<br>
+  <strong>G</strong>: constant time lost in each pit stop, in seconds. Real with 2 decimal
+  digits.<br>
+  <strong>H</strong>: seconds per litre lost in the pit stop to refuel the car. Real with 2
+  decimal digits.<br>
+  <strong>I</strong>: seconds lost in the first lap if we decide to start from the pit line.
+  Real with 2 decimal digits.<br>
+  <strong>J</strong>: litres of fuel consumed per lap (it is supposed to be independent of
+  the speed, and <strong>J</strong>&lt;=<strong>D</strong>). Integer.<br>
+  <strong>N</strong>: the name of the circuit. String.<br>
+  </p>
+</ul>
+
+<p>Observe that fuel is always considered to be an integer value, while time is given in
+seconds with 2 decimal digits (rounding is not required in this problem).</p>
+
+<h2><font color="#0070E8">The Output</font></h2>
+
+<p>For each test case, the output should contain the following lines (the text in <strong>bold</strong>
+must appear literally):</p>
+
+<pre><strong>Circuit</strong> N
+<strong>Estimated time</strong>
+T
+<strong>Initial fuel</strong>
+K
+<strong>Pit stops</strong>
+S
+</pre>
+
+<p>Where:
+
+<ul>
+  <p><strong>T</strong>: estimated time (in seconds) to complete the <strong>A</strong> laps
+  of the race using the optimum strategy. Real with 2 decimal digits.<br>
+  <strong>K</strong>: initial fuel load; if <strong>K</strong> is not equal to <strong>C</strong>,
+  it means that we start the race from the pit line. Integer.<br>
+  <strong>S</strong>: optimum number of pits stops. Integer.<br>
+  </p>
+</ul>
+
+<p>You can suppose that the solution always exists and is unique.</p>
+
+<h2><font color="#0070E8">Sample Input</font></h2>
+
+<pre>4
+Circuit of Monte Carlo
+78 3.34
+Fuel
+70 160
+Speed
+79.22 0.3
+Pit stop
+24.51 0.11 18.54
+Consumption
+4
+Circuit of Hockenheim
+67 4.57
+Fuel
+60 180
+Speed
+81.32 0.3
+Pit stop
+22.81 0.09 21.33
+Consumption
+5
+Circuit of Valencia
+57 5.44
+Fuel
+57 150
+Speed
+72.32 0.2
+Pit stop
+22.01 0.13 20.12
+Consumption
+5
+Circuit of Moon Park
+60 6.21
+Fuel
+10 160
+Speed
+76.32 -0.3
+Pit stop
+10.00 0.26 15.25
+Consumption
+6
+</pre>
+
+<h2><font color="#0070E8">Sample Output</font></h2>
+
+<pre>Circuit of Monte Carlo
+Estimated time
+6002.41
+Initial fuel
+70
+Pit stops
+3
+Circuit of Hockenheim
+Estimated time
+5271.32
+Initial fuel
+60
+Pit stops
+3
+Circuit of Valencia
+Estimated time
+4087.14
+Initial fuel
+57
+Pit stops
+2
+Circuit of Moon Park
+Estimated time
+4763.39
+Initial fuel
+160
+Pit stops
+4
+</pre>
+</body>
+</html>

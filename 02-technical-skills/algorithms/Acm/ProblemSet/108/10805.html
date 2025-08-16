@@ -1,0 +1,123 @@
+<html>
+<head>
+    <title>Cockroach Escape Networks</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem ?</B></FONT><BR>
+<FONT SIZE="5"><B>Cockroach Escape Networks</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 3 seconds</FONT>
+</CENTER>
+</P>
+
+<p align="right">
+<table border=0><tr><td><small>
+<i>"Bug powder dust an' mugwump jism<br>
+And the wild boys runnin' 'round Interzone trippin'"</i>
+</td></tr></table>
+<tt>Justin Warfield, Bomb the Bass</tt>
+</small></p>
+
+<P CLASS="paragraph">
+Bill Lee shares his apartment with a group of cockroaches. The bugs
+are smart and have several nests inside the apartment. When they are
+inside one of the nests, Bill can not catch them. Some pairs of nests
+are connected by cockroach trails, and it takes one unit of time to
+run from one nest along a trail to any neighbouring nest.
+However, it takes a lot of the cockroaches' resources to maintain all
+of the trails in good condition. What they need is to destroy some of
+the trails, but still make sure that it is possible to run from any
+nest to any other nest along a sequence of trails.
+</P>
+
+<P CLASS="paragraph">
+There are <b>n</b> nests in the room, and each nest has at least
+<b>n</b>-1 cockroaches in it at any moment. In case of emergency (when
+Bill comes into the room and turns on the light), the roaches go into
+a state of panic - from every nest, <b>n</b>-1 roaches strat running,
+one to every other nest along the trails. Several roaches can run along
+the same trail without interfering with each other. The time it takes for
+the last cockroach to reach its destination is called the Emergency
+Response Time. The cockroaches are smart and always choose the shortest
+path.
+</P>
+
+<P CLASS="paragraph">
+Your task is, given a description of the cockroaches' network, find the
+set, T, of trails that need to be kept so that it is possible to reach
+any nest B from any nest A along a path in T. If there are multiple
+such sets, pick the one that has the fewest trails. If there is still
+a tie, pick the one that guarantees the smallest Emergency Response Time.
+Print that time.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The first line of input gives the number of cases, <b>N</b>.
+<b>N</b> test cases follow. Each one starts with a line containing
+the integers <b>n</b> (the number of nests) and <b>m</b> (the number of
+trails). The next <b>m</b> lines will give the pairs of nests that are
+connected by a trail. The nests are numbered from 0 to <b>n</b>-1. <b>n</b>
+is at most 25. There will be no trails from a node to itself and no
+duplicate trails.
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+For each test case, output the line "Case #<b>x</b>:", where <b>x</b> is the
+number of the test case. On the next line, print the smallest possible
+Emergency Response Time. Print an empty line after each test case.
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+2
+4 4
+0 1
+1 2
+2 3
+3 0
+5 7
+0 1
+1 4
+0 2
+1 2
+1 3
+4 3
+2 3
+</PRE>
+</TD>
+<TD>
+<PRE>
+Case #1:
+3
+
+Case #2:
+2
+
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+<HR>
+<B>Problemsetter: Igor Naverniouk</B>
+</P>
+
+</td></tr></table>
+</body>
+</html>

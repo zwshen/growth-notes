@@ -1,0 +1,141 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<title>B - Strange Integration</title>
+<style>
+<!--
+.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" link=blue vlink=purple class="Normal" lang=EN-US> 
+<div class=Section1> 
+  <table width="100%" border=1 cellpadding=0 cellspacing=0> 
+    <tr> 
+      <td colspan=2 class="Normal"> <p align=center style='text-align:center'><i><span style='font-size:20.0pt;font-family:Garamond;'>4<sup>th</sup> </span></i><i><span style='font-size:20.0pt;
+    font-family:Garamond;    '>IIUC</span></i><i><span style='font-size:20.0pt;font-family:Garamond;'> </span></i><i><span
+    style='font-size:20.0pt;font-family:Garamond;
+    '>Inter-University</span></i><i><span style='font-size:20.0pt;font-family:Garamond;'> Programming Contest, 2005</span></i></p></td> 
+    </tr> 
+    <tr> 
+      <td width=14% rowspan=3 class="Normal"> <p align=center style='text-align:center'><b><span
+  style='font-size:60.0pt;font-family:Arial'>B</span></b></p></td> 
+      <td class="Normal"> <p align=center style='text-align:center'><b><span
+  style='font-size:20.0pt;font-family:Arial'>Strange Integration</span></b></p></td> 
+    </tr> 
+    <tr> 
+      <td class="Normal"> <p><b><span style='font-size:11.0pt;font-family:Arial'>Input: standard input<br>
+      </span></b><b><span style='font-size:11.0pt;font-family:Arial'>Output: standard output</span></b></p>         </td> 
+    </tr> 
+    <tr> 
+      <td class="Normal"> <p><b><span style='font-size:11.0pt;font-family:Arial'>Problemsetter: </span></b><b><span style='font-size:11.0pt;font-family:Arial'>Md.</span></b><b><span
+  style='font-size:11.0pt;font-family:Arial'> Kamruzzaman</span></b></p></td> 
+    </tr> 
+  </table> 
+  <p style='text-align:justify'>Do not get perplexed with the name of problem, it has nothing to do with integral calculus. We will concentrate on integration of simple algebraic expressions.</p> 
+  <p style='text-align:justify'>Complex algebraic expressions consisting of integers, addition and multiplication operators and parentheses can be represented by the following BNF notations –</p> 
+  <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0> 
+    <tr> 
+      <td width=355 valign=top class="Normal"> <p>&lt;expr&gt;   &#8594; &lt;expr&gt; <b>+</b> &lt;term&gt;<br>
+        &lt;expr&gt;   &#8594; &lt;term&gt;<br>
+        &lt;term&gt;   &#8594; &lt;term&gt; <b>*</b> &lt;factor&gt;<br>
+        &lt;term&gt;   &#8594; &lt;factor&gt;<br>
+        &lt;factor&gt; &#8594; <b>(</b>&lt;expr&gt;<b>)<br>
+        </b>&lt;factor&gt; &#8594; <b>num</b></p>        </td> 
+    </tr> 
+  </table> 
+  <p style='text-align:justify'>According to the above grammar, both operators are left associative and multiplication is given higher precedence. So, 2 + 3*4 is same as 2 + (3*4). Similarly, 2 + 3 + 4 is same as (2+3) + 4. On the other hand, (2 + 3) * 4 is different to 2 + 3 * 4. It may be surprising but 2 + 3 + 4 is different to 2 + (3 + 4) as in this case, the order of evaluation is different.-</p> 
+  <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0> 
+    <tr> 
+      <td width=168 valign=top class="Normal"> <p>    2 + 3 + 4<br>
+        =  5 + 4<br>
+        =  9</p>        </td> 
+      <td width=180 valign=top class="Normal"> <p>    2 + (3 + 4)<br>
+        =  2 + 7<br>
+        =  9</p>        </td> 
+    </tr> 
+  </table> 
+  <p>Consider the expression (2+3)*4 + (2 +3)*5 + 6</p> 
+  <p align=center style='text-align:center'><img width=608 height=245
+src="p10906.png" v:shapes="_x0000_i1025"></p> 
+  <p style='text-align:justify'>The above picture depicts two different ways of representing the expression in hand if we follow the given grammar. The left one is known as the AST (Abstract Syntax Tree) and the other one is DAG (common sub-expression is handled once). Such a representation clearly shows the way of evaluating an algebraic expression. Here, each non-leaf node is assigned a <b>unique</b> variable name. As a result, we can have a sequence of simple expressions to evaluate the expression –</p> 
+  <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0> 
+    <tr> 
+      <td width=196 valign=top class="Normal"> <p style='text-align:justify'><span style='font-size:15.0pt;
+  '>a = 2 + 3<br>
+      </span><span style='font-size:15.0pt;
+  '>b = a * 4<br>
+      </span><span style='font-size:15.0pt;
+  '>c = 2 + 3<br>
+      </span><span style='font-size:15.0pt;
+  '>d = c * 5<br>
+      </span><span style='font-size:15.0pt;
+  '>e = b + d<br>
+      </span><span style='font-size:15.0pt;
+  '>f = e + 6</span></p>        </td> 
+      <td width=192 valign=top class="Normal"> <p style='text-align:justify'><span style='font-size:15.0pt;
+  '>a = 2 + 3<br>
+      </span><span style='font-size:15.0pt;
+  '>b = a * 4<br>
+      </span><span style='font-size:15.0pt;
+  '>d = a * 5<br>
+      </span><span style='font-size:15.0pt;
+  '>e = b + d<br>
+      </span><span style='font-size:15.0pt;
+  '>f = e + 6</span></p>        </td> 
+    </tr> 
+  </table> 
+  <p style='text-align:justify'>In both cases, <b>f</b> denotes the original expression (2+3)*4 + (2+3)*5 + 6. Here, you have to integrate a sequence of simple expressions into the original one. A simple expression will always be of the form –</p> 
+  <p align=center style='text-align:center'><i>variable</i> = (<i>variable</i> | <i>integer</i>)  (<b>+</b> | *)  (<i>variable</i> | <i>integer</i>)</p> 
+  <p style='text-align:justify'>For a given sequence of simple expressions, there can be several original expressions. Consider the following cases –</p> 
+  <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0> 
+    <tr> 
+      <td width=240 valign=top class="Normal"> <p style='text-align:justify'>a =  2 + 3<br>
+        b =  a * 4<br>
+        Then <b>b</b> can be - </p>        </td> 
+      <td width=240 valign=top class="Normal"> <p style='text-align:justify'>b = (2 + 3) * 4<br>
+        b = ((2 + 3) * 4)<br>
+        b = ((2) + (3)) * 4<br>
+        etc.</p>        </td> 
+    </tr> 
+  </table> 
+  <p style='text-align:justify'>We need the first one, i.e. expression having minimum number of literals.</p> 
+  <p style='text-align:justify'><b><span style='font-size:16.0pt;
+font-family:Arial'>Input</span></b></p> 
+  <p style='text-align:justify'>The input file will start with an integer, <b>T </b>(<b>1&#8804;T&#8804;100</b>) denoting the number of tests. Each input will start with a positive integer, <b>N (1&#8804;N&#8804;50)</b> which is the number of simple expressions. Subsequent lines will contain the simple expressions defined above. The input will be valid, i.e. it will be always possible to construct a correct expression. Also, variable names will be referenced once they have been assigned. Either variable name or integers can have at most <b>10</b> characters. The integers will be always positive here (no unary minus) and variable names will contain letters only. Spaces will be used to separate numbers, variables and operators.</p> 
+  <p style='text-align:justify'><b><span style='font-size:16.0pt;
+font-family:Arial'>Output</span></b></p> 
+  <p style='text-align:justify'>For each input, print “Expression #<b>D</b>: “ followed by the expression denoted by the last variable in the list of simple expressions. Here <b>D</b> is the test number, starting from 1. The length of any expression will not be greater than <b>5000</b>.</p> 
+  <table width="100%" border=1 cellpadding=0 cellspacing=0> 
+    <tr> 
+      <td width=50% valign=top class="Normal"> <p style='text-align:justify'><b><span style='font-size:16.0pt;
+  font-family:Arial'>Sample Input</span></b></p></td> 
+      <td width=50% valign=top class="Normal"> <p style='text-align:justify'><b><span style='font-size:16.0pt;
+  font-family:Arial'>Output for Sample Input</span></b></p></td> 
+    </tr> 
+    <tr> 
+      <td valign=top class="Normal"> <p><b><span
+  style='font-family:"Courier New"'>2<br>
+      </span></b><b><span
+  style='font-family:"Courier New"'>2<br>
+      </span></b><b><span
+  style='font-family:"Courier New"'>A = 2 + 3<br>
+      </span></b><b><span
+  style='font-family:"Courier New"'>B = A + A<br>
+      </span></b><b><span
+  style='font-family:"Courier New"'>3<br>
+      </span></b><b><span
+  style='font-family:"Courier New"'>A = 2 + 3<br>
+      </span></b><b><span
+  style='font-family:"Courier New"'>B = A + 4<br>
+      </span></b><b><span
+  style='font-family:"Courier New"'>C = B + 5</span></b></p>        </td> 
+      <td valign=top class="Normal"> <p><b><span
+  style='font-family:"Courier New"'>Expression #1: 2+3+(2+3)<br>
+      </span></b><b><span style='font-family:"Courier New"'>Expression #2: 2+3+4+5</span></b></p>        </td> 
+    </tr> 
+  </table> 
+</div> 
+</body>
+</html>

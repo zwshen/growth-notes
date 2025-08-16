@@ -1,0 +1,98 @@
+# Getting Travel Documents
+
+Welcome to English as a Second Language Podcast number 4 17: Getting Travel Documents. 
+
+This is English as a Second Language Podcast episode 417.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in the beautiful City of Los Angeles, California. 
+
+Our website is eslpod.com.  Please go there and download  a Learning Guide for this episode that contains all of the vocabulary, definit ions, sample sentences, additional definitions, comprehension questions, cultural  notes, and a complete transcript of everything we say on this episode. 
+
+This episode is called “Getting Travel Documents.”  It’s a  dialogue between Steve and Joyce about passports, visas, and other things that you need to know if you are going to travel to another country.  Let’s g et started. 
+
+[start of dialogue] 
+
+Joyce:  We need to apply for our passports now if we want to have them in time for our trip to McQuillanland. 
+
+Steven:  I have a passport. 
+
+Joyce:  Yes, but it expired last year.  You need to renew it before you can get a visa.  McQuillanland requires a visa and vaccinations before  they’ll allow entry into the country. 
+
+Steven:  Okay, okay, where is the application?  I thought  U.S. citizens could travel freely in McQuillanland. 
+
+Joyce:  That used to be true, but their policies have chang ed.  We also need to bring our applications to their consulate in person, wit h all of the supporting documents.   
+
+Steven:  Fine.  The application asks which visa classification  we’re applying for. Should I check student or tourist? 
+
+Joyce:  Even though we’re taking a language course while w e’re there, we’re asking for a tourist visa.  We can stay for three months on a tourist visa. 
+
+ Steven:  What are they going to do if we overstay our visa, deport us? 
+
+Joyce:  Yes they will, and you don’t want to deal with th e McQuillanland authorities.  They’re not known for being kind to lawbr eakers. 
+
+Steven:  Those McQuillanlanders are my kind of people. 
+
+[end of dialogue] 
+
+Our dialogue begins with Joyce saying to her husband Steve n, “We need to apply for our passports now if we want to have them in  time for our trip to McQuillanland.”  A “passport” is an official document t hat you get from your government where you are a citizen that allows you to tra vel outside of the country; it allows you to go to another country.  A passpor t usually is a small little book that has your photograph and many different pages i n it so that each country you visit can put their mark – a stamp – on your pa ssport.  Passports in the U.S. for adults are usually good for 10 years.  So once you get a passport, you don’t need to “renew,” or get a different passport , for 10 years. 
+
+Joyce says they need to apply for their passports if they want to have them in time for their trip to McQuillanland.  The expression “ in time for” means before something else happens, before something is due.  If the  party starts at seven o’clock, you need to arrive by seven to be there in time f or the beginning.  Of course, if you’re here in Los Angeles, you would probably arrive about an hour late.  At least that’s what a lot of people here do; they don’t come in time for the beginning of the party, or at the time the party begi ns. 
+
+Well, Steve and Joyce are going to McQuillanland – which is, of course, is a very exciting place to visit!  Steven says, “I have a passport.”  Jo yce says, “Yes, but it expired last year.”  When something “expires,” it is no longer good; it is no longer valid.  It was only good for a certain amount of time and now that time is over.  If you are a student taking a test in school and you are give n 30 minutes to complete the test, at the end the teacher might say, “T ime has expired.”  “The passport has expired” means that it is no longer good, you  need to get a new one; you need to “renew” it, to get a new document in  place of the old one.   
+
+Joyce says, “You need to renew (your passport) before you can get a visa.”  A “visa” is a document from another country that gives you p ermission to enter that country, usually for a certain amount of time.  Many peo ple who travel to the United States may need to get a visa, special permission fr om the United States government that allows you to come to this country.  Your  passport, then, comes from your government in your country; a visa, if it’s necessa ry, will come from the  
+
+ government that you are visiting, or the government of t he country that you are visiting. 
+
+Joyce says, “McQuillanland,” which apparently is a little dan gerous, “requires a visa and vaccinations before they’ll allow entry into the co untry.”  “Vaccinations” are drugs – injections that you get to prevent you from getting a specific disease later in life.  Here in the United States, for exampl e, all of the babies and young children are given vaccinations against diseases such as polio  and the measles. Vaccinations are sometimes required when you visit another country that may have illnesses that you are not familiar or prepared for  – or your body is not prepared for.  Joyce says you need the vaccinations before Mc Quillanland will allow entry into the country.  “Entry” (entry) is the pr ocess of going into another country.  “Is this your first entry to the United States?”  – is this the first time you have come here?  “Entry” has a couple of different meani ngs in English; take a look at that Learning Guide I recommended for more in formation. 
+
+Steven, who’s obviously not the smart one here, says, “Okay, okay, where is the application (meaning the passport application).  I thou ght U.S. citizens could travel freely in McQuillanland.”  The expression “to trave l freely” means be able to go from one country to another without needing a sp ecial visa or special permission.  This is very common, for example, in Europe, where people can travel often from one country to another without any sor t of special visa or permission from the government. 
+
+Joyce, who is obviously the smart one, says, “That used to be true (it used to be true that you could travel freely), but (McQuillanland ’s) policies have changed.” Their “policies” are their rules, their regulations, th eir official way of doing something.  Joyce says, “We also need to bring our applicati ons to their consulate in person, with all of the supporting document s.”  A “consulate” (consulate) is a building that belongs to another countr y where people can get help if they want to travel to that country.  A consulate  does many different things.  In every country there is one main building that  is usually in the capital of that country, that’s called the “embassy.”  But sometimes in  other cities of the country there may be other offices of that country’s govern ment, which we call “consulates.”  Here in Los Angeles there are consulates fr om many different countries, but the main building – the embassies – are l ocated in Washington, D.C. 
+
+So, Joyce says they have to go to the consulate in person, m eaning you have to each go there; you can’t just mail it in, you have to go  to the building yourself. They have to go with all of their supporting documents.   These are usually other papers that someone needs to look at in addition to your  main application, or  
+
+ your main solicitation.  These may include your birth cer tificate or proof of citizenship. 
+
+Steven says, “Fine.  The application asks which visa classificatio n we’re applying for.”  A “classification” is the type or kind of something.   Different countries have different visa classifications.  Here in the United State s you might be a student, that’s one kind of visa.  Or you might be coming here just  to visit, that’s another kind of visa.  Visa classifications will be different in each  country.  Steven says, “Should I check student or tourist?”  A “tourist” is a pe rson who visits another country for a short period of time, usually just to have f un on vacation; they’re not working or studying. 
+
+Joyce says, “Even though (although) we’re taking a language  course while we’re there (in McQuillanland, because they must speak a differ ent language), we’re applying for a tourist visa (we’re asking for a tourist visa ).  We can stay three months on a tourist visa,” meaning with that particular classification they can stay in the country for three months. 
+
+Steven asks, “What are they going to do if we overstay our visa, deport us?”  To “overstay your visa” means to stay in a country longer than yo u have permission to, to stay in a country after your visa has expired.  Usual ly that’s not a good idea, especially here in the U.S.  To “deport” someone  means to make that person leave the country, usually because he or she is not allowed to stay in the country, or perhaps because you have broken the law – you  have done something illegal and the country is sending you back to h ome country.  That’s “deporting” someone; the noun would be “deportation .” 
+
+Joyce says, “Yes they will (yes, they will deport us), and you d on’t want to deal with the McQuillanland authorities.”  To “deal with”  means you don’t want to have interactions with – you don’t want to be talking to the  McQuillanland authorities. “Authorities” are the people who are in charge, ofte n government officials.  Joyce says these McQuillanland authorities are not known for b eing kind to lawbreakers.  “Are not known,” here, means that’s not t heir reputation, that’s not what people think about them.  They don’t think that t hey’re kind to lawbreakers. A “lawbreaker” (one word) is a person who does something  illegal, something against the law, someone who breaks the law.  So the McQ uillanland authorities, I guess, are pretty tough – pretty difficult to get alon g with. 
+
+Steven says, “Those McQuillanlanders (those people who live in McQuillanland) are my kind of people.”  When someone says their one’s “kin d of people,” they mean they are people that you would feel comfortable w ith because they have  
+
+ the same opinions and beliefs and way of living that you  have.  I think the McQuillanland people would be my kind of people! 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Joyce:  We need to apply for our passports now if we want to have them in time for our trip to McQuillanland. 
+
+Steven:  I have a passport. 
+
+Joyce:  Yes, but it expired last year.  You need to renew it before you can get a visa.  McQuillanland requires a visa and vaccinations before  they’ll allow entry into the country. 
+
+Steven:  Okay, okay, where is the application?  I thought  U.S. citizens could travel freely in McQuillanland. 
+
+Joyce:  That used to be true, but their policies have chang ed.  We also need to bring our applications to their consulate in person, wit h all of the supporting documents.   
+
+Steven:  Fine.  The application asks which visa classification  we’re applying for. Should I check student or tourist? 
+
+Joyce:  Even though we’re taking a language course while w e’re there, we’re asking for a tourist visa.  We can stay for three months on a tourist visa. 
+
+Steven:  What are they going to do if we overstay our visa, deport us? 
+
+Joyce:  Yes they will, and you don’t want to deal with th e McQuillanland authorities.  They’re not known for being kind to lawbr eakers. 
+
+Steven:  Those McQuillanlanders are my kind of people. 
+
+[end of dialogue] 
+
+The script for this episode was written by someone who’s my kind of people, Dr. Lucy Tse.   
+
+ From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan.  This podcast is copyright 2008 .
+

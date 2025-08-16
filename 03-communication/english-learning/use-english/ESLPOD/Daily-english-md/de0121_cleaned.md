@@ -1,0 +1,49 @@
+# Cooking Dinner
+
+Welcome to English as a Second Language Podcast num ber 121: Cooking Dinner. 
+
+Hello and welcome to episode 121 of English as a Se cond Language Podcast. I’m your host, Dr. Jeff McQuillan, coming to you fr om the Center for Educational Development in beautiful Los Angeles, California. 
+
+Today’s podcast is about me cooking dinner. Let’s g et started! > I'm not a very good cook, but I decided to surprise  my wife by making a three- course meal. I went to the supermarket to get the d essert, and I stopped by the farmer's market to get some fresh vegetables, my in gredients for the salad.  
+> The meal would start with a salad. I washed the veg etables in the sink, chopped them up, and mixed them in a bowl with a light dres sing. That was pretty easy. 
+> The next course was going to be more difficult. The  main dish would be salmon. I put the oil and the fish in the pan, but it was dif ficult to know when it was done, not underdone or overcooked.  
+> The last part of the meal would be the dessert. I d ecided to buy a small chocolate cake. The meal turned out pretty well and my wife e njoyed it. After dinner, we went into the kitchen and saw all of the dirty dish es that needed washing. I realized that cooking isn't the hard part, it's the  cleaning up!
+
+Our story begins with me telling you that I am not a very good cook and that is true; that is not just part of the story. I am not a very good cook, but I decided to surprise my wife. “To surprise someone” is to do so mething they don’t expect. I decided to surprise my wife by making a three-cours e-meal. A “three-course- meal” – “course” (course) means that there are thre e different parts of the meal. The first part is what we call the “appetizer” or t he salad. We have salad first in a meal, or soup. The second course would be what we w ould call the “main course” where you would have, for example, meat or sea food, fish, etc. – that would be the main course. And usually, you’ll have some vegetables and maybe some potatoes or rice or something else. And then t he third course would be the  
+
+dessert course where you would have cake or somethi ng sweet. So, that’s a “three-course-meal,” (meal) – of course, is what yo u eat – a meal. This is a dinner meal. 
+
+I decided to go to the “supermarket.” And a “superm arket” – all one word – (supermarket) is a big store where you buy lots of different types of food. Some people call it just a “grocery store.” A “grocery s tore” – “grocery” is (grocery) – that is the same thing as a supermarket. “Groceries ” is another word for food. Well, I go to the supermarket to get the dessert, t he third course, and I stopped by the farmer’s market to get some vegetables. “To stop by” – two words – “to stop by” (by) – means that you were going from one place to another and you decided to stop and do something along the way befo re you got there. So, if I’m going to the bank and I also need to go to the libr ary, I may stop by the library first and then go to the bank – means I go there an d then I go somewhere else. 
+
+Well, I stopped by the “farmer’s market.” “Farmer” (farmer’s) – a “farmer,” of course, is the person who grows food, and in the Un ited States, at least in California, I know, there are lots of farmer’s mark ets and these are usually on one day of the week in a different part of the city . And people who sell food – who make, who grow their own food – come in and they se ll their food directly to people. There is no market, there is just a farmer’ s market. They’re just a group of people together who are selling food. We have – boy, three or four farmer’s markets on different days around where I live and u sually the food is a little fresher, especially the vegetables. It’s mostly veg etables. Things like lettuce and carrots and grapes and those sorts of things you wi ll find in a “farmer’s market.” Well, I went to the farmer’s market to get some veg etables and also, these vegetables were my “ingredients” for the salad. “In gredients” (ingredients) – “ingredients” are the things that you put into food  where the different parts of the food. So, the ingredients, for example, for macaron i and cheese – which is a favorite American food, especially for children – “ macaroni” is a type of pasta. Macaroni and cheese are the two ingredients for “Ma caroni and cheese.” So, an “ingredient” is anything that you put into the food . 
+
+Well, the meal would start, I decided, with a salad  – that would be the first course. So, I washed the vegetables in the sink. Th e “sink” (sink) is where you can run water and the water goes down into a pipe ( pipe) – that’s part of the sink. Well, in the sink I washed the vegetables and I “ch opped them up.” “To chop up” (chop) (up) – two words – “to chop up” means to cut . So, I cut them up in small pieces – that’s usually chopping up – usually means  doing it, cutting it in small pieces. I mixed them in a bowl with a light dressin g. So, I put them together with a light dressing. A “dressing” is something that – a liquid that you put on salad. Usually, it has oil – sometimes oil, and vinegar, d ifferent ingredients go into  
+
+dressing. It’s sometimes also called a “salad dress ing” or a “dressing” here is the same thing. 
+
+The next meal was going to be the main dish – the m ain course. And “dish” (dish) has two meanings. At least, “dish” can be the physi cal plate that you put something on or the bowl you put something in. A “d ish” also can mean the same as the course or a part of the meal. Well, the main  dish was going to be fish and the fish was “Salmon,” which is spelled (salmon) – in English, salmon. I put oil and the fish into a pan (pan). The “pan” is the met al thing that you put over the fire – over the flame (flame) – that’s the fire und er on the stove. And you heat up the pan and you put the oil and fish.  
+
+But I said it was difficult to know when it was don e – not “underdone or overcooked.” When we say the food is “done” (done) we mean it’s cooked just right. It’s cooked correctly. When we say it’s “und erdone” – all one word – “underdone” (underdone) – that means it isn’t cooke d enough. You need to cook it more and “overcooked” – also one word – “overcoo ked” means you’ve cooked it too long. You’ve cooked it too much. 
+
+ Well, the last part of the meal was going to be a dessert and I bought a small chocolate cake because, c’mon, I can’t do everythin g, right? So, the last part of the meal was a chocolate cake. And I say that the m eal “turned out” pretty well. “To turn out” means to result – what happens at the  end. You can use that expression and it’s two words – “turn” “out” (turn)  (out) – you can use that expression to talk about anything, how anything end ed or how anything resulted. For example, “How did that movie turn out?” means w hat happens at the end? Here, the meal turned out “pretty well,” meaning th e result was pretty good. My wife enjoyed it. Of course, after dinner, we went i nto the kitchen and saw all the dirty dishes – all the plates, cups, the pans, the glasses – all of those were dirty and those are dirty dishes. Remember “dish” has tho se two meanings – here it means the actual plate and spoons and forks etc.  
+
+I say at the end that I realized that cooking isn’t  the hard part. It’s the cleaning up. And “to clean (clean) up” is to – really it’s the s ame as to clean. But again, in English, we often add the second word or making som ething – giving something emphasis. So, the “cleaning up” here would be the c leaning of the dishes. 
+
+Now let’s listen to the story this time at a native  rate of speech. 
+
+[start of story] 
+
+I'm not a very good cook, but I decided to surprise  my wife by making a three- course meal. I went to the supermarket to get the d essert, and I stopped by the farmer's market to get some fresh vegetables, my in gredients for the salad.  
+
+The meal would start with a salad. I washed the veg etables in the sink, chopped them up, and mixed them in a bowl with a light dres sing. That was pretty easy. 
+
+The next course was going to be more difficult. The  main dish would be salmon. I put the oil and the fish in the pan, but it was dif ficult to know when it was done, not underdone or overcooked.  
+
+The last part of the meal would be the dessert. I d ecided to buy a small chocolate cake. The meal turned out pretty well and my wife e njoyed it. After dinner, we went into the kitchen and saw all of the dirty dish es that needed washing. I realized that cooking isn't the hard part, it's the  cleaning up! 
+
+[end of story] 
+
+From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. We’ll see you next time on ESL Podcast. 
+
+ESL  Podcast is a production of the Center for Educ ational Development in Los Angeles, California. This podcast is copyright 2005 . No part of this podcast may be sold or redistributed without the expressed writ ten permission of the Center for Educational Development.
+

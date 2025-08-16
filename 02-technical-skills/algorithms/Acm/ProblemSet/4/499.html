@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>What's The Frequency, Kenneth?</TITLE>
+<META NAME="description" CONTENT="What's The Frequency, Kenneth?">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">What's The Frequency, Kenneth?</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+<PRE>#include &lt;stdio.h&gt;
+
+main()
+{
+  int i;
+  char *suffix[]= { &quot;st&quot;, &quot;nd&quot;, &quot;rd&quot; };
+  char *item[]= { &quot;Unix&quot; , &quot;cat&quot;, &quot;sed&quot;, &quot;awk&quot;, &quot;grep&quot;, &quot;ed&quot;, &quot;vi&quot;};
+ 
+  printf(&quot;In the beginning, there was nothing.\n&quot;);
+  for (i= 0; i &lt; 7; i++)
+    printf(&quot;And on the %d%s day, God created %s. And it was good.\n&quot;,
+           i + 1, (i &lt; 3) ? suffix[i] : &quot;th&quot;, item[i]);
+}</PRE>
+<P>
+But then God saw that <TT>vi</TT> led people into temptation. Instead of choosing the righteous ways of <TT>make</TT>,
+<TT>dbx</TT>, and <TT>RCS</TT>, people used long command lines, <TT>printf()</TT>, and tape backups.
+<P>
+So God decreed, ``I see that Engineers have thus defiled my <TT>vi</TT>. And so, I shall create <EM>emacs</EM>, an editor
+more powerful than words. Further, for each instantiation <TT>vi</TT> hitherto, the Engineer responsible shalt perform
+Penance. And lo, the Penance wilt be painful; there will be much wailing and gnushingof teeth. The Engineer
+will read many lines of text. For each line of text, the Engineer must tell me which letters occur the most frequently.''
+<P>
+``I charge you all with My Golden Rule: 'Friends shalt not let friends use <TT>vi</TT>'.''
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+Each line of output should contain a list of letters that all occured with the highest frequency in the corresponding input line, followed by the frequency.
+<P>
+The list of letters should be an alphabetical list of upper case letters followed by an alphabetical
+list of lower case letters.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>When riding your bicycle backwards down a one-way street, if the
+wheel falls of a canoe, how many ball bearings does it take to fill
+up a water buffalo?
+Hello Howard.</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>e 6
+al 7
+a 3
+Hlo 2</PRE>
+<P>
+</BODY>
+</HTML>

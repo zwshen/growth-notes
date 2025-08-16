@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>There's treasure everywhere!</TITLE>
+<META NAME="description" CONTENT="There's treasure everywhere!">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+There's treasure everywhere!</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Finding buried treasures is simple: all you need is a map! The pirates in the Caribbean were
+famous for their enormous buried treasures and their elaborate maps. The maps usually read like
+``Start at the lone palm tree. Take three steps towards the forest, then seventeen step towards the small
+spring, . . . blahblah . . . , finally six steps toward the giant rock. Dig right here, and you will find my
+treasure!'' Most of these directions just boil down to taking the mentioned number of steps in one of
+the eight principal compass directions (depicted in the left of the figure).
+
+<P>
+Obviously, following the paths given by these maps may lead to an interesting tour of the local
+scenery, but if one is in a hurry, there is usually a much faster way: just march directly from your
+starting point to the place where the treasure is buried. Instead of taking three steps north, one step
+east, one step north, three steps east, two steps south and one step west (see figure), following the
+direct route (dashed line in figure) will result in a path of about 3.6 steps.
+
+<P>
+You are to write a program that computes the location of and distance to a buried treasure, given
+a `traditional' map.
+
+<P>
+<DIV ALIGN="CENTER">
+<img src=p587.gif>
+</DIV>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains several strings, each one on a line by itself, and each one consisting of at most
+200 characters. The last string will be <TT>END</TT>, signaling the end of the input. All other strings describe
+one treasure map each, according to the following format:
+
+<P>
+The description is a comma-separated list of pairs of lengths (positive integers less than 1000) and
+directions (<TT>N</TT> (north), <TT>NE</TT> (northeast), <TT>E</TT> (east), <TT>SE</TT> (southeast), <TT>S</TT> (south), <TT>SW</TT> (southwest), <TT>W</TT> (west)
+or <TT>NW</TT> (northwest)). For example, <TT>3W</TT> means 3 steps to the west, and <TT>17NE</TT> means 17 steps to the
+northeast. A full stop (<TT>.</TT>) terminates the description, which contains no blanks.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For every map description in the input, first print the number of the map, as shown in the sample
+output. Then print the absolute coordinates of the treasure, in the format ``<TT>The treasure is
+located at </TT>(<I>x</I>,<I>y</I>).''. The coordinate system is oriented such that the <I>x</I>-axis points east, and the
+<I>y</I>-axis points north. The path always starts at the origin (0,0).
+
+<P>
+On the next line print the distance to that position from the point (0,0), in the format ``<TT>The
+distance to the treasure is </TT><I>d</I>.''. The fractional values <I>x</I>, <I>y</I>, <I>d</I> must be printed exact to three digits to the right of the decimal point.
+
+<P>
+Print a blank line after each test case.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+3N,1E,1N,3E,2S,1W.
+10NW.
+END
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Map #1
+The treasure is located at (3.000,2.000).
+The distance to the treasure is 3.606.
+
+Map #2
+The treasure is located at (-7.071,7.071).
+The distance to the treasure is 10.000.
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1998-03-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,103 @@
+<html>
+<head>
+    <title>Multi-stage Compressor</title>
+</head>
+
+<body>
+<BASEFONT FACE="ARIAL">
+<P>
+<CENTER>
+<FONT SIZE="6"><B>Problem A</B></FONT><BR>
+<FONT SIZE="5"><B>Multi-stage Compressor</B></FONT><BR>
+<FONT SIZE="4">Time Limit: 1 second</FONT>
+</CENTER>
+</P>
+
+<P CLASS="paragraph">
+As part of an engeener team in ACM (Association for Compressors
+and Machinery) you're working in an air-condition system for a
+plane. As ambient air at 10km over surface is too cold, you have to mix
+it with some hot air from the engine.
+</P>
+
+<P CLASS="paragraph">
+To design the system, you need to know the pressure of the hot air at the
+bleeding point. You're supposed to bleed the air from one of the stages of
+the compressor in the engine. Unfortunately, you don't know pressures at
+intermediate stages, you can only measure pressure at the begining of the
+compressor. So, in this problem <u>you'll have to calculate pressure at stage
+<b>i</b></u>.
+</P>
+
+About the compressor, you know:
+<blockquote>
+	<li>Its global pressure ratio, that is, the pressure at the end of
+	the compressor (p<sub>n+1</sub>)divided by the ambient pressure(p<sub>1</sub>). Since you know ambient pressure,
+	you can easily 	calculate the pressure at the end of the compressor.
+	<li>The air is a perfect gas (that is, parameters c<sub>p</sub> and <img src=p108405.gif> are constant).
+	<li>After every stage of the compressor, there is a system that turns air's
+	temperature, T<sub>i</sub>, into ambient air temperature, T<sub>1</sub>. We
+	suppose there's no pressure loss in this process.
+	<li>The compressor has some constant (unknown) parametes: <img src=p108401.gif><sub>i</sub> (efficiency) and
+	<img src=p108402.gif> (the mass of air entering in the compressor each second). <img src=p108401.gif><sub>i</sub> is
+	defined as:
+
+<p align=center><img src=p108403.gif>
+
+	<li>Compressor's global power needed is <u>minimum</u>. Power for each stage is defined as:
+
+<p align=center><img src=p108404.gif>
+</blockquote>
+
+<p CLASS="paragraph">With all these, stage i's representation is as follows:
+<p align=center><img src=p108406.gif width=500 height=200>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Input</B></FONT><BR>
+The first line of input gives the number of cases, <b>N</b>.
+<b>N</b> test cases follow. Each one is a line containing
+<b>n</b> (the number of stages), <b>p<sub>1</sub> (p<sub>1</sub>&gt;0</b>) (ambient pressure),
+<b>p<sub>n+1</sub> (p<sub>n+1</sub>&ge; p<sub>1</sub>)</b> (final pressure) and <b>i  (with 1 &le; i &le; n+1)</b> (the stage you bleed air from).
+</P>
+
+<P CLASS="paragraph">
+<FONT SIZE="5"><B>Output</B></FONT><BR>
+For each test case, output one line containing <b>p<sub>i</sub></b>, the pressure at stage <b>i</b>, rounded to 2 decimal digits.
+</P>
+
+<TABLE WIDTH="100%" CELLSPACING=0 BORDERCOLOR=black BORDER=1 CELLPADDING=5>
+<TR VALIGN="TOP">
+<TD>
+<FONT SIZE="5"><B>Sample Input</B></FONT>
+</TD>
+<TD>
+<FONT SIZE="5"><B>Sample Output</B></FONT>
+</TD>
+</TR>
+<TR BGCOLOR="#D0D0D0" VALIGN="TOP">
+<TD>
+<PRE>
+3
+2 1 2 1
+2 1 2 2
+2 1 2 3
+</PRE>
+</TD>
+<TD>
+<PRE>
+1.00
+1.41
+2.00
+</PRE>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+<HR>
+<B>Problemsetter: Carlos M. Casas Cuadrado</B>
+</P>
+
+</td></tr></table>
+</body>
+</html>

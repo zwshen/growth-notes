@@ -1,0 +1,128 @@
+
+<!--Converted with LaTeX2HTML 2008 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Lexicographical ranking</TITLE>
+<META NAME="description" CONTENT="Lexicographical ranking">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Lexicographical ranking</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+As is well known, an alphabet is a standardized set of letters, and a word is the smallest free form 
+in a language; it can be written as a sequence of letters and symbolizes a meaning. Letters, as 
+elements of alphabets, have a prescribed order, generally known as <EM>alphabetical order</EM>. The principle behind extending the alphabetical order to words (<EM>lexicographical order</EM>) is that all 
+words in a list beginning with the same letter should be grouped together, and before any words 
+starting with a letter 
+that comes later in alphabetical order; within a group of all words starting with the same letter, all 
+words beginning with the same two letters shall be grouped together, and so on; thus, when comparing 
+two words for lexicographical order, the ordering is determined by the alphabetical order of the two 
+letters at the position where the two words first differ. If a word is a prefix of another, the former 
+comes before the latter. 
+
+<P>
+Here we are interested in a generic kind of words, bearing no relation with 
+any specific language. Each of such, let's say, <EM>pseudo-words</EM> will be an ordered subset of letters (that is to say, no letter is repeated and it does not matter whether the word has a meaning 
+in any actual language or not). As the set of available letters we will use the lower case (also 
+called minuscule) form of the Latin alphabet, along with their standard alphabetical order: 
+
+<P>
+<DIV ALIGN="CENTER">
+<TT>a&lt;b&lt;c&lt;d&lt;e&lt;f&lt;g&lt;h&lt;i&lt;j&lt;k&lt;l&lt;m&lt;n&lt;o&lt;p&lt;q&lt;r&lt;s&lt;t&lt;u&lt;v&lt;w&lt;x&lt;y&lt;z</TT>
+
+</DIV>
+
+<P>
+Your task is to calculate the position of a given string (its rank) in the list of all the 
+pseudo-words we can generate by using only characters of the string (remember that all of them are 
+different), sorted in lexicographical order, as well as to find the pseudo-words corresponding to one 
+or more given ranks.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input consists of several test cases. The first line, for each of them, contains a string of 
+(distinct) characters of the Latin alphabet in lower case (`<TT>a</TT> - <TT>z</TT>'). The length of such a 
+string will be between 1 and 20, inclusive. The following lines will contain an integer between 1 and 
+the total number of pseudo-words that is possible to form with the letters of the string, until a new 
+string is found or the input file ends.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case, output a line with the rank of the input string in the list of all pseudo-words, 
+and then print in a line by itself each of the pseudo-words ranked at the positions of the 
+corresponding input numbers.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+cadb
+1
+64
+38
+13
+23
+abcdefghijklmnopqrst
+1
+21
+</PRE> 
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+38
+a
+dcba
+cadb
+adb
+bc
+20
+a
+abcdefghijklmnopqrt
+</PRE> 
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>

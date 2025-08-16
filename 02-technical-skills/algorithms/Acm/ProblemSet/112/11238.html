@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Problem I: Innumerous bowling games</title>
+</head>
+<body>
+<center> 2007/2008 ACM International Collegiate Programming Contest <br>
+University of Ulm Local Contest
+<p> </p>
+<h1>Problem I: Innumerous bowling games</h1>
+</center>
+<p>As you all know Homer Jay Simpson is an enthusiastic bowling player.
+The last times when he played with his friends Carl and Lenny, Homer
+always scored the same number of points, but the games differed in at
+least one frame. Carl wonders how often Homer can reach the same number
+of points without playing any two identical games. </p>
+<p>For those of you who never enjoyed the great game of bowling we will
+explain the rules of bowling in detail: </p>
+<p>A bowling game
+consists of ten frames. Each frame starts with ten pins standing that
+you attempt to knock down by rolling a bowling ball towards the pins.
+A frame ends after two attempts or if there is no pin left standing.
+For each frame you get the number of pins you knocked down as points.
+However there are some bonus points if you manage to knock down all
+the pins. </p>
+<p>If you knock down all ten pins in the first attempt it is called a
+"strike" and you get as a bonus the number of pins knocked down in
+the next two attempts (which belong to the next frame(s)). If you
+manage to knock down all the remaining pins in the second attempt it
+is called a "spare" and you get the number of pins knocked down in
+the next attempt as a bonus (again, this attempt belongs to the next
+frame).
+In the last frame there are special rules for the bonus
+points: If you have got a spare/strike you have one/two additional
+bonus attempt(s) which count only as bonus points. If you have got
+two bonus attempts and have knocked down all pins with your first
+attempt, you start again with 10 pins for your second bonus attempt.
+As you may notice, it is possible to score a maximum of 30 points
+in each frame, thereby scoring 300 points in total.</p>
+<p>Your task is to help Carl to calculate the number of different
+bowling games which result in a specific score. </p>
+<h4>Input Specification</h4>
+<p>
+The input contains several test cases.
+Each test case consists of one line containing one integer <strong>s</strong>
+(<i>0 &le; s &le; 300</i>), the score for which you have to calculate
+the number of different bowling games.
+</p>
+<p>The last test case is followed by a line containing <i>-1</i>.
+</p>
+<h4>Output Specification</h4>
+<p>
+For each test case, print the number of different bowling games resulting in the given score in one line.
+You may assume that this number
+fits into a signed 64-bit integer (in C/C++ you can use the data type
+"long long", in JAVA the data type "long").
+</p>
+<table>
+<tbody>
+<td valign="top" width="40%">
+<h4>Sample Input</h4>
+<pre>0
+1
+2
+120
+100
+-1
+</pre>
+</td>
+<td width="20%"></td>
+<td valign="top" width="40%" align="left">
+<h4>Sample Output</h4>
+<pre>1
+20
+210
+4415377510495980
+50613244155051856
+</pre>
+</td>
+</tbody>
+</table>
+</body>
+</html>

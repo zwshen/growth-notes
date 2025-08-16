@@ -1,0 +1,96 @@
+# A Flirt
+
+Welcome to English as a Second Language Podcast num ber 160: Flirting. 
+
+You’re listening to English as a Second Language Po dcast episode 160. I’m your host, Dr. Jeff McQuillan, coming to you from the Ce nter for Educational Development in beautiful Los Angeles, California. 
+
+On today’s podcast, we’re going to do a little flir ting. When a boy and a girl are interested in each other, the girl will often flirt . Let’s find out more! 
+
+[start of dialog] 
+
+Elaine: You look happy.  
+
+Jerry: Me? Oh, I was just talking to Ling. 
+
+Elaine: Oh, no wonder! You better watch out. She’s a big flirt. 
+
+Jerry: What do you mean? 
+
+Elaine: Did she make eyes at you and whisper sweet nothings in your ear?  
+
+Jerry: Well, yes, she said she’d never met anybody like me before, and by her body language, I think she was serious. 
+
+Elaine: Then she’s still using the same old line th at she used with Kramer. She had him wrapped around her little finger.  
+
+Jerry: Give me a little credit. I know when I’m bei ng snowed and when a girl is really interested in me.  
+
+Elaine: I hope you’re right, but she’s quite the he artbreaker. I just don’t want you to get hurt. 
+
+Jerry: Thanks, but I think I can take care of mysel f. 
+
+Elaine: Okay. Suit yourself. 
+
+[end of dialog]  
+
+ The title of today’s podcast is “Flirting.” “To fli rt” (flirt) is when a man or a woman – or a boy or a girl – try to indicate to someone t hat they are romantically interested in – that they are romantically interest ed in them – to get their attention. If you like someone, and you want that p erson to be your boyfriend or girlfriend, or you want to get to know that person better in a romantic way, then it is very common for people to flirt. So, if we say a  girl is “flirting” with a boy, we mean she is sending him messages, signals, if you w ill, that she is interested in him. And, of course, women do this in many differen t ways. Men do as well. Women may, for example, smile or they may play with  their hair and brush their hair back – these are all, sometimes, even unconsci ous – you’re not even aware that you’re doing it. Well, in this case, we had a dialog between Elaine and Jerry. And Elaine says, “You look happy.” And Jerry says, “Me?” Notice, of course, that we don’t say “I,” even though grammatically that wo uld be more correct. But no one does that, no one says – in this case, “I?” The y would almost always say, “Me?” “Me? Oh. I was just talking to Ling,” meaning  I was talking to her a few minutes ago. I was just talking. Notice “just” can have two different meanings. When you say, “I’m just talking to” – “I was just t alking to Ling,” you mean I was talking to her a few minutes ago. You can also use “just” to mean I’m only. “I am just talking to Ling” means I’m only talking to Lin g. I’m not doing anything else.  
+
+Well, in this case, Elaine responds by saying, “Oh,  no wonder. You better watch out.” Here, “No wonder” means it’s no surprise, obv iously. “Oh, no wonder. You better watch out.” “To watch out” (watch out) – two  words – means here to be careful. “You better be careful.” “You better make sure that you are aware of what is going on.” If someone says to you, “Watch o ut!” they mean be careful. We often use that expression, for example, if you a re outside at a baseball game and somebody hits a baseball and it is coming in yo ur direction, they may scream “Watch out!” – means be careful, cover your head. O therwise, you may get hit by a baseball. I think that’s what happened to me when  I was younger. I got hit by a baseball in the head and that’s why I’m so strange today – maybe.  
+
+Anyway, in this case, Elaine says, “You better watc h out” – that Ling is a “big flirt.” Notice “flirt” here is a noun. It’s a verb – “to flirt” – but it can also be a noun and a “flirt” – when we say a girl is a “flirt” or a woman is a “flirt – or a man is a “flirt’’ – we mean that he or she likes to flirt wi th men or flirt with women, but it’s considered of a negative term when you use it as a noun. You say, “Oh. She’s a flirt,” means she likes to flirt with men even if s he’s not very interested in them. And that’s why Elaine says, “You better watch out. You better be careful.” She may not actually be interested in you. And Jerry sa ys, “What do you mean?” And Elaine says, “Did she make eyes at you?” “To make ( make) eyes (eyes) at someone” – that’s the expression – “To make eyes at ” means, especially for a  
+
+woman, that you look at a man as though you are int erested in him romantically. So, well, I cannot demonstrate on the podcast here what that would look like, but you probably know. When someone makes eyes at you, they’re showing that they are interested in you.  
+
+Elaine also says, “Did she whisper sweet nothings i n your ear?” This is actually an old expression and Elaine is using it as a joke.  “To whisper” (whisper) means to talk like that, not very loud – to talk very sof tly, not very loudly. “To whisper sweet nothings” – “sweet” (sweet) and “nothings” – plural – is to say things that are nice. “Oh, you’re so attractive.” “I would love  to get to know you better.” “You are the apple of my eye.” “You are the sunshine in life” – these would all – these would all be sweet nothings. And “to whisper sweet nothings in someone’s ear” – notice we say “whisper them in your ear” – means to  say nice things to you. Now, Elaine is joking here because this term – this expr ession – “to whisper sweet nothings in your ear” is a very old one and no one would say that very seriously. They use it sort of as a joke.  
+
+Well, Jerry says, “Yes. She said she’d never met an yone like me before.” In other words, Ling told Jerry that she had not met anyone like him before. Jerry says, “By her body language, I think she was serious.” “B ody language” – two words – means what you do with your body – your arms, your  eyes, your legs – things that you do to show someone that you’re interested in.  And, of course, many people think that body language is a better indicat ion than what someone says to you about how they are thinking or feeling.  
+
+Elaine responds by saying, “Then she’s still using the same old line that she used with Kramer.” A “line” (line) here means something that you say to someone else to show that you are interested in them romanticall y. But a “line,” in this case, the old line – means the line she has been using for ma ny years with different men – a line is always a negative expression here. It mea ns that the person isn’t sincere, that they’re not being honest. A man comes  up to a woman and says, “Hello beautiful” – that’s a line and by definition , it means he’s not really being sincere. He’s not necessarily really in love with t his woman. He’s just trying to get to know her better. And so, a line is something tha t a man or woman says to another man or a woman to show that they are intere sted, but it usually means it’s not sincere. “To be sincere,” of course, (sinc ere) means, to be honest – to be true to that person.  
+
+Elaine says that Ling had Kramer “wrapped around he r finger.” “She had him wrapped around her finger.” “To be wrapped (wrapped ) around your finger” means that she controlled him, that he was so in lo ve with her or liked her so much that she could tell him to do whatever she wan ted to. There was a song by  
+
+The Police – the British rock band, The Police – ba ck in the 70’s or 80’s that was called “I’ll be wrapped around your finger.” 
+
+I’ll be wrapped around your finger 
+
+Now you know why I am not a professional singer. We ll, anyway, “to be wrapped around your finger” means to be controlled by someo ne and it’s usually a woman controlling a man or a man controlling a woman – ha ving power over them. Because they are so – the other person is so attrac ted to them, so in love with them. Well, Jerry says to Elaine, “Give me a little  credit.” “Give me a little credit” – this means don’t think that I am so stupid as to no t recognize this. “Give me a little credit” means you should not think that I am  so dumb, not think that I am so stupid, or not think that I don’t know what I am do ing. “To give someone credit” can also mean to recognize that they did something.  “I give her credit for giving money to the poor.” “I give her credit” means I ack nowledge – I recognize what she has done. Here, when someone says, “Give me a l ittle credit,” or “give me some credit” means don’t think that I am so stupid.  I am smarter than you are assuming that I am.  
+
+He says – Jerry says, “I know when I’m being snowed  and when a girl is really interested in me. “To snow someone,” (snow), as a v erb, means to deceive someone, to lie to someone. The verb “to snow,” of course, also means that there is snow that falls from the sky – it is snowi ng outside. But here, when we use it as a verb, in talking about someone – “I am going to snow him,” or “She is trying to snow me” – we mean that they are trying t o lie or deceive or be dishonest with you. So, Jerry says, “I know when I’ m being snowed.” “I know when I’m being fooled” is another way of saying tha t. He says, “I know when a girl is really interested in me.” And, of course, t o be interested in means that she likes him. 
+
+Elaine says, “I hope you’re right. But she’s quite the heartbreaker.” A couple of expressions here that are common – “heartbreaker” –  (heartbreaker) is someone who many, for example - a beautiful woman that many  men are attracted to. But the woman isn’t very serious with any of the men an d she may be the boyfriend or rather the girlfriend of someone and then she’ll  leave him and go to another man and be his girlfriend. She’s a heartbreaker mea ns that she breaks your heart. And, of course, “to break someone’s heart” m eans you hurt them emotionally. When you are in love with someone and the other person is not in love with you, that can break your heart. Well, a “ heartbreaker” is someone who breaks someone else’s heart.  
+
+The other interesting expression here is “quite the ” – “She’s quite the heartbreaker” – that use of “quite the” is pretty c ommon. “He’s quite the athlete.” “He’s quite the podcaster.” “He’s quite the driver. ” “Quite the” here means that that person is one of the better ones – someone who  is very good at that particular job or task. “He’s quite the pilot” mean s he’s a very good pilot. “He’s quite the web designer” means that he’s a very good  web designer. So, “quite the” is an idiomatic use. Jerry says, “Thanks. But I think I can take care of myself.” And, of course “to take care of yourself” means that you don’t need anyone else’s help. Elaine says, “Okay. Suit yourse lf.” “Suit (suit) yourself.” When you say to someone, “suit yourself,” you mean okay,  I’m not going to help you. You are on your own. Usually we say that when someo ne disagrees with us. For example, you offer somebody help, and they refuse. They say, “No. I don’t want your help.” If you say, “Suit yourself” – it’s a ne gative expression. It means, “Okay, well I tried to help you, but you did not wa nt my help. Suit yourself.” So, there’s a negative meaning there when someone says that. 
+
+Now let’s listen to the dialogue this time at a nat ive rate of speech. 
+
+[start of dialog] 
+
+Elaine: You look happy.  
+
+Jerry: Me? Oh, I was just talking to Ling. 
+
+Elaine: Oh, no wonder! You better watch out. She’s a big flirt. 
+
+Jerry: What do you mean? 
+
+Elaine: Did she make eyes at you and whisper sweet nothings in your ear?  
+
+Jerry: Well, yes, she said she’d never met anybody like me before, and by her body language, I think she was serious. 
+
+Elaine: Then she’s still using the same old line th at she used with Kramer. She had him wrapped around her little finger.  
+
+Jerry: Give me a little credit. I know when I’m bei ng snowed and when a girl is really interested in me.  
+
+Elaine: I hope you’re right, but she’s quite the he artbreaker. I just don’t want you to get hurt.  
+
+ Jerry: Thanks, but I think I can take care of mysel f. 
+
+Elaine: Okay. Suit yourself. 
+
+[end of dialog] 
+
+The script for today’s podcast was written by Dr. L ucy Tse. 
+
+From Los Angeles, I’m Jeff McQuillan. Thanks for li stening. We’ll see you next time on ESL Podcast. 
+
+English as a Second Language podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan. This podcast is copyr ight 2006.
+

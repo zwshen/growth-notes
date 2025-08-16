@@ -1,0 +1,153 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Crossword Answers</TITLE>
+<META NAME="description" CONTENT="Crossword Answers">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Crossword Answers</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+A crossword puzzle consists of a rectangular grid of black and white squares 
+and two lists of definitions (or descriptions).
+<P>
+One list of definitions is for 
+``words&quot; to be written left to right across white squares in the rows and the
+other list is for words to be written down white squares in the columns. (A 
+word is a sequence of alphabetic characters.)
+<P>
+To solve a crossword puzzle, one 
+writes the words corresponding to the definitions on the white squares of the 
+grid.
+<P>
+<P>
+The definitions correspond to the rectangular grid by means of sequential 
+integers on ``eligible&quot; white squares. White squares with black squares
+immediately to the left or above them are ``eligible.&quot; White squares with no
+squares either immediately to the left or above are also ``eligible.&quot; No other
+squares are numbered. All of the squares on the first row are numbered.
+<P>
+The 
+numbering starts with 1 and continues consecutively across white squares of 
+the first row, then across the eligible white squares of the second row, then 
+across the eligible white squares of the third row and so on across all of the 
+rest of the rows of the puzzle. The picture below illustrates a rectangular 
+crossword puzzle grid with appropriate numbering.
+<P>
+<center><img src=232img3.gif></center>
+<P>
+An ``across&quot; word for a definition is written on a sequence of white squares in
+a row starting on a numbered square that does not follow another white square 
+in the same row.
+<P>
+The sequence of white squares for that word goes across the 
+row of the numbered square, ending immediately before the next black square in 
+the row or in the rightmost square of the row.
+<P>
+<P>
+A ``down&quot; word for a definition is written on a sequence of white squares in a
+column starting on a numbered square that does not follow another white square 
+in the same column.
+<P>
+The sequence of white squares for that word goes down the 
+column of the numbered square, ending immediately before the next black square 
+in the column or in the bottom square of the column.
+<P>
+Every white square in a 
+correctly solved puzzle contains a letter.
+<P>
+<P>
+You must write a program that takes several solved crossword puzzles as input 
+and outputs the lists of across and down words which constitute the solutions.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Each puzzle solution in the input starts with a line containing two integers <I>r</I>
+and <I>c</I> ( <IMG WIDTH=79 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline39" SRC="232img1.gif"  >  and  <IMG WIDTH=79 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline41" SRC="232img2.gif"  > ), where <I>r</I> (the first number) is the number of
+rows in the puzzle and <I>c</I> (the second number) is the number of columns.
+<P>
+The <I>r</I>
+rows of input which follow each contain <I>c</I> characters (excluding the end-of-line) which describe the solution. Each of those <I>c</I> characters is an alphabetic
+character which is part of a word or the character ``*&quot;, which indicates a
+black square.
+<P>
+The end of input is indicated by a line consisting of the single 
+number 0.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+Output for each puzzle consists of an identifier for the puzzle (<TT>puzzle #1:</TT>,
+<TT>puzzle #2:</TT>, etc.) and the list of across words followed by the list of down
+words. Words in each list must be output one-per-line in increasing order of 
+the number of their corresponding definitions.
+<P>
+The heading for the list of 
+across words is ``<TT>Across</TT>&quot;. The heading for the list of down words is ``<TT>Down</TT>&quot;.
+<P>
+In the case where the lists are empty (all squares in the grid are black), the 
+<TT>Across</TT> and <TT>Down</TT> headings should still appear.
+<P>
+Separate output for successive input puzzles
+by a blank line. 
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>
+2 2
+AT
+*O
+6 7
+AIM*DEN
+*ME*ONE
+UPON*TO
+SO*ERIN
+*SA*OR*
+IES*DEA
+0
+</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>
+puzzle #1:
+Across
+  1.AT
+  3.O
+Down
+  1.A
+  2.TO
+
+puzzle #2:
+Across
+  1.AIM
+  4.DEN
+  7.ME
+  8.ONE
+  9.UPON
+ 11.TO
+ 12.SO
+ 13.ERIN
+ 15.SA
+ 17.OR
+ 18.IES
+ 19.DEA
+Down
+  1.A
+  2.IMPOSE
+  3.MEO
+  4.DO
+  5.ENTIRE
+  6.NEON
+  9.US
+ 10.NE
+ 14.ROD
+ 16.AS
+ 18.I
+ 20.A
+</PRE>
+<P>
+</BODY>
+</HTML>

@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!-- Created from PDF via Acrobat SaveAsXML -->
+<!-- Mapping table version: 28-February-2003 -->
+<HTML>
+<HEAD>
+<META
+ name="dc.creator"
+ content="Sean McIntyre" >
+<META
+ name="dc.title"
+ content="CCPC2008" >
+<META
+ name="dc.date"
+ content="2008-09-18T01:39:11-06:00" >
+<META
+ name="dc.date.modified"
+ content="2008-09-18T01:44:05-06:00" >
+<META
+ name="generator"
+ content="Adobe Acrobat Exchange-Pro 7.256" >
+</HEAD>
+<BODY bgcolor=white text=black link=blue vlink=purple alink=fushia >
+<P 
+ align="center"
+><FONT size="+2" color="#000000"></B>Problem F </P
+><DIV class="Part" 
+
+><H1 
+ align="center"
+><FONT size="+3" color="#258234">FEWEST FLOPS<BR></H1
+><P 
+ align="center"
+><FONT size="+1" color="#000000"></P
+><P 
+
+><FONT size="+1">A common way to uniquely encode a string is by replacing its consecutive repeating characters (or &ldquo;chunks&rdquo;) by the number of times the character occurs followed by the character itself. For example, the string &ldquo;aabbbaabaaaa&rdquo; may be encoded as &ldquo;2a3b2a1b4a&rdquo;. (Note for this problem even a single character &ldquo;b&rdquo; is replaced by &ldquo;1b&rdquo;.) </P
+><P 
+
+>Suppose we have a string <I>S</I> and a number <I>k</I> such that <I>k</I> divides the length of <I>S</I>. Let <I>S</I><FONT size="+1">1<FONT size="+1"> be the substring of <I>S</I> from 1 to <I>k</I>, <I>S</I><FONT size="+1">2<FONT size="+1"> be the substring of <I>S</I> from <I>k </I>+ 1 to 2<I>k</I>, and so on. We wish to rearrange the characters of each block <I>S</I><FONT size="+1"><I>i</I><FONT size="+1"> independently so that the concatenation of those permutations <I>S</I>&rsquo; has as few chunks of the same character as possible. Output the fewest number of chunks. </P
+><P 
+
+>For example, let <I>S </I>be &ldquo;uuvuwwuv&rdquo; and <I>k </I>be 4. Then <I>S</I><FONT size="+1">1<FONT size="+1"> is &ldquo;uuvu&rdquo; and has three chunks, but may be rearranged to &ldquo;uuuv&rdquo; which has two chunks. Similarly, <I>S</I><FONT size="+1">2 <FONT size="+1">may be rearranged to &ldquo;vuww&rdquo;. Then <I>S</I><I>&rsquo;</I>, or <I>S</I><FONT size="+1">1<FONT size="+1"><I>S</I><FONT size="+1">2<FONT size="+1">, is &ldquo;uuuvvuww&rdquo; which is 4 chunks, indeed the minimum number of chunks. </P
+><P 
+
+><FONT size="+2" color="#258234">Program Input </P
+><P 
+
+><FONT size="+1" color="#000000">The input begins with a line containing <I>t </I>(1 &le; <I>t </I>&le; 100), the number of test cases. The following <I>t </I>lines contain an integer <I>k </I>and a string <I>S</I> made of no more than 1000 lowercase English alphabet letters. It is guaranteed that <I>k</I> will divide the length of <I>S</I>. </P
+><P 
+
+><FONT size="+2" color="#258234">Program Output </P
+><P 
+
+><FONT size="+1" color="#000000">For each test case, output a single line containing the minimum number of chunks after we rearrange <I>S</I> as described above. </P
+><P 
+
+><FONT size="+1" color="#000000">I<FONT size="+1">NPUT
+<pre>
+2
+5 helloworld
+7 thefewestflops
+</pre>
+
+<FONT size="+1">O<FONT size="+1">UTPUT
+<pre>
+8
+10
+</pre>
+<hr>
+<FONT size="+1"><I>Calgary Collegiate Programming Contest 2008</I>	<BR> </P
+></DIV
+></BODY>
+</HTML>

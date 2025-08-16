@@ -1,0 +1,925 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem C</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Mohammad</o:Author>
+  <o:LastAuthor>Arash Rahimi</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>597</o:TotalTime>
+  <o:Created>2005-11-07T20:12:00Z</o:Created>
+  <o:LastSaved>2005-11-07T20:12:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>1880</o:Words>
+  <o:Characters>10716</o:Characters>
+  <o:Company>MT</o:Company>
+  <o:Lines>89</o:Lines>
+  <o:Paragraphs>25</o:Paragraphs>
+  <o:CharactersWithSpaces>12571</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:901869110;
+	mso-list-type:hybrid;
+	mso-list-template-ids:682105910 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l1
+	{mso-list-id:1369180516;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-2050971264 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in'><b><span style='font-size:14.0pt'>Problem C<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:6.0pt;margin-right:0in;
+margin-bottom:6.0pt;margin-left:0in;text-align:center'><b><span
+style='font-size:14.0pt'>3KP-BASH Project<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:10.0pt'>Mohammad:</span></b><span
+style='font-size:10.0pt'> I can’t continue. I give up!<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:10.0pt'>Arash:</span></b><span
+style='font-size:10.0pt'> Why?<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:10.0pt'>Mohammad:</span></b><span
+style='font-size:10.0pt'> ‘<span class=GramE>cause</span> I have read the
+obfuscated source-code of Unix BASH several times, and the more I read the less
+I understand. That’s why I want to give up porting it to our own OS, 3KP.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:10.0pt'>Arash:</span></b><span
+style='font-size:10.0pt'> Ok, Ok, just calm down. Let me think about it.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>… <span
+class=GramE>After several minutes of thinking …</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:10.0pt'>Arash:</span></b><span
+style='font-size:10.0pt'> Ok, why don’t we write our own BASH! Trust me! We just
+need a small subset of the functionalities in the BASH. So, let’s write our own
+version.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:10.0pt'>Mohammad:</span></b><span
+style='font-size:10.0pt'> No! No! You’re kidding!<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>Poor
+Mohammad! He has a lot of tasks to do. Besides a pile of books to study for his
+exams, he should also make some problems for the local programming contest of
+their university. Considering these tasks, Mohammad wonders whether he is able
+to accomplish this new task . . . <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>OK!
+Mohammad has found a solution. In fact, he has decided to out-source the
+3KP-BASH project. In other words, he would like to hire you as a professional
+programmer to write 3KP-BASH for him.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><b>Problem Definition<o:p></o:p></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>The
+BASH environment for 3KP is intended to support only eight commands. The other
+functionalities are decided to be available as stand-alone executable programs
+that can be run from our BASH (Mohammad and Arash have already written the
+program execution codes, so you only have to add support for these eight
+commands).<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>Before
+describing the supported commands, let’s have a brief review of some basic
+things about 3KP operating system.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-left:.25in;text-align:justify;text-indent:
+-.25in;mso-list:l0 level1 lfo1;tab-stops:list .25in'><![if !supportLists]><span
+style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-bidi-font-weight:bold'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR><b>File System<o:p></o:p></b></span></p>
+
+<p class=MsoNormal style='margin-left:.75in;text-align:justify;text-indent:
+-.25in;mso-list:l0 level2 lfo1;tab-stops:list .75in'><![if !supportLists]><span
+style='font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New"'><span
+style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR><b><span style='font-size:10.0pt'>File</span></b></span><span
+style='font-size:10.0pt'>: file is a simple object in this system. Each file
+has a name which is actually a string consisting of English alphabetic
+characters, numeric characters, and ‘</span><span style='font-size:10.0pt;
+font-family:"Courier New"'>.</span><span style='font-size:10.0pt'>’ (<span
+class=GramE>dot</span>) character. A filename cannot contain two consecutive ‘</span><span
+style='font-size:10.0pt;font-family:"Courier New"'>.</span><span
+style='font-size:10.0pt'>’ characters. Also, the user cannot create a file or
+directory with its name equal to a single ‘</span><span style='font-size:10.0pt;
+font-family:"Courier New"'>.</span><span style='font-size:10.0pt'>’. A filename
+is no longer than 255 characters. Note that filenames are case-sensitive. Each
+file has a size which is the amount of data in it. The maximum allowed size for
+a file <span class=GramE>is </span><sub><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+ filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:17.25pt;
+ height:15pt' o:ole="">
+ <v:imagedata src="images/p2_files/image001.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=23 height=20
+src="p10966.gif" v:shapes="_x0000_i1025"><![endif]></sub><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1025"
+  DrawAspect="Content" ObjectID="_1192912130">
+ </o:OLEObject>
+</xml><![endif]-->. A file may also have some attributes. In the first version
+of our BASH, we only need to know two of them which are </span><span
+style='font-size:10.0pt;font-family:"Courier New"'>directory</span><span
+style='font-size:10.0pt'> and </span><span style='font-size:10.0pt;font-family:
+"Courier New"'>hidden</span><span style='font-size:10.0pt'> attributes.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.75in;text-align:justify;text-indent:
+-.25in;mso-list:l0 level2 lfo1;tab-stops:list .75in'><![if !supportLists]><span
+style='font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New"'><span
+style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR><b><span style='font-size:10.0pt'>Directory:
+</span></b></span><span style='font-size:10.0pt'>is simply a file with </span><span
+style='font-size:10.0pt;font-family:"Courier New"'>directory</span><span
+style='font-size:10.0pt'> attribute and size of zero. In fact, a directory is
+used as a logical place for keeping files. In other words, each directory may
+contain an arbitrary number of files (or directories) inside it. An empty file
+system is assumed to have only one directory which is called the Root
+Directory.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.25in;text-align:justify;text-indent:
+-.25in;mso-list:l0 level1 lfo1;tab-stops:list .25in'><![if !supportLists]><span
+style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-bidi-font-weight:bold'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR><b>Current Directory<o:p></o:p></b></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>At
+any time, there is a single directory which is assumed to be the default
+directory for programs to use. This directory is called the Current Directory.
+When our BASH starts, it sets the current directory to the root directory. A
+user may change the current directory during his works using the facilities supplied
+by BASH.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-left:.25in;text-align:justify;text-indent:
+-.25in;mso-list:l1 level1 lfo2;tab-stops:list .25in'><![if !supportLists]><span
+style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-bidi-font-weight:bold'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR><b>File and Directory Addressing<o:p></o:p></b></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>As
+you may know, there are many commands and programs which take a file or
+directory as their input argument. So, we need to have a way to tell these
+programs exactly which file or directory we would like them to perform some
+operations on. There are two methods for addressing a file or directory:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-left:.75in;text-align:justify;text-indent:
+-.25in;mso-list:l1 level2 lfo2;tab-stops:list .75in'><![if !supportLists]><span
+style='font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New"'><span
+style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR><b><span style='font-size:10.0pt'>Full
+path addressing: </span></b></span><span style='font-size:10.0pt'>In this
+method, all path elements are written from the root directory with each two
+consecutive elements separated by a ‘</span><span style='font-size:10.0pt;
+font-family:"Courier New"'>/</span><span style='font-size:10.0pt'>’ character.
+For example, suppose we have a directory named ‘</span><span style='font-size:
+10.0pt;font-family:"Courier New"'>home</span><span style='font-size:10.0pt'>’
+in the root directory and inside ‘</span><span style='font-size:10.0pt;
+font-family:"Courier New"'>home</span><span style='font-size:10.0pt'>’, there
+is another directory named ‘</span><span style='font-size:10.0pt;font-family:
+"Courier New"'>acm</span><span style='font-size:10.0pt'>’ which itself contains
+a directory or file named ‘</span><span style='font-size:10.0pt;font-family:
+"Courier New"'>uva</span><span style='font-size:10.0pt'>’. Using full-path
+addressing, we should write ‘</span><span style='font-size:10.0pt;font-family:
+"Courier New"'>[root]/home/acm/uva</span><span style='font-size:10.0pt'>’ in
+order to address ‘</span><span style='font-size:10.0pt;font-family:"Courier New"'>uva</span><span
+style='font-size:10.0pt'>’. For the sake of simplicity, it is decided that ‘</span><span
+style='font-size:10.0pt;font-family:"Courier New"'>[root]</span><span
+style='font-size:10.0pt'>’ should be omitted from the above phrase thus
+resulting in ‘</span><span style='font-size:10.0pt;font-family:"Courier New"'>/home/acm/uva</span><span
+style='font-size:10.0pt'>’ for full-path addressing ‘</span><span
+style='font-size:10.0pt;font-family:"Courier New"'>uva</span><span
+style='font-size:10.0pt'>’. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.75in;text-align:justify;text-indent:
+-.25in;mso-list:l1 level2 lfo2;tab-stops:list .75in'><![if !supportLists]><span
+style='font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New"'><span
+style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR><b><span style='font-size:10.0pt'>Relative
+Addressing: </span></b></span><span style='font-size:10.0pt'>Suppose that in
+the above example, ‘</span><span style='font-size:10.0pt;font-family:"Courier New"'>acm</span><span
+style='font-size:10.0pt'>’ has two directories named ‘</span><span
+style='font-size:10.0pt;font-family:"Courier New"'>uva</span><span
+style='font-size:10.0pt'>’ and ‘</span><span style='font-size:10.0pt;
+font-family:"Courier New"'>avu</span><span style='font-size:10.0pt'>’ and the
+user has set the current directory to ‘</span><span style='font-size:10.0pt;
+font-family:"Courier New"'>avu</span><span style='font-size:10.0pt'>’. Now, if
+he/she wants to address ‘</span><span style='font-size:10.0pt;font-family:"Courier New"'>uva</span><span
+style='font-size:10.0pt'>’, in addition to full-path addressing, he has a
+simpler way which is by using the string ‘</span><span class=GramE><span
+style='font-size:10.0pt;font-family:"Courier New"'>..</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'>/uva</span><span
+style='font-size:10.0pt'>’. In other words, a directory name of ‘</span><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>..</span><span
+style='font-size:10.0pt'>’</span></span><span style='font-size:10.0pt'>
+indicates the parent directory of the current directory or the parent directory
+of the directory which is listed in the address string exactly before its
+occurrence. So, in the example above, ‘</span><span class=GramE><span
+style='font-size:10.0pt;font-family:"Courier New"'>../..</span><span
+style='font-size:10.0pt'>’</span></span><span style='font-size:10.0pt'> is equal
+to<span style='mso-spacerun:yes'>  </span>‘</span><span style='font-size:10.0pt;
+font-family:"Courier New"'>/home</span><span style='font-size:10.0pt'>’ and ‘</span><span
+style='font-size:10.0pt;font-family:"Courier New"'>../../../home/<span
+class=GramE>..<span style='font-family:"Times New Roman"'>’</span></span></span><span
+style='font-size:10.0pt'> is equal to the root directory. There’s also another
+directory name ‘</span><span style='font-size:10.0pt;font-family:"Courier New"'>.</span><span
+style='font-size:10.0pt'>’ which means the current directory. So, again in the
+example above, assuming that the current directory is ‘</span><span
+style='font-size:10.0pt;font-family:"Courier New"'>/home/acm</span><span
+style='font-size:10.0pt'>’, ‘</span><span class=GramE><span style='font-size:
+10.0pt;font-family:"Courier New"'>./</span></span><span style='font-size:10.0pt;
+font-family:"Courier New"'>uva</span><span style='font-size:10.0pt'>’ is equal
+to ‘</span><span style='font-size:10.0pt;font-family:"Courier New"'>/home/acm/uva</span><span
+style='font-size:10.0pt'>’. Note that the user have the choice to omit ‘</span><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>./</span></span><span
+style='font-size:10.0pt'>’ from this kind of addresses. So, ‘</span><span
+style='font-size:10.0pt;font-family:"Courier New"'>uva</span><span
+style='font-size:10.0pt'>’ is exactly equal to ‘</span><span class=GramE><span
+style='font-size:10.0pt;font-family:"Courier New"'>./</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'>uva</span><span
+style='font-size:10.0pt'>’.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>Now
+that we know enough about the file system and addressing, we can see what the
+commands are.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><b>Commands<o:p></o:p></b></p>
+
+<div align=center>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=596
+ style='width:447.3pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.5pt'>
+  <td width=127 style='width:95.4pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;
+  height:34.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt'>Usage<o:p></o:p></span></b></p>
+  </td>
+  <td width=469 style='width:351.9pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:34.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt'>Description<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:34.5pt'>
+  <td width=127 style='width:95.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:34.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>cd</span></b><span
+  style='font-size:10.0pt;font-family:"Courier New"'> path<o:p></o:p></span></p>
+  </td>
+  <td width=469 style='width:351.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:34.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span class=GramE><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>cd</span></b></span><span
+  style='font-size:10.0pt'> is the simplest command in our system. </span><span
+  class=GramE><b><span style='font-size:10.0pt;font-family:"Courier New"'>cd</span></b></span><span
+  style='font-size:10.0pt'> changes the current directory to </span><span
+  style='font-size:10.0pt;font-family:"Courier New"'>path</span><span
+  style='font-size:10.0pt'> which is a directory addressed using either
+  full-path or relative addressing methods. If </span><span style='font-size:
+  10.0pt;font-family:"Courier New"'>path</span><span style='font-size:10.0pt'>
+  does not exist, the error message “</span><span style='font-size:10.0pt;
+  font-family:"Courier New"'>path not found</span><span style='font-size:10.0pt'>”
+  should be printed in the standard output.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:14.7pt'>
+  <td width=127 style='width:95.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.7pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>touch </span></b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>filename<span
+  style='mso-spacerun:yes'>  </span>[-size] [-h]<o:p></o:p></span></p>
+  </td>
+  <td width=469 style='width:351.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.7pt'>
+  <p class=MsoNormal style='text-align:justify'><span class=GramE><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>touch</span></b></span><span
+  style='font-size:10.0pt'> command is used to create or modify a file. </span><span
+  class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>filename</span></span><span
+  style='font-size:10.0pt'> is actually a path with its last element equal to
+  the name of the file to be created. All the elements of the path except the
+  last element should form a valid address to an existing directory and the
+  last element should be a valid filename. If the indicated filename does not
+  exist in the indicated path, a new file is created with its size equal to </span><span
+  style='font-size:10.0pt;font-family:"Courier New"'>size</span><span
+  style='font-size:10.0pt'> argument of the command. If the argument is not
+  given then the size of the newly created file is assumed to be equal to zero.
+  Also </span><span style='font-size:10.0pt;font-family:"Courier New"'>-h</span><span
+  style='font-size:10.0pt'> argument tells the bash to set the </span><span
+  style='font-size:10.0pt;font-family:"Courier New"'>hidden</span><span
+  style='font-size:10.0pt'> attribute for the newly created file. In the case that
+  the given filename already exists in the indicated path, the file should be
+  deleted and recreated with the new arguments.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>In
+  the case that the indicated path of the file to be created does not exist,
+  touch command should print the error message “</span><span style='font-size:
+  10.0pt;font-family:"Courier New"'>path not found</span><span
+  style='font-size:10.0pt'>” on the standard output. And in the case that there
+  exists a directory in the indicated path with the same name as the file to be
+  created, the error message “</span><span style='font-size:10.0pt;font-family:
+  "Courier New"'>a directory with the same name exists</span><span
+  style='font-size:10.0pt'>” should be printed on the standard output.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:14.7pt'>
+  <td width=127 style='width:95.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.7pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>mkdir </span></b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>path <o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>[-h]<o:p></o:p></span></p>
+  </td>
+  <td width=469 style='width:351.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.7pt'>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>Creates
+  a directory with the address equal to </span><span style='font-size:10.0pt;
+  font-family:"Courier New"'>path</span><span style='font-size:10.0pt'> argument.
+  The last element of the address is the name for the new directory. The other elements
+  of the address should form a valid address and should address an existing
+  directory. In the case that these elements do not meet these conditions, the
+  error message “</span><span style='font-size:10.0pt;font-family:"Courier New"'>path
+  not found</span><span style='font-size:10.0pt'>” should be printed in the standard
+  output. Also, if a file or directory exists in the given path with the same
+  name as the directory to be created, the error message “</span><span
+  style='font-size:10.0pt;font-family:"Courier New"'>file or directory with the
+  same name exists</span><span style='font-size:10.0pt'>” should be printed on
+  the standard output.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>Note
+  that if </span><span style='font-size:10.0pt;font-family:"Courier New"'>-h</span><span
+  style='font-size:10.0pt'> is specified as an argument, then the newly created
+  directory is given the </span><span style='font-size:10.0pt;font-family:"Courier New"'>hidden</span><span
+  style='font-size:10.0pt'> attribute.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:14.7pt'>
+  <td width=127 style='width:95.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.7pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>find </span></b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>filename [-r] [-h]<o:p></o:p></span></p>
+  </td>
+  <td width=469 style='width:351.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.7pt'>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>Searches
+  for files or directories. </span><span class=GramE><span style='font-size:
+  10.0pt;font-family:"Courier New"'>filename</span></span><span
+  style='font-size:10.0pt'> should be a valid address with the last element
+  equal to the name of the file or directory to be searched for. The other
+  elements of the address should address an existing directory which is the
+  directory to be searched or else the error message </span><span
+  style='font-size:10.0pt;font-family:"Courier New"'>“path not found”</span><span
+  style='font-size:10.0pt'> is printed on the standard output. If </span><span
+  style='font-size:10.0pt;font-family:"Courier New"'>-r </span><span
+  style='font-size:10.0pt'>is specified then all of the directories inside the
+  given address should also be searched recursively. By default, </span><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>find</span></b><span
+  style='font-size:10.0pt'> does not search within the files or directories
+  having the </span><span style='font-size:10.0pt;font-family:"Courier New"'>hidden</span><span
+  style='font-size:10.0pt'> attribute unless </span><span style='font-size:
+  10.0pt;font-family:"Courier New"'>-h </span><span style='font-size:10.0pt'>is
+  specified as an argument. <o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>For
+  each file or directory found with the specified name, exactly one line is printed
+  in the standard output containing the full-path of the file or directory, its
+  size, the word </span><span style='font-size:10.0pt;font-family:"Courier New"'>hidden
+  </span><span style='font-size:10.0pt'>if the </span><span style='font-size:
+  10.0pt;font-family:"Courier New"'>hidden</span><span style='font-size:10.0pt'>
+  attribute is set for the file and the word </span><span style='font-size:
+  10.0pt;font-family:"Courier New"'>dir</span><span style='font-size:10.0pt'>
+  if the directory attribute is set for the file. All these properties should
+  be separated by single space characters. The results should be sorted by
+  lexicographical order of full-path addresses which means that in order to
+  compare two files, the path elements of their full-path addresses are
+  lexicographically compared to each other from left to right. <o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>In
+  the case no such file or directory is found, the error message “</span><span
+  style='font-size:10.0pt;font-family:"Courier New"'>file not found</span><span
+  style='font-size:10.0pt'>” should be printed on the standard output.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:15.5pt'>
+  <td width=127 style='width:95.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>ls </span></b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>[path] <o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>[-h] [-r] <o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>[-s] [-S] <o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.0pt;font-family:"Courier New"'>[-f] [-d]<b><o:p></o:p></b></span></p>
+  </td>
+  <td width=469 style='width:351.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span class=GramE><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>ls</span></b></span><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'> </span></b><span
+  style='font-size:10.0pt'>is a very popular command used to list the contents
+  of<span style='mso-spacerun:yes'>  </span>[part of] the file system. In its
+  simplest form, </span><b><span style='font-size:10.0pt;font-family:"Courier New"'>ls</span></b><span
+  style='font-size:10.0pt;font-family:"Courier New"'> </span><span class=GramE><span
+  style='font-size:10.0pt'>does</span></span><span style='font-size:10.0pt'>
+  not take any arguments. In this case, all of the files and directories in the
+  current directory that do not have the </span><span style='font-size:10.0pt;
+  font-family:"Courier New"'>hidden</span><span style='font-size:10.0pt'>
+  attribute are listed in a similar format to that of </span><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>find</span></b><span
+  style='font-size:10.0pt'> command. In the case there is no such file or
+  directory in the current directory, it prints the message “</span><span
+  style='font-size:10.0pt;font-family:"Courier New"'>[empty]</span><span
+  style='font-size:10.0pt'>”.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>If
+  </span><span style='font-size:10.0pt;font-family:"Courier New"'>path </span><span
+  style='font-size:10.0pt'>is specified as an argument and is the address of an
+  existing directory, then </span><b><span style='font-size:10.0pt;font-family:
+  "Courier New"'>ls</span></b><span style='font-size:10.0pt'> performs its
+  operation on </span><span style='font-size:10.0pt;font-family:"Courier New"'>path</span><span
+  style='font-size:10.0pt'> instead of the current directory.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>Among
+  the other arguments, if </span><span style='font-size:10.0pt;font-family:
+  "Courier New"'>-h </span><span style='font-size:10.0pt'>is specified, then
+  the files and directories with </span><span style='font-size:10.0pt;
+  font-family:"Courier New"'>hidden</span><span style='font-size:10.0pt'>
+  attribute are also shown. In the case </span><span style='font-size:10.0pt;
+  font-family:"Courier New"'>-r </span><span style='font-size:10.0pt'>is
+  specified, </span><b><span style='font-size:10.0pt;font-family:"Courier New"'>ls</span></b><span
+  style='font-size:10.0pt;font-family:"Courier New"'> </span><span
+  style='font-size:10.0pt'>performs its operation on the directories within the
+  original directory to be searched recursively. If </span><span
+  style='font-size:10.0pt;font-family:"Courier New"'>-s </span><span
+  style='font-size:10.0pt'>is specified, the results are first sorted in
+  non-decreasing order by size. There, in the case there are two files having
+  the same sizes, the two files should be ordered in a manner similar to </span><span
+  style='font-size:10.0pt;font-family:"Courier New"'>find</span><span
+  style='font-size:10.0pt'> command. <o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>As
+  an argument, the functionality of </span><span style='font-size:10.0pt;
+  font-family:"Courier New"'>-S</span><span style='font-size:10.0pt'> is
+  similar to </span><span style='font-size:10.0pt;font-family:"Courier New"'>-s
+  </span><span style='font-size:10.0pt'>instead of the fact that </span><span
+  style='font-size:10.0pt;font-family:"Courier New"'>-S</span><span
+  style='font-size:10.0pt'> sorts the files by size in non-increasing order.
+  Argument </span><span style='font-size:10.0pt;font-family:"Courier New"'>-d </span><span
+  style='font-size:10.0pt'>forces</span><span style='font-size:10.0pt;
+  font-family:"Courier New"'> <b>ls</b> </span><span style='font-size:10.0pt'>to
+  only show the directories in the result while</span><span style='font-size:
+  10.0pt;font-family:"Courier New"'> -f </span><span style='font-size:10.0pt'>forces</span><span
+  style='font-size:10.0pt;font-family:"Courier New"'> <b>ls</b> </span><span
+  style='font-size:10.0pt'>to only show the files that do not have the
+  directory attribute.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:19.5pt'>
+  <td width=127 style='width:95.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:19.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>pwd<o:p></o:p></span></b></p>
+  </td>
+  <td width=469 style='width:351.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
+  mso-bidi-language:FA'>Prints the full-path address of the current directory
+  on the standard output.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:14.25pt'>
+  <td width=127 style='width:95.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.25pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>exit<o:p></o:p></span></b></p>
+  </td>
+  <td width=469 style='width:351.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>Terminates
+  the session and exits BASH<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;mso-yfti-lastrow:yes;height:14.25pt'>
+  <td width=127 style='width:95.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.25pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>grep </span></b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>“string”<o:p></o:p></span></p>
+  </td>
+  <td width=469 style='width:351.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span class=GramE><b><span
+  style='font-size:10.0pt;font-family:"Courier New"'>grep</span></b></span><span
+  style='font-size:10.0pt'> is a special command with a special usage form. In
+  detail, it takes an string and searches its standard input for all
+  occurrences of that string and outputs all the lines of its standard input
+  that contain those occurrences on the standard output. In this special
+  version of </span><b><span style='font-size:10.0pt;font-family:"Courier New"'>grep</span></b><span
+  style='font-size:10.0pt'> in our BASH, the standard input can only be fed to
+  it by the means of a technology named piping. Piping is a technology that can
+  be used to attach the standard output of one command to the standard input of
+  another one. In more details, all the outputs generated by the first command
+  are passed to the second command as standard input. Pipes can be used in the
+  form “</span><span style='font-size:10.0pt;font-family:"Courier New"'>command1
+  | command2</span><span style='font-size:10.0pt'>”. Executing this phrase
+  causes BASH to execute command1 first and then pass its standard output to
+  command2 and execute command2 respectively.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>So,
+  to feed </span><b><span style='font-size:10.0pt;font-family:"Courier New"'>grep</span></b><span
+  style='font-size:10.0pt'> with some input, we should use pipes as stated
+  above. For example, “</span><b><span style='font-size:10.0pt;font-family:
+  "Courier New"'>ls</span></b><span style='font-size:10.0pt;font-family:"Courier New"'>
+  | <b>grep</b> “acm”</span><span style='font-size:10.0pt'> ” searches the
+  result of </span><b><span style='font-size:10.0pt;font-family:"Courier New"'>ls</span></b><span
+  style='font-size:10.0pt'> command for any lines containing the word ‘</span><span
+  style='font-size:10.0pt;font-family:"Courier New"'>acm</span><span
+  style='font-size:10.0pt'>’.<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>At
+last note that the mandatory arguments of all the commands should be passed
+with the specified order but the optional arguments can be passed in any order.
+Any of the above commands if not used according to the usage form specified,
+produce the error message “</span><span style='font-size:10.0pt;font-family:
+"Courier New"'>bad usage</span><span style='font-size:10.0pt'>” on the standard
+output e.g. if a command is passed extra or redundant arguments. Also, if a
+command is entered which is not among the above commands, the error message “</span><span
+style='font-size:10.0pt;font-family:"Courier New"'>no such command</span><span
+style='font-size:10.0pt'>” should be printed on the standard output. Note that
+these two error messages cannot be piped to </span><b><span style='font-size:
+10.0pt;font-family:"Courier New"'>grep</span></b><span style='font-size:10.0pt'>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>Now
+that you exactly know how our BASH works, in order to warm-up yourself for
+implementing the real BASH, just write a program that simulates a chain of
+commands and produces outputs. It is guaranteed that none of the commands have
+two (or more) type of errors simultaneously.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>You
+are advised to read the sample input/output carefully to see how these commands
+work.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><b>The Input <o:p></o:p></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>Input
+consists of several work sessions. Each session consists of several lines, each
+containing a command to be executed. Length of a line containing a command is
+no more than 2048 characters. Also, there may be arbitrary number of space
+characters before and after the command and between its arguments. Each session is
+terminated with an “</span><span style='font-size:10.0pt;font-family:"Courier New"'>exit</span><span
+style='font-size:10.0pt'>” command. Input is terminated by end-of-file.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>You
+must assume that in the beginning of each session, the default directory is the
+root directory and the file system is empty. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><b>The Output</b> </p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>For each session, your
+program should produce the output of each command appearing on the input.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><o:p>&nbsp;</o:p></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b>Sample Input<o:p></o:p></b></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>pwd</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>cd</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'> acm<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>mkdir</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'> ./acm<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>ls</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'> ./acm<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>cd</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'> acm<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>pwd</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>touch</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'> acm -h -1000<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>cd ..</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>cd</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'> /<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>grep</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>ls</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'> -r -s<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>ls</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'> -r -h<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>find</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'> acm -h -r | grep
+&quot;1000&quot;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span class=GramE><span
+style='font-size:10.0pt;font-family:"Courier New"'>exit</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
+font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span class=GramE><b>Sample<span
+style='mso-spacerun:yes'>  </span>Output</b></span><b><o:p></o:p></b></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+style='font-size:10.0pt;font-family:"Courier New"'>/<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>path</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'> not found<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+style='font-size:10.0pt;font-family:"Courier New"'>[<span class=GramE>empty</span>]<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+style='font-size:10.0pt;font-family:"Courier New"'>/acm<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=GramE><span style='font-size:10.0pt;font-family:"Courier New"'>bad</span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'> usage<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+style='font-size:10.0pt;font-family:"Courier New"'>/acm 0 dir<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+style='font-size:10.0pt;font-family:"Courier New"'>/acm 0 dir<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+style='font-size:10.0pt;font-family:"Courier New"'>/acm/acm 1000 hidden<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+style='font-size:10.0pt;font-family:"Courier New"'>/acm/acm 1000 hidden<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><o:p>&nbsp;</o:p></b></p>
+
+</div>
+
+<hr size=2 width="100%" align=center>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='color:black'>
+Amirkabir University of Technology - Local Contest - Round #2
+</span></b><span
+style='color:black'><o:p></o:p></span></p>
+
+</body>
+
+</html>

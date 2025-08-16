@@ -1,0 +1,126 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Continued Fractions</TITLE>
+<META NAME="description" CONTENT="Continued Fractions">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Continued Fractions</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Let <!-- MATH
+ $b_0, b_1, b_2 , \dots, b_n$
+ -->
+<SPAN CLASS="MATH"><I>b</I><SUB>0</SUB>, <I>b</I><SUB>1</SUB>, <I>b</I><SUB>2</SUB>,..., <I>b</I><SUB>n</SUB></SPAN> be integers with <SPAN CLASS="MATH"><I>b</I><SUB>k</SUB> &gt; 0</SPAN> for <SPAN CLASS="MATH"><I>k</I> &gt; 0</SPAN>. The <EM>continued fraction</EM> of order <SPAN CLASS="MATH"><I>n</I></SPAN> with coeficients
+<!-- MATH
+ $b_1, b_2, \dots, b_n$
+ -->
+<SPAN CLASS="MATH"><I>b</I><SUB>1</SUB>, <I>b</I><SUB>2</SUB>,..., <I>b</I><SUB>n</SUB></SPAN> and the initial term <SPAN CLASS="MATH"><I>b</I><SUB>0</SUB></SPAN> is defined by
+the following expression
+<!-- MATH
+ \begin{displaymath}
+b_0 + \frac{1}{b_1 + \frac{1}{b_{2 + \ldots + \frac{1}{b_n}}}}
+\end{displaymath}
+ -->
+<P></P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+<IMG
+ SRC="p834a.gif"
+ ALT="$\displaystyle {\frac{1}{b_1 + \frac{1}{b_{2 + \ldots + \frac{1}{b_n}}}}}$">
+</DIV><P></P>
+which can be abbreviated as <!-- MATH
+ $[b_0; b_1, \dots, b_n]$
+ -->
+<SPAN CLASS="MATH">[<I>b</I><SUB>0</SUB>;<I>b</I><SUB>1</SUB>,..., <I>b</I><SUB>n</SUB>]</SPAN>.
+
+<P>
+An example of a continued fraction of order <SPAN CLASS="MATH"><I>n</I> = 3</SPAN> is <SPAN CLASS="MATH">[2;3, 1, 4]</SPAN>.
+This is equivalent to
+<!-- MATH
+ \begin{displaymath}
+1 + \frac{1}{3 + \frac{1}{1 + \frac{1}{4}}}= \frac{43}{19}
+\end{displaymath}
+ -->
+<P></P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+<IMG
+ SRC="p834b.gif"
+ ALT="$\displaystyle {\frac{1}{3 + \frac{1}{1 + \frac{1}{4}}}}$">
+</DIV><P></P>
+
+<P>
+Write a program that determines the expansion of a given rational
+number as a continued fraction. To ensure uniqueness, make
+<SPAN CLASS="MATH"><I>b</I><SUB>n</SUB> &gt; 1</SPAN>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input consists of an undetermined number of rational numbers.
+Each rational number is defined by two integers, numerator and
+denominator.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each rational number given in the input, you should output the
+corresponding continued fraction.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+43 19
+1 2
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+[2;3,1,4]
+[0;2]
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+Fernando Silva, ACM-UP'2001
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Robot</TITLE>
+<META NAME="description" CONTENT="Robot">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Robot</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The Robot Moving Institute is using a robot in their local store to transport
+different items.
+Of course the robot should spend only the minimum time necessary when
+travelling from one place
+in the store to another. The robot can move only along a straight line (track).
+All tracks form a
+rectangular grid. Neighbouring tracks are one meter apart. The store is a
+rectangle  <IMG WIDTH=54 HEIGHT=24 ALIGN=MIDDLE ALT="tex2html_wrap_inline41" SRC="314img1.gif"  >  meters
+and it is entirely covered by this grid. The distance of the track closest
+to the side of the store is
+exactly one meter. The robot has a circular shape with diameter equal
+to 1.6 meter. The track
+goes through the center of the robot. The robot always faces north, south,
+west or east. The tracks
+are in the south-north and in the west-east directions. The robot can
+move only in the direction
+it faces. The direction in which it faces can be changed at each track
+crossing. Initially the robot
+stands at a track crossing. The obstacles in the store are formed from
+pieces occupying  <IMG WIDTH=68 HEIGHT=24 ALIGN=MIDDLE ALT="tex2html_wrap_inline43" SRC="314img2.gif"  > 
+on the ground. Each obstacle is within a  <IMG WIDTH=37 HEIGHT=24 ALIGN=MIDDLE ALT="tex2html_wrap_inline45" SRC="314img3.gif"  >  square formed by the
+tracks. The movement of the
+robot is controlled by two commands. These commands are <TT>GO</TT> and <TT>TURN</TT>.
+<P>
+<P>
+The <TT>GO</TT> command has one integer parameter  <IMG WIDTH=25 HEIGHT=21 ALIGN=MIDDLE ALT="tex2html_wrap_inline47" SRC="314img4.gif"  >  <TT>{1,2,3}</TT>. After
+receiving this command the robot moves <I>n</I> meters in the direction it faces.
+<P>
+<P>
+The <TT>TURN</TT> command has one parameter which is either <TT>left</TT>
+or <TT>right</TT>. After receiving this
+command the robot changes its orientation by 90<sup>o</sup> in the direction indicated
+by the parameter.
+<P>
+<P>
+The execution of each command lasts one second.
+<P>
+Help researchers of RMI to write a program which will determine the minimal
+time in which
+the robot can move from a given starting point to a given destination.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input file consists of blocks of lines. The first line of each block
+contains two integers
+ <IMG WIDTH=58 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline53" SRC="314img6.gif"  >  and  <IMG WIDTH=55 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline55" SRC="314img7.gif"  >  separated by one space. In each of the next <I>M</I>
+lines there are <I>N</I> numbers
+one or zero separated by one space. One represents obstacles and zero
+represents empty squares.
+(The tracks are between the squares.) The block is terminated by a line
+containing four positive
+integers  <IMG WIDTH=80 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline61" SRC="314img8.gif"  >  each followed by one space and the word indicating
+the orientation of the
+robot at the starting point.  <IMG WIDTH=18 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline63" SRC="314img9.gif"  > ,  <IMG WIDTH=18 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline65" SRC="314img10.gif"  >  are the coordinates of the square
+in the north-west corner of
+which the robot is placed (starting point).  <IMG WIDTH=18 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline67" SRC="314img11.gif"  > ,  <IMG WIDTH=18 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline69" SRC="314img12.gif"  >  are the coordinates
+of square to the north-west
+corner of which the robot should move (destination point). The orientation
+of the robot when it
+has reached the destination point is not prescribed. We use
+(row, column)-type coordinates, i.e.
+the coordinates of the upper left (the most north-west) square in the
+store are 0,0 and the lower
+right (the most south-east) square are <I>M</I> - 1, <I>N</I> - 1. The orientation is
+given by the words <TT>north</TT>
+or <TT>west</TT> or <TT>south</TT> or <TT>east</TT>. The last block contains only
+one line with <I>N</I> = 0 and <I>M</I> = 0.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+The output file contains one line for each block except the last block in
+the input file. The
+lines are in the order corresponding to the blocks in the input file. The
+line contains minimal
+number of seconds in which the robot can reach the destination point from
+the starting point. If
+there does not exist any path from the starting point to the destination
+point the line will contain -1.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Example</A></FONT></H2>
+<P>
+<center><img src=314img13.gif></center>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>9 10
+0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 1 0
+0 0 0 1 0 0 0 0 0 0
+0 0 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 1 0 0 0 0
+0 0 0 1 1 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 1 0
+7 2 2 7 south
+0 0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>12</PRE>
+<P>
+</BODY>
+</HTML>

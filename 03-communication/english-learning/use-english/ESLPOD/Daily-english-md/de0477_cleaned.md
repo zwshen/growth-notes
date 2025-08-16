@@ -1,0 +1,84 @@
+# Planning a Gourmet Meal
+
+Welcome to English as a Second Language Podcast number 4 77: Planning a Gourmet Meal. 
+
+This is English as a Second Language Podcast episode 477.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode that will help you improve your English even fast er. 
+
+This episode is called “Planning a Gourmet Meal.”  Some thing that is “gourmet” is something that is very good food, something that is very sophisticated food. This will be a dialogue between Hung and Padma that will use a lot of vocabulary related to eating good food.  Let’s get started. 
+
+[start of dialogue] 
+
+Hung:  I can’t believe that the famous food critic, Julia  Schilds, will be eating in my restaurant tomorrow night.  I need to prepare a go urmet menu that’s going to be mind-blowing. 
+
+Padma:  She wouldn’t be coming here if she didn’t al ready know that your cuisine is considered some of the best food in the city.   
+
+Hung:  That may be so, but you’re only as good as your la st meal.  I need to think of some delicacies that will really impress her.  Let’s see,  I think we should offer two new hors d’oeuvres, in addition to the ones alrea dy on the menu. 
+
+Padma:  Are you sure the chefs in the kitchen will be abl e to handle making six different hors d’oeuvres? 
+
+Hung:  Hmm, maybe not.   
+
+Padma:  Why don’t you concentrate on the entrées?  I’m su re you could come up with one or two new dishes that will really impress her . 
+
+Hung:  Okay, but I don’t want to put all of my eggs in one basket.  I need to have dishes in every course that are out of this world. 
+
+Padma:  Come on.  You’re a great chef.  What’s the w orst she could say?  
+
+ Hung:  Lots of things.  She could say that this is a run- of-the-mill restaurant with mediocre food that she wouldn’t even feed to her cat! 
+
+Padma:  Okay, yes, she could  say those things but she won’t.  Your food will be mouthwatering and delectable, and her taste buds will thank you for it! 
+
+[end of dialogue] 
+
+Our dialogue begins with Hung saying, “I can’t believe that the famous food critic, Julia Schilds, will be eating in my restaurant tomorrow night.”  A “food critic” is a person who tastes food at restaurants and then writes abo ut it for a newspaper, a magazine, or, nowadays, a website.  A “critic,” in genera l, is someone who gives their opinion about things.  There are book critics, the re are film critics; this is a food critic.  Hung says, “I need to prepare a gourmet me nu that’s going to be mind-blowing.”  “Gourmet” (gourmet) is very good food,  made with the best ingredients, the best cooking techniques.  The expression “ to be mind-blowing” means to be amazing and surprising, to be very, very good.  Something that is mind-blowing may also simply be something that is difficu lt to understand because it is so shocking, so surprising, so unusual.  Here, i t means excellent, something that is very good. 
+
+Padma says that this food critic would not be coming here if she didn’t know that your cuisine is considered some of the best food in the cit y.  “Cuisine” (cuisine) is excellent food.  It’s usually a type of food from a parti cular region or area. Padma is saying that your cuisine – your food is some of the  best food in the city. Hung says, “That may be so (meaning maybe), but you’re onl y as good as your last meal.”  This expression, “you’re only as good as your l ast (something),” is a phrase used to show that it doesn’t matter how many ti mes you do something well, people will only remember the most recent thing .  So if you’re a great cook and you cook many excellent meals, but then you cook a very ba d meal, people will remember the last thing they ate, which was a bad meal.  So you have to keep performing at a high level, you always have to be go od; people won’t remember the good things you did in the past. 
+
+Hung says, “I need to think of some delicacies that will r eally impress her.”  A “delicacy” is a food that is very good tasting; something d elicious, but it is not very common, usually because it’s very expensive or it’s difficu lt to make.  Hung then says, “I think we should offer two new hors d’oeuvres,  in addition to the ones already on the menu.”  An “hors d’oeuvre” is anoth er French word – many of these terms come from French – that means something you eat before the  
+
+ main meal, what we typically say in English is an appetize r.  It’s a small amount of food that you eat before the main course – the main  meal. 
+
+Padma says, “Are you sure the chefs in the kitchen will be a ble to handle making six different hors d’oeuvres?”  The “chef” is the person wh ose job it is to cook in a restaurant, the person who cooks the food.  Many restaur ants have several different chefs working in the kitchen.  Padma is asking: “Are you sure the chefs in the kitchen will be able to handle (will be able t o manage) making six different hors d’oeuvres?”  Hung says, “Hmm, maybe not.”  Padma the n suggests: “Why don’t you concentrate on the entrées?”  The “entrée” i s the main course – the main part of the meal.  She’s suggesting to Hung that he worry about the entrée (the main part of the meal) the most.  She says, “I’m sure you could come up with (I’m sure you could think of) one or two new dishes that will really impress her.” A “dish,” here, is some particular food that’s usually par t of the larger meal. 
+
+Hung says, “Okay, but I don’t want to put all of my eggs in one basket.”  This is an old expression; “to put all of your eggs in one basket”  means to put all of your effort, your energy, your money, or your time into one project – one thing.  If that thing fails, then you don’t have anything else.  So it’ s investing all of your time and energy into one thing hoping that that one thing  will be successful.  Of course, if that one thing is not successful, then you will fail completely; you won’t have any other choices – any other options.  Hung is saying that he doesn’t want to put all of his emphasis into just one course – one pa rt of the meal.  He says, “I need to have dishes in every course that are out of this world” – I need to have types of food (specific preparations of food) in every course , meaning in every part of the meal.  The appetizer or hors d’oeuvre, the  soup or salad, the entree, the dessert; those are all courses.  Each part of that m eal – each course of that meal has to have dishes that are out of this world.  The  expression “out of this world” means incredibly good, very, very good, excellent. 
+
+Padma says, “Come on.  You’re a great chef.  What’s the worst she could say?” meaning you’re a good cook, you’re a good chef, she is n ot going to have anything very negative to say about your food.  Hung says, h owever, “Lots of things,” meaning there are lots of negative things she co uld say, “She could say that this is a run-of-the-mill restaurant.”  The expressi on “run-of-the-mill” (mill) means ordinary, normal, not very interesting.  You may sa y, “This is a run-of-the- mill hotel.”  It’s a normal hotel, it isn’t a bad hot el, but it isn’t a great hotel; it’s an average hotel, something that you would expect from thi s particular place or at this particular price.  It isn’t unique; it isn’t intere sting.  Hung says that the food critic could say that this is a run-of-the-mill restaurant  with mediocre food that she wouldn’t even feed to her cat.  “Mediocre” means avera ge, not very good, nothing special about it.  Mediocre food would be not very good food that,  
+
+ perhaps, you would give to an animal, which is really, of  course, a very negative thing to say – unless the food really is bad, like my cookin g for example! 
+
+Padma says, “Okay, yes, she could  say those things but she won’t.  Your food will be mouthwatering and delectable, and her taste b uds will thank you for it!” Something that is “mouthwatering” is something that ma kes you more hungry because it is so good tasting; it is so delicious it makes you  want to eat even more.  “Delectable” means delicious, very good, very pleasan t.  Finally, “taste buds” (buds) are the small spots on your tongue that al low you to taste or sense the flavor, whether it’s sweet or salty, bitter or sour.  Those are your taste buds on your tongue.  She says, “her taste buds will thank you f or it!” meaning they’ll consider it very good food – she’ll consider it, of course, very good food. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Hung:  I can’t believe that the famous food critic, Julia  Schilds, will be eating in my restaurant tomorrow night.  I need to prepare a go urmet menu that’s going to be mind-blowing. 
+
+Padma:  She wouldn’t be coming here if she didn’t al ready know that your cuisine is considered some of the best food in the city.   
+
+Hung:  That may be so, but you’re only as good as your la st meal.  I need to think of some delicacies that will really impress her.  Let’s see,  I think we should offer two new hors d’oeuvres, in addition to the ones alrea dy on the menu. 
+
+Padma:  Are you sure the chefs in the kitchen will be abl e to handle making six different hors d’oeuvres? 
+
+Hung:  Hmm, maybe not.   
+
+Padma:  Why don’t you concentrate on the entrées?  I’m su re you could come up with one or two new dishes that will really impress her . 
+
+Hung:  Okay, but I don’t want to put all of my eggs in one basket.  I need to have dishes in every course that are out of this world. 
+
+Padma:  Come on.  You’re a great chef.  What’s the w orst she could say? 
+
+ Hung:  Lots of things.  She could say that this is a run- of-the-mill restaurant with mediocre food that she wouldn’t even feed to her cat! 
+
+Padma:  Okay, yes, she could  say those things but she won’t.  Your food will be mouthwatering and delectable, and her taste buds will thank you for it! 
+
+[end of dialogue] 
+
+This mind-blowing, out of this world script was writte n by Dr. Lucy Tse.   
+
+From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

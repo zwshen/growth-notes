@@ -1,0 +1,250 @@
+<HTML xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
+<HEAD>
+
+<TITLE>C_F</TITLE>
+<style>
+<!--
+ table.MsoNormalTable
+	{mso-style-parent:"";
+	font-size:10.0pt;
+	font-family:"Times New Roman"}
+-->
+</style>
+<meta name="Microsoft Theme" content="expeditn 011">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF background="images/exptextb.jpg" text="#000000" link="#993300" vlink="#666600" alink="#CC3300">
+<!--mstheme--><font face="Book Antiqua, Times New Roman, Times"><!--mstheme--></font>
+<H1 align=center><!--mstheme--><font face="Book Antiqua, Times New Roman, Times" color="#660033"><font color="#800080"><i>THE SAMS' CONTEST</i></font><!--mstheme--></font></H1>
+<!--mstheme--><font face="Book Antiqua, Times New Roman, Times"><!--mstheme--></font>
+<H1 align=center><!--mstheme--><font face="Book Antiqua, Times New Roman, Times" color="#660033"><FONT color=#008080><B><SPAN 
+style="FONT-SIZE: 18pt; FONT-STYLE: italic">Problem 2</SPAN></B></FONT><BR CLEAR=ALL>
+<!--mstheme--></font></H1>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ <CENTER><!--mstheme--></font><TABLE BGCOLOR=#0060F0><TR><TD><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+   <p align="justify"><B>
+   <i>
+   <FONT SIZE=6 COLOR=#C0FFFF><A NAME="SECTION0001000000000000000000">
+   <span style="background-color: #008080">Continuously</span></A><span style="background-color: #008080"> Growing <A NAME="SECTION0001000000000000000000">
+   Fractions  </A></span></FONT></i></B><!--mstheme--></font></TABLE>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times"></CENTER>
+ <!--mstheme--></font>
+ <H1 align="justify"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times" color="#660033">&nbsp;<!--mstheme--></font></H1>
+<!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+<P align="justify">
+
+<!--mstheme--></font>
+
+<H2 align="justify"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times" color="#660033"><u><FONT COLOR=#009999><A NAME="Height to Area">Problem</A></FONT></u><!--mstheme--></font></H2>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ <p class="MsoNormal" align="justify"><span style="font-family: Times New Roman">Though many 
+ programming languages don’t support “Recursion”, it is still very important 
+ topic in programming theories. I think the idea of “Recursion” came from the 
+ “iterative process” which is playing a major role in the chapters of “Numerical 
+ Methods”! &nbsp;</span></p>
+ <p class="MsoNormal" align="justify"><span style="font-family: Times New Roman">
+ Now let’s see its application in number theory – especially in the field of 
+ “Continued Fractions” (CF). </span></p>
+ <p class="MsoNormal" align="justify"><span style="font-family: Times New Roman">The origin of 
+ continued fractions is very difficult to pinpoint as we can find examples of 
+ these fractions throughout mathematics in the last 2000 years, but its true 
+ foundations were not laid until the late 1600's, early 1700's. But 
+ traditionally its origin is said to be occurred at the time of the great 
+ geometrician Euclid. For more than a thousand years, any work that used 
+ continued fractions was restricted to specific examples. The Indian 
+ mathematician Aryabhata used a continued fraction to solve a linear </span>
+ <a href="http://archives.math.utk.edu/articles/atuyl/confrac/intro.html#def9" style="color: #006633; text-decoration: underline; text-underline: single">
+ <span style="font-family: Times New Roman; color: windowtext; text-decoration: none">
+ indeterminate equation.</span></a><span style="font-family: Times New Roman"> 
+ Throughout the history of Greek and Arab mathematical writings we can also find 
+ examples and traces of continued fractions. But its use was also limited to 
+ specifics. </span></p>
+ <p class="MsoNormal" align="justify"><span style="font-family: Times New Roman">
+ A formal definition of CF:&nbsp;</span></p>
+ <p class="MsoNormal" align="justify"><a name="def1"><span style="font-family: Times New Roman">
+ An expression of the form </span></a></p>
+ <p class="MsoNormal" align="justify"><span style="font-family: Times New Roman"><br>
+ <img border="0" src="p10521a.gif" width="181" height="110"></span></p>
+ <p class="MsoNormal" align="justify"><font face="Times New Roman"><br>
+ is said to be a </font><span style="font-family: Verdana"><em>
+ <span style="font-family: Times New Roman; font-style: normal">continued 
+ fraction.</span></em></span><font face="Times New Roman"> The values of a<sub>1</sub>, 
+ a<sub>2</sub>, a<sub>3</sub>,... and b<sub>1</sub> , b<sub>2</sub>, b<sub>3</sub>,... 
+ can be either real or complex values. There can be either an infinite or a 
+ finite number of terms. A continued fraction can be created from any number 
+ alpha by using the following recursive algorithm.</font><span style="font-family: Times New Roman">&nbsp;</span></p>
+ <p class="MsoNormal" align="center" style="text-align: justify">
+ <img border="0" src="p10521c.gif" width="66" height="17"></p>
+ <p align="center" style="text-align: justify">
+ <img border="0" src="p10521b.gif" width="95" height="24"></p>
+ <p class="MsoNormal" align="justify"><span style="font-family: Times New Roman">where alpha<sub>1</sub> 
+ = alpha. The sequences of a<sub>i</sub>'s are the terms of the continued 
+ fraction.</span></p>
+ <p class="MsoNormal" align="justify"><span style="font-family: Times New Roman">There are four 
+ kinds of continued fractions. &nbsp;Infinite, where the terms just go on for ever, 
+ and finite continued fraction, where there are only a fixed number of terms. 
+ &nbsp;And those two can be of one of two types, regular (sometimes called simple), 
+ and irregular (sometimes called complex). &nbsp;The regular type always has a one in 
+ the numerator. &nbsp;The irregular type can have other whole numbers there.</span></p>
+ <p class="MsoNormal" align="justify"><span style="font-family: Times New Roman">Here we are 
+ talking about the regular finite continued fraction that can be said as:</span></p>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman"><font size="3">A continued fraction is an expression of the form,</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman"><font size="3">&nbsp;</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman"><font size="3">&nbsp;<b> A = a_0 + 1/c_0</b></font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman"><font size="3">&nbsp;</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman"><font size="3">where</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman"><font size="3">&nbsp;</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman"><font size="3">&nbsp;<b> c_0 = a_1 + 1/c_1</b></font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman; font-weight:700"><font size="3">&nbsp;</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman; font-weight:700"><font size="3">&nbsp; c_1 = a_2 + 1/c_2</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman; font-weight:700"><font size="3">&nbsp;</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman; font-weight:700"><font size="3">&nbsp;&nbsp; .</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman; font-weight:700"><font size="3">&nbsp;&nbsp; .&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman; font-weight:700"><font size="3">&nbsp;&nbsp;&nbsp;.</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman; font-weight:700"><font size="3">&nbsp;</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman"><font size="3">If the process stopped at, say,</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman"><font size="3">&nbsp;</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman; font-weight:700"><font size="3">&nbsp; c_n = a_(n+1) + 1/c_(n+1)&nbsp;&nbsp;&nbsp; </font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman"><font size="3">&nbsp;</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <div align="justify">
+ <!--mstheme--></font>
+ <pre style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-family: Courier New; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><span style="font-family: Times New Roman"><font size="3">then we would have regular a finite continued fraction.</font></span></pre>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ </div>
+ <p class="MsoNormal" align="justify"><font face="Times New Roman"><span style="color: black">
+ Now for any fraction of the form <b> <sup>P</sup>/<sub>Q</sub></b> (P and Q are whole 
+ numbers) expressing it in the form of a regular finite continued fraction 
+ as follows: </span></font></p>
+ <p class="MsoNormal" align="justify">
+ <img border="0" src="p10521d.gif" width="656" height="176"></p>
+ <p class="MsoNormal" align="justify"><font face="Times New Roman"><span style="color: black">
+ where a, b, c, d, e, etc are all whole numbers.</span></font></p>
+ <!--mstheme--></font>
+ <H2 align="justify"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times" color="#660033"><u><FONT COLOR=#009999>Input &amp; Output</FONT></u><!--mstheme--></font></H2>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ <p class="MsoNormal" align="justify"><span style="font-family: Times New Roman">In every line 
+ of input you are given the integers P and Q and as output you have to present 
+ the regular finite continued fraction of P/Q in the following format. There may 
+ be at most 2000 digits in both P and Q.</span></p>
+ <p class="MsoNormal" align="justify">
+ <span style="font-family: Times New Roman; font-weight:700">
+ P/Q = a+1/{b+1/{c+1/{d+...}}}</span></p>
+
+<!--mstheme--></font>
+
+<H2 align="justify"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times" color="#660033"><u><FONT COLOR=#009999>Sample Input</FONT></u><!--mstheme--></font></H2>
+<!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+<P align="justify">
+<P align="justify">
+<P align="justify">
+<P align="justify">
+<P align="justify">
+<P align="justify">
+103 24<br>
+021 73<br>
+&nbsp;<!--mstheme--></font><H2 align="justify"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times" color="#660033"><u><FONT COLOR=#009999>Sample Output</A></FONT></u><!--mstheme--></font></H2>
+<!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+<P align="justify">
+<P align="justify">
+<span style='mso-bidi-font-size:13.5pt;color:windowtext'>103/24 = 
+4+1/{3+1/{2+1/{3}}}<br>
+21/73 = 0+1/{3+1/{2+1/{10}}}<br>
+&nbsp;</span><P align="center">
+&nbsp;<span style="color: windowtext"><!--msthemeseparator--><p align="center">
+<img src="images/exphorsa.gif"></p>
+
+ </span>
+ <!--mstheme--></font>
+ <h4 align="center"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times" color="#660033"><font color="#00CC99" size="4"><i>Enamul Haque</i></font><!--mstheme--></font></h4>
+ <!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+ <span style="color: windowtext"><!--msthemeseparator--><p align="center">
+<img src="images/exphorsa.gif"></p>
+
+ <p align="justify">&nbsp;</p>
+ </span>
+ <p class="MsoNormal" align="justify"><i><font face="Verdana" color="#0070E8">
+ &quot;</font><font face="Verdana">It was once said that God invented the 
+ integers and man invented everything else. It might be added God probably 
+ invented continued fractions as well.</font><font face="Verdana" color="#0070E8">&quot;</font></i></p>
+ <p class="MsoNormal" align="justify"><i><font face="Verdana">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ ~~~  </font></i><font face="Comic Sans MS"><i>Mark Herkommer</i></font><i><font face="Verdana">.</font></i></p>
+ <span style="color: windowtext"><!--msthemeseparator--><p align="center">
+<img src="images/exphorsa.gif"></p>
+
+ </span>
+ <p class="MsoNormal" align="justify"><span style="font-size: 14.0pt; font-family: Romantic">&nbsp;</span></p>
+<!--mstheme--></font>
+</BODY>
+</HTML>

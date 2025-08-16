@@ -1,0 +1,610 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0051)http://www.cs.lth.se/contest/html01/ProblemVote.htm -->
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./d_files/filelist.xml">
+<link rel=Edit-Time-Data href="./d_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem D - Splat, Inc. </title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Andreas Björklund</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>71</o:Revision>
+  <o:TotalTime>60</o:TotalTime>
+  <o:Created>2001-10-05T17:16:00Z</o:Created>
+  <o:LastSaved>2005-08-03T12:43:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>254</o:Words>
+  <o:Characters>1448</o:Characters>
+  <o:Company>Axiom4</o:Company>
+  <o:Lines>12</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1778</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:HyphenationZone>21</w:HyphenationZone>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:"\FF2D\FF33 \660E\671D";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;}
+h1
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:16.0pt;
+	font-family:Arial;
+	mso-font-kerning:16.0pt;
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;
+	font-weight:bold;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"MS Mincho";
+	mso-fareast-language:SV;
+	font-weight:normal;
+	font-style:italic;}
+h3
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.0pt;
+	font-family:Arial;
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;
+	font-weight:bold;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	mso-layout-grid-align:none;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:SimSun;
+	mso-ansi-language:SV;
+	mso-fareast-language:ZH-CN;
+	font-weight:bold;}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:9;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"MS Mincho";
+	mso-ansi-language:EN-GB;
+	mso-fareast-language:SV;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	mso-bidi-font-weight:bold;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:SV;
+	mso-fareast-language:SV;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Arial Unicode MS";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Arial Unicode MS";
+	mso-fareast-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt .8in 70.85pt .8in;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:65.2pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span lang=SV style='font-size:28.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial'>Problem D</span></b><span lang=SV style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span lang=SV style='font-size:
+20.0pt;mso-bidi-font-size:24.0pt;font-family:Arial'>Maze</span></b><span
+lang=SV style='font-family:Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input File: </b><span style='mso-bidi-font-weight:
+bold'>d.in<o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span lang=SV style='font-family:Arial'>Output: </span></b><span
+lang=SV style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=SV>&nbsp;</span></p>
+
+<p class=MsoBodyText><span style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:EN-US'>In this problem you are
+given a square maze of dimension N with N*N blocks. Each block is numbered as
+follows:<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=SV><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 style='border-collapse:collapse;
+ border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='height:33.0pt'>
+  <td width=44 style='width:33.1pt;border:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>N-1, 0<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border:solid windowtext .5pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>N-1, 1<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border:solid windowtext .5pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>…<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border:solid windowtext .5pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>…<o:p></o:p></span></p>
+  </td>
+  <td width=54 style='width:40.35pt;border:solid windowtext .5pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>N-1, N-1<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='height:33.0pt'>
+  <td width=44 style='width:33.1pt;border:solid windowtext .5pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>…<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext .5pt;border-right:solid windowtext .5pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>…<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext .5pt;border-right:solid windowtext .5pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>…<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext .5pt;border-right:solid windowtext .5pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>…<o:p></o:p></span></p>
+  </td>
+  <td width=54 style='width:40.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>…<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='height:33.0pt'>
+  <td width=44 style='width:33.1pt;border:solid windowtext .5pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>2, 0<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext .5pt;border-right:solid windowtext .5pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>2, 1<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext .5pt;border-right:solid windowtext .5pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>2, 2<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext .5pt;border-right:solid windowtext .5pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>…<o:p></o:p></span></p>
+  </td>
+  <td width=54 style='width:40.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>…<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='height:33.0pt'>
+  <td width=44 style='width:33.1pt;border:solid windowtext .5pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>1, 0<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext .5pt;border-right:solid windowtext .5pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>1, 1<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext .5pt;border-right:solid windowtext .5pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>1, 2<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext .5pt;border-right:solid windowtext .5pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>…<o:p></o:p></span></p>
+  </td>
+  <td width=54 style='width:40.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>…<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='height:33.0pt'>
+  <td width=44 style='width:33.1pt;border:solid windowtext .5pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>0, 0<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext .5pt;border-right:solid windowtext .5pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>0, 1<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext .5pt;border-right:solid windowtext .5pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>0, 2<o:p></o:p></span></p>
+  </td>
+  <td width=44 style='width:33.1pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext .5pt;border-right:solid windowtext .5pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>…<o:p></o:p></span></p>
+  </td>
+  <td width=54 style='width:40.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:33.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=SV
+  style='font-size:8.0pt'>0, N-1<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal><span lang=SV><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=SV><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=SV>The maze has only
+one entry which is at (0, 0) and only one exit which is at (N-1, N-1). </span><span
+lang=SV style='mso-bidi-font-size:10.0pt;color:black'>From each block you can
+move in four directions (N, E, W, S) and the cost is 1 for each movement among
+the maze but collecting treasure does not require any cost.. Some blocks
+contain treasures that you will have to collect. Suppose there are T treasures
+in the maze and you have to collect at least S (S </span><b style='mso-bidi-font-weight:
+normal'><span lang=SV>&#8804; </span></b><span lang=SV style='mso-bidi-font-size:
+10.0pt;color:black'>T) treasures from them. In this problem, you are requested
+to find an optimal way from starting location to ending location and take at
+least S treasures from the maze. Remember that, you can visit a block more than
+once if you want. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'><span lang=SV><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<h5><span class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:
+10.0pt;font-family:Arial'>Input</span></span><span class=StyleArial16pt><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;mso-fareast-font-family:
+"Arial Unicode MS"'><o:p></o:p></span></span></h5>
+
+<h4 style='text-align:justify'><span lang=SV style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:"Times New Roman";font-weight:normal'>The
+first line of the input contains three integers N (N &#8804; 30), T (T &#8804; 30)
+and S (S &#8804; 10 and S &#8804; T) describing the dimension of the maze,
+number of treasures in the maze and number of treasures that you can take.
+After that, there are T lines. Each line contains two numbers representing the
+position of the treasure in the maze. The input may contain multiple test cases
+and ends with three zeros for N, T and S.</span><span class=StyleArial16pt><span
+lang=SV style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman"'><o:p></o:p></span></span></h4>
+
+<p class=MsoNormal><span lang=SV><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<h4><span class=StyleArial16pt><span lang=SV style='font-size:16.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial;font-weight:normal'>Output <o:p></o:p></span></span></h4>
+
+<p class=MsoBodyText2 style='tab-stops:143.25pt'><span style='mso-bidi-font-weight:
+normal'>Each test case produces one line of output. This line should contain
+the output serial no as shown in the sample output and </span>a number
+representing the minimum cost which is required to collect the treasures.<span
+style='mso-bidi-font-weight:normal'><o:p></o:p></span></p>
+
+<span lang=SV style='font-size:12.0pt;font-family:"Times New Roman";mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:SV;mso-fareast-language:SV;mso-bidi-language:
+AR-SA'><br clear=all style='page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'><b><span
+lang=SV style='font-size:16.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>Sample
+Input<span style="mso-spacerun: yes">                                 </span>Output
+for Sample Input<o:p></o:p></span></b></p>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" bgcolor="#cccccc"
+ style='width:100.0%;background:#CCCCCC;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width="50%" valign=top style='width:50.58%;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><a name="OLE_LINK1"></a><a name="OLE_LINK2"><span
+  style='mso-bookmark:OLE_LINK1'><b><span lang=SV style='font-size:11.0pt;
+  mso-bidi-font-size:12.0pt;font-family:"Courier New"'>4 4 4<o:p></o:p></span></b></span></a></p>
+  <p class=MsoNormal><span style='mso-bookmark:OLE_LINK2'><span
+  style='mso-bookmark:OLE_LINK1'><b><span lang=SV style='font-size:11.0pt;
+  mso-bidi-font-size:12.0pt;font-family:"Courier New"'>2 0<o:p></o:p></span></b></span></span></p>
+  <p class=MsoNormal><span style='mso-bookmark:OLE_LINK2'><span
+  style='mso-bookmark:OLE_LINK1'><b><span lang=SV style='font-size:11.0pt;
+  mso-bidi-font-size:12.0pt;font-family:"Courier New"'>2 1<o:p></o:p></span></b></span></span></p>
+  <p class=MsoNormal><span style='mso-bookmark:OLE_LINK2'><span
+  style='mso-bookmark:OLE_LINK1'><b><span lang=SV style='font-size:11.0pt;
+  mso-bidi-font-size:12.0pt;font-family:"Courier New"'>2 2<o:p></o:p></span></b></span></span></p>
+  <p class=MsoNormal><span style='mso-bookmark:OLE_LINK2'><span
+  style='mso-bookmark:OLE_LINK1'><b><span lang=SV style='font-size:11.0pt;
+  mso-bidi-font-size:12.0pt;font-family:"Courier New"'>0 2<o:p></o:p></span></b></span></span></p>
+  <p class=MsoNormal><span style='mso-bookmark:OLE_LINK2'><span
+  style='mso-bookmark:OLE_LINK1'><b><span lang=SV style='font-size:11.0pt;
+  mso-bidi-font-size:12.0pt;font-family:"Courier New"'>4 4 2<o:p></o:p></span></b></span></span></p>
+  <p class=MsoNormal><span style='mso-bookmark:OLE_LINK2'><span
+  style='mso-bookmark:OLE_LINK1'><b><span lang=SV style='font-size:11.0pt;
+  mso-bidi-font-size:12.0pt;font-family:"Courier New"'>2 0<o:p></o:p></span></b></span></span></p>
+  <p class=MsoNormal><span style='mso-bookmark:OLE_LINK2'><span
+  style='mso-bookmark:OLE_LINK1'><b><span lang=SV style='font-size:11.0pt;
+  mso-bidi-font-size:12.0pt;font-family:"Courier New"'>2 1<o:p></o:p></span></b></span></span></p>
+  <p class=MsoNormal><span style='mso-bookmark:OLE_LINK2'><span
+  style='mso-bookmark:OLE_LINK1'><b><span lang=SV style='font-size:11.0pt;
+  mso-bidi-font-size:12.0pt;font-family:"Courier New"'>2 2<o:p></o:p></span></b></span></span></p>
+  <p class=MsoNormal><span style='mso-bookmark:OLE_LINK2'><span
+  style='mso-bookmark:OLE_LINK1'><b><span lang=SV style='font-size:11.0pt;
+  mso-bidi-font-size:12.0pt;font-family:"Courier New"'>0 2<o:p></o:p></span></b></span></span></p>
+  <p class=MsoNormal><b><span lang=SV style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Courier New"'>0 0 0<o:p></o:p></span></b></p>
+  <pre><![if !supportEmptyParas]>&nbsp;<![endif]><b><span style='mso-bidi-font-size:
+  12.0pt'><o:p></o:p></span></b></pre></td>
+  <td width="49%" valign=top style='width:49.42%;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span lang=SV style='font-size:11.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Courier New"'>Case 1: 10<o:p></o:p></span></b></p>
+  <p class=MsoHeading9>Case 2: 6</p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=SV>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+
+<p style='margin:0in;margin-bottom:.0001pt'><span style='font-family:"Trebuchet MS"'>Problem
+setter: Syed Monowar Hossain<o:p></o:p></span></p>
+
+<p style='margin:0in;margin-bottom:.0001pt'><span style='font-family:"Trebuchet MS"'>Special
+Thanks: Derek Kisman<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=SV><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

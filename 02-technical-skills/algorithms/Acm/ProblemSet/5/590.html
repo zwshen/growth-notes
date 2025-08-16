@@ -1,0 +1,172 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Always on the run</TITLE>
+<META NAME="description" CONTENT="Always on the run">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Always on the run</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Screeching tires. Searching lights. Wailing sirens. Police cars everywhere. Trisha Quickfinger
+did it again! Stealing the `Mona Lisa' had been more difficult than planned, but being the world's best
+art thief means expecting the unexpected. So here she is, the wrapped frame tucked firmly under her
+arm, running to catch the northbound metro to Charles-de-Gaulle airport.
+
+<P>
+But even more important than actually stealing the painting is to shake off the police that will soon
+be following her. Trisha's plan is simple: for several days she will be flying from one city to another,
+making one flight per day. When she is reasonably sure that the police has lost her trail, she will fly
+to Atlanta and meet her `customer' (known only as Mr. P.) to deliver the painting.
+
+<P>
+Her plan is complicated by the fact that nowadays, even when you are stealing expensive art, you
+have to watch your spending budget. Trisha therefore wants to spend the least money possible on her
+escape flights. This is not easy, since airlines prices and flight availability vary from day to day. The
+price and availability of an airline connection depends on the two cities involved and the day of travel.
+Every pair of cities has a `flight schedule' which repeats every few days. The length of the period may
+be different for each pair of cities and for each direction.
+
+<P>
+Although Trisha is a good at stealing paintings, she easily gets confused when booking airline
+flights. This is where you come in.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains the descriptions of several scenarios in which Trisha tries to escape. Every
+description starts with a line containing two integers <I>n</I> and <I>k</I>. <I>n</I> is the number of cities through which
+Trisha's escape may take her, and <I>k</I> is the number of flights she will take. The cities are numbered 
+<!-- MATH: $1, 2, \dots, n$ -->
+<IMG
+ WIDTH="79" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="590img1.gif"
+ ALT="$1, 2, \dots, n$">,
+where 1 is Paris, her starting point, and <I>n</I> is Atlanta, her final destination. The numbers will
+satisfy 
+<!-- MATH: $2 \leŸ n \leŸ 10$ -->
+<IMG
+ WIDTH="88" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="590img2.gif"
+ ALT="$2 \leŸ n \leŸ 10$">
+and 
+<!-- MATH: $1 \leŸ k \leŸ 1000$ -->
+<IMG
+ WIDTH="104" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="590img3.gif"
+ ALT="$1 \leŸ k \leŸ 1000$">.
+
+<P>
+Next you are given <I>n</I>(<I>n</I> - 1) flight schedules, one per line, describing the connection between
+every possible pair of cities. The first <I>n</I> - 1 flight schedules correspond to the flights from city 1 to all
+other cities (
+<!-- MATH: $2, 3, \dots, n$ -->
+<IMG
+ WIDTH="79" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="590img4.gif"
+ ALT="$2, 3, \dots, n$">), the next <I>n</I> - 1 lines to those from city 2 to all others (
+<!-- MATH: $1, 3, 4, \dots, n$ -->
+<IMG
+ WIDTH="95" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="590img5.gif"
+ ALT="$1, 3, 4, \dots, n$">), and so on.
+
+<P>
+The description of the flight schedule itself starts with an integer <I>d</I>, the length of the period in
+days, with 
+<!-- MATH: $1 \leŸ d \leŸ 30$ -->
+<IMG
+ WIDTH="86" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="590img6.gif"
+ ALT="$1 \leŸ d \leŸ 30$">.
+Following this are <I>d</I> non-negative integers, representing the cost of the flight
+between the two cities on days 
+<!-- MATH: $1, 2, \dots, d$ -->
+<IMG
+ WIDTH="77" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="590img7.gif"
+ ALT="$1, 2, \dots, d$">.
+A cost of 0 means that there is no flight between the two cities on that day.
+
+<P>
+So, for example, the flight schedule ``<TT>3 75 0 80</TT>'' means that on the first day the flight costs 75,
+on the second day there is no flight, on the third day it costs 80, and then the cycle repeats: on the
+fourth day the flight costs 75, there is no flight on the fifth day, etc.
+
+<P>
+The input is terminated by a scenario having <I>n</I> = <I>k</I> = 0.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each scenario in the input, first output the number of the scenario, as shown in the sample output. If
+it is possible for Trisha to travel <I>k</I> days, starting in city 1, each day flying to a different city than the day
+before, and finally (after <I>k</I> days) arriving in city <I>n</I>, then print ``<TT>The best flight costs </TT><I>x</I>.'',
+where <I>x</I> is the least amount that the <I>k</I> flights can cost.
+
+<P>
+If it is not possible to travel in such a way, print ``<TT>No flight possible.</TT>''.
+
+<P>
+Print a blank line after each scenario.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+3 6
+2 130 150
+3 75 0 80
+7 120 110 0 100 110 120 0
+4 60 70 60 50
+3 0 135 140
+2 70 80
+2 3
+2 0 70
+1 80
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Scenario #1
+The best flight costs 460.
+
+Scenario #2
+No flight possible.
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1998-03-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

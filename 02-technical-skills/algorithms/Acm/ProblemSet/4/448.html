@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>OOPS!</TITLE>
+<META NAME="description" CONTENT="OOPS!">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">OOPS!</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+You've been sitting in front of the terminal for three hours
+savagely coding the Assembler assignment that's due tomorrow.
+Your best friend, who finished the program last week and has been
+rubbing it in for just as long, saunters up to your terminal and
+offers, &quot;Coke break, slow poke?&quot;  You take the Coke he hands you
+and you lean your head back, savoring the refreshing feeling of
+the drink as it soothes your parched throat; too much coding
+always made your throat raw.  &quot;Hey, can I look at how far you've
+gotten?&quot; your friend asks.  &quot;Sure,&quot; you reply, taking another
+long drink.  As you're enjoying your drink and thinking of what
+&quot;The Real Thing&quot; really is, you hear a whispered &quot;oops&quot; from the
+direction of your terminal.  &quot;What?!&quot; you demand.  Your friend
+replies, backing away, &quot;I think I just deleted your source code.&quot;
+<P>
+<P>
+&quot;Arrrgggghhh!&quot; you spurt as your friend runs from the computer
+lab, mumbling prayers for divine protection.  You double check
+and sure enough all you have left of your precious Assembler
+assignment is the executable code from your last compile.  And
+you were so close to finishing!  Do you take a zero?  No, that
+last test was a killer.  Start over?  NOT!  Instead, your hands
+fumble for your Assembler textbook....  Ah, here we go: a
+description of the encoding scheme used by the computer's
+assembler.  It doesn't look too bad and you remember most of the
+hand disassembling you did in class (Thanks Dr. Baber)!  It's
+decided then, you'll just have to write a quick disassembler to
+convert the executable code back into your source code so that
+you can finish your assignment before Cheers comes on.  You open
+your textbook and begin reading:
+<P>
+<P> <IMG WIDTH=337 HEIGHT=429 ALIGN=BOTTOM ALT="tabular21" SRC="448img1.gif"  > <P>
+<P>
+<TT>ADD</TT> [R,A,N],[R,A] means that the <TT>ADD</TT> instruction takes two
+operands.  The first can be a register, an address, or a number,
+and the second operand is either a register or an address.
+<P>
+<P>
+Opcodes are 4 bits in length.  An operand is made up of two
+fields: a mode and a value.  The mode is two bits and the value
+is fourteen bits for a total of sixteen bits.  The possible
+values for mode are:
+<P>
+<P> <IMG WIDTH=239 HEIGHT=100 ALIGN=BOTTOM ALT="tabular51" SRC="448img2.gif"  > <P>
+<P>
+The value field for a register operand (mode = 00) specifies the
+number of the register.  For example, if the value field
+contained a seven then that would specify register number 7,
+written &quot;<TT>R7</TT>&quot;.  The valid registers are R0 through R1023.
+<P>
+<P>
+The value field for an absolute operand (mode = 01) specifies the
+absolute address that the operand is to be stored at.  For
+example, if the value field contained the number 110, that would
+denote address location 110, which is written &quot;<TT>$110</TT>&quot;.  Valid
+addresses are $0 through $16383.
+<P>
+<P>
+The value field for a PC-Relative operand (mode = 10) specifies
+the offset of the address relative to the program counter.  (On
+this computer, all PC-relative offsets are non-negative).  For
+example, if the value field contained the number 45, that would
+specify the address location (Program Counter) + 45, which is
+written &quot;<TT>PC+45</TT>&quot;.  Valid offsets are from 0 to 16363.
+<P>
+<P>
+The value field for a constant operand (mode = 11) specifies a
+constant - a number between 0 and 16383.  For example, if the
+value field contained the number 1276, then that would specify
+the actual number 1276 and is written as &quot;<TT>1276</TT>&quot;.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+Your task is to write a program which will read in a text file
+that contains the hexadecimal listing of an executable program
+and output the original source code, one assembler instruction
+per line.  Each line in the text file will contain exactly 30
+hexadecimal digits except for the last line which will contain
+from 1 to 30 hexadecimal digits.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>4C00D00004C0020001000000001400
+005FFFB801E</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>MOV 13,R0
+MOV 2,R1
+ADD R0,R1
+MOV R0,$8191
+BR PC+30</PRE>
+<P>
+</BODY>
+</HTML>

@@ -1,0 +1,77 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<title>Problem B - Big Big Trees</title>
+
+</head>
+
+<body bgcolor="#ffffff" lang=EN-US>
+
+<center>
+<p>
+<b><font size=5>Problem B</font></b><br>
+<b><font size=6>Big Big Trees</font></b><br>
+<b>Input:</b> standard input<br>
+<b>Output:</b> standard output<br>
+<b>Time Limit:</b> 2 seconds<br>
+<b>Memory Limit:</b> 16 MB<br>
+</p>
+
+</center>
+
+<p>
+There are <b>n</b> trees arranged in a straight line in the forest, the adjacent two trees are 
+<b>m</b> meters apart from each other. The <b>i</b>-th tree is <b>h<sub>i</sub></b> meters high,
+and at every integer height <b>x(1&lt;=x&lt;=h<sub>i</sub>)</b>, the tree has two big leaves with a length of 
+<b>l<sub>i,j</sub></b> on both sides. The two leaves are left-right symmetrical, so each tree is left-right symmetrical too.
+The picture below shows two trees. Note that the longest leaf should be shorter than <b>m/2</b> meters. So every
+two leaves from different trees can NEVER overlap in left-to-right direction.
+<p>
+<center><img src="p10412.jpg"></center>
+<p>
+A monkey from the top of the 1st tree wants to reach to top of the last tree. He may climb up and down, and he may
+walk from left to right on the leaves or on the ground. He may also jump from the RIGHT ENDPOINT of a leaf to the LEFT ENDPOINT 
+of another leaf on the next tree(Warning: the monkey cannot jump from or land inside a leaf or the ground! What's more, he jumps along a
+straight line, so the line should not contain any points of any other leaves). 
+But he may do that only if the distance between the two endpoints are not longer than <b>k</b> meters.
+Clearly, the monkey should always use exactly <b>n-1</b> jumps, but he may wall on different route in order to minimize the total distance
+he walks(NOT climbs). Help him to calculate the minimal total distance walked.
+
+<p><b><font size=5>Input</font></b></p>
+<p>
+The first line of the input is a single integer <b>t</b>(<b>1</b>&lt;=<b>t</b>&lt;=<b>10</b>), indicating the number of test cases.
+Each case begins with a line containing three integers <b>n,m,k</b>(<b>1&lt;=n,m,k&lt;=1000, </b>), indicating the number of trees, 
+the distance between two adjacent trees, and the maximal allowed jump distance.
+There are <B>n</b> lines following. Each line describes a tree. The first integer <b>h(1&lt;=h&lt;=20)</b> is the height of the tree. 
+There are <b>h</b> integers following: <b>l<sub>1</sub>, l<sub>2</sub>,... l<sub>h</sub> (0&lt;=l<sub>i</sub>&lt;m/2, i=1,2...n)</b>, indicating the lengths of the leaves.
+
+</p>
+
+<p><b><font size=5>Output</font></b></p>
+<p>
+For each case, print a number <b>d</b> in a single line indicating the minimal total distance the monkey walks.
+</p>
+
+<p><b><font size=5>Sample Input</font></b><br>
+<font face="Courier" size=3>
+2<br>
+2 7 3<br>
+4 3 2 2 0<br>
+5 3 0 1 0 0<br>
+3 50 40<br>
+4 15 3 16 10<br>
+8 12 12 12 21 12 15 6 14<br>
+13 15 23 20 18 14 1 21 9 9 18 23 10 4<br>
+</font>
+
+<p><b><font size=5>Sample Output</font></b><br>
+<font face="Courier" size=3>
+5<br>
+28<br>
+</font>
+
+<font face="Times New Roman" size=3>
+<hr>
+<b>The 2nd OIBH Online Programming Contest. Author: Rujia Liu<b><br>
+</body>
+</html>

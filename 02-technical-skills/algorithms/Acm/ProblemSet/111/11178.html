@@ -1,0 +1,462 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="d_files/filelist.xml">
+<link rel=Edit-Time-Data href="d_files/editdata.mso">
+<link rel=OLE-Object-Data href="d_files/oledata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem D - Morley’s Theorem</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>100</o:Revision>
+  <o:TotalTime>283</o:TotalTime>
+  <o:Created>2004-06-18T06:13:00Z</o:Created>
+  <o:LastSaved>2007-02-18T22:14:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>300</o:Words>
+  <o:Characters>1715</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>14</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2011</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+h3
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:16.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:7;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:18.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	mso-bidi-font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:#6633CC;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+tt
+	{font-family:"Courier New";
+	mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+p.preformatted, li.preformatted, div.preformatted
+	{mso-style-name:preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+p.paragraph, li.paragraph, div.paragraph
+	{mso-style-name:paragraph;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="9218"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#6633CC" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:28.0pt;mso-bidi-font-size:12.0pt;font-family:
+Arial'>Problem D</span></b><span style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>Morley’s Theorem</span></b><span
+style='font-family:Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input: </b><span style='mso-bidi-font-weight:
+bold'>Standard Input</span></span><span style='mso-bidi-font-size:10.0pt;
+font-family:Arial;color:black;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output </span><span
+style='mso-bidi-font-size:10.0pt;font-family:Arial;color:black;mso-bidi-font-weight:
+bold'><o:p></o:p></span></p>
+
+<p style='text-align:justify'>&nbsp;Morley’s theorem states that that the lines
+trisecting the angles of an arbitrary plane triangle meet at the vertices of an
+equilateral triangle. For example in the figure below the tri-sectors of angles
+A, B and C has intersected and created an equilateral triangle DEF. </p>
+
+<p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1026" type="#_x0000_t75" style='width:262.5pt;
+ height:166.5pt'>
+ <v:imagedata src="p11178.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=350 height=222
+src="p11178.jpg" v:shapes="_x0000_i1026"><![endif]></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Of course <span lang=EN
+style='mso-ansi-language:EN'>the theorem has various generalizations, in
+particular if all of the tri-sectors are intersected one obtains four other
+equilateral triangles. But in the original theorem only tri-sectors nearest to
+BC are allowed to intersect to get point D, tri-sectors nearest to CA are
+allowed to intersect point E and tri-sectors nearest to AB are intersected to
+get point F. <span class=SpellE>Trisector</span> like BD and CE are not allowed
+to intersect. So ultimately we get only one equilateral triangle DEF. Now your
+task is to find the Cartesian coordinates of D, E and F given the coordinates
+of A, B, and C.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span class=StyleArial16pt><span
+style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></span></p>
+
+<h5 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:10.0pt'>Input<o:p></o:p></span></span></h5>
+
+<p class=MsoNormal style='text-align:justify'>First line of the input file
+contains an integer N (0&lt;N&lt;5001) which denotes the number of test cases
+to follow. Each of the next lines contain six <span class=GramE>integers </span><span
+style='position:relative;top:6.0pt;mso-text-raise:-6.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1027" type="#_x0000_t75" style='width:98.25pt;height:18pt' o:ole="">
+ <v:imagedata src="d_files/image003.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=131 height=24
+src="p11178a.gif" v:shapes="_x0000_i1027"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1027"
+  DrawAspect="Content" ObjectID="_1233363688">
+ </o:OLEObject>
+</xml><![endif]-->. <span class=GramE>This</span> six integers actually indicates
+that the Cartesian coordinates of point A, B and C are <span style='position:
+relative;top:6.0pt;mso-text-raise:-6.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1028"
+ type="#_x0000_t75" style='width:2in;height:18pt' o:ole="">
+ <v:imagedata src="d_files/image005.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=192 height=24
+src="p11178b.gif" v:shapes="_x0000_i1028"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1028"
+  DrawAspect="Content" ObjectID="_1233363689">
+ </o:OLEObject>
+</xml><![endif]--><span style='mso-spacerun:yes'> </span>respectively. You can
+assume that the area of triangle ABC is not equal to zero, <span
+style='position:relative;top:6.0pt;mso-text-raise:-6.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1029" type="#_x0000_t75" style='width:152.25pt;height:18pt' o:ole="">
+ <v:imagedata src="d_files/image007.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=203 height=24
+src="p11178c.gif" v:shapes="_x0000_i1029"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1029"
+  DrawAspect="Content" ObjectID="_1233363690">
+ </o:OLEObject>
+</xml><![endif]--><span style='mso-spacerun:yes'> </span>and the points A, B
+and C are in counter clockwise order.</p>
+
+<h4><span class=StyleArial16pt><span style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></span></span></h4>
+
+<h4><span class=StyleArial16pt><span style='mso-bidi-font-weight:normal'>Output
+</span></span><span class=StyleArial16pt><span style='font-size:12.0pt;
+font-family:"Times New Roman";mso-bidi-font-weight:normal'><o:p></o:p></span></span></h4>
+
+<h4 style='text-align:justify'><span style='font-size:12.0pt;font-family:"Times New Roman";
+font-weight:normal;mso-bidi-font-weight:bold'>For each line of input you should
+produce one line of output. This line contains six floating point numbers <span
+style='position:relative;top:5.0pt;mso-text-raise:-5.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1030" type="#_x0000_t75" style='width:99.75pt;height:17.25pt'
+ o:ole="">
+ <v:imagedata src="d_files/image009.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=133 height=23
+src="p11178d.gif" v:shapes="_x0000_i1030"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1030"
+  DrawAspect="Content" ObjectID="_1233363691">
+ </o:OLEObject>
+</xml><![endif]--><span style='mso-spacerun:yes'> </span>separated by a single
+space. These six floating-point actually means that the Cartesian coordinates
+of D, E and F are <span style='position:relative;top:5.0pt;mso-text-raise:-5.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1031" type="#_x0000_t75" style='width:129pt;height:17.25pt' o:ole="">
+ <v:imagedata src="d_files/image011.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=172 height=23
+src="p11178e.gif" v:shapes="_x0000_i1031"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1031"
+  DrawAspect="Content" ObjectID="_1233363692">
+ </o:OLEObject>
+</xml><![endif]--><span style='mso-spacerun:yes'> </span>respectively. Errors
+less than<span style='mso-spacerun:yes'>  </span><span style='position:relative;
+top:3.0pt;mso-text-raise:-3.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1032"
+ type="#_x0000_t75" style='width:21.75pt;height:15.75pt' o:ole="">
+ <v:imagedata src="d_files/image013.wmz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=29 height=21
+src="p11178f.gif" v:shapes="_x0000_i1032"><![endif]></span><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1032"
+  DrawAspect="Content" ObjectID="_1233363693">
+ </o:OLEObject>
+</xml><![endif]--><span style='mso-spacerun:yes'> </span>will be accepted.<o:p></o:p></span></h4>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'><span
+style='mso-bidi-font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<h1 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='font-size:16.0pt;mso-bidi-font-size:12.0pt;font-family:Arial;mso-bidi-font-weight:
+normal;mso-bidi-font-style:italic'>Sample Input<span
+style='mso-spacerun:yes'>   </span>Output for Sample Input</span><span
+style='font-size:16.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'><o:p></o:p></span></h1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='background:#CCCCCC;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=151 valign=top style='width:113.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'><pre><b><span
+  style='font-size:9.0pt'>2<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:9.0pt'>1 <span class=SpellE>1</span> 2 <span class=SpellE>2</span> 1 2<o:p></o:p></span></b></pre><pre><b><span
+  style='font-size:9.0pt'>0 <span class=SpellE>0</span> 100 0 50 <span
+  class=SpellE>50</span></span></b><b><span style='mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></pre></td>
+  <td width=480 valign=top style='width:5.0in;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:9.0pt;font-family:"Courier New"'>1.316987 1.816987 1.183013
+  1.683013 1.366025 1.633975<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:9.0pt;font-family:"Courier New"'>56.698730 25.000000
+  43.301270 25.000000 50.000000 13.397460<o:p></o:p></span></b></p>
+  <pre><o:p>&nbsp;</o:p></pre></td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal><span class=SpellE><b><span style='font-family:Arial'>Problemsetters</span></b></span><b><span
+style='font-family:Arial'>: Shahriar Manzoor<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-family:Arial'>Special Thanks: Joachim
+Wulff</span></b><span style='font-family:Arial'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

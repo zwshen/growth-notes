@@ -1,0 +1,84 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<p><b><font size=+2>Problem A: EXPRESSIONS</font></b>
+<br> <br> <br>
+<p>Let X be the set of <i>correctly built parenthesis expressions</i>.
+The elements of X are strings consisting only of the characters ‘(’ and
+‘)’. The set X is defined as follows:
+<ul>
+<li>
+an empty string belongs to X</li>
+
+<li>
+if A belongs to X, then (A) belongs to X</li>
+
+<li>
+if both A and B belong to X, then the concatenation AB belongs to X.</li>
+</ul>
+For example, the following strings are correctly built parenthesis expressions
+(and therefore belong to the set X):
+<p><font face="Courier New">()(())()</font>
+<p><font face="Courier New">(()(()))</font>
+<p>The expressions below are not correctly built parenthesis expressions
+(and are thus not in X):
+<p><font face="Courier New">(()))(()</font>
+<p><font face="Courier New">())(()</font>
+<p>Let E be a correctly built parenthesis expression (therefore E is a
+string belonging to X).
+<p>The <i>length</i> of E is the number of single parenthesis (characters)
+in E.
+<p>The <i>depth</i> D(E) of E is defined as follows:
+<p><font face="Symbol">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&igrave;</font><font face="Courier New"> 0 if E is empty</font>
+<br><font face="Courier New">D(E)= </font><font face="Symbol">&iacute;</font><font face="Courier New">
+D(A)+1 if E = (A), and A is in X</font>
+<br><font face="Symbol">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&icirc;</font><font face="Courier New"> max(D(A),D(B)) if E = AB, and A,
+B are in X</font>
+<p>For example, the length of “()(())()” is 8, and its depth is 2.
+<p>What is the number of correctly built parenthesis expressions of length
+<b>n</b>
+and depth <b>d</b>, for given positive integers n and d?
+<p><b><i>Task</i></b>
+<br>Write a program which
+<ul>
+<li>
+reads two integers n and d </li>
+
+<li>
+computes the number of correctly built parenthesis expressions of length
+n and depth d;</li>
+
+</ul>
+<b><i>Input data</i></b>
+<br>
+Input consists of lines of pairs of two integers - n and d, at most one
+pair on line, <b>2 <font face="Symbol">&pound;</font>
+n <font face="Symbol">&pound;</font> 300, 1 <font face="Symbol">&pound;</font>
+d <font face="Symbol">&pound;</font> 150. </b> <br>
+The number of lines in the input file is at most 20, the input may contain
+empty lines, which you don't need to consider.
+
+<p><b><i>Output data</i></b>
+<br> For every pair of integers in the input write single integer on one line - the number of
+correctly built parenthesis expressions of length n and depth d.
+<p><b><i>Example</i></b>
+<br>Input data&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Output data 
+<br><font face="Courier New">
+6 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+3</font>
+<br><font face="Courier New">
+300 150&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+1</font>
+<br>
+
+<p>There are exactly three correctly built parenthesis expressions of length
+6 and depth 2:
+<br><font face="Courier New">(())()</font>
+<br><font face="Courier New">()(())</font>
+<br><font face="Courier New">(()())</font>
+<br>
+</body>
+</html>

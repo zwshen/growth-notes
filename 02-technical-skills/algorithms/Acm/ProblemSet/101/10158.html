@@ -1,0 +1,302 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./Problem1_files/filelist.xml">
+
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>ProSyst</o:Author>
+  <o:LastAuthor>ProSyst</o:LastAuthor>
+  <o:Revision>6</o:Revision>
+  <o:TotalTime>118</o:TotalTime>
+  <o:LastPrinted>2001-04-09T15:34:00Z</o:LastPrinted>
+  <o:Created>2001-04-10T14:01:00Z</o:Created>
+  <o:LastSaved>2001-04-12T10:08:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>549</o:Words>
+  <o:Characters>3133</o:Characters>
+  <o:Company>ProSyst Software GmbH</o:Company>
+  <o:Lines>26</o:Lines>
+  <o:Paragraphs>6</o:Paragraphs>
+  <o:CharactersWithSpaces>3847</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:16.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:left;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:24.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-font-kerning:0pt;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:1131748652;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-560692148 1263585558 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-tab-stop:96.0pt;
+	mso-level-number-position:left;
+	margin-left:96.0pt;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+</head>
+
+<body lang=EN-GB style='tab-interval:36.0pt'>
+
+<div class=Section1>
+
+<h1>Problem B: War</h1>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">    </span>A war is being
+lead between two countries, A and B. As a loyal citizen of C, you decide to
+help your country’s espionage by attending the peace-talks taking place these
+days (incognito, of course). There are n people at the talks (not including
+you), but you do not know which person belongs to which country. You can see
+people talking to each other, and through observing their behaviour during
+their occasional one-to-one conversations, you can guess if they are friends or
+enemies. In fact what your country would need to know is whether certain pairs
+of people are from the same country, or they are enemies. You may receive such
+questions from C’s government even during the peace-talks, and you have to give
+replies on the basis of your observations so far. Fortunately nobody talks to
+you, as nobody pays attention to your humble appearance.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">  </span><b><span
+style='color:black'>Abstract<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">    </span>Now, more
+formally, consider a black box with the following operations:</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">              
+</span>setFriends(x, y)<span style="mso-spacerun: yes">     </span>shows that x
+and y are from the same country</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">              
+</span>setEnemies(x, y)<span style="mso-spacerun: yes">   </span>shows that x
+and y are from different countries</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">               </span>areFriends(x,
+y)<span style="mso-spacerun: yes">     </span>returns true if you are sure that
+x and y are friends</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">              
+</span>areEnemies(x, y)<span style="mso-spacerun: yes">   </span>returns true
+if you are sure that x and y are enemies</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">    </span>The first two
+operations should signal an error if they contradict with your former
+knowledge. The two relations ‘friends’ (denoted by ~) and ‘enemies’ (denoted by
+*) have the following properties:</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">              </span>~ is an
+equivalence relation, i.e.</p>
+
+<p class=MsoNormal style='margin-left:96.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo2;
+tab-stops:list 96.0pt'><![if !supportLists]>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><![endif]>If x ~ y and y ~ z then x ~ z<span style="mso-spacerun: yes"> 
+</span>(The friends of my friends are my friends as well.)</p>
+
+<p class=MsoNormal style='margin-left:96.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo2;
+tab-stops:list 96.0pt'><![if !supportLists]>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><![endif]>If x ~ y then y ~ x<span style="mso-spacerun: yes">  </span><span
+style="mso-spacerun: yes">                </span>(Friendship is mutual.)</p>
+
+<p class=MsoNormal style='margin-left:96.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo2;
+tab-stops:list 96.0pt'><![if !supportLists]>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><![endif]>x ~ x<span style="mso-spacerun:
+yes">                                       </span>(Everyone is a friend of
+himself.)</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">              </span>* is
+symmetric and irreflexive</p>
+
+<p class=MsoNormal style='margin-left:96.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo2;
+tab-stops:list 96.0pt'><![if !supportLists]>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><![endif]>If x * y then y * x<span style="mso-spacerun:
+yes">                  </span>(Hatred is mutual.)</p>
+
+<p class=MsoNormal style='margin-left:96.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo2;
+tab-stops:list 96.0pt'><![if !supportLists]>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><![endif]>Not x * x<span style="mso-spacerun:
+yes">                          </span><span style="mso-spacerun:
+yes">      </span>(Nobody is an enemy of himself.)</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">              </span>Also</p>
+
+<p class=MsoNormal style='margin-left:96.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo2;
+tab-stops:list 96.0pt'><![if !supportLists]>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><![endif]>If x * y and y * z then x ~ z<span style="mso-spacerun:
+yes">   </span>(A common enemy makes two people friends.)</p>
+
+<p class=MsoNormal style='margin-left:96.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo2;
+tab-stops:list 96.0pt'><![if !supportLists]>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><![endif]>If x ~ y and y * z then x * z<span style="mso-spacerun:
+yes">   </span>(An enemy of a friend is an enemy.)</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">    </span>Operations
+setFriends(x, y) and setEnemies(x, y) must preserve these properties.</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">  </span></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">  </span><b><span
+style='color:black'>Input<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">     </span>The first line
+contains a single integer, n, the number of people.</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">     </span>Each of the
+following lines contains a triple of integers, c x y, where c is the code of
+the operation:</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>c = 1, setFriends</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>c = 2,
+setEnemies</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>c = 3,
+areFriends</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>c = 4,
+areEnemies</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">     </span>and x and y are
+its parameters, which are integers in the range [0, n), identifying two
+(different) people. The last line contains 0 0 0.</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">    </span>All integers in
+the input file are separated by at least one space or line break.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">  </span><b><span
+style='color:black'>Output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">     </span>For every
+‘areFriends’ and ‘areEnemies’ operation write 0 (meaning no) or 1 (meaning yes)
+to the output. Also for every ‘setFriends’ or ‘setEnemies’ operation
+which contradicts with previous knowledge, output a –1 to the output ; note
+that such an operation should produce no other effect and execution should
+continue. A successful ‘setFriends’ or ‘setEnemies’ gives no output.</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">    </span>All integers in
+the output file must be separated by at least one space or line break.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">  </span><b><span
+style='color:black'>Constraints<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">    </span>n &lt; 10000, the
+number of operations is unconstrained.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">  </span><b><span
+style='color:black'>Sample</span></b> <b><span style='color:black'>Input<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>10</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>1 0 1</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>1 1 2</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>2 0 5</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>3 0 2</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">   </span><span
+style="mso-spacerun: yes">         </span>3 8 9</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>4 1 5</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>4 1 2</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>4 8 9</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>1 8 9</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>1 5 2</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>3 5 2</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>0 0 0</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">  </span><b><span
+style='color:black'>Sample</span></b> <b><span style='color:black'>Output<o:p></o:p></span></b></p>
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>1</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>0</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>1</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>0</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>0</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>-1</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">            </span>0</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,129 @@
+
+<!--Converted with LaTeX2HTML 2002-2-1 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>The Minimum Slot Machine</TITLE>
+<META NAME="description" CONTENT="The Minimum Slot Machine">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2002-2-1">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+The Minimum Slot Machine</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A slot machine accepts coins of two types, <SPAN CLASS="MATH">1</SPAN>
+and <SPAN CLASS="MATH">2</SPAN> euros. The game begins by pressing a button that makes the 
+machine arbitrarily jump to any one of <SPAN CLASS="MATH"><I>n</I></SPAN> states.
+Each coin you insert makes the machine move to a new state which is 
+determined by the type of coin
+and the present state (it may move to just the same state where it is). 
+If you wait more than
+5 seconds without inserting a coin the game ends and either you loose 
+the coins you inserted
+or you win the double of what you spent, depending on whether the state 
+the machine stays in at the end is a
+loose or a win state. To make you suffer more, after you insert a new 
+coin, the machine tells you what would have
+happened if you had stopped instead of going on.
+
+<P>
+For the sake of minimality, a machine cannot have two equivalent 
+states.
+Two states are equivalent if no matter the sequence of coins you 
+insert, the result is the same
+starting from one state or from the other. Notice that a sequence of 
+zero coins is valid, although the victory in
+such a case is just moral.
+
+<P>
+Given a slot machine, determine the sets of states that are equivalent
+and for each set delete all the states except the first in alphabetical 
+order, which is taken as
+the valid representative of that identical behaviour set. Show these 
+remaining states.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input file contains several test cases, each of them containing several lines as follows.
+
+<P>
+The first line of the input contains the number <SPAN CLASS="MATH"><I>n</I></SPAN> (integer format) of 
+states.
+The states are labeled in alphabetic sequence, starting from <SPAN CLASS="MATH"><I>A</I></SPAN>, and 
+there are at most 26.
+So, if <SPAN CLASS="MATH"><I>n</I> = 6</SPAN>, the states are <SPAN CLASS="MATH"><I>A</I></SPAN>-<SPAN CLASS="MATH"><I>F</I></SPAN>.
+The next <SPAN CLASS="MATH"><I>n</I></SPAN> lines contain four characters each, separated by single 
+spaces, where
+the first is the name of a state, the second the state the machine 
+moves into if a <SPAN CLASS="MATH">1</SPAN> euro coin
+is inserted, the third the state the machine moves into if a <SPAN CLASS="MATH">2</SPAN> euro 
+coin
+is inserted, and the fourth a <SPAN CLASS="MATH"><I>w</I></SPAN> if the state is a win state or a <SPAN CLASS="MATH">-</SPAN> 
+if it is a loose state.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case, your program must output the states that remain, after deleting the 
+equivalent states, in a single line, separated by single spaces.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+3
+A C B w
+B A B -
+C C B w
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+A B
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+<ADDRESS>
+MIUP'2006
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

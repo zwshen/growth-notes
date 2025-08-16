@@ -1,0 +1,167 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./p3_files/filelist.xml">
+<link rel=Edit-Time-Data href="./p3_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem J - Is There A Second Way Left ?</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Administrator</o:Author>
+  <o:LastAuthor>Administrator</o:LastAuthor>
+  <o:Revision>9</o:Revision>
+  <o:TotalTime>6</o:TotalTime>
+  <o:Created>2001-02-20T07:08:00Z</o:Created>
+  <o:LastSaved>2001-02-20T07:14:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>222</o:Words>
+  <o:Characters>1268</o:Characters>
+  <o:Company>BUET</o:Company>
+  <o:Lines>10</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1557</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in' bgcolor="#D0d0FF">
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=5>Problem J</font></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=6>Is There A Second Way Left ?</font></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Input: </b><span style='mso-bidi-font-weight:bold'>standard input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Output: </b>standard output</p>
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Time Limit: </b>3 seconds</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'> Nasa, being the most talented programmer of his time, can't think things to be so simple. 
+Recently all his neighbors have decided to connect themselves over a network (actually all of them want to share a broadband internet connection :-)). 
+But he wants to minimize the total cost of cable required as he is a bit fastidious about the expenditure of the project. 
+For some unknown reasons, he also wants a second way left. 
+I mean, he wants to know the second best cost (if there is any which may be same as the best cost) for the project. 
+I am sure, he is capable of solving the problem. But he is very busy with his private affairs(?) and he will remain so. 
+So, it is your turn to prove yourself a good programmer. Take the challenge (if you are brave enough)..............
+
+
+</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Input</font></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'> Input starts with an integer <b>t<=1000</b> which denotes the number of test cases to handle. 
+Then follows <b>t</b> datasets where every dataset starts with a pair of integers <b>v(1<=v<=100)</b> and <b>e(0<=e<=200)</b>. 
+<b>v</b> denotes the number of neighbors and <b>e</b> denotes the number of allowed direct connections among them. 
+The following <b>e</b> lines contain the description of the allowed direct connections where each line is of the form "start end cost", where start and end are the two ends of the connection and cost is the cost for the connection. 
+All connections are bi-directional and there may be multiple connections between two ends.
+
+</p>
+
+
+<br>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Output</font></span></b></p>
+<p class=MsoNormal style='text-align:justify'>There may be three cases in the output - 1. no way to complete the task, 2. There is only one way to complete the task, 3. There are more than one way. 
+Output "No way" for the first case, "No second way" for the second case and an integer c for the third case where c is the second best cost. Output for a case should start in a new line.
+
+
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Input</font></span></b></p>
+<font face="courier" size=3>
+</font>
+<xmp>
+4
+5 4 
+1 2 5
+3 2 5
+4 2 5
+5 4 5
+5 3
+1 2 5
+3 2 5
+5 4 5
+5 5 
+1 2 5
+3 2 5
+4 2 5
+5 4 5
+4 5 6
+1 0
+</xmp>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Output</font></span></b></p>
+<font face="courier" size=3>
+<xmp>
+Case #1 : No second way
+Case #2 : No way
+Case #3 : 21
+Case #4 : No second way
+</xmp>
+</font>
+</div>
+<hr size=2 width="100%" align=center>
+<p class=MsoNormal><b><span style='color:windowtext'>Author : Mohammad Sajjad Hossain</span></b></p>
+<i> 
+The Real Programmers' Contest-2 </i>
+
+</body>
+
+</html>

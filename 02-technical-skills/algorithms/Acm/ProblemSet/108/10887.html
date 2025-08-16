@@ -1,0 +1,402 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./a_files/filelist.xml">
+<link rel=Edit-Time-Data href="./a_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem A - Recurrences</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>78</o:Revision>
+  <o:TotalTime>220</o:TotalTime>
+  <o:Created>2004-05-14T06:35:00Z</o:Created>
+  <o:LastSaved>2005-08-03T11:58:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>253</o:Words>
+  <o:Characters>1447</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>12</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1777</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:"\FF2D\FF33 \660E\671D";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:18.0pt;
+	font-weight:bold;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+h3
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:13.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:normal;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:18.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"MS Mincho";
+	mso-ansi-language:EN-GB;
+	mso-fareast-language:SV;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	mso-bidi-font-weight:bold;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+tt
+	{mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+p.preformatted, li.preformatted, div.preformatted
+	{mso-style-name:preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+span.StyleArial16pt
+	{mso-style-name:"Style Arial 16 pt";
+	mso-ansi-font-size:16.0pt;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	font-weight:bold;}
+p.paragraph, li.paragraph, div.paragraph
+	{mso-style-name:paragraph;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:.8in .8in .8in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='margin-left:.25in;text-align:center;
+tab-stops:143.25pt'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:28.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>Problem A</span></b><span
+style='font-family:Arial'><br>
+</span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
+mso-bidi-font-size:24.0pt;font-family:Arial'>Concatenation of Languages</span></b><span
+style='font-family:Arial'><br>
+<b style='mso-bidi-font-weight:normal'>Input File: </b><span style='mso-bidi-font-weight:
+bold'>Standard Input<o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Arial'>Output: </span></b><span
+style='font-family:Arial;mso-bidi-font-weight:bold'>Standard Output<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>A language is a set of strings.
+And the concatenation of two languages is the set of all strings that are
+formed by concatenating the strings of the second language at the end of the
+strings of the first language.</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>For example, if we have two
+language A and B such that:</p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify'><b>A</b> = {cat,
+dog, mouse}</p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify'><b>B</b> = {rat,
+bat}</p>
+
+<p class=MsoBodyText><span style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:EN-US'>The concatenation of A and
+B would be:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify'><b>C</b> =
+{catrat, catbat, dograt, dogbat, mouserat, mousebat}</p>
+
+<p class=paragraph style='margin:0in;margin-bottom:.0001pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Given two languages your task is
+only to count the number of strings in the concatenation of the two languages.</p>
+
+<p class=paragraph style='margin:0in;margin-bottom:.0001pt;tab-stops:143.25pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h5><span class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:
+10.0pt;font-family:Arial'>Input</span></span><span class=StyleArial16pt><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;mso-fareast-font-family:
+"Arial Unicode MS"'><o:p></o:p></span></span></h5>
+
+<h4 style='text-align:justify'>There can be multiple test cases. The first line
+of the input file contains the number of test cases, <b style='mso-bidi-font-weight:
+normal'>T</b> <b style='mso-bidi-font-weight:normal'>(1&#8804;T&#8804;25)</b>.
+Then <b style='mso-bidi-font-weight:normal'>T</b> test cases follow. The first
+line of each test case contains two integers, <b style='mso-bidi-font-weight:
+normal'>M</b> and <b style='mso-bidi-font-weight:normal'>N</b> <b
+style='mso-bidi-font-weight:normal'>(M,N&lt;1500)</b>, the number of strings in
+each of the languages. Then the next <b style='mso-bidi-font-weight:normal'>M</b>
+lines contain the strings of the first language. The <b style='mso-bidi-font-weight:
+normal'>N</b> following lines give you the strings of the second language. You
+can assume that the strings are formed by lower case letters (<b
+style='mso-bidi-font-weight:normal'>‘a’</b> to <b style='mso-bidi-font-weight:
+normal'>‘z’</b>) only, that they are less than <b style='mso-bidi-font-weight:
+normal'>10</b> characters long and that each string is presented in one line
+without any leading or trailing spaces. The strings in the input languages may
+not be sorted and there will be no duplicate string.<span class=StyleArial16pt><span
+style='font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;font-weight:
+normal'><o:p></o:p></span></span></h4>
+
+<p class=MsoBodyText2><span style='mso-bidi-font-weight:normal'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<h4><span class=StyleArial16pt><span style='font-size:16.0pt;mso-bidi-font-size:
+10.0pt;font-family:Arial'>Output <o:p></o:p></span></span></h4>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'>For each of
+the test cases you need to print one line of output. The output for each test
+case starts with the serial number of the test case, followed by the number of
+strings in the concatenation of the second language after the first language.</p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:143.25pt'><b><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></b></p>
+
+<h1><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>Sample
+Input<span style="mso-spacerun: yes">                              
+</span>Output for Sample Input</span><i><span style='font-size:16.0pt;
+mso-bidi-font-size:12.0pt;font-family:Arial;font-weight:normal'><o:p></o:p></span></i></h1>
+
+<table border=1 cellspacing=0 cellpadding=0 bgcolor="#cccccc" style='background:
+ #CCCCCC;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr>
+  <td width=319 valign=top style='width:239.4pt;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:"Courier New"'>2<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:"Courier New"'>3 2<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:"Courier New"'>cat<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:"Courier New"'>dog<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:"Courier New"'>mouse<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:"Courier New"'>rat<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:"Courier New"'>bat<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:"Courier New"'>1 1<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:"Courier New"'>abc<o:p></o:p></span></b></p>
+  <pre><b><span style='font-size:11.0pt;mso-bidi-font-size:10.0pt'>cab</span></b><b><span
+  style='mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></pre></td>
+  <td width=297 valign=top style='width:222.85pt;border:solid windowtext .5pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+  font-family:"Courier New"'>Case 1: 6<o:p></o:p></span></b></p>
+  <pre><b><span style='font-size:11.0pt;mso-bidi-font-size:10.0pt'>Case 2: 1<o:p></o:p></span></b></pre>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !supportEmptyParas]>&nbsp;<![endif]><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Courier New"'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+
+<p style='margin:0in;margin-bottom:.0001pt'><span style='font-family:"Trebuchet MS";
+mso-bidi-font-family:Arial'>Problem setter: Monirul Hasan<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:"Trebuchet MS";mso-bidi-font-family:
+Arial'>Special Thanks: Shahriar Manzoor</span></p>
+
+</div>
+
+</body>
+
+</html>

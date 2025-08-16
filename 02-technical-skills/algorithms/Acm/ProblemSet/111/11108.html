@@ -1,0 +1,124 @@
+<img align=right src=p11108.jpg><h2>Problem D:  Tautology</h2>
+WFF 'N PROOF is a logic game played with dice.  Each die has six faces representing
+some subset of the possible symbols K, A, N, C, E, p, q, r, s, t.
+A Well-formed formula (WFF) is any string of these symbols obeying the following
+rules:
+<ul>
+<li>p, q, r, s, and t are WFFs
+<li>if <i>w</i> is a WFF, N<i>w</i> is a WFF
+<li>if <i>w</i> and <i>x</i> are WFFs, K<i>wx</i>, A<i>wx</i>, C<i>wx</i>,
+and E<i>wx</i> are WFFs.
+</ul>
+The meaning of a WFF is defined as follows:
+<ul>
+<li>p, q, r, s, and t are logical variables that may take on the value 0 (false) or 
+1 (true).
+<li>K, A, N, C, E mean <i>and, or, not, implies,</i> and <i>equals</i> as defined
+in the truth table below.
+</ul>
+<center>
+<table BORDER COLS=1 WIDTH="80%" BGCOLOR="#CCFFFF" >
+<tr>
+<td>
+<center><b><font color="#000099"><font size=+1>Definitions of K, A, N,
+C, and E</font></font></b></center>
+</td>
+</tr>
+</table>
+
+<table BORDER COLS=6 WIDTH="80%" BGCOLOR="#CCFFFF" >
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp; <b><font face="Courier New,Courier"><font size=+1><i>w</i>&nbsp;
+<i>x</i></font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; K<i>wx</wx></font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; A<i>wx</wx></font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp;&nbsp; N<i>w</i></font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; C<i>wx</wx></font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; E<i>wx</wx></font></font></b></td>
+</tr>
+
+<tr>
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 1&nbsp; 1</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 1</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 1</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp;&nbsp; 0</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 1</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 1</font></font></b></td>
+</tr>
+
+<tr>
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 1&nbsp; 0</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 0</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 1</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp;&nbsp; 0</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 0</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 0</font></font></b></td>
+</tr>
+
+<tr>
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 0&nbsp; 1</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 0</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 1</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp;&nbsp; 1</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 1</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 0</font></font></b></td>
+</tr>
+
+<tr>
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 0&nbsp; 0</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 0</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 0</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp;&nbsp; 1</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 1</font></font></b></td>
+
+<td><b><font face="Courier New,Courier"><font size=+1>&nbsp; 1</font></font></b></td>
+</tr>
+</table></center>
+<p>
+A <i>tautology</i> is a WFF that has value 1 (true) regardless of the values of
+its variables.  For example, <i>ApNp</i> is a tautology because it is true regardless
+of the value of <i>p</i>.  On the other hand, <i>ApNq</i> is not, because it has the value 0 for
+<i>p=0, q=1</i>.
+<p>
+You must determine whether or not a WFF is a tautology.
+<p>
+Input consists of several test cases.  Each test case is a single line containing a
+WFF with no more than 100 symbols.  A line containing 0 follows the
+last case.  For each test case, output a line containing
+<i>tautology</i> or <i>not</i> as appropriate.
+<h3>Sample Input</h3>
+<pre>
+ApNp
+ApNq
+0
+</pre>
+<h3>Possible Output for Sample Input</h3>
+<pre>
+tautology
+not
+</pre>
+<hr><i>Gordon V. Cormack</i>

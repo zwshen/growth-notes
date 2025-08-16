@@ -1,0 +1,192 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./p3_files/filelist.xml">
+<link rel=Edit-Time-Data href="./p3_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem F - Cricket Ranking</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Administrator</o:Author>
+  <o:LastAuthor>Administrator</o:LastAuthor>
+  <o:Revision>9</o:Revision>
+  <o:TotalTime>6</o:TotalTime>
+  <o:Created>2001-02-20T07:08:00Z</o:Created>
+  <o:LastSaved>2001-02-20T07:14:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>222</o:Words>
+  <o:Characters>1268</o:Characters>
+  <o:Company>BUET</o:Company>
+  <o:Lines>10</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1557</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in' bgcolor="#D0d0FF">
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=5>Problem F</font></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><font size=6>Cricket Ranking</font></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Input: </b><span style='mso-bidi-font-weight:bold'>standard input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Output: </b>standard output</p>
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Time Limit: </b>2 seconds</p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'> World Cup Cricket 2003 is now going on in South Africa. The final will be held
+on 23rd March in Johannesburg during the grand occasion in Beverly Hills, California. <p>
+<center>
+<img src="p10458.jpg"><p>
+Fig : New Wanderers Stadium, Johannesburg.
+</p>
+</center>
+</p>
+<p class=MsoNormal style='text-align:justify'>
+Many of you may
+not be interested in cricket, but its really a passion in Indian subcontinent. Ranking of cricketers is a common pheonomenon there.
+Cricketers are ranked by their performance in both form of cricket ( Test and Oneday). People really enjoy this ranking. They like to see their favourite players as
+top ranked. They will not be happy if they see Matthew Hayden as top ranked in stead of Sachin Tendulkar or Rahul Dravid.
+Currently many such rankings are available. And as you have probably guessed, each ranking makes a different player as top
+ranked. <p>
+<p class=MsoNormal style='text-align:justify'>
+World Cup committee has decided that they will make a new ranking on the performance of players in the world cup. They want
+the ranking to be acceptable to the public. The rules are as follows :
+<li> <p class=MsoNormal style='text-align:justify'>
+There are <b>K</b> different departments. Cricketers will be given points in each department depending on their performance.
+</li>
+<li> <p class=MsoNormal style='text-align:justify'>
+The maximum points for each department are not euqal. Such as Saeed Anwar can get maximum 25 points in batting but
+Jonty Rhodes can get maximum 10 points for his spectacular fielding.
+</li>
+<li> <p class=MsoNormal style='text-align:justify'>
+The sum of maximum points of all departments will be exactly <b>N</b> points. And the
+final ranking will depend on the total earned points out of N points.
+</p>
+<p>
+<p class=MsoNormal style='text-align:justify'>
+
+The ranking committee wants popular cricketers get top ranked. To do so they
+even allow maximum points for fielding more than that of batting. But that can
+bring lots of criticism. So they decide to fix a range of points for each
+department. Such as maximum points for batting will be atleast 10 and atmost
+15 or for fielding, it will be atleast 8 and atmost 12. But the total points will
+be 20. Then 3 ranking system is possible, such as :
+<center>
+	<p>
+	<table border="1">
+	<th> Batting <th> Fielding
+	<tr> <td>10</td> <td>10 </td> </tr>
+	<tr> <td>11</td> <td>9 </td> </tr>
+	<tr> <td>12</td> <td>8 </td> </tr>
+	</table>
+	</p>
+</center>
+<p class=MsoNormal style='text-align:justify'>
+In this problem, you have to find out the number of ranking systems possible
+for given number of departments, range of points for each department and 
+total points. 
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Input</font></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'> Each dataset starts with two
+positive integer <b>K(1<=K<=7)</b> and <b>N(1<=N<=2000000000)</b>. In next few lines there will be 2K positive
+integers which will successively denote the lower and upper limit of allowable
+maximum points for each department. Input is terminated by EOF. There may be as
+many as 500 datsets.
+ </p>
+
+
+<br>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Output</font></span></b></p>
+<p class=MsoNormal style='text-align:justify'> For each input print the total number
+of ranking systems possible maintaining the given constraints. The final answer
+can be as large as 60-digits.
+
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Input</font></span></b></p>
+<xmp>
+4 10
+1 1 2 2 3 3 4 4
+4 10
+1 1 2 2 3 3 3 3
+2 10
+1 10 1 10
+2 20
+10 15
+8 12
+</xmp>
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><font size=5>Sample Output</font></span></b></p>
+<font face="courier" size=3>
+<xmp>
+1
+0
+9
+3
+</xmp>
+</font>
+</div>
+<hr size=2 width="100%" align=center>
+<p class=MsoNormal><b><span style='color:windowtext'>Author : Md. Kamruzzaman</span></b></p>
+<i> 
+The Real Programmers' Contest-2

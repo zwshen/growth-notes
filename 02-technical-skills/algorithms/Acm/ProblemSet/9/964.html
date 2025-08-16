@@ -1,0 +1,265 @@
+<html>
+<head>
+<title>CustomLanguage</title>
+<meta NAME="description" CONTENT="CustomLanguage">
+<meta NAME="keywords" CONTENT="CustomLanguage">
+
+<meta NAME="resource-type" CONTENT="document">
+<meta NAME="distribution" CONTENT="global">
+
+<meta NAME="Generator" CONTENT="jLaTeX2HTML v2002-2-1 JA patch-2.0">
+<meta HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<link REL="STYLESHEET" HREF="CustomLanguage.css">
+
+</head>
+
+<body >
+
+<p>
+<div ALIGN="CENTER">
+<font SIZE="+2">C<small>USTOM </small>L<small>ANGUAGE</small></font></div>
+
+<p>
+
+<p><p>
+<br>
+
+<p>
+
+<h1><a NAME="SECTION00010000000000000000">
+Problem</a>
+</h1>
+We would like to use a custom language in the TIUP contest for
+writing our solutions, but we are not allowed to. However, as we like
+it so much, we want you to develop an interpreter for it! Our language
+is very simple, it works over a stack of integers and contains the
+following set of instructions:
+<dl>
+<dt></dt>
+<dd><code>PUSH v</code> : puts value <code>v</code> on the top of the stack;
+
+</dd>
+<dt></dt>
+<dd><code>POP x</code> : removes the value at the top of the stack and
+  puts it on variable <code>x</code>;
+</dd>
+<dt></dt>
+<dd><code>DUP</code> : duplicates the top of the stack, i.e, repeats the value at the top by pushing it again;
+</dd>
+<dt></dt>
+<dd><code>ADD</code> : adds the two values at the top of the stack;
+
+</dd>
+<dt></dt>
+<dd><code>SUB</code> : subtracts the two values at the top of the stack;
+</dd>
+<dt></dt>
+<dd><code>MUL</code> : multiplies the two values at the top of the stack;
+</dd>
+<dt></dt>
+<dd><code>DIV</code> : divides the two values at the top of the stack;
+</dd>
+<dt></dt>
+
+<dd><code>READ</code> : reads a value from input and puts it on the top of
+  the stack;
+</dd>
+<dt></dt>
+<dd><code>WRITE</code> : writes the value at the top of the stack on output followed by a <code>\n</code>;
+</dd>
+<dt></dt>
+<dd><code>JUMP v</code> : jumps to instruction <code>v</code>;
+
+</dd>
+<dt></dt>
+<dd><code>JUMPPOS v</code> : jumps to instruction <code>v</code>, if the top of the
+  stack is greater than 0;
+</dd>
+<dt></dt>
+<dd><code>JUMPZERO v</code> : jumps to instruction <code>v</code>, if the top of the
+  stack is 0;
+</dd>
+</dl>
+A program is a list of instructions, one per line. An instruction is identified by the line number
+
+<code>i</code>, where <!-- MATH
+ $1\leq\verb+i+\leq|L|$
+ -->
+<img
+ WIDTH="81" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="964img1.png"
+ ALT="$1\leq\verb+i+\leq\vert L\vert$">.
+Whenever we reach an instruction not defined, the program ends. For noncommutative
+operations, the top of the stack is the first argument. A variable
+<code>s</code> is a string in <!-- MATH
+ $\{\verb+a+,...,\verb+z+\}.\{1,...,9,\verb+a+,...,\verb+z+\}^*$
+ -->
+<img
+ WIDTH="185" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="964img2.png"
+ ALT="$\{\verb+a+,...,\verb+z+\}.\{1,...,9,\verb+a+,...,\verb+z+\}^*$"> such
+that <!-- MATH
+ $|\verb+s+|\leq100$
+ -->
+<img
+ WIDTH="65" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="964img3.png"
+ ALT="$\vert\verb+s+\vert\leq100$">. In the above, <img
+ WIDTH="11" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="964img4.png"
+ ALT="$v$"> can be a constant or a variable. All arithmetic operations remove their
+arguments from the top of the stack and put their output
+on the top of the stack. Finally, when any instruction reads the top
+of the stack it removes it.
+
+<p>
+
+<h1><a NAME="SECTION00020000000000000000">
+
+Input</a>
+</h1>
+Several programs, each consisting of a code section and a data section.<br>
+A code section consists of a list of instructions, one per line, and is terminated by a line with the symbol
+<code>#</code>. This is followed by the a data section consisting of a set of integers, one per line, which are the
+inputs for the program. A data section is also terminated by a line with the symbol <code>#</code>.<br>
+Each program has one code section and one data section; a data section can be empty.
+
+
+<p>
+
+<h1><a NAME="SECTION00030000000000000000">
+Output</a>
+</h1>
+For each program the output obtained by the program for the given input (if any) or
+<code>ABORTED</code> if something wrong happens. The output of each program should be terminiated by a line with the symbol
+<code>#</code>.
+
+
+<p>
+
+<h1><a NAME="SECTION00040000000000000000">
+Sample Input</a>
+</h1>
+
+<p>
+<pre>
+READ
+POP num
+PUSH 2
+POP x
+PUSH num
+PUSH 2
+SUB
+JUMPPOS 31
+PUSH num
+PUSH x
+SUB
+DUP
+JUMPZERO 28
+JUMPPOS 28
+PUSH x
+PUSH num
+DIV
+PUSH x
+MUL
+PUSH num
+SUB
+JUMPZERO 31
+PUSH x
+PUSH 1
+ADD
+POP x
+JUMP 9
+PUSH 1
+WRITE
+JUMP 33
+PUSH 0
+WRITE
+#
+7 
+#
+READ
+READ
+DIV
+WRITE
+JUMP 1
+#
+5
+25
+25
+5
+0
+1
+7
+8
+#
+PUSH 0
+POP m
+PUSH 10
+DUP
+PUSH m
+ADD
+DUP
+POP m
+WRITE
+POP temp
+PUSH 1
+PUSH temp
+SUB
+DUP
+JUMPPOS 4
+#
+#
+PUSH undefined
+WRITE
+#
+#
+READ
+POP defined
+PUSH defined
+WRITE
+#
+-14
+#
+</pre>
+
+<p>
+
+<h1><a NAME="SECTION00050000000000000000">
+Sample Output</a>
+
+</h1>
+
+<p>
+<pre>
+1
+#
+ABORTED
+#
+10
+19
+27
+34
+40
+45
+49
+52
+54
+55
+#
+ABORTED
+#
+-14
+#
+</pre>
+
+<p>
+</body>
+</html>
+</td>
+</tr>
+</table>
+</center>
+</body>
+</html>

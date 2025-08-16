@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Intersecting Circles</TITLE>
+<META NAME="description" CONTENT="Intersecting Circles">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Intersecting Circles</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The equation of a circle with radius <I>r</I> and center  <IMG WIDTH=49 HEIGHT=27 ALIGN=MIDDLE ALT="tex2html_wrap_inline29" SRC="453img1.gif"  >  is
+<P> <IMG WIDTH=345 HEIGHT=20 ALIGN=BOTTOM ALT="displaymath31" SRC="453img2.gif"  > <P>
+<P>
+Write a program that compares two circles to see if they intersect and,
+if they do, computes the points of intersection. (There can be 1, 2,
+or and infinite number of such points).
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input to this program will consist of a pair number of lines. Each two lines represent a intersection problem. Each line will
+     contain 3 real numbers constituting the  <IMG WIDTH=15 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline33" SRC="453img3.gif"  > ,  <IMG WIDTH=14 HEIGHT=17 ALIGN=MIDDLE ALT="tex2html_wrap_inline35" SRC="453img4.gif"  >  and <I>r</I> parameters for one circle.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each problem, the output should be the words &quot;<TT>NO INTERSECTION</TT>&quot; if the circles do not intersect.
+<P>
+When they have an infinite number of intersection points, the output should be the words &quot;<TT>THE CIRCLES ARE THE SAME</TT>&quot;
+<P>
+If they do intersect at 1 or 2 points, the output should be a line with one or two pairs, respectively, of real numbers giving the <I>x</I> and <I>y</I> coordinates of any point of intersection. Pairs must be sorted first by their <I>x</I> coordinate and when these are equal by the <I>y</I> coordinate.
+<P>
+Each pair is to be printed in parenthesis with numbers accurately rounded to
+three digits to the right of the decimal point, as the sample below.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>0.0 0.0 1.0
+3.0 0.0 1.0
+0.0 0.0 1.0
+0.0 0.0 1.0
+0.0 0.0 1.0
+1.0 0.0 1.0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>NO INTERSECTION
+THE CIRCLES ARE THE SAME
+(0.500,-0.866)(0.500,0.866)
+</PRE>
+<P>
+</BODY>
+</HTML>

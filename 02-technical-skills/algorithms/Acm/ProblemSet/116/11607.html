@@ -1,0 +1,920 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="p2_files/filelist.xml">
+<link rel=Edit-Time-Data href="p2_files/editdata.mso">
+<link rel=OLE-Object-Data href="p2_files/oledata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem C</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>CSE,SUST</o:Author>
+  <o:LastAuthor>Raiyan Kamal</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2009-05-05T19:14:00Z</o:Created>
+  <o:LastSaved>2009-05-05T19:14:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>400</o:Words>
+  <o:Characters>2285</o:Characters>
+  <o:Company>Hard Code Labs</o:Company>
+  <o:Lines>19</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2680</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DrawingGridHorizontalSpacing>0 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>0 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DrawingGridHorizontalOrigin>0 pt</w:DrawingGridHorizontalOrigin>
+  <w:DrawingGridVerticalOrigin>0 pt</w:DrawingGridVerticalOrigin>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Liberation Sans";
+	mso-font-alt:Arial;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"DejaVu LGC Sans";
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:StarSymbol;
+	mso-font-alt:"Arial Unicode MS";
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:auto;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Liberation Sans";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:AR-SA;
+	mso-bidi-language:AR-SA;}
+h2
+	{mso-style-parent:Heading;
+	mso-style-next:"Body Text";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	text-indent:0in;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	mso-list:l0 level2 lfo1;
+	mso-hyphenate:none;
+	tab-stops:list 0in;
+	font-size:14.0pt;
+	font-family:"Liberation Sans";
+	mso-fareast-font-family:"DejaVu LGC Sans";
+	mso-hansi-font-family:"Liberation Sans";
+	mso-bidi-font-family:"DejaVu LGC Sans";
+	mso-fareast-language:AR-SA;
+	mso-bidi-language:AR-SA;
+	font-style:italic;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-hyphenate:none;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:AR-SA;
+	mso-bidi-language:AR-SA;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-hyphenate:none;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:AR-SA;
+	mso-bidi-language:AR-SA;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{margin-top:6.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan no-line-numbers;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:AR-SA;
+	mso-bidi-language:AR-SA;
+	font-style:italic;}
+p.MsoList, li.MsoList, div.MsoList
+	{mso-style-parent:"Body Text";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:AR-SA;
+	mso-bidi-language:AR-SA;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:AR-SA;
+	mso-bidi-language:AR-SA;}
+span.WW8Num1z0
+	{mso-style-name:WW8Num1z0;
+	mso-style-parent:"";
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:Wingdings;
+	mso-ascii-font-family:Wingdings;
+	mso-hansi-font-family:Wingdings;
+	mso-bidi-font-family:StarSymbol;}
+span.Absatz-Standardschriftart
+	{mso-style-name:Absatz-Standardschriftart;
+	mso-style-parent:"";}
+span.WW-Absatz-Standardschriftart
+	{mso-style-name:WW-Absatz-Standardschriftart;
+	mso-style-parent:"";}
+span.WW-Absatz-Standardschriftart1
+	{mso-style-name:WW-Absatz-Standardschriftart1;
+	mso-style-parent:"";}
+span.WW-Absatz-Standardschriftart11
+	{mso-style-name:WW-Absatz-Standardschriftart11;
+	mso-style-parent:"";}
+span.WW8Num2z0
+	{mso-style-name:WW8Num2z0;
+	mso-style-parent:"";
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:Wingdings;
+	mso-ascii-font-family:Wingdings;
+	mso-hansi-font-family:Wingdings;
+	mso-bidi-font-family:StarSymbol;}
+p.Heading, li.Heading, div.Heading
+	{mso-style-name:Heading;
+	mso-style-next:"Body Text";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-hyphenate:none;
+	font-size:14.0pt;
+	font-family:"Liberation Sans";
+	mso-fareast-font-family:"DejaVu LGC Sans";
+	mso-hansi-font-family:"Liberation Sans";
+	mso-bidi-font-family:"DejaVu LGC Sans";
+	mso-fareast-language:AR-SA;
+	mso-bidi-language:AR-SA;}
+p.Index, li.Index, div.Index
+	{mso-style-name:Index;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan no-line-numbers;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:AR-SA;
+	mso-bidi-language:AR-SA;}
+p.TableContents, li.TableContents, div.TableContents
+	{mso-style-name:"Table Contents";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan no-line-numbers;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:AR-SA;
+	mso-bidi-language:AR-SA;}
+p.TableHeading, li.TableHeading, div.TableHeading
+	{mso-style-name:"Table Heading";
+	mso-style-parent:"Table Contents";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan no-line-numbers;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:AR-SA;
+	mso-bidi-language:AR-SA;
+	font-weight:bold;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-position:beneath-text;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:.3in 1.0in .3in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;
+	mso-footnote-position:beneath-text;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1;
+	mso-list-template-ids:1;}
+@list l0:level1
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0in;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level2
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0in;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level3
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0in;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level4
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0in;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level5
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0in;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level6
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0in;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level7
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0in;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level8
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0in;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l0:level9
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0in;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:0in;}
+@list l1
+	{mso-list-id:2;
+	mso-list-template-ids:2;
+	mso-list-name:WW8Num1;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	mso-ascii-font-family:Wingdings;
+	mso-hansi-font-family:Wingdings;
+	mso-bidi-font-family:StarSymbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	mso-ascii-font-family:Wingdings;
+	mso-hansi-font-family:Wingdings;
+	mso-bidi-font-family:StarSymbol;}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-.25in;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	mso-ascii-font-family:Wingdings;
+	mso-hansi-font-family:Wingdings;
+	mso-bidi-font-family:StarSymbol;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	mso-ascii-font-family:Wingdings;
+	mso-hansi-font-family:Wingdings;
+	mso-bidi-font-family:StarSymbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	margin-left:1.5in;
+	text-indent:-.25in;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	mso-ascii-font-family:Wingdings;
+	mso-hansi-font-family:Wingdings;
+	mso-bidi-font-family:StarSymbol;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	mso-ascii-font-family:Wingdings;
+	mso-hansi-font-family:Wingdings;
+	mso-bidi-font-family:StarSymbol;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	margin-left:2.0in;
+	text-indent:-.25in;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	mso-ascii-font-family:Wingdings;
+	mso-hansi-font-family:Wingdings;
+	mso-bidi-font-family:StarSymbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:2.25in;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	mso-ascii-font-family:Wingdings;
+	mso-hansi-font-family:Wingdings;
+	mso-bidi-font-family:StarSymbol;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	margin-left:2.5in;
+	text-indent:-.25in;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	mso-ascii-font-family:Wingdings;
+	mso-hansi-font-family:Wingdings;
+	mso-bidi-font-family:StarSymbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050">
+  <o:colormenu v:ext="edit" fillcolor="none [4]" strokecolor="none [1]"
+   shadowcolor="none [2]"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:20.0pt;font-family:Arial;mso-bidi-font-family:
+Arial'>Problem C</span></b><span style='font-size:20.0pt;font-family:Arial;
+mso-bidi-font-family:Arial'><br>
+<b>Cutting Cakes<o:p></o:p></b></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:11.0pt;font-family:Arial;mso-bidi-font-family:
+Arial'>Input: </span></b><span style='font-size:11.0pt;font-family:Arial;
+mso-bidi-font-family:Arial;mso-bidi-font-weight:bold'>Standard Input<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:11.0pt;font-family:Arial;mso-bidi-font-family:
+Arial'>Output: </span></b><span style='font-size:11.0pt;font-family:Arial;
+mso-bidi-font-family:Arial;mso-bidi-font-weight:bold'>Standard Output <o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'>Alice and Bob are
+twins. In their birthday, they have a really large cake of dimensions <b>10<sup>4</sup>x10<sup>4</sup></b>.
+The cake has a number of flowers on it. As usual, Alice and Bob starts playing
+with it. First, Alice cuts the cake in two pieces, and then Bob takes the part
+with the maximum flowers on it. Since, Alice likes the flowers too, she will
+try to get maximum number of flowers. The flowers, which are incident by the
+cut are ruined, and thus non of them get those. The badness of a cut is the
+difference of the number of flowers between the two sets.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans";mso-bidi-font-family:
+Arial;mso-bidi-font-weight:bold'>The task presented to you is not to maximize
+the number of flowers, Alice gets. Instead, you are given the co-ordinates of
+the flowers, and a cut, made by Alice. You need to find out the number of
+flowers, that are partitioned into two parts, and the number of flowers, being
+ruined by the cut. Alice always cuts in a straight line.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><b><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><b><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'>Input<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'>First line contains <b><i>T</i></b>,
+the number of test cases. Each test case starts with an integer <b><i>N</i></b>,
+the number of flowers. Following <b><i>N</i></b> lines each contains two
+integers, <b><i>x<sub>i</sub></i></b> and <b><i>y<sub>i</sub></i></b>, the
+co-ordinate of the <i>i</i>-th flower. <b>No three flowers will be collinear.</b>
+After that, a line with values, <b><i>M</i></b>, <b><i>X<sub>1</sub>,</i></b> <b><i>Y<sub>1</sub></i></b>,
+<b><i>X<sub>2</sub>, Y<sub>2</sub>, dX<sub>1</sub></i></b>, <b><i>dY<sub>1</sub></i></b>,
+<b><i>dX<sub>2</sub>, dY<sub>2</sub></i></b> follows. Here, <b>M </b>is the
+number of queries. Each of these queries will be a line between two given
+points. The end points are generated by the function given below. Each call to
+the function generate will produce the end points of the query line. <b><i>X<sub>1</sub>,
+Y<sub>1</sub>, X<sub>2</sub>, Y<sub>2</sub>, dX<sub>1</sub>, dY<sub>1</sub>, dX<sub>2</sub>,
+dY<sub>2</sub></i></b><sub> </sub>are used to generate the lines. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'>X1, Y1, X2, Y2, dX1,
+dY1, dX2, dY2<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'>function generate<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><span
+style='mso-tab-count:1'>            </span>X<sub>1</sub> = (X<sub>1</sub> +
+dX1) mod 10<sup>4<o:p></o:p></sup></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><span
+style='mso-tab-count:1'>            </span>Y<sub>1</sub> = (Y<sub>1</sub> +
+dY1) mod 10<sup>4<o:p></o:p></sup></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><span
+style='mso-tab-count:1'>            </span>X<sub>2</sub> = (X<sub>2</sub> +
+dX2) mod 10<sup>4<o:p></o:p></sup></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><span
+style='mso-tab-count:1'>            </span>Y<sub>2</sub> = (Y<sub>2</sub> +
+dY2) mod 10<sup>4<o:p></o:p></sup></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><span
+style='mso-tab-count:1'>            </span>if X<sub>1</sub> == X<sub>2</sub>
+and Y<sub>1</sub> == Y<sub>2</sub> then<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><span
+style='mso-tab-count:2'>                        </span>Y<sub>2</sub> = (Y<sub>1</sub>
++ 1) mod 10<sup>4<o:p></o:p></sup></span></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><span
+style='mso-tab-count:1'>            </span><o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'>P.S.: It is highly
+unlikely that, an O(NM) solution would pass the time limits. You have to think
+of some more clever solution<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><b><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><b><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><b><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><b><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><b><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><b><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'>Output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><b><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'>Each case starts
+with the line “Case #n:” where <b><i>n</i></b> is the number of the test case.
+For each line, output three integers, <b><i>p</i></b>, <b><i>q</i></b> and <b><i>r</i></b>;
+where <b><i>r</i></b> is the number of flowers on the line and <b><i>p</i></b>
+and <b><i>q</i></b> are the number of flowers on the sides of the line.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt;
+tab-stops:0in'><b><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt;
+tab-stops:0in'><b><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'>Constraints<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt;
+tab-stops:0in'><b><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo2;
+tab-stops:list .5in left 1.0in'><![if !supportLists]><span style='font-size:
+9.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><sub><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+ filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:31.5pt;
+ height:13.5pt' o:ole="" filled="t">
+ <v:fill color2="black"/>
+ <v:imagedata src="p2_files/image001.emz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=42 height=18
+src="11607a.gif" v:shapes="_x0000_i1025"><![endif]></sub><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1025"
+  DrawAspect="Content" ObjectID="_1303077650">
+ </o:OLEObject>
+</xml><![endif]--></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo2;
+tab-stops:list .5in left 1.0in'><![if !supportLists]><span style='font-size:
+9.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><sub><!--[if gte vml 1]><v:shape id="_x0000_i1026"
+ type="#_x0000_t75" style='width:51.75pt;height:13.5pt' o:ole="" filled="t">
+ <v:fill color2="black"/>
+ <v:imagedata src="p2_files/image003.emz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=69 height=18
+src="11607b.gif" v:shapes="_x0000_i1026"><![endif]></sub><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1026"
+  DrawAspect="Content" ObjectID="_1303077651">
+ </o:OLEObject>
+</xml><![endif]--></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo2;
+tab-stops:list .5in left 1.0in'><![if !supportLists]><span style='font-size:
+9.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><sub><!--[if gte vml 1]><v:shape id="_x0000_i1027"
+ type="#_x0000_t75" style='width:66pt;height:13.5pt' o:ole="" filled="t">
+ <v:fill color2="black"/>
+ <v:imagedata src="p2_files/image005.emz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=88 height=18
+src="11607c.gif" v:shapes="_x0000_i1027"><![endif]></sub><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1027"
+  DrawAspect="Content" ObjectID="_1303077652">
+ </o:OLEObject>
+</xml><![endif]--><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo2;
+tab-stops:list .5in left 1.0in'><![if !supportLists]><span style='font-size:
+9.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-family:"Liberation Sans";
+mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:"Liberation Sans"'>For
+all location of flower (x<sub>i</sub>,y<sub>i</sub>), </span><sub><!--[if gte vml 1]><v:shape
+ id="_x0000_i1028" type="#_x0000_t75" style='width:86.25pt;height:15.75pt'
+ o:ole="" filled="t">
+ <v:fill color2="black"/>
+ <v:imagedata src="p2_files/image007.emz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=115 height=21
+src="11607d.gif" v:shapes="_x0000_i1028"><![endif]></sub><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1028"
+  DrawAspect="Content" ObjectID="_1303077653">
+ </o:OLEObject>
+</xml><![endif]--><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'>. No three points
+will be collinear.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo2;
+tab-stops:list .5in left 1.0in'><![if !supportLists]><span style='font-size:
+9.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
+Wingdings'><span style='mso-list:Ignore'>l<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><sub><!--[if gte vml 1]><v:shape id="_x0000_i1029"
+ type="#_x0000_t75" style='width:31.5pt;height:13.5pt' o:ole="" filled="t">
+ <v:fill color2="black"/>
+ <v:imagedata src="p2_files/image009.emz" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=42 height=18
+src="11607e.gif" v:shapes="_x0000_i1029"><![endif]></sub><!--[if gte mso 9]><xml>
+ <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1029"
+  DrawAspect="Content" ObjectID="_1303077654">
+ </o:OLEObject>
+</xml><![endif]--><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-line-height-alt:11.0pt;mso-list:l1 level1 lfo2;tab-stops:list .5in left 1.0in'><![if !supportLists]><span
+style='font-size:9.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
+mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>l<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-family:"Liberation Sans";
+mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:"Liberation Sans"'>All
+input values will fit into a 32bit signed integer<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><b><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><b><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'>Sample Input<span style='mso-tab-count:
+5'>                                                                               </span>Output
+for Sample Input<o:p></o:p></span></b></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='margin-left:-2.0pt;border-collapse:collapse;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-lastrow:yes;height:21.0pt'>
+  <td width=294 valign=top style='width:220.5pt;border:solid black 1.0pt;
+  border-right:none;mso-border-top-alt:solid black .5pt;mso-border-left-alt:
+  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:21.0pt'>
+  <p class=TableContents style='layout-grid-mode:char'><span style='font-family:
+  "Liberation Sans";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
+  "Liberation Sans"'>1<o:p></o:p></span></p>
+  <p class=TableContents style='layout-grid-mode:char'><span style='font-family:
+  "Liberation Sans";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
+  "Liberation Sans"'>4<o:p></o:p></span></p>
+  <p class=TableContents style='layout-grid-mode:char'><span style='font-family:
+  "Liberation Sans";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
+  "Liberation Sans"'>5 5<o:p></o:p></span></p>
+  <p class=TableContents style='layout-grid-mode:char'><span style='font-family:
+  "Liberation Sans";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
+  "Liberation Sans"'>5 10<o:p></o:p></span></p>
+  <p class=TableContents style='layout-grid-mode:char'><span style='font-family:
+  "Liberation Sans";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
+  "Liberation Sans"'>10 5<o:p></o:p></span></p>
+  <p class=TableContents style='layout-grid-mode:char'><span style='font-family:
+  "Liberation Sans";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
+  "Liberation Sans"'>10 10<o:p></o:p></span></p>
+  <p class=TableContents style='text-align:justify;mso-line-height-alt:11.0pt;
+  layout-grid-mode:char'><a name="DDE_LINK3"><span style='font-family:"Liberation Sans";
+  mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:"Liberation Sans"'>2
+  -7 -7 7 7 1 1 1 1</span></a><span style='font-family:"Liberation Sans";
+  mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><o:p></o:p></span></p>
+  </td>
+  <td width=290 valign=top style='width:217.15pt;border:solid black 1.0pt;
+  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:21.0pt'>
+  <p class=TableContents style='layout-grid-mode:char'><span style='font-family:
+  "Liberation Sans";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
+  "Liberation Sans"'>Case #1:<o:p></o:p></span></p>
+  <p class=TableContents style='layout-grid-mode:char'><span style='font-family:
+  "Liberation Sans";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
+  "Liberation Sans"'>1 1 2<o:p></o:p></span></p>
+  <p class=TableContents style='layout-grid-mode:char'><span style='font-family:
+  "Liberation Sans";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
+  "Liberation Sans"'>1 1 2<o:p></o:p></span></p>
+  <p class=TableContents style='text-align:justify;mso-line-height-alt:11.0pt;
+  layout-grid-mode:char'><span style='font-family:"Liberation Sans";mso-fareast-font-family:
+  "Times New Roman";mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td style='height:21.0pt;border:none' width=0 height=28></td>
+  <![endif]>
+ </tr>
+</table>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><!--[if mso & !supportInlineShapes & supportFields]><span
+style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>SHAPE <span style='mso-element:field-separator'></span><![endif]--><!--[if gte vml 1]><v:rect
+ id="_x0000_s1026" style='width:415.25pt;height:1.5pt;
+ mso-position-horizontal-relative:char;mso-position-vertical-relative:line;
+ v-text-anchor:middle' fillcolor="#aca899" stroked="f">
+ <v:fill color2="#535766"/>
+ <v:stroke joinstyle="round"/>
+ <w:wrap type="none"/>
+ <w:anchorlock/>
+</v:rect><![endif]--><![if !vml]><img width=554 height=2
+src="raya.gif" v:shapes="_x0000_s1026"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
+ id="_x0000_i1030" type="#_x0000_t75" style='width:415.25pt;height:1.5pt'/><span
+style='mso-element:field-end'></span><![endif]--><span style='font-family:"Liberation Sans";
+mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:"Liberation Sans"'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Liberation Sans";
+mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:"Liberation Sans"'>Problem
+Setter: Manzurur Rahman Khan<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Liberation Sans";
+mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:"Liberation Sans"'>Special
+Thanks: Sohel Hafiz<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-line-height-alt:11.0pt'><b><span
+style='font-family:"Liberation Sans";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Liberation Sans";mso-ansi-language:#0400'><o:p>&nbsp;</o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>

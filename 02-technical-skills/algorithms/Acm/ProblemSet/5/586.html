@@ -1,0 +1,157 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Instant Complexity</TITLE>
+<META NAME="description" CONTENT="Instant Complexity">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Instant Complexity</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Analyzing the run-time complexity of algorithms is an important tool for designing efficient programs that solve a problem. An algorithm that runs in linear time is usually much faster than an
+algorithm that takes quadratic time for the same task, and thus should be preferred.
+
+<P>
+
+<P>
+<BR>
+Generally, one determines the run-time of an algorithm in relation to the `size' <I>n</I> of the input,
+which could be the number of objects to be sorted, the number of points in a given polygon, and so
+on. Since determining a formula dependent on <I>n</I> for the run-time of an algorithm is no easy task, it
+would be great if this could be automated. Unfortunately, this is not possible in general, but in this
+problem we will consider programs of a very simple nature, for which it is possible. Our programs
+are built according to the following rules (given in BNF), where 
+<!-- MATH: $< number >$ -->
+&lt; <I>number</I> &gt; can be any non-negative integer:
+
+<P>
+<UL>
+<LI>
+<!-- MATH: $< Program >$ -->
+&lt; <I>Program</I> &gt; ::= "<TT>BEGIN</TT>" 
+<!-- MATH: $< Statementlist >$ -->
+&lt; <I>Statementlist</I> &gt; "<TT>END</TT>"
+<LI>
+<!-- MATH: $< Statementlist >$ -->
+&lt; <I>Statementlist</I> &gt; ::= 
+<!-- MATH: $< Statement > | < Statement >$ -->
+&lt; <I>Statement</I> &gt; | &lt; <I>Statement</I> &gt; 
+<!-- MATH: $< Statementlist >$ -->
+&lt; <I>Statementlist</I> &gt;
+<LI>
+<!-- MATH: $< Statement >$ -->
+&lt; <I>Statement</I> &gt; ::= 
+<!-- MATH: $< LOOP-Statement > | < OP-Statement >$ -->
+&lt; <I>LOOP</I>-<I>Statement</I> &gt; | &lt; <I>OP</I>-<I>Statement</I> &gt;
+<LI>
+<!-- MATH: $< LOOP-Statement >$ -->
+&lt; <I>LOOP</I>-<I>Statement</I> &gt; ::= 
+<!-- MATH: $< LOOP-Header > < Statementlist >$ -->
+&lt; <I>LOOP</I>-<I>Header</I> &gt; &lt; <I>Statementlist</I> &gt; "<TT>END</TT>"
+<LI>
+<!-- MATH: $< LOOP-Header >$ -->
+&lt; <I>LOOP</I>-<I>Header</I> &gt; ::= "<TT>LOOP</TT>" 
+<!-- MATH: $< number > |$ -->
+&lt; <I>number</I> &gt; | "<TT>LOOP n</TT>"
+<LI>
+<!-- MATH: $< OP-Statement >$ -->
+&lt; <I>OP</I>-<I>Statement</I> &gt; ::= "<TT>OP</TT>" 
+<!-- MATH: $< number >$ -->
+&lt; <I>number</I> &gt;</UL>
+
+<P>
+The run-time of such a program can be computed as follows: the execution of an OP-statement
+costs as many time-units as its parameter specifies. The statement list enclosed by a LOOP-statement
+is executed as many times as the parameter of the statement indicates, i.e., the given constant number
+of times, if a number is given, and <I>n</I> times, if <TT>n</TT> is given. The run-time of a statement list is the sum of
+the times of its constituent parts. The total run-time therefore generally depends on <I>n</I>.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file starts with a line containing the number <I>k</I> of programs in the input. Following this are
+<I>k</I> programs which are constructed according to the grammar given above. Whitespace and newlines
+can appear anywhere in a program, but not within the keywords <TT>BEGIN</TT>, <TT>END</TT>, <TT>LOOP</TT> and <TT>OP</TT> or in an
+integer value. The nesting depth of the LOOP-operators will be at most 10.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each program in the input, first output the number of the program, as shown in the sample
+output. Then output the run-time of the program in terms of <I>n</I>; this will be a polynomial of degree Ÿ<IMG
+ WIDTH="40" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="586img2.gif"
+ ALT="$\le 10$">.
+Print the polynomial in the usual way, i.e., collect all terms, and print it in the form
+``<code>Runtime = </code><I>a</I><code>*n^10+</code><I>b</I><code>*n^9+ . . . +</code><I>i</I><code>*n^2+</code> <I>j</I><code>*n+k</code>'', where terms with zero coefficients are left
+out, and factors of 1 are not written. If the runtime is zero, just print ``<TT>Runtime = 0</TT>''.
+
+<P>
+Output a blank line after each test case.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2
+BEGIN
+LOOP n
+OP 4
+LOOP 3
+LOOP n
+OP 1
+END
+OP 2
+END
+OP 1
+END
+OP 17
+END
+BEGIN
+OP 1997 LOOP n LOOP n OP 1 END END
+END
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Program #1
+Runtime = 3*n^2+11*n+17
+
+Program #2
+Runtime = n^2+1997
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>1998-03-10</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

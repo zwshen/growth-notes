@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Theseus and the Minotaur</TITLE>
+<META NAME="description" CONTENT="Theseus and the Minotaur">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Theseus and the Minotaur</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Those of you with a classical education may remember the legend of
+Theseus and the Minotaur. This is an unlikely tale involving a bull
+headed monster, an underground maze full of twisty little passages all
+alike, love-lorn damsels and balls of silk. In line with the
+educational nature of this contest, we will now reveal the true story.
+<P>
+<P>
+The maze was actually a series of caverns connected by reasonably
+straight passages, some of which could only be traversed in one
+direction. In order to trap the Minotaur, Theseus smuggled a large
+supply of candles into the Labyrinth, as he had discovered that the
+Minotaur was afraid of light. Theseus wandered around somewhat
+aimlessly until he heard the Minotaur approaching along a tunnel. At
+this point he lit a candle and set off in pursuit. The Minotaur
+retreated into the cavern it had just left and fled by another
+passage. Theseus followed, slowly gaining, until he reached the <I>k</I>'th
+cavern since lighting the candle. Here he had enough time to place the
+lighted candle in the middle of the cavern, light another one from it,
+and continue the chase. As the chase progressed, a candle was left in
+each <I>k</I>'th cavern passed through, thereby limiting the movement of the
+Minotaur. Whenever the Minotaur entered a cavern, it would check the
+exits in a particular order, fleeing down the first that did not lead
+directly to a lit cavern. (Remember that as Theseus was carrying a lit
+candle, the Minotaur never exited a cavern by the tunnel used to enter
+it.) Eventually the Minotaur became trapped, enabling Theseus to
+defeat it.
+<P>
+<P>
+Consider the following Labyrinth as an example, where in this case the
+Minotaur checks the exits from a cavern in alphabetical order:
+<P>
+<P> <IMG WIDTH=411 HEIGHT=131 ALIGN=BOTTOM ALT="picture23" SRC="168img1.gif"  > <P>
+<P>
+Assume that Theseus is in cavern C when he hears the Minotaur
+approaching from A, and that for this scenario, the value of <I>k</I> is 3.
+He lights a candle and gives chase, pursuing it through A, B, D
+(leaves a candle), G, E, F (another candle), H, E, G (another), H, E
+(trapped).
+<P>
+<P>
+Write a program that will simulate Theseus's pursuit of the Minotaur.
+The description of a labyrinth will identify each cavern by an upper
+case character and will list the caverns reachable from that cavern in
+the order that the Minotaur will attempt them, followed by the
+identifiers for the caverns which the Minotaur and Theseus were in
+when contact was first made, followed by the value of <I>k</I>. If a
+cavern has no exit it may or may not be in the input.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Input will consist of a series of lines. Each line will describe a
+scenario in the format shown below (which describes the above
+example). No line will contain more than 255 characters. The file will
+be terminated by a line consisting of a single <TT>#</TT>.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+Output will consist of one line for each Labyrinth. Each line will
+identify the lit caverns, in the order in which the candles were left,
+and the cavern in which the Minotaur was trapped, following the format
+shown in the example below.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>A:BCD;B:AD;D:BG;F:H;G:DEH;E:FGH;H:EG;C:AD. A C 3
+#</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>D F G /E</PRE>
+<P>
+</BODY>
+</HTML>

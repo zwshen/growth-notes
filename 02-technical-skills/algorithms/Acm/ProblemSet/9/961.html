@@ -1,0 +1,375 @@
+
+<!--Converted with LaTeX2HTML 2002-2-1 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Ambiguous or Incomplete Inductive Definitions</TITLE>
+<META NAME="description" CONTENT="Ambiguous or Incomplete Inductive Definitions">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2002-2-1">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Ambiguous or Incomplete Inductive Definitions</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+An important notion in Computer Science is the syntactical concept
+of terms. Examples of terms can be:
+
+<P>
+
+<UL>
+<LI><TT>a</TT>
+</LI>
+<LI><TT>b</TT>
+</LI>
+<LI><TT>f(a,b)</TT>
+</LI>
+<LI><TT>s(a)</TT>
+</LI>
+<LI><TT>g(f(a,b),b,s(a))</TT>
+</LI>
+</UL>
+
+<P>
+Sets of terms are usually defined by <SPAN  CLASS="textit">induction</SPAN>. In such a 
+schema, a
+set of terms is seen in a constructive way: each element of an
+inductively defined set is either <SPAN  CLASS="textit">constructed from</SPAN> simpler
+elements of the set or a <SPAN  CLASS="textit">basic</SPAN> element. For instance,
+<TT>a</TT> is a basic element, <TT>g(f(a,b),b,s(a))</TT> is
+constructed from <TT>f(a,b)</TT>, <TT>b</TT> and from <TT>s(a)</TT>
+using the constructor <TT>g</TT>. In the same vein, <TT>f(a,b)</TT>
+is constructed from <TT>a</TT> and from <TT>b</TT> using the
+constructor <TT>f</TT>.
+
+<P>
+More formally,  an inductive definition of a set <SPAN CLASS="MATH"><I>T</I></SPAN> of terms is
+composed by a non-empty set <SPAN CLASS="MATH"><I>B</I></SPAN> of basic elements and a set <SPAN CLASS="MATH"><I>K</I></SPAN> of
+constructors. Then, we say that <SPAN CLASS="MATH"><I>T</I></SPAN> is the smallest set <SPAN CLASS="MATH"><I>X</I></SPAN>
+containing <SPAN CLASS="MATH"><I>B</I></SPAN> (i.e. <!-- MATH
+ $B\subseteq X$
+ -->
+<SPAN CLASS="MATH"><I>B</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="961img1.png"
+ ALT="$ \subseteq$"> <I>X</I></SPAN>) and the elements that respect
+the following rule:
+
+<P>
+<DIV ALIGN="CENTER">
+let be <SPAN CLASS="MATH"><I>f</I> <IMG
+ WIDTH="16" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="961img2.png"
+ ALT="$ \in$"> <I>K</I></SPAN> with an arity of <SPAN CLASS="MATH"><I>n</I></SPAN>, and let be <SPAN CLASS="MATH"><I>n</I></SPAN> elements of <SPAN CLASS="MATH"><I>X</I></SPAN>
+  (say, <!-- MATH
+ $a_1\ldots a_n$
+ -->
+<SPAN CLASS="MATH"><I>a</I><SUB>1</SUB>...<I>a</I><SUB>n</SUB></SPAN>) then 
+<BR><!-- MATH
+ $f(a_1,\ldots, a_n)$
+ -->
+<SPAN CLASS="MATH"><I>f</I> (<I>a</I><SUB>1</SUB>,..., <I>a</I><SUB>n</SUB>)</SPAN> must be in <SPAN CLASS="MATH"><I>X</I></SPAN>
+</DIV>
+
+<P>
+Let <!-- MATH
+ $h_B : B \rightarrow N$
+ -->
+<SPAN CLASS="MATH"><I>h</I><SUB>B</SUB> : <I>B</I> <IMG
+ WIDTH="22" HEIGHT="17" ALIGN="BOTTOM" BORDER="0"
+ SRC="961img3.png"
+ ALT="$ \rightarrow$"> <I>N</I></SPAN> be a total function that maps every symbol of
+<SPAN CLASS="MATH"><I>B</I></SPAN> to a positive integer, and <SPAN CLASS="MATH"><I>h</I><SUB>K</SUB></SPAN> be  a total function over <SPAN CLASS="MATH"><I>K</I></SPAN> that
+maps every <SPAN CLASS="MATH"><I>n</I> -</SPAN>ary constructor to an <SPAN CLASS="MATH"><I>n</I></SPAN>-ary function over positive
+integers.
+
+<P>
+In such a setting, we define the notion of <SPAN  CLASS="textit">natural
+  interpretation</SPAN> <SPAN CLASS="MATH"><I>h</I></SPAN> as a function from <SPAN CLASS="MATH"><I>T</I></SPAN> to <SPAN CLASS="MATH"><I>N</I></SPAN> that maps
+every term <SPAN CLASS="MATH"><I>t</I> <IMG
+ WIDTH="16" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="961img2.png"
+ ALT="$ \in$"> <I>T</I></SPAN> to a positive integer in the following way:
+
+<P>
+<P><!-- MATH
+ \begin{displaymath}
+\left\{
+\begin{array}{lcl}
+h(a) &= &h_B(a) \quad \mbox{if} \quad a\in B\\
+h(f(a_1\ldots a_n))&= &h_K(f)(h(a_1) \ldots h(a_n))
+\end{array}\right .
+\end{displaymath}
+ -->
+</P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+<IMG
+ WIDTH="19" HEIGHT="65" ALIGN="MIDDLE" BORDER="0"
+ SRC="961img4.png"
+ ALT="$\displaystyle \left\{\vphantom{
+\begin{array}{lcl}
+h(a) &amp;= &amp;h_B(a) \quad \mbox{...
+...n B\\
+h(f(a_1\ldots a_n))&amp;= &amp;h_K(f)(h(a_1) \ldots h(a_n))
+\end{array}}\right.$"><IMG
+ WIDTH="343" HEIGHT="61" ALIGN="MIDDLE" BORDER="0"
+ SRC="961img5.png"
+ ALT="$\displaystyle \begin{array}{lcl}
+h(a) &amp;= &amp;h_B(a) \quad \mbox{if} \quad a\in B\\
+h(f(a_1\ldots a_n))&amp;= &amp;h_K(f)(h(a_1) \ldots h(a_n))
+\end{array}$">
+</DIV><P></P>
+
+<P>
+
+<P>
+<BR>
+We say that an inductive definition <SPAN CLASS="MATH"><I>T</I></SPAN> paired with a natural
+interpretation <SPAN CLASS="MATH"><I>h</I></SPAN> is <SPAN  CLASS="textit">ambiguous</SPAN> when there exist two terms
+<!-- MATH
+ $t_1,t_2 \in T$
+ -->
+<SPAN CLASS="MATH"><I>t</I><SUB>1</SUB>, <I>t</I><SUB>2</SUB> <IMG
+ WIDTH="16" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="961img2.png"
+ ALT="$ \in$"> <I>T</I></SPAN> such that <!-- MATH
+ $h(t_1)=h(t_2)$
+ -->
+<SPAN CLASS="MATH"><I>h</I>(<I>t</I><SUB>1</SUB>) = <I>h</I>(<I>t</I><SUB>2</SUB>)</SPAN>.  We also say that <SPAN CLASS="MATH">(<I>T</I>, <I>h</I>)</SPAN>
+is <SPAN  CLASS="textit">incomplete</SPAN> when there exists a positive integer <SPAN CLASS="MATH"><I>n</I></SPAN> such
+that there is no term <SPAN CLASS="MATH"><I>t</I></SPAN> that verifies <SPAN CLASS="MATH"><I>h</I>(<I>t</I>) = <I>n</I></SPAN>. Finally we say
+that <SPAN CLASS="MATH">(<I>T</I>, <I>h</I>)</SPAN> is <SPAN  CLASS="textit">regular</SPAN> if it is neither incomplete nor
+ambiguous.
+
+<P>
+
+<P>
+<BR>
+Given an inductive definition  of a set <SPAN CLASS="MATH"><I>T</I></SPAN> of term and a natural
+interpretation <SPAN CLASS="MATH"><I>h</I></SPAN>, your task consists in qualifying if <SPAN CLASS="MATH">(<I>T</I>, <I>h</I>)</SPAN> is
+ambiguous, incomplete, both or regular.
+
+<P>
+In the context of this problem, we will only consider simple
+interpretations. As a consequence, elements in <SPAN CLASS="MATH"><I>h</I><SUB>K</SUB></SPAN> are simple
+functions defined by the following grammar:
+
+<P>
+<P><!-- MATH
+ \begin{displaymath}
+f::= ( f + f )\ |\ ( f * f )\ |\ var_{id}\ |\ N
+\end{displaymath}
+ -->
+</P>
+<DIV ALIGN="CENTER" CLASS="mathdisplay">
+<I>f</I> : : = (<I>f</I> + <I>f</I> )&nbsp;|&nbsp;(<I>f</I>*<I>f</I> )&nbsp;|&nbsp;<I>var</I><SUB>id</SUB>&nbsp;|&nbsp;<I>N</I>
+</DIV><P></P>
+
+<P>
+
+<P>
+<BR>
+For a <SPAN CLASS="MATH"><I>p</I></SPAN>-ary function, the only valid <SPAN CLASS="MATH"><I>var</I><SUB>id</SUB></SPAN> are <TT>x1</TT>,
+<TT>x2</TT> <SPAN CLASS="MATH">...</SPAN> <TT>xp</TT>, <TT>x1</TT> for the first argument,
+<TT>x2</TT> for the second argument, and so on. Consider that every
+component in the definition of a function is separated from the other
+by a single space. For instance the <SPAN  CLASS="textit">successor</SPAN> function is
+described by <TT>( x1 + 1 )</TT>.
+
+<P>
+In order to simplify the problem, you will not have to consider the
+whole set of natural numbers. You only will have to consider the set
+<SPAN CLASS="MATH">{<I>N</I>..<I>M</I>}</SPAN> with <!-- MATH
+ $0\leq N < M \leq 30000$
+ -->
+<SPAN CLASS="MATH">0 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="961img6.png"
+ ALT="$ \leq$"> <I>N</I> &lt; <I>M</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="961img6.png"
+ ALT="$ \leq$"> 30000</SPAN>, both provided by the input
+data. Consider also that each constructor have at least one parameter
+and at most 5 parameters.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<B>The input will contain several test cases, each of them as described below.
+Consecutive test cases are separated by a single blank line.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+The input consists in the following lines:
+
+<P>
+
+<UL>
+<LI>the first line contains <SPAN CLASS="MATH"><I>N</I></SPAN> and <SPAN CLASS="MATH"><I>M</I></SPAN>, in this order and separated
+  by a single space;
+</LI>
+<LI>the second line contains a single integer <!-- MATH
+ $n\ (1\leq n)$
+ -->
+<SPAN CLASS="MATH"><I>n</I>&nbsp;(1 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="961img6.png"
+ ALT="$ \leq$"> <I>n</I>)</SPAN> that
+  represents the number of elements of <SPAN CLASS="MATH"><I>B</I></SPAN>;
+</LI>
+<LI>the next line contains a single integer <!-- MATH
+ $m\ (0\leq m)$
+ -->
+<SPAN CLASS="MATH"><I>m</I>&nbsp;(0 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="961img6.png"
+ ALT="$ \leq$"> <I>m</I>)</SPAN> that is the number of
+  constructors;
+</LI>
+<LI>the following <SPAN CLASS="MATH"><I>m</I></SPAN> lines introduce the arity of the <SPAN CLASS="MATH"><I>m</I></SPAN>
+  constructors. Thus, each line contains a single integer;
+</LI>
+<LI>the next <SPAN CLASS="MATH"><I>n</I></SPAN> lines define the function <SPAN CLASS="MATH"><I>h</I><SUB>B</SUB></SPAN>. The first of these
+  lines contains an integer <!-- MATH
+ $x\ (= h_B(a))$
+ -->
+<SPAN CLASS="MATH"><I>x</I>&nbsp;(= <I>h</I><SUB>B</SUB>(<I>a</I>))</SPAN> related to the first basic
+  element <SPAN CLASS="MATH"><I>a</I></SPAN> (remember, <!-- MATH
+ $N\leq x \leq M$
+ -->
+<SPAN CLASS="MATH"><I>N</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="961img6.png"
+ ALT="$ \leq$"> <I>x</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="961img6.png"
+ ALT="$ \leq$"> <I>M</I></SPAN>). And so on;
+</LI>
+<LI>the last <SPAN CLASS="MATH"><I>m</I></SPAN> lines define <SPAN CLASS="MATH"><I>h</I><SUB>K</SUB></SPAN>. Each line is then the
+  description of a function that respects the grammar exposed above.
+  
+</LI>
+</UL>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<B>For each test case, the output must follow the description below. 
+The outputs of two consecutive cases will be separated by a blank line.
+</B>
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+The output is organized following one of these four situations:
+
+<P>
+<DL>
+<DT><STRONG>Case <SPAN CLASS="MATH">(<I>T</I>, <I>h</I>)</SPAN> is regular:</STRONG></DT>
+<DD>a single line with the word
+  <TT>REGULAR</TT>.
+</DD>
+<DT><STRONG>Case <SPAN CLASS="MATH">(<I>T</I>, <I>h</I>)</SPAN> is incomplete:</STRONG></DT>
+<DD>a single line with the word
+  <TT>INCOMPLETE</TT>, a single space followed by a integer that is
+  the smallest value that cause the incompleteness of <SPAN CLASS="MATH">(<I>T</I>, <I>h</I>)</SPAN>.
+</DD>
+<DT><STRONG>Case <SPAN CLASS="MATH">(<I>T</I>, <I>h</I>)</SPAN> is ambiguous:</STRONG></DT>
+<DD>a single line with the word
+  <TT>AMBIGUOUS</TT>, a single space followed by a integer that is the
+  smallest value that turns <SPAN CLASS="MATH">(<I>T</I>, <I>h</I>)</SPAN> ambiguous.
+</DD>
+<DT><STRONG>Case <SPAN CLASS="MATH">(<I>T</I>, <I>h</I>)</SPAN> is both incomplete and ambiguous:</STRONG></DT>
+<DD>the output is,
+  in this case, two lines long. The first line reports the
+  incompleteness along the lines of the second case. The second line
+  reports the ambiguity of <SPAN CLASS="MATH">(<I>T</I>, <I>h</I>)</SPAN> in the same way as the third case.
+</DD>
+</DL>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+0 30000
+1
+1
+1
+0
+( x1 + 1 )
+
+0 30000
+1
+1
+1
+1
+( x1 + 1 )
+
+0 30000
+1
+2
+1
+2
+1
+( x1 + 1 )
+( x1 + x2 )
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+REGULAR
+
+INCOMPLETE 0
+
+INCOMPLETE 0
+AMBIGUOUS 2
+</PRE>
+
+<P>
+<BR><HR>
+<ADDRESS>
+MIUP'2006
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

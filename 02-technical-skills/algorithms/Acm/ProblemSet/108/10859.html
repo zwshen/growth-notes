@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+<title>Problem D: Placing Lampposts</title>
+<style type="text/css">
+<!--
+.inout       { font-family: "Courier New", Courier, monospace; font-size: 12pt;  }
+.cbfont      { font-size: 13pt; font-family: "Times New Roman", serif; text-align: center }
+.psetter     { font-family: Tahoma, sans-serif; font-size: 10pt; font-weight: bold }
+.jbfont    	 { font-family: "Times New Roman", serif; font-size: 13pt; text-align:justify }
+.bigfont     { font-family: "Times New Roman", serif; font-size: 18pt; font-weight: bold }
+.cname	 { font-family: Arial, sans-serif; font-size: 16pt; font-weight: bold;
+					text-align:center; line-height:100%;   }
+.pno         { font-family: Arial, sans-serif; font-size: 14pt; font-weight: bold; text-align:center }
+.pname       { font-family: Arial, sans-serif; font-size: 24pt; vertical-align: baseline; font-weight: bold; text-align:center }
+-->
+</style>
+</head>
+
+<body>
+
+<table border="2" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="20%" rowspan="3">
+				<p class="cbfont">Input: Standard In<br>
+				Output: Standard Out</td>
+				<!--contest name-->
+				<td width="60%" bgcolor="#C0C0C0" class="cname">Next Generation
+				Contest 1&nbsp;</td>
+				<td width="20%" rowspan="3">
+				<p class="cbfont"><b>Time Limit: 2 seconds</b></td>
+			</tr>
+			<tr>
+				<!--problem no-->
+				<td width="60%" bgcolor="#C0C0C0" class="pno">Problem D</td>
+			</tr>
+			<tr>
+				<!--problem name-->
+				<td width="60%" bgcolor="#C0C0C0" class="pname">Placing
+				Lampposts</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<p class="jbfont">As a part of the mission ‘Beautification of Dhaka City’, the
+government has decided to replace all the old lampposts with new expensive ones.
+Since the new ones are quite expensive and the budget is not up to the
+requirement, the government has decided to buy the minimum number of lampposts
+required to light the whole city.<br>
+<br>
+Dhaka city can be modeled as an undirected graph with no cycles, multi-edges or
+loops. There are several roads and junctions. A lamppost can only be placed on
+junctions. These lampposts can emit light in all the directions, and that means a
+lamppost that is placed in a junction will light all the roads leading away from
+it.<br>
+<br>
+The ‘Dhaka City Corporation’ has given you the road map of Dhaka city. You are
+hired to find the minimum number of lampposts that will be required to light the
+whole city. These lampposts can then be placed on the required junctions to
+provide the service. There could be many combinations of placing these lampposts
+that will cover all the roads. In that case, you have to place them in
+such a way that the number of roads receiving light from two lampposts is
+maximized.</p>
+<p class="bigfont">Input</p>
+<p class="jbfont">There will be several cases in the input file. The first line
+of input will contain an integer <b>T(T&lt;=30)</b> that will determine the number
+of test cases. Each case will start with two integers <b>N(N&lt;=1000)</b> and <b>
+M( M&lt;N)</b> that will indicate the number of junctions and roads respectively.
+The junctions are numbered from <b>0</b> to <b>N-1</b>. Each of the next <b>M</b>
+lines will contain two integers <b>a</b> and <b>b</b>, which implies there is a
+road from junction <b>a</b> to <b>b</b>,<br>
+<b>( 0&lt;= a,b &lt; N )</b> and <b>a != b</b>. There is a blank line separating two
+consecutive input sets.</p>
+<p class="bigfont">Output</p>
+<p class="jbfont">For each line of input, there will be one line of output. Each
+output line will contain 3 integers, with one space separating two consecutive numbers.
+The first of these integers will indicate the minimum number of lampposts required to 
+light the whole city. The second integer will be the number of roads that are receiving
+lights from two lampposts and the third integer will be the number of roads that
+are receiving light from only one lamppost.</p>
+<p class="bigfont">Sample Input</p>
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td class="inout">2<br>
+		4 3<br>
+		0 1<br>
+		1 2<br>
+		2 3<br>
+		<br>
+		5 4<br>
+		0 1<br>
+		0 2<br>
+		0 3<br>
+		0 4</td>
+	</tr>
+</table>
+<p class="bigfont">Sample Output</p>
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td class="inout">2 1 2<br>
+		1 0 4</td>
+	</tr>
+</table>
+<hr>
+<p class="psetter">Problem Setter: Sohel Hafiz.<br>
+Special thanks to Per Austrin.</p>
+
+</body>
+
+</html>

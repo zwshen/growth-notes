@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Domino Effect</TITLE>
+<META NAME="description" CONTENT="Domino Effect">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Domino Effect</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Did you know that you can use domino bones for other things besides
+playing Dominoes? Take a number of dominoes and build a row by standing
+them on end with only a small distance in between. If you do it right,
+you can tip the first domino and cause all others to fall down
+in succession (this is where the phrase ``domino effect'' comes from).
+<P>
+<P>
+While this is somewhat pointless with only a few dominoes, some people
+went to the opposite extreme in the early Eighties. Using millions of
+dominoes of different colors and materials to fill whole halls with elaborate
+patterns of falling dominoes, they created (short-lived) pieces of art.
+In these constructions, usually not only one but several rows of dominoes
+were falling at the same time. As you can imagine, timing is an
+essential factor here.
+<P>
+<P>
+It is now your task to write a program that, given such a system of
+rows formed by dominoes, computes when and where the last domino falls.
+The system consists of several ``key dominoes'' connected by rows of
+simple dominoes. When a key domino falls, all rows connected to the domino
+will also start falling (except for the ones that have already fallen).
+When the falling rows reach other key dominoes that have not fallen yet,
+these other key dominoes will fall as well and set off the rows connected
+to them. Domino rows may start collapsing at either end. It is even possible
+that a row is collapsing on both ends, in which case the last domino falling
+in that row is somewhere between its key dominoes. You can assume
+that rows fall at a uniform rate.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input file contains descriptions of several domino systems. The
+first line of each description contains two integers: the number <I>n</I> of key
+dominoes ( <IMG WIDTH=90 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline29" SRC="318img1.gif"  > ) and the number <I>m</I> of rows between them.
+The key dominoes are numbered from 1 to <I>n</I>. There is at most one row
+between any pair of key dominoes and the domino graph is connected, i.e.
+there is at least one way to get from a domino to any other domino
+by following a series of domino rows.
+<P>
+The following <I>m</I> lines each contain three integers <I>a</I>, <I>b</I>, and <I>l</I>,
+stating that there is a row between key dominoes <I>a</I> and <I>b</I> that
+takes <I>l</I> seconds to fall down from end to end.
+<P>
+<P>
+Each system is started by tipping over key domino number 1.
+<P>
+<P>
+The file ends with an empty system (with <I>n</I> = <I>m</I> = 0), which should not
+be processed.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each case output a line stating the number of the case (<TT>`System #1'</TT>,
+<TT>`System #2'</TT>, etc.). Then output a line containing the time when the
+last domino falls, exact to one digit to the right of the decimal point,
+and the location of the last domino falling, which is either at a key
+domino or between two key dominoes. Adhere to the format shown in the
+output sample. If you find several solutions, output only one of them.
+Output a blank line after each system.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>2 1
+1 2 27
+3 3
+1 2 5
+1 3 5
+2 3 5
+0 0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>System #1
+The last domino falls after 27.0 seconds, at key domino 2.
+
+System #2
+The last domino falls after 7.5 seconds, between key dominoes 2 and 3.</PRE>
+<P>
+</BODY>
+</HTML>

@@ -1,0 +1,46 @@
+<html>
+  <head>
+  </head>
+  <body>
+   	
+ 		<center>	
+    <h1>Problem A - f91</h1>
+		<h3 align="center">Time Limit: 1 second</h3>
+		</center>
+		
+    <h2>Background</h2>
+
+    <p>McCarthy is a famous theorician of computer science. In his work, he defined a recursive function, called f91, that takes as input a positive integer <i>N</i> and returns a positive integer defined as follows:
+    <ul>
+      <li>If <i>N &le; 100</i>, then f91(<i>N</i>) = f91(f91(<i>N</i>+11));</li>
+      <li>If <i>N &ge; 101</i>, then f91(<i>N</i>) = <i>N</i>-10.</li>
+    </ul>
+    </p>
+    <h2>The Problem</h2>
+
+    <p>Write a program, that computes McCarthy's f91.</p>
+    
+    <h2>The Input</h2>
+
+		<p>The input tests will consist of a series of positive integers, each integer is at most 1,000,000. There will be at most 250,000 test cases. Each number is on a line on its own. The end of the input is reached when the number 0 is met. The number 0 shall not be considered as part of the test set.</p>
+
+    <h2>Output</h2>
+
+    <p>The program shall output each result on a line by its own, following the format given in the sample output.</p>
+
+    <h2>Sample input</h2>
+
+    <pre>
+500
+91
+0
+</pre>
+
+    <h2>Sample output</h2>
+
+<pre>
+f91(500) = 490
+f91(91) = 91
+</pre>
+    </body>
+  </html>

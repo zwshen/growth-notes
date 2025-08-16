@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+<!--Converted with LaTeX2HTML 2002-2-1 (1.70)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+  <title>Problem G - Monitoring the Amazon</title>
+  <meta name="description" content="Monitoring the Amazon">
+  <meta name="keywords" content="amazon">
+  <meta name="resource-type" content="document">
+  <meta name="distribution" content="global">
+  <meta name="Generator" content="LaTeX2HTML v2002-2-1">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <link rel="STYLESHEET" href="amazon.css">
+</head>
+<body>
+<!--Navigation Panel-->
+<h1 align="center">Problem G - Monitoring the Amazon</h1>
+<h4 align="center">Time Limit: 5 seconds</h4>
+<h4 align="center">Memory Limit: 1 Mb</h4>
+<div>
+</div>
+<p>
+</p>
+<h1><a name="SECTION00010000000000000000">Background</a>
+</h1>
+<p>
+A network of autonomous, battery-powered, data acquisition stations has
+been
+installed to monitor the climate in the region of Amazon. An
+order-dispatch
+station can initiate transmission of instructions to the control
+stations so that they change their current parameters. To avoid
+overloading the battery,
+each station (including the
+order-dispatch station) can only transmit to two other stations. The destinataries of a station are the two closest stations. In case of draw, the first criterion is to chose the westernmost (leftmost on the map), and the second criterion is to chose the southernmost (lowest on the map).
+
+</p>
+<h1><a name="SECTION00020000000000000000">The Problem</a>
+</h1>
+<p>
+You are commissioned by Amazon State Government to write a program that
+decides if, given the localization of each station, messages can reach
+all
+stations.
+</p>
+<h1><a name="SECTION00030000000000000000">Input</a>
+</h1>
+<p>
+The input consists of an integer <span style="font-style: italic;">N</span>,
+followed by <span style="font-style: italic;">N</span> pairs of
+integers <span style="font-style: italic;">Xi</span>, <span
+ style="font-style: italic;">Yi</span>, indicating
+the localization coordinates of each station. The first pair of
+coordinates determines the position of the order-dispatch station,
+while the remaining <span style="font-style: italic;">N-1</span> pairs
+are the coordinates of
+the other stations.
+The following constraints are imposed:
+<span style="font-style: italic;">-20 &#8804; Xi, Yi &#8804; 20</span>, and <span
+ style="font-style: italic;">1 &#8804; N &#8804; 1000</span>.
+The input is terminated with <span style="font-style: italic;">N = 0</span>.
+</p>
+<h1><a name="SECTION00040000000000000000">Output</a>
+</h1>
+<p>
+For each given expression, the output will echo a line with the
+indicating if all stations can be reached or not (see sample output for
+the
+exact format).
+</p>
+<h1><a name="SECTION00050000000000000000">Sample input</a>
+</h1>
+<p>
+</p>
+<pre>4<br>1 0 0 1 -1 0 0 -1<br>8<br>1 0 1 1 0 1 -1 1 -1 0 -1 -1 0 -1 1 -1<br>6<br>0 3 0 4 1 3 -1 3 -1 -4 -2 -5<br>0<br></pre>
+<p>
+</p>
+<h1><a name="SECTION00060000000000000000">Sample output</a>
+</h1>
+<p>
+</p>
+<pre>All stations are reachable.<br>All stations are reachable.<br>There are stations that are unreachable.<br><br></pre>
+<p>
+</p>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Problem E: Equations in Disguise</title>
+<link rel="stylesheet" href="problem.css">
+</head>
+<body>
+
+<center>
+<h1>Problem E</h1>
+<h2>Equations in Disguise</h2>
+</center>
+
+<p>There is a one-to-one mapping from letters <i>a</i>, <i>b</i>, <i>c</i>, <i>d</i>, ..., <i>m</i> to digits (0~9), plus sign (+), multiplication sign (*) and equality sign (=). Your task is the find the mapping given a set of equations.</p>
+
+<p>In each equation, there is exactly one equality sign, both sides of which are in-fix expressions.  Numbers are in decimal form without leading zeros, operators are binary operators, and multiplications are always done before additions (there is no parenthesis). </p>
+
+<h2>Input</h2>
+<p>The input consists of at most 50 test cases. Each case contains a single integer <i>n</i> (0 < <i>n</i> < 21), indicating the number of equations. Each of the <i>n</i> lines contained a string consisting of at least 5 and at most 11 letters ranging from <i>a</i> to <i>m</i>. The last case is followed by a single zero, which should not be processed.</p>
+
+<h2>Output</h2>
+<p>For each test case, print the case number and all decidable pairs. A pair is decidable if it is true in every possible solution. The pairs should be sorted in increasing order of the letter.  There should be exactly one space between two letter-value pairs, but no space between the letter and its value. If no solution is found, print 'No'. If nothing is decidable (but there is at least one solution), print 'Oops'.</p>
+
+<h2>Sample Input</h2>
+<pre>
+2
+abcdec
+cdefe
+1
+milim
+1
+abcde
+1
+abmab
+0
+</pre>
+
+<h2>Output for the Sample Input</h2>
+<pre>
+Case 1: a6 b* d= f+
+Case 2: No
+Case 3: Oops
+Case 4: m=
+</pre>
+
+<h2>Note</h2>
+In the first sample, all possible solutions are {6*2=12, 2=1+1}, {6*4=24, 4=2+2}, {6*8=48, 8=4+4}, so <i>a</i> is mapped to 6, <i>b</i> is mapped to *, <i>d</i> is mapped to =, <i>f</i> is mapped to +. <i>c</i> may be mapped to 2, 4 or 8, <i>e</i> may be mapped to 1, 2 or 4, thus undecidable. All other letters not appeared in any equation are also undecidable.
+
+<hr />
+<i>Rujia Liu's Present 1: A Tiny Contest of Brute Force</i><br />
+<i>Adapted from Chinese National Olympiad in Informatics 2000, with test data enhanced</i>
+
+</body>
+</html>

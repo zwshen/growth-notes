@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Gondwanaland Telecom</TITLE>
+<META NAME="description" CONTENT="Gondwanaland Telecom">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Gondwanaland Telecom</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Gondwanaland Telecom makes charges for calls according to distance and
+time of day. The basis of the charging is contained in the following
+schedule, where the charging step is related to the distance:
+<P>
+<P> <IMG WIDTH=478 HEIGHT=154 ALIGN=BOTTOM ALT="tabular21" SRC="145img1.gif"  > <P>
+<P>
+All charges are in dollars per minute of the call. Calls which
+straddle a rate boundary are charged according to the time spent in
+each section. Thus a call starting at 5:58 pm and terminating at 6:04
+pm will be charged for 2 minutes at the day rate and for 4 minutes at
+the evening rate. Calls less than a minute are not recorded and no
+call may last more than 24 hours.
+<P>
+<P>
+Write a program that reads call details and calculates the
+corresponding charges.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+Input lines will consist of the charging step (upper case letter
+'A'..'E'), the number called (a string of 7 digits and a hyphen in the
+approved format) and the start and end times of the call, all
+separated by exactly one blank. Times are recorded as hours and
+minutes in the 24 hour clock, separated by one blank and with two
+digits for each number. Input will be terminated by a line consisting
+of a single <TT>#</TT>.
+<P>
+<P>
+Output will consist of the called number, the time in minutes the call
+spent in each of the charge categories, the charging step and the
+total cost in the format shown below.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>A 183-5724 17 58 18 04
+#</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample output</A></FONT></H2>
+<P>
+<TT>
+<P> <IMG WIDTH=239 HEIGHT=29 ALIGN=BOTTOM ALT="tabular47" SRC="145img2.gif"  > <P>
+</TT>
+<P>
+</BODY>
+</HTML>

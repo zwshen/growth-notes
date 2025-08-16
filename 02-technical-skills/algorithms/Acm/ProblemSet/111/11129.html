@@ -1,0 +1,50 @@
+<title>Problem A: An antiarithmetic permutation</title>
+
+<h2>Problem A: An antiarithmetic permutation</h2>
+
+<p>
+A permutation of <em>n+1</em> is a bijective function of the initial
+<em>n+1</em> natural numbers: 0, 1, ... <em>n</em>.  A permutation
+<em>p</em> is called antiarithmetic if there is no subsequence of it
+forming an arithmetic progression of length bigger than 2, i.e. there
+are no three indices
+0&nbsp;&le;&nbsp;<em>i</em>&nbsp;&lt;&nbsp;<em>j</em>&nbsp;&lt;&nbsp;<em>k</em>&nbsp;&lt;&nbsp;<em>n</em>
+such that
+(<em>p<sub>i</sub></em>, <em>p<sub>j</sub></em>, <em>p<sub>k</sub></em>)
+forms an arithmetic progression.
+<p>
+<img src=p11129.jpg vspace=20 hspace=100>
+<p>
+For example, the sequence (2, 0, 1, 4, 3) is an antiarithmetic
+permutation of 5.  The sequence (0, 5, 4, 3, 1, 2) is not an
+antiarithmetic permutation of 6 as its first, fifth and sixth term (0, 1,
+2) form an arithmetic progression; and so do its second, fourth and
+fifth term (5, 3, 1).
+<p>
+Your task is to generate an antiarithmetic permutation of <em>n</em>.
+<p>
+Each line of the input file contains a natural number
+3&nbsp;&le;&nbsp;<em>n</em>&nbsp;&le;&nbsp;10000. The last line of input
+contains 0 marking the end of input.  For each <em>n</em> from input,
+produce one line of output containing an (any will do)
+antiarithmetic permutation of <em>n</em> in the format shown below.
+
+<h3>Sample input</h3>
+<pre>
+3
+5
+6
+0
+</pre>
+
+
+<h3>Output for sample input</h3>
+<pre>
+3: 0 2 1 
+5: 2 0 1 4 3
+6: 2 4 3 5 0 1
+</pre>
+
+<hr>
+
+<em>W. Guzicki, adapted by P. Rudnicki</am>

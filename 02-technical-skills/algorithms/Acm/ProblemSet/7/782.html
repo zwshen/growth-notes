@@ -1,0 +1,249 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Contour Painting</TITLE>
+<META NAME="description" CONTENT="Contour Painting">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Contour Painting</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+A contour of points is represented on a two dimensional (2D)
+grid  as illustrated in figure 1. The points of the  contour  are
+specified  by  the  same character which  can  be  any  printable
+character, different than `<TT>*</TT>',`<TT>#</TT>',`<TT>_</TT>' and
+space. In figure 1 this character is `<TT>X</TT>'. All the other
+points of  the grid are represented by spaces.  The contour is
+connected, i.e. any two points on the contour can be reached from
+one another by traveling vertically, horizontally and diagonally.
+Moreover, it is considered that a contour can close a single  non
+empty zone of grid points.
+
+<P>
+<DIV ALIGN="LEFT">
+<PRE>
+                  012345678901234567890123456789
+                  ------------------------------
+                0|
+                1|       XXXXXXXXXX
+                2|      XXXX       XX
+                3|      X            X
+                4|     X      X      XXXXXXX
+                5|     XXXXXXXX             XX
+                6|     X      X      XXXXXXX
+                7|      X            X
+                8|      XXXX       XX
+                9|       XXXXXXXXXX
+                0|
+</PRE>
+<!--DIV ALIGN="CENTER"-->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure 1:  A contour on a 2D grid
+</DIV>
+
+<P>
+The  character `<TT>#</TT>' represents  the  colour
+used  to paint the contour as illustrated in figure 3. The  paint
+is  added  on  one side of the contour in such a  way  that  each
+contour  point  of the painted side  has at least  one `<TT>#</TT>'
+neighbour horizontally or vertically as shown in figure 2:
+
+<P>
+<PRE>
+                                                            ####
+                   ###                X###                  XXXX#
+                   XXX                XXXX                     X#
+</PRE>
+<DIV ALIGN="CENTER">
+<P>
+flat zone  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+concave corner  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+convex corner
+
+<P>
+
+<P>
+<BR>
+Figure 2: Cases of point painting
+</DIV>
+
+<P>
+A contour can be painted either from inside or from outside.
+The painting side is specified by the presence of the character
+`<TT>*</TT>' inside  or outside the contour as shown in figure 3.
+Notice that the star is removed from the grid once the painting is
+done.
+
+<P>
+
+<PRE>
+                XXXXXXXXXX                      XXXXXXXXXX        interior
+               XXXX       XX                   XXXX#######XX      painting
+               X   *        X                  X###  #    ##X
+              X      X      XXXXXXX           X######X#    #XXXXXXX
+              XXXXXXXX             XX         XXXXXXXX#     #######XX
+              X      X      XXXXXXX           X######X#    #XXXXXXX
+               X            X                  X###  #    ##X
+               XXXX       XX                   XXXX#######XX
+                XXXXXXXXXX                      XXXXXXXXXX
+          
+
+             *                                  ##########        exterior
+                XXXXXXXXXX                     #XXXXXXXXXX##      painting
+               XXXX       XX                  #XXXX       XX#
+               X            X                 #X            X######
+              X      X      XXXXXXX          #X      X      XXXXXXX##
+              XXXXXXXX             XX        #XXXXXXXX             XX#
+              X      X      XXXXXXX          #X      X      XXXXXXX##
+               X            X                 #X            X######
+               XXXX       XX                  #XXXX       XX#
+                XXXXXXXXXX                     #XXXXXXXXXX##
+                                                ##########
+</PRE>
+<DIV ALIGN="CENTER">
+before painting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         after painting
+
+<P>
+
+<P>
+<BR>
+Figure 3:  Painting a closed contour
+</DIV>
+
+<P>
+
+<P>
+<BR>
+Your problem is to write a program which: reads from a  text
+file  a  number  <I>n</I> and <I>n</I> grids, each  grid  containing  a  single
+contour  and  a single star,  paints each grid  according  to  the
+position  of  the star and outputs the painted grids  to  a  text
+file. Each contour is placed on its grid in such a way that it is
+fully surrounded by free grid points (spaces).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input text file contains the number of grids
+to  be  painted. The next lines of the  file  contain  the grids.
+The  lines which represent a grid are  terminated  by  a
+separation  line  full of underscores (`<TT>_</TT>'). There are at
+most 30 lines  and  at most 80 characters in a line for  each
+grid. The lines can be of different length.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+     The standard output file contains the grids with the painted
+contours  and with the stars removed. Each grid is output in  the
+same  format it has been read from the input file, including  the
+separation  line.  It follows an example of the  input and the
+output of the program for a single simple contour.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+3
+
+XXXXXXX
+X  *  X
+XXXXXXX
+
+__________
+
+       XXXXXXXXXX
+      XXXX       XX
+      X            X
+     X      X      XXXXXXX
+     XXXXXXXX             XX
+     X      X      XXXXXXX
+      X            X
+      XXXX      *XX
+       XXXXXXXXXX
+
+__________
+
+       XXXXXXXXXX
+ *    XXXX       XX
+      X            X
+     X      X      XXXXXXX
+     XXXXXXXX             XX
+     X      X      XXXXXXX
+      X            X
+      XXXX       XX
+       XXXXXXXXXX
+
+__________
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+
+XXXXXXX
+X#####X
+XXXXXXX
+
+__________
+
+       XXXXXXXXXX
+      XXXX#######XX
+      X###  #    ##X
+     X######X#    #XXXXXXX
+     XXXXXXXX#     #######XX
+     X######X#    #XXXXXXX
+      X###  #    ##X
+      XXXX#######XX
+       XXXXXXXXXX
+
+__________
+       ##########
+      #XXXXXXXXXX##
+     #XXXX       XX#
+     #X            X######
+    #X      X      XXXXXXX##
+    #XXXXXXXX             XX#
+    #X      X      XXXXXXX##
+     #X            X######
+     #XXXX       XX#
+      #XXXXXXXXXX##
+       ##########
+__________
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2001-01-05</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

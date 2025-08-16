@@ -1,0 +1,290 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 10 (filtered)">
+<title>Problem J: Digit Blocks</title>
+
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:Arial;}
+h2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:Arial;}
+h4
+	{margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Times New Roman";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:28.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+tt
+	{font-family:"Courier New";}
+p.Codedata, li.Codedata, div.Codedata
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:11.0pt;
+	font-family:"Courier New";}
+p.Semititle, li.Semititle, div.Semititle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-variant:small-caps;
+	font-weight:bold;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;border-collapse:collapse'>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF9900'>I</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:blue'>I </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:teal'>U </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>C  </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:teal'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF9900'>O</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:blue'>N</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>L</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#993300'>I</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF9900'>N</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'>E</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'>   C </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>O</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:purple'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'>N </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:red'>T</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:maroon'>E</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:fuchsia'>S</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:green'>T</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:maroon'>  </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#FF6600'>2 </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:olive'>0</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#CC99FF'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#993300'>0</span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:maroon'> </span></b><b><span
+  style='font-size:14.0pt;font-family:Arial;color:#99CC00'>8</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:18.0pt;font-family:Arial'>Problem J: Digit Blocks</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-family:Arial'>Input: standard input</span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-family:Arial'>Output: standard output</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span
+  style='font-family:Arial'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='height:114.75pt'>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt;
+  height:114.75pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><img
+  width=228 height=192 src="p11394.jpg" align=left hspace=12>Often
+  digit blocks are used to teach children formation of numbers. Block sets are
+  available in the market which contains many blocks, each of which has the
+  shape of a digit. Small or large numbers can be formed using them by placing
+  them in a single row. Given the information of the available digit blocks,
+  your job is to find out the total number of different hexadecimal numbers divisible
+  by 5 that can be formed using those blocks. To save you from numbers with
+  leading zeroes you can assume that none of the blocks will have shape of
+  zero. The available blocks may have shapes of ‘1’, ‘2’, ‘3’, ‘4’, ‘5’, ‘6’,
+  ‘7’, ‘8’,’9’, ‘A’, ‘B’, ‘C’, ‘D’, ‘E’ or ‘F’ which are actually digits of
+  hexadecimal number system.   </p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Input</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>Input
+  file contains at most 501 lines of inputs. Each line contains a string which
+  contains only digits of hexadecimal number system (but will not contain
+  zero). These digits denote the blocks that are available. For example if the
+  string is “A1BBB5”, then you have two assume that total six blocks are
+  available. Of them three blocks have shape of B, one block has shape of A,
+  another block has shape of 1 and the last one has shape of 5. The string can
+  be at most 16 characters long. </p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>Input
+  is terminated by a line containing a single ‘#’.</p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <h1>Output</h1>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <h4 style='text-align:justify;text-justify:inter-ideograph'><span
+  style='font-size:12.0pt;font-weight:normal'>For each line of input produce
+  one line of output. This line contains a decimal integer number which denotes
+  the value N. Here N is the number of hexadecimal multiples of 5 that can be
+  formed using the given digits. Note that you can use some or all of the given
+  digits to form number. You can safely assume that N will fit in a 64 bit
+  signed integer.</span></h4>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign=top style='width:50.0%;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Sample Input</span></b></p>
+  </td>
+  <td width="50%" valign=top style='width:50.0%;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-size:14.0pt;font-family:Arial'>Output for Sample Input</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign=top style='width:50.0%;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt'><pre><b><span style='font-size:
+  12.0pt'>A1BBB5</span></b></pre><pre><b><span style='font-size:12.0pt'>B</span></b></pre>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b>#</b></p>
+  </td>
+  <td width="50%" valign=top style='width:50.0%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b><span style='font-family:"Courier New"'>4</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-family:"Courier New"'>0</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;border:none;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-family:Arial'>Problem setter: Shahriar Manzoor</span></b></p>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span
+  style='font-family:Arial'>Special thanks: Derek Kisman</span></b></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>

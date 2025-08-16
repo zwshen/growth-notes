@@ -1,0 +1,1031 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="keywords" content="UVa, Online Judge, Volume 9">
+<meta name="description" content="Methods to Solve UVa Online Judge">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>World of Seven - Methods to Solve - Volume 9</title>
+
+<meta name="Microsoft Theme" content="none">
+<meta name="Microsoft Border" content="t, default">
+</head>
+
+<body bgcolor="#C0C0C0"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<div align="center">
+	<center>
+	<table border="2" cellpadding="0" cellspacing="0" width="924">
+		<tr>
+			<td bgcolor="#FF6600">
+			<p align="center"><font color="#FFFFFF">
+			<a href="http://nus.edu.sg/">
+			<img alt="NUS Home" src="../_borders/nuslogohome.gif" border="0" align="left" width="183" height="94"></a><strong><font size="5" face="Trebuchet MS">9</font><font face="Trebuchet MS" size="2"><br>
+			<nobr><A HREF="../index.html" TARGET="">Home</A></nobr>&nbsp;<nobr><A HREF="acmoj.html" TARGET="">Up</A></nobr></font></strong></font></td>
+		</tr>
+	</table>
+	</center></div>
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><!--msnavigation--><td valign="top">
+<basefont size="2" color="green">
+<div align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="924" bgcolor="#FFFFF0">
+		<tr>
+			<td>
+
+
+    <p align="center" style="margin-left: 10; margin-right: 10">
+    <font size="1" face="Verdana"><a name="Problem Name"><br>
+    </a></font><font size="2" face="Verdana">Last updated on: 
+      <!--webbot
+bot="Timestamp" S-Type="REGENERATED" S-Format="%d %B %Y %I:%M:%S %p" startspan -->30 April 2009 04:09:45 PM<!--webbot bot="Timestamp" i-checksum="54890" endspan --></font></p>
+    <p style="margin-left: 10; margin-right: 10" align="left">
+    <font face="Verdana" size="2"><b>Comment on this volume:</b> 
+	<span lang="en-gb">The hints for this volume are contributed by my CS3233 
+	students:<br>
+	900-949: Sivamani Varun (SV)</span></font><span lang="EN-GB" style="background-position: 0% 0%; font-size: 10.0pt; font-family: Verdana,sans-serif; background-image:none; background-repeat:repeat; background-attachment:scroll"><br>
+	950-999: Zhang Ding (ZD)</span></p>
+<div align="center">
+      <table border="1" width="700" cellspacing="0" cellpadding="2" height="1" style="border-collapse: collapse" cellspacing="0">
+        <tr>
+          <th height="1" align="left" width="30" bordercolor="#000000" bgcolor="#0099FF">
+          <p align="center" dir="ltr">
+          <font face="Verdana" size="2" color="#FFFFFF">No</font></th>
+          <th height="1" width="275" bordercolor="#000000" bgcolor="#0099FF">
+          <p dir="ltr">
+          <font face="Verdana" size="2" color="#FFFFFF">
+          Problem Name</font></th>
+          <th height="1" width="10" bordercolor="#000000" bgcolor="#0099FF">
+          <p dir="ltr">
+          <font face="Verdana" size="2" color="#FFFFFF">*</font></th>
+          <th height="1" bordercolor="#000000" bgcolor="#0099FF">
+          <p dir="ltr">
+          <font face="Verdana" size="2" color="#FFFFFF">Algorithm</font></th>
+          <th height="1" bordercolor="#000000" bgcolor="#0099FF">
+          <p dir="ltr">
+          <font face="Verdana" size="2" color="#FFFFFF">Solved by</font></th>
+        </tr>
+		<tr>
+          <td height="1" align="left" colspan="5" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif" bgcolor="#A7D3FF">
+          <p align="center" dir="ltr"><b><font face="Verdana" size="2">Assigned 
+			to Sivamani Varun</font></b></td>
+          </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">900</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2"><a href="#900_-_Brick_Wall_Patterns">Brick Wall Patterns</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Math, Fibonacci</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">901</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">From Databases to XML</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">902</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2"><a href="#902_-_Password_Search">Password Search</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">String Processing</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">903</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Spiral of Numbers</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">904</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Overlapping Air Traffic Control Zones</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">905</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Tacos Panchita</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">906</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2"><a href="#906_-_Rational_Neighbor">
+			Rational Neighbor</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Math</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">907</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">
+			<a href="#907_-_Winterim_Backpacking_Trip">Winterim Backpacking Trip</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">DP</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr">
+          <font face="Verdana" size="2">908</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><a href="#908_-_Re-connecting_Computer_Sites">Re-connecting Computer Sites</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font face="Verdana" size="2">4.0</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font face="Verdana" size="2">Graph, Minimum Spanning 
+			Tree</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">909</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">The BitPack Data Compression Problem</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">910</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2"><a href="#910_-_TV_game">TV game</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">DP</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">911</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">
+			<a href="#911_-_Multinomial_Coefficients">Multinomial Coefficients</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Math</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">912</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Live From Mars</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">913</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">
+			<a href="#913_-_Joana_and_The_Odd_Numbers">Joana and The Odd Numbers</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Math</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr">
+          <font face="Verdana" size="2">914</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font face="Verdana" size="2">
+			<a href="#914_-_Jumping_Champion">Jumping Champion</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Math, Prime</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">915</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Stack of Cylinders</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">916</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Dividing Land</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">917</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Euro 2004</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font face="Verdana" size="2">918</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font face="Verdana" size="2">
+			<a href="#918_-_ASCII_Mandelbrot">ASCII Mandelbrot</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">919</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Cutting Polyominoes</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr">
+          <font face="Verdana" size="2">920</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font face="Verdana" size="2">
+			<a href="#920_-_Sunny_Mountains">Sunny Mountains</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Comp. Geometry</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">921</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">A Word Puzzle in the Sunny Mountains</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">922</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Rectangle by the Ocean</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">923</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">One Against Many</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font face="Verdana" size="2">924</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr" align="left"><font face="Verdana" size="2">
+			<a href="#924_-_Spreading_the_News">Spreading the News</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Graph</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">925</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">No more prerequisites, please!</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">926</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2"><a href="#926_-_Walking_Around_Wisely">
+			Walking Around Wisely</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">DP</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr">
+          <font face="Verdana" size="2">927</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font face="Verdana" size="1">
+			<a href="#927_-_Integer_Sequences_from_Additions_of_Terms">Integer Sequences from 
+			Additions of Terms</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Math</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">928</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2"><a href="#928_-_Eternal_Truths">Eternal 
+			Truths</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Graph</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">929</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2"><a href="#929_-_Number_Maze">Number Maze</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Graph, Dijkstra</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr">
+          <font face="Verdana" size="2">930</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font face="Verdana" size="2">
+			<a href="#930_-_Polynomial_Roots">Polynomial Roots</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">931</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">The Probable n-Ascendants</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr">
+          <font face="Verdana" size="2">932</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font face="Verdana" size="2">
+			<a href="#932_-_Checking_The_N-queens_Problem">Checking The N-queens 
+			Problem</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">933</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2"><a href="#933_-_Water_Flow">Water Flow</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">934</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Overlapping Areas</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">935</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2"><a href="#935_-_Smart_Strategy">Smart 
+			Strategy</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Math</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">936</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Mars for Sale</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">937</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Kriss Kross Puzzle</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">938</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Gilix</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">939</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2"><a href="#939_-_Genes">Genes</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Graph</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">940</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">
+			<a href="#940_-_Autobiographical_Numbers">Autobiographical Numbers</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">941</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2"><a href="#941_-_Permutations">
+			Permutations</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">942</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2"><a href="#942_-_Cyclic_Numbers">Cyclic 
+			Numbers</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Math</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">943</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">
+			<a href="#943_-_Number_Format_Translator">Number Format Translator</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font face="Verdana" size="2">944</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font face="Verdana" size="2">
+			<a href="#944_-_Happy_Numbers">Happy Numbers</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">DP</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">945</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">
+			<a href="#945_-_Loading_of_a_Cargo_Ship">Loading of a Cargo Ship</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Ad Hoc</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">946</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">A Pile of Boxes</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">947</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Master Mind Helper</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">*</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr">
+          <font face="Verdana" size="2">948</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font face="Verdana" size="2">
+			<a href="#948_-_Fibonaccimal_Base">Fibonaccimal Base</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Greedy</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">949</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2"><a href="#949_-_Getaway">Getaway</a></font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Graph</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">SV</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" colspan="5" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif" bgcolor="#A7D3FF">
+          <p align="center" dir="ltr"><b><font face="Verdana" size="2">Assigned 
+			to Zhang Ding</font></b></td>
+          </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">950</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Tweedle Numbers</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <p dir="ltr"><font size="2"><span style="font-family: Verdana">ZD</span></font></td>
+        </tr>
+		<tr>
+          <td height="1" align="left" width="30" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">999</font></td>
+          <td height="1" width="275" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">Book signatures</font></td>
+          <td align="center" height="1" width="10" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font face="Verdana" size="2">*</font></td>
+          <td align="center" height="1" style="border-color: #FF0000; font-family:Verdana, Arial, Helvetica, sans-serif">
+          <font size="2"><span style="font-family: Verdana">ZD</span></font></td>
+        </tr>
+		</table>
+      </div>
+<p style="margin-left: 20; margin-right: 20" align="left">
+    <font size="2" face="Verdana">Total submit-able problems in this volume: 100<br>
+    Solved problems: 3<br>
+    Problems in Wrong Answer list from this volume: <span lang="en-gb">-</span><br>
+    Unattempted problems: <span lang="en-gb">-<br>
+	Total hints in this volume: 29</span></font></p>
+    <hr align="left">
+    <p style="margin-left: 20; margin-right: 20" align="left">
+	<font size="2" face="Verdana"><b><a name="900_-_Brick_Wall_Patterns">900 - Brick Wall Patterns</a></b><br>
+	<br>
+	Initially seemed very complicated but after working out a few examples -&gt; it 
+	was pretty clear the program was just asking to output Fibonacci numbers.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font size="2" face="Verdana"><b><a name="902_-_Password_Search">902 - Password Search</a></b><br>
+	<br>
+	I started off my term assignment with this problem and but eventually become 
+	the last problem I solved. A very 
+	straightforward problem but kept on getting TLE. Its basically an 
+	optimization problem involving substring generation. I kept getting TLE 
+	because I used the substring function of &lt;string&gt;. After some researching 
+	upon string matching devised my own variation of the Rabin-Karp algorithm 
+	solving it in 1.5 seconds.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2"><b><a name="906_-_Rational_Neighbor">906 - 
+	Rational Neighbor</a></b><br>
+	<br>
+	This is a math problem. The algorithm is given in the problem. You just need 
+	to implement such a way that you don't get floating point errors or run into 
+	an infinite loop.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<b><font face="Verdana" size="2"><a name="907_-_Winterim_Backpacking_Trip">
+	907 - Winterim Backpacking Trip</a></font></b></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2">This is a DP problem (finding maximin). First 
+	fill up the table with the first column containing the cumulative distances 
+	so far. Then through a bottom up DP strategy you can fill it up finding the 
+	maximin distance.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<b><font face="Verdana" size="2">
+	<a name="908_-_Re-connecting_Computer_Sites">908 - Re-connecting Computer 
+	Sites</a></font></b></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2">There seems to be a lot of information in this 
+	problem - do not be daunted by it and also the large size of n (&lt;=1000000) - 
+	its basically a straightforward application of Kruskal's algorithm to find a 
+	MST. No need for priority queues or any other optimizations. Simple disjoint 
+	data structure is enough and it works very fast too.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<b><font face="Verdana" size="2"><a name="910_-_TV_game">910 - TV game</a></font></b></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2">This is a DP problem. Just storing the last 
+	two rows and also storing the two possible moves from each letter is enough. 
+	Be vary that there can multiple ending locations and you need to sum them up 
+	for final answer.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2"><b><a name="911_-_Multinomial_Coefficients">
+	911 - Multinomial Coefficients</a></b><br>
+	<br>
+	This is a math problem. Pre-calculate the binomial table (using DP) and 
+	simplify the multinomial coefficient formula such that you work with 
+	separate products and just call from the table to prevent out of bound 
+	errors.<br>
+	<br>
+	<b><a name="913_-_Joana_and_The_Odd_Numbers">913 - Joana and The Odd Numbers</a></b><br>
+	<br>
+	A straight forward problem - which I managed after working out on paper to 
+	reduce to a simple pluggable formula using the fact that addition of 
+	consecutive odd numbers always is a perfect square number. But was very 
+	surprised at my rank of 1529. <br>
+	<br>
+	<b><a name="914_-_Jumping_Champion">914 - Jumping Champion</a></b><br>
+	<br>
+	A tricky problem that involved prime numbers, sorting and linear searching 
+	with a twist. The phrasing of the problem<br>
+	was not very clear and was not sure whether it was asking the highest 
+	frequency of the difference or the difference with the highest frequency. I 
+	could have used a count sort method to get the final answer in O(n) but was 
+	not sure how big the upper bound between the differences of consecutive 
+	prime numbers would have been, hence went for the safer vector and sort 
+	method.<br>
+	<br>
+	<b><a name="918_-_ASCII_Mandelbrot">918 - ASCII Mandelbrot</a></b><br>
+	<br>
+	Wow! What a problem. When I was browsing through the problems I thought this 
+	was the hardest problem on the entire list but then remembered that the more 
+	complicated a problem sounds the easier it probably is. It turned out to be 
+	easy coding but then suddenly became a nightmare as I had no clue why I kept 
+	getting WA. Apparently my own outputs to the two test cases were wrong, with 
+	just one character off. (lesson learnt: Always use diff/fc to compare).
+	After painstaking debugging I came to a conclusion that it was due to 
+	floating point errors that my program kept giving the WA. Luckily I 
+	remembered reading about a floating point comparison function by the great 
+	Donald Knuth in 1102 - &gt; which I used to get AC.<br>
+	<br>
+	<b><a name="920_-_Sunny_Mountains">920 - Sunny Mountains</a></b><br>
+	<br>
+	This has to be the first ever computational geometry problem that I solved 
+	and I thoroughly enjoyed myself. I basically sorted the lines according to 
+	the x axis coordinates and adopted a greedy strategy of picking only the y 
+	coordinates who are greater than the current one and finally using a formula 
+	which I derived to work out the distance.<br>
+	<br>
+	<b><a name="924_-_Spreading_the_News">924 - Spreading the News</a></b><br>
+	<br>
+	My first ever problem to solve using BFS. Solved it immediately after lecture 5. 
+	You need to stored the height of each node (which represent the day) and 
+	store the neighbors of each node at another array indexed according to 
+	height.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<b><font face="Verdana" size="2"><a name="926_-_Walking_Around_Wisely">926 - 
+	Walking Around Wisely</a></font></b></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2">This is a DP/counting problem. The main issue 
+	in this problem is on how you store the edges representing the roads you 
+	cannot use. Once you solve that issue its pretty straightforward recurrence 
+	relation, with a DP table. Make sure you use unsigned long long as the value 
+	get pretty large.<br>
+	<br>
+	<b><a name="927_-_Integer_Sequences_from_Additions_of_Terms">927 - Integer Sequences from Additions of Terms</a></b><br>
+	<br>
+	Another tough sounding problem that actually turned out to be easy. Just 
+	remember to use unsigned long long as the values can get really really big.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2"><b><a name="928_-_Eternal_Truths">928 - 
+	Eternal Truths</a></b><br>
+	<br>
+	This is a BFS problem. This time the number of possible moves is always 
+	changing. The issue with this problem is on how you deal with the 
+	boundaries. You also need to be careful that you don't run into a wall.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2"><b><a name="929_-_Number_Maze">929 - Number 
+	Maze</a></b><br>
+	<br>
+	This is a shortest path problem. But due to the input size of the problem 
+	you will need to use an optimized version of Djikstra's algorithm with 
+	priority queue or else you will get TLE or MLE (if you use a 3-d array).<br>
+	<br>
+	<b><a name="930_-_Polynomial_Roots">930 - Polynomial Roots</a></b><br>
+	<br>
+	An ad hoc problem but with misleading details about input. It was not stated 
+	anywhere that the number representing the total test cases would also be a 
+	floating point number -&gt; as a result I got about 10 TLEs unnecessarily. 
+	After I made it that it can read it as floating point number did I finally 
+	get AC.<br>
+	<br>
+	<b><a name="932_-_Checking_The_N-queens_Problem">932 - Checking The N-queens Problem</a></b><br>
+	<br>
+	Although the problem sounded easy, coding it seemed to be very challenging. 
+	And also, once again the problem phrasing was misleading. It never mentioned 
+	that there will be multiple inputs but apparently it had, hence took me 
+	couple of submissions to get it. I got rank 10 for this problem even though 
+	mine was very inefficient. It can be made very efficient by using bit 
+	manipulations.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2"><b><a name="933_-_Water_Flow">933 - Water Flow</a></b><br>
+	<br>
+	This is an Ad hoc problem. Reading in the input is one of the challenges in 
+	the problem. There is a very nice solution if you work backward. Although 
+	the problem does not state, its a multiple input problem. Print out the 
+	output with a blank link separating multiple test cases.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2"><b><a name="935_-_Smart_Strategy">935 - Smart 
+	Strategy</a></b><br>
+	<br>
+	This is a math problem. You need to consider all the possible cases on who 
+	starts first and who loses in the previous round to get the right answer. 
+	Although the problem does not state, its a multiple input problem. Print out 
+	the output with a blank link separating multiple test cases.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2"><b><a name="939_-_Genes">939 - Genes</a></b><br>
+	<br>
+	This is a graph problem. I just brute forced, keeping on repeatedly 
+	processing the vertices until all the status of each node has been 
+	determined. Then just print out in alphabetic order the names of the nodes 
+	and its status.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2"><b><a name="940_-_Autobiographical_Numbers">
+	940 - Autobiographical Numbers</a></b><br>
+	<br>
+	This is a math problem. The key to this problem is that there there are only 
+	3 possible numbers that can appear in the numbers in any base, 0,1, and 
+	another number. Exploit that pattern and print out all such numbers.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<b><font face="Verdana" size="2"><a name="941_-_Permutations">941 - 
+	Permutations</a></font></b></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2">This is an ad hoc problem where you have to 
+	find the nth permutation of a string. Brute forcing or using 
+	stl::next_permutation will time out. First, find number of permutations 
+	left, then find which section the number will fall into and then insert the 
+	characters in there and finally print it out.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2"><b><a name="942_-_Cyclic_Numbers">942 - Cyclic 
+	Numbers</a></b><br>
+	<br>
+	Seemingly difficult problem at first glance but after working out some 
+	divisions on paper, you will start to see the pattern. Just need to store 
+	the remainder at each stage of division and keep checking whether that 
+	particular remainder had already been calculated. If so that's the length of 
+	the recurring decimal. If you hit a remainder of zero anywhere that's the 
+	division.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2"><b><a name="943_-_Number_Format_Translator">
+	943 - Number Format Translator</a></b><br>
+	<br>
+	This is an ad hoc problem. It is quite tricky as you have to convert words 
+	written in Portuguese into numbers. Lots of test cases are given so it kind 
+	of simplifies the problem. The only issue you need to treat numbers greater 
+	than &gt;=1000000 separately.<br>
+	Although the problem does not state, its a multiple input problem. Print out 
+	the output with a blank link separating multiple test cases.<br>
+	<br>
+	<b><a name="944_-_Happy_Numbers">944 - Happy Numbers</a></b><br>
+	<br>
+	This problem is a DP problem. I used a bottom up DP strategy to pre-generate 
+	all my happy numbers and the lengths of the sequences, by first pre-storing 
+	all the happy numbers up to 100 (by observing it can be seen that all happy 
+	numbers can be generated from those from 1 to 100) and then working them up 
+	from there.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2"><b><a name="945_-_Loading_of_a_Cargo_Ship">945 
+	- Loading of a Cargo Ship</a></b><br>
+	<br>
+	This is an ad hoc problem. I used a two dimensional matrix to keep track of 
+	all the cargos as opposed to a queue as it makes it much easier to print out 
+	output. Although the problem does not state, its a multiple input problem. 
+	Print out the output with a blank link separating multiple test cases.<br>
+	<br>
+	<b><a name="948_-_Fibonaccimal_Base">948 - Fibonaccimal Base</a></b><br>
+	<br>
+	This is a greedy problem. Although I was initially unsure about how to 
+	correctly get the Fibonanci representation but I went with my intuition with 
+	a greedy solution and it turned out to be correct. Now I finally understand 
+	what you meant when you said 'If not sure just go with greedy solution' 
+	during week2 lecture.</font></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<b><font face="Verdana" size="2"><a name="949_-_Getaway">949 - Getaway</a></font></b></p>
+<p style="margin-left: 20; margin-right: 20" align="left">
+	<font face="Verdana" size="2">This is a BFS problem. Its a variant on the 
+	shortest distance in a maze. At certain nodes, you cannot be there at 
+	certain given times. So you need to push back the source node once again 
+	into the queue when such a node is encountered.</font></p>
+
+    
+			<hr>
+			<font face="Verdana" size="1">
+			<!--
+  The contents of this file are printed by the pagecount program when it
+  is invoked as a server-side include.  The following directives are
+  available for including data from the statistics database:
+ 
+
+	Percent sign:		  %
+	Anchor URL/URI: 	  http://www.comp.nus.edu.sg/cgi-bin/pagecount?/~stevenha/programming/vol9.html, /cgi-bin/pagecount?/~stevenha/programming/vol9.html
+	Current date/time: 	  25-Mar-10, 22:37:56 SGT
+	Total number of days: 	  375th, 375
+	Elapsed number of days:   400th, 400
+	Document path/file name:  /home/s/stevenha/public_html/programming/vol9.html, vol9.html
+	Total number of hosts: 	  1200th, 1200
+	Last access date/time: 	  25-Mar-10, 22:36:12 SGT
+	Total number of accesses: 1938th, 1938
+	Remote host/address: 	  118-165-152-190.dynamic.hinet.net, 118.165.152.190
+	Start date/time:	  19-Feb-09, 21:44:40 SGT
+	Accesses today: 	  11th, 11
+	Document URL/URI: 	  http://www.comp.nus.edu.sg/~stevenha/programming/vol9.html, /~stevenha/programming/vol9.html
+	Accesses this host: 	  2nd, 2
+
+  The rest of the file should contain valid HTML.
+-->
+
+This document, <I>vol9.html</I>, has been accessed 1938 times since 19-Feb-09 21:44:40 SGT.
+This is the 11th time it has been accessed today.
+<P>
+A total of 1200 different hosts have accessed this document in the
+last 400 days; your host, <I>118-165-152-190.dynamic.hinet.net</I>, has accessed it 2 times.
+<P>
+If you're interested, <A HREF="/cgi-bin/pagecount?/~stevenha/programming/vol9.html">complete statistics</A> for
+this document are also available, including breakdowns by top-level
+domain, host name, and date.
+<P>
+
+			</font>
+			
+			<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+			</script>
+			<script type="text/javascript">
+			_uacct = "UA-1566631-3";
+			urchinTracker();
+			</script>
+
+			</td>
+		</tr>
+	</table>
+</div>
+
+</body>
+</html></font></h1>

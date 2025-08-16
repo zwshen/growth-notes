@@ -1,0 +1,182 @@
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.47)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Rose windows</TITLE>
+<META NAME="description" CONTENT="Problem F: Rose windows">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Rose windows</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+Mr.&nbsp;Arnold Gerald Nostik is in charge of the design of the main rose window
+of the new cathedral in his town.
+The rose window is circular, <SPAN CLASS="MATH">2<I>r</I></SPAN> units wide.
+Since Mr.&nbsp;A.&nbsp;G.&nbsp;Nostik knows little about Virgins, Saints and Angels,
+he is thinking about a geometric pattern:
+Let <SPAN CLASS="MATH"><I>n</I></SPAN> be an even integer number, at least 4.
+Mr.&nbsp;Nostik plans to pick <SPAN CLASS="MATH"><I>n</I></SPAN> points,
+each at distance <SPAN CLASS="MATH"><I>r</I></SPAN> of the center of the window,
+these points being the vertices of a regular polygon.
+(The next page shows an example with <SPAN CLASS="MATH"><I>n</I> = 8</SPAN>.)
+These points are to be joined with straight lines,
+and the resulting regions colored as shown in the example.
+(The colors of the example are arbitrary.)
+Note that for <SPAN CLASS="MATH"><I>n</I> = 8</SPAN> there are four regions.
+We number these regions 1, 2, 3 and 4
+starting to count from the center of the rose.
+In general, there are <SPAN CLASS="MATH"><I>n</I>/2</SPAN> regions.
+
+<P>
+
+<P><P>
+<BR>
+
+<P>
+Write a program to help Mr.&nbsp;Nostik
+to know how much glass of every color
+he needs in order to build a given rose window.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Input begins with one integer <!-- MATH
+ $0 \le m \le 100000$
+ -->
+<SPAN CLASS="MATH">0<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10772img1.png"
+ ALT="$ \le$"><I>m</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10772img1.png"
+ ALT="$ \le$">100000</SPAN>;
+<SPAN CLASS="MATH"><I>m</I></SPAN> lines follow, each with <SPAN CLASS="MATH"><I>r</I></SPAN>
+(a real number between 1 and 100),
+<SPAN CLASS="MATH"><I>n</I></SPAN> (an even integer number between 4 and 40),
+and <SPAN CLASS="MATH"><I>k</I></SPAN> (<!-- MATH
+ $1 \le k \le n/2$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10772img1.png"
+ ALT="$ \le$"><I>k</I><IMG
+ WIDTH="18" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10772img1.png"
+ ALT="$ \le$"><I>n</I>/2</SPAN>).
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For every combination of <SPAN CLASS="MATH"><I>r</I></SPAN>, <SPAN CLASS="MATH"><I>n</I></SPAN> and <SPAN CLASS="MATH"><I>k</I></SPAN>,
+print the area (in square units) of the <SPAN CLASS="MATH"><I>k</I></SPAN>-th region
+of a rose window with <SPAN CLASS="MATH"><I>n</I></SPAN> points and radius&nbsp;<SPAN CLASS="MATH"><I>r</I></SPAN>,
+rounded to four decimal digits.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+4
+50 8 3
+9.238794 8 2
+10 4 1
+20 4 1
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2928.9322
+100.0000
+200.0000
+800.0000
+</PRE>
+
+<P>
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p5a.eps}$
+ -->
+<IMG
+ WIDTH="626" HEIGHT="279" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10772a.jpg"
+ ALT="\epsfbox{p5a.eps}">
+</DIV>
+<P>
+<DIV ALIGN="CENTER">A regular octagon inside a circle <SPAN CLASS="MATH">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN> <SPAN CLASS="MATH">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN> A rose window with 8 points
+
+</DIV>
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p5b.eps}$
+ -->
+<IMG
+ WIDTH="634" HEIGHT="281" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10772b.jpg"
+ ALT="\epsfbox{p5b.eps}">
+</DIV>
+<P>
+<DIV ALIGN="CENTER">First region of the rose above <SPAN CLASS="MATH">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN> <SPAN CLASS="MATH">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN> Second region of the rose above
+
+</DIV>
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p5c.eps}$
+ -->
+<IMG
+ WIDTH="626" HEIGHT="278" ALIGN="BOTTOM" BORDER="0"
+ SRC="p10772c.jpg"
+ ALT="\epsfbox{p5c.eps}">
+</DIV>
+<P>
+<DIV ALIGN="CENTER">Third region of the rose above <SPAN CLASS="MATH">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN> <SPAN CLASS="MATH">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN> Fourth region of the rose above
+
+</DIV>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+Author: Salvador Roura
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>

@@ -1,0 +1,96 @@
+# Naming and Appointing Officials
+
+Welcome to English as a Second Language Podcast number 5 16: Naming and Appointing Officials. 
+
+This is English as a Second Language Podcast number 516.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California. 
+
+We have a website at eslpod.com.  Go there to download a Learning Guide for this episode.  If you’re not a Learning Guide member, consider joining and supporting this podcast.  The Learning Guide is an addit ional help to improve your English even faster. 
+
+This episode is a dialogue between Goran and Anne.  It  is about when you have official appointments in a company or in a government.  When someone takes a new job – takes a new position, we have some particular vocabulary we use that will be discussed in dialogue.  Let’s get started. 
+
+[start of dialogue] 
+
+Goran:  Who do you think will be appointed to succeed Ra mon on the board?   
+
+Anne:  I don’t know whom they’ll pick to fill the positi on, but I know who the candidates are.  The higher ups have been quietly vettin g three people to make sure they don’t have any skeletons in their closets. 
+
+Goran:  Really?  Who are they? 
+
+Anne:  I’m not at liberty to say, but I think at least t wo of the candidates are people outside of the inner circle. 
+
+Goran:  You mean we might actually get a new board me mber who’s not buddy- buddy with the higher ups? 
+
+Anne:  All I can say is that two outsiders are under consid eration. 
+
+Goran:  Wow, that’s huge.  Can you at least tell me if  the remaining candidate is the interim board member?  Everybody thinks he has the in side track.   
+
+Anne:  I can’t tell you that.  The selection is being kep t under wraps until next Thursday.  I’ve already let slip too much.    
+
+ Goran:  Don’t worry.  My lips are sealed.   
+
+Anne:  They’d better be.  You know what they say about l oose lips. 
+
+Goran:  Yeah, and I’m not sinking this ship. 
+
+[end of dialogue] 
+
+Our dialogue begins with Goran asking Anne, “Who do you  think will be appointed to succeed Ramon on the board?”  “To be appo inted” means to be name or chosen, usually for some leadership position.  “To  succeed” can mean to be successful, but here it means to follow, the person  who takes over a job or a position from another person.  We often use this in talking about, for example, the president; we have certain rules in our laws about w hat happens if the president were to die, there is what is called “presiden tial succession.”  It comes from this verb “to succeed” when it means to take the pla ce of. 
+
+So, Goran is asking Anne who she thinks will be appointed  (named) to succeed Ramon on the board, probably the board of directors of  a company.  Anne says, “I don’t know whom they’ll pick to fill the position, bu t I know who the candidates are.”  “To fill a position,” or “to fill a job,” mea ns to find someone to take that job, to put someone in that job.  “We need to fill the po sition of secretary,” we need to find someone to work in that position, and when we fil l it, that means we found a person.  Anne says, “I know who the candidates are.”  The “candidates,” here, mean the people who are being considered for a particu lar position.  We use that word also in government.  You have different presidenti al candidates, but you can also have candidates for a position.  When I worked at  the university, every year usually we would have a hiring committee, a group of people who would decide how to fill the open teaching positions we had, and we would have different candidates that we would interview. 
+
+Anne says, “The higher ups have been quietly vetting thre e people.”  The “higher ups” refers to someone who works in management, a decision -maker, a leader. The expression is sort of informal, but you will hear it  in business context sometimes.  “Vetting” means to talk to different people , look at their information, and decide who is really the perfect person for this job,  who has the qualifications for this job, and who is not qualified.  “To vet” is th e verb (vet).  Once again, we use this sometimes in government.  When the president app oints important members of his government, there is someone who does the vetting – someone who looks into the background, usually to make sure that there isn’t anything bad in their past that would cause a problem.  
+
+ So, Anne says, “The higher ups have been quietly vetting t hree people to make sure they don’t have any skeletons in their closets.”  This i s what I was just talking about.  The expression “skeletons in their closets” refers to secrets about their past that might be damaging or embarrassing, thi ngs that would make them unqualified to take the job or position.  So for examp le, if you go and rob a bank and spend five years in prison and then you apply for a job, if they investigate your past – your background, they will find a skeleton in your closet, meaning they will find something that is negative about your backg round.  The word “skeleton” refers to a human being’s bones without anythi ng else on them, or not considering anything else.  If you had a skeleton in your closet, you probably killed someone and then hid them in your closet, which I  don’t recommend – you should bury them somewhere else! 
+
+Goran says, “Who are they?”  Anne says, “I’m not at libert y to say.”  When you say “I’m not at liberty to say,” you’re saying I can’t tel l you, I’m not able to tell you, I’m not free to tell you.  It’s a somewhat formal expre ssion.  Anne continues, “but I think at least two of the candidates are people outsi de of the inner circle.”  The expression “inner circle” refers to a small group of peop le who work together or who have the same information about something.  What Anne is saying here is that two of the people they are considering for the po sition aren’t people who are currently working at the company or currently at a leadersh ip position in the company, among those who are in the inner circle – the g roup of leaders, most probably. 
+
+Goran says, “You mean we might actually get a new board member who’s not buddy-buddy with the higher ups?”  “To be buddy-buddy” (buddy) means to be a close, personal friend of someone, to have a very close re lationship with someone.  It’s sometimes used in a negative way to say “Oh,  well.  He’s buddy- buddy with the boss, so the boss likes him a lot.”  That w ould mean he’s very friendly with the boss, but not in a way that I really l ike, or perhaps I’m a little jealous of him.  Goran obviously thinks that somebody who i s buddy-buddy with the higher ups is not the best person for the job. 
+
+Anne says, “All I can say is that two outsiders are under co nsideration,” meaning they’re being considered, they’re being discussed, they’re a possibility.  Goran says, “Wow, that’s huge.”  “That’s huge” is an informal e xpression meaning that it is very important, or it could be very important.  It’s an  expression that has become more popular in the last, probably, 10 or 15 yea rs.  “Wow, that’s huge.” Goran says, “Can you at least tell me if the remaining candidate is the interim board member?”  If you are “interim” (interim), you a re temporarily in a position; you are in a position, but you are not necessarily going to stay there.  So, if your  
+
+ president of your company resigns, they may appoint an int erim president until they have a chance to find the perfect person.  So, they w ill put someone there who they know won’t be there for very long, or at least has to apply for the job formally and be interviewed and vetted just like any oth er candidate. 
+
+Here, Goran is referring to an interim board member.   “Everybody thinks he has the inside track.”  “To have the inside track” is to have a n advantage in getting a job, usually because you know somebody in the company.  If I  was interviewing at the university and I was friends with one of the prof essors there, I might have an inside track, meaning I have an advantage over all the  other candidates because I have this relationship already with one of the  professors. 
+
+Anne says, “I can’t tell you that.  The selection is bein g kept under wraps until next Thursday.”  “To keep (something) under wraps” (wraps)  means to keep it secret, not to tell other people about it.  Anne says, “ I’ve already let slip too much.”  “To let (something) slip” (slip), or “to let sli p (something),” would mean to accidentally share a secret, to tell someone something th at you didn’t mean to tell them, something that is secret that you weren’t sup posed to tell them.  The word “slip” has a couple of different meanings in Engl ish, as does the word “fill” that we talked about earlier.  For both of those, take  a look at our Learning Guide for some additional explanations. 
+
+Goran says, “Don’t worry.  My lips are sealed.”  Your “lip s” are the opening to your mouth; on the front of your face you have an upper lip and a lower lip.  “To seal (something)” means to close it, so when someone says, “my lips are sealed,” they mean I will not open my mouth, I will no t tell anyone.   
+
+Anne says, “They’d better be,” meaning you better not te ll anyone.  “You know what they say about loose lips.”  The expression “loose lips ” refers to people who talk too much, who tell people secrets.  There’s an old  expression: “Loose lips sink ships.”  “To sink” means to, in this case, take a ship or  a boat and make it go down into the water, which, of course, is not want you w ant your boat or ship to do.  I believe the expression comes from World War I.  W hen you said “loose lips sink ships” back then, the idea was that you shouldn’t tell  anyone, if you are working in the military for example, what the plans ar e or anything about military secrets, because there could be other people who are you r enemies (spies) listening, and that could hurt people who are on those  ships.  Of course, that would happen in a war.  The enemy would find out whe re your ship is because you were telling secrets, and that could give them the op portunity to sink the ship. 
+
+ So, Anne says, “You know what they say (you know the expressi on) about loose lips.”  Goran says, “Yeah, and I’m not sinking this ship,” I’m not going to damage anything or hurt anything by telling anyone anything tha t I know. 
+
+Now let’s listen to the dialogue, this time at a norma l speed. 
+
+[start of dialogue] 
+
+Goran:  Who do you think will be appointed to succeed Ra mon on the board?   
+
+Anne:  I don’t know whom they’ll pick to fill the positi on, but I know who the candidates are.  The higher ups have been quietly vettin g three people to make sure they don’t have any skeletons in their closets. 
+
+Goran:  Really?  Who are they? 
+
+Anne:  I’m not at liberty to say, but I think at least t wo of the candidates are people outside of the inner circle. 
+
+Goran:  You mean we might actually get a new board me mber who’s not buddy- buddy with the higher ups? 
+
+Anne:  All I can say is that two outsiders are under consid eration. 
+
+Goran:  Wow, that’s huge.  Can you at least tell me if  the remaining candidate is the interim board member?  Everybody thinks he has the in side track.   
+
+Anne:  I can’t tell you that.  The selection is being kep t under wraps until next Thursday.  I’ve already let slip too much.   
+
+Goran:  Don’t worry.  My lips are sealed.   
+
+Anne:  They’d better be.  You know what they say about l oose lips. 
+
+Goran:  Yeah, and I’m not sinking this ship. 
+
+[end of dialogue] 
+
+I’m pretty sure our scriptwriter doesn’t have any skeleton s in her closet, that’s because it’s Dr. Lucy Tse.   
+
+ From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast. 
+
+English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2009 by the Center  for Educational Development.
+

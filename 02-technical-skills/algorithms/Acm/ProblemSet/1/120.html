@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Stacks of Flapjacks</TITLE>
+<META NAME="description" CONTENT="Stacks of Flapjacks">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Stacks of Flapjacks</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Background</A></FONT></H2>
+<P>
+Stacks and Queues are often considered the bread and butter of data
+structures and find use in architecture, parsing, operating systems, and
+discrete event simulation.  Stacks are also important in the theory of
+formal languages.
+<P>
+This problem involves both butter and sustenance in the form of pancakes
+rather than bread in addition to a finicky server who flips pancakes
+according to a unique, but complete set of rules.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+<P>
+Given a stack of pancakes, you are to write a program that indicates how
+the stack can be sorted so that the largest pancake is on the bottom
+and the smallest pancake is on the top.  The size of a pancake is given
+by the pancake's diameter.  All pancakes in a stack have different
+diameters.
+<P>
+Sorting a stack is done by a sequence of pancake ``flips''.  A flip
+consists of inserting a spatula between two pancakes in a stack and
+flipping (reversing) 
+ the pancakes on the spatula (reversing the sub-stack).  A
+flip is specified by giving the position of the pancake on the bottom of
+the sub-stack to be flipped (relative to the whole stack).  The pancake
+on the bottom of the whole stack has position 1 and the pancake on the
+top of a stack of <I>n</I> pancakes has position <I>n</I>.
+<P>
+A stack is specified by giving the diameter of each pancake in the
+stack in the order in which the pancakes appear.
+<P>
+For example, consider the three stacks of pancakes below 
+(in which pancake 8 is the top-most pancake of the left stack):
+<PRE>         8           7           2
+         4           6           5
+         6           4           8
+         7           8           4
+         5           5           6
+         2           2           7</PRE>
+The stack on the left can be transformed to the stack in the middle 
+via <EM>flip(3)</EM>.  The middle stack can be transformed into the right
+stack via the command <EM>flip(1)</EM>.
+<P>
+</U><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>
+The input consists of a sequence of stacks of pancakes.  Each stack will
+consist of between 1 and 30 pancakes and each pancake will have an
+integer diameter between 1 and 100.  The input is terminated by
+end-of-file.  Each stack is given as a single line of input with the top
+pancake on a stack appearing first on a line, the bottom pancake
+appearing last, and all pancakes separated by a space.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>
+For each stack of pancakes, the output should echo the original stack on
+one line, followed by some sequence of flips that results in the stack
+of pancakes being sorted so that the largest diameter pancake is on the
+bottom and the smallest on top.  For each stack the sequence of flips
+should be terminated by a 0 (indicating no more flips necessary).  Once
+a stack is sorted, no more flips should be made.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>1 2 3 4 5
+5 4 3 2 1
+5 1 2 3 4</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>1 2 3 4 5
+0
+5 4 3 2 1
+1 0
+5 1 2 3 4
+1 2 0</PRE>
+<P>
+</BODY>
+</HTML>

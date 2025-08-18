@@ -32,8 +32,17 @@
 
 語言學習與寫作技能
 
-- **english-learning/**: 英語學習資源與方法
-- **writing/**: 寫作技巧與表達能力
+**english-learning/**: 英語學習資源與方法
+**writing/**: 寫作技巧與表達能力
+**xiaolai/**: 小賴學習與寫作專區
+  - EFFICIENT_READING_AND_ANALYSIS_GUIDE.md：高效閱讀與分析指南
+  - GEMINI.md：Gemini 筆記
+  - REBORN_CHECKLIST.md：重生檢查清單
+  - REBORN_STYLE_ANALYSIS.md：重生風格分析
+  - WRITING_STYLE_ANALYSIS.md：寫作風格分析
+  - reborn/：重生系列文章（A01~A33, B02~B13, C01~C05, Preface, README 等）
+  - time-as-a-friend/：以時間為友系列（Chapter0~7, Preface, Forword, README 等）
+  - 其他：images/、pdfs/ 等輔助資源
 
 ### 04-wisdom-philosophy/ 智慧哲學
 

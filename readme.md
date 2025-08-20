@@ -17,32 +17,29 @@
   - 超速學習與學習科學相關書籍筆記
   - 學習思維導圖
 - **note-taking/**: 筆記方法與知識管理
+- **xiaolai/**: 李笑來寫作、學習方法論
 - **deliberate-practice-patterns.md**: 刻意練習模式研究
 - **go-from-18k-to-1d.md**: 圍棋學習專案 (18k→1d)
-- **xiaolai/**: 學習與寫作專區
-  - EFFICIENT_READING_AND_ANALYSIS_GUIDE.md：高效閱讀與分析指南
-  - GEMINI.md：Gemini 筆記
-  - REBORN_CHECKLIST.md：重生檢查清單
-  - REBORN_STYLE_ANALYSIS.md：重生風格分析
-  - WRITING_STYLE_ANALYSIS.md：寫作風格分析
-  - reborn/：重生系列文章（A01~A33, B02~B13, C01~C05, Preface, README 等）
-  - time-as-a-friend/：以時間為友系列（Chapter0~7, Preface, Forword, README 等）
-  - 其他：images/、pdfs/ 等輔助資源
+- **Learning-principles.md**: 學習原則
+- **高效學習 - 模仿分解鞏固精通.md**: 高效學習方法
 
 ### 02-technical-skills/ 技術技能
 
 程式設計與電腦科學領域
 
 - **computer-science/**: 電腦科學基礎理論 (含 Nand2tetris)
-- **programming/**: 程式設計實務 (含嵌入式系統)
+- **embedded-system/**: 嵌入式系統
 - **algorithms/**: 演算法與競程訓練 (含 ACM)
 
 ### 03-communication/ 溝通表達
 
 語言學習與寫作技能
 
-**english-learning/**: 英語學習資源與方法
-**writing/**: 寫作技巧與表達能力
+- **English/**: 英語學習資源與方法
+- **writing/**: 寫作技巧與表達能力
+- **哈利波特系列英文閱讀中的 i+1 原則示例.pdf**: i+1 原則示例
+- **英語自學系列：掌握可理解輸入的秘訣.pdf**: 可理解輸入法
+- **Sufficient, Compelling, Comprehensible Input_ A Self-Study English Guide.pdf**: A Self-Study English Guide
 
 ### 04-wisdom-philosophy/ 智慧哲學
 
@@ -61,6 +58,7 @@
 - **submodule/**: Git 子模組資源
   - Donald Knuth 作品收藏
   - TAOCP 讀書會資料
+- **Notes-book-Lost-in-Thought.md**: "Lost in Thought" 讀書筆記
 
 ## 學習發展路徑
 
@@ -133,4 +131,4 @@
 
 *「知識投資的回報最豐厚。」* - 班傑明·富蘭克林
 
-最後更新：2025年8月16日
+最後更新：2025年8月20日

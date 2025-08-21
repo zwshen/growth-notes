@@ -44,7 +44,7 @@ Winnie has a curfew of 11 p.m., meaning she must be  back at her house by 11:00 
 
 Finn says, “My mom is so overprotective that she wo n’t let me go to any parties.” “To be protective” of someone means to try to take care of someone, to make sure that a person isn’t hurt in any way. “To be ov erprotective” (overprotective)
 
-means to go too far, to be too protective of someon e, so much so that you are preventing that person perhaps from doing what he w ants to do. The prefix “over” always means too much of something. So, “to overfil l” your glass with water is to put too much water in your glass. “To overprotect” means to protect too much.
+means to go too far, to be too protective of someon e, so much so that you are preventing that person perhaps from doing what he wants to do. The prefix “over” always means too much of something. So, “to overfil l” your glass with water is to put too much water in your glass. “To overprotect” means to protect too much.
 
 Winnie then says, “Unbelievable.” Something that is  “unbelievable” could be something that is impossible to believe. However, W innie is using this word to show how surprised she is by something, especially in a way that indicates that she disapproves or thinks it’s wrong. Winnie says, “Do your parents get on your case all the time like mine do?” “To get on someone ’s case” (case) means to bother someone by telling him all the things he’s d oing wrong. Another term for this is the verb “to nag” (nag), which comes up in the very next sentence.
 
@@ -66,7 +66,7 @@ Finn’s parents compare him to his more intelligent or “smarter” brothers. 
 
 Finn says, “I’m always coming up short.” The expres sion “to come up short” means to disappoint, not to be as good as someone e xpects you to be. It can also mean to get fewer points than you need to win a game. If we say that the Los Angeles Dodgers tried very hard to win their ga me but “came up short,” we mean they didn’t have a high enough score to win the game.
 
-Winnie says, “My parents are never satisfied either .” “To be satisfied” (satisfied) means to be happy. It’s the opposite of “disappoint ed.” It means that you are happy because someone met your expectations. You ar e pleased, or we might say you are “content” (content). Winnie says that h er parents are always saying that her “grades,” her marks at school, “aren’t goo d enough” and that her “attitude needs improving.” “Attitude” (attitude) m eans how you view the world or how you react to things. Teenagers often have a poo r attitude in the minds of their parents.
+Winnie says, “My parents are never satisfied either .” “To be satisfied” (satisfied) means to be happy. It’s the opposite of “disappoint ed.” It means that you are happy because someone met your expectations. You are pleased, or we might say you are “content” (content). Winnie says that h er parents are always saying that her “grades,” her marks at school, “aren’t goo d enough” and that her “attitude needs improving.” “Attitude” (attitude) m eans how you view the world or how you react to things. Teenagers often have a poo r attitude in the minds of their parents.
 
 Finn says, “At least your parents don’t embarrass y ou by fighting all the time, even in public.” Notice that several times in this dialogue, our characters say “at least.” This is often used as a way of introducing a statement that will be even worse than the situation that you just described. F or example, someone may say, “I’m really tired and I have to work all day.” Some one else will say, “Well, at least you get to go home to a nice house when you’re done  working. I have to work all day and I have to go visit my mother-in-law when I’ m done working.” He’s saying that his situation is even worse than your bad situ ation.
 
@@ -74,7 +74,7 @@ Finn says, “At least your parents don’t embarrass y ou by fighting all the t
 
 Winnie says, “We have such hard lives,” meaning we have very difficult lives. “Nobody understands us.” Finn says, “I know. Nobody  in history,” meaning no one ever before this time, “has ever suffered as mu ch as we have.” “To suffer” (suffer) means to experience some pain, either phys ical or in this case emotional. Winnie and Finn, like many teenagers, believe that their lives are the most difficult lives anyone has ever had to live.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -152,7 +152,7 @@ Regina that begins our dialogue by saying, “Hello, this is Horizon.” She’s
 
 Bob says that there is a problem with his bill. The re is a “billing error” (error). An “error” is a mistake. A “billing error” is a mistak e in the amount of money that the company says you have to pay. Bob is calling “to di spute” (dispute) his bill. “To dispute” means to disagree about something, especia lly when you think there is something wrong. In this case, Bob thinks there’s s omething wrong with his bill, so he’s disputing it. He’s saying “No, that’s wrong , that’s incorrect.” We often use this verb when there are problems with money and the amount of money on a bill.
 
-Regina says, “Let me take a look at your statement. ” A “statement” (statement) here refers to a written report – or again, nowaday s, an electronic report – that shows all of your financial activity over a certain  period of time. For example, many of us have credit cards. Every month, the cred it card company sends us a “statement” which has a list of all the things we b ought with our credit card as well as how much money we paid to the credit card c ompany during that same area of time. That’s a “statement.” Regina is going  to look at Bob’s statement – electronically, of course.
+Regina says, “Let me take a look at your statement. ” A “statement” (statement) here refers to a written report – or again, nowadays, an electronic report – that shows all of your financial activity over a certain  period of time. For example, many of us have credit cards. Every month, the cred it card company sends us a “statement” which has a list of all the things we b ought with our credit card as well as how much money we paid to the credit card c ompany during that same area of time. That’s a “statement.” Regina is going  to look at Bob’s statement – electronically, of course.
 
 She says, “Your last bill was $650 and it is past d ue.” If a bill is “past (past) due (due),” it is late. It has not been paid on time an d still needs to be paid. We may also use the term “overdue” (overdue). A bill that is “overdue” or “past due” is a bill that has not been paid on time. So if you have  to pay your rent on the first of
 
@@ -168,7 +168,7 @@ Regina says she doesn’t see a “record” (record) of any previous calls. A r
 
 The use of the word “Look” (look) in this sentence is to get someone’s attention. In conversational English, if we want a person to p ay attention, perhaps because he hasn’t been listening very closely up to this po int, we might say, “Look.” We might also say, “Listen.” They mean the same thing,  even though of course “look” is something you do with your eyes, and “listen” is  something you do with your ears. The point is that we’re not saying they shoul d actually look with their eyes, but rather that they should listen to what you’re s aying.
 
-Bob says, “Look, I just want to get this sorted out .” “To sort (sort) out” something, in this case, means to fix the problem, to take car e of this situation, to find a solution to the problem. “To sort out” can also mea n to take a group of things and put them in different categories. But here, “to sor t out” means to get fixed. Bob
+Bob says, “Look, I just want to get this sorted out .” “To sort (sort) out” something, in this case, means to fix the problem, to take care of this situation, to find a solution to the problem. “To sort out” can also mea n to take a group of things and put them in different categories. But here, “to sor t out” means to get fixed. Bob
 
 wants to sort out this problem. Why? Because he doe sn’t want his service with this company, whatever this company does for him, “ to be disconnected.”
 
@@ -196,7 +196,7 @@ Regina says, “Certainly, sir. Let me have a supervi sor call you back when she
 
 Bob says, “I just hope she calls me back before my service is” – and then suddenly the phone call, the conversation between R egina and Bob, ends. The idea here of course, and the joke, is that Bob’s ph one service has ended because he hasn’t paid his bill. We know he hasn’t paid his bill because of a problem that Horizon apparently has made with his b ill or has caused, and now he doesn’t have phone service so that the superviso r won’t be able to talk to him after all. This, of course, is the worst possible c ase for poor Bob.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -232,7 +232,7 @@ Bob: I just hope she calls me back before my servic e is [call ends].
 
 There’s no disputing the fact that we have the best  scriptwriter on the internet here at ESL Podcast. I speak, of course, of the won derful Dr. Lucy Tse.
 
- From Los Angeles, California, I’m Jeff McQuillan. T hanks for listening. Come back and listen to us again right here on ESL Podca st.
+ From Los Angeles, California, I’m Jeff McQuillan. Thanks for listening. Come back and listen to us again right here on ESL Podca st.
 
 # Expressing Gratitude
 
@@ -256,7 +256,7 @@ Gina: That’s too informal.
 
 Mark: Fine, if you say so. What comes next?
 
-Gina: Well, then I say, “I want to wholeheartedly t hank those who stuck with us and who never let us down.”
+Gina: Well, then I say, “I want to wholeheartedlythank those who stuck with us and who never let us down.”
 
 Mark: That’s too impersonal. How about, “Hey Emilia no, you’re totally awesome. And you, Tania? You’re absolutely fab.
 
@@ -302,11 +302,11 @@ Mark also says that Gina should just “give a shout- out to the people who have
 
 Mark says that then Gina should jump off the stage and walk through the audience “to high-five everybody.” “To high (high) – five (five)” someone is to put your hand up as they put their hand up, their arm i n the air, and you hit each other’s hand. You hit their hand, or his hand or he r hand, as a way of showing excitement or as a way, in this case, of thanking t he people. Mark is suggesting a very unusual, informal way of thanking people.
 
-Gina says, “I’ll remember that,” meaning I will thi nk of your advice, “the next time I speak to a group of 10-year-olds!” Gina is sort o f making a joke here. She’s saying that what Mark is suggesting is more appropr iate for giving a speech to a
+Gina says, “I’ll remember that,” meaning I will thi nk of your advice, “the next time I speak to a group of 10-year-olds!” Gina is sort of making a joke here. She’s saying that what Mark is suggesting is more appropr iate for giving a speech to a
 
 group of children rather than to adults because of the informal ways that Mark is suggesting Gina deliver her speech.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -322,7 +322,7 @@ Gina: That’s too informal.
 
 Mark: Fine, if you say so. What comes next?
 
-Gina: Well, then I say, “I want to wholeheartedly t hank those who stuck with us and who never let us down.”
+Gina: Well, then I say, “I want to wholeheartedlythank those who stuck with us and who never let us down.”
 
 Mark: That’s too impersonal. How about, “Hey Emilia no, you’re totally awesome. And you, Tania? You’re absolutely fab.
 
@@ -434,7 +434,7 @@ I say, “Ah, okay! Then you should say” – and I give  another common expres
 
 “Tomorrow is the first day of the rest of my life” – unless of course you die today, in which case tomorrow is not anything.
 
-I then say, “I’m off to bigger and better things!” “I’m off to” means I am leaving now to go on to bigger and better things, a better situation. Then I use a third expression which is quite different and is actually  an informal way of saying goodbye sometimes, “I’m blowing this pop stand!” “T o blow this pop (pop) stand (stand)” means that you are leaving a place. You ar e saying goodbye to everyone, probably because you think the place you are in is boring or the situation you are in is unpleasant, one that isn’t very exciting, one that makes you want to leave.
+I then say, “I’m off to bigger and better things!” “I’m off to” means I am leaving now to go on to bigger and better things, a better situation. Then I use a third expression which is quite different and is actually  an informal way of saying goodbye sometimes, “I’m blowing this pop stand!” “T o blow this pop (pop) stand (stand)” means that you are leaving a place. You are saying goodbye to everyone, probably because you think the place you are in is boring or the situation you are in is unpleasant, one that isn’t very exciting, one that makes you want to leave.
 
 A “stand” is a small store, often outside, where yo u sell things from. You might sell things such as soda pop, and hence the express ion “pop stand.” People also nowadays say, “Oh, I’m going to blow this popsicle stand,” or “Let’s blow this popsicle stand.” A “popsicle” is a frozen dessert, basically sugar water that has been frozen. So, “I’m blowing this pop stand,” or i f you say to someone else, “Let’s blow this popsicle stand,” are both ways of saying that you are now leaving this place because it’s too boring or too unexcitin g for you.
 
@@ -448,7 +448,7 @@ Then I say to Lucy, “Now are you ready to leave?” L ucy says, “I guess so.
 
 Then Lucy and I give a number of ways of saying goo dbye in different languages. I won’t repeat those here. I do say one thing in En glish using another very old way of saying goodbye, which is “Toodle loo!” “Tood le (toodle) loo (loo)” is a funny, informal way saying goodbye nowadays. It’s a ctually taken from a French word, but it is a very, we would call, “corrupt” pr onunciation. “Toodle loo” is just a funny way of saying goodbye.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -506,5 +506,5 @@ Lucy & Jeff: Thank you and goodbye.
 
 As I tried to do in every episode, I want to thank our wonderful scriptwriter, Dr. Lucy Tse, for all of her 1,305 wonderful scripts, a nd both Lucy and I thank you for listening.
 
-From Los Angeles, California, I’m Jeff McQuillan. T hank you for listening. So long.
+From Los Angeles, California, I’m Jeff McQuillan. Thank you for listening. So long.
 

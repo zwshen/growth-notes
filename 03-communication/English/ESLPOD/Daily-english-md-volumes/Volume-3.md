@@ -6,7 +6,7 @@ complete transcript of this podcast.
 
 From Los Angeles, California, I'm Jeff McQ uillan.  Thanks for listening.  We'll see you next time on ESL Podcast.
 
- English as a Second Language Podcast is written and produced by Dr. Lucy Tse, hosted by Dr. Jeff McQ uillan.  This podcast is copyright 2006.
+
 
 # Text Messaging
 
@@ -100,7 +100,7 @@ The script for today's podcast was written by one of our college interns, Clara 
 
 That's all we have time for today.  From Los Angeles, California, I'm Jeff McQ uillan.  Thanks for listening.  We'll see you next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produced by Dr. Lucy Tse, hosted by Dr. Jeff McQ uillan.  This podcast is copyright 2006.
+
 
 # Using Visuals in a Presentation
 
@@ -186,7 +186,7 @@ Milo:  You don’t need to treat, but I’d be happy to have lunch together.  Le
 
 The script for today’s podcast was written by Dr. Lucy Tse.  That’s all we have time for today.  From Los Angeles, California, I’m Jeff McQ uillan, thanks for listening.  We’ll see you next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produced by Dr. Lucy Tse, hosted by Dr. Jeff McQ uillan.  This podcast is copyright 2006.
+
 
 # Shopping for Shoes
 
@@ -270,7 +270,7 @@ Carlos:  Oh, that would really suck.  Okay, you’ve made your point.  Things co
 
    That's all we have time for today.  From Los Angeles, California, I'm Jeff McQ uillan.  Thank you for listening.  We'll see you next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produced by Dr. Lucy Tse, hosted by Dr. Jeff McQ uillan.  This podcast is copyright 2006.
+
 
 # Giving Birth in a Hospital
 
@@ -350,7 +350,7 @@ Adam:  Yes, do that.  That seems like the logical next step.
 
 From Los Angeles, California, I'm Jeff McQ uillan.  Thanks for listening.  We'll see you next time on ESL Podcast.
 
- English as a Second Language Podcast is written and produced by Dr. Lucy Tse, hosted by Dr. Jeff McQ uillan.  This podcast is copyright 2006.
+
 
 # Extreme Sports
 
@@ -452,7 +452,7 @@ Ryan:  Thanks and let me know if you change your mind.
 
 [End of story]
 
-The script for this podcast was by Dr. Lucy Tse.
+
 
 
 
@@ -710,7 +710,7 @@ Our script today was by Dr. Lucy Tse.  She needs a raise too, I think.
 
 If you have questions or comments about our podcast, feel free to email us at eslpod@eslpod.com.  From Los Angeles, California, I'm Jeff McQ uillan.  Thanks for listening.  We'll see you next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produced by Dr. Lucy Tse, hosted by Dr. Jeff McQ uillan.  This podcast is copyright 2006.
+
 
 # Buying a Bicycle
 
@@ -718,7 +718,7 @@ complete transcript of this podcast.
 
 From Los Angeles, California, I'm Jeff McQ uillan.  Thanks for listening.  We'll see you next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produced by Dr. Lucy Tse, hosted by Dr. Jeff McQ uillan.  This podcast is copyright 2006.
+
 
 # A Jealous Girlfriend
 
@@ -832,7 +832,7 @@ Dominick:  Thanks.  I will.
 
 From Los Angeles, California, I'm Jeff McQ uillan.  Thank you for listening.  We'll see you next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produced by Dr. Lucy Tse, hosted by Dr. Jeff McQ uillan.  This podcast is copyright 2006.
+
 
 # Getting a Men¡¦s Haircut
 
@@ -946,7 +946,7 @@ If you have a question or comment about our podcast, you can email us.  Our emai
 
 From Los Angeles, California, I'm Jeff McQ uillan.  Thanks for listening.  We'll see you next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produced by Dr. Lucy Tse, hosted by Dr. Jeff McQ uillan.  This podcast is copyright 2006.
+
 
 # Outsourcing Operations
 
@@ -2517,7 +2517,7 @@ The clerk says, “Help yourself to their brochures.”   He's talking about the
 
 Victor then asks if the clerk has a map.  The clerk  does, and gives him one, and Victor thanks him.  He says, “You’ve been a big hel p.”  That's another way of saying you have helped me a lot.
 
-Now let's listen to the dialogue, this time at a no rmal speed.
+Now let's listen to the dialogue, this time at a normal speed.
 
 [start of story]
 

@@ -48,7 +48,7 @@ Chad:  Oh, God!
 
 [end of dialogue]
 
-Chad begins our dialogue by saying to Pamela, “Okay, this report is finished.”  A “report” is a document that summarizes some information about a particular topic, often as a result of research on that topic.  Pame la says, “Oh, not quite (meaning no, it isn’t finished yet – not quite).  I’m  still working on the formatting.” The “formatting” is the ways that words are printed or displayed in electronic documents; it’s the visible style of the words, how they appear on the page. Chad says, “We used the standard formatting for this type of report.”  “Standard” in many business uses typically means the basic, ordinary, norm al, expected type of whatever it is you’re talking about.  So, the “ standard formatting” would be the formatting that their company always uses for these kinds of reports.  Chad says, “I don’t think we should play around with the text .”  “To play around” is a phrasal verb which here means to change without really ne eding to change. “Play around” can often just mean to look at something  closely to try different options.  In this case, it’s used somewhat as a negative to mean that it’s a waste of time.  The “text” are the written words, what you have actually written.
+Chad begins our dialogue by saying to Pamela, “Okay, this report is finished.”  A “report” is a document that summarizes some information about a particular topic, often as a result of research on that topic.  Pame la says, “Oh, not quite (meaning no, it isn’t finished yet – not quite).  I’m  still working on the formatting.” The “formatting” is the ways that words are printed or displayed in electronic documents; it’s the visible style of the words, how they appear on the page. Chad says, “We used the standard formatting for this type of report.”  “Standard” in many business uses typically means the basic, ordinary, normal, expected type of whatever it is you’re talking about.  So, the “ standard formatting” would be the formatting that their company always uses for these kinds of reports.  Chad says, “I don’t think we should play around with the text .”  “To play around” is a phrasal verb which here means to change without really ne eding to change. “Play around” can often just mean to look at something  closely to try different options.  In this case, it’s used somewhat as a negative to mean that it’s a waste of time.  The “text” are the written words, what you have actually written.
 
 Pamela says, “Standard is boring.”  Standard formatting , she means, is boring; it’s not interesting.  She says, “I want our report to be special (to be different). I’m putting a nice border on the cover, adding some shad ing, and centering some of the text.”  A “border” is a line or some sort of ar tistic design that goes around text or other images, usually it is rectangular in shape.  It’s like a big box that goes around everything else, often a black line.  “Shadi ng” is gray area behind the text – behind the writing or behind objects.  It’s often used for emphasis.  You might make a certain sentence gray, meaning that the ba ckground is gray but the actual type – the actual text is still in black in order to emphasize a particular sentence.  Usually in black and white documents shading is w hat we call the color between black and white, which is gray.  “Shading” has a couple of other meanings however, and those can be found only in our Lea rning Guide.  “To center” (center) means to put the text on the page so th at each sentence is in the
 
@@ -62,7 +62,7 @@ Pamela says, “Readability is secondary to presentation.”  “Secondary” me
 
 Pamela says, “Look (meaning I want you to listen to me) , I’m just putting some of the titles in caps and underlining them, adding some bu llets, and putting some of the important sections in bold or italics.”  Several for matting terms there, let’s start with “caps” (caps).  “Caps” refers to – or is short for capital letters.  We sometimes call these upper-case letters; they are the larg e form of the letter.
 
- You also have lower-case letters; these are smaller form s of the letters.  So in English, sentences always begin with a capital letter.  the first letter, in other words, is in caps – that is, a capital letter.  To put a n entire word in caps would mean to capitalize the entire word, all of the lette rs are upper case.  “To underline” means to put a usually black horizontal line underneath, or below a sentence.  A “bullet” (bullet) in formatting is a small  mark, often a round circle that is used at the beginning of each item in a list.  You o ften will see what are called “bullet points.”  Bullet points are the same as bullet s; they are usually small white or black circles that go in front of a list of things – e ach item, each thing on that list.  “Bullet” has other meanings in English as well,  and those can be found in the Learning Guide.  If you don’t know them, you might wa nt to learn them because it could save your life!  “Bold” (bold) are letters that ar e thicker and darker than the other letters around them, usually we use this to emphasi ze a particular word, to make it, we would say, “stand out,” to make it noticeabl e.  Finally, Pamela talks about italics.  “Italics” is when the letters are printe d at an angle so that it looks more like handwriting.  Again, this is used for emphasis.
+ You also have lower-case letters; these are smaller form s of the letters.  So in English, sentences always begin with a capital letter.  the first letter, in other words, is in caps – that is, a capital letter.  To put a n entire word in caps would mean to capitalize the entire word, all of the lette rs are upper case.  “To underline” means to put a usually black horizontal line underneath, or below a sentence.  A “bullet” (bullet) in formatting is a small  mark, often a round circle that is used at the beginning of each item in a list.  You o ften will see what are called “bullet points.”  Bullet points are the same as bullet s; they are usually small white or black circles that go in front of a list of things – e ach item, each thing on that list.  “Bullet” has other meanings in English as well,  and those can be found in the Learning Guide.  If you don’t know them, you might wa nt to learn them because it could save your life!  “Bold” (bold) are letters that are thicker and darker than the other letters around them, usually we use this to emphasi ze a particular word, to make it, we would say, “stand out,” to make it noticeabl e.  Finally, Pamela talks about italics.  “Italics” is when the letters are printe d at an angle so that it looks more like handwriting.  Again, this is used for emphasis.
 
 So Pamela says that she’s going to put some of the titles in caps and underline them, she’s going to add some bullets or some bullet p oints, and she’s going to put some of the important sections in bold or italics.  “ This will all make each page more professional,” she says.  Chad says, “I don’t thi nk it’s going to have your intended effect.”  The “intended effect” is the re sult that you want to achieve; is what you plan to do or hope to have happen as a resu lt of your actions.  If you walk up to a beautiful woman in a bar and you say to h er, “Do you come here often?” the intended effect is for her to start a conver sation with you.  However, the more probable effect is for her to ignore you or turn the other way.  Well, at least that’s what always used to happen to me!
 
@@ -102,9 +102,9 @@ Chad:  Oh, God!
 
 I apologize for our episode going a little long today.   Who knew formatting text could be so fascinating?!  Well, Lucy Tse – Dr. Lucy Tse to yo u – knows, and we thank her for her efforts.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Types of Car and Vehicles
 
@@ -112,7 +112,7 @@ Welcome to English as a Second Language Podcast number 6 09: Types of Cars and V
 
 This is English as a Second Language Podcast episode 609.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California.
 
-Go to our website at eslpod.com and download a Learnin g Guide for this episode that will help you improve your English even faster.
+Go to our website at eslpod.com and download a Learning Guide for this episode that will help you improve your English even faster.
 
 This episode is called “Types of Cars and Vehicles.”  It’s a dialogue between Robert and Mary, where we’re going to hear a lot of vocabulary related to types, or kinds, of cars.  Let’s get started.
 
@@ -144,7 +144,7 @@ Robert:  Eleven?  In that case, you might want to buy tw o!
 
 The scene of this dialogue is a “car dealership,” a place where they sell new cars.  The salesperson is named Robert, and Robert begins our dialogue by saying, “Hi, I’m Robert.  What are you in the market for today?”  “To be in the market for (something)” means to be shopping for somet hing, to be considering a certain kind of something that is available for sale; you’ re deciding which one you’re going to buy.  You might say, “I’m in the market for a new phone.”  I really need a new phone.  I wish the listeners of ESL Podcast w ould give me an iPhone and an iPad.  That’s what I’m in the market for; I’m going to buy them.  Of course, if someone gave them to me, I would not say no!
 
-Well, Mary is in the market for buying a new car, or sim ply in the market for a new car.  She says, “I want to buy a new car, but I’m no t sure what I want.” Robert says, “Well, you’ve come to the right place (you ar e in the right place). We have a very large selection of cars and trucks – just abou t any type of vehicle you can think of.”  A “truck” is a large vehicle used to ca rry things, not just carry people.  Usually there is an open area in the back of the vehicle to put large objects.  The expression “just about” means almost or appro ximately.  “What time is it?”  “It’s just about noon.”  Or, you could say, “We  have just about every kind of dessert here.  Cakes, pies, cookies, ice cream, candy, and so forth.”  So, “just about” is almost or approximately, but there are some ot her meanings you can find in our Learning Guide for these words.
+Well, Mary is in the market for buying a new car, or sim ply in the market for a new car.  She says, “I want to buy a new car, but I’m no t sure what I want.” Robert says, “Well, you’ve come to the right place (you are in the right place). We have a very large selection of cars and trucks – just abou t any type of vehicle you can think of.”  A “truck” is a large vehicle used to ca rry things, not just carry people.  Usually there is an open area in the back of the vehicle to put large objects.  The expression “just about” means almost or appro ximately.  “What time is it?”  “It’s just about noon.”  Or, you could say, “We  have just about every kind of dessert here.  Cakes, pies, cookies, ice cream, candy, and so forth.”  So, “just about” is almost or approximately, but there are some ot her meanings you can find in our Learning Guide for these words.
 
 Robert says they have just about any type of vehicle you can t hink of.  “Vehicle” (vehicle) is any large machine with an engine that is used  to carry people or things from one place to another.  It could be a car; i t could be a truck; it could be a motorcycle, anything that has a motor – an engine – th at is used to move people from one place to another.  Robert says, “Why do n’t I show you around?” “Why don’t” here means I think it is a good idea.  “To  show (someone) around” is a phrasal verb meaning to give you a tour of an area or to show you what, in this case, the store has for sale.
 
@@ -192,9 +192,9 @@ Robert:  Eleven?  In that case, you might want to buy tw o!
 
 She can write scripts on just about any topic, that’s our own Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Preparing to Travel
 
@@ -246,7 +246,7 @@ Shannon:  Why don’t you ask the people who worked at tho se kennels where Rex 
 
 Shannon begins the dialogue by saying, “It looks like you’r e ready for your trip. You must be psyched.”  “To be psyched” (psyched) means to be very excited about something.  It’s a very informal expression; it mean s you are mentally prepared for something, something that you want to d o, that you are looking forward to do.
 
-Ignacio says, “Yeah, I am.  I’m almost ready (I’m nearly ready, not quite).  I’ve gone to the post office and filled out a form (a piece  of paper) so they’ll hold my mail while I’m gone.”  “To hold the mail,” or “hold  your mail” means not to have your mail delivered to your house for a specific period o f time.  In other words, the post office, the local building where the mail is t aken care of, they will keep your mail at the post office while you are on vacation.  The reason people do this is because they don’t want all this mail coming to their house and people would realize they weren’t there and therefore they might tr y to steal something.  So, it’s very common for people to hold their mail when they go on a long vacation, let’s say a week or more.  That’s what Ignacio is doing.
+Ignacio says, “Yeah, I am.  I’m almost ready (I’m nearly ready, not quite).  I’ve gone to the post office and filled out a form (a piece  of paper) so they’ll hold my mail while I’m gone.”  “To hold the mail,” or “hold  your mail” means not to have your mail delivered to your house for a specific period of time.  In other words, the post office, the local building where the mail is t aken care of, they will keep your mail at the post office while you are on vacation.  The reason people do this is because they don’t want all this mail coming to their house and people would realize they weren’t there and therefore they might tr y to steal something.  So, it’s very common for people to hold their mail when they go on a long vacation, let’s say a week or more.  That’s what Ignacio is doing.
 
  Shannon says, “I could pick up your mail for you (I could d rive to your house every day or every other day – every second day, and get it f or you).”  Ignacio says, “Thanks, but it’ll just be easier this way.  I’ve also ca lled the newspaper office to have my newspaper delivery suspended.”  “To susp end (something)” means to temporarily – for a short time – stop doing som ething.  You plan on doing it again in the future, but for right now you  don’t want it done.  In this case, Ignacio is suspending his newspaper delivery, where they com e every morning and bring a newspaper to your house.  I have my newspap er delivered every morning.  Well, Ignacio, because he’s going to be gone,  doesn’t want a bunch of newspapers sitting outside his house, which is, again, som ething that if you were a thief – if you were someone who likes to rob or stea l things from houses, you would see that and think the person is not at home and you can break into their house.  It’s the same idea as we mentioned about the ma il.  “Suspend” has a couple of different meanings in English; you can find those in this episode’s Learning Guide.
 
@@ -256,7 +256,7 @@ Ignacio says, “Tomorrow I’ll arrange for my bank (I will call my bank and te
 
 Anyway, back to the episode.  Shannon says, “I could have come  over and watered your plants (I could have come over if you had a sked me)…”  This is what we call a conditional clause.  “That wouldn’t have been a problem at all.” Again, there’s an idea of if you do something then I w ould do something else. But Shannon, of course, was not asked by Ignacio, and tha t’s why she’s using the conditional form.
 
-Ignacio says, “Thanks for being willing to do that.  As al ways, you’re so helpful.” Shannon says, “Oh, I try my best (I do my best)…”  Ignacio then says, “I was wondering if I could ask just one favor from you (ask you to  do one thing).” Shannon says, “Of course you can.  Just name it!”  When som eone says, “name it” they mean you are willing to do whatever the other  person wants or needs.  It’s an informal phrase; it’s saying I will do whatever you w ant me to do.
+Ignacio says, “Thanks for being willing to do that.  As al ways, you’re so helpful.” Shannon says, “Oh, I try my best (I do my best)…”  Ignacio then says, “I was wondering if I could ask just one favor from you (ask you to  do one thing).” Shannon says, “Of course you can.  Just name it!”  When som eone says, “name it” they mean you are willing to do whatever the other  person wants or needs.  It’s an informal phrase; it’s saying I will do whatever you want me to do.
 
 Ignacio says, “You know my dog, Rex…”  Rex is the name of the dog.  Shannon says, “Oh, no…”  Ignacio says, “I could board him at a kennel , but he’s had bad luck at kennels.”  A “kennel” is a place where you can leave your dog or your cat or other small pets while you are traveling.  It’s like a  hotel for animals.  “To board” means, in this case, to pay for the animal to be  at the kennel.  Ignacio says, “Could you look after him while I’m gone?”  “To lo ok after (someone)” means to take care of someone, to keep someone safe or o ut of trouble: “My mother is sick, I need to go to her house to look after her.”
 
@@ -308,9 +308,9 @@ Shannon:  Why don’t you ask the people who worked at tho se kennels where Rex 
 
 Don’t worry about our scripts; Dr. Lucy Tse has got it cove red!  Thank you, Lucy.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Having an Overbearing Father
 
@@ -364,7 +364,7 @@ Eva:  Huh!
 
 The dialogue begins with the father saying, “Where are  you going?”  Eva says, “Out.”  This is a typical thing that a teenager or young  adult might say; they don’t want to tell the father exactly where they’re going so they say, “Oh, I’m just going out,” meaning I’m leaving the house, but you don’t tel l them where you’re going. So, the father says, “Out where?”  Eva says, “Dad, I’m nea rly (I’m almost) a grown woman.”  “Grown,” here, means an adult, no lon ger a child.  We might also say “grown up.”  She’s a grown woman.  “Grown,” ho wever, has even more meanings in English; those can be found in our Learning  Guide.
 
-Eva says to her father, “You don’t need be so overbearing .”  “Overbearing” is when you are very controlling, you have very strong opinion s about things, you try to control what other people do.  You could be an overbearing husband, an overbearing wife, an overbearing mother-in-law; all o f these are possible – not in my case, of course!
+Eva says to her father, “You don’t need be so overbearing .”  “Overbearing” is when you are very controlling, you have very strong opinion s about things, you try to control what other people do.  You could be an overbearing husband, an overbearing wife, an overbearing mother-in-law; all of these are possible – not in my case, of course!
 
 Well, Eva says, “You don’t need to be so overbearing (Da d).  You give me the third degree every time I leave the house.”  “To give (so meone) the third degree” (degree) means to ask someone many questions, often about things that the person doesn’t want to tell you.  So if you say, “Oh, I’m  going out,” and someone
 
@@ -432,9 +432,9 @@ Eva:  Huh!
 
 The script for this episode was written by a grown woman,  Dr. Lucy Tse.  Thank you, Lucy.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Introducing a Speaker
 
@@ -444,7 +444,7 @@ This is English as a Second Language Podcast episode 612.  I’m your host, Dr. 
 
 Our website is eslpod.com.  You can download a Learning Guide for this episode on our website by becoming an ESL Podcast member.  In ad dition to being able to download the Learning Guides for all of our curren t episodes, you’ll feel better about yourself because you’re supporting ESL Podcast.  Yes,  it’s good for your English, and good for your mental health!
 
-This episode is called “Introducing a Speaker.”  It is goi ng to use vocabulary you would hear when someone was going to introduce a presen ter, for example at a conference or at a presentation, usually a formal prese ntation.  Let’s get started.
+This episode is called “Introducing a Speaker.”  It is going to use vocabulary you would hear when someone was going to introduce a presen ter, for example at a conference or at a presentation, usually a formal prese ntation.  Let’s get started.
 
 [start of dialogue]
 
@@ -462,19 +462,19 @@ I begin introducing the speaker by saying, “Ladies and Gen tlemen.”  This is
 
  many people would say, “Ladies and Gentlemen, may I have  your attention, please?”  Your “attention” is what you are focusing on.  You want them to focus on you.  I continue by saying, once again using some forma l phrases, “It is my great honor to introduce our guest speaker today.”  An “ honor” (honor) is something that makes you feel proud, makes you feel respecte d; it’s a good thing, a pleasurable thing even.  The word “honor” ha s a couple of meanings in English; take a look at the Learning Guide for some ad ditional explanations.  So I say, “It is my great honor,” a very high honor, if you wi ll, “to introduce our guest speaker.”  “To introduce (someone)” in this case means to tell someone or to tell a group of people about another person whom they are probably meeting for the first time.  So, you bring a friend of yours to a part y, and you meet someone that you know but that your friend does not, you would introd uce your friend to the other person there at the party.  In this case, I’m int roducing the speaker; I am saying this person, who you may not know is...and then I g ive a description.  The “guest speaker” is a person who is invited specifically to ta lk at an event: a meeting, a conference perhaps.
 
-I say, “Our speaker is actually a person who needs no intro duction.”  This expression, “to need no introduction,” means that he or she is very well known by other people, that everyone in the audience listening would already know this person.  It’s sort of a way of saying to the person you ar e very famous; it’s kind of a compliment to that person.  So I say, “Our speaker is a ctually a person who needs no introduction, since she is well known in our fiel d as one of its great innovators.”  “Our field” here means whatever area we a re working in or studying in.  My field when I was professor was applied linguisti cs; that was the area that that I studied and did research in.  The presenter here , the guest speaker, is well known in the field of the people at this meeting as on e of the great innovators. An “innovator” (innovator) is someone who is very creative,  someone who will take risks, someone who invents something new.  An innovator  is often the first person to find new ways of doing things or to do things for the first time.
+I say, “Our speaker is actually a person who needs no intro duction.”  This expression, “to need no introduction,” means that he or she is very well known by other people, that everyone in the audience listening would already know this person.  It’s sort of a way of saying to the person you are very famous; it’s kind of a compliment to that person.  So I say, “Our speaker is a ctually a person who needs no introduction, since she is well known in our fiel d as one of its great innovators.”  “Our field” here means whatever area we a re working in or studying in.  My field when I was professor was applied linguisti cs; that was the area that that I studied and did research in.  The presenter here , the guest speaker, is well known in the field of the people at this meeting as on e of the great innovators. An “innovator” (innovator) is someone who is very creative,  someone who will take risks, someone who invents something new.  An innovator  is often the first person to find new ways of doing things or to do things for the first time.
 
 “Edwina Litton,” that’s the name of the guest speaker,  “has been called a revolutionary thinker by those in our field.”  A “revolut ionary thinker” means, in this case, someone who has many new ideas.  These ideas may b e surprising when you first hear them.  They have new ideas about the way things should be done in the world, in particular whatever field we’re  talking about here.  So, a revolutionary thinker is someone who has very bold, perhaps controversial new ideas about something.
 
 I say that Edwina is a revolutionary thinker, “That’s beca use she has strived to bring attention to those issues that we believe are so i mportant.”  “To strive”
 
- (strive) means to try to do something that is very difficul t, to do something that is not easy: “I’m going to strive to help all of the peopl e in the world learn English who want to learn English.”  It’s not easy; I’m going t o strive to do it, I’m going to put a lot of effort into it, I’m going to work very ha rd in order to accomplish this thing.  So, Edwina has strived to bring attention to ce rtain issues.  “To bring attention to (something)” means to make many people thi nk about something that perhaps they didn’t know before or that they would norm ally not think about, they would normally ignore.  This can be used in many differe nt ways.  You could say to your boss, “I’d like to bring to your attention (or ‘bring your attention to’) something that was in the newspaper this morning.”  You  are telling him about something that he or she probably doesn’t know, because t hey’re working instead of reading their newspaper at their desk.  So, maybe you should be working too!  But, the idea is that you are telling som eone something they didn’t know before.  Well, Edwina has strived to bring attenti on to certain issues – certain topics that this group believes are important.  I should point out it’s also possible to say “striven” here: she has “striven” (en) instea d of “strived” (ed). They both are acceptable in American English.
+ (strive) means to try to do something that is very difficul t, to do something that is not easy: “I’m going to strive to help all of the peopl e in the world learn English who want to learn English.”  It’s not easy; I’m going t o strive to do it, I’m going to put a lot of effort into it, I’m going to work very ha rd in order to accomplish this thing.  So, Edwina has strived to bring attention to ce rtain issues.  “To bring attention to (something)” means to make many people thi nk about something that perhaps they didn’t know before or that they would normally not think about, they would normally ignore.  This can be used in many differe nt ways.  You could say to your boss, “I’d like to bring to your attention (or ‘bring your attention to’) something that was in the newspaper this morning.”  You  are telling him about something that he or she probably doesn’t know, because t hey’re working instead of reading their newspaper at their desk.  So, maybe you should be working too!  But, the idea is that you are telling som eone something they didn’t know before.  Well, Edwina has strived to bring attenti on to certain issues – certain topics that this group believes are important.  I should point out it’s also possible to say “striven” here: she has “striven” (en) instea d of “strived” (ed). They both are acceptable in American English.
 
-“Dr. Litton,” I say, “holds four advanced degrees.”  An  “advanced degree” would be something like a master’s degree or a doctoral level d egree (a doctorate), any academic degree – any academic level of achievement that i s higher than your bachelor’s degree.  So you go to college, you study four ye ars, you get an undergraduate degree: your bachelor’s of arts or bache lor’s of science.  After that if you get an additional degree, that would be an ad vanced degree, one that is higher than the undergraduate degree.  A master’s of science, a master’s of art, a master’s of fine arts, a master’s of business administrat ion, a doctor of philosophy, a medical doctor, a doctor of law (a juris do ctor), all of these are advanced degrees.  Well, Dr. Litton has four, and one o f them is obviously a Ph.D., an MD, or some other doctorate.  She also has an  honorary doctorate from Harward University.  Harward University is kind of like  Harvard University; the biggest difference is the “w” in the middle of the  word.  “Honorary” is when you go to a university, typically at the end of the year ce remony called the commencement ceremony, when everyone who is graduating f rom the university will receive their degree – their piece of paper that  says that they have graduated, they have completed their work.  When you go  to these commencement exercises, as they’re called, these commencement ce remonies, they often have someone who is famous or who has done some thing great and they want to honor that person.  They want that person to receive some recognition and so they give them an honorary doctorate, universities do this.  So that person technically is now a doctor, although that’s not really true, but it is a way of honoring that person.
+“Dr. Litton,” I say, “holds four advanced degrees.”  An  “advanced degree” would be something like a master’s degree or a doctoral level d egree (a doctorate), any academic degree – any academic level of achievement that i s higher than your bachelor’s degree.  So you go to college, you study four ye ars, you get an undergraduate degree: your bachelor’s of arts or bache lor’s of science.  After that if you get an additional degree, that would be an ad vanced degree, one that is higher than the undergraduate degree.  A master’s of science, a master’s of art, a master’s of fine arts, a master’s of business administrat ion, a doctor of philosophy, a medical doctor, a doctor of law (a juris do ctor), all of these are advanced degrees.  Well, Dr. Litton has four, and one of them is obviously a Ph.D., an MD, or some other doctorate.  She also has an  honorary doctorate from Harward University.  Harward University is kind of like  Harvard University; the biggest difference is the “w” in the middle of the  word.  “Honorary” is when you go to a university, typically at the end of the year ce remony called the commencement ceremony, when everyone who is graduating f rom the university will receive their degree – their piece of paper that  says that they have graduated, they have completed their work.  When you go  to these commencement exercises, as they’re called, these commencement ce remonies, they often have someone who is famous or who has done some thing great and they want to honor that person.  They want that person to receive some recognition and so they give them an honorary doctorate, universities do this.  So that person technically is now a doctor, although that’s not really true, but it is a way of honoring that person.
 
  “In her much-anticipated speech today,” I continue, “she will address what she sees as the future of our field.”  Something that is “m uch anticipated” – “much- anticipated” in this case – is something that people have  been waiting for and looking forward to a long time.  In this speech – this t ime where she is going to stand up and tell you what she thinks, she will address wh at she sees as the future of our field.  “To address” here means to speak about a particular topic, to discuss a particular issue.  There are other meanings of th is word; you can find those in our Learning Guide.
 
-Finally I say, “Without further ado.”  “Without furthe r (or additional) ado.”  This is a formal phrase meaning that you are going to do someth ing right away; you’re not going to continue, in this case, your introduction; you ar e ending your introduction.  “Without further ado (ado), please jo in me in welcoming Dr. Edwina Litton.”  “To join (someone) in welcoming (someone el se)” means that typically you begin to clap your hands so the person feels welcome as the person comes up from their chair to talk to you.  “Join me in wel coming our guest today,” and every one will clap, and the person will feel welcome; t hey will feel like people want him or her to be there.  That’s the idea.
+Finally I say, “Without further ado.”  “Without furthe r (or additional) ado.”  This is a formal phrase meaning that you are going to do someth ing right away; you’re not going to continue, in this case, your introduction; you are ending your introduction.  “Without further ado (ado), please jo in me in welcoming Dr. Edwina Litton.”  “To join (someone) in welcoming (someone el se)” means that typically you begin to clap your hands so the person feels welcome as the person comes up from their chair to talk to you.  “Join me in wel coming our guest today,” and every one will clap, and the person will feel welcome; t hey will feel like people want him or her to be there.  That’s the idea.
 
 And so without further ado, let’s listen to the dialog ue at a normal rate of speech.
 
@@ -494,7 +494,7 @@ Our script was written by someone who needs no introducti on, Dr. Lucy Tse.
 
  From Los Angeles, California, I’m Jeff McQuillan.  I de finitely need an introduction!  Thank you for listening.  Come back and li sten to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
 
 # Being a First-Time Parent
 
@@ -542,7 +542,7 @@ Ricardo says, “That’s great!  How does it feel to be a fi rst-time parent?�
 
 Zuly says, “It’s really overwhelming taking care of a newbo rn.”  Something that is “overwhelming” (one word) is very strong, too strong, too  powerful, something that makes you feel that you don’t have control, it may b e something that confuses you.  If you go to Phoenix, Arizona in the middle  of summer – and I do not recommend it – you will be overwhelmed by the heat.   It is very hot in Phoenix, Arizona in the summertime.  Zuly says that it is o verwhelming taking care of a newborn.  “Newborn” (newborn – one word) i s a baby that has been born very recently, usually within the past month or perha ps two months.
 
- Zuly is saying that her child is a newborn; she was born re cently.  She says, “I’m learning everything from scratch.”  The expression “fro m scratch” (scratch) means from the very beginning, without any preparation,  or any knowledge in this case.  The term is often used cooking.  “I’m going to ma ke a cake from scratch,” meaning I’m not going to use any prepared ingredient s, I’m not going to go to the store and buy a box that says “lemon cake” on it.  I’m goi ng to get the lemons, get the flour get the eggs and so forth.  That is to make something from scratch. You can use it for anything; you could make a table from  scratch, taking a bunch of wood and putting it together, I guess.  I don’t m ean I could do that, but you could do that.  And if you want to do that you can give the table to me because, see, I need a new table here in my room.  Anyway, Zuly is learning everything from scratch, from the very beginning.  By the way, “scratc h” has other meanings in English, very different.  Those, you can only find in our Learning Guide…and a dictionary…and on the web…but most importantly in our Lea rning Guide!
+ Zuly is saying that her child is a newborn; she was born re cently.  She says, “I’m learning everything from scratch.”  The expression “fro m scratch” (scratch) means from the very beginning, without any preparation,  or any knowledge in this case.  The term is often used cooking.  “I’m going to ma ke a cake from scratch,” meaning I’m not going to use any prepared ingredient s, I’m not going to go to the store and buy a box that says “lemon cake” on it.  I’m going to get the lemons, get the flour get the eggs and so forth.  That is to make something from scratch. You can use it for anything; you could make a table from  scratch, taking a bunch of wood and putting it together, I guess.  I don’t m ean I could do that, but you could do that.  And if you want to do that you can give the table to me because, see, I need a new table here in my room.  Anyway, Zuly is learning everything from scratch, from the very beginning.  By the way, “scratc h” has other meanings in English, very different.  Those, you can only find in our Learning Guide…and a dictionary…and on the web…but most importantly in our Lea rning Guide!
 
 Zuly says she’s learning everything from how to breastfeed a nd bottle-feed, to burping her, to putting her to bed, to using a car se at and a stroller.  Well, these are all common words when talking about taking care of a  baby.  Let’s begin with my favorite: “breastfeed” (breastfeed – one word).  “To  breastfeed” as a verb means that the mother feeds the young baby with the mil k from her breasts, which are those two things that make up the chest of a w oman.  The end of the breast is called a “nipple” (nipple); we also use that same word when we have a bottle of milk that we are feeding the baby with.  Th at’s the other way to feed the baby, to “bottle-feed” the baby.  A “ bottle,” of cour se, is a small, usually glass container – could be plastic, I guess.  In any case, these a re the two ways of giving milk to a baby: one is to breastfeed and one is to  bottle-feed.  Some people believe breastfeeding is better for the baby.  In any case, Zuly is learning to do both.
 
@@ -590,9 +590,9 @@ Zuly:  Zzzzzzzz!
 
 All of our scripts here at ESL Podcast are written from  scratch by our very own Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Experiencing an Earthquake
 
@@ -638,7 +638,7 @@ Well, this was a small earthquake, a 3.2.  “The epicente r,” the newscaster 
 
 The newscaster continues by saying that the seismologist warn s that there will be some aftershocks.  “Aftershocks” (one word) are small ea rthquakes that happen after a large earthquake.  So when there’s a l arge earthquake, the earth isn’t done moving – it hasn’t stopped moving completely t ypically, and there are additional earthquakes that could happen an hour, two hours, perhaps even days from the original, large earthquake.
 
-Now we’re back to Keisha and Jamal.  Keisha says, “Phew!” w hich is just a way of expressing relief.  “Phew!  I’m glad the earthquake wasn’t a high-intensity one.”  “High-intensity” means a strong, a powerful one.   It lasts usually a short time, but it is very powerful.  This was not a high-int ensity earthquake.  Keisha says, “I wish they could predict more accurately when those ea rthquakes are going to happen.”  “To predict” means to say what is goi ng to happen in the future.  Seismologists are trying to get better at pre dicting when earthquakes will
+Now we’re back to Keisha and Jamal.  Keisha says, “Phew!” w hich is just a way of expressing relief.  “Phew!  I’m glad the earthquake wasn’t a high-intensity one.”  “High-intensity” means a strong, a powerful one.   It lasts usually a short time, but it is very powerful.  This was not a high-int ensity earthquake.  Keisha says, “I wish they could predict more accurately when those ea rthquakes are going to happen.”  “To predict” means to say what is going to happen in the future.  Seismologists are trying to get better at pre dicting when earthquakes will
 
  take place so that they can warn people in advance, but un fortunately the science is not yet sufficiently advanced to do that.
 
@@ -676,9 +676,9 @@ Keisha:  You won’t be getting any aid from me.  If you ’re hoping for a reli
 
  We hope this episode will not be declared a disaster are a.  We thank Dr. Lucy Tse for writing it.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Watching Daytime Talk Shows
 
@@ -718,7 +718,7 @@ Jerry answers Sally’s question by saying, “I think they’re ente rtaining (
 
  certain day and time.  This verb “to book” is also used wh en the police arrest someone and decide to accuse them or charge them with a cr ime.  I don’t know why we use he same verb, but we do.  Maybe some performa nces are so bad that people think the performer should booked for takin g their money, I’m not sure!  When we use it in relation to the police, it’s u sually with the preposition “for”: “He was booked for murder.”  “He was booked for robbery.”
 
-Anyway, we’re talking about daytime talk shows and Sally is saying that the only people who come on as guests – who are booked as guests a re losers or exhibitionists.  A “loser” is a person who has had littl e or no success in life, who doesn’t seem to be very successful and is not respected by othe r people.  It’s an insulting term, to be sure.  An “exhibitionist” is someo ne who likes to do strange or unusual things because he or she wants other people to  notice them; he or she wants attention, when other people are looking at you and listening to you. So people who, for example – I don’t know, take off t heir clothes in the middle of a shopping center, that could be an exhibitionist, someb ody who wants to have other people pay attention to them.  If you do that, you’ll probably be booked for some crime!  Sally is saying that the people on this kind o f program are losers or exhibitionists, and there’s some truth to that.  If you w atch some of these shows you can see that there are some people on there who just  want other people to pay attention.  They want to be famous, I guess.
+Anyway, we’re talking about daytime talk shows and Sally is saying that the only people who come on as guests – who are booked as guests a re losers or exhibitionists.  A “loser” is a person who has had littl e or no success in life, who doesn’t seem to be very successful and is not respected by othe r people.  It’s an insulting term, to be sure.  An “exhibitionist” is someo ne who likes to do strange or unusual things because he or she wants other people to  notice them; he or she wants attention, when other people are looking at you and listening to you. So people who, for example – I don’t know, take off t heir clothes in the middle of a shopping center, that could be an exhibitionist, someb ody who wants to have other people pay attention to them.  If you do that, you’ll probably be booked for some crime!  Sally is saying that the people on this kind of program are losers or exhibitionists, and there’s some truth to that.  If you w atch some of these shows you can see that there are some people on there who just  want other people to pay attention.  They want to be famous, I guess.
 
 Jerry disagrees, he says, “No, they’re not.  These shows are a ll about human drama.”  “Human drama” refers to relationships between  two or more people that are somehow exciting, often more than seems necessary or go od.  Jerry says the shows are also about tragedy.  “Tragedy” is something that is very bad, something that is very sad that has happened, often rela ted to someone dying. Jerry thinks these shows are something we can all relate t o.  “To relate to (something)” is to connect with something on an intellect ual or emotional level, to understand something because it is similar to something th at has happened in your life.
 
@@ -728,7 +728,7 @@ Sally says, “Give me a break!” which is an expression – an inf ormal expre
 
 Jerry says, “I completely disagree.  If you get off your high  horse for a minute, you may learn something.”  The expression “to get off you r high horse,” like the animal, means to stop acting as if you were superior to other people, stop pretending that you are better than others.  It’s a ne gative, insulting thing to say to someone: “get off your high horse.”  You’re saying t o them “You think you are better than everyone else.”
 
-Jerry thinks Sally could learn something from these shows.  Sally asks, “Like what?”  Jerry responds, “Like how to get rid of an annoyi ng wife and get away with it!”  “To get rid (rid) of (something)” is a phr asal verb meaning to no longer have someone or something in your presence or around, t o do something so that you don’t need to have any contact with this person.  Some times it means simply to throw out, to put in the garbage: “I’m going to get rid of this trash that is on my desk.”  It can also be used informally to mean to kill som eone, and that’s the meaning that Jerry is using here, he’s joking of course – I  hope!  He says he can learn how to get rid of an annoying wife.  Someone w ho is “annoying” is someone who is bothersome, someone who is always causing pro blems.
+Jerry thinks Sally could learn something from these shows.  Sally asks, “Like what?”  Jerry responds, “Like how to get rid of an annoyi ng wife and get away with it!”  “To get rid (rid) of (something)” is a phr asal verb meaning to no longer have someone or something in your presence or around, to do something so that you don’t need to have any contact with this person.  Some times it means simply to throw out, to put in the garbage: “I’m going to get rid of this trash that is on my desk.”  It can also be used informally to mean to kill som eone, and that’s the meaning that Jerry is using here, he’s joking of course – I  hope!  He says he can learn how to get rid of an annoying wife.  Someone w ho is “annoying” is someone who is bothersome, someone who is always causing pro blems.
 
 Not only does Jerry want to get rid of his annoying wife , he also wants to get away with it.  The expression “to get away with (somethin g)” means not to be punished for something bad that you have done.  You do something bad but you are not punished; you are not discovered perhaps, no one finds out, or for whatever reason you are not punished for doing somethin g wrong.  That’s to get away with it.  We talk about people getting away with murder.  The most famous case of that here in Los Angeles took place in the 1990s with a former football player by the name of O.J. Simpson.  He, according to mo st people who looked at the evidence, killed his wife and another man, but he was not found guilty. Unfortunately later he committed a robbery and is in pr ison now, not for the
 
@@ -758,9 +758,9 @@ Jerry:  Like how to get rid of an annoying wife and ge t away with it!
 
 Fortunately, Dr. Lucy Tse did not take a day off, and inst ead wrote this wonderful script.  Thank you, Lucy.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
- English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Having a Business Mentor
 
@@ -856,9 +856,9 @@ Alex:  You should.  If you’re like her, you’ll be a mult i-millionaire in no
 
 We’re all very appreciative of the expertise of our scriptw riter Dr. Lucy Tse. Thank you, Lucy.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Buying Bathroom Supplies
 
@@ -942,9 +942,9 @@ Tim:  Clearly you don’t know college students.  They’ll go  through that in 
 
 We try to make sure our scripts don’t go overboard with to o much vocabulary, and that’s thanks to our wonderful scriptwriter Dr. Lucy T se.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Eating at a Casual Restaurant
 
@@ -952,7 +952,7 @@ Welcome to English as a Second Language Podcast number 6 18: Eating at a Casual 
 
 This is English as a Second Language Podcast episode 618.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California.
 
-Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode.  If you are serious in improving your English, t hen you’ll want to look at our Learning Guide.
+Our website is eslpod.com.  Go there to download a Learning Guide for this episode.  If you are serious in improving your English, t hen you’ll want to look at our Learning Guide.
 
 This episode is called “Eating at a Casual Restaurant.”  It’s a dialogue between Russell and Nadia using vocabulary you associate with eating at a casual or less expensive restaurant.  Let’s get started.
 
@@ -998,7 +998,7 @@ Well, anyway.  Diners serve informal, inexpensive meals.  D iners are often asso
 
 So, Nadia says that she likes going to diners and hole in the walls and mom and pop restaurants.  “For me,” she says, “it’s the food that counts, not the ambiance.”  “The food that counts” is a form of a more  general expression: “it’s the (something) that counts.”  This phrase is used to sho w that one particular thing is what is really important, what really matters.  For some people, if they go on vacation they don’t care about how much it costs, they d on’t care about what kind of room they have at the hotel, it’s the temperatu re – it’s the weather that counts.  That’s the most important for them, that it be  warm for example.  Well that’s what Nadia is saying, the most important thing i s the food at a restaurant, not the ambiance.  I should mention that there are som e other meanings coming from that expression, “it’s the (something) that counts,” and those can be found in the Learning Guide.  Getting back to “ambiance” (amb iance), that’s a general word to describe the environment, or more specifically her e, the way that a place looks, especially a restaurant or a bar.  How it feels, wh at kind of lighting it has, what the furniture is like, all of these things are par t of the ambiance.
 
-So you can get the idea here that Nadia is probably goi ng to complain about the ambiance, even though she says the food is the most import ant thing, because at the end of this sentence she says “but…” – “it’s the food th at counts, not the ambiance, but…” and Russell says, “I thought you’d love thi s place (meaning I thought you would love this place).  It’s my favorite gr easy spoon.”  A “greasy (greasy) spoon,” like the spoon you eat with, is a small r estaurant that serves
+So you can get the idea here that Nadia is probably going to complain about the ambiance, even though she says the food is the most import ant thing, because at the end of this sentence she says “but…” – “it’s the food th at counts, not the ambiance, but…” and Russell says, “I thought you’d love thi s place (meaning I thought you would love this place).  It’s my favorite gr easy spoon.”  A “greasy (greasy) spoon,” like the spoon you eat with, is a small r estaurant that serves
 
  informal foods, so it’s similar to the other expressions we  used, but specifically it often serves fried foods such as hamburgers and French fr ies.  Well, hamburgers aren’t fried, but the French fries are.  That’s what a greasy spoon is.  “Grease” is another word here for “fat.”  It’s usually a negative w ay of describing a restaurant.
 
@@ -1044,9 +1044,9 @@ Russell:  I ordered you a whole pie!
 
 There’s nothing the matter with today’s script.  That’s because it was written by our own Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Packing Clothes for a Trip
 
@@ -1126,9 +1126,9 @@ Mariah:  I was thinking about it.  I’m sure I can make r oom.  All of my bags 
 
 Someone who is well equipped to write dialogues is our  own scriptwriter, Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Making Quick and Slow Decisions
 
@@ -1170,17 +1170,17 @@ Well, Dante is hesitant but Courteney is not.  She says, “ We’ve sat on this
 
  used sometimes to mean to purposely not take any action to  prevent something from happening.  So your friend asks his mother if the t wo of you can go to a movie, and your friend’s mother says, “Well, I need to th ink about it.  I’ll tell you tomorrow.”  We could say she’s sitting on that decision; she’s not making the decision because she really doesn’t want you two to be go ing to the movies together.
 
-Well, Courteney thinks they have sat on the decision about  the new vendor long enough.  She says, “I know you’re of two minds about whet her we should be switching vendors in the middle of the year.”  “To be o f two minds” means to be undecided, to be able to see the positive things – the advantages of one option but also the advantages of another option and you can’t decide.  That’s to be of two minds.  “To switch” means to change from one thing to another, to stop using this and start using that.  “I used to jog outside, and then I switched to a treadmill,” which is a machine that goes around that al lows you to run or walk inside.  That’s to switch.
+Well, Courteney thinks they have sat on the decision about  the new vendor long enough.  She says, “I know you’re of two minds about whet her we should be switching vendors in the middle of the year.”  “To be of two minds” means to be undecided, to be able to see the positive things – the advantages of one option but also the advantages of another option and you can’t decide.  That’s to be of two minds.  “To switch” means to change from one thing to another, to stop using this and start using that.  “I used to jog outside, and then I switched to a treadmill,” which is a machine that goes around that al lows you to run or walk inside.  That’s to switch.
 
 Courteney says Dante is of two minds about whether they sh ould be switching vendors (changing vendors) in the middle of the year.  “B ut, she says, “I think it’s the right move (the right decision; the correct decision).   We had sound reasons for doing this,” she says.  When you say, as an adjective, so mething is “sound,” you mean it’s logical, it’s rational, it is something th at you have thought about for a long time and it makes sense, it’s correct.
 
 Dante says, “Yes, yes, I know that it wasn’t a split-second de cision.”  A “split- second decision” is a decision made very quickly, without havin g a lot of time to think about it.  Dante is saying that this decision was not  a split-second decision. But, he says, he’s not sure if will really save them money.  He says, “whether it’ll really save us money is debatable.”  Something that is “de batable” is something that you can have more than one opinion about; there i sn’t a definite answer, different opinions could be correct; it is something th at you need to discuss more. “Debatable” comes from the verb “to debate,” which is t o argue or talk about something with two people having different opinions.
 
-Courteney says, “I have to disagree with you there.”  The  “there” here means with what you just said.  “I have to disagree with you th ere.  We’ve both seen the reports (the information) and I don’t think there ar e any ifs, ands, or buts about it.” This is an interesting expression: “there are no ifs, ands,  or buts about it.”  This means that there are no reasons for not doing somethin g, there aren’t any reasons for not doing something, there’re no excuses.  Yo u may be going to the store with your friends, and your husband says, “I want you  home by 10:00
+Courteney says, “I have to disagree with you there.”  The  “there” here means with what you just said.  “I have to disagree with you th ere.  We’ve both seen the reports (the information) and I don’t think there are any ifs, ands, or buts about it.” This is an interesting expression: “there are no ifs, ands,  or buts about it.”  This means that there are no reasons for not doing somethin g, there aren’t any reasons for not doing something, there’re no excuses.  Yo u may be going to the store with your friends, and your husband says, “I want you  home by 10:00
 
  tonight.  No ifs, ands, or buts about it.”  Of course, who listens to husbands, right?
 
-Courteney says that they are going to save money, and ther e are no ifs, ands, or buts about it.  Dante says, “Okay, I’m willing to make a t entative decision.” Something that is “tentative” is something that isn’t yet  final; it’s still something you could change later.  It’s almost like a temporary decisi on; you’ll make a final decision later.  Dante says that they are going to go wi th (they are going to select) GreatDeal Corp. (GreatDeal Corporation) as our  new vendor, as long as that decision isn’t set in stone.  The expression “to be set (set) in stone” means to be final, to be clearly determined, clearly agreed upon .  You can’t change it anymore – to be set in stone.  He says, “We’ll revisit thi s decision in six months.” “To revisit” in this case means we will think about this de cision again; we will analyze, discuss, and consider our decision again in six months.   Dante wants to see if this new vendor is going to work out.  “To work o ut” is a two-word phrasal verb that means to be successful, to do what they say they ar e going to do.  This actually is an expression that has different meanings in En glish, and those are, of course, in the Learning Guide.
+Courteney says that they are going to save money, and ther e are no ifs, ands, or buts about it.  Dante says, “Okay, I’m willing to make a t entative decision.” Something that is “tentative” is something that isn’t yet  final; it’s still something you could change later.  It’s almost like a temporary decisi on; you’ll make a final decision later.  Dante says that they are going to go wi th (they are going to select) GreatDeal Corp. (GreatDeal Corporation) as our  new vendor, as long as that decision isn’t set in stone.  The expression “to be set (set) in stone” means to be final, to be clearly determined, clearly agreed upon .  You can’t change it anymore – to be set in stone.  He says, “We’ll revisit thi s decision in six months.” “To revisit” in this case means we will think about this de cision again; we will analyze, discuss, and consider our decision again in six months.   Dante wants to see if this new vendor is going to work out.  “To work o ut” is a two-word phrasal verb that means to be successful, to do what they say they are going to do.  This actually is an expression that has different meanings in En glish, and those are, of course, in the Learning Guide.
 
 Courteney says, “I can live with that.”  “To live with ( something)” in this case means to be able to accept a situation even though it’s d ifficult or it’s not exactly what you want; to be able to handle a situation, we m ight also say to be able to tolerate to a situation.  Courteney says, “I can live with  that (I can live with that decision).  Now, can we discuss my raise?”  A “raise” (rais e), as a noun, in this case means an increase in the amount of money that you ma ke – that a company pays you to do a particular job.
 
@@ -1210,9 +1210,9 @@ Dante:  Raise?  That’s definitely something I’ll need t o ponder a lot more.
 
 Who’s the best podcast scriptwriter in the world?  There  are no ifs, and, or buts about it, it’s Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Picking a Fight
 
@@ -1220,7 +1220,7 @@ Welcome to English as a Second Language Podcast number 6 21: Picking a Fight.
 
 This is English as a Second Language Podcast episode 621.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California.
 
-Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode that will help you improve your English – and i mprove your life in general!
+Our website is eslpod.com.  Go there to download a Learning Guide for this episode that will help you improve your English – and i mprove your life in general!
 
 Today’s episode is a story about a man who goes to a bar,  and there is another man at the bar who wants to fight him.  Sounds exciting !  Let’s get started. > I was sitting at my local bar waiting for my friends to a rrive to watch the game. Two guys sitting a few seats away kept giving me strange loo ks, and one of them said, “What are you looking at?”  I looked around to ma ke sure that he was speaking to me, and before I could respond he said, “Yo u want a piece of me? You and what army?  Let’s take it outside.”
 > By this time, I realized that this guy was trying to pick a fight with me and I wasn’t sure what to do.  I was hoping that I could make peace w ith him or at least hold him off until my friends got there.
@@ -1241,7 +1241,7 @@ By the way, the expression “to take (something) outside,”  or words in that 
 
 I continue the story by saying, “By this time (meaning by the time this has happened), I realized that this guy was trying to pick a f ight with me and I wasn’t sure what to do.  I was hoping that I could make peace w ith him.”  “To make peace” (peace) means try to calm down a difficult situatio n, a tense situation, to perhaps forgive the other person so that there are no l onger any bad feelings between you.  I tried to make peace with him, or I was hoping to make peace with him, or at least hold him off until my friends go t there.  “To hold (someone) off” is another two-word phrasal verb meaning to delay someone, to prevent someone from doing something for a certain length of time, usually until something else happens.  This could also be used in a mili tary situation.  The famous group of Spartans in ancient Greece, the soldiers from Sparta, held off the Persians at Thermopylae to allow the Athenians to b uild a better defense and defend the city of Athens.  “Go tell the Spartans, you p asserby, that here, obedient to their word, we lie.”  That is a famous li ne written about the Spartans who died at Thermopylae by one of the great poets of t hat day.  A “passerby” is someone who is just walking by.  And so the soldiers are sa ying go tell the Spartans (our people back in our city of Sparta) that he re (at Thermopylae), obedient to their word (meaning we are doing what t hey asked us to do), we lie. In this case, their bodies are there – they lie there.  “Go tell the Spartans, you passerby, that here, obedient to their word, we lie.”  This has nothing to do with our episode, but it does have to do with the expression “to hold (someone) off.”
 
-Well, I’m hoping to hold off these two men until my friends arrive, so I say to the man, “I’m just sitting over here minding my own business.”   “To be minding your own business” means that you are not bothering anyone el se; you are not interfering or paying attention to anyone else, you ar e just focusing on yourself.  I say that I’m not trying to get in your face.  “To get in  (someone’s) face” is an informal expression meaning to bother, to annoy, to ma ke another person angry often by asking them personal questions or perhaps standing  too close to them. I say that I don’t have a problem with you.  “Let’s just chill out.”  “To chill out” is a phrasal verb meaning to relax, to be calm.  It’s very in formal.
+Well, I’m hoping to hold off these two men until my friends arrive, so I say to the man, “I’m just sitting over here minding my own business.”   “To be minding your own business” means that you are not bothering anyone el se; you are not interfering or paying attention to anyone else, you are just focusing on yourself.  I say that I’m not trying to get in your face.  “To get in  (someone’s) face” is an informal expression meaning to bother, to annoy, to ma ke another person angry often by asking them personal questions or perhaps standing  too close to them. I say that I don’t have a problem with you.  “Let’s just chill out.”  “To chill out” is a phrasal verb meaning to relax, to be calm.  It’s very in formal.
 
  I tell him that I will buy him and his friend a drink,  but he’s angry.  He says, “Chill out?  I don’t need to chill out.  Those are fighting words.”  In other words, those are things you would say when you want someone to figh t you.  “You want a piece of me?  Let’s take it outside.  What are you lookin g at?”  Those are all examples of fighting words.  Well, this gentleman thinks that telling him to chill out is an invitation to fight.  He says, “Let’s take thi s outside.  I want to see you running with your tail between your legs.”  The expressio n “your tail (tail) between your legs” means that you are scared and frightened, sor t of like a dog who’s running away.  You are a coward; you are not brave.
 
@@ -1271,9 +1271,9 @@ That was a narrow escape.  I had never been so happy to see my friends as I was 
 
 The script for this episode was written, needless to say, by Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Having Well- and Badly-Behaved Children
 
@@ -1359,9 +1359,9 @@ Ray:  That noise is my daughters creating a ruckus fightin g tooth and nail over
 
 Our scriptwriter today was that made of sugar and spice a nd everything nice, Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # A Hit-and-Run Accident
 
@@ -1369,7 +1369,7 @@ Welcome to English as a Second Language Podcast number 6 23: A Hit-and-Run Accid
 
 This is English as a Second Language Podcast episode 623.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California.
 
-Go to our website at eslpod.com and download a Learnin g Guide for this episode.  To get our Learning Guides, you can become a m ember and help support this podcast on our website.
+Go to our website at eslpod.com and download a Learning Guide for this episode.  To get our Learning Guides, you can become a member and help support this podcast on our website.
 
 This episode is a dialogue between Flora and Saul.  Th ere has been a car accident.  One car – one automobile has hit another one  and then immediately left.  Let’s get started.
 
@@ -1419,7 +1419,7 @@ Well, Flora hopes the judge throws the book at this per son, and that the person
 
  what you do that is against the law.  To steal is a crime ; to kill someone is a crime.  So, the scene of the crime is where the crime hap pened.  Flora doesn’t think the police could find someone who has left the scene  of the crime.  Then she says, “That guy must be a real jerk!”  A “jerk” is an in formal way of calling someone a very stupid or bad person.
 
-Saul says, “Take it easy (meaning calm down, don’t be so excited).  Maybe this man was just panicked.”  “To be panicked” means that you ar e afraid, that you are very anxious, you don’t know what to do.  You often do the wrong thing when you panic.  Saul says, “It’s probably his first offense,” me aning it’s probably the first time that this person has had a problem, has broken  the law, has committed a crime.  He says, “Maybe he’s young and just learning how  to drive.”
+Saul says, “Take it easy (meaning calm down, don’t be so excited).  Maybe this man was just panicked.”  “To be panicked” means that you are afraid, that you are very anxious, you don’t know what to do.  You often do the wrong thing when you panic.  Saul says, “It’s probably his first offense,” me aning it’s probably the first time that this person has had a problem, has broken  the law, has committed a crime.  He says, “Maybe he’s young and just learning how  to drive.”
 
 Flora says, “Maybe.”  Then she says, “Hey, why are you defe nding the driver?” “To defend (someone)” means to do something or say someth ing that protects the other person, to say the other person is not guilty,  they’re innocent.  Saul says, “Well…”  Flora says, “You know the person driving the car, don’t you?” She thinks Saul knows who the driver is – the name of the  driver.  Flora says, “You’re not an innocent bystander.”  A “bystander” is some one who just happens to be somewhere and see something that has happened.  It’s a person who did not do anything wrong, but they usually saw someone who did do something wrong or were in the same place as the person who did something wrong. “Innocent” is the opposite of “guilty,” meaning you didn ’t do anything wrong.  But Flora doesn’t think Saul is an innocent bystander.  She says, “You’re trying to talk me out of calling the police!”  “To talk (someone) out of (something)” means to convince or persuade another person not to do something,  to make them change their mind about doing something.  “The parents trie d to talk their daughter out of getting a tattoo.”  They tried to convince her not to p ut ink permanently on her skin.  Something you should never do for your boyfriend or  girlfriend, because someday, perhaps, they will not be your boyfriend or girl friend any longer.  I’m not speaking from personal experience, mind you!
 
@@ -1471,9 +1471,9 @@ Saul:  No, not at all.  I’ll get your car fixed, righ t after I wring my nephe
 
 I’m not trying to pull a fast one on you.  This script w as, in fact, written by Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us again, won’t you, on ESL Podcast.
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again, won’t you, on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
 
 # Advantages and Disadvantages in Life
 
@@ -1481,7 +1481,7 @@ Welcome to English as a Second Language Podcast number 6 24: Advantages and Disa
 
 This is English as a Second Language Podcast episode 624.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California.
 
-Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode.  You can download the Learning Guides you bec ome a member of ESL Podcast.  Not only will you get the Learning Guide, but  also the satisfaction of knowing that you are helping support this podcast.
+Our website is eslpod.com.  Go there to download a Learning Guide for this episode.  You can download the Learning Guides you bec ome a member of ESL Podcast.  Not only will you get the Learning Guide, but  also the satisfaction of knowing that you are helping support this podcast.
 
 This episode is called “Advantages (which are things that help you in some situation) and Disadvantages (things that hurt you) in Li fe.”  Let’s get started.
 
@@ -1519,7 +1519,7 @@ Nia says, “I’m going to wait and see how he is as a man ager.”  She’s sa
 
 Andy says, “If you’re a blue blood like he is, born into p rivilege and old money, you can do no wrong.”  Some more expressions here to tal k about social and economic advantages of some people versus others: “blue blo od” refers to a person who belongs to the richest, most wealthy part of a  society – the most powerful, the most respected.  We would call it the “u pper class.”  “Privilege” (privilege) is another word for advantage, something t hat you have that no one else has.  It’s also, for example, used in talking about t hings that you can do if you are a member of a certain group: “One of the privi leges of being a member of the golf club is that you get to play golf for free.”  Well, you don’t have to pay for each game; you have to pay for your membership.  So, privi lege is another word for advantage.  Again, it is often used to describe socia l or economic advantages. “Old money” refers to money that has been in your family for a long time, wealth that your family has had for many years.  Here in the Un ited States, the Rockefeller family would be perhaps considered a family of  old money – not perhaps, they definitely would be!  The Ford family – F ord Motor Company – money has been in their family for many years, many gen erations: the grandfather, the great-grandfather, and so forth.  S o, old money refers to a rich and powerful family that has been rich for many years.
 
-Andy says if you’re a blue blood like this nephew, and you are born into privilege and old money, meaning when you are born you receive im mediately these advantages, you can do no wrong.  The expression “to do n o wrong” means that you are unable to make a mistake.  It also means, more commonly, that when you do make a mistake no one will pay attention; it will  be forgiven or ignored by other people.  Some parents think their children can do  no wrong, so when someone complains to them about their children – for e xample children who are yelling and screaming in the street – when someone compl ains, some parents will say, “Oh, that wasn’t my child, that is impossible.”  Their child can do no wrong.  Well let me tell you, they can!
+Andy says if you’re a blue blood like this nephew, and you are born into privilege and old money, meaning when you are born you receive im mediately these advantages, you can do no wrong.  The expression “to do no wrong” means that you are unable to make a mistake.  It also means, more commonly, that when you do make a mistake no one will pay attention; it will  be forgiven or ignored by other people.  Some parents think their children can do  no wrong, so when someone complains to them about their children – for e xample children who are yelling and screaming in the street – when someone compl ains, some parents will say, “Oh, that wasn’t my child, that is impossible.”  Their child can do no wrong.  Well let me tell you, they can!
 
 Moving on: Nia says, “That’s not true.  (The nephew) wil l be held accountable for how this department performs.”  The expression “to hold (someone) accountable”
 
@@ -1561,9 +1561,9 @@ Nia:  You can complain all you want, but it doesn’t chan ge the situation.  He
 
 Our scriptwriter busts her butt every day here at ESL Podca st.  That person is, of course, Dr. Lucy Tse.  Thank you, Lucy.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Being Famous and Anonymous
 
@@ -1593,7 +1593,7 @@ Erik:  If the papers don’t come out until tomorrow, wh y are you going around 
 
 Juliana:  I’m just getting ready to meet my fans.
 
-Erik:  Depending on whether the reviews are good or ba d, you may be famous – or infamous.
+Erik:  Depending on whether the reviews are good or bad, you may be famous – or infamous.
 
  [end of dialogue]
 
@@ -1615,7 +1615,7 @@ Well, Juliana thinks that she’s going to be famous, and t herefore she will ha
 
  – they won’t be released until tomorrow), why are you g oing around incognito?” “Incognito” (incognito) is another way of saying in disgu ise, without letting people know who you really are.
 
-Juliana says, “I’m just getting ready to meet my fans,” the  people who love me so much.  Erik says, “Depending on whether the reviews are go od or bad, you may be famous – or infamous.”  “Reviews” here refers to an a rticle in a newspaper or a magazine that tells why someone likes or didn’t like a p articular book, or TV show, movie, song, restaurant, play.  Reviews are any descr iptions of someone’s opinion about a certain thing.  People often look at the reviews for books and movies before buying them; they want to know what other  people think.  Well, Erik says that depending on whether the reviews of the pl ay are good or bad, you may be famous if they are good reviews, or if they are ba d reviews you will be infamous (infamous).  “To be infamous” means to be fam ous in the sense that you are well-known, but for bad things that you have don e.  Everyone knows who you are, but they know about the bad things you did.  S o if you say someone is infamous, you mean that they are well-known but they ar e well-known for having done something wrong or something bad.  A similar wor d would be “notorious” (notorious), which is the same thing, to be famous for so mething that is bad or negative typically.  Although, I’ve noticed in recent years many people using notorious to mean the same as famous instead of infamous,  so the meaning is changing in the language, but the dictionary definitio n would tell you that it is being famous for something bad.
+Juliana says, “I’m just getting ready to meet my fans,” the  people who love me so much.  Erik says, “Depending on whether the reviews are go od or bad, you may be famous – or infamous.”  “Reviews” here refers to an a rticle in a newspaper or a magazine that tells why someone likes or didn’t like a p articular book, or TV show, movie, song, restaurant, play.  Reviews are any descr iptions of someone’s opinion about a certain thing.  People often look at the reviews for books and movies before buying them; they want to know what other  people think.  Well, Erik says that depending on whether the reviews of the pl ay are good or bad, you may be famous if they are good reviews, or if they are bad reviews you will be infamous (infamous).  “To be infamous” means to be fam ous in the sense that you are well-known, but for bad things that you have don e.  Everyone knows who you are, but they know about the bad things you did.  S o if you say someone is infamous, you mean that they are well-known but they are well-known for having done something wrong or something bad.  A similar wor d would be “notorious” (notorious), which is the same thing, to be famous for so mething that is bad or negative typically.  Although, I’ve noticed in recent years many people using notorious to mean the same as famous instead of infamous,  so the meaning is changing in the language, but the dictionary definitio n would tell you that it is being famous for something bad.
 
 We hope you’re not famous for anything bad.  In either  case, even if you are, let’s listen now to the dialogue at a normal speed.
 
@@ -1637,7 +1637,7 @@ Erik:  If the papers don’t come out until tomorrow, wh y are you going around 
 
 Juliana:  I’m just getting ready to meet my fans.
 
-Erik:  Depending on whether the reviews are good or ba d, you may be famous – or infamous.
+Erik:  Depending on whether the reviews are good or bad, you may be famous – or infamous.
 
 [end of dialogue]
 
@@ -1645,7 +1645,7 @@ Our scriptwriter tries to stay under the radar for sure, but it’s not possible
 
 From Los Angeles, California, I am Jeff McQuillan.  Th ank you for listening. Come back and listen to us again, won’t you, on ESL Pod cast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
 
 # Wiring Money to Another Country
 
@@ -1653,7 +1653,7 @@ Welcome to English as a Second Language Podcast number 6 26: Wiring Money to Ano
 
 This is English as a Second Language Podcast episode 626.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.
 
-Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode that will help you improve your English even fast er than just listening.
+Our website is eslpod.com.  Go there to download a Learning Guide for this episode that will help you improve your English even fast er than just listening.
 
 This episode is called “Wiring Money (or sending money el ectronically) to Another Country.”  It’s dialogue between Mahmoud and Sharon using a lot of vocabulary you would need to know in sending wires.  Let’s get started.
 
@@ -1767,9 +1767,9 @@ Mahmoud:  For us, it’s a matter of life and death.
 
 Our scriptwriter is a real lifesaver for us here at ESL Podcast.  We could not do what we do without her, so thank you Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Being Spontaneous or Well-Planned
 
@@ -1785,7 +1785,7 @@ This episode is called “Being Spontaneous or Well-Planne d.”  These are oppo
 
 Mariela:  Wow, it looks like you’re working on a big pro ject.  What are all these pages and pages of notes for?
 
-Will:  I’m preparing for my date with Christine.  I w ant everything to be well- planned and to go without a hitch.
+Will:  I’m preparing for my date with Christine.  I want everything to be well- planned and to go without a hitch.
 
 Mariela:  Okay, but I still don’t understand why you’re  making such detailed plans.
 
@@ -1833,7 +1833,7 @@ Now let’s listen to the dialogue, this time at a norma l speed.
 
 Mariela:  Wow, it looks like you’re working on a big pro ject.  What are all these pages and pages of notes for?
 
-Will:  I’m preparing for my date with Christine.  I w ant everything to be well- planned and to go without a hitch.
+Will:  I’m preparing for my date with Christine.  I want everything to be well- planned and to go without a hitch.
 
 Mariela:  Okay, but I still don’t understand why you’re  making such detailed plans.
 
@@ -1859,9 +1859,9 @@ Will:  I may let her pick our children’s names.  Now, get  out of here, will y
 
  Our scriptwriter never plays it by ear; she never flies by t he seat of her pants. Oh, no, her scripts are always well-planned.  That’s beca use she’s the one, the only, Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Introducing a New Product
 
@@ -1869,7 +1869,7 @@ Welcome to English as a Second Language Podcast number 6 28: Introducing a New P
 
 This is English as a Second Language Podcast episode 628.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California.
 
-Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode that will help you improve your English – and yo ur looks – even faster.
+Our website is eslpod.com.  Go there to download a Learning Guide for this episode that will help you improve your English – and yo ur looks – even faster.
 
 This episode is called “Introducing a New Product.”  It’s a dialogue between Augie and Lillian.  Let’s get started.
 
@@ -1963,9 +1963,9 @@ Augie:  You’ll be begging me to get you one.
 
 The hype around our scriptwriter is definitely justified.   That’s because it’s Dr. Lucy Tse, who has never-before-seen – or heard – dialogue s for you each week.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Being Hungry and Full
 
@@ -2013,7 +2013,7 @@ Brandy did a bad job of calculating the “cooking time,” the amount of time n
 
  Brandy says that she knows Steve is famished.  She says, “Here’s a snack for you to munch on while you wait.”  A “snack” (snack) is a sm all amount of food that you eat in between your meals.  Usually it’s somethin g sweet – something good to eat.  In this case, Brandy gives Steve a snack to mu nch on.  “To munch (munch) on (something)” means to eat food, sometimes ve ry noisily – very loudly, and typically it’s used when we are talking abou t snacks.  So you invite some friends over to watch a movie at your house, and you get some popcorn and maybe some pretzels, other kinds of snacks, and people watch the movie while munching on the snacks.  You’re eating the snacks slowl y, but it’s not a formal meal.
 
-Steve says, “I’m half-starved.”  This is the same as famished;  I am extremely hungry.  He says, “I skipped lunch and had to work late.”  “To skip” (skip) means not to do something you would normally do.  “I’m going  to skip my exercise this morning because I got up late.”  I normally exercise in the morning, but because I was late I’m going to skip it today.  “Skip” has several me anings in English, all of which – well, some of which can be found in the Learnin g Guide.
+Steve says, “I’m half-starved.”  This is the same as famished;  I am extremely hungry.  He says, “I skipped lunch and had to work late.”  “To skip” (skip) means not to do something you would normally do.  “I’m going  to skip my exercise this morning because I got up late.”  I normally exercise in the morning, but because I was late I’m going to skip it today.  “Skip” has several me anings in English, all of which – well, some of which can be found in the Learning Guide.
 
 Brandy says, “I know (I know that you are half-starved), but  I also know you’re dying for something really good.”  When somebody says, “I ’m dying (dying) for (something)” they mean they want something, they desire so mething a lot, with a very strong emotion.  “I’m dying for some pizza.”  I rea lly want pizza.  So, you want something very badly.  You could be dying for a new  car or dying for a new dress.
 
@@ -2057,9 +2057,9 @@ Steve:  Another hour?!  I’ll be dead and buried by th en!
 
 Our scripts are always worth the wait.  That’s because they’ re written by our very own Dr. Lucy Tse.  Thank you, Lucy.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Making a Medical Diagnosis
 
@@ -2133,9 +2133,9 @@ Sally:  After a day of being poked and prodded like a g uinea pig, all I want to
 
 There’s nothing mystifying about who the scriptwriter is.   You know, Dr. Lucy Tse.  Thank you, Lucy.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us again here at ESL Podcast.
+From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here at ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
 
 # Customizing a Personal Webpage
 
@@ -2143,7 +2143,7 @@ Welcome to English as a Second Language Podcast number 6 31: Customizing a Perso
 
 This is English as a Second Language Podcast episode 631.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California.
 
-Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode that will help you improve your English even fast er.
+Our website is eslpod.com.  Go there to download a Learning Guide for this episode that will help you improve your English even fast er.
 
 This episode is called “Customizing a Personal Webpage.”  Many people have their own pages – their own websites.  We’ll talk about  some of the vocabulary that might be related to that, especially on social net working sites such as Facebook.  Let’s get started.
 
@@ -2235,9 +2235,9 @@ Al:  Clearly your time has been better spent.
 
 Why bother listening to other English podcasts when you h ave the wonderful scripts by Dr. Lucy Tse?
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Negotiating a Business Deal
 
@@ -2245,7 +2245,7 @@ Welcome to English as a Second Language Podcast number 6 32: Negotiating a Busin
 
 This is English as a Second Language Podcast episode 632.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in – guess where?  That’s right, beautiful Los Angeles, Cali fornia.
 
-Our website is eslpod.com.  Consider becoming a member o f ESL Podcast to support this effort.  You can go to our website, and by becoming a member also download the Learning Guide for all of our current e pisodes.
+Our website is eslpod.com.  Consider becoming a member of ESL Podcast to support this effort.  You can go to our website, and by becoming a member also download the Learning Guide for all of our current e pisodes.
 
 This episode is called “Negotiating a Business Deal” (a b usiness agreement).  It’s a dialogue between Gia and Logan.  Let’s get started.
 
@@ -2269,7 +2269,7 @@ Gia:  Duly noted.  I won’t run out and buy that new h ouse and those three new
 
 Gia begins by asking, “Why are the negotiations on this d eal taking so long?” “Negotiation” is the process of trying to reach an agree ment – trying to agree with another person or another business, when each side “compr omises,” that is, each side gives in a little.  For example I want to buy a  new car and the person selling it says, “It’s 20,000 dollars,” and I say, “Oh, th at’s too much.  How about 18,000 dollars?” and the person selling – the seller – says, “Oh, no.  I could only go as low as 19,000 dollars,” and you say, “I’ll give you 18,500 cash.  I have the money with me,” and he says, “Okay, I’ll take it.”  That’ s a negotiation. Negotiations are always about time, power, and knowledg e.  That is, if you have a long time to wait or you need something done right away, if you have knowledge about what the other person wants, and fina lly if you have some other sort of influence or power over that person, all those t hings will affect your negotiation.
 
-Gia wants to know why the negotiations on this deal (thi s agreement) are taking so long – are lasting such a long time.  She says, “I thou ght we would be putting the finishing touches on it by now.”  The expression “to put the finishing (or final) touches on (something)” means to be making small changes i n order to finish something so that it’s perfect.  The idea is that most o f the important work has already been completed.
+Gia wants to know why the negotiations on this deal (thi s agreement) are taking so long – are lasting such a long time.  She says, “I thou ght we would be putting the finishing touches on it by now.”  The expression “to put the finishing (or final) touches on (something)” means to be making small changes i n order to finish something so that it’s perfect.  The idea is that most of the important work has already been completed.
 
 Logan says, “The other side (the people they are negotia ting with) is holding out for more concessions.”  “To hold out” is a two-word phra sal verb meaning to delay agreeing to something because you are waiting to receive something more; usually we say you “hold out for” something.  For example,  someone wants to offer you a job and they offer you 50,000 dollars a yea r, and you say, “Uh, I’m not too sure.  Let me think about it,” and you wait, and yo u wait.  You are holding out for more money.  The boss may call you back and say, “Well, I’m sorry.  I need to make a decision, it’s been a week,” and you say, “Just one more day,” and he says, “Okay.  Just one more day.”  As time goes on the boss be comes more and more desperate.  He need to hire someone, and so you m ay get what you want because you have made him wait; you have used time to your advantage in the negotiation.  The same is true when you go to buy, for example, a new car at a place that sells a lot of cars.  The more time you can take with the salesperson, the more likely they will be to negotiate with you.  B ecause they’ve spent all that time with you they don’t want to have you walk away, and they having wasted an hour for example on trying to sell you a car.  Well, the  other side is holding out for concessions.  “Concessions” are things that you agree to do in order to reach an agreement.  It’s like a compromise; you say, “Well, okay.  I can’t give you more
 
@@ -2287,7 +2287,7 @@ Gia says, “After all of the time and money we’ve put int o this deal, they k
 
 Logan says, “That’s true and that’s why we’re still at the  table.”  “To be at the table” means to be continuing to participate in the ne gotiations – to continue to talk to them.  Logan says, “they may be pushing too hard ( meaning they may be trying to do too much – trying to get too much).  In the end, I don’t think we’ll cave on those additional concessions.”  “To cave” (cave) as a verb  means to agree to do what the other person wants you to do just so you can reach an agreement; “to give in” or “to give up” are also ways of saying same  thing.  Gia says, “So the entire thing (the entire negotiation) is touch-and-go  right now?”  “Touch-and-go” is something that could fall apart at any time; it’s some thing, we would say, that is very fragile.  “To be fragile” means you could break it e asily.  Well, the negotiations are fragile – they’re touch-and-go.
 
-Logan says, “That’s how I would characterize it (meaning t hat’s how I would describe it).  If I were you, I wouldn’t make any long-t erm plans (plans into the future).”  Gia says, “Duly noted.”  That phrase, “duly (d uly) noted,” is used to show that you have heard and understood what the other person has said and will think about it.  We use this phrase especially if we  need to make a decision about something.  Gia says, “Duly noted.  I won’t run ou t and buy that new house and those three new cars.”  “I won’t run out” means I w on’t go immediately and buy a new house and three new cars.  She’s joking, of cou rse.  She’s saying that she will not spend a lot of money because they still don’t  know how the negotiations are going to end up; that is, how they ar e going to come to a final result, what that result will be.
+Logan says, “That’s how I would characterize it (meaning t hat’s how I would describe it).  If I were you, I wouldn’t make any long-t erm plans (plans into the future).”  Gia says, “Duly noted.”  That phrase, “duly (d uly) noted,” is used to show that you have heard and understood what the other person has said and will think about it.  We use this phrase especially if we  need to make a decision about something.  Gia says, “Duly noted.  I won’t run ou t and buy that new house and those three new cars.”  “I won’t run out” means I w on’t go immediately and buy a new house and three new cars.  She’s joking, of cou rse.  She’s saying that she will not spend a lot of money because they still don’t  know how the negotiations are going to end up; that is, how they are going to come to a final result, what that result will be.
 
 Now let’s listen to the dialogue, this time at a norma l speed.
 
@@ -2311,9 +2311,9 @@ Gia:  Duly noted.  I won’t run out and buy that new h ouse and those three new
 
 I would characterize our scriptwriter as amazing.  That’s because it’s our own Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Moving Out of a Home
 
@@ -2339,7 +2339,7 @@ Ellie:  No, I’m moving out.  As you can see, I’m doing l ast-minute packing.
 
 Andre:  This looks like a major undertaking.  Are you movi ng yourself?
 
-Ellie:  No, the movers are coming with the moving van to morrow morning.  I’m moving a few things into storage, and I’ll take a few o f the perishables and essentials in my car, but they’ll be doing the heavy lifti ng.  No loading for me. Before they come, though, I need to disassemble this de sk and this bookcase. It’ll be a long afternoon.
+Ellie:  No, the movers are coming with the moving van to morrow morning.  I’m moving a few things into storage, and I’ll take a few of the perishables and essentials in my car, but they’ll be doing the heavy lifti ng.  No loading for me. Before they come, though, I need to disassemble this de sk and this bookcase. It’ll be a long afternoon.
 
 Andre:  I can see that.  Are you moving far?
 
@@ -2371,7 +2371,7 @@ Ellie continues, “As you can see, I’m doing last-minute packing.”  To do a
 
 Andre says, “This looks like a major undertaking.”  Anythin g that is “major” is large or important, big.  An “undertaking” is a task, a  job to do, often a long and difficult one.  So you will often see these words toget her, “a major undertaking,” meaning a big job to do.  “Are you moving yourself?” An dre says, meaning are you doing this alone, is no one helping you.  Of course, we think Andre is interested in stealing her stuff and so, of course, he wants to know if anyone else is coming over.
 
-Ellie, unhappily, says, “No, the movers are coming with the moving van tomorrow morning.”  The “movers” are the people whose job it is to come and help you pack.  You can actually hire people, pay them to come to yo ur house and help you put all your things into boxes if you have a lot of th ings, or perhaps if you’re old and don’t have the strength – or if you’re just lazy!   Ellie is having the movers come over tomorrow with the moving van.  By the way, I sho uld mention “mover” has a couple of different meanings in English, and those  are in the Learning Guide.  A “van” is a large truck that is used usually to m ove things from one place to another.  A “moving van” is usually a large what we w ould call “semi” or “semi truck.”  She says, “I’m moving a few things into storage, a nd I’ll take a few of the perishables and essentials in my car, but they’ll be doin g the heavy lifting.” “Storage” is a place where you can keep your boxes and oth er things, perhaps because you don’t have room in your house, perhaps because you are moving to a smaller house, or because you just hate to throw anythi ng away – to get rid of anything – and you have too much stuff.  We all have too  much stuff I think!
+Ellie, unhappily, says, “No, the movers are coming with the moving van tomorrow morning.”  The “movers” are the people whose job it is to come and help you pack.  You can actually hire people, pay them to come to yo ur house and help you put all your things into boxes if you have a lot of th ings, or perhaps if you’re old and don’t have the strength – or if you’re just lazy!   Ellie is having the movers come over tomorrow with the moving van.  By the way, I sho uld mention “mover” has a couple of different meanings in English, and those  are in the Learning Guide.  A “van” is a large truck that is used usually to m ove things from one place to another.  A “moving van” is usually a large what we w ould call “semi” or “semi truck.”  She says, “I’m moving a few things into storage, a nd I’ll take a few of the perishables and essentials in my car, but they’ll be doing the heavy lifting.” “Storage” is a place where you can keep your boxes and oth er things, perhaps because you don’t have room in your house, perhaps because you are moving to a smaller house, or because you just hate to throw anythi ng away – to get rid of anything – and you have too much stuff.  We all have too  much stuff I think!
 
 Ellie says, “I’ll take a few of the perishables and essenti als in my car.” Something that is “perishable” (perishable) is something , usually food, that you need to keep in a freezer or refrigerator.  If you d on’t, the food will, we would say, go bad; you won’t be able to eat it anymore.  So meat , for example: you can’t keep the meat outside of a refrigerator for two days, t he meat will go bad.  In fact, the recommended amount of time I think is two hours maxi mum.  So, she’s taking these perishable with her.  She’s also taking oth er “essentials,” things that she absolutely must have, things that she can’t wait to use : her toothbrush, or perhaps her favorite pillow.  The movers, however, will be doing the heavy lifting. “To lift” (lift) means to take something very heavy and move it off of the ground or off of a table.  You are picking it up; you are lifti ng it.  So, “heavy lifting” as a noun is when you have a lot of very heavy things – things that w eigh a lot that need to
 
@@ -2397,7 +2397,7 @@ Ellie:  No, I’m moving out.  As you can see, I’m doing l ast-minute packing.
 
 Andre:  This looks like a major undertaking.  Are you movi ng yourself?
 
-Ellie:  No, the movers are coming with the moving van to morrow morning.  I’m moving a few things into storage, and I’ll take a few o f the perishables and essentials in my car, but they’ll be doing the heavy lifti ng.  No loading for me. Before they come, though, I need to disassemble this de sk and this bookcase. It’ll be a long afternoon.
+Ellie:  No, the movers are coming with the moving van to morrow morning.  I’m moving a few things into storage, and I’ll take a few of the perishables and essentials in my car, but they’ll be doing the heavy lifti ng.  No loading for me. Before they come, though, I need to disassemble this de sk and this bookcase. It’ll be a long afternoon.
 
 Andre:  I can see that.  Are you moving far?
 
@@ -2423,7 +2423,7 @@ Andre:  Yeah, so am I.
 
 From Los Angeles, California, I’m Jeff McQuillan.  Come  back and listen to us again, if you have a chance, here at ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
 
 # Resembling One¡¦s Parents
 
@@ -2539,9 +2539,9 @@ Susanna:  Hmph!
 
 Our scriptwriter here is so good, you should see her like ness on statues!  It’s Dr. Lucy Tse, of course.  Thank you, Lucy.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Arranging Airport Transfer
 
@@ -2629,9 +2629,9 @@ Lucky for us, the hotel had a courtesy shuttle and it was o n its way.  Good thi
 
 If you relish listening to these scripts as much as I do, you  can thank our scriptwriter Dr. Lucy Tse.  Thank you, Lucy.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Being Lazy and Energetic
 
@@ -2639,7 +2639,7 @@ Welcome to English as a Second Language Podcast episode 6 36: Being Lazy and Ene
 
 This is ESL Podcast episode 636.  I’m your host, Dr. Jeff M cQuillan, coming to you from the Center for Educational Development in bea utiful Los Angeles, California.
 
-Our website is eslpod.com.  Go there to download a Lear ning Guide that contains a complete transcript of this episode.  The Guid e will help you learn English faster – and give you bigger muscles!
+Our website is eslpod.com.  Go there to download a Learning Guide that contains a complete transcript of this episode.  The Guid e will help you learn English faster – and give you bigger muscles!
 
 This episode is a dialogue between Carmen and Elias.  I t uses a lot of vocabulary related to the ideas of laziness and being ener getic.  Let’s get started.
 
@@ -2715,9 +2715,9 @@ Elias:  Telling my co-worker she’s a pain in the neck!
 
  The script for this episode was written by the energetic, productive, never a slacker, Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Planting Flowers and Trees
 
@@ -2801,7 +2801,7 @@ If you want your English to grow like a beautiful flow er, don’t put fertilize
 
 From Los Angeles, California, I’m Jeff McQuillan.  I ha ve no idea what I just said or what it means!  Thank you for listening.  Come back an d listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
 
 # Fire and Firefighters
 
@@ -2849,7 +2849,7 @@ The firefighters are coming.  Hugh says, “Yeah, let’s ge t back to work (mea
 
 Rebecca says, “How can you work with all of this excitement?  Maybe I should get the fire extinguisher from the hallway and go upsta irs to help.”  A “fire extinguisher” is a metal, typically round container that you hold in your hands, and you press a button and it sprays out a chemical that he lps put out a fire – a small fire, like in your kitchen for example.  “Extinguish er” comes from the verb “to extinguish,” which means to get rid of or put out a fire.  A fire extinguisher, of course, won’t really help in this situation; you need som ething larger.
 
-Hugh says, “I think that’s a really bad idea.  You can see for yourself that the firefighters are getting ready to fight the fire.”  W e use that verb, “to fight,” when we are talking about putting out a fire.  “They’re ge tting the ladder out and attaching the fire hose to the hydrant.”  A “ladder” (ladder) allows you to climb up high, for example to the top of a building.  A ladde r has two long pieces of metal or wood that are vertical – they go up and down, and then they are connected by smaller horizontal pieces of wood or metal, and those ar e the ones you use to step on to go up to a higher level.  Fire engines have ladders that can allow the firefighters to go up high to help fight the fires.
+Hugh says, “I think that’s a really bad idea.  You can see for yourself that the firefighters are getting ready to fight the fire.”  W e use that verb, “to fight,” when we are talking about putting out a fire.  “They’re ge tting the ladder out and attaching the fire hose to the hydrant.”  A “ladder” (ladder) allows you to climb up high, for example to the top of a building.  A ladde r has two long pieces of metal or wood that are vertical – they go up and down, and then they are connected by smaller horizontal pieces of wood or metal, and those are the ones you use to step on to go up to a higher level.  Fire engines have ladders that can allow the firefighters to go up high to help fight the fires.
 
 They are getting the ladder out, meaning they are get ting it ready, and attaching, or connecting, the fire hose to be hydrant.  A “hydrant ” (hydrant) is something that you will find near the road – near a street.  It  is usually painted red, sometimes orange, maybe yellow.  It is connected to the w ater pipes underneath the street, and firefighters can open the hydrant and water will come out and they use that water to put out the fire.  They use a “fire  hose,” which is a long, flexible usually plastic tube that carries the water from the hyd rant to the place of the fire.
 
@@ -2891,9 +2891,9 @@ Hugh:  Ah, that explains it.  Would it make you feel be tter if I lit up a cigar
 
 If you have a fascination with English, you should defini tely listen to the scripts that are written by our own Dr. Lucy Tse, like this episo de’s.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Ordering Soups and Salads
 
@@ -2943,19 +2943,19 @@ Our dialogue begins with Paulo telling us that he is g oing to a restaurant for 
 
 Paulo says, “Yes, I’d like an iced tea and I’m also ready t o order.  I’ll just have a bowl of soup and a salad.”  When he says “I’ll have” he means this is what I want to order.  When he says “I’ll just have” he means just thi s and nothing else.  He’s going to order a “soup,” which is a bowl of hot food, usually liquid or there’s liquid in it, that you eat with a spoon.  Or, he’s going to h ave a “salad,” which is when you have many different vegetables or possibly fruits, usual ly uncooked, that are torn into small pieces.  The most common vegetable in a salad is lettuce, which is typically green, although it can be red and perhaps bl ue – no, I don’t think it can be blue, just kidding!
 
-Ursula says, “Sure, no problem.  What kind of soup would you like?”  That’s a very polite way of asking: “would you like?”  “What kind o f soup would you like?” What kind of soup do you want?  She says, “We have chicken n oodle, minestrone, and cream of mushroom.”  “Chicken noodle so up” has small pieces of cooked chicken and long, spaghetti-like noodles.  In t he United States, it’s considered a food that you eat when you are not feelin g well.  When you have a cold, for example, your mother will make you a bowl o f hot chicken soup –
+Ursula says, “Sure, no problem.  What kind of soup would you like?”  That’s a very polite way of asking: “would you like?”  “What kind of soup would you like?” What kind of soup do you want?  She says, “We have chicken n oodle, minestrone, and cream of mushroom.”  “Chicken noodle so up” has small pieces of cooked chicken and long, spaghetti-like noodles.  In t he United States, it’s considered a food that you eat when you are not feelin g well.  When you have a cold, for example, your mother will make you a bowl of hot chicken soup –
 
  chicken noodle soup.  “Minestrone” (minestrone) is a soup we associate with Italy.  In Italian restaurants, at least in the U.S., t his soup has different kinds of vegetables and often a little bit of pasta.  It’s typical ly in a salty tomato, or perhaps spinach-based liquid.  “Cream of mushroom” is a  thick soup made from heavy cream or milk that has been blended together – put  together with cooked mushrooms and other spices.
 
 Paulo says, “Do you have something that’s hearty?”  The ad jective “hearty” (hearty), when used, in this case with soup, means somethi ng that will make you feel full after you finish eating it.  It’s very large,  and we would probably say it is filling.  A meal that is “filling” (filling) is a mea l that makes you feel like you can’t eat any more when you are done eating it.
 
-The server says, “If you want something hearty, I would sugg est our clam chowder or beef stew.”  “Clam chowder” is another thick s oup that is made with clams; “clams” are animals that live in the ocean, in wh at’s called a shell.  It’s also made with potatoes, heavy cream, sometimes bacon.  Tha t is what we call, actually, New England clam chowder.  In the Midwest, in Minnesota where I’m from, we called it Boston clam chowder.  Boston is in the region of the United States known as New England, which is in the northeast pa rt of the U.S., the oldest part of the United States when it comes to colo nists who came from Europe.  The other kind of clam chowder is red instead o f white.  New England clam chowder is white.  The other kind of clam chowder is red; it uses tomatoes instead of milk or cream, and that is called Manhattan clam chowder.  Manhattan is a part of New York City.  In fact, I think when I was growing up we sometimes called it New York clam chowder.  In any case, you have these  two kinds of clam chowder.  Clam chowder in the United States has traditi onally been served on Fridays.  Restaurants would have clam chowder on Fridays.  T hat was because there used to be a requirement for Catholics – people  of the Roman Catholic religion – not to eat meat on any Friday throughout t he year.  Those regulations changed in the 1960s.  However, the tradition of alwa ys having clam chowder on Friday continued with many restaurants, and still toda y when you go to a restaurant that has different kinds of soup they will oft en have a clam chowder on Friday.
+The server says, “If you want something hearty, I would sugg est our clam chowder or beef stew.”  “Clam chowder” is another thick s oup that is made with clams; “clams” are animals that live in the ocean, in wh at’s called a shell.  It’s also made with potatoes, heavy cream, sometimes bacon.  Tha t is what we call, actually, New England clam chowder.  In the Midwest, in Minnesota where I’m from, we called it Boston clam chowder.  Boston is in the region of the United States known as New England, which is in the northeast pa rt of the U.S., the oldest part of the United States when it comes to colo nists who came from Europe.  The other kind of clam chowder is red instead of white.  New England clam chowder is white.  The other kind of clam chowder is red; it uses tomatoes instead of milk or cream, and that is called Manhattan clam chowder.  Manhattan is a part of New York City.  In fact, I think when I was growing up we sometimes called it New York clam chowder.  In any case, you have these  two kinds of clam chowder.  Clam chowder in the United States has traditi onally been served on Fridays.  Restaurants would have clam chowder on Fridays.  T hat was because there used to be a requirement for Catholics – people  of the Roman Catholic religion – not to eat meat on any Friday throughout t he year.  Those regulations changed in the 1960s.  However, the tradition of alwa ys having clam chowder on Friday continued with many restaurants, and still toda y when you go to a restaurant that has different kinds of soup they will oft en have a clam chowder on Friday.
 
 The second kind of hearty soup Ursula recommends is beef stew .  “Stew” (stew) is a thick soup that is made by cooking meat, vegetables, an d potatoes in a liquid that is salty, usually, for several hours; it takes a long  time to make a good beef stew.  There are different kinds of stew; beef is the mo st common meat you will find in stews, though you can make them with other meat s of course.  In Minnesota, every fall there are beef stews that are mad e as part of large celebrations, what are called fall festivals, and the ste w is made in a very large
 
  pot.  This is called in Minnesota “booya” (booya).  If you go to Minnesota or the Midwest in the fall you will find booya, at least in Mi nnesota and Wisconsin. More recently, the word “booya” has taken on a different  meaning; it is often spelled with an “h” at the end, and it means sort of “ take that,” or “there you go.” It’s something you yell at someone in certain situations.  We’ll talk about that on a different episode.
 
-Getting back to our food: Paulo says, “I’ll take a bowl o f beef stew.”  “I’ll take” means same as “I’ll have,” it means “I want to order.”  The server says, “Great! What kind of salad would you like: a chef salad, Caesar s alad, or Cobb salad?” These are three common salads found in American restauran ts.  Let’s start with the chef (chef) salad.  A “chef salad” typically has lettuce , it has an egg that is completely cooked; we would call in a hard boiled egg.  It has small pieces of ham, chicken, cheese, as well as some other vegetables.  That ’s a chef salad.  A “Caesar (Caesar) salad” is a salad that has a special kind o f lettuce called Romaine lettuce in a dressing – a Caesar dressing.  “Dre ssing” is the liquid that you often put on top of the salads.  A Caesar salad has ch eese; it has usually what are called “croutons,” which are small pieces of crunchy fried bread. Sometimes there’s chicken or shrimp on the top of a Caesa r salad, but not always.  The Caesar dressing itself is made from several dif ferent ingredients, including olive oil, garlic, and anchovies.  A “Cobb (Cob b) salad” is a type of salad that has different kinds of lettuce.  It also has a  hard boiled egg, small piece of ham and chicken, cheese, sometimes avocado, tomato, and on top there is what is called a “blue cheese dressing,” which is made, of course, from cheese.
+Getting back to our food: Paulo says, “I’ll take a bowl of beef stew.”  “I’ll take” means same as “I’ll have,” it means “I want to order.”  The server says, “Great! What kind of salad would you like: a chef salad, Caesar s alad, or Cobb salad?” These are three common salads found in American restauran ts.  Let’s start with the chef (chef) salad.  A “chef salad” typically has lettuce , it has an egg that is completely cooked; we would call in a hard boiled egg.  It has small pieces of ham, chicken, cheese, as well as some other vegetables.  That ’s a chef salad.  A “Caesar (Caesar) salad” is a salad that has a special kind of lettuce called Romaine lettuce in a dressing – a Caesar dressing.  “Dre ssing” is the liquid that you often put on top of the salads.  A Caesar salad has ch eese; it has usually what are called “croutons,” which are small pieces of crunchy fried bread. Sometimes there’s chicken or shrimp on the top of a Caesa r salad, but not always.  The Caesar dressing itself is made from several dif ferent ingredients, including olive oil, garlic, and anchovies.  A “Cobb (Cob b) salad” is a type of salad that has different kinds of lettuce.  It also has a  hard boiled egg, small piece of ham and chicken, cheese, sometimes avocado, tomato, and on top there is what is called a “blue cheese dressing,” which is made, of course, from cheese.
 
 Paulo doesn’t want a chef, Caesar, or Cobb salad.  He says, “I’ll just have a garden salad.”  A “garden salad” is a small, simple sal ad made with lettuce and a few other vegetables, but no meat and typically no cheese .
 
@@ -3005,9 +3005,9 @@ Paulo:  Yes, that’s all. … By the time I had finished placing my order, I wa
 
 You can’t get chicken noodle soup here, but you can get some excellent scripts written by our own Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Being Genuine and False
 
@@ -3045,13 +3045,13 @@ Well here, someone – Terry – is cozying up to Floriane.  Floriane says, “H
 
 Javier says, “Sure, he was.”  Remember Floriane said that Terry was just giving her some advice on her proposal; he wasn’t trying to cozy up  to her she says. But Javier doesn’t believe her; he says, “Sure, he was.”  Notice he seems to be agreeing with Floriane, but in fact he means the opp osite; it depends on the way you say it.  If a husband comes home late from work and says that he was working late on a project, if his wife doesn’t believe him she might say, “Sure, you were.”  It’s the tone – it’s the intonation that dete rmines what the meaning is here, and here Javier is doubting what Floriane is saying .  He says, “What were his true intentions?”  “His true intentions” are the r eal reasons why he was doing something.
 
-Floriane says, “I think he was being upfront about wanti ng to help a new employee.”  He was just trying to help her – he was bei ng upfront.  “Upfront” (upfront – one word) means direct, honest, without tryi ng to hide anything. Floriane says, “I don’t think he (Terry) had an ulterior  motive.”  An “ulterior motive” means a secret, hidden reason for doing somethin g, especially if it has
+Floriane says, “I think he was being upfront about wanti ng to help a new employee.”  He was just trying to help her – he was bei ng upfront.  “Upfront” (upfront – one word) means direct, honest, without trying to hide anything. Floriane says, “I don’t think he (Terry) had an ulterior  motive.”  An “ulterior motive” means a secret, hidden reason for doing somethin g, especially if it has
 
  negative consequences for someone else.  If someone says, “ Oh, I will help you for free,” they might have an ulterior motive; they mig ht have some other reason why they are helping you, not just because they are nice.
 
 Well, Floriane does not think that Terry has an ulteri or motive.  Javier says, “I wouldn’t take Terry at face value.”  “To take (someone ) at face value” means to understand or to accept something as it appears, without  thinking there is a hidden meaning or hidden explanation.  If someone says,  “I’m busy, I’m sorry I can’t help you,” you will probably take their word at fa ce value, meaning okay, they’re busy; I believe that.  But, Javier says that you sho uld not take Terry at face value.  He says that Terry has a reputation around t he office for being two- faced.  A “reputation” is what other people think abou t you, it’s other people’s opinions about you.  “To be two-faced” means that you a re dishonest; you are not trustworthy.  You say things to one person, and then  you’ll talk to someone else about the same subject and you’ll say something differ ent.  You tell one person that you like your boss, you tell another person tha t you hate your boss; that’s being two-faced.  Javier says that Terry will try to get to know you under false pretenses and then stab you in the back.  Wow, this T erry’s a pretty evil person!  The expression “false pretenses” (pretenses) means dishonestly, not honestly, someone pretending to do or to be something that isn’t real – isn’t true.
 
-Javier says that Terry will try to get to know Floriane und er false pretenses. Notice we use the word “under” with this phrase – so und er false pretenses.  And then, after he knows her, he will stab her in the back.  The expression “to stab (stab) (someone) in the back” means to suddenly do somethin g that will hurt the other person.  You’ve been very nice to someone, but then  when you see an opportunity perhaps to get something you want you will st ab that person in the back.  You will do something mean – something bad to th em in order for you to get what you want.  The verb we would use here is “to b etray” (betray); “to betray (someone),” to do something that the other person is no t expecting in order to hurt them after you have been nice to them.  Literally,  “to stab someone in the back” would be to take a knife and put it into the back o f the person, obviously trying to kill them.
+Javier says that Terry will try to get to know Floriane und er false pretenses. Notice we use the word “under” with this phrase – so und er false pretenses.  And then, after he knows her, he will stab her in the back.  The expression “to stab (stab) (someone) in the back” means to suddenly do somethin g that will hurt the other person.  You’ve been very nice to someone, but then  when you see an opportunity perhaps to get something you want you will st ab that person in the back.  You will do something mean – something bad to th em in order for you to get what you want.  The verb we would use here is “to b etray” (betray); “to betray (someone),” to do something that the other person is no t expecting in order to hurt them after you have been nice to them.  Literally,  “to stab someone in the back” would be to take a knife and put it into the back of the person, obviously trying to kill them.
 
 Floriane says, “I don’t get that feeling from Terry.”  She doesn’t agree with Javier. She says, “He seemed genuine and open.”  “To be genuine ” means to be real, to be true.  Here, really it means to be sincere; someone  who is “sincere” is telling the truth, means what they say.  “Open” here means willi ng to share information with another person, not hiding anything.  The word “ open” has a couple of different meanings, as does the word “upfront,” which w e talked about earlier. Those can be found in our Learning Guide.
 
@@ -3083,9 +3083,9 @@ Floriane:  In that case, I’d better get back to work, an d I’ll keep your wa
 
 The script for this episode was written by our genuinely n ice scriptwriter, Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Sharing With Others
 
@@ -3157,7 +3157,7 @@ Julia says, “You’re such a baby.  Okay, if you don’t run to Mom (if you do
 
 Julia says that she will let Benny sit in the front seat n ext time.  Benny says, “You will?  You promise?”  Julia responds, “I cross my heart and  hope to die.”  “To cross your heart and hope to die” is a promise; it’s an in formal phrase, again often used by children to show that they are being hone st, that they really mean what they are saying.  “I cross my heart and hope to die, ” you’re saying you must believe me, I am telling you the truth.
 
-Benny says, “All right, but I still want my fair share o f the candy.”  Julia says, “Okay, I’ve evened out the piles.”  “To even out” is a ph rasal verb meaning to make two things equal in size; in this case, the two piles of candy.  Then Julia says, “Satisfied?” meaning are you happy now, are you sati sfied Benny.  Benny says, “Yeah.  And can I do the divvying up next time?”  So  now he’s asking for something else; he wants to be the one to divide the can dy the next time there is candy.  Julia says, “Don’t push your luck!”  “To push your luck” is a phrase meaning to ask for too much, to ask for too many things es pecially after you have already asked for something.  So you go to your boss and yo u say, “Boss, I want a raise: a dollar an hour.”  The boss says, “Okay.”  And t hen you say, “I also want
+Benny says, “All right, but I still want my fair share of the candy.”  Julia says, “Okay, I’ve evened out the piles.”  “To even out” is a ph rasal verb meaning to make two things equal in size; in this case, the two piles of candy.  Then Julia says, “Satisfied?” meaning are you happy now, are you sati sfied Benny.  Benny says, “Yeah.  And can I do the divvying up next time?”  So  now he’s asking for something else; he wants to be the one to divide the can dy the next time there is candy.  Julia says, “Don’t push your luck!”  “To push your luck” is a phrase meaning to ask for too much, to ask for too many things es pecially after you have already asked for something.  So you go to your boss and yo u say, “Boss, I want a raise: a dollar an hour.”  The boss says, “Okay.”  And t hen you say, “I also want
 
  two more weeks of vacation.”  Your boss may say, “Don’t push  your luck,” meaning you’ve already asked for something, don’t keep aski ng for something else.
 
@@ -3201,9 +3201,9 @@ Julia:  Don’t push your luck!
 
 It’s never a bummer to listen to the scripts written by o ur wonderful scriptwriter, Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Installing Windows and Doors
 
@@ -3303,9 +3303,9 @@ Vern:  Yes, but will you be able to put in the new on e before I die of frostbit
 
 We hope that you are learning as you go by listening to  these podcasts.  We thank our scriptwriter, Dr. Lucy Tse, for making that possib le.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Liberal and Conservative News
 
@@ -3313,7 +3313,7 @@ Welcome to English as a Second Language Podcast number 6 43: Liberal and Conserv
 
 This is English as a Second Language Podcast episode 643.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California.
 
-Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode to help you improve your English even faster than  if you just stayed home and drank beer!
+Our website is eslpod.com.  Go there to download a Learning Guide for this episode to help you improve your English even faster than  if you just stayed home and drank beer!
 
 This episode is called “Liberal and Conservative News.”  It  will use a lot of vocabulary that is used in American politics and media to describe two different philosophical views of the way the government should work .  Let’s get started.
 
@@ -3349,11 +3349,11 @@ Rachel says, “I enjoy reading it.  I like its news coverage a nd its incisive 
 
 Liberal, as I said before, is a political philosophy that  in modern American terms tends to want to have larger government programs, where as conservatives tend to want to have a smaller government presence.  Again, I don’t want to talk too much about that because it’s impossible to summarize it in  a short amount of time.
 
- Bill calls the newspaper a liberal propaganda rag.  “P ropaganda” is information that is often false that is used to try to persuade peop le to believe in a particular idea or action, especially in politics.  Bill is saying th at this newspaper is not objective – it’s not giving you the news without any sort o f bias.  Instead, it is a liberal propaganda rag; it is trying to promote a cert ain political philosophy.  He says, “You can’t believe a thing (meaning you can’t believe  anything) they print in there.”  “To print” here means to publish something usu ally in a newspaper, magazine, or book.
+ Bill calls the newspaper a liberal propaganda rag.  “P ropaganda” is information that is often false that is used to try to persuade peop le to believe in a particular idea or action, especially in politics.  Bill is saying th at this newspaper is not objective – it’s not giving you the news without any sort of bias.  Instead, it is a liberal propaganda rag; it is trying to promote a cert ain political philosophy.  He says, “You can’t believe a thing (meaning you can’t believe  anything) they print in there.”  “To print” here means to publish something usu ally in a newspaper, magazine, or book.
 
 Rachel says, “That’s not true.  The news stories are object ive and unbiased.” Rachel is defending her newspaper, saying that it is “obj ective,” meaning it’s based on the facts, it’s not just opinion.  She also says it’s “unbiased,” which is the opposite of biased – not biased.  If something is “ biased,” it has one point of view and it only reflects one point of view – one philoso phy, in this case. “Unbiased” would be something that is objective, it doesn ’t take one side of the argument over another.  Rachel says that this magazine – a nd I guess I thought she was reading a newspaper – “This magazine isn’t like the newspapers and news websites you read.  Those are run by (those are opera ted by) ultraconservative reactionaries, who only know how to write  diatribes.”  There are lots of terms, some of them insulting terms, that are us ed in American politics to describe each side of the political spectrum – each side of the political range of views.  When you say someone is an “ultraconservative,” you me an they are very, very conservative – extremely conservative, too conservati ve really.  A “reactionary” is someone who doesn’t like change and want s to go, often, back in time, without even understanding completely what’s goin g on today.  Again, this is a term that liberals in the U.S. would use to describ e conservatives and make them seem extreme.
 
-Conservatives have their own words to describe liberals; man y times they’ll talk about the “far left”; you can also talk about the “far right.”  The far left would be people who are very extreme in their liberal views.  Con servatives would also use terms like the “loony left.”  “Loony” (loony) means sort o f crazy, in this case.  So, each side has its own insulting terms that it likes to use.   Those people who are in the middle, who are not liberal or conservative, we  call “moderates” or “middle of the road,” they’re not too far on either side.
+Conservatives have their own words to describe liberals; man y times they’ll talk about the “far left”; you can also talk about the “far right.”  The far left would be people who are very extreme in their liberal views.  Con servatives would also use terms like the “loony left.”  “Loony” (loony) means sort of crazy, in this case.  So, each side has its own insulting terms that it likes to use.   Those people who are in the middle, who are not liberal or conservative, we  call “moderates” or “middle of the road,” they’re not too far on either side.
 
 Rachel says that the magazines and newspapers that Bill rea ds only write diatribes.  A “diatribe” (diatribe) is a long written  or spoken attack on someone. When you are criticizing someone, you take a long time an d you really attack or criticize everything about that person or that view.  Rach el says, “If I only read
 
@@ -3393,11 +3393,11 @@ Rachel:  Oh, it’s nothing, honey.  Go back to sleep.  Y our Dad and I are just
 
 [end of dialogue]
 
-Our objective and unbiased scriptwriter is Dr. Lucy Tse.  T hank you, Lucy.
+Our objective and unbiased scriptwriter is Dr. Lucy Tse.  Thank you, Lucy.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Giving a Successful Presentation
 
@@ -3439,7 +3439,7 @@ Herman says, “I can’t believe it.  I wasn’t expecting that  kind (or that 
 
 “The audience,” Herman says, the people who were listen ing, “seemed to like it.” The event organizer says, “Like it?  They were on the ed ge of their seats.”  She says “like it” meaning they didn’t just like it, they loved it.  “They were on the edge (edge) of their seats.”  The “seat” is where you sit in  an auditorium or a stadium. The “edge” is at the very end or border, if you will, of the seat.  It’s where your body is just barely on the seat.  The expression “to be on the edge of your seat” means that you are so interested, you’re so eager to hear  or see something that you may be sitting up in your seat, almost like you’re abou t to stand up.  That’s to be on the edge of one’s seat.  Herman says, “The presenta tion actually started slowly, but it seemed to gain traction in the middle.”  The expression “to gain traction” (traction) means to have more success, to get bett er.  To begin to be more well received, that’s to gain traction.
 
- The event organizer says, “You had the audience hooked fr om the start.”  “To be hooked” (hooked) means to like something and need someth ing, you want more of it; you like it and you want even more.  This could b e true in, for example, someone who is using certain drugs.  They may be hooked on – notice the preposition we use, “on” – hooked on a certain drug.  The other words here would be “addicted,” especially if you are talking about drugs.  However, to be “hooked” or “hooked on (something)” is an expression we can use for just about anything.  In this case, Herman had the audience hooked; in other words, the audience was very interested.  They needed and wanted mo re from the start – from the very beginning of his presentation.  She says, “Y ou could have heard a pin drop in there.”  The expression “you could have heard  a pin drop” means that it is a situation where everyone is quiet because they are  interested in something; they want to hear what will happen next.  W hen someone makes an announcement in front of a group of people that is ver y important, everyone will be quiet and listen.  That’s where you could hear a pi n drop.  Well, this is the past tense, so the event organizer says, “You could have heard a  pin drop,” it was that quiet.  It was so quiet you could hear a pin dropping  on the floor.  A “pin,” I should mention is a small piece of usually metal that you put in to something – you stick into something, usually to keep something in place.  For example, you may have an announcement – a piece of paper, and you take a kind of pin called a “push pin,” and you put into the wood or you put it into the board so that the announcement – the piece of paper stays.  Well that’s a p in; it’s a small, sharp piece of metal that goes into something.
+ The event organizer says, “You had the audience hooked fr om the start.”  “To be hooked” (hooked) means to like something and need someth ing, you want more of it; you like it and you want even more.  This could b e true in, for example, someone who is using certain drugs.  They may be hooked on – notice the preposition we use, “on” – hooked on a certain drug.  The other words here would be “addicted,” especially if you are talking about drugs.  However, to be “hooked” or “hooked on (something)” is an expression we can use for just about anything.  In this case, Herman had the audience hooked; in other words, the audience was very interested.  They needed and wanted mo re from the start – from the very beginning of his presentation.  She says, “You could have heard a pin drop in there.”  The expression “you could have heard  a pin drop” means that it is a situation where everyone is quiet because they are  interested in something; they want to hear what will happen next.  W hen someone makes an announcement in front of a group of people that is ver y important, everyone will be quiet and listen.  That’s where you could hear a pi n drop.  Well, this is the past tense, so the event organizer says, “You could have heard a  pin drop,” it was that quiet.  It was so quiet you could hear a pin dropping  on the floor.  A “pin,” I should mention is a small piece of usually metal that you put in to something – you stick into something, usually to keep something in place.  For example, you may have an announcement – a piece of paper, and you take a kind of pin called a “push pin,” and you put into the wood or you put it into the board so that the announcement – the piece of paper stays.  Well that’s a p in; it’s a small, sharp piece of metal that goes into something.
 
 You could have heard a pin drop when Herman was “going  over,” or talking about, his “main points,” the main or most important t hings in the speech.  She says to Herman, “Your presentation is undoubtedly the hig hlight of the conference.”  “Undoubtedly” means clearly, without a dou bt, obviously.  A “highlight” is the best part of something, the most int eresting or beautiful or important part of something.  You could say, “I went t o Rome, and the highlight of my trip was to see Michelangelo’s Pietà,” that’s the high light, that was the best part.
 
@@ -3477,9 +3477,9 @@ Herman:  But I don’t have anything else to say.
 
 The highlight of all our podcasts is the script written b y Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Shaving Your Face
 
@@ -3487,7 +3487,7 @@ Welcome to English as a Second Language Podcast number 6 45: Shaving Your Face.
 
 This is English as a Second Language Podcast episode 645.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development, right here in Los Angeles, California.
 
-Our website is eslpod.com.  Go there to download a Lear ning Guide for this episode that will help you improve your English – and m ake your day a little happier!
+Our website is eslpod.com.  Go there to download a Learning Guide for this episode that will help you improve your English – and make your day a little happier!
 
 This episode is called “Shaving Your Face.”  It’s a story ab out me shaving; that is, removing hair from my face.  Let’s get started. > I forgot to set my alarm last night and I woke up later  than usual.  I was tempted to skip my morning shave, but I hate having long stubble a ll day.  I like to be clean-shaven every day.  I’m the kind of guy who gets a fiv e-o’clock shadow early in the afternoon, so if I skipped my morning shave, I’d look like I was growing a beard by the end of the day.
 > I went into the bathroom and picked up my shaving cream.  I lathered up my face and checked to see that my razor was sharp and that I didn’ t need to replace the razor blades.  There’s nothing worse than trying to shave with a dull razor.  I tried using an electric razor for a while, but I could never get a close enough shave.
@@ -3517,9 +3517,9 @@ Now let’s listen to the dialogue, this time at a norma l speed. > I forgot to 
 
  I’m never tempted to skip listening to these ESL Podcasts, because the script is written by our very own Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # War-Related Disabilities
 
@@ -3561,13 +3561,13 @@ Elena:  Yes, he has a serious case of paralysis, cause by extr eme laziness.  Is
 
 Elena begins our dialogue by asking Wieland, “How do you  like your new job at the Veteran’s Hospital?”  A “veteran” (veteran) is a per son who has been in the military, usually during a war.  A person who is no long er in the military, in the army or navy for example, but they used to be; they were in military service.  My father was a veteran.  He was in the U.S. Army during W orld War II.  A “veteran” can also be a more general term to refer to someone wh o has been through some difficult experience or in an organization that had  problems and this person has a lot of experience.  Or it can just mean someone wh o’s very experienced in what they do.  “She’s a veteran news reporter,” meaning  she has a lot of experience; she’s been doing it for many years.  Here, ho wever, “veteran” means someone was in the military.  The U.S. government has sp ecial hospitals for veterans, especially those who are coming back from war who are injured, who perhaps have lost their legs or one of their arms.  We ca ll these veteran’s hospitals.  There’s one here in Los Angeles; there’s one in almost every big city in the United States, and they are operated by the U. S. government.
 
-Wieland says, “I like it a lot (I like my job).  It’s real ly rewarding.”  Something that is “rewarding” is something that gives you a sense of sati sfaction, that makes you feel this is worthwhile.  Certainly for me, recording t hese podcasts is very rewarding.  Elena says, “What do you do there, exactly?”  What kind of work do you do at the hospital?  Wieland says, “My job is to help  returning vets who have been physically injured adjust to living with their medica l disabilities.”  Lots of terms there; let’s start with “returning vet.”  A “retu rning vet” is a returning veteran; “vet” is short for veteran.  This is a person who is coming back from a war zone, or from a place where they were stationed – where they were working. They’re coming back to the United States; they’re return ing, and hence – therefore we have the term “returning vets.”  “Vet” (ve t) actually has a couple of different meanings in English; take a look at our Lear ning Guide for some more explanations.
+Wieland says, “I like it a lot (I like my job).  It’s real ly rewarding.”  Something that is “rewarding” is something that gives you a sense of sati sfaction, that makes you feel this is worthwhile.  Certainly for me, recording t hese podcasts is very rewarding.  Elena says, “What do you do there, exactly?”  What kind of work do you do at the hospital?  Wieland says, “My job is to help  returning vets who have been physically injured adjust to living with their medica l disabilities.”  Lots of terms there; let’s start with “returning vet.”  A “retu rning vet” is a returning veteran; “vet” is short for veteran.  This is a person who is coming back from a war zone, or from a place where they were stationed – where they were working. They’re coming back to the United States; they’re return ing, and hence – therefore we have the term “returning vets.”  “Vet” (ve t) actually has a couple of different meanings in English; take a look at our Learning Guide for some more explanations.
 
  These returning vets have been “physically injured.”  “Physica lly” refers to your body, things that you can feel and see.  “Injured” is the same as hurt or broken. If you injured your foot it hurts; you did something to  it that has damaged it somehow.  “To adjust” means to adapt to something, to  go from one situation to another situation – “to adjust to.”  “Medical” refers t o medicine, things that are used to help you get better.  A “disability” is something  that you cannot do.  Here, it means some typically part of your body that isn’t working  the way it should, or perhaps you’ve lost a leg or you’ve lost a finger; you have  a medical disability. Why do we say “medical disability,” since we are talking ab out the body?  Well, it’s possible to have other disabilities.  In school, someti mes we talk about “learning disabilities,” things that are related to the way you learn, things that you perhaps have difficulty with.  Here, it refers to injur ies – physical injuries to the body.
 
 Wieland says, “My job is to help returning vets who have b een physically injured adjust to living with their medical disabilities.”  Elen a says, “You mean people who have lost limbs?”  A “limb” (limb – the “b” is silen t, we don’t pronounce it) is either an arm or a leg.  You have four limbs: two arm s and two legs.  Wieland says, “Yes, some of the vets (some of the veterans) have had  one or more limbs amputated.”  “To amputate” (amputate) means to remove  either an arm or a leg or possibly a finger or toe.  To physically remove it from your body, we would say to remove it surgically.  You have a special doctor called  a “surgeon,” who is responsible for things like “amputations,” which is the n oun.  So yes, some of the vets have had limbs amputate.  We call someone who has a limb amputated an “amputee,” that’s a person who has had a limb amputate d.  Wieland says, “But that’s only one of the many disabilities we see at the h ospital.  For instance, this week I’m working with a vet who suffered serious hearing  loss and a woman who has developed a visual impairment.”  “Hearing loss” is whe n you are unable to hear very well.  There could be a lot of causes for tha t.  “Visual” refers to your eyes, what you can see.  An “impairment” is something simi lar to a disability; it’s something that you cannot do or cannot do very well.  A “visual impairment” is when you can’t see very well.
 
-Elena says, “It sounds like a very hard job (a very difficul t job).”  Wieland says, “It can be, but it’s also inspiring sometimes.”  “Inspiring” m eans motivating, making you believe that anything is possible, making you want to t ry harder.  Wieland says that he’s seen people who are paralyzed – paraplegics and quadriplegics – overcome their disabilities and lead full and happy lives.   “To be paralyzed” means to be unable to move some part of your body, usua lly because there’s some medical problem.  We also have an expression “to be p aralyzed with fear,” meaning you’re so afraid that you can’t move.  But norm ally, “paralyzed” is a medical condition – a disability.  There are two common types of paralyzed
+Elena says, “It sounds like a very hard job (a very difficul t job).”  Wieland says, “It can be, but it’s also inspiring sometimes.”  “Inspiring” m eans motivating, making you believe that anything is possible, making you want to t ry harder.  Wieland says that he’s seen people who are paralyzed – paraplegics and quadriplegics – overcome their disabilities and lead full and happy lives.   “To be paralyzed” means to be unable to move some part of your body, usua lly because there’s some medical problem.  We also have an expression “to be p aralyzed with fear,” meaning you’re so afraid that you can’t move.  But normally, “paralyzed” is a medical condition – a disability.  There are two common types of paralyzed
 
  conditions.  One of them is to have no ability to use your  legs; from your waist down you can’t move your body.  We call someone who has t hat condition a “paraplegic” (paraplegic).  That’s from the waist down,  the bottom half of your body.  If you can move the top or the bottom half of you r body we would call you a “quadriplegic.”  This is someone paralyzed we would say from the neck down, meaning anything below their neck.  You can move your hea d perhaps, but not anything else.  Unfortunately that happens sometimes whe n people have serious injuries; it could be in war, it could even in a car acci dent.
 
@@ -3603,11 +3603,11 @@ Elena:  Yes, he has a serious case of paralysis, cause by extr eme laziness.  Is
 
 [end of dialogue]
 
-We hope you found listening to this script rewarding.  T hank you Dr. Lucy Tse for writing it.
+We hope you found listening to this script rewarding.  Thank you Dr. Lucy Tse for writing it.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Using a Smartphone
 
@@ -3615,7 +3615,7 @@ Welcome to English as a Second Language Podcast number 6 47: Using a Smartphone.
 
 This is English as a Second Language Podcast episode 647.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for Educa tional Development in beautiful Los Angeles, California.
 
-Our website is eslpod.com.  Go there to download a Lear ning Guide, an 8- to 10- page guide we provide for all of our current episodes t hat gives you the complete transcript of this episode, as well as cultural notes, vocabu lary, definitions, sample sentences – well, just about everything you want in a Learning Guide!
+Our website is eslpod.com.  Go there to download a Learning Guide, an 8- to 10- page guide we provide for all of our current episodes t hat gives you the complete transcript of this episode, as well as cultural notes, vocabulary, definitions, sample sentences – well, just about everything you want in a Learning Guide!
 
 This dialogue is between Hitomi and Jason.  They’re talki ng about using a smartphone.  Let’s get started.
 
@@ -3649,9 +3649,9 @@ Well, Jason is unboxing his new smartphone.  The term “sm artphone” (one wor
 
 Jason says that his smartphone has every feature under the su n.  A “feature” is a characteristic, something special about that product.  Our Learning Guides have several features: vocabulary, definitions, sample sentences.  All of those are things that are special, that are included.  Software, a new car, a television – just about anything can have different features – different characteristics.  This smartphone has every feature under the sun.  To say that it “has every (something) under the sun” means it has many different types of that thing; in this case, it has many different features.
 
-So, Jason thinks his smartphone has every feature under the  sun, all of those that you could possibly want.  Hitomi says, “Every feature?”   Jason says, “It has a high quality camera and video camera.”  A “camera” is a d evice that you use, a machine, that takes pictures – that takes photographs.  Th ere are many different, however, uses of that word “camera.”  Take a look at the  Learning Guide for some more of those.  One use is a “video camera,” this is a  camera that records video, obviously.  Jason says that his smartphone is also a vid eophone.  A “videophone” is a telephone that allows you to see the p erson that you are calling.  That is something that, for example, you can d o, I know, on the iPhone with other people who have iPhones.  That’s a videophon e.  Jason says his phone also has a great GPS program.  “GPS” stands for g lobal positioning system.  It’s a technology that allows you to use typically a sa tellite to know exactly where you are, and you can look at a map and see w here you are.  Many cars nowadays have a GPS system in them that will help you f ind your way to wherever you’re going.  This is especially useful if you ar e in a place that you are not familiar with.  Jason says that the phone has a touch- screen and keyboard
+So, Jason thinks his smartphone has every feature under the  sun, all of those that you could possibly want.  Hitomi says, “Every feature?”   Jason says, “It has a high quality camera and video camera.”  A “camera” is a d evice that you use, a machine, that takes pictures – that takes photographs.  Th ere are many different, however, uses of that word “camera.”  Take a look at the  Learning Guide for some more of those.  One use is a “video camera,” this is a  camera that records video, obviously.  Jason says that his smartphone is also a vid eophone.  A “videophone” is a telephone that allows you to see the p erson that you are calling.  That is something that, for example, you can d o, I know, on the iPhone with other people who have iPhones.  That’s a videophon e.  Jason says his phone also has a great GPS program.  “GPS” stands for g lobal positioning system.  It’s a technology that allows you to use typically a sa tellite to know exactly where you are, and you can look at a map and see w here you are.  Many cars nowadays have a GPS system in them that will help you f ind your way to wherever you’re going.  This is especially useful if you are in a place that you are not familiar with.  Jason says that the phone has a touch- screen and keyboard
 
- that are easy to use.  A “touch-screen” is a flat panel o f an electronic device that can tell – that senses when you touch it, and allows you to  do different things. Again, many of the Android phones and the iPhone allo w you to use your finger to move something from one side of the screen to the oth er for example, or to “tap” on the screen, to place your finger quickly once or  twice on the screen in order to perform some action.  A “keyboard” is what you use for typing – what you use for putting letters, numbers, punctuation.  It’s what you use on your computer all the time.  I should also mention that “ touch” can be used in a number of different ways, and those can be found in our  Learning Guide as well.
+ that are easy to use.  A “touch-screen” is a flat panel of an electronic device that can tell – that senses when you touch it, and allows you to  do different things. Again, many of the Android phones and the iPhone allo w you to use your finger to move something from one side of the screen to the oth er for example, or to “tap” on the screen, to place your finger quickly once or  twice on the screen in order to perform some action.  A “keyboard” is what you use for typing – what you use for putting letters, numbers, punctuation.  It’s what you use on your computer all the time.  I should also mention that “ touch” can be used in a number of different ways, and those can be found in our  Learning Guide as well.
 
 Jason says that the touch-screen and keyboard are easy to use and everything is so intuitive.  When we say something is “intuitive” (intui tive) we mean it’s very easy for you to understand; you can make sense of it even tho ugh you may not have used it before.  Usually when we say “intuitive,” we mean that it is similar to something else that we do know how to use.  Jason says it is so easy, it is so intuitive to use even a child could use it.  Hitomi says, “ Yeah, but a child couldn’t afford the expensive price tag, right?”  “To afford” me ans to have enough money. The “price tag” (tag) is how much something costs.  Often  when you go into a store, you are looking at for example a new chair or som e other object, you look for the price tag.  You look for the little piece of  paper that says how much it costs.  It can sometimes be used to mean more generally the price.  “So, what’s the price tag on that new car?”  You’re not talking a bout the actual piece of paper – which would probably be called the sticker price, anyway, for a car – you’re talking about what the price is.
 
@@ -3691,9 +3691,9 @@ Jason:  A telephone call?  You mean a regular phone cal l?  Yes, I think  so.
 
 We have scripts on almost every topic under the sun, brought  to you by our own Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Than k you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and produ ced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2010 by the Center  for Educational Development.
+
+
 
 # Working on Commission
 
@@ -3759,7 +3759,7 @@ Andy says, “What do you mean by that?”  Georgia say s, “I think you might 
 
 Well, Georgia is saying shame on you, Andy, because  she thinks Andy actually likes Carla and would like Carla to be, I guess, hi s girlfriend – assuming he doesn’t have a girlfriend.  Of course, Andy denies this – doesn’t agree with Georgia.  He says, “Are you crazy?!  Didn’t I just tell you that I didn’t like her at all (not even a little bit)?”  Georgia says, “Yes, but you said it with such passion (passion)!”  “Passion” is a strong emotion, a stron g feeling, a strong opinion often about a romantic interest.  So, Georgia is saying y es, you said you don’t like her, but you said it in such a way that makes me think t hat you really do like her.
 
- Now let’s listen to the dialogue, this time at a no rmal speed.
+ Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -3793,9 +3793,9 @@ Georgia:  Yes, but you said it with such passion!
 
  We don’t compliment our scriptwriter enough here on  ESL Podcast, so thank you Lucy Tse – Dr. Lucy Tse, for your wonderful scripts .
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Buying Television and Movie Programs
 
@@ -3821,7 +3821,7 @@ Cameron:  I just don’t see why people spend good mo ney buying shows they’ve
 
 James:  Hey, wait a second.  Didn’t you run out and  buy the Podinator trilogy box set when it went on sale last month?
 
-Cameron:  Uh, yeah, but that’s different.  Those ar e movies, not TV shows.  The Podinator box set had the director’s cut and commen tary, not to mention never- before-released scenes.
+Cameron:  Uh, yeah, but that’s different.  Those are movies, not TV shows.  The Podinator box set had the director’s cut and commen tary, not to mention never- before-released scenes.
 
 James:  Hadn’t you seen all three movies when they were shown in the theaters?
 
@@ -3857,9 +3857,9 @@ Cameron says, “Uh, yeah, but that’s different.  Tho se are movies, not TV sh
 
 never-before-released scenes.”  When you buy a movi e on DVD sometimes they will include a special version of the movie called the “director’s cut.”  The “director” is the person who is in charge of the mo vie when it is being filmed. Often, the director takes things out of the movie i n order to be able to sell it to the movie companies – the movie studios.  When they hav e a chance to sell the DVD, then the director will often put in that origi nal cut – that is, that original version of the movie.  Often, movies will have “com mentary.”  That is, there’ll be the director, maybe the producer, possibly the lead  actor talking through the movie, giving you descriptions of what was happenin g or giving you the story behind this particular part of the movie.  And, whe n you buy a DVD with commentary you can turn the commentary on so that y ou can hear them talking literally over the movie.  “Never-before-released” means that it has not been shown to anyone until now.  It’s sort of like delet ed scenes.  “Release” has a couple of different meanings however; take a look a t the Learning Guide for some additional explanations.
 
-James says, “Hadn’t you seen all three movies when they were shown in the theaters (in the movie theater)?”  Cameron says, “Y es, but…”  “And don’t you own all three movies on video already?”  That is, C ameron already has copies of this movie, perhaps on an old videocassette tape.  Cameron says, “Well, maybe I do but…”  James continues, “Then I don’t see why yo u needed to buy the box set.  I think it’s best that you give it to me.”  H e’s joking, of course.  James is saying you should give me the box set because you a lready own these three movies.  Cameron, of course, realizes that James is  criticizing her for the same reason that she criticized him.  So the last word o f the dialogue is “Touché.” “Touché” (touché – with an accent over it) is a Fre nch word that in English we use to show that you agree with what another person  has said, and that there’s something somewhat funny about it.  We’re acknowled ging that the other person said something that was true and that perhaps we di dn’t realize until they said it. For example, someone could say to you, “If you are trying to save money, why don’t you stop buying so many expensive books (book s that cost a lot of money) about saving money?”  And, you would say, “Ah, touc hé.”  In other words, you are accepting, in a sense, this criticism – this ob servation about something that is somewhat funny, something that perhaps shows that y ou didn’t think about the situation as completely as you should have.
+James says, “Hadn’t you seen all three movies when they were shown in the theaters (in the movie theater)?”  Cameron says, “Y es, but…”  “And don’t you own all three movies on video already?”  That is, C ameron already has copies of this movie, perhaps on an old videocassette tape.  Cameron says, “Well, maybe I do but…”  James continues, “Then I don’t see why yo u needed to buy the box set.  I think it’s best that you give it to me.”  H e’s joking, of course.  James is saying you should give me the box set because you a lready own these three movies.  Cameron, of course, realizes that James is  criticizing her for the same reason that she criticized him.  So the last word of the dialogue is “Touché.” “Touché” (touché – with an accent over it) is a Fre nch word that in English we use to show that you agree with what another person  has said, and that there’s something somewhat funny about it.  We’re acknowled ging that the other person said something that was true and that perhaps we di dn’t realize until they said it. For example, someone could say to you, “If you are trying to save money, why don’t you stop buying so many expensive books (book s that cost a lot of money) about saving money?”  And, you would say, “Ah, touc hé.”  In other words, you are accepting, in a sense, this criticism – this ob servation about something that is somewhat funny, something that perhaps shows that y ou didn’t think about the situation as completely as you should have.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -3875,7 +3875,7 @@ Cameron:  I just don’t see why people spend good mo ney buying shows they’ve
 
 James:  Hey, wait a second.  Didn’t you run out and  buy the Podinator trilogy box set when it went on sale last month?
 
-Cameron:  Uh, yeah, but that’s different.  Those ar e movies, not TV shows.  The Podinator box set had the director’s cut and commen tary, not to mention never- before-released scenes.
+Cameron:  Uh, yeah, but that’s different.  Those are movies, not TV shows.  The Podinator box set had the director’s cut and commen tary, not to mention never- before-released scenes.
 
 James:  Hadn’t you seen all three movies when they were shown in the theaters?
 
@@ -3893,9 +3893,9 @@ Cameron:  Touché.
 
 Who is the greatest podcast scriptwriter of all tim e?  I think you know the answer: Dr. Lucy Tse!  Thank you.  Lucy.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Psychological Disorders
 
@@ -3941,9 +3941,9 @@ Brett:  No, no.  My “friends” wouldn’t like that.  He has a real fear of d
 
 [end of dialogue]
 
-The title of this episode is “Psychological Disorde rs.”  These are basically illnesses or diseases of the mind.  Brett begins by  saying, “Hi, Dr. Mollie.  Could I speak to you for a few minutes?”  Dr. Mollie says, “Certainly.  Have a seat (please sit down).”  Dr. Mollie is a professor of p sychology.  Brett says, “I’m really enjoying your psychology class.”  “Psychology” stud ies the way the human brain affects our thoughts, our behaviors; it’s a study o f emotions and so forth.
+The title of this episode is “Psychological Disorde rs.”  These are basically illnesses or diseases of the mind.  Brett begins by  saying, “Hi, Dr. Mollie.  Could I speak to you for a few minutes?”  Dr. Mollie says, “Certainly.  Have a seat (please sit down).”  Dr. Mollie is a professor of p sychology.  Brett says, “I’m really enjoying your psychology class.”  “Psychology” stud ies the way the human brain affects our thoughts, our behaviors; it’s a study of emotions and so forth.
 
-Brett says he’s really enjoying Dr. Mollie’s psycho logy class and he was wondering if he could ask her a few questions; he w ants to ask her a few questions.  Dr. Mollie says, “Sure, go ahead,” mean ing begin.  Brett says, “Well, I have a friend who is nervous all the time, especial ly around other people.  Could he have a serious problem?”  “To be nervous” means to be worried, overly concerned about something, anxious.  Dr. Mollie say s, “It’s hard to say without knowing your friend (meaning it’s difficult for me to determine that), but he may have an anxiety disorder or some kind of phobia.”  “Anxiety” is the noun for anxious; it’s similar to nervous, worried.  A “diso rder” is a general term referring to some illness or sickness.  Here, we’re talking a bout a mental, not physical, health condition: an anxiety disorder.  A “phobia” (phobia) is a very strong fear of something.  If you have “arachnophobia” you are afr aid of spiders.  If you have “agoraphobia” you are afraid of open spaces, big pu blic spaces.  “Agora” is the old Greek word for the marketplace, where people wo uld come and buy and sell things in the middle of town.
+Brett says he’s really enjoying Dr. Mollie’s psycho logy class and he was wondering if he could ask her a few questions; he wants to ask her a few questions.  Dr. Mollie says, “Sure, go ahead,” mean ing begin.  Brett says, “Well, I have a friend who is nervous all the time, especial ly around other people.  Could he have a serious problem?”  “To be nervous” means to be worried, overly concerned about something, anxious.  Dr. Mollie say s, “It’s hard to say without knowing your friend (meaning it’s difficult for me to determine that), but he may have an anxiety disorder or some kind of phobia.”  “Anxiety” is the noun for anxious; it’s similar to nervous, worried.  A “diso rder” is a general term referring to some illness or sickness.  Here, we’re talking a bout a mental, not physical, health condition: an anxiety disorder.  A “phobia” (phobia) is a very strong fear of something.  If you have “arachnophobia” you are afr aid of spiders.  If you have “agoraphobia” you are afraid of open spaces, big pu blic spaces.  “Agora” is the old Greek word for the marketplace, where people wo uld come and buy and sell things in the middle of town.
 
 Anyway, Dr. Mollie thinks perhaps that Brett’s frie nd has an anxiety disorder or some kind of phobia.  Brett says, “I was afraid of that (that’s what I feared).  Well,
 
@@ -3959,7 +3959,7 @@ Mollie finally says, “Who are all of these friends you’re talking about?  Do
 
 Of course, we think that Brett’s “friends” are real ly descriptions of Brett himself. People often say, “I have a friend,” when they real ly mean themselves.  Brett says, “No, no.  My ‘friends’ wouldn’t like that (th ey would not like to see a therapist).  They have a real fear of doctors.”  “A  real fear of” is a strong fear of, similar to a phobia.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -3999,7 +3999,7 @@ I feel compelled to thank our scriptwriter, who doe s such a wonderful job each 
 
 From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Outdoor Advertising
 
@@ -4037,23 +4037,23 @@ Gina:  Yes, all of them.  You know what they say: “ Go big or go home.”
 
 Kam begins our dialogue by saying to Gina, “Okay, t he purpose of our meeting today is to listen to some ideas for our new advert ising campaign.”  “To advertise” means to let other people know about wha t you are selling: your product or service.  An “advertising campaign” is a  coordinated effort, a project that includes all the different parts of advertisin g.  There may be advertising on the Internet; it may include advertising on televis ion.  Together, these things are called an “advertising campaign.”  Kam says to Gina , “Gina, take it away.”  The expression “take it away” is used in an informal me eting or an informal situation to show that you are done talking and you are ready  for someone else to begin their presentation or to begin leading the meeting.
 
-Kam is done talking, so he wants Gina to start talk ing.  He says, “Gina, take it away.”  Gina says, “Thanks, Kam.  I’m going to talk  today about outdoor advertising.”  “Outdoor” (outdoor – one word) refer s to what is not inside a building or a house; that is, if you’re not in a bu ilding or in a house, then you are outdoors – you are outside of a house or building.  “Outdoor advertising” would include things that you would see while driving or walking outside of your house or building.  Gina says, “I know that it’s a new ar ea for us (outdoor advertising is a new area for them) and it hasn’t been on our rada r in the past, but I know it’ll work well for our new campaign.”  The expression “t o be on your radar” or “to be on our radar” (radar) is used to show that you are aware of something; you are considering something; you are thinking about somet hing.  “Radar,” as you probably know, is the system used to determine, for  example, where planes are in the sky.  It allows you to know where objects ar e that you cannot see.  Gina says that her company has not used outdoor advertis ing in the past, but she thinks that it will be successful for their new cam paign.
+Kam is done talking, so he wants Gina to start talk ing.  He says, “Gina, take it away.”  Gina says, “Thanks, Kam.  I’m going to talk  today about outdoor advertising.”  “Outdoor” (outdoor – one word) refer s to what is not inside a building or a house; that is, if you’re not in a bu ilding or in a house, then you are outdoors – you are outside of a house or building.  “Outdoor advertising” would include things that you would see while driving or walking outside of your house or building.  Gina says, “I know that it’s a new ar ea for us (outdoor advertising is a new area for them) and it hasn’t been on our rada r in the past, but I know it’ll work well for our new campaign.”  The expression “t o be on your radar” or “to be on our radar” (radar) is used to show that you are aware of something; you are considering something; you are thinking about somet hing.  “Radar,” as you probably know, is the system used to determine, for  example, where planes are in the sky.  It allows you to know where objects are that you cannot see.  Gina says that her company has not used outdoor advertis ing in the past, but she thinks that it will be successful for their new cam paign.
 
 Kam then interrupts Gina and says, “Can we talk spe cifics?”  There’s actually two things here: the first is the expression “can we ta lk (blank).”  In this case, it’s specifics, but you could say, “Can we talk vacation  now?”  “Can we talk advertising?”  This is a somewhat informal abbrevia ted way of saying can we talk about something.  Now, Kam says, “Can we talk speci fics?” meaning can you tell us the specific things about this advertising.  “Sp ecific” is the opposite of “general,” you want to know what is the case for th is particular campaign.
 
 Gina says, “Sure.  There are several types of outdo or advertising.  One is the billboard (billboard).”  A “billboard” is a large s ign used to advertise.  Typically, it’s up high in the air and you can see it when you are driving down the street.  That’s a “billboard.”  Gina says that there are both tradi tional billboards and digital ones. A “traditional billboard” has the same image – you see the same thing every time you go by it.  It’s often made with large pieces of  paper.  A “digital billboard” is a new thing, where it’s actually a big video screen l ike a big television, and the images change as the day goes on.  In fact, they of ten change every 5 or 10 seconds.  We have these digital billboards now here  in Los Angeles, including one just about four or five blocks from where I liv e.  Gina says, “Advertising on ones (meaning on billboards) in high-traffic areas will give us a lot of exposure.” A “high-traffic area” is a place where there are a lot of people or there are a lot of cars going by; many people will see the sign.  Time s Square in New York is a high-traffic area; there are always people there in  the center of the city, in Manhattan.  Well, a high-traffic area would be any area that you had a lot of people either walking or driving by.  If you put ad vertisements, in this case a billboard, in a high-traffic area you will get lots  of exposure.  “Exposure” just means you will be seen or heard by many people, in this case seen.
 
-Gina says, “To get even more exposure all over town  (meaning in every part of the city), we can use mobile advertising.”  Somethi ng that is “mobile” moves around; it doesn’t stay in one place.  Kam asks, “Y ou mean advertising on buses?”  Notice the informal way he asks: “You mean  advertise on buses,” instead of “Do you mean advertise (or advertising) on buses?”  Gina says, “Yes, more and more, products (things that people sell) a re being advertised on buses and cars (obviously on the side of the bus or the b ack of the bus).  These wraps can also be put on the side of buildings and other structures.”  A “wrap” (wrap) is a large piece of plastic or other material that com pletely covers something else. It can be used as a form of advertising for example  on a bus.  Sometimes here in the U.S. when you see a bus there isn’t just one si gn on one side of the bus, but the entire bus is wrapped – is enclosed, if you wil l – by this plastic that is advertising for whatever the company is advertising .  That’s a “wrap.”  You can also put these on the sides of buildings and struct ures.  Sometimes buildings have advertisements that go on the side of the buil ding or around the building. “Structures” is just something that has been built:  a building, a bridge, a monument.  All of these are structures, things that  we build.
+Gina says, “To get even more exposure all over town  (meaning in every part of the city), we can use mobile advertising.”  Somethi ng that is “mobile” moves around; it doesn’t stay in one place.  Kam asks, “You mean advertising on buses?”  Notice the informal way he asks: “You mean  advertise on buses,” instead of “Do you mean advertise (or advertising) on buses?”  Gina says, “Yes, more and more, products (things that people sell) a re being advertised on buses and cars (obviously on the side of the bus or the b ack of the bus).  These wraps can also be put on the side of buildings and other structures.”  A “wrap” (wrap) is a large piece of plastic or other material that com pletely covers something else. It can be used as a form of advertising for example  on a bus.  Sometimes here in the U.S. when you see a bus there isn’t just one si gn on one side of the bus, but the entire bus is wrapped – is enclosed, if you wil l – by this plastic that is advertising for whatever the company is advertising .  That’s a “wrap.”  You can also put these on the sides of buildings and struct ures.  Sometimes buildings have advertisements that go on the side of the buil ding or around the building. “Structures” is just something that has been built:  a building, a bridge, a monument.  All of these are structures, things that  we build.
 
 Gina says, “There really are a lot of other outdoor  advertising options (or possibilities), from bench ads to skywriting.”  A “ bench (bench) ad” is a bench advertisement; “ad” is short for “advertisement.”  It is when you have a long chair, basically, for people to sit on so you can have two  or three people sitting, and you put these on the street where the bus stops.  S o, when you are waiting for
 
 the bus you can sit down on this thing that, as I s ay, looks like a long chair; we call it a “bench.”  You can put advertising on the benches.  Here in Los Angeles, it’s very common for people who sell and buy houses  – real estate agents we would call them – to advertise on bench ads.  Anoth er kind outdoor advertising is “skywriting.”  The “sky” is what’s above you, up in  the air; it’s usually blue in most places.  Today here in Los Angeles it’s a little gr ay because we have clouds, at least this morning.  Well, “skywriting” when a plan e goes up in the air – a small plane typically – and it writes something in the ai r; it leaves a white vapor or smoke behind it that you can look up and see.  Ofte n people will, for example, write messages to their loved ones.  “Will you marr y me?” for example would be a piece of skywriting – an expensive marriage propo sal, to be sure!
 
-Kam says, “That’s all very interesting, but which o f these methods do you recommend?”  Gina says, “I think we should use all of them (all of the kinds of advertising she has talked about).”  She says, “bla nket the city with our new ads.” “To blanket” (blanket) as a verb means to cover som ething entirely.  She’s saying that we should put advertising in all the different  places in the city: billboards, bench ads, skywriting, mobile advertising, wraps, a nd so forth.  “ Blanket” has a couple of different meanings however; take a look a t our Learning Guide for some additional explanations.
+Kam says, “That’s all very interesting, but which of these methods do you recommend?”  Gina says, “I think we should use all of them (all of the kinds of advertising she has talked about).”  She says, “bla nket the city with our new ads.” “To blanket” (blanket) as a verb means to cover som ething entirely.  She’s saying that we should put advertising in all the different  places in the city: billboards, bench ads, skywriting, mobile advertising, wraps, a nd so forth.  “ Blanket” has a couple of different meanings however; take a look a t our Learning Guide for some additional explanations.
 
 Kam is a little surprise, he says, “All of them?”  Gina says, “Yes, all of them.  You know what they say: ‘Go big or go home.’”  “To go b ig” means to do something with the most energy, with the maximum amount of ef fort, something that is going to be the most you could do.  If you were going to propose to your girlfriend, and you wanted to go big, you could hire a plane – you could pay to have a message written in the sky – skywriting.  Or, you could…I d on’t know…fly to the moon and send a message from the moon back to your girlfrien d.  That might work; you should try that!  That would definitely be going bi g!  Well, the expression is “go big or go home,” meaning either do something 100 pe rcent or don’t do anything, forget about it.  Gina thinks the company should go  big or not do anything at all. Of course, it isn’t Gina’s money that’s being spent  here; it’s the companies!
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -4081,9 +4081,9 @@ Gina:  Yes, all of them.  You know what they say: “ Go big or go home.”
 
 If you’ve been listening to ESL Podcast for a long time, you should have Lucy Tse – Dr. Lucy Tse – on your radar.  She is, of cou rse, our wonderful scriptwriter.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Reading Product Reviews
 
@@ -4091,7 +4091,7 @@ Welcome to English as a Second Language Podcast num ber 653: Reading Product Rev
 
 This is English as a Second Language Podcast episod e 653.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development here in Los Angeles – beautiful Los Angeles, California.
 
-Our website is eslpod.com.  Download a Learning Gui de for this episode from our website, where you can get all the extra vocabu lary, definitions, sample sentences, cultural notes, and a complete transcrip t of this episode.
+Our website is eslpod.com.  Download a Learning Gui de for this episode from our website, where you can get all the extra vocabulary, definitions, sample sentences, cultural notes, and a complete transcrip t of this episode.
 
 Our dialogue today is between Dominic and Andrea.  It’s going to be about when you are looking to buy something and you decide to see what other people think of that product, what we would call a “product revi ew.”  Let’s get started.
 
@@ -4141,7 +4141,7 @@ Dominic says, “Don’t you care about those things?”  Andrea says, “Maybe,
 
 Dominic says, “Is that how you bought your old TV ( the one that doesn’t work anymore)?”  Andrea says, “Yeah.”  Dominic says, “En ough said.”  “Enough said” is an informal phrase that we use when something is  so obvious that you don’t need to add any additional information.  What Domin ic is saying here is that because Andrea doesn’t read the product reviews she  buys things like her old television that don’t work, and this is going to the perhaps a problem with her new television.  He doesn’t need to detail this arg ument; he doesn’t need to explain this anymore, it should be obvious to Andre a what the problem is with her thinking – with her logic.  That’s why he just says , “Enough said.”
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -4177,7 +4177,7 @@ We think our ESL Podcasts provide you with good val ue, thanks to the wonderful 
 
 From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Talking About Sound and Volume
 
@@ -4225,7 +4225,7 @@ Josh says, “Sorry.  I didn’t think it was that loud  (meaning as loud as you
 
 decibels you’ve made it twice as loud.  Josh says t hat the sound is not one decibel higher than it used to be.  Decibels is alm ost always a comparison between one level versus another.
 
-Delilah says, “That may be true, but those high-pit ched squeals coming out of your speakers are really grating.”  “High-pitched” is a very high sound, like this, like a soprano.  Or someone like me; a man who sing s in a high voice is said to be singing “falsetto.”  The Bee Gees, for example, often sang in falsetto in the 1970s: “How deep is your love, is your love?  How d eep is your love?  I really need to love.”  Pretty bad, huh?  Yeah, they were!  Well, Delilah i s talking about high-pitched squeals.  A “squeal” (squeal) is a lou d, high sound.  Sometimes it can mean that you are very happy or excited.  You c an have squeals of laughter. Or, it could be a very unpleasant sound coming out of a radio or a loud speaker. A “speaker,” speaking of speakers, is the part of t he radio or television or thing you hook up to your computer where the noise comes out.  Delilah says that the high-pitched squeals coming out of Josh’s speakers are really grating (grating). A “grating” sound is an unpleasant one, an irritati ng one, something that bothers you a lot.  It might even make you angry.
+Delilah says, “That may be true, but those high-pit ched squeals coming out of your speakers are really grating.”  “High-pitched” is a very high sound, like this, like a soprano.  Or someone like me; a man who sing s in a high voice is said to be singing “falsetto.”  The Bee Gees, for example, often sang in falsetto in the 1970s: “How deep is your love, is your love?  How d eep is your love?  I really need to love.”  Pretty bad, huh?  Yeah, they were!  Well, Delilah i s talking about high-pitched squeals.  A “squeal” (squeal) is a lou d, high sound.  Sometimes it can mean that you are very happy or excited.  You can have squeals of laughter. Or, it could be a very unpleasant sound coming out of a radio or a loud speaker. A “speaker,” speaking of speakers, is the part of t he radio or television or thing you hook up to your computer where the noise comes out.  Delilah says that the high-pitched squeals coming out of Josh’s speakers are really grating (grating). A “grating” sound is an unpleasant one, an irritati ng one, something that bothers you a lot.  It might even make you angry.
 
 Delilah also asks Josh, “what was that banging soun d?”  “To bang” is to make a very loud, often deep sound that lasts for a short period of time.  When you take two things – two glasses, and you hit them against each other, we would say you bang them against each other, you make a banging so und.  I have my cup of tea here – it’s, um, English Breakfast tea today – and a glass of water, and if I bang them together [bang, bang, bang] they make a bangin g sound.
 
@@ -4237,7 +4237,7 @@ Josh says, “Oh, I was lifting weights and dropping them back down on the floor
 
 Delilah says, “I see.  If you could please keep the  volume to a moderate level, I would appreciate it.”  A “moderate” level is someth ing not too loud, not necessarily soft, something in the middle.  Not too  big, not too small.  Josh says, “No problem.  I’ll be as quiet as a mouse – as I al ways am.”  The expression “to be as quiet as a mouse” means to be extremely quiet , not to make any noise.  A mouse, of course, is a small, little, typically whi te animal that because it is so small you would never hear it or rarely hear it.  T hat’s not always true, however. Sometimes you actually can hear mice – mice being t he plural of mouse, of course.  We’re not talking about the mouse sitting in front of your computer that controls the cursor on your computer screen, that’s  a different kind of mouse.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -4271,7 +4271,7 @@ We hope you turn up your volume when listening to o ne of our scripts written by
 
 From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Staying in a Vacation Rental
 
@@ -4279,7 +4279,7 @@ Welcome to English as a Second Language Podcast num ber 655: Staying in a Vacati
 
 This is English as a Second Language Podcast episod e 655.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.
 
-Our website is eslpod.com – eslpod.com.  Go there t o download a Learning Guide for this episode that will make your life a l ittle happier, a little brighter, a little longer.
+Our website is eslpod.com – eslpod.com.  Go there to download a Learning Guide for this episode that will make your life a l ittle happier, a little brighter, a little longer.
 
 This episode is called “Staying in a Vacation Renta l.”  This is when you go on vacation but you don’t say in a hotel, you stay in someone else’s house or apartment.  Of course, you pay them money to do tha t.  Let’s get started.
 
@@ -4291,13 +4291,13 @@ Marnie:  Don’t worry.  Before I booked this unit, I  checked it out thoroughly
 
 George:  But there won’t be the same amenities or s ervices as a hotel.
 
-Marnie:  We won’t need any of those.  Just think, w e’ll have the run of the place and there are no adjoining units.  The proximity to  town is great and I got a last- minute price that’s even lower than their low seaso n rate.
+Marnie:  We won’t need any of those.  Just think, we’ll have the run of the place and there are no adjoining units.  The proximity to  town is great and I got a last- minute price that’s even lower than their low seaso n rate.
 
 George:  Everything sounds good, but…
 
 Marnie:  It’ll be our home away from home.  Units t his close to the beach are scarce, and this one is really affordable.
 
-George:  A little too affordable, if you ask me.  Y ou said that it’s just $60 a night?
+George:  A little too affordable, if you ask me.  You said that it’s just $60 a night?
 
 Marnie:  That’s right.
 
@@ -4315,7 +4315,7 @@ George:  Then maybe it’s too good to be true.  Befo re we get too excited, let
 
 George says to his wife Marnie at the beginning of the dialogue, “I’m kind of nervous,” meaning I’m a little nervous – “I’m kind of nervous,” that’s an informal way of saying a little bit.  He’s kind of nervous s taying in a vacation rental for the first time.  A “vacation rental” is a home, condomi nium, or apartment that you rent; it could also be a room in someone’s house.  You rent it for a short period of time just like a hotel room, although usually you h ave a kitchen and it’s more like a regular house.  Vacation rentals have become very  popular.  People rent out their houses or their apartments to people who are visiting that area.  I’ve stayed in vacation rentals many times, and really find it much better than staying in a hotel, and often even a little cheaper.
 
-Marnie says to George, “Don’t worry.  Before I book ed this unit, I checked it out thoroughly.”  “To book” (book) as a verb means to m ake a reservation, to call or email or write someone and say I want to stay in yo ur hotel or your vacation rental for this day through this day.  “To book” me ans to reserve.  Marnie says, “Before I booked this unit,” meaning this vacation rental – sometimes a unit refers to an apartment or a condominium that is also a vac ation rental, or just a regular rental.  Marnie says she “checked it out,” meaning she investigated it, she checked it out thoroughly.  “It’s pet-friendly and kid-friendly.”  “Pet-friendly” is a place where you can take your dog or your cat, or p erhaps your pig or goat if you have those as pets, and you can bring them with you  on vacation.  If you bring a cow with you, for example, you don’t have to pay for milk, so that’s something to think about!  Pet-friendly, then, is a hotel or a v acation rental where you can bring your favorite pet, like a snake.  “Kid-friendly” is  a place where you can bring another kind of animal, small children, so that is also an advantage if you have small children.  If you don’t, then, it might be a disadvantage if you are staying next door to the place with the small children, but  let’s get back to the dialogue. This place that Marnie found is pet-friendly and ki d-friendly and it “sleeps six,” meaning six people can sleep in this unit; there ar e six beds or beds big enough to fit six people.  She says it’s perfect for the w hole family – for our entire family, for everyone
+Marnie says to George, “Don’t worry.  Before I book ed this unit, I checked it out thoroughly.”  “To book” (book) as a verb means to make a reservation, to call or email or write someone and say I want to stay in yo ur hotel or your vacation rental for this day through this day.  “To book” me ans to reserve.  Marnie says, “Before I booked this unit,” meaning this vacation rental – sometimes a unit refers to an apartment or a condominium that is also a vac ation rental, or just a regular rental.  Marnie says she “checked it out,” meaning she investigated it, she checked it out thoroughly.  “It’s pet-friendly and kid-friendly.”  “Pet-friendly” is a place where you can take your dog or your cat, or p erhaps your pig or goat if you have those as pets, and you can bring them with you  on vacation.  If you bring a cow with you, for example, you don’t have to pay for milk, so that’s something to think about!  Pet-friendly, then, is a hotel or a v acation rental where you can bring your favorite pet, like a snake.  “Kid-friendly” is  a place where you can bring another kind of animal, small children, so that is also an advantage if you have small children.  If you don’t, then, it might be a disadvantage if you are staying next door to the place with the small children, but  let’s get back to the dialogue. This place that Marnie found is pet-friendly and ki d-friendly and it “sleeps six,” meaning six people can sleep in this unit; there are six beds or beds big enough to fit six people.  She says it’s perfect for the w hole family – for our entire family, for everyone
 
  George says, “But there won’t be the same amenities  or services as a hotel.”  An “amenity” (amenity) is some characteristic that mak es something more comfortable or more enjoyable.  You may go to a hot el that also has a pool and a spa, that would be a hotel with extra amenities, ni ce things that will make your stay more comfortable.
 
@@ -4323,15 +4323,15 @@ Marnie says, “We won’t need any of those (any of th ose amenities).  Just th
 
 Marnie says they got a rate – a price, even lower t han their low season rate. “Low season” is the time of year when there are few  customers, there aren’t very many people traveling to that area.  Minnesota’s lo w season would be in the wintertime; because it’s so cold no one would want to go there.  The low season for other places will depend upon the weather and o ther things.
 
-George says, “Everything sounds good, but…”  Marnie  interrupts him and says, “It’ll be our home away from home.”  This vacation rental will be our home away from home, meaning it will feel just like home; you  will feel very comfortable there.  She says, “Units this close to the beach ar e scarce, and this one is really affordable.”  Something that is “scarce” (scarce) i s something that is rare, not common, difficult to find.  There are other meaning s of “scarce,” take a look at our Learning Guide for some additional explanations .  We also have some additional explanations of the word “sleep,” which you will find in the guide as well.
+George says, “Everything sounds good, but…”  Marnie  interrupts him and says, “It’ll be our home away from home.”  This vacation rental will be our home away from home, meaning it will feel just like home; you  will feel very comfortable there.  She says, “Units this close to the beach are scarce, and this one is really affordable.”  Something that is “scarce” (scarce) i s something that is rare, not common, difficult to find.  There are other meaning s of “scarce,” take a look at our Learning Guide for some additional explanations .  We also have some additional explanations of the word “sleep,” which you will find in the guide as well.
 
  Marnie says this vacation unit – this vacation rent al is very affordable. Something that is “affordable” has a low price; it’ s inexpensive, it doesn’t cost a lot of money.  George says, “A little too affordabl e, if you ask me,” meaning maybe the price is so low because it isn’t very goo d quality.  He’s worried about how good the unit is, and he is, we might say, susp icious; he has doubts about why the price is so low.  He says, “You said that i t’s just $60 a night?”  Marnie says, “That’s right (that’s correct).”  George says , “Are there any taxes or cleaning fees?”  A “cleaning fee” (fee) is money th at you pay in addition to your rent, meaning extra, to have the rental unit cleane d when you are done.  Many people who have vacation rentals will charge you a fee to stay there each night plus a cleaning fee, which might be $25, it might b e $100; you have to ask.
 
 Marnie says she didn’t ask about cleaning fees or t axes.  George then asks, “Do they require a refundable deposit?”  A “deposit,” i n this case, is money that you give to someone in case something goes wrong, in ca se you break something. That way they have some money from you in case you pay for it at least they have your deposit.  If you don’t break anything, th en you get your deposit back when you leave.  A “refundable deposit” means that let’s say I decide to book a unit for June and it is currently February.  Well, I decide that in March I don’t want to go but I have already given them a $500 deposit.   A refundable deposit is one which they say, “Okay, no problem.  You cancelled, we’ll give you your money back.”  Some places may have a nonrefundable deposi t, meaning if you cancel, especially if you cancel, say, a month or two weeks  before the date that you are supposed to arrive you do not get your deposit back .
 
-Marnie didn’t check about a refundable deposit.  Ge orge then says, “Then maybe it’s too good to be true.”  “To be too good to be t rue” means it appears to be very good, but there are some problems with it that are not immediately obvious; there are some disadvantages.  If someone says they will sell you their car for $100 and the car is new, that’s too good to be true; the re’s probably something else wrong here that should make you be a little suspici ous.  George says, “Before we get too excited, let’s go read the fine print.”  “F ine (fine) print” refers to typically the legal language in a contract or agreement; some times it is printed in a very small size – a very small font size.  We call that fine print when it’s printed very small so you can almost not read it – you can barel y read it.  You may see an advertisement in the newspaper that says that you c an buy a new television for $50, but then if you look at the bottom of the adve rtisement in very small print – in very small size lettering – it will say, well, o nly if you also buy a $25,000 car. That would be an example of reading the fine print to get all of the details of this offer or this sale.
+Marnie didn’t check about a refundable deposit.  Ge orge then says, “Then maybe it’s too good to be true.”  “To be too good to be t rue” means it appears to be very good, but there are some problems with it that are not immediately obvious; there are some disadvantages.  If someone says they will sell you their car for $100 and the car is new, that’s too good to be true; the re’s probably something else wrong here that should make you be a little suspici ous.  George says, “Before we get too excited, let’s go read the fine print.”  “F ine (fine) print” refers to typically the legal language in a contract or agreement; some times it is printed in a very small size – a very small font size.  We call that fine print when it’s printed very small so you can almost not read it – you can barel y read it.  You may see an advertisement in the newspaper that says that you can buy a new television for $50, but then if you look at the bottom of the adve rtisement in very small print – in very small size lettering – it will say, well, o nly if you also buy a $25,000 car. That would be an example of reading the fine print to get all of the details of this offer or this sale.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -4341,13 +4341,13 @@ Marnie:  Don’t worry.  Before I booked this unit, I  checked it out thoroughly
 
 George:  But there won’t be the same amenities or s ervices as a hotel.
 
-Marnie:  We won’t need any of those.  Just think, w e’ll have the run of the place and there are no adjoining units.  The proximity to  town is great and I got a last- minute price that’s even lower than their low seaso n rate.
+Marnie:  We won’t need any of those.  Just think, we’ll have the run of the place and there are no adjoining units.  The proximity to  town is great and I got a last- minute price that’s even lower than their low seaso n rate.
 
 George:  Everything sounds good, but…
 
 Marnie:  It’ll be our home away from home.  Units t his close to the beach are scarce, and this one is really affordable.
 
-George:  A little too affordable, if you ask me.  Y ou said that it’s just $60 a night?
+George:  A little too affordable, if you ask me.  You said that it’s just $60 a night?
 
 Marnie:  That’s right.
 
@@ -4367,7 +4367,7 @@ Our scripts are not too good to be true; they’re ju st as good as you may thin
 
  From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us next time on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Ordering Business Stationery
 
@@ -4431,7 +4431,7 @@ Teresa is projecting an image.  The “image” is the opinion; it’s the way t
 
 Teresa says that having good stationery is part of projecting that professional image.  Jermaine says, “I’m not sure…”  Teresa inte rrupts and says, “Look (meaning pay attention), we can’t go to business me etings without good business cards, right?”  A “business card” is a small card –  a piece of paper that has your name, address, phone number, the name of your compa ny, perhaps a little picture or what we would call “logo,” symbol of you r company on it.  Jermaine agrees and says, “I guess so,” meaning okay, I gues s that’s true; I believe that’s true.  Teresa says, “If we have any correspondence with our potential investors, we need letterhead and envelopes, right?”  “Corresp ondence” is written communication, written messages that are sent and r eceived usually by mail – by paper, but nowadays, of course, more commonly by em ail; it could also be faxed. That’s correspondence: any letters or notes between  two people or two companies.  Teresa says that if they have any corre spondence with potential “investors,” people who might want to give the comp any money, we need letterhead and envelopes.  “Letterhead” (one word) is a piece of paper that has your company’s logo or symbol, the name, usually co ntact information – that is, address, phone number, email, website.  This inform ation is often on the top of the page; sometimes it’s on the left side of the pa ge.  But the page – the piece of paper is mostly blank; you use it to print a letter  out on or, in the old days, to use a typewriter to type on it.  That’s letterhead.  “E nvelopes” are, of course, the things that you put the letter in to mail it, and t he envelope will also have your company’s name on it.
 
-Jermaine says, “I suppose,” meaning he agrees with Teresa that they need these things, but he isn’t agreeing very strongly or very  enthusiastically.  Teresa says, “Okay, so I’m ordering those things.  In the proces s (as she’s doing this or since she is doing this), I’m ordering some embossed gree ting cards and some promotional postcards.  We’ll also need some notepa ds.”  “Embossed” means that the paper, when you feel it, has a what we wou ld call raised surface.  So if you put the paper on a table and you take your fing ers and you go over the name of the company and the logo with your fingers you c an feel it.  That’s embossed (embossed).  She had ordered some embossed greeting  cards.  A “greeting card” is the sort of thing that you would give some one for their birthday, perhaps for an anniversary.  It’s a little card that has a message on the front, and usually you open it up and you sign your name inside of the  card.  Greeting cards can be sent for birthdays, they could also be sent for Chr istmas or a holiday celebration.
+Jermaine says, “I suppose,” meaning he agrees with Teresa that they need these things, but he isn’t agreeing very strongly or very  enthusiastically.  Teresa says, “Okay, so I’m ordering those things.  In the proces s (as she’s doing this or since she is doing this), I’m ordering some embossed gree ting cards and some promotional postcards.  We’ll also need some notepa ds.”  “Embossed” means that the paper, when you feel it, has a what we wou ld call raised surface.  So if you put the paper on a table and you take your fing ers and you go over the name of the company and the logo with your fingers you can feel it.  That’s embossed (embossed).  She had ordered some embossed greeting  cards.  A “greeting card” is the sort of thing that you would give some one for their birthday, perhaps for an anniversary.  It’s a little card that has a message on the front, and usually you open it up and you sign your name inside of the  card.  Greeting cards can be sent for birthdays, they could also be sent for Chr istmas or a holiday celebration.
 
 Normally companies don’t have a lot of greeting car ds that they use, but Teresa thinks they need them.  She also ordered some promo tional postcards. “Promotional” is anything that is used to get peopl e to find out more about your company, it’s sort of like advertising.  A “postcar d” is a small piece of thick paper that usually has a photograph on one side, and then  you write on the back of the card.  When you go on vacation, when you take a tri p to a new place, you could buy a postcard with a picture of that place and sen d it back home, saying here is what you are missing for not coming with me even th ough I invited you. Something like that!
 
@@ -4445,7 +4445,7 @@ Teresa says, “Why do you say that (why do you say t hat I have jumped the gun)
 
 Jermaine says, “You mean if we start behaving like a company, then the investors will come?” meaning we’ll get people to g ive us money to start and continue our company.  Teresa says, “Precisely!” me aning exactly, correct. When you agree with everything the person has said you would say “precisely.”
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -4489,9 +4489,9 @@ Teresa:  Precisely!
 
 I won’t postpone thanking our scriptwriter; I’ll th ank her right now.  Thank you Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Checking Accounts and Writing Checks
 
@@ -4499,7 +4499,7 @@ Welcome to English as a Second Language Podcast num ber 657: Checking Accounts a
 
 This is English as a Second Language Podcast episod e 657.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.
 
-Our website is eslpod.com.  You can download a Lear ning Guide from our website that will help you improve your English.
+Our website is eslpod.com.  You can download a Learning Guide from our website that will help you improve your English.
 
 Today’s episode is about the fascinating world of c heck writing.  Let’s get started.
 
@@ -4545,7 +4545,7 @@ Marianne begins by saying to Jae, “I don’t understa nd it.  I got a notice f
 
 Jae says, “That doesn’t sound like you.  You’re alw ays so careful with your money.”  Marianne says, “I am!  I don’t understand what happened.”  Jae says, “Let me take a look at your bank statement.”  Your “bank statement” is what they send you usually every month that shows all of the money that you have put in
 
-your bank and all that you have taken out.  Jae say s, “Okay (looking at the bank statement now), here are your deposits (money that you put into your bank account) and withdrawals (money that you take out o f your bank account).  Did you know that your bank charges you a fee just to h ave a checking account?” Jae is asking if Marianne realizes or knows that ev ery month the bank charges her a “fee,” in other words, an amount of money.  S o if you have a checking account, the bank will take 5 dollars or 10 dollars  out of your account each month to pay for your account.  Many banks have free chec king; they don’t charge you for a banking account, but some banks do, and when they do we call that a fee.
+your bank and all that you have taken out.  Jae say s, “Okay (looking at the bank statement now), here are your deposits (money that you put into your bank account) and withdrawals (money that you take out of your bank account).  Did you know that your bank charges you a fee just to h ave a checking account?” Jae is asking if Marianne realizes or knows that ev ery month the bank charges her a “fee,” in other words, an amount of money.  S o if you have a checking account, the bank will take 5 dollars or 10 dollars  out of your account each month to pay for your account.  Many banks have free chec king; they don’t charge you for a banking account, but some banks do, and when they do we call that a fee.
 
 Marianne says, “It does?  I didn’t know that.”  Jae  says, “It looks like you also have a minimum balance requirement.”  Your “minimum  (meaning the least amount) balance (meaning the amount of money in you r bank account)” is what some banks set up or establish for certain accounts .  If you don’t keep enough money in your bank account, say 1,000 dollars or 50 0 dollars, then the bank will charge you a fee if you go below, or have less than  your minimum balance.  Jae says if you fall or go below that minimum, you get charged a fee.  Marianne says, “I do?”  Obviously, Marianne is not as careful as s he thinks she is.
 
@@ -4559,7 +4559,7 @@ Marianne says, “How could they do that?”  Jae says,  “They (the bank) coun
 
 Marianne says, “I’ve had it!” meaning I am tired, I ’m frustrated, and I’m not going to continue to do this anymore.  “I’ve had it!  I’m  moving banks (I’m going to take my money and put it in a different bank).  I’m taki ng my business elsewhere.” “To take your business elsewhere” means to stop usi ng one company and start using a different company, usually because you are dissatisfied or unhappy with the first company.  Jae says, “Oh, yeah?  I know a good bank.”  Marianne says, “You do?”  Jae says, “Sure, it’s called the Bank of  Jae.”  He’s making a joke here; he’s saying that he can be her bank.  He says, “No fees – ever (you will never have to pay extra fees).”  Marianne says, “Yes, but  would I ever see my money again?”  Once again, following with the joke, she’s  saying that if she gave her money to Jae she would never see her money again.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -4601,9 +4601,9 @@ Marianne:  Yes, but would I ever see my money again ?
 
 We count on our scriptwriter to give us good script s, and she always does. Thank you Dr. Lucy Tse.
 
- From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Judging a Contest
 
@@ -4641,15 +4641,15 @@ Adelia:  You’ve got that right.
 
 [end of dialogue]
 
-Adelia begins by saying to Omar, “When I created th is writing contest, I had no idea that we would get so many entries.”  A “contes t,” as you probably know, is a competition where you have different people trying to become the winner – to get the top place.  This word can be used in a number o f different ways, some of which are found your Learning Guide for this episod e.  An “entry” (entry) is something that you prepare and then give to someone  to be part of a contest; it’s part of the competition.  It can also be called a “ submission,” when you give something – “submit” something to someone.
+Adelia begins by saying to Omar, “When I created th is writing contest, I had no idea that we would get so many entries.”  A “contes t,” as you probably know, is a competition where you have different people trying to become the winner – to get the top place.  This word can be used in a number of different ways, some of which are found your Learning Guide for this episod e.  An “entry” (entry) is something that you prepare and then give to someone  to be part of a contest; it’s part of the competition.  It can also be called a “ submission,” when you give something – “submit” something to someone.
 
 Adelia says that she had no idea, meaning she didn’ t know; she was surprised that they got so many entries.  This is, of course,  people writing something for this writing contest.  Omar said, “Good thing you h ave an impartial panel of judges to help you select the winner.”  “Good thing ” is short for “it is a good thing (that you have an impartial panel of judges).”  “To  be impartial” (impartial) means to be fair, to be objective, not to favor this pers on over that person.  The opposite of “impartial” is “partial.”  “I am partial to her and not to him.”  You want a “judge,” someone making the decision about who is best, to b e impartial, to be fair.  A “panel of judges” is a group of people who decide h ow good something is, and then decide who is the best person.
 
 Adelia says, “Yes, good thing (meaning yes, it is a  good thing).  I’m really grateful to all of you for giving up your time to help.”  Sh e’s thanking the panel of judges. Omar says, “What criteria are we using to score eac h of the entries?”  “Criteria” is the plural of “criterion” (criterion).  “Criterion”  is a factor; it is one quality or characteristic that you use to judge the quality of  something.  “Criteria” (ending in “ia”) is the plural and it refers to the qualities or characteristics that you use to judge something.  So for example, your professor at  the university might have different criteria for getting an A, a high score i n his or her class.  It might include coming to class every week, writing a paper, doing well on the exam, and so forth.  “Score,” here, is used as a verb, “to score ,” which in this context means to assign a number or letter to something to evaluate the quality of it.  If you watch the Olympics you know that they give scores for the  performances.  In
 
-gymnastics, for example, you could get a 8.5 or a 9 .6.  These are scores; the judges are scoring each of the contestants – each o f the athletes.
+gymnastics, for example, you could get a 8.5 or a 9 .6.  These are scores; the judges are scoring each of the contestants – each of the athletes.
 
-Adelia says, “We’re using a 10-point scale.”  A “sc ale” is a range of numbers – of values that can be assigned to evaluate the quality  of something.  So for example, your teacher might judge you on a five-poi nt scale.  Five is excellent; four is, hmm, very good; three is not great; two is  poor; and one is very poor. That would be a scale.  This is a 10-point scale, 1 0 being the highest and 1 being the lowest, or 0.  Adelia says, “Each of us will re ad an entry (read one of the essays, whatever was written), and give it a score.   When we’re all done, we’ll average out each of these scores.”  “To average out ” means to add a group of numbers and then divide by the number of items in t he group.  So, if I give someone an 8 and you give them a 9 and the third ju dge gives them a 10, you can add those up and get 27, you divide that by 3 b ecause there are 3 judges, and that gives you the average score of 9.  That’s how you average out the scores.  You could hear – just say “to average the scores,” but we tend to prepositions and other words to verbs in order to m ake it more difficult for other people to learn English!  “Hopefully,” Adelia says,  “there’ll be a clear winner.”  A “clear” winner is someone who obviously won, it was n’t even close; this person got the highest score and it was much higher than a nyone else.  That would be a clear winner.
+Adelia says, “We’re using a 10-point scale.”  A “sc ale” is a range of numbers – of values that can be assigned to evaluate the quality  of something.  So for example, your teacher might judge you on a five-poi nt scale.  Five is excellent; four is, hmm, very good; three is not great; two is  poor; and one is very poor. That would be a scale.  This is a 10-point scale, 1 0 being the highest and 1 being the lowest, or 0.  Adelia says, “Each of us will re ad an entry (read one of the essays, whatever was written), and give it a score.   When we’re all done, we’ll average out each of these scores.”  “To average out ” means to add a group of numbers and then divide by the number of items in t he group.  So, if I give someone an 8 and you give them a 9 and the third ju dge gives them a 10, you can add those up and get 27, you divide that by 3 b ecause there are 3 judges, and that gives you the average score of 9.  That’s how you average out the scores.  You could hear – just say “to average the scores,” but we tend to prepositions and other words to verbs in order to make it more difficult for other people to learn English!  “Hopefully,” Adelia says,  “there’ll be a clear winner.”  A “clear” winner is someone who obviously won, it was n’t even close; this person got the highest score and it was much higher than a nyone else.  That would be a clear winner.
 
 Adelia hopes they’ll have a clear winner, but Omar says, “And if not?” meaning if there isn’t a clear winner.  Adelia says, “If there  isn’t, then we’ll take the top scorers (the people who got the highest scores) and  vote on which is best.”  “To vote on” means everyone says who they think should be the winner, and the person with the most votes wins.  Adelia says, “Maj ority rules.”  “Majority rules” means that anyone who gets 50 percent plus 1 wins t he contest.  Omar says, “Okay, but are there reasons for disqualifying an e ntry?”  “To disqualify” is to determine that this person cannot participate in the contest because they perhaps did something wrong; they didn’t follow the  rules.  There’s some reason why they didn’t meet the requirements we might say,  they would be disqualified. If you use certain drugs in…I don’t know…bowling – because you know those bowlers are all taking drugs, right? – then you may  be disqualified if you’re taking, like, steroids or something.  That’s to dis qualify.
 
@@ -4659,7 +4659,7 @@ minimum requirements; you followed the rules; you a re able to participate in so
 
 Omar says, “Okay, let’s get started.  We’ve got our  work cut out for us.”  This expression, “to have your work cut out for you,” me ans that you have a lot of work; you have many things you have to do, it’s a b ig project.  Some girlfriends try to change their boyfriends, try to change the w ay they look, dress, act, and so forth.  We could say they have their work cut out f or them; that’s a very long job! Adelia says, “You’ve got that right.”  The expressi on here, said with that particular pronunciation – that intonation, “you got that righ t” – is used to show you agree with someone completely.  You fully agree with that  person, and that’s what Adelia is saying to Omar.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -4691,7 +4691,7 @@ I’m not impartial, but if you asked me who would be  the clear winner in a pod
 
 I’m Jeff McQuillan.  From Los Angeles, California I  thank you for listening.  Come back and listen to us again here on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Finding Love on Valentine¡¦s Day
 
@@ -4745,9 +4745,9 @@ Tony says, “All of the women I know are either psyc ho or attached.”  “Psy
 
 He says, “I’ve given up on dating.”  I should menti on that “attached” has some other meanings as well, and those are in our wonder ful Learning Guide.  So, Tony says he has given up on dating.  “To give up” is a two-word phrasal verb, which means in this case to stop doing something us ually because you have not been very successful; you have failed many times.  “I’m going to give up cooking, because I’m not very good at it.”  True story!
 
-Chelsea says, “How will you find a Miss Right with an attitude like that?”  This is kind of a play on words; that is, Chelsea is sort o f using a traditional expression, “Mr. Right,” and using the feminine – the female “M iss.”  Normally we talk about a woman meeting “Mr. Right,” meaning the perfect husb and, the perfect man to be her husband.  Chelsea says that Tony can meet Miss Right, the perfect woman. Again, that’s not the normal use of it, but she’s s ort of playing with that.  She says, “How will you find a Miss Right with an attit ude like that (with the way that you are acting)?”  Tony says, “I’ve told you.  I’ve  given up.”  Chelsea says, “Well, I think you should open your eyes.  Your valentine may be right under your nose!”  Something that is “right under your nose” m eans that it is easily available. It is, in fact, very close to you, but you don’t se e it, you don’t notice it, and obviously Tony doesn’t realize that Chelsea is not just his friend, Chelsea perhaps wants to be his valentine and Tony is just too much of a man to understand reality.  Isn’t that true ladies?
+Chelsea says, “How will you find a Miss Right with an attitude like that?”  This is kind of a play on words; that is, Chelsea is sort of using a traditional expression, “Mr. Right,” and using the feminine – the female “M iss.”  Normally we talk about a woman meeting “Mr. Right,” meaning the perfect husb and, the perfect man to be her husband.  Chelsea says that Tony can meet Miss Right, the perfect woman. Again, that’s not the normal use of it, but she’s s ort of playing with that.  She says, “How will you find a Miss Right with an attit ude like that (with the way that you are acting)?”  Tony says, “I’ve told you.  I’ve  given up.”  Chelsea says, “Well, I think you should open your eyes.  Your valentine may be right under your nose!”  Something that is “right under your nose” m eans that it is easily available. It is, in fact, very close to you, but you don’t se e it, you don’t notice it, and obviously Tony doesn’t realize that Chelsea is not just his friend, Chelsea perhaps wants to be his valentine and Tony is just too much of a man to understand reality.  Isn’t that true ladies?
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -4777,7 +4777,7 @@ If you’ve given up on learning English, you need to  listen to the wonderful s
 
 I’m Jeff McQuillan.  From Los Angeles, California, I am Jeff McQuillan.  Did I say that already?  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Work-Related Injuries
 
@@ -4847,7 +4847,7 @@ Well, Kim says to Darrelle, “What do you have in mi nd,” meaning what idea s
 
 a place where people go on vacation because it is w armer than most of the rest of the U.S.  There’s also a Disney World in Florida , though that’s more in central Florida.  Darrelle says, “What better way to recove r from any work-related injuries than spending four days and three nights in Florida ?”  “To recover from” means to get better after being sick or to get stronger a fter an injury – after you hurt yourself.  Darrelle is saying that the best way for  he and Kim to recover from their injuries is to spend four days in Florida.  Kim agr ees with him; she says, “Count me in!”  “Count me in” is a phrase used to show tha t you want to participate in the same thing that someone else is participating in, o r you want to accept someone’s invitation to do something.  Somebody say s, “I’m thinking of going to a concert tonight.  Do you want to go?”  You could say, “Count me in!”  Yes, I’m very interested in going is what you’re saying.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -4887,9 +4887,9 @@ Kim:  Count me in!
 
 Our scriptwriter, Dr. Lucy Tse, never slouches and has perfect posture.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Demanding an Apology
 
@@ -4933,7 +4933,7 @@ Alvaro:  No, I don’t.  But you know what you’re doi ng to me right now?  You
 
 [end of dialogue]
 
-Vera and Alvaro are having an argument; they are ha ving a disagreement; they’re not happy with each other.  Vera says, “Tha t was uncalled for.”  We don’t know what Alvaro said, but Vera thinks it was uncal led for.  Something that is “uncalled for” is something that is inappropriate o r unacceptable, something you consider wrong, usually something you consider insu lting.  Vera says, “You owe me an apology!”  “To owe” (owe) someone something m eans that you have to give them something.  You did something, in this ca se wrong, and therefore you must give them an “apology,” a statement saying tha t you are sorry for what you did.  That’s an apology.
+Vera and Alvaro are having an argument; they are having a disagreement; they’re not happy with each other.  Vera says, “Tha t was uncalled for.”  We don’t know what Alvaro said, but Vera thinks it was uncal led for.  Something that is “uncalled for” is something that is inappropriate o r unacceptable, something you consider wrong, usually something you consider insu lting.  Vera says, “You owe me an apology!”  “To owe” (owe) someone something m eans that you have to give them something.  You did something, in this ca se wrong, and therefore you must give them an “apology,” a statement saying tha t you are sorry for what you did.  That’s an apology.
 
 Alvaro says, “Chill out.”  “Chill out” is an inform al phrase that’s become popular in the last 20-25 years or so that means to relax, to calm down, don’t be so excited. You have to be careful with this expression; if you  are saying it to someone you don’t know very well it’s often considered somewhat  rude to tell someone to chill out.  However, if you’re good friends with them you  could say it if you thought they were getting too excited about something.  Alv aro says it to his wife, always a bad idea!  He says, “It was a joke!”  Vera says t hat whatever Alvaro said wasn’t funny and it crossed the line.  “To cross the line”  is an expression meaning to go too far.  Often we say this when someone is perhaps  joking but then says something that is insulting that makes the other pe rson angry.  That’s what Alvaro did, according to Vera.
 
@@ -4945,13 +4945,13 @@ Alvaro says, “For God’s sake, I didn’t mean it.”  “ For God’s sake�
 
 Vera says, “You do?”  Alvaro says, “Yes, I do.”  Ve ra says, “And you’re sorry?” You feel bad about what happened and you wish that you had not done it.  She says, “You really regret what you said?”  “To regre t” is similar to “to be sorry,” it means to feel bad about something and wish that it had never happened, typically something that you did or didn’t do.  If you have regrets, you have a feeling that you should have done something that yo u didn’t do.  I think all of us have some regrets!
 
-Vera is asking if Alvaro regrets what he said.  Alv aro says, “I’m sorry you heard my joke.”  He’s not sorry for telling the joke; he’ s sorry that Vera heard him say it. Vera says, “That’s not a real (or true) apology.  Y ou owe me a real apology. What you said was cruel.”  “Cruel” means mean, some thing that you say or do to hurt another person.  Alvaro said, “I made a joke a bout you being over the hill.” The expression “to be over the hill” means that you  are old, that you are in the last half or last part of your life; you are no lon ger young, you are past the best years of your life.  That happens sometime around t he age of – well, any age old than what I am right now!  Now, Alvaro says, “You’r e clearly not over the hill (meaning it’s obvious that you are not old), so it was (obviously or) clearly a joke. Okay?”  He’s explaining why what he said was meant to be a joke, because even though he said that his wife was getting old – that  she was over the hill, in fact – he didn’t really mean it because she is clearly not  over the hill.  This is another
+Vera is asking if Alvaro regrets what he said.  Alv aro says, “I’m sorry you heard my joke.”  He’s not sorry for telling the joke; he’ s sorry that Vera heard him say it. Vera says, “That’s not a real (or true) apology.  You owe me a real apology. What you said was cruel.”  “Cruel” means mean, some thing that you say or do to hurt another person.  Alvaro said, “I made a joke a bout you being over the hill.” The expression “to be over the hill” means that you  are old, that you are in the last half or last part of your life; you are no lon ger young, you are past the best years of your life.  That happens sometime around t he age of – well, any age old than what I am right now!  Now, Alvaro says, “You’r e clearly not over the hill (meaning it’s obvious that you are not old), so it was (obviously or) clearly a joke. Okay?”  He’s explaining why what he said was meant to be a joke, because even though he said that his wife was getting old – that  she was over the hill, in fact – he didn’t really mean it because she is clearly not  over the hill.  This is another
 
 good way of improving your marriage: tell your wife  that she’s over the hill.  You don’t want to listen to my advice on marriage, trus t me!
 
 Vera says, “Do you really think I’m old?”  Alvaro s ays, “No, I don’t.  But you know what you’re doing to me right now?  You’re taking y ears off my life!”  The expression “to take years off your life” means to s horten your life.  More generally, it means to do something that makes you annoyed, frustrated, perhaps frightened, something that may make you die sooner than you otherwise would have.  Vera, by forcing Alvaro into an apology and by arguing with him is, according to Alvaro, taking years off his life.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -4987,9 +4987,9 @@ Vera:  Do you really think I’m old?
 
 Our scriptwriter never freaks out.  That’s because it’s the one and only Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Doctor-Patient Confidentiality
 
@@ -5049,7 +5049,7 @@ see.  More generally, it’s something that is secret ; not a lot of people know
 
 Justin says, “You can explore all you like (all you  want), but I’m bringing some insurance.”  “Insurance” is normally something you buy from a company in case you have an accident or something goes wrong.  You can have health insurance; if you get sick the insurance will pay for your med ical care.  Here, “insurance” is used more generally to mean something that will pro tect you from problems, something that will give you a guarantee in case so mething goes wrong that things will be okay.  Vanessa asks, “What insurance ?”  Justin says, “I’m bringing two guidebooks and this phone number.”  Vanessa say s, “Phone number for what (which phone number)?”  Justin says, “The phon e number for the American embassy.”  An “embassy” (embassy) is the official p resence of another country in your country.  Usually the embassies are located in  the capital of the country, so in Washington, D.C. there is a Russian embassy.  Th at’s the building where the Russian representatives – the “diplomats,” we would  call them – are working and perhaps some of them living.  Embassies are usually  considered, in some ways, property of the other country and are protected by international law.  The U.S. embassy, or American embassy, would be the American  place in a country where the American diplomats and representatives ar e.  Justin says, “That’s where I plan to go for help when you get lost off t he beaten path!”  “To get lost” means to become confused and not know where you are , usually because you are somewhere that you are not used to – that you a re not familiar with.  Justin says he’s going to call the American embassy when V anessa gets lost off the beaten path, going somewhere that is not popular.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -5077,9 +5077,9 @@ Justin:  The phone number for the American embassy.   That’s where I plan to g
 
 There’s nothing cookie cutter about the scripts for  our podcast, that’s because they’re written by someone who never flies by the s eat of her pants, Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Trying to Remember
 
@@ -5087,7 +5087,7 @@ Welcome to English as a Second Language Podcast num ber 667: Trying to Remember.
 
 This is English as a Second Language Podcast episod e 667.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California, where the sun is  shining and there are no clouds in the sky.
 
-Go to our website at eslpod.com and download a Lear ning Guide for this episode to help you improve your English – and to have a li ttle more sunshine in your life!
+Go to our website at eslpod.com and download a Learning Guide for this episode to help you improve your English – and to have a li ttle more sunshine in your life!
 
 This episode is a dialogue between Randal and Marjo rie.  It’s about trying to remember something, phrases related to when you for get something, something that happens to…um…well…let’s get started.
 
@@ -5117,7 +5117,7 @@ Randal says to Marjorie, “Hurry up.”  “Hurry up” is  a two-word phrasal 
 
 Marjorie says, “I can’t remember the combination to  this lock.”  A “lock” is a device, something you use to make sure no one opens  or goes in a certain place. You can have a lock on your door so that no one can  open your door without having a key.  You can also have a lock on a bicycl e, and often those locks don’t have keys.  They have instead what’s called a “comb ination.”  The “combination” is the series of numbers that you need to know, and  you turn a little wheel back and forth to these numbers, and when you go to the right numbers – the right combination – then the lock will open.  “Combinatio n” has some other meanings as well; take a look at our Learning Guide for some  additional explanations.
 
-Randal says, “I thought you knew it by heart.”  “To  know (something) by heart” means to have something memorized, to be able to sa y it without reading it.  We often know our passwords by heart, or at least some  of them.  You may know the names of all of your cousins by heart.  I sure don’ t; I have too many.  I barely know the names of my brothers and sisters.  I do kn ow my wife’s name – usually!
+Randal says, “I thought you knew it by heart.”  “To  know (something) by heart” means to have something memorized, to be able to say it without reading it.  We often know our passwords by heart, or at least some  of them.  You may know the names of all of your cousins by heart.  I sure don’ t; I have too many.  I barely know the names of my brothers and sisters.  I do kn ow my wife’s name – usually!
 
 Well, Randal says to Marjorie, “I thought you knew (this combination to the lock) by heart.”  Marjorie says, “It’s on the tip of my t ongue.”  The “tip” is the end part of something in this case.  But the expression “to be on the tip of your tongue” means that you normally remember but you have tempo rarily forgotten it.  You think you will be able to remember it soon, but you  can’t think of it at this very moment – right now.  Marjorie says, “I can’t seem t o remember the last two digits,” which in this case means numbers.  She say s, “It’s 73 or 63 or 38…” Randal then says, “I thought you had it down cold!”   “To have (something) down cold” is the same as knowing it by heart; it means to memorize it, you memorize it so well you will never forget it
 
@@ -5131,7 +5131,7 @@ Marjorie says, “I wasn’t lying.  I really do know i t.  If you just stop tal
 
 be worrying about right now.  Randal says, “Too lat e (meaning it’s too late).  Here comes Rob.”  So Rob is now arriving to wherever Ran dal and Marjorie are. Randal says, “Run for your life, if you know what’s  good for you!”  “To run for your life” means to run as quickly as you can, as f ast as you can.  The idea is if you don’t you might be killed; you might lose your life.  Normally it’s not that serious.  We use this expression to mean to run ver y quickly, to get away from somewhere as fast as you can.  Randal says to Marjo rie, “Run for your life, if you know what’s good for you!”  That phrase is used to show that your advice – what you are telling them or recommending to them – is s omething that will help them, they will benefit from your advice.  “If you know w hat’s good for you,” you’re saying what I am telling you will help you, it will  be a good thing for you.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -5159,7 +5159,7 @@ Randal:  Too late.  Here comes Rob.  Run for your l ife, if you know what’s go
 
 From Los Angeles, California, I’m…I forget who I am .  Thank you for listening. Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Having Cash Flow Problems
 
@@ -5195,7 +5195,7 @@ Mohsen:  Yes, but what about the creature comforts?   I have no Internet access 
 
 Ella:  We agreed that we both needed a little time away to unwind.  The whole point of this vacation is for us to relax.
 
-Mohsen:  I’m cut off from civilization and I have n o access to email and my favorite websites.  What could be more stressful th an this?!
+Mohsen:  I’m cut off from civilization and I have no access to email and my favorite websites.  What could be more stressful th an this?!
 
 [end of dialogue]
 
@@ -5203,7 +5203,7 @@ We begin our dialogue with Mohsen saying to Ella, “ I need to get off this isl
 
 Ella says, “We’ve only been here for two days.  Giv e it a chance,” meaning even if it’s bad right now, wait a little longer.  “Give  it time,” we might also say.  “Give it a chance.  We’re here to enjoy a slower pace of lif e, remember?”  The “pace (pace) of life” is like the speed that things are d one in a particular culture or in a particular situation.  To have a slow pace of life means to be very relaxed; you don’t hurry around.  Or, a certain culture – a cert ain area has a different pace of life.  The pace of life in New York City – in Manha ttan – is very different than the pace of life on a farm in Minnesota, very different  speeds that things happen.
 
-Well, Ella and Mohsen are on this island to relax, but Mohsen says, “When you said we were going on an island vacation, I didn’t know we’d be so isolated.”  “To be isolated” means to be far away from other people ; it may also mean you don’t have communication with other people because you ar e so far away from them. Mohsen says, “There isn’t a living soul within five  miles!”  The expression “a living soul” (soul) just means a human being.  In many phi losophies and religions, the human being has a physical body but also has a spir itual soul, sort of your being that is not physical, what is not physical that is part of you that makes who you are.  That’s the idea.  So, a “living soul” would b e another human being, and Mohsen says there is not a living soul within five miles, meaning you could travel five miles from where you are now and you would not  see another person.
+Well, Ella and Mohsen are on this island to relax, but Mohsen says, “When you said we were going on an island vacation, I didn’t know we’d be so isolated.”  “To be isolated” means to be far away from other people ; it may also mean you don’t have communication with other people because you are so far away from them. Mohsen says, “There isn’t a living soul within five  miles!”  The expression “a living soul” (soul) just means a human being.  In many phi losophies and religions, the human being has a physical body but also has a spir itual soul, sort of your being that is not physical, what is not physical that is part of you that makes who you are.  That’s the idea.  So, a “living soul” would b e another human being, and Mohsen says there is not a living soul within five miles, meaning you could travel five miles from where you are now and you would not  see another person.
 
 Ella says, “This isn’t isolated; it’s secluded.”  “ Secluded” (secluded) is something that is being used by a very few number of people, without other people near them.  It’s really the same phenomenon – the same s ituation as “isolated,” but it’s
 
@@ -5219,7 +5219,7 @@ difficult day, you sit down in front of the televis ion, you get a glass of wine
 
 Mohsen says, “I’m cut off from civilization and I h ave no access to email and my favorite websites.”  “To be cut off from (something )” means to be separated from something.  “Civilization” here just means the mode rn world, where you have technology and creature comforts.  Mohsen thinks th at he’s cut off; he’s separated from civilization because he doesn’t have  email and Internet access. He then says, “What could be more stressful than th is?!”  “To be stressful” means that you are worried, you are anxious, you feel lik e you have many things to do and not very much time to do them in.  I feel this way all time; I guess I need a vacation on an island!
 
-Now let’s listen to the dialogue, this time at a no rmal rate of speech.
+Now let’s listen to the dialogue, this time at a normal rate of speech.
 
 [start of dialogue]
 
@@ -5239,15 +5239,15 @@ Mohsen:  Yes, but what about the creature comforts?   I have no Internet access 
 
 Ella:  We agreed that we both needed a little time away to unwind.  The whole point of this vacation is for us to relax.
 
-Mohsen:  I’m cut off from civilization and I have n o access to email and my favorite websites.  What could be more stressful th an this?!
+Mohsen:  I’m cut off from civilization and I have no access to email and my favorite websites.  What could be more stressful th an this?!
 
 [end of dialogue]
 
-The whole point of this part of the podcast is to t hank our scriptwriter, Dr. Lucy Tse, and everyone else that helps make ESL Podcast possible.
+The whole point of this part of the podcast is tothank our scriptwriter, Dr. Lucy Tse, and everyone else that helps make ESL Podcast possible.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Asking for More Time
 
@@ -5285,7 +5285,7 @@ Marcia:  Good, then I don’t have to spell it out for you.
 
 [end of dialogue]
 
-Dan begins by saying “Hello” to Marcia.  Marcia say s, “Hi, Dan.  What’s the status on the project?”  The “status” (status) is t he current condition, the most up- to-date, the newest information we have about this project, this thing that you are working on.  Marcia says, “We’re still on schedule,  right?”  “To be on schedule” means be on time, that you are progressing – you ar e moving forward just as you had planned.  If you’re late in completing the diff erent parts of the project, we would say you were “behind schedule,” and if you ar e making better progress than you anticipated – than you planned, then we wo uld say you are “ahead of schedule.”  So there’s “ahead of schedule,” “behind  schedule,” and “on schedule.”
+Dan begins by saying “Hello” to Marcia.  Marcia say s, “Hi, Dan.  What’s the status on the project?”  The “status” (status) is t he current condition, the most up- to-date, the newest information we have about this project, this thing that you are working on.  Marcia says, “We’re still on schedule,  right?”  “To be on schedule” means be on time, that you are progressing – you are moving forward just as you had planned.  If you’re late in completing the diff erent parts of the project, we would say you were “behind schedule,” and if you are making better progress than you anticipated – than you planned, then we wo uld say you are “ahead of schedule.”  So there’s “ahead of schedule,” “behind  schedule,” and “on schedule.”
 
 Dan says, “Uh, well, I’ve been meaning to call you about that.”  “I’ve been meaning to” means I was planning on, I was thinking  about it, I should have called you.  He says, “We’ve had a slight delay.”  “Slight” (slight) here means very small; “minor,” we might say.  “Minor” (minor)  is something that is not very important; the opposite would be “major,” something  very important.  But “slight” means minor, unimportant.  There are other meanings  for the word “slight,” and those can be found in our Learning Guide.
 
@@ -5307,7 +5307,7 @@ Dan says, “I know that all too well,” meaning I kno w it very well; I unders
 
 Dan says, “No, you don’t (you don’t need to spell i t out for me; you don’t need to explain what will happen to me if I don’t finish th is project on time – on schedule). My head is on the chopping block and the clock is t icking.”  The expression “to have your head on the chopping block” means for one  to be at risk of losing your job or otherwise having a very negative consequence  if they don’t do what they’re supposed to do.  It used to be, back in his tory and perhaps in some places still is, common to kill someone, especially  when the government was killing a criminal, to put their head on a piece of  wood and take a large “ax,” which is a sharp metal instrument used normally to cut trees, and chop or cut the head of the person off so that, of course, they wou ld die.  That’s the idea.  Well, we don’t do that anymore, at least not very often.  But the expression continues and it means now to be in trouble, to have some ser ious problems if you don’t finish or do what you’re supposed to do.  Dan says,  “the clock is ticking.”  This means simply that there is very little time left be fore something happens.  He has to hurry because there isn’t a lot of time left.  “ To tick” (tick) is the verb we use, or used to use clocks or watches because when the litt le wheel inside the clock moved around it made a little sound – “tick, tick, tick” – and that is why we talk about clocks ticking.  Clocks don’t tick anymore – most of them don’t because they’re electronic, but we still have the expressio n.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -5337,9 +5337,9 @@ Dan:  No, you don’t.  My head is on the chopping bl ock and the clock is ticki
 
 Our scriptwriter is always on schedule – usually ah ead of schedule.  That’s because it’s our own Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Walking or Running as Exercise
 
@@ -5397,11 +5397,11 @@ Reina wants Lars to pick up the pace (pace).  “To p ick up the pace” means t
 
 don’t want to get shin splints.”  Your “shin” (shin ) is the part of your leg – the front of your leg between your knee and your foot.  “Shin  splints” is a condition where you experience pain in that part of your body, ofte n caused by running on very hard surfaces or wearing shoes that are not appropr iate, that aren’t good for running.  Lars says, “It’s important that we start slowly and maintain a low-impact workout.”  “Low-impact” is an exercise that doesn’t  require that your body be moving or jumping or running on a hard surface; it’ s also a general term for exercise that isn’t very difficult, it’s sort of ea sier than doing other kinds of exercise.  The noun “workout” is a session or a sho rt period of time of doing some sort of physical activity, especially if you d o it regularly.  I work out Monday through Friday by walking every morning; that’s my workout.  Notice I also used “work out” (two words) as a verb, meaning to exerci se.  Here it’s used as a noun; it means that period of time when you are exercisin g.
 
-So Lars wants to do a low-impact workout.  Reina sa ys, “Forget it!” meaning I’m frustrated with you, I’m tired of you, I’m not goin g to do that.  Reina says, “I’ll race you.”  “To race (someone)” is to see who can run, i n this case, the fastest, who can do the activity the quickest.  Reina says, “The  last one to the park buys lunch,” meaning they’re going to race – they’re goi ng to compete against each other, and the last person to arrive at the park wh ere they’re going in their run or walk has to buy lunch.  If you lose, in other words , you have to buy lunch.  Reina says, “Ready, set, go!”  These three words are trad itionally used to begin a race. “Ready, set, go,” and then you begin after the word  “go.”  It’s sort of like “three, two, one,” but we use this expression, at least in American English, “ready, set, go.”
+So Lars wants to do a low-impact workout.  Reina sa ys, “Forget it!” meaning I’m frustrated with you, I’m tired of you, I’m not goin g to do that.  Reina says, “I’ll race you.”  “To race (someone)” is to see who can run, i n this case, the fastest, who can do the activity the quickest.  Reina says, “The  last one to the park buys lunch,” meaning they’re going to race – they’re going to compete against each other, and the last person to arrive at the park wh ere they’re going in their run or walk has to buy lunch.  If you lose, in other words , you have to buy lunch.  Reina says, “Ready, set, go!”  These three words are trad itionally used to begin a race. “Ready, set, go,” and then you begin after the word  “go.”  It’s sort of like “three, two, one,” but we use this expression, at least in American English, “ready, set, go.”
 
 We’re not sure, in this dialogue, if Lars is lazy o r Reina is not too smart and may injure herself!
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -5435,7 +5435,7 @@ Our dialogues are always brand new; that’s because they’re written by our ow
 
 From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again, won’t you, on ESL Podc ast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Threatening Other Countries
 
@@ -5451,7 +5451,7 @@ In this episode, we’re going to hear a conversation  between Tania and Emilio 
 
 Tania:  Did you see the news today?  Canada has bee n doing military exercises near the Canada-U.S. border.  I think they’re tryin g to send us a message.
 
-Emilio:  They’re just saber-rattling.  They think w e’re amassing weapons near the border and they’re posturing.
+Emilio:  They’re just saber-rattling.  They think we’re amassing weapons near the border and they’re posturing.
 
 Tania:  I don’t think they’re just posturing.
 
@@ -5475,7 +5475,7 @@ Tania begins by saying to Emilio, “Did you see the news today (the news report
 
 In the dialogue, Canada is apparently mad at the Un ited States and their military – their army and navy – is doing military exercises  near the border.  Tania says, “I think they’re trying to send us a message.”  “To  send (someone) a message” means to make sure that the person understands exac tly what you’re thinking without necessarily saying it directly to them.  So , we’re communicating something but it isn’t necessarily in words.
 
-Emilio says, “They (meaning the evil Canadians) are  just saber-rattling.”  A “saber” (saber) is a large sword that’s sharp that you could kill someone with. “To rattle” (rattle) is to make a noise.  Often whe n you have pieces of metal that are next to each other they may make a noise like t his: [rattling sound].  That wasn’t a saber, those were actually the pens that I  have in this blue cup I keep here next my microphone that has a lot of pens and pencils and that sort of thing. I guess you use a pen to kill someone – possible.  Anyway, “saber-rattling” is an old expression that means a certain country is tryi ng to demonstrate or show someone else that they are militarily powerful.  So , they may do military exercises or they may do things that show their mil itary in action.  That’s saber- rattling.
+Emilio says, “They (meaning the evil Canadians) are  just saber-rattling.”  A “saber” (saber) is a large sword that’s sharp that you could kill someone with. “To rattle” (rattle) is to make a noise.  Often whe n you have pieces of metal that are next to each other they may make a noise like t his: [rattling sound].  That wasn’t a saber, those were actually the pens that I  have in this blue cup I keep here next my microphone that has a lot of pens and pencils and that sort of thing. I guess you use a pen to kill someone – possible.  Anyway, “saber-rattling” is an old expression that means a certain country is trying to demonstrate or show someone else that they are militarily powerful.  So , they may do military exercises or they may do things that show their mil itary in action.  That’s saber- rattling.
 
 Emilio says, “They (the Canadians) think we’re amas sing weapons near the border and they’re posturing.”  “To amass” (amass) means to collect or gather as many items of a certain thing as you can and put th em all in one place.  I have amassed several pens and pencils in my blue cup her e on the desk.  A “weapon” is something that will hurt you, something physical  typically, a tool, if you will, for hurting someone: a knife, a gun, that sort of thing  – a pen.  So Canada thinks the U.S. is amassing weapons near the border, and the C anadians, in response to this, are posturing.  “To posture” (posture) as a v erb means to present yourself in a certain way to convey a certain impression on the  other person.  It’s often used
 
@@ -5489,13 +5489,13 @@ Emilio says to this possibility of escalation (the noun of “to escalate”), �
 
 Tania says, “An underground bunker?”  Emilio says, “Yes, and if you ask nicely (if you’re nice to me), I’ll save a place for you.”   So that’s what some people are doing preparing for Canada’s attack on the United S tates!
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
 Tania:  Did you see the news today?  Canada has bee n doing military exercises near the Canada-U.S. border.  I think they’re tryin g to send us a message.
 
-Emilio:  They’re just saber-rattling.  They think w e’re amassing weapons near the border and they’re posturing.
+Emilio:  They’re just saber-rattling.  They think we’re amassing weapons near the border and they’re posturing.
 
 Tania:  I don’t think they’re just posturing.
 
@@ -5515,11 +5515,11 @@ Emilio:  Yes, and if you ask nicely, I’ll save a pl ace for you.
 
 [end of dialogue]
 
-Our scriptwriter would never attack anyone.  That’s  because it’s the kind and wonderful Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
+
 
 # Having Furniture Delivered
 
@@ -5527,7 +5527,7 @@ Welcome to English as a Second Language Podcast num ber 675: Having Furniture De
 
 This is English as a Second Language Podcast episod e 675.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.
 
-Visit our website at eslpod.com and download a Lear ning Guide for this episode – and for life, really.  It will help you in many t hings.
+Visit our website at eslpod.com and download a Learning Guide for this episode – and for life, really.  It will help you in many t hings.
 
 This episode is a dialogue between Zuly and Danny a bout when you buy “furniture” – a bed, a couch, a chair – and the com pany or store delivers it to your house.  We’ll see what happens when there are some problems in that process. Let’s get started.
 
@@ -5581,7 +5581,7 @@ Zuly says, “I wasn’t too happy, to say the least.”  The phrase “to say t
 
 someone what you really think, especially when you’ re angry and upset, when you’re mad.  “Well, I’m going to give that guy a pi ece of my mind!”  I’m going to tell him what I really think, usually because you’r e angry.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -5617,9 +5617,9 @@ Danny:  Let me check…Okay, I guess we’ll set it up.   We’re just running a
 
 Our scriptwriter is a very fine writer, to say the least.  We think she’s wonderful, and we thank Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Selecting a Health Insurance Plan
 
@@ -5679,7 +5679,7 @@ is a little more formal.  Fumi says, “And soon, I w on’t be the only one who
 
 Issac says, “What are you proposing to do?”  “To pr opose” means to suggest or to present an idea for what you think should be don e and how it should be done. Fumi says, “Don’t worry.  I’m not planning a ticker -tape parade, but it’s time your contributions are recognized for what they are arou nd here!”  A “ticker tape” is a long piece of paper, usually in a roll, that is use d in a ticker tape machine, which is like a teletype or telegraph machine.  It was a way of conveying messages electronically, over the radio, and it was a specia l machine that converted the radio signals into something that would then produc e either typing or some sort of printing that you would be able to send informat ion over a long distance.  They were very popular in the old days, many years ago, for those that were involved in the New York and other stock exchanges.  When yo u’re done with the ticker tape you can cut it up and use it as “confetti,” wh ich are small, little pieces of paper that you cut up and then you throw on someone  as a way of congratulating them.  And, in New York City, when someone did some thing wonderful, the tradition was to give that person or those people a  “ticker-tape parade,” meaning they would take the tape – the pieces paper – rip t hem up, and throw them from the tall buildings in New York City so they would c ome down on the heroes that were being honored, sort of like rain falling down but it is paper.  In general, it’s used to indicate that you are going to have a big c elebration.  Fumi tells Issac that she’s not planning a ticker-tape parade, “but it’s time your contributions are recognized for what they are around here!”  “To rec ognize” means to realize that they are important.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -5709,9 +5709,9 @@ Fumi:  Don’t worry.  I’m not planning a ticker-tape  parade, but it’s time
 
 One of the unsung heroes here at ESL Podcast, worki ng behind the scenes, is our own Dr. Lucy Tse.  Although since I talk about her, she really isn’t unsung. I’m singing her praises, which is an expression tha t means to say good things about another person.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Disagreeing about Religion
 
@@ -5729,7 +5729,7 @@ Jim:  You know that religion is a taboo subject, es pecially with Paul.  Why wer
 
 Tammy:  I wasn’t baiting him.  We have very differe nt views on spirituality and I wanted to discuss the subject with him.
 
-Jim:  You were making disparaging remarks about his  faith and some of the things he holds most sacred.  I think you were tryi ng to be provocative.
+Jim:  You were making disparaging remarks about his  faith and some of the things he holds most sacred.  I think you were trying to be provocative.
 
 Tammy:  I may have said a few things that were prov ocative, but I don’t understand how people can believe in superstitions.
 
@@ -5765,7 +5765,7 @@ Jim says, “I’m not a fundamentalist.  In fact,” Jim  says, “I’m an ath
 
 Jim then makes a joke; he says, “Ladies and gentlem en, behold the voice of tolerance.”  “Ladies and gentlemen” is what you say  when you are talking to a large group of people and trying to get their atten tion – trying to get them to listen to you.  Here, though, it’s just Tammy and Jim, so he’s joking.  He says, “behold the voice of tolerance.”  “Behold” (behold) is a ve ry formal word that means to draw attention to something.  Nowadays it’s used mo re as a joke; it’s not used in the way that it perhaps used to be used.  So Jim is  saying “everyone look at this person.”  He calls Tammy “the voice of tolerance.”  “The voice of…” means that she is speaking as if she were that person.  But th is isn’t a real person, this is an idea that she is apparently speaking for, and that idea is tolerance (tolerance). “Tolerance” is a willingness to let other people do , say, and believe what they want to without feeling like you have to criticize them or change them.  It’s allowing other people to be what they want to be.  Jim is making a joke; he’s saying that, in fact, Tammy is not a voice of toler ance, that by criticizing Paul she, in fact, is being intolerant, not allowing people t o believe what they want to, in a sense.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -5773,7 +5773,7 @@ Jim:  You know that religion is a taboo subject, es pecially with Paul.  Why wer
 
 Tammy:  I wasn’t baiting him.  We have very differe nt views on spirituality and I wanted to discuss the subject with him.
 
-Jim:  You were making disparaging remarks about his  faith and some of the things he holds most sacred.  I think you were tryi ng to be provocative.
+Jim:  You were making disparaging remarks about his  faith and some of the things he holds most sacred.  I think you were trying to be provocative.
 
 Tammy:  I may have said a few things that were prov ocative, but I don’t understand how people can believe in superstitions.
 
@@ -5791,9 +5791,9 @@ Jim:  Ladies and gentlemen, behold the voice of tol erance.
 
 Our scriptwriter always calls them like she sees th em.  That would be the one, the only, Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us next time here on ESL Podcast .
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Minor Medical Injuries
 
@@ -5851,13 +5851,13 @@ Evan doesn’t like camping, at least he hasn’t had a  good experience of it; 
 
 Cherise says, “Stop moving around like that or you’ ll really hurt yourself.”  We’re not sure what Evan is doing here, probably moving h is neck.  Evan says, “Oh, I have a cramp in my shoulder!  It hurts!”  A “cramp”  (cramp) is a sharp feeling of pain, usually caused by a muscle that won’t relax p roperly.  If you are running or doing some sort of athletic event sometimes you wil l get cramps; your body will produce a sharp pain in the muscle.  It could happe n in your arms, it could happen in your legs; this happened to Evan’s should er.
 
-Cherise says, “I told you not to twist like that.”  “To twist” means to turn or rotate something in a particular direction.  You can find other meanings of the word “twist” in our Learning Guide for this episode.  Ch erise says, “Just let it work itself out.”  The expression “to work itself out” means to  have a problem fix itself; when something bad happens sometimes it will get better even if you don’t do anything, and that’s what Cherise is telling Evan t o do.
+Cherise says, “I told you not to twist like that.”  “To twist” means to turn or rotate something in a particular direction.  You can find other meanings of the word “twist” in our Learning Guide for this episode.  Ch erise says, “Just let it work itself out.”  The expression “to work itself out” means to  have a problem fix itself; when something bad happens sometimes it will get better even if you don’t do anything, and that’s what Cherise is telling Evan to do.
 
 Evan says, “All of this had to happen to me after g etting a stitch in my side and a charley horse hiking five miles yesterday.”  A “sti tch (stitch) in your side” is a pain that you feel on one side of your body, usually bet ween your hip or your waist and your arms.  It’s often caused by doing too much  physical activity, often running is the problem.  A “charley horse” (charley ) horse (two words) is another word for a cramp, a painful cramp typically in your  leg.  Evan says, “I’ve had it!” meaning I’m very tired and frustrated about somethi ng and I don’t want to do it anymore.  Evan doesn’t want to go camping anymore.  He says, “I’m going back to civilization.”  “Civilization” can mean a partic ular society over many years that follow similar rules and customs.  In this case, it ’s really used to indicate somewhere that is not outdoors: a city, a town wher e there are buildings and hotels and restaurants, a place that has modern com forts and conveniences available.
 
 Cherise says, “How are you getting there?” meaning how are you going to get from where they are now to civilization, as Evan ca lls it.  Evan says, “What do you mean?  I’m walking.”  Cherise says, “Without fo od or water?”  She says, “You better wait for me.”  She’s giving him some ad vice: you should wait for me to go with you.  “Or,” she says, “you may end up be ar bait after all!”  “You may end up” means that the final result might be that y ou are bear (like the animal) bait (bait).  “Bait” is a small piece of food that’ s used to attract an animal, usually so that you can catch it.  You put the bait in some thing called a “trap,” and the animal comes to get the bait, and when it moves the  food the trap comes down on the animal to capture it – to keep it there, usu ally because you’re trying to get rid of it.  The most common trap that most people a re familiar with would be a mousetrap, trying to rid of mice that are in your h ouse.  The traditional bait for that is cheese – because everyone knows that mice l ove cheese!  Cherise is saying that Evan, if he’s not careful, may fall dow n, get injured, and become bait for a bear – the bear might eat him.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -5895,9 +5895,9 @@ Cherise:  Without food or water?  You’d better wait  for me or you may end up 
 
 Our dialogues never make you feel miserable.  That’ s because they’re written by the one, the only, Dr. Lucy Tse.
 
- From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Using a Video-Sharing Website
 
@@ -5935,23 +5935,23 @@ Frank:  Right, I’ll get in line right now to buy ti ckets to your upcoming Veg
 
 Our dialogue begins with Melissa saying to Frank, “ You’re looking at the next overnight sensation.”  “Overnight” (one word) means  from today till tomorrow, in 24 hours.  If a company says we’ll deliver that to you overnight that means it will be there the next day.  “Overnight,” however, can a lso mean very quickly, suddenly.  This is the meaning that Melissa has in mind when she says “the next overnight sensation.”  A “sensation” here means som ething that is very popular; something that has become very popular very quickly  is called an “overnight sensation.”  Melissa says, “I’m uploading my video right now.”  “To upload” (upload – one word) means to move a file from a com puter – a computer’s hard drive – up to another computer on the Internet or o n a network of computers. Melissa says that by this time tomorrow, in 24 hour s, “I wouldn’t be surprised if it’s had over 100,000 views.”  She’s saying that sh e expects that her video will, in 24 hours, have 100,000 views.  A “view,” when we’re  talking about a video website, means that something has been watched by 1 00,000 people or 100,000 times.  Maybe one person watches it 100,000 times; I’m not sure exactly how that works.  But, 100,000 views usually means that 100,000 people have seen the video.  “It’s going to go viral,” Melissa says.   The expression “to go viral” (viral) means something becomes very popular on the  Internet very quickly.  Like a virus causes illness – sickness to spread quickly  from one person to another, “viral” means something moves very quickly on the I nternet; it becomes popular very quickly.
 
-Frank says, “You and your amateur videos.”  “Amateu r” is the opposite of “professional,” something done by someone who isn’t  getting any money for it typically.  Also, it means not very good, not very sophisticated.  That’s the idea that Frank is saying; he’s saying that you are maki ng another amateur video. “Who’s going to watch something with such low produ ction value?”  “Production value” is the quality of the video or the quality o f the movie.  It could be the sound, it could be the way it looks, the special ef fects.  All of these are part of the production value.  “Production” comes from the word  “produce,” meaning to make.  “Value,” here, is how good or bad it is.  It ’s a term you hear a lot in Los Angeles when people talk about movies and films: “p roduction value.”
+Frank says, “You and your amateur videos.”  “Amateu r” is the opposite of “professional,” something done by someone who isn’t  getting any money for it typically.  Also, it means not very good, not very sophisticated.  That’s the idea that Frank is saying; he’s saying that you are maki ng another amateur video. “Who’s going to watch something with such low produ ction value?”  “Production value” is the quality of the video or the quality of the movie.  It could be the sound, it could be the way it looks, the special ef fects.  All of these are part of the production value.  “Production” comes from the word  “produce,” meaning to make.  “Value,” here, is how good or bad it is.  It ’s a term you hear a lot in Los Angeles when people talk about movies and films: “p roduction value.”
 
 Melissa says, “You’d be surprised.”  That expressio n “you’d be surprised” means you will be surprised at the quality of my video.  She says, “I have my own channel on YouGube, with over 5,000 subscribers.”  A “channel” here is a group of things that are related to each other; it typica lly refers to something on the
 
 radio or the television that is created and can be found in the same place every time.  On video-sharing sites, this one is called “ YouGube,” similar I think to YouTube, you can have your own channel.  So, you ca n put all of your videos in one place and people can find them easily.  They ca n also “subscribe” to your channel, meaning every time you put a new video on your channel they get an email telling you hey, there’s a new video on this person’s channel.  A “subscriber” is someone who has signed up or paid t o receive copies of something such as a newspaper, a magazine, or in th is case emails on the Internet.  Notice when pronounced quickly, the word  “Internet” often loses that “t” in the middle when we say it quickly: “ Inernet ” instead of “Internet.”
 
-Anyway, Frank says, “Are you sure that’s not becaus e your username is AngelinaJolie?”  A “username” (one word) is a name that you select for an email account or when you register or subscribe to someth ing on the Internet.  It’s a name that you can pick that doesn’t necessarily hav e to be your name.  One of my usernames is ESLPod; that’s not my name, but I c an use it as my username. That’s my username on Twitter; you can follow me on  Twitter if you want to. Frank says Melissa has a username of AngelinaJolie,  who you may know is a famous, beautiful actress who lives with another ac tor, some guy by the name of Brad…Brad…what is it?  Brad Pitt, yeah, Brad Pitt.  Who ever heard of him?
+Anyway, Frank says, “Are you sure that’s not becaus e your username is AngelinaJolie?”  A “username” (one word) is a name that you select for an email account or when you register or subscribe to someth ing on the Internet.  It’s a name that you can pick that doesn’t necessarily hav e to be your name.  One of my usernames is ESLPod; that’s not my name, but I can use it as my username. That’s my username on Twitter; you can follow me on  Twitter if you want to. Frank says Melissa has a username of AngelinaJolie,  who you may know is a famous, beautiful actress who lives with another ac tor, some guy by the name of Brad…Brad…what is it?  Brad Pitt, yeah, Brad Pitt.  Who ever heard of him?
 
 Anyway, AngelinaJolie is the username Melissa uses,  and of course people would subscribe to her channel thinking that she wa s the real Angelina Jolie. Melissa says, however, “No,” that isn’t true.  She has 5,000 subscribers she says, “because people enjoy my videos, mark them as  their favorites, and share them with their friends.”  On many websites you can  indicate which things on the site are your favorite things, and that’s what Meli ssa is referring to.  People also share her videos; they send an email perhaps with a  “link” (the website address) so the person can then look at that video, or they put on their Facebook page or perhaps they put it on their Twitter feed by tweeti ng it.  Melissa says, “Word of mouth – that’s why I’m so popular.”  “Word of mouth ” is an expression that means that one person tells another person and then  they tell their friend and then that friend tells someone else, and pretty soo n you’re very popular because everyone has been telling everyone else.  Normally we use this expression to compare it to another way of getting people to come  to your website or go to your store, which would be a commercial on the televisio n for example, or in the newspaper.  But, “word of mouth” is advertising tha t takes place when one person tells another.  It doesn’t cost you any mone y; it’s the best kind of advertising.  Melissa says, “that’s why I’m so popu lar (that’s why everyone likes me).”
 
 Frank says, “But what about the comments on your vi deos?”  A “comment” is something that you write to express your opinion, e specially on a website.  Frank asks, “How many of those (comments) are positive an d how many are negative?” Melissa says, “I don’t read the comments.  I assume  they’re all positive, and my videos have never been flagged.”  She thinks everyo ne loves her videos, but she doesn’t read their comments with their actual opini ons.  She says her videos have never been flagged.  “To be flagged” (flagged)  means to indicate that something on the Internet has either broken a rule for the website or is somehow unusual in some way.  So if you go to YouTube and y ou put up a video of a television program that is illegal, someone could f lag your video.  They could indicate to the owner of the website that you are d oing something wrong.
 
-Frank says, “All right, so is this another video of  you dancing with your cat?” That’s Melissa’s video, her dancing with her cat.  Melissa says, “No, my cat and I are dancing and singing.  That’s why we’re both goi ng to be the next big thing.” “The next big thing” is the next thing that will be  very popular and well known among many people.  It’s the next, we might call it , “trend,” or “fad” (fad), something that’s popular for a while, but only brie fly – only for a short time, and then it’s not so popular.
+Frank says, “All right, so is this another video of  you dancing with your cat?” That’s Melissa’s video, her dancing with her cat.  Melissa says, “No, my cat and I are dancing and singing.  That’s why we’re both going to be the next big thing.” “The next big thing” is the next thing that will be  very popular and well known among many people.  It’s the next, we might call it , “trend,” or “fad” (fad), something that’s popular for a while, but only brie fly – only for a short time, and then it’s not so popular.
 
 Melissa says she thinks she and her cat will be the  next big thing.  Frank says, “Right,” but he says it in a way that really means wrong.  He says the word “right” meaning I don’t believe you.  So sometimes the mean ing of the word can be the opposite depending on how the person says it.  He s ays, “I’ll get in line (I’ll start waiting) right now to buy tickets to your upcoming Vegas show.”  “Upcoming” (one word) means happening in the near future, some thing that will be happening soon.  “Vegas” refers to the city of Las Vegas in N evada, about five hours by car east of Los Angeles.  It’s where you can go and see  a lot of famous singers, they have shows – they have performances that you go and  watch.  Frank, of course, is making a joke.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -5979,9 +5979,9 @@ Frank:  Right, I’ll get in line right now to buy ti ckets to your upcoming Veg
 
 Why is ESL Podcast so popular?  Well, the big reaso n I think is our scriptwriter, the wonderful Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast.  A ngelina, call me!
+  A ngelina, call me!
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Asking for Information About a Coworker
 
@@ -6017,7 +6017,7 @@ Earl:  Yeah, maybe about a dozen of the women in th is office.  They’ve been b
 
 Amina:  Oh, sorry.  I didn’t know.
 
-Earl:  Yeah, I’m not the guy’s social secretary.  Y ou women have to satisfy your own curiosity elsewhere.
+Earl:  Yeah, I’m not the guy’s social secretary.  You women have to satisfy your own curiosity elsewhere.
 
 Amina:  Point taken, but do you know if he’s shown interest in any of the dozen women you’ve talked to?
 
@@ -6045,7 +6045,7 @@ Amina says, “Point taken.”  This is an informal phr ase we use to mean that 
 
 person.  They may show interest by talking to them,  laughing at their jokes, asking them to go to lunch with them, and so forth.   Earl replies simply by saying, “Ugh!”  This is an expression of frustration, of di sappointment, of dislike.  He doesn’t want to be asked these questions; he’s tire d of it.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -6071,7 +6071,7 @@ Earl:  Yeah, maybe about a dozen of the women in th is office.  They’ve been b
 
 Amina:  Oh, sorry.  I didn’t know.
 
-Earl:  Yeah, I’m not the guy’s social secretary.  Y ou women have to satisfy your own curiosity elsewhere.
+Earl:  Yeah, I’m not the guy’s social secretary.  You women have to satisfy your own curiosity elsewhere.
 
 Amina:  Point taken, but do you know if he’s shown interest in any of the dozen women you’ve talked to?
 
@@ -6083,7 +6083,7 @@ The lowdown on our scriptwriter is that she’s intel ligent, creative, and know
 
 From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again, won’t you, on ESL Podc ast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Getting Feedback on Writing
 
@@ -6139,7 +6139,7 @@ So, Xica says, “It’s easy for you to say.”  That ex pression means that it
 
 Lucas says, “True (it can be demoralizing), but you  forget that I have my own battle wounds – lots of them!”  A “battle” is when two groups of people are fighting each other, perhaps two different countrie s.  A “wound” (wound) is when you are hurt; perhaps you have been shot or you hav e been cut.  A “battle wound,” then, is some injury that you have received  in a battle.  Lucas is using the expression here to mean that he has also receiv ed a lot of criticism.  He received difficult comments from professors when he  was in school so that he also knows what it is like to get these kinds of co mments, and that Xica’s experience is not unique.  She’s not the only one, he also has gone through this experience.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -6169,7 +6169,7 @@ Everything our scriptwriter says is well supported;  that’s because it’s wri
 
 From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again sometime here on ESL Po dcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Roles Within a Family
 
@@ -6225,13 +6225,13 @@ are sometimes plant or trees inside the courtyard.  When you have a courtyard ro
 
 George says, “I don’t really care which type of roo m we get as long as we don’t end up with a room on the ground floor.”  “To end u p with” means to get a particular thing after waiting or making an effort.   It’s a very broad, general expression that can be used in many different insta nces.  For example if you are selling something at your store, at the end of the day after many hours someone may say to you, “Well, how much did you end up with  today?” meaning after working those many hours how much money did you hav e.  The expression here refers to what will happen after Andrea makes the r eservation, after they travel to the hotel, once they get to their room.  What did t hey end up with?  What did they finally or ultimately get?  What George does not wa nt to end up with is a room on the ground floor.  And, in the U.S. the “ground flo or” is the first floor, the floor that is the lowest in the building not including what is  below ground, the basement. George does not want a room on the ground floor.  H e says, “I don’t like having people walking back and forth outside my window all  night.”  “Back and forth” means going in two different directions repeatedly,  moving in one direction and then walking back in the other direction.  He’s say ing that he doesn’t want other people at the hotel walking by his window throughou t the night, as would be perhaps more common on the ground floor.  I’m not s ure if that’s true, but that’s what George thinks.
 
-Andrea says, “Okay, I can request a room on an uppe r floor.”  “Upper,” here, would mean above the first floor, high up in the bu ilding.  “Upper” has a couple of different meanings; take a look, again, at our Lear ning Guide for some more
+Andrea says, “Okay, I can request a room on an uppe r floor.”  “Upper,” here, would mean above the first floor, high up in the bu ilding.  “Upper” has a couple of different meanings; take a look, again, at our Learning Guide for some more
 
 explanations.  She then says, “You really don’t hav e a preference?” meaning there isn’t one particular kind of room that you wa nt besides an upper room or upper-floor room.  George says, “No, not really.”  Andrea says, “There is a penthouse room for 400 dollars a night.”  The “pent house,” especially in an expensive hotel or condominium building, is the hig hest floor, usually much bigger than the other rooms.  It is also, of course , the most expensive.
 
 George says, “What?!  For that price (for 400 dolla rs), I’d better get a view of the Eiffel Tower, the Parthenon, and the Great Wall of China!”  Once again, George is making a joke here.  He’s saying that if he has to pay 400 dollars a night, he should have a view of some of the great landmarks o r places in the world.  He should be able to see the Eiffel Tower in Paris, the Parthenon in Athens, or the Great Wall of China.  Obviously, George doesn’t sta y in expensive hotels very often!
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -6261,7 +6261,7 @@ You’ll definitely end up with better English by lis tening to the scripts writ
 
 From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again, won’t you, on ESL Podc ast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Dangerous Freeway Driving
 
@@ -6296,7 +6296,7 @@ The narrator says, “What can I say?”  That expressi on, an informal one, mea
 
 The narrator doesn’t like anyone keeping him from t he open road.  “The open road” is the idea that you can drive fast down the freeway, and there are very few
 
-other cars around you.  Here, he’s referring to slo w moving cars, if you remember.  He’s trying to get around them so he can  move fast.  Some people like the feeling of driving fast.  He says, “Someti mes, I encounter (that is, I meet) another driver who likes to drive fast and we have a drag race.”  A “drag (drag) race” is an informal competition to see which car c an go fast enough.  If you’ve watched a movie about the 1950s and 60s in the Unit ed States, you may have seen a drag race, where two high school boys will b e in their cars and they will race to see who is the fastest.  That’s a “drag rac e.”  More commonly, perhaps, two usually young male drivers will be next to each  other at a stop light, and they will race each other to the next stop light or to w herever they’re going.
+other cars around you.  Here, he’s referring to slo w moving cars, if you remember.  He’s trying to get around them so he can  move fast.  Some people like the feeling of driving fast.  He says, “Someti mes, I encounter (that is, I meet) another driver who likes to drive fast and we have a drag race.”  A “drag (drag) race” is an informal competition to see which car can go fast enough.  If you’ve watched a movie about the 1950s and 60s in the Unit ed States, you may have seen a drag race, where two high school boys will b e in their cars and they will race to see who is the fastest.  That’s a “drag rac e.”  More commonly, perhaps, two usually young male drivers will be next to each  other at a stop light, and they will race each other to the next stop light or to w herever they’re going.
 
 The narrator says, “I know how to bird dog the othe r car until I see a way to speed up and overtake it.”  “To bird dog” (two word s) means to observe, to watch, to monitor something very carefully.  He bir d dogs, or watches the other car until he sees a way, sees a manner in which he can speed up.  “To speed up” means to go faster; “to accelerate,” we could also say.  He speeds up and he overtakes the other car.  “To overtake (someone)” m eans to go faster than them so that you are in front of them.  You were behind them before, but now you go in front of them because you are moving faster.  That’ s why, he says, he almost always wins these drag races, because he’s able to speed up and overtake the other car.
 
@@ -6320,7 +6320,7 @@ Our scripts never get old.  Even after writing hund reds and hundreds our script
 
 From Los Angeles, California, I’m Jeff McQuillan – not very interesting.  But I thank you for listening and hope that you’ll listen  to us again here on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Recommending Someone for a Job
 
@@ -6328,7 +6328,7 @@ Welcome to English as a Second Language Podcast num ber 692: Recommending Someon
 
 This is English as a Second Language Podcast episod e 692.  I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.
 
-Visit our website at eslpod.com.  Download the Lear ning Guide for this episode to help you improve your English faster than ever.
+Visit our website at eslpod.com.  Download the Learning Guide for this episode to help you improve your English faster than ever.
 
 This episode is called “Recommending Someone for a Job.”  It’s a dialogue between Harry and Judy.  Let’s get started.
 
@@ -6356,7 +6356,7 @@ something good about another person to a possible e mployer or someone who you a
 
 Judy says, “Okay, I think I can make it around 4:00 .”  When someone says “around 4:00” they mean approximately; maybe a few minutes before, maybe a few minutes after.  Harry says, however, “Not aroun d 4:00.  You need to be here at 4:00 sharp, got that?”  “Sharp” is here used to mean exactly, precisely, at a specific time.  So when we’re talking about time, a nd you want to give someone an exact time, you might say, “I want you to leave at 8:45 sharp.”  That means exactly at 8:45, not before, not after.  Another wa y of saying this would be “on the dot.”  “I want you here by 8:00 on the dot.”  That’ s exactly at 8:00.
 
-Harry says, “I’m sticking my neck out for you.”  “T o stick your neck out for (someone)” means to take a risk, to perhaps say som ething or do something that could hurt you but it could also help you or, in th is case, help someone else.  “I’m going to stick my neck out for my brother and say t hat he will be here at 8:00.”  If he isn’t here at 8:00 I might be in trouble, but I am going to take a risk; I’m going to stick my neck out for him.  In general, you can use the expression not for “him,” but for yourself; you can just say, “I’m goi ng to stick my neck and say that the capital of Spain is Madrid.”  You’re saying I m ight be wrong; I’m taking a risk. If I’m wrong, I’m sure several thousand Spaniards w ill email me, so I’m sticking my neck out.  Actually, I’m pretty sure Madrid is t he capital of Spain!
+Harry says, “I’m sticking my neck out for you.”  “T o stick your neck out for (someone)” means to take a risk, to perhaps say som ething or do something that could hurt you but it could also help you or, in th is case, help someone else.  “I’m going to stick my neck out for my brother and say t hat he will be here at 8:00.”  If he isn’t here at 8:00 I might be in trouble, but I am going to take a risk; I’m going to stick my neck out for him.  In general, you can use the expression not for “him,” but for yourself; you can just say, “I’m going to stick my neck and say that the capital of Spain is Madrid.”  You’re saying I m ight be wrong; I’m taking a risk. If I’m wrong, I’m sure several thousand Spaniards w ill email me, so I’m sticking my neck out.  Actually, I’m pretty sure Madrid is t he capital of Spain!
 
 So, Harry is sticking his neck out for Judy.  How i s he doing that?  By recommending her for the job.  “To recommend,” of c ourse, means to say something that someone should do or not do based on  or coming from your own opinions, knowledge, or experiences.  Harry is stic king his neck out for Judy by recommending her for the job.  “So,” he says, “don’ t let me down.”  “To let (someone) down,” or “to let down (someone),” is ano ther phrasal verb meaning to disappoint someone, not to meet someone’s expect ations.
 
@@ -6364,15 +6364,15 @@ Judy says, “All right, I’ll be there.  It’s not lik e it’s my idea to ge
 
 Harry says to Judy, “You can’t afford to be choosy. ”  “To afford (afford) to do (something)” means to be able to do something becau se it does not present any problems for you.  It could also mean to have enoug h money to do something: “I can’t afford to go to Las Vegas this weekend; I don ’t have any money to lose.” “To afford to” can also mean something without mone y, and that’s the case in this example.  Harry says to Judy, “You can’t affor d to be choosy (choosy).”  “To be choosy” means to be willing to take or have only  the things that meet your very high standards or high expectations.  Another word for this is “picky” (picky). Someone who is “choosy” doesn’t take the first thin g they see, they wait until they get the best thing – the “best fit,” you could  say, for their situation.  Some men and women don’t get married as early as they us ed to nowadays; some people say that’s because they’re being too choosy – too picky, waiting for the perfect man or the perfect woman rather than someon e they could grow to love. That’s some people’s opinion; not mine necessarily.
 
-Harry says that Judy can’t afford to be choosy.  “Y ou need a job and you need it right now.”  Judy says, “I’m not in a hurry.  I wan t to find a job that really suits my talents.”  “To suit (suit) your talents” means to m ake good use of your strengths and interests, to be something that matches your qu alifications, what you are able to do.
+Harry says that Judy can’t afford to be choosy.  “You need a job and you need it right now.”  Judy says, “I’m not in a hurry.  I wan t to find a job that really suits my talents.”  “To suit (suit) your talents” means to make good use of your strengths and interests, to be something that matches your qu alifications, what you are able to do.
 
 Harry says, “I’m sick of you sleeping on my couch a nd mooching off me.”  Now we understand why Harry wants Judy to get a job.  J udy is staying at Harry’s apartment, and he says she is mooching off him.  “T o mooch (mooch) off (someone)” is an informal expression meaning to tak e things for free from another person, especially money, food, clothing, a nd not offering to pay them
 
 anything.  Judy is mooching off Harry by staying at  his apartment and not paying any money.
 
-He says, “By the time you find a job that suits you r talents, I’ll be in a nursing home – or an insane asylum!”  Harry is saying that Judy is taking a long time to find a job, and if she waits until she finds the pe rfect job, one that suits her talents, Harry will be in a nursing home.  A “nursi ng home” is a place where typically old people go because they have medical p roblems and they need a lot of extra care and help from doctors and nurses.  It ’s not a hospital; it’s a place where people live for a long time when they need ex tra help, especially medical help.  An “insane asylum” is also called a “mental institution.”  It’s a place where people who have mental problems or psychological pr oblems go; it’s where crazy people go, to put it another way.  There are lots o f informal ways of talking about an insane asylum.  Harry is suggesting that he will  go crazy if he waits for Judy to find a job that suits her talents.  So, he is press uring her; he is trying to make her get a job so she can go somewhere else to live.  I don’t blame Harry!
+He says, “By the time you find a job that suits you r talents, I’ll be in a nursing home – or an insane asylum!”  Harry is saying that Judy is taking a long time to find a job, and if she waits until she finds the pe rfect job, one that suits her talents, Harry will be in a nursing home.  A “nursi ng home” is a place where typically old people go because they have medical p roblems and they need a lot of extra care and help from doctors and nurses.  It ’s not a hospital; it’s a place where people live for a long time when they need ex tra help, especially medical help.  An “insane asylum” is also called a “mental institution.”  It’s a place where people who have mental problems or psychological pr oblems go; it’s where crazy people go, to put it another way.  There are lots of informal ways of talking about an insane asylum.  Harry is suggesting that he will  go crazy if he waits for Judy to find a job that suits her talents.  So, he is press uring her; he is trying to make her get a job so she can go somewhere else to live.  I don’t blame Harry!
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -6394,9 +6394,9 @@ Harry:  I’m sick of you sleeping on my couch and mo oching off me.  By the tim
 
 Our scriptwriter never lets us down; that’s because  it’s the one, the only, Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Following a Dress Code
 
@@ -6410,7 +6410,7 @@ This episode is a dialogue between Tae and Nicole.  They’re going to be talkin
 
 [start of dialogue]
 
-Tae:  What are you doing?  Why are you taking all o f my clothes out of my suitcase?  I just finished packing that.
+Tae:  What are you doing?  Why are you taking all of my clothes out of my suitcase?  I just finished packing that.
 
 Nicole:  You’ve packed all of the wrong things.  We ’re going on a luxury cruise and all you’ve packed are shorts and t-shirts.
 
@@ -6454,11 +6454,11 @@ Nicole says, “You don’t have to dress up the entire  (or the whole) time”,
 
 Tae says, “I knew there was a catch when you booked  this vacation.”  A “catch” (catch) here means a trick, something that is hidde n, something that you don’t know about but you only find out later.  It sounds great, but then when you find the real truth it isn’t so great.  So, a “catch” is  the thing that you didn’t know about that isn’t so wonderful, and Tae says that he knew there was a catch when Nicole booked, or made the reservations – the plans  for their vacation on this luxury cruise.  He says, “It’s less a vacation for me than a dress-up party for you!” He’s saying that it isn’t really a vacation; it’s a n opportunity for Nicole to dress up, to wear nice clothing.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
-Tae:  What are you doing?  Why are you taking all o f my clothes out of my suitcase?  I just finished packing that.
+Tae:  What are you doing?  Why are you taking all of my clothes out of my suitcase?  I just finished packing that.
 
 Nicole:  You’ve packed all of the wrong things.  We ’re going on a luxury cruise and all you’ve packed are shorts and t-shirts.
 
@@ -6480,9 +6480,9 @@ Tae:  I knew there was a catch when you booked this  vacation.  It’s less a va
 
 There’s no catch here at ESL Podcast.  You listen t o the wonderful scripts by Dr. Lucy Tse and your English will get better.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Going to the Emergency Room
 
@@ -6516,11 +6516,11 @@ I continue my story: “I hear that there had been a pileup on Freeway 215 and t
 
 that car, and so forth.  That’s called a “pileup.”  There had been a pileup on the 215 freeway, and these were the people who were hur t; these were the “victims.” “I can see a doctor performing triage and the most critical cases are taken into exam rooms and maybe directly into surgery.”  “Tria ge” (triage) is the process of determining which patients are the sickest, who nee ds help first.  “Critical cases” are very serious cases, usually ones that are what we would call “life- threatening,” meaning you could die if you don’t ge t proper help quickly.  “Critical” has other meanings in English as well; take a look at the Learning Guide for those.  An “exam room” is short for an examination room.  This is not where you take a test; it’s where the doctor looks at you to see what’s wrong with you.  The doctor “examines” you; he or she will look at you c losely.  “Surgery” is where they cut open some part of your body in order to fix som ething or to help you in some way.  So, the doctors are performing triage, and the most critical – the most serious cases are taken into exam rooms for the doc tors to look at them, and maybe directly into surgery, where the doctors will  – we use the verb “perform” – perform surgery on them.
 
-Sunday, 1:25 p.m.  Remember, I arrived at 9:35 p.m.  on Saturday night; now, it’s already Sunday afternoon.  I say, “I decide to give  up and go home.”  “To give up” is a two-word phrasal verb meaning to stop tryi ng to do something, usually because it’s very difficult or impossible.  “Don’t give up,” we sometimes say to people, meaning don’t stop trying.  Well, I decide to give up and go home.  “If I hadn’t bled to death by that time, I could probably  wait until Monday to see my regular physician.”  “Bled” is the past tense of the verb “to bleed” (bleed).  It’s irregular, it’s not “bleeded” in the past tense, it ’s “bled” (bled).  “To bleed to death” would mean to die because you are losing so much “b lood,” that red liquid that comes out of your body when you cut it.  Well, I’m kind of making a joke here.  I say because I haven’t bled to death, I can probably  wait another day and go see my regular doctor – my regular “physician” on Monda y.  This is not uncommon for emergency rooms to be very crowded in some hosp itals in some cities in the U.S., especially public hospitals.
+Sunday, 1:25 p.m.  Remember, I arrived at 9:35 p.m.  on Saturday night; now, it’s already Sunday afternoon.  I say, “I decide to give  up and go home.”  “To give up” is a two-word phrasal verb meaning to stop trying to do something, usually because it’s very difficult or impossible.  “Don’t give up,” we sometimes say to people, meaning don’t stop trying.  Well, I decide to give up and go home.  “If I hadn’t bled to death by that time, I could probably  wait until Monday to see my regular physician.”  “Bled” is the past tense of the verb “to bleed” (bleed).  It’s irregular, it’s not “bleeded” in the past tense, it ’s “bled” (bled).  “To bleed to death” would mean to die because you are losing so much “b lood,” that red liquid that comes out of your body when you cut it.  Well, I’m kind of making a joke here.  I say because I haven’t bled to death, I can probably  wait another day and go see my regular doctor – my regular “physician” on Monda y.  This is not uncommon for emergency rooms to be very crowded in some hosp itals in some cities in the U.S., especially public hospitals.
 
 I conclude by saying that my evening in the emergen cy room wasn’t a total loss. A “total loss” would be something that has no usefu l purpose or useful result, something that didn’t give you anything.  “I learne d a valuable lesson: Never voluntarily go to the emergency room!”  “Voluntaril y” means no one is forcing you, you decide that you are going to go on your ow n.  That’s probably not very good advice, however.  If you’re really sick or hur t, you should definitely go to the emergency room.  It’s better than staying where you  are and getting no help whatsoever.  In my own case, I ended up staying at the hospital probably about three or four hours before I got to see a doctor wh o gave me some stitches in my thumb, and now I’m all better.
 
- Now let’s listen to the dialogue, this time at a no rmal speed.
+ Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of story]
 
@@ -6546,9 +6546,9 @@ My evening in the emergency room wasn’t a total los s, though.  I learned a va
 
 Even when she has a difficult topic, our scriptwrit er never gives up.  That’s because it’s Dr. Lucy Tse, who is helping us each w eek.  Thank you, Lucy.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again on ESL Podcast.
 
- English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Being Late for an Event
 
@@ -6594,7 +6594,7 @@ Carmen says, “Just give me a couple of minutes more  and I’ll be ready.”  
 
 Eric says, “Yeah, and I should, too,” meaning I sho uld know better as well. “From now on, I’ll start getting ready when you say  you’re all set.”  “To be all set” means to be completely prepared, to be completely r eady, you don’t need any more time.  Eric says that when Carmen says that sh e’s all set, then he’ll start getting ready.  “Then,” he says, “I’ll just have mi nutes to wait – not hours!”  In other words, Eric is going to wait, in the future, until Carmen says she’s ready, and then he’ll get ready.  That way – in that manne r, he won’t have to wait hours for her to get ready, it will only be minutes.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -6616,9 +6616,9 @@ Eric:  Yeah, and I should, too.  From now on, I’ll start getting ready when yo
 
 She’s always punctual; she never runs late.  That’s  our wonderful scriptwriter, Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Investing Your Money
 
@@ -6680,7 +6680,7 @@ Karen is joking by saying that she doesn’t have to invest if she spends all of
 
 uses an old expression: “A fool and his money are s oon parted.”  A “fool” is an idiot, a stupid person, an unwise person.  If you h ave a stupid person, usually or often they will lose their money.  “To be parted” m eans to be separated from.  So, the money and the fool are separated because the fo ol loses his money.  So, “a fool and his money are soon parted” means that peop le who aren’t very smart usually lose their money; they spend it or someone takes it from them in some fashion – in some way.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -6710,7 +6710,7 @@ Jimmy:  Right.  You know what they say: “A fool and  his money are soon parted
 
 From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again sometime on ESL Podcast .
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
 
 # Eating a School Lunch
 
@@ -6766,9 +6766,9 @@ Chris says, “That sucks.”  The expression “that suc ks” means that’s v
 
 Chris says, “Sucker!”  “Sucker” is a rude word used  to describe someone who has been tricked or manipulated or used by another person.  It’s definitely a negative description of someone; it’s saying that p erson is stupid, in a way, for being deceived, for being used or tricked.  Chris s ays, “You should have thrown a fit.”  “To throw a fit” means to get very angry, to  start yelling and screaming; it’s something you expect a little child to do.  In fact , when a child does it it’s sometimes called also a “temper tantrum.”  Chris sa ys, “I wouldn’t have taken it lying down.”  “To take (something) lying down” mean s to accept something without opposing or protesting it even though you’r e not very happy.  You don’t say anything, you just accept it.  That’s to take s omething lying down.  Chris says, “Listen to me.  You should ditch that lunch a nd buy lunch instead, like me,” like I am going to do.  “To ditch” (ditch) here mea ns to get rid of something, to throw something away.  “I’m going to ditch my old b oxes in the garage,” I’m going to throw them away.  We also use this verb in schoo ls, especially, to mean not to go to class when you are supposed to.  “I’m going t o ditch my chemistry class today,” I’m not going to go.  That’s what we used t o say, and that’s probably something I did when I was in school – ditch chemis try class, that is.  Not my favorite subject, if I’m being completely honest.
 
-Chris says that Sybil should ditch her lunch, shoul d throw it away and buy lunch instead.  Sybil says, “I can’t.  I don’t have any l unch money,” any money you can use to buy lunch, of course.  She says, “Do you wan t to trade some of yours for mine?”  “To trade” means I give you something and y ou give me something else; we exchange it.  Chris responds by saying, “You’re dreaming.”  The expression “you’re dreaming” is an informal way of saying that  what the person just said or just suggested is completely unacceptable or silly.   It’s another way of saying “no way, absolutely not.”  “You’re dreaming.  There’s n o way I’m trading my pizza for
+Chris says that Sybil should ditch her lunch, shoul d throw it away and buy lunch instead.  Sybil says, “I can’t.  I don’t have any l unch money,” any money you can use to buy lunch, of course.  She says, “Do you wan t to trade some of yours for mine?”  “To trade” means I give you something and y ou give me something else; we exchange it.  Chris responds by saying, “You’re dreaming.”  The expression “you’re dreaming” is an informal way of saying that  what the person just said or just suggested is completely unacceptable or silly.   It’s another way of saying “no way, absolutely not.”  “You’re dreaming.  There’s no way I’m trading my pizza for
 
-your salad and carrot sticks.”  So, Chris isn’t goi ng to give Sybil some pizza in order to get some salad and carrot sticks.
+your salad and carrot sticks.”  So, Chris isn’t going to give Sybil some pizza in order to get some salad and carrot sticks.
 
 Then, Sybil tries to convince Chris to trade with h er.  She says, “Not even if I do your math homework?”  Sybil is offering to do Chris ’s math “homework,” what the teacher gave them as work to do at home, in exchang e for some of his pizza. Chris says, “Math homework?  Now you’ve got my atte ntion,” meaning okay, maybe this is something I will do; I’m now paying a ttention.  Sybil says, “Only if you give me the entire slice of pizza.”  A “slice” is a piece of something, a piece of food typically, cut from a larger portion or pie ce of food.  We use “slice” when we’re talking about bread; we use it when we’re tal king about cakes; we use it when we’re talking about pies, cheese, and sometime s meat.  “I want a slice of turkey on my sandwich, with a slice of cheese, on t wo slices of white bread.  For dessert, I’m going to have a slice of pie and two s lices of cake.”  Of course, here we’re talking about pizza, which is also a type of food we use this word “slice” (slice) with.
 
@@ -6776,7 +6776,7 @@ Chris says, “You drive a hard bargain.”  “To drive a hard bargain” means
 
 Sybil then says, “You must really think I’m a sucke r if you think I’d agree to that!” She’s saying here that Chris must think she is stup id, that she’s a sucker, if he thinks that she will do his homework for only half a slice of pizza.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -6812,9 +6812,9 @@ Sybil:  You must really think I’m a sucker if you t hink I’d agree to that!
 
 Our scripts never suck; that’s because they’re writ ten by the wonderful Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Making Ethnically or Racially Offensive Remarks
 
@@ -6862,7 +6862,7 @@ a right to do that, that’s what you’re saying.  You ’re wrong, but that’
 
 Mike says how dare Dan speak for other people.  He says, “It’s presumptuous.” “To be presumptuous” (presumptuous) means doing som ething that is wrong, that is inappropriate, because, once again, you don ’t have the right to do it. You’re assuming that you can do something when, in fact, you should not be doing it.  So you walk into a bar and you start tal king to this beautiful woman, and about halfway through your conversation you give he r your phone number and you say, “Well, let’s meet next Friday for a drink.   Give me a call,” that would be presumptuous; the verb would be “to presume.”  You are presuming that the woman is interested in you and wants to go on a dat e with you.  That would be very presumptuous, probably not very successfully e ither!
 
-Patti says Dan “was trying to make a point.”  “To m ake a point” is an expression that means to do something to demonstrate or prove something else.  It’s often used simply to mean to make a statement or a strong  statement, and sometimes you can add the preposition “of” at the end when yo u want to say that you specifically and purposely did something.  For exam ple: “I want to make a point of arriving at work on time every day this week.”  You are planning on doing it, probably because you want to prove something or dem onstrate something, or simply because you think it’s important.  Patti say s Dan was trying to say something important, “to make a point and probably just got carried away.”  “To get carried away” means to be so excited, so enthus iastic about doing something that you do too much of it; you don’t realize you’r e doing too much.  To go back to our example at the bar, if the woman actually do es call you, and you decide that you’re going to buy her a dozen roses and a bo ttle of champagne and get a special car – a limousine to pick you up together a t this restaurant, you go to the best restaurant in the city, you might be getting c arried away.  You might be doing too much – especially if it’s just your first  date!  If you bought her a ring, to marry her, you would definitely be getting carried away.
+Patti says Dan “was trying to make a point.”  “To make a point” is an expression that means to do something to demonstrate or prove something else.  It’s often used simply to mean to make a statement or a strong  statement, and sometimes you can add the preposition “of” at the end when yo u want to say that you specifically and purposely did something.  For exam ple: “I want to make a point of arriving at work on time every day this week.”  You are planning on doing it, probably because you want to prove something or dem onstrate something, or simply because you think it’s important.  Patti say s Dan was trying to say something important, “to make a point and probably just got carried away.”  “To get carried away” means to be so excited, so enthus iastic about doing something that you do too much of it; you don’t realize you’r e doing too much.  To go back to our example at the bar, if the woman actually do es call you, and you decide that you’re going to buy her a dozen roses and a bo ttle of champagne and get a special car – a limousine to pick you up together a t this restaurant, you go to the best restaurant in the city, you might be getting c arried away.  You might be doing too much – especially if it’s just your first  date!  If you bought her a ring, to marry her, you would definitely be getting carried away.
 
 Patti says, “I agree that what he said could be ins ulting (could hurt someone’s feelings), but let’s give him the benefit of the do ubt.”  “To give (someone) the benefit of the doubt” is to assume that what someon e said or did, they did for a good reason; they had good intentions even though t he result was negative. When you’re not sure why someone did something, and  it seems like something bad happened, you can give them the benefit of the doubt; you can say, “Well, they probably didn’t realize they were talking so l oudly on their cell phone in the café yesterday.”  So, you’re not going to get angry  at them, you’re going to give them the benefit of the doubt.  Perhaps there’s som ething they didn’t understand
 
@@ -6874,7 +6874,7 @@ Patti says, “It wasn’t an ethnic slur.  It wasn’t t he politically correct
 
 Mike says, “Behind the times?!  He’d have to live t o 150 to catch up to the present!”  “To catch up” is a two-word phrasal verb  meaning to reach the same position or place or level as other people are.  If  you are in school and you don’t go to class for two weeks, you’ll have to catch up to the other students.  You’ll have to work to get to the same level they are at.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -6900,9 +6900,9 @@ Mike:  Behind the times?!  He’d have to live to 150  to catch up to the presen
 
 I speak on behalf of everyone at ESL Podcast in tha nking our scriptwriter today, Dr. Lucy Tse.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Dealing With the Paparazzi
 
@@ -6952,7 +6952,7 @@ Amanda says, “At least, that’s good news for your w ife.  She can call off t
 
 Amanda says that the wife of Fredo can call off tha t private detective she hired. A “private detective” is someone whose job it is to  find out secret information about you, usually by taking pictures of what you a re doing.  This is something a wife might do if she thinks her husband is going wi th another woman; she may hire, or employ, a private detective to follow him.   Amanda is making a joke, of course, saying that because the paparazzi are alway s taking pictures of Fredo, his wife doesn’t have to worry about him going with  another woman, we would say “cheating on her,” because they will find out i f he does.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -6972,9 +6972,9 @@ Amanda:  At least, that’s good news for your wife.  She can call off that priv
 
 At the end of every ESL Podcast episode we try to p ut our scriptwriter in the spotlight.  That’s because it’s our wonderful Dr. L ucy Tse who is bringing you – writing for you – these wonderful scripts.
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 
 # Starting a New Workweek
 
@@ -7036,7 +7036,7 @@ rough weekend.”  “To return the favor” means to do something nice for some
 
 Naomi then says, “What are you planning for next we ekend?”  What are you going to do next weekend?  Aaron says, “Why do you ask?” meaning why are you asking me.  Naomi says, “I want to know how lon g I’ll have to wait for a chance to sit back and watch you work!”  “To sit ba ck” means to observe something from a distance without participating, wi thout becoming involved, to see how something is done without affecting it.  It ’s sometimes used when someone else is working or you don’t have to work, you can relax a little.  But more generally, it means to watch something without  getting involved.  So, what Naomi is saying at the end here is that she wants t o know when she can watch Aaron work, and she’s suggesting it would be a very  long time before she can do that since Aaron seems to go out partying every wee kend.  That’s why she asks what Aaron plans to do the following weekend.
 
-Now let’s listen to the dialogue, this time at a no rmal speed.
+Now let’s listen to the dialogue, this time at a normal speed.
 
 [start of dialogue]
 
@@ -7066,7 +7066,7 @@ Naomi:  I want to know how long I’ll have to wait f or a chance to sit back an
 
 The next wonderful script by our scriptwriter can’t  come soon enough.  That’s because it’s the wonderful Dr. Lucy Tse, who never slacks off!
 
-From Los Angeles, California, I’m Jeff McQuillan.  Thank you for listening.  Come back and listen to us again here on ESL Podcast.
 
-English as a Second Language Podcast is written and  produced by Dr. Lucy Tse, hosted by Dr. Jeff McQuillan, copyright 2011 by the  Center for Educational Development.
+
+
 

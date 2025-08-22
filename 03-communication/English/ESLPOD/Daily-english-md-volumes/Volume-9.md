@@ -486,7 +486,7 @@ Marty:  Me, neither. And while it’s optional, it’s also suggested that I lea
 
 Ella:  Geez, that’s a lot to take in.
 
-Marty:  You’re telling me. And the list says that i t is absolutely required that I take a self-defense course before going. You never know what to expect in McQuillanland.
+Marty:  You’re telling me. And the list says that it is absolutely required that I take a self-defense course before going. You never know what to expect in McQuillanland.
 
 Ella:  You’re not having second thoughts about goin g, are you?
 
@@ -540,7 +540,7 @@ Marty:  Me, neither. And while it’s optional, it’s also suggested that I lea
 
 Ella:  Geez, that’s a lot to take in.
 
-Marty:  You’re telling me. And the list says that i t is absolutely required that I take a self-defense course before going. You never know what to expect in McQuillanland.
+Marty:  You’re telling me. And the list says that it is absolutely required that I take a self-defense course before going. You never know what to expect in McQuillanland.
 
 Ella:  You’re not having second thoughts about goin g, are you?
 
@@ -1450,7 +1450,7 @@ Marianne:  I’m not taking algebra. I’m taking calcu lus. Who do you have for
 
 Carlos:  I’m taking biology instead. This isn’t loo king good. Do we even have lunch together? I’ve been assigned the first lunch period. You?
 
-Marianne:  I have the second lunch period. How is i t possible that we don’t have any classes together?
+Marianne:  I have the second lunch period. How is it possible that we don’t have any classes together?
 
 Carlos:  I have an idea. Are you taking band after school?
 
@@ -1510,7 +1510,7 @@ Marianne:  I’m not taking algebra. I’m taking calcu lus. Who do you have for
 
 Carlos:  I’m taking biology instead. This isn’t loo king good. Do we even have lunch together? I’ve been assigned the first lunch period. You?
 
-Marianne:  I have the second lunch period. How is i t possible that we don’t have any classes together?
+Marianne:  I have the second lunch period. How is it possible that we don’t have any classes together?
 
 Carlos:  I have an idea. Are you taking band after school?
 
@@ -2002,7 +2002,7 @@ say someone is a “coward,” and that’s the word you would find in the newsp
 
 Oliver continues by saying that George said he hear d those noises every night and they didn’t have him quaking in his boots.  “To  quake” (quake) means to shake.  “To quake in your boots” means to be very f rightened, to be very scared; your “boots” are like big shoes that you have to co ver your feet.  Well, “to quake in your boots” means to be so scared that you’re sh aking; that’s the idea.
 
-Alena says, “Did anything else happen?”  Oliver rep lies, “Well, when we went to bed, the house got very cold and drafty, like there  was something passing by me very closely, but I couldn’t see it.”  So when they  went to bed, when they went to go to sleep, Oliver says that the house got very cold and drafty (drafty).  “Drafty” means there’s a lot of air moving through the build ing, a lot of cold air, almost as though the walls have holes in them.  Oliver said i t was as if is something were passing by him, coming very close to him.  He says,  “That sent me over the edge.”  “To send (someone) over the edge” (edge) me ans that you become very frightened or perhaps very angry; it’s when you los e control of your emotions – of your thoughts, sort of like going crazy.
+Alena says, “Did anything else happen?”  Oliver rep lies, “Well, when we went to bed, the house got very cold and drafty, like there  was something passing by me very closely, but I couldn’t see it.”  So when they  went to bed, when they went to go to sleep, Oliver says that the house got very cold and drafty (drafty).  “Drafty” means there’s a lot of air moving through the build ing, a lot of cold air, almost as though the walls have holes in them.  Oliver said it was as if is something were passing by him, coming very close to him.  He says,  “That sent me over the edge.”  “To send (someone) over the edge” (edge) me ans that you become very frightened or perhaps very angry; it’s when you los e control of your emotions – of your thoughts, sort of like going crazy.
 
 Alena says, “Has it ever occurred to you,” have you  thought about this possibility?  “Has it ever occurred to you that Geo rge was playing a prank on you guys?”  “Prank” (prank) is a trick, sometimes calle d a “practical joke,” where you do something that is funny, but you are doing it wi th someone else to make them look foolish or to make them look silly.
 
@@ -2636,7 +2636,7 @@ Brad:  I’m always surprised by the degree to which women can delude themselves
 
 [end of dialogue]
 
-Stacey is talking with Brad and she says, “I have a  date with George this Saturday.” A “date” (date) is when you have a roman tic evening or afternoon with someone – you go somewhere with someone – usually i t’s romantic. Sometimes “date” can just mean an appointment. But here it me ans a romantic time together. Stacey says, “I can’t wait.” I’m really l ooking forward to this date. Brad says, “Have a good time. But you know what the word  on the street is about George don’t you?” The expression “the word on the street” means what people are saying about something even though they don’t h ave proof that it’s true – here’s what people are talking about, here’s what p eople are saying about this thing or this person. Often it just means a rumor ( rumor). Stacey says, “What?” Brad says, “Well, the word on the street about Geor ge is that he’s not the marrying kind.” The expression “not the marrying (m arrying) kind” means he’s a person who’s not interested in getting married. He wants to remain single. Usually, this is said about a man. Sometimes it cou ld be said about a woman as well. “He’s not the marrying kind.” We might also s ay, “He’s not the marrying type (type).” It means the same thing. He’s not a person  that will want to get married.
+Stacey is talking with Brad and she says, “I have a  date with George this Saturday.” A “date” (date) is when you have a roman tic evening or afternoon with someone – you go somewhere with someone – usually it’s romantic. Sometimes “date” can just mean an appointment. But here it me ans a romantic time together. Stacey says, “I can’t wait.” I’m really l ooking forward to this date. Brad says, “Have a good time. But you know what the word  on the street is about George don’t you?” The expression “the word on the street” means what people are saying about something even though they don’t h ave proof that it’s true – here’s what people are talking about, here’s what p eople are saying about this thing or this person. Often it just means a rumor ( rumor). Stacey says, “What?” Brad says, “Well, the word on the street about Geor ge is that he’s not the marrying kind.” The expression “not the marrying (m arrying) kind” means he’s a person who’s not interested in getting married. He wants to remain single. Usually, this is said about a man. Sometimes it cou ld be said about a woman as well. “He’s not the marrying kind.” We might also s ay, “He’s not the marrying type (type).” It means the same thing. He’s not a person  that will want to get married.
 
 Stacey says, “Oh, he just hasn’t met the right girl  yet.” He hasn’t met the right person for him. That’s what all women believe that even men who are not the marrying kind will marry them because they are the perfect woman for them. Stacey says, “When he does” – when he does meet the  right girl or the right woman – “he’ll be ready to settle down.” The phrasa l verb “to settle (settle) down” means to begin to live a quiet, calm life. Usually,  it’s an expression we use when we are talking about someone in their, say, 20’s or  perhaps 30’s who’s now ready to get married. They were single for a long t ime. They like to go out and party and enjoy themselves. But now the fun must en d and they get married. No, I’m just kidding. Getting married is fun, too, kids !
 
@@ -3266,7 +3266,7 @@ A “work permit” (permit) is an official document – an official letter or c
 
 Ann says these workers are doing. Chris says, “But they don’t get the same social services that citizens or legal immigrants d o.” “Social services” refers to benefits, programs provided by the government, to h elp people who are poor to give them healthcare, to help people who perhaps ha ve a drug problem – all of these could be called “social services,” helping pe ople who need help, especially economic help, financial help, help with money.
 
-“Citizens” (citizens) are people who are members of  – or part of – a particular country, who have the rights and responsibilities of being in that country. I am a citizen of the United States. If you are born in the United States, you also become a citizen of the United States, even when yo ur parents are from a different country. Chris says, “You can’t have it b oth ways,” meaning you can’t say one thing and then something that is opposite, and believe that both of those things should happen or are true. He says, “If you want them” – the undocumented workers – “to do what citizens are req uired to do, then you have to give them legal status.” You have to say, “Oh, i t’s okay. You can stay here. You can stay in this country.” “And, by the way,” –  in addition – “when is your visitor’s visa up?” A “visa” (visa) is a document t hat allows you to visit a certain place, usually for a short amount of time, although  sometimes the visa can be for a longer period of time. If you come to the United States as a student, and you’re studying at a U.S university, you would get a “stud ent visa.” You could stay here, perhaps four, maybe six, even 8 years, depending on  how much education you get.
+“Citizens” (citizens) are people who are members of  – or part of – a particular country, who have the rights and responsibilities of being in that country. I am a citizen of the United States. If you are born in the United States, you also become a citizen of the United States, even when yo ur parents are from a different country. Chris says, “You can’t have it b oth ways,” meaning you can’t say one thing and then something that is opposite, and believe that both of those things should happen or are true. He says, “If you want them” – the undocumented workers – “to do what citizens are req uired to do, then you have to give them legal status.” You have to say, “Oh, it’s okay. You can stay here. You can stay in this country.” “And, by the way,” –  in addition – “when is your visitor’s visa up?” A “visa” (visa) is a document t hat allows you to visit a certain place, usually for a short amount of time, although  sometimes the visa can be for a longer period of time. If you come to the United States as a student, and you’re studying at a U.S university, you would get a “stud ent visa.” You could stay here, perhaps four, maybe six, even 8 years, depending on  how much education you get.
 
 Chris is asking Ann about her visitor’s visa, which  means she’s not even an American citizen. She herself is from some other co untry. Ann says, “It was up last month.” “It was up” means that it expired, it was no longer valid. “But I’m from Canada,” she says. “Overstaying a visa is not the s ame thing as being an illegal alien.” “To overstay” (overstay) – one word – means  to stay somewhere for more time than you are supposed to or for more time than  you are expected to be there. We have an expression, “He’s overstaying his  welcome,” meaning he’s staying too long at someone’s house or in someone’s  apartment. Now this person who owns the apartment or house is starting to get a little upset. They’ve been staying there too long. “To overstay a visa” w ould mean to get a visa to visit a country and then stay there longer than the visa allows you to. Ann says, “That’s not the same thing as being an illegal alie n” – an illegal immigrant. The word “alien” (alien) here means a person who is not  from this country. We also use that word “alien” to describe beings from outer  space – creatures or life forms from other planets, if they exist.
 
@@ -3492,7 +3492,7 @@ Roberta:  I’m looking through the material we got o n adoption.
 
 Scott:  Are you and Robert thinking about adopting a child?
 
-Roberta:  Yeah, we are. We’ve been thinking about i t for a long time, and we think we might be ready now.
+Roberta:  Yeah, we are. We’ve been thinking about it for a long time, and we think we might be ready now.
 
 Scott:  Have you decided on an international or dom estic adoption?
 
@@ -3566,7 +3566,7 @@ Roberta:  I’m looking through the material we got o n adoption.
 
 Scott:  Are you and Robert thinking about adopting a child?
 
-Roberta:  Yeah, we are. We’ve been thinking about i t for a long time, and we think we might be ready now.
+Roberta:  Yeah, we are. We’ve been thinking about it for a long time, and we think we might be ready now.
 
  Scott:  Have you decided on an international or dom estic adoption?
 
@@ -4173,7 +4173,7 @@ Connie:  The vase is really a steal at $50, but may be he’s still willing to b
 
 Ivan:  I told him and he says that at that price, h e’d be giving it away. I don’t think he’s going to budge. I think you should just buy it . He doesn’t look like he’s willing to haggle with you.
 
-Connie:  Don’t be impatient. Good things come to th ose who wait. Tell him that I’m ready to walk away if he doesn’t take $42 for i t. Hey, where’s he going?
+Connie:  Don’t be impatient. Good things come to th ose who wait. Tell him that I’m ready to walk away if he doesn’t take $42 for it. Hey, where’s he going?
 
 Ivan:  He says that he’s walking away because he do esn’t sell to cheap Americans.
 
@@ -4221,7 +4221,7 @@ Connie:  The vase is really a steal at $50, but may be he’s still willing to b
 
 Ivan:  I told him and he says that at that price, h e’d be giving it away. I don’t think he’s going to budge. I think you should just buy it . He doesn’t look like he’s willing to haggle with you.
 
-Connie:  Don’t be impatient. Good things come to th ose who wait. Tell him that I’m ready to walk away if he doesn’t take $42 for i t. Hey, where’s he going?
+Connie:  Don’t be impatient. Good things come to th ose who wait. Tell him that I’m ready to walk away if he doesn’t take $42 for it. Hey, where’s he going?
 
  Ivan:  He says that he’s walking away because he do esn’t sell to cheap Americans.
 
@@ -4857,7 +4857,7 @@ I then say, “I couldn’t believe it. I was completel y innocent.” “To be 
 
 “I was placed in a jail cell.” A “jail (jail) cell (cell)” is a small room in a jail or a prison where one or two, maybe a few more prisoners  are kept – where they are put so that they don’t leave. “After a few hours, I  was taken to a room and interrogated.” The verb “to interrogate” (interroga te) means to ask a lot of questions, often in a very, what we might call “agg ressive” way, maybe even an angry way. The verb is used whenever the police are  asking questions, not because they always ask in an aggressive, angry way , but because they want to find out what the truth is.
 
-So, the verb doesn’t necessarily have to be a negat ive one, in the sense that you’re angry when you’re asking the question. But i t’s only used, typically, when we’re talking about the police or maybe a member of  the military interrogating a prisoner, something like that. “A police officer as ked me question after question,” I say, “and after four hours of questioning, I was finally released.” “To release” (release) means to let someone go from the place wh ere you were holding that person. Normally, we talk about being released from  prison. But a student might also be released from school, just kind of like a p rison, I guess, sometimes.
+So, the verb doesn’t necessarily have to be a negat ive one, in the sense that you’re angry when you’re asking the question. But it’s only used, typically, when we’re talking about the police or maybe a member of  the military interrogating a prisoner, something like that. “A police officer as ked me question after question,” I say, “and after four hours of questioning, I was finally released.” “To release” (release) means to let someone go from the place wh ere you were holding that person. Normally, we talk about being released from  prison. But a student might also be released from school, just kind of like a p rison, I guess, sometimes.
 
 “I found out later that it was a case of mistaken i dentity.” “Mistaken” comes from the word “mistake,” which means an error, something  that went wrong. “Identity” refers to who a person is. So, “mistaken identity” would be being wrong about who you think a person is. Someone came up to me an d thought I was Brad Pitt and wanted my autograph, I said, “Well, okay.” It r eally was a case of mistaken identity.
 
@@ -5579,7 +5579,7 @@ Armond begins our dialog by saying “I hope that thi s new year will bring me b
 
 Astrology has been around for thousands of years. P eople have always believed somehow that what is up in the sky somehow controls  what happens here on earth and apparently, there are still people today who believe such a thing. Armond says, “Hold on. You consult an astrologer?” “To consult” (consult) here means to get someone’s advice about something, to s eek someone’s guidance, to get their suggestions. In this case, it means to  talk to an astrologer and ask that person what the future will bring you – what w ill happen in your future.
 
-Armond says, “You really believe in that nonsense?”  “Nonsense” is something that isn’t logical. It is not rational. You shouldn ’t take it seriously. It makes no sense. Patricia says, “It’s not nonsense and yes, I  believe in it. I like getting predictions about the future.” A “prediction” is a guess about what will happen in the future. Tomorrow it will rain. I predict that i t will rain tomorrow. That’s what I think will happen.
+Armond says, “You really believe in that nonsense?”  “Nonsense” is something that isn’t logical. It is not rational. You shouldn ’t take it seriously. It makes no sense. Patricia says, “It’s not nonsense and yes, I  believe in it. I like getting predictions about the future.” A “prediction” is a guess about what will happen in the future. Tomorrow it will rain. I predict that it will rain tomorrow. That’s what I think will happen.
 
 Patricia likes getting predictions about the future  which – in a way, you don’t really need to say about the “future” because a pre diction is always about something that will happen in the future. But she s ays she likes getting predictions about the future and “knowing what is i n the starts for me.” “In the stars” here means what is meant to happen in the fu ture. Once again, the idea is somehow that the stars and the planets are controll ing our lives.
 
@@ -5689,7 +5689,7 @@ The expression “I hate to break (break) it to you” means “I don’t like t
 
 Jody says, “You mean somebody has already beaten me  to the punch?” “To beat someone to the punch (punch)” means to do something  before another person has the opportunity to do it.
 
-So, you and your sister are thinking about buying y our mother a new set of dishes – something or her kitchen. You talk about i t and then your sister goes out and she buys the dishes for your mother and gives t hem to her, and you find out after talking to your mother that your sister gave her the dishes that you were going to give to her. So, you might say to your sis ter, “Oh, you beat me to the punch.” You did it before I had an opportunity to d o so. And now you’re mad at your sister because you don’t know what to get your  mother, because, you know, your mother is sometimes difficult to buy for. And so, when you have a good idea and your sister takes it, or your sister does it be fore you, you’re not very happy with your sister. I’m just speaking hypothetically.  This didn’t actually happen to me, of course.
+So, you and your sister are thinking about buying y our mother a new set of dishes – something or her kitchen. You talk about it and then your sister goes out and she buys the dishes for your mother and gives t hem to her, and you find out after talking to your mother that your sister gave her the dishes that you were going to give to her. So, you might say to your sis ter, “Oh, you beat me to the punch.” You did it before I had an opportunity to d o so. And now you’re mad at your sister because you don’t know what to get your  mother, because, you know, your mother is sometimes difficult to buy for. And so, when you have a good idea and your sister takes it, or your sister does it be fore you, you’re not very happy with your sister. I’m just speaking hypothetically.  This didn’t actually happen to me, of course.
 
 So, Jody says, “You mean someone” – or somebody – “ has already beaten me to the punch?” Carl says, “Yes and I bet they found  a way to do it without this stench.” “Stench” (stench) is a very bad smell, a v ery unpleasant smell. Carl is saying that he thinks they have been able to do wha t Jody is trying to do without all of the bad smell.
 
@@ -5863,7 +5863,7 @@ Tour guide:  I’m not sure...
 
 Elvira:  If I saw a Johnny Depp or any celebrity wa lking down the street, I would just go crazy!  For sure I’d chase them down!
 
-Tour guide:  This isn’t a hop-on, hop-off bus and i t would be really dangerous to run out into L.A. traffic.
+Tour guide:  This isn’t a hop-on, hop-off bus and it would be really dangerous to run out into L.A. traffic.
 
 Elvira:  Oh, what’s a little danger if I can come f ace to face with a real life movie star?
 
@@ -5917,7 +5917,7 @@ Tour guide:  I’m not sure...
 
 Elvira:  If I saw a Johnny Depp or any celebrity wa lking down the street, I would just go crazy!  For sure I’d chase them down!
 
-Tour guide:  This isn’t a hop-on, hop-off bus and i t would be really dangerous to run out into L.A. traffic.
+Tour guide:  This isn’t a hop-on, hop-off bus and it would be really dangerous to run out into L.A. traffic.
 
 Elvira:  Oh, what’s a little danger if I can come f ace to face with a real life movie star?
 
@@ -6452,7 +6452,7 @@ The stocker says the “parent company” of the brand that Meg wants “no long
 
 Meg says, “I didn't see the Mushy brand bread when I checked the bread aisle.” The stocker says, “We no longer stock the Mushy bra nd.” Here, notice “stock” is used as a verb, meaning to make available, to carry , to keep something available to sell. The stocker is saying the supermarket no l onger stocks this brand. It is no longer available. The company is still making that bread but this sup ermarket no longer stocks it. He says, “There were some quality control issues at  the company so we pulled all of our products from the shelves.”
 
-“Quality control” refers to the process, the steps that a company has to make sure that what they make is good quality, is what i t is supposed to be. The stocker says this company had some quality control issues. He really means “problems.” So, the supermarket pulled their produc ts. “To pull” here means to
+“Quality control” refers to the process, the steps that a company has to make sure that what they make is good quality, is what it is supposed to be. The stocker says this company had some quality control issues. He really means “problems.” So, the supermarket pulled their produc ts. “To pull” here means to
 
 stop selling something to your customers, to no lon ger make it available for sale. That's what the stocker means here when he says tha t “We've pulled all their products.” He says, “We’ve pulled all their product s from the shelves.”
 
@@ -6654,7 +6654,7 @@ Porter says that nothing is going his way. “To go y our way” means to go as 
 
 I think a woman sang it, though. Anyway…too much co ffee today, Jeff!
 
- Porter says that nothing is going his way. Eleanor says “Cheer up” – be happy. “To cheer up” is a phrasal verb. Like a lot of phra sal verbs, it is used to add emphasis. Instead of just saying “cheer,” we would say “cheer up.” You’re telling someone to be happy, to get happier. Eleanor says, “Every cloud has a silver lining.” This is an old expression, an old saying, “Every cloud has a silver lining.” A “cloud” is what's up in the sky. That's where rai n comes from. The expression “a silver lining” means something that is good. For  a cloud to have a silver lining means that even if it's a bad thing that is happeni ng, like a cloud where it might rain, there's something good that may come out of i t. It's not completely negative. There's always some positive things that you can fi nd when something bad happens. “Every cloud has a silver lining.”
+ Porter says that nothing is going his way. Eleanor says “Cheer up” – be happy. “To cheer up” is a phrasal verb. Like a lot of phra sal verbs, it is used to add emphasis. Instead of just saying “cheer,” we would say “cheer up.” You’re telling someone to be happy, to get happier. Eleanor says, “Every cloud has a silver lining.” This is an old expression, an old saying, “Every cloud has a silver lining.” A “cloud” is what's up in the sky. That's where rai n comes from. The expression “a silver lining” means something that is good. For  a cloud to have a silver lining means that even if it's a bad thing that is happeni ng, like a cloud where it might rain, there's something good that may come out of it. It's not completely negative. There's always some positive things that you can fi nd when something bad happens. “Every cloud has a silver lining.”
 
 Eleanor is telling Porter that he needs to cheer up  because even though he's having a bad month, something good will come from t his bad month. She then uses another old expression, “It's no use crying ov er spilled milk.” “It's no use” means it's no good, it doesn't help you, “crying ov er spilled milk.” “To cry over something” is to cry because of something. “Milk” i s what you get from, say, a cow, that you drink. I have milk every morning with  my cereal. “Spilled” means that the milk was in a glass, for example, and you hit the glass and the milk fell on the ground. That would be “spilled milk.” You sp illed it. The expression, putting all these things together, “It's no use cry ing over spilled milk,” means it doesn't help worrying about something that already happened. You can't go back and change it. You can't go back and do something d ifferent. That's not possible. You can't change history. So, you just have to worr y about the future.
 
@@ -6854,7 +6854,7 @@ Christian says, “Not on your life.” “Not on your li fe” means “no way.
 
 something that might hurt you. Christian says, “I w as sick for two days.” The last time he was Liang's guinea pig, he was sick for two  days.
 
-Christian isn't very interested in helping Liang. L iang says, however, “That was a stroke of bad luck.” A “stroke of bad luck” means i t was a negative experience but it probably won't happen again. It was just bad  luck. It was just an accident. It was something that happened that will probably not happen again. She then says, “Come on, please.” “Come on” is often used in  English to get someone to agree with you or to go with you. In this case, Lia ng wants Christian to agree to taste her creations. Christian says, “Count me out. ” This is another way of saying “no.” “Count me out” means don't include me in that  activity. I don't want to participate. Christian says, “No amount of pleading  is going to change my mind.”
+Christian isn't very interested in helping Liang. L iang says, however, “That was a stroke of bad luck.” A “stroke of bad luck” means it was a negative experience but it probably won't happen again. It was just bad  luck. It was just an accident. It was something that happened that will probably not happen again. She then says, “Come on, please.” “Come on” is often used in  English to get someone to agree with you or to go with you. In this case, Lia ng wants Christian to agree to taste her creations. Christian says, “Count me out. ” This is another way of saying “no.” “Count me out” means don't include me in that  activity. I don't want to participate. Christian says, “No amount of pleading  is going to change my mind.”
 
 “To plead” (plead) means to beg someone, to ask the m repeatedly, perhaps in a somewhat sad way. Your children might plead with yo u to buy them an ice cream cone or take them to the circus or a carnival, “Oh Dad, please, please, I really want to go, Dad.” That was me when I was younger. W ell, Christian says, “No amount of pleading is going to change my mind.” “No  amount of” is a phrase we use to emphasize that this thing is not going to ha ppen. It doesn't matter what the other person says. So, we put those two together “n o amount” and “pleading,” and we get the idea here that it doesn't matter wha t Liang says or how much she pleads with Christian. He's not going to change his  mind. He's not going to change his opinion, change his decision.
 
@@ -7494,7 +7494,7 @@ After he swipes his ATM card, he’s supposed to ente r his PIN. “To enter” 
 
 The bank teller says, “All right.” Okay. “You need to fill out a withdrawal slip.” Just like the deposit slip is a small piece of paper whe n you deposit money into your bank account, a withdrawal slip is a piece of paper  you fill out with your information that you give to the bank teller so tha t he or she can take money out of your account. The teller says, “Why don't you st ep aside?” meaning “Why don't you step to one side of where I am standing while y ou do that,” while you fill out the withdrawal slip, “so that I can help the next c ustomer. And when you're done,” when you're finished, “come back to this window and  I'll help you.” The bank teller is telling Antonio that it's going to take a  little time for him to fill out his withdrawal slip so he should step away from the tel ler and let another customer come up and be helped by the teller. Then when Anto nio is ready, he can come back to the teller and give the teller his withdraw al slip.
 
-The “window” here refers to the place where the tel ler is working in the bank. It usually isn’t a window at all, in the sense that it  looks out onto the outside of the building. It's in the inside of the building, and i t's just the place where the teller is working.
+The “window” here refers to the place where the tel ler is working in the bank. It usually isn’t a window at all, in the sense that it  looks out onto the outside of the building. It's in the inside of the building, and it's just the place where the teller is working.
 
 Antonio says, “Okay, I'll do that. And if I want to  transfer money between accounts?” “To transfer” (transfer) means to move y our money from one bank account to another. Antonio's asking what he needs to do if he wants to transfer money between accounts. The teller says, “You'll ne ed to fill out a withdrawal slip for the first amount and a deposit slip for the sec ond,” or the second amount. Antonio say “Got it,” meaning “Yes. I understand.” “This might take a while.”
 
@@ -8004,9 +8004,9 @@ Leo says to Denise, “Here's the mail.” Here are the  letters and packages we
 
 Denise says, “I should hear any day now.” “To hear”  (hear) in this case, means to receive a response, to receive an answer. We might also say “to hear back.” “Have you heard back from your sister?” You might s ay, “No, I wrote her a letter last week,” or “I sent her an e-mail,” more likely.  “But she hasn't responded to me. I haven’t heard back.” Denise says, “I should h ear,” meaning I should get a decision any day now. “Any day now” means very soon , in the very near future. We’re not sure exactly when, but it will be in a ve ry brief amount of time – “any day now.” Leo says, “Have you thought about calling  and checking on the status?” “To check on something” means to investiga te it, to make sure it's okay. “Status” (status) refers to the condition of someth ing, the situation that something is in. So, to call and check on the status would be  to call the organization and ask about your application. Were you accepted? Were you  rejected? – and so forth.
 
-Denise in fact did call. She said, “I called last w eek and my application was still under review.” “To be under review” means it's bein g considered. They’re thinking about it. They’re looking at it carefully.  It's under review. “Under review” is normally used for some sort of official process,  some sort of official consideration by a(n) organization, or by someone i mportant. Denise was told that a decision – a decision about whether she will  be accepted into the program or not – was still “pending.” Something that is “pe nding” (pending) is something you haven't decided yet. You're waiting for a final  answer. It's still pending. You don't know if it's yes or no. Leo says, “I'm sure i t was just awaiting approval.”
+Denise in fact did call. She said, “I called last w eek and my application was still under review.” “To be under review” means it's bein g considered. They’re thinking about it. They’re looking at it carefully.  It's under review. “Under review” is normally used for some sort of official process,  some sort of official consideration by a(n) organization, or by someone i mportant. Denise was told that a decision – a decision about whether she will  be accepted into the program or not – was still “pending.” Something that is “pe nding” (pending) is something you haven't decided yet. You're waiting for a final  answer. It's still pending. You don't know if it's yes or no. Leo says, “I'm sure it was just awaiting approval.”
 
-“Approval” is when you say “yes” to something. “Awa iting” means that it is waiting for. In this case, “awaiting approval” means that i t's going to be approved. Really, they've already decided that. They just haven't gon e through the formal process of approving it. That's the implication that Leo is  trying to give here. Leo says, “There is no chance” – it is not even possible – “i t will be rejected” – it will be denied. They will say “no.” Leo is saying, “That’s not even possible.” “You're the ideal candidate and you're sure to get good news in  a day or two.” “Ideal” (ideal) in this case means perfect, the best. “Candidate” r efers to someone who is trying to get into a program or get into a job. You could have a “job candidate.” You could have a “program candidate” – someone trying t o get into a program. You can also have a candidate for public office. We hav e presidential candidates every four years here in the United States – two me n or two women, or a man and a woman. It's always been two men up to this po int, who want to be president. They are candidates for the presidency. They are candidates for that political office.
+“Approval” is when you say “yes” to something. “Awa iting” means that it is waiting for. In this case, “awaiting approval” means that it's going to be approved. Really, they've already decided that. They just haven't gon e through the formal process of approving it. That's the implication that Leo is  trying to give here. Leo says, “There is no chance” – it is not even possible – “i t will be rejected” – it will be denied. They will say “no.” Leo is saying, “That’s not even possible.” “You're the ideal candidate and you're sure to get good news in  a day or two.” “Ideal” (ideal) in this case means perfect, the best. “Candidate” r efers to someone who is trying to get into a program or get into a job. You could have a “job candidate.” You could have a “program candidate” – someone trying t o get into a program. You can also have a candidate for public office. We hav e presidential candidates every four years here in the United States – two me n or two women, or a man and a woman. It's always been two men up to this po int, who want to be president. They are candidates for the presidency. They are candidates for that political office.
 
 Denise is not a political candidate. She's a candid ate for this program. She's trying to get into the program. Leo says she's an i deal candidate and she is sure to get good news soon. “Sure to” means it will happ en. It will definitely happen. There's no doubt about it. Denise says, “I hope you 're right” – I hope you are correct. “In the meantime,” or until I find out, “I 'm on pins and needles.” The expression “to be on pins (pins) and needles (needl es) means to be very nervous, to be worried about something. “I'm on pin s and needles waiting to see whether my girlfriend will say ‘yes’ – “yes,” of co urse, to marrying me. That’s just an example. I'm already married. So, I don't have a  girlfriend but before I was married, I had a girlfriend and I asked her to marr y me, not just marry but marry me, and after I asked her, I was waiting for her an swer. I was on pins and needles. She said “yes,” of course. That's why she' s my wife.
 
@@ -8464,7 +8464,7 @@ Rachel is a little confused. She says, “This pot?” A “pot” (pot) is a ki
 
 Emeril says, “No, that pot over there. I need to pa n-fry these vegetables.” “To pan-fry” (fry) means to cook something with a littl e bit of oil in the pan over a very high heat. Rachel says, “Wouldn't it be healthier” – wouldn't it be better for your body – “if we steamed the vegetables or grilled the m?” Emeril wants to fry the vegetables in a pan with oil. Rachel wants to steam  or grill the vegetables. “To steam” (steam) means to cook something, especially vegetables, not in water, but in water vapor. So what happens is you have wat er that's boiling, that's very hot, and it's giving off heat. It's giving off wate r vapor, and you use the heat from that vapor to cook the food. You don't put the food  in the water. You don't put the food on a metal object like a pan.
 
-“To grill” (grill) means to take the food and put i t over an open fire, so that the food isn't directly on a pan. It's on a piece of me tal that is over the heat source, is over the fire, in this case. You can grill lots of different kinds of food. We often associate grilling food with cooking food outside o ver an open fire, over a source of heat.
+“To grill” (grill) means to take the food and put it over an open fire, so that the food isn't directly on a pan. It's on a piece of me tal that is over the heat source, is over the fire, in this case. You can grill lots of different kinds of food. We often associate grilling food with cooking food outside o ver an open fire, over a source of heat.
 
 Emeril says, “Maybe” – maybe we could steam or gril l the vegetables – “but for this meal, I'm frying them in a pan.” Emeril is not  going to change his mind. He doesn't want to steam the vegetables over water. He  doesn't want to grill them
 
@@ -8740,7 +8740,7 @@ Tara says, “I think your instincts are right.” “Ins tincts” (instincts) 
 
 She says, “You'll be presenting” – you will be givi ng this information – “to non- specialists.” A “specialist” (specialist) is someon e who specializes in something, someone who's an expert in something. A “non-specia list” would be a person who is not an expert. If you work at a large compan y, for example, you probably have an IT department – an information technology d epartment. Sometimes people from IT departments will be talking to normal human beings, regular people, and they won't understand that the person t hey're talking to is not a specialist. So, they may use information or they ma y use descriptions that are difficult to understand. A “non-specialist” is some one who's not an expert.
 
-Tara says, “It's important to keep your presentatio ns clear and simple because these are non-specialists.” Stan says, “That's my p roblem. How do I capture the essence of all of this information without making i t too simplistic?” The “essence” (essence) here means the most important part or the  most important parts. “To capture” (capture) here means to clearly explain, t o make sure that you're including all of the important parts. That's the me aning of “to capture the essence of something.” Stan wants to capture the essence wi thout it being too “simplistic.”
+Tara says, “It's important to keep your presentatio ns clear and simple because these are non-specialists.” Stan says, “That's my p roblem. How do I capture the essence of all of this information without making it too simplistic?” The “essence” (essence) here means the most important part or the  most important parts. “To capture” (capture) here means to clearly explain, t o make sure that you're including all of the important parts. That's the me aning of “to capture the essence of something.” Stan wants to capture the essence wi thout it being too “simplistic.”
 
 Something that is “simplistic” is too simple. It's related to the previous expression, “dumbing them down” or “dumbing something down.” Yo u don't want to dumb it down so that it's simplistic. “Simplistic” would be  a description that is not accurate because you are leaving important things out in ord er to try to make it easier for people to understand. When it's simplistic, people are understanding the wrong thing because you're not giving them all the inform ation they need.
 
@@ -8824,7 +8824,7 @@ careful testing of some new drug or some new proced ure. They get people who are
 
 Elan says, “I'm suffering from some side effects.” “To suffer from something” means to feel pain or some other negative effect of  some disease, or in this case, drug. A “side effect” is something that happens to your body – a negative thing that happens to your body – when you take a drug, o r undergo some kind of medical treatment. A side effect would be something  that is bad, but is not the same thing as what the disease or illness is. For e xample, you might take a drug to help you with your allergies, to help you so tha t you don't sneeze so much.
 
-One of the side effects of the drug you take could be drowsiness, making you sleepy. That could happen as a side effect. It's no t the main reason. In fact, it's not the reason at all. You're taking the drug but i t has that side effect on you. It has that other thing that happens. That is not desi rable.
+One of the side effects of the drug you take could be drowsiness, making you sleepy. That could happen as a side effect. It's no t the main reason. In fact, it's not the reason at all. You're taking the drug but it has that side effect on you. It has that other thing that happens. That is not desi rable.
 
  Lucinda says, “Are they serious?” – are the side e ffects serious? Elan says, “No, they're not too bad. I was told to expect some adve rse reactions in the first weeks of the pilot study.” An “adverse (adverse) reaction ” is a negative result, a negative effect – once again, a term that we usuall y associate with medical treatment. An adverse reaction would be, when you t ake a drug and something negative happens. It's like a side effect. Usually,  I think it's a little more serious than that. An adverse reaction might cause your doc tor to stop giving you the drug.
 

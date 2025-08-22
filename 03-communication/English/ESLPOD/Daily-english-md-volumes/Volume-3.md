@@ -2248,7 +2248,7 @@ Liam, of course, begins by simply saying, “Hi” to this wom an.  The woman, M
 
 Monica says, “That depends on what kind of food you like.”  The expression that depends on, means that is de termined by or that would be influenced by someone or something else.  So, she's saying here, well, there may be good restaurants, but it depends on the restaurant - the kind of restaurant that you like. She then says, “There’s a good Italian restaurant,”  and there's also “a good Thai place.”  Thai, “Thai,” refers to Thailand - the country - and Thai food is very popular in many large cities, like Los Angeles
 
-Liam says, “Which one do you prefer?”  Which one do you like?   And Monica says, “I like them both , but I’d probably go for the Italian place.”  To go for, here, means to choose or to select.  It also has other meanings, this expression, to go for.  If you look at the Learning Guide, you will see some additional meanings for this expression, but here i t means to select.
+Liam says, “Which one do you prefer?”  Which one do you like?   And Monica says, “I like them both , but I’d probably go for the Italian place.”  To go for, here, means to choose or to select.  It also has other meanings, this expression, to go for.  If you look at the Learning Guide, you will see some additional meanings for this expression, but here it means to select.
 
 Liam, says, “In that case, would you like to join me for dinner sometime?”  Liam is what we would call very smooth.  To be smooth, “smooth,” if you're a man
 

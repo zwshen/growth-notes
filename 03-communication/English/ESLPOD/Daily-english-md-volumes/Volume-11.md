@@ -900,7 +900,7 @@ The phrase “stranger in a strange land” is familiar  to some Americans becau
 
 Justin says, “We don’t need a guide. See this?” He’ s asking Fay to look at something he’s pointing to or holding. “See this? I t’s GPS and it’ll help us navigate to where we want to go.” “GPS,” which stan ds for “Global Positioning System,” is an electronic device or part of an elec tronic device that helps you identify where you are right now and gives you dire ctions about how to get somewhere you want to go.
 
-Many cars now have GPS devices in them, so you can put the information about where you are going into this small computer, and i t will tell you how to get to where you want to go from where you are now. Many s martphones have this feature. For example, my phone has a feature on it that I use as basically a GPS device. I open my map application and enter the add ress where I am going, and it will tell me how to get there.
+Many cars now have GPS devices in them, so you can put the information about where you are going into this small computer, and it will tell you how to get to where you want to go from where you are now. Many s martphones have this feature. For example, my phone has a feature on it that I use as basically a GPS device. I open my map application and enter the add ress where I am going, and it will tell me how to get there.
 
 Justin says that GPS will help them navigate to whe re they want to go. “To navigate” (navigate) means to figure out the best w ay to get to your destination, to the place where you’re going. If you are navigat ing in your car, you are deciding which route to take – which way to go in o rder to arrive at the place you want to go. Fay says, “I’m not sure it’s reliable.”  Something that is “reliable” is something that is trustworthy, something that you can count on, something you can depend on.
 
@@ -1042,7 +1042,7 @@ Shawna says, “You got it,” meaning that’s correct. “When all is said and
 
 Hugo says, “Wow, I’m impressed.” “To be impressed” means that you really think it’s wonderful. You are really surprised at somethi ng in a good way. Shawna says, “Want to try your hand at it?” “To try your h and at” something means to try
 
-to do something for the first time, especially if i t is difficult and if you don’t have very much experience doing it.
+to do something for the first time, especially if it is difficult and if you don’t have very much experience doing it.
 
 Hugo says, “No, thanks. You see these 10 fingers? I ’m rather fond of them.” “To say you are fond (fond) of” something means you lik e something. You think something is good and interesting. It’s an expressi on that you still hear in conversational English, although it isn’t as common  now perhaps as it was 50 years ago.
 
@@ -1874,7 +1874,7 @@ Serge says, “Calm down. Maybe you just misplaced it .” “To misplace” som
 
 take the inner part and bring it to the exterior. T hat’s “to turn out,” in this case, “your pockets.”
 
-My mother used to tell me before I gave her my dirt y clothes to wash to turn out the pockets. In other words, take my hand and put i t inside of the pocket and pull it out. She, of course, didn’t want any paper or co ins in there when she put it into the clothes washer. And you can imagine, with a fam ily of 13, we had a lot of clothes to wash.
+My mother used to tell me before I gave her my dirt y clothes to wash to turn out the pockets. In other words, take my hand and put it inside of the pocket and pull it out. She, of course, didn’t want any paper or co ins in there when she put it into the clothes washer. And you can imagine, with a fam ily of 13, we had a lot of clothes to wash.
 
 Anyway, Serge doesn’t want to panic. “To panic” (pa nic) means to get very worried and perhaps fearful about something. Usuall y this happens quite suddenly, and it causes you often not to think very  clearly or very logically. Nina says, “I know it’s gone. I know it! Flag down the p olice,” she says. “To flag down” someone is to get someone’s attention, usually by r aising your arm and moving it back and forth, moving your hand back and forth, so  that you get the attention of someone. We usually use this two-word phrasal verb when talking about getting the attention of a police officer or perhaps a taxi  driver.
 
@@ -1992,7 +1992,7 @@ interesting even though you weren’t actually lookin g for it. Omar says that p
 
 Faith says, “I did notice that he had a few problem s with delivery.” “Delivery” (delivery) here means the way that you present info rmation. When we talk about the “delivery” of the speech, we’re talking about h ow the speech was given – whether you used the right intonation or you made t he speech interesting.
 
-Omar says, “That’s putting it lightly.” Faith says that she noticed “a few problems” with Paul’s delivery of his speech. Omar says it wa s more than a few problems. That’s why he says, “That’s putting it lightly.” Wh en someone says, “That’s putting it lightly” (lightly), or “that’s putting i t mildly” (mildly), he means that you are understating the problem. You are making the pr oblem less serious than it really is. You’re perhaps being kind to this person  by not indicating just how bad things were.
+Omar says, “That’s putting it lightly.” Faith says that she noticed “a few problems” with Paul’s delivery of his speech. Omar says it wa s more than a few problems. That’s why he says, “That’s putting it lightly.” Wh en someone says, “That’s putting it lightly” (lightly), or “that’s putting it mildly” (mildly), he means that you are understating the problem. You are making the pr oblem less serious than it really is. You’re perhaps being kind to this person  by not indicating just how bad things were.
 
 Omar says that Paul “stuttered when trying to list the products’ features.” “To stutter” (stutter) is to repeat the first sound of a word – not intentionally, but because perhaps you have some sort of difficulty in  speaking, or perhaps just because you’re very nervous. When someone says, “I,  w-went to the s-store,” that’s stuttering. Paul “stuttered when trying to l ist,” or give a list of, “the products’ features” – the things that the products had or the  things that the products offered.
 
@@ -2888,7 +2888,7 @@ Patrick says, “Create a basic filing system.” A “fi ling system” would b
 
 A “filing system,” then, is some way of organizing something. For example, for me, when I buy something, especially a piece of com puter equipment or electronic equipment, I make a paper folder or I cr eate a label, a name that I put on the folder, that says “Hardware: ” and then the name of the object, and then I put all of those together in my filing cabinet, whi ch is a place where you keep paper files. That is my, or part of my, filing syst em.
 
-Patrick tells Maya to “put things in sequence.” “Se quence” (sequence) is another word for order – usually it involves putting the ea rliest things before the latest things. Patrick says, “If they are labeled with dat es, put them in chronological order.” “To label” something is to put a name on so mething, to provide basic information about something with what we would call  a “tag” (tag) or a “sticker” (sticker). On a paper file, that would be a little piece of paper that goes on the folder or just words that you write on the folder i tself to identify.
+Patrick tells Maya to “put things in sequence.” “Se quence” (sequence) is another word for order – usually it involves putting the ea rliest things before the latest things. Patrick says, “If they are labeled with dat es, put them in chronological order.” “To label” something is to put a name on so mething, to provide basic information about something with what we would call  a “tag” (tag) or a “sticker” (sticker). On a paper file, that would be a little piece of paper that goes on the folder or just words that you write on the folder itself to identify.
 
 “Chronological order” refers to putting things in t he earliest to latest sequence – that is, if you are putting things in chronological  order, you would put 2010 before 2011, and 2011 would come before 2012. You would pu t January before March. Patrick says, “If they’re labeled with names, put t hem in alphabetical order by last name.” “Alphabetical order,” as we explained earlie r, is when you put things in the order of, in this case, the English alphabet: A , B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, and Z. Like that.
 
@@ -3120,7 +3120,7 @@ Rene then says, “Look at this cute little dog. This  card lists his breed and 
 
 Rene says this particular dog has been “neglected a nd abandoned.” “To neglect” (neglect) means to ignore or not take care of somet hing or someone. So, if the dog has been neglected, the dog has not been taken care of properly – perhaps he’s sick or doesn’t have enough food.
 
-“Abandoned” comes from the verb “to abandon,” which  means to leave something or someone and basically walk away from i t, decide you’re not going to bother with it anymore. You don’t sell it. You d on’t give it to someone. You just leave it somewhere and hope that someone else finds  it and takes it – or not. You may not care. If a dog has been abandoned, the owner of the dog decides he doesn’t want the dog anymore and, I don’t know, puts them in a park and then drives away, I guess.
+“Abandoned” comes from the verb “to abandon,” which  means to leave something or someone and basically walk away from it, decide you’re not going to bother with it anymore. You don’t sell it. You d on’t give it to someone. You just leave it somewhere and hope that someone else finds  it and takes it – or not. You may not care. If a dog has been abandoned, the owner of the dog decides he doesn’t want the dog anymore and, I don’t know, puts them in a park and then drives away, I guess.
 
 Rene says, “How could you turn down a face like tha t?” “To turn down” is a two- word phrasal verb meaning to say no to something or  to someone. “To reject” or “to deny,” are also possible definitions of this ph rasal verb “to turn down.” “I asked the beautiful girl out on a date and she turn ed me down.” She turned down my invitation. She said no. That used to happen a l ot to me. It doesn’t happen anymore, of course, because I’m married.
 
@@ -3210,7 +3210,7 @@ Carol: The message that the government is cracking down.
 
 Danny: I think it’s just grandstanding and Schirru is being made a sacrificial lamb.
 
-Carol: You can believe what you like, but I think i t’s great that the district attorney is taking a stand.
+Carol: You can believe what you like, but I think it’s great that the district attorney is taking a stand.
 
 Danny: Yes, but he seems to be doing it at the expe nse of real justice.
 
@@ -3252,7 +3252,7 @@ Danny says, “I think it’s just grandstanding.” “To grandstand” (grands
 
 Danny says, “Schirru is being made a sacrificial la mb.” A “sacrificial (sacrificial) lamb (lamb)” is a person who is put into a damaging  position or harmed for the benefit of everyone else. A sacrificial lamb would be someone who is punished in order that everybody else is better off – in order to benefit other people.
 
-Carol says, “You can believe what you like, but I t hink it’s great that the district attorney is taking a stand.” “To take a stand” (sta nd) is to tell people what your position is, what your opinion is, and not change i t, not try to be persuaded by others. “To take a stand” is to decide that you are  going to defend your position even if other people disagree with you.
+Carol says, “You can believe what you like, but I t hink it’s great that the district attorney is taking a stand.” “To take a stand” (sta nd) is to tell people what your position is, what your opinion is, and not change it, not try to be persuaded by others. “To take a stand” is to decide that you are  going to defend your position even if other people disagree with you.
 
 Danny says, “Yes, but he” – the district attorney –  “seems to be doing it at the expense of real justice.” If you do something “at t he expense (expense) of” something else, you are causing harm to one thing i n order to help another thing. Danny is saying that the district attorney is takin g a stand, is giving his opinion,
 
@@ -3280,7 +3280,7 @@ Carol: The message that the government is cracking down.
 
 Danny: I think it’s just grandstanding and Schirru is being made a sacrificial lamb.
 
-Carol: You can believe what you like, but I think i t’s great that the district attorney is taking a stand.
+Carol: You can believe what you like, but I think it’s great that the district attorney is taking a stand.
 
  Danny: Yes, but he seems to be doing it at the expe nse of real justice.
 
@@ -3730,7 +3730,7 @@ Claudia says, “You look,” meaning you look for the name of this item, “I�
 
 called, confusingly, a “bag.” A “bag” can be made of plastic or paper or some other material, and we use bags to carry things aro und. When you go to a grocery store in the United States, they usually gi ve you either a paper or a plastic bag. Sometimes they charge you money for the bags, however, so many people bring their own bags from home. So, “to bag”  means to put something in a bag.
 
-Raul says, “Wait! You’re supposed to wait until eve rything is scanned before removing items from the bagging area to put in bags .” The way the self-checkout machines work is that you put things on a flat surf ace, like a little table, called the “bagging area.” After you scan something, you then put it on this small table, but the table itself is connected to the machine, and i t can tell how much weight you are putting on the machine. It’s a way, I guess, for the grocery store company to make sure you’re not cheating. You can’t put things  into bags until you finished scanning all of your items. That’s what Raul says.
+Raul says, “Wait! You’re supposed to wait until eve rything is scanned before removing items from the bagging area to put in bags .” The way the self-checkout machines work is that you put things on a flat surf ace, like a little table, called the “bagging area.” After you scan something, you then put it on this small table, but the table itself is connected to the machine, and it can tell how much weight you are putting on the machine. It’s a way, I guess, for the grocery store company to make sure you’re not cheating. You can’t put things  into bags until you finished scanning all of your items. That’s what Raul says.
 
 He says, “Oh no, now there’s a ‘see attendant’ mess age on the screen.” An “attendant” (attendant) is a person who works for, in this case, a store to help customers find things. The attendant here is helpin g customers use the self- checkout machine. So yes, although you don’t talk t o anyone, you do everything yourself in self-checkout, there will be an employe e from the store, an attendant, who will help you if you need help with the machine .
 
@@ -3852,7 +3852,7 @@ the farm to a large business or to someone who want ed to do something else with
 
 Brad says that “agribusiness is alive and well.” Th at expression “to be alive and well” is quite common in English. It means to be do ing very well, to have a lot of success. The agribusinesses are successful, accordi ng to Brad, “thanks to” – or because of –“government subsidies.” A “subsidy” (su bsidy) is when someone gives you money to do something. In the United Stat es, as in many countries, the government tries to protect farms and to protect the agricultural business by giving businesses and farmers money – money to grow  certain kinds of food.
 
-Now, the economic reasoning for this activity is so mewhat questionable, according to some economists. Many economists say i t doesn’t make sense for the government to pay people in farming when they d on’t pay people in other businesses in order to survive. Of course, there are arguments on the other side – that is, there are people who think it does do so me good.
+Now, the economic reasoning for this activity is so mewhat questionable, according to some economists. Many economists say it doesn’t make sense for the government to pay people in farming when they d on’t pay people in other businesses in order to survive. Of course, there are arguments on the other side – that is, there are people who think it does do so me good.
 
 Irene says, “Are they lucrative?” “They” here refer s to the businesses involved in agriculture. The word “lucrative” (lucrative) means  profitable. It means making a lot of money. If your business is lucrative, you are making a lot of money, you are getting rich. Brad says, “They can be,” meaning the se businesses can be lucrative, “but the subsidies were originally given  to protect the livelihood of farmers.”
 
@@ -4090,7 +4090,7 @@ Omid says, “Are you sure you’re looking for a block  of apartments?” A “
 
 “Maybe it’s a mixed-use building like that one over  there,” he says. “Mixed-use” is a building that has both businesses and apartments or condominiums in it. In big cities, it’s often the case that, especially in the  downtown or central area of town, a building will be built where the first and perhap s second floors of the building are businesses – stores, offices – and the upper st ories, the upper levels of the building, are condominiums or apartments. This is c alled a “mixed-use building.”
 
-But Lily says, “I’m pretty sure,” meaning she’s fai rly certain that she’s looking for a block of apartments. She says, “At least I know i t’s a high-rise building and the
+But Lily says, “I’m pretty sure,” meaning she’s fai rly certain that she’s looking for a block of apartments. She says, “At least I know it’s a high-rise building and the
 
 apartment is on the eighth floor. That mixed-use bu ilding is only three stories high.” A “high-rise (rise) building” is a very tall  building. If it’s a business building and it’s really tall, we might call it a “skyscrape r.”
 
@@ -4997,7 +4997,7 @@ Leona in fact refers to the checked baggage in the very next sentence. She says,
 
 going. Leona is looking for her checked baggage. Sh e says, “I thought I gave you my carry-on too.” The driver says, “You did, ma’am,  and it’s right here.”
 
-Leona says, “Oh, good. When can I expect my trunk t o arrive?” A “trunk” (trunk) here refers to a large box that has hard sides on i t and a top that is used for transporting a large amount of books, clothing, or other items for travel. Trunks, or “travel trunks,” aren’t very popular anymore. Yo u usually will see them in movies – old movies – about people who are travelin g either by ship or by plane. They’re not very easy or convenient to move around.
+Leona says, “Oh, good. When can I expect my trunk t o arrive?” A “trunk” (trunk) here refers to a large box that has hard sides on it and a top that is used for transporting a large amount of books, clothing, or other items for travel. Trunks, or “travel trunks,” aren’t very popular anymore. Yo u usually will see them in movies – old movies – about people who are travelin g either by ship or by plane. They’re not very easy or convenient to move around.
 
 People have trunks in their homes, however, to stor e things, especially clothing that they’re not wearing currently. My mother used to keep all of the winter clothing in trunks in our attic, in the very top pa rt of our house, so that it wouldn’t take up space in the rooms. She would then, of cour se, take it down and bring the clothing to us when the weather got cold – whic h unfortunately in Minnesota was often.
 
@@ -5638,7 +5638,7 @@ So, in addition to the PR nightmare, Lee says, ther e will also be charges of ne
 
 you should have known not to do. Lee says the compa ny will have to face charges of negligence in court.
 
-He says, “We need to get ahead of this now.” “To ge t ahead of” something means to say and do whatever is necessary so that y ou can control a situation, a situation that is perhaps getting worse. Melissa sa ys, “All right, all right. I guess we have no choice. Should we hold a press conferenc e to announce the recall?” A “press (press) conference” is an event to which y ou invite reporters from television stations or newspapers in order to make a big announcement, in order to say something important about your company and i ts actions.
+He says, “We need to get ahead of this now.” “To ge t ahead of” something means to say and do whatever is necessary so that y ou can control a situation, a situation that is perhaps getting worse. Melissa sa ys, “All right, all right. I guess we have no choice. Should we hold a press conferenc e to announce the recall?” A “press (press) conference” is an event to which y ou invite reporters from television stations or newspapers in order to make a big announcement, in order to say something important about your company and its actions.
 
 Melissa is suggesting they hold a press conference.  Notice the verb “hold” is used, especially when we are talking about press co nferences. Lee says, “We’ll send out a press release first and then hold a pres s conference.” A “press release” (release) is a document, either a piece of  paper or perhaps a PDF file, that you send news organizations like television st ations and newspapers and magazines, announcing something important about you r company.
 
@@ -6434,7 +6434,7 @@ When I was a child growing up in Minnesota, especia lly out in the areas outside
 
 Marcus says, “And who do you think would be respons ible for doing that and for extinguishing the wildfire we start?” Marcus is rem inding Rebecca that to create a bonfire would still be work, and more importantly, it would be dangerous. A “wildfire” (wildfire) is a very large fire that bur ns through a forest or other areas in ways that you can’t control very easily. We have wi ldfires here in California – Southern California – quite frequently, and many ti mes these fires burn down homes. They can be quite dangerous.
 
- What do you do with a wildfire? Well, you have to p ut the fire out, and the verb we use for that concept is “to extinguish” (extingu ish). “To extinguish a fire” means to make the fire stop burning – “to put the f ire out,” we would say. Marcus is reminding Rebecca that if they create a bonfire,  they’ll probably start a wildfire, and then they would have to put the fire out. So, i t wouldn’t really save them very much.
+ What do you do with a wildfire? Well, you have to p ut the fire out, and the verb we use for that concept is “to extinguish” (extingu ish). “To extinguish a fire” means to make the fire stop burning – “to put the f ire out,” we would say. Marcus is reminding Rebecca that if they create a bonfire,  they’ll probably start a wildfire, and then they would have to put the fire out. So, it wouldn’t really save them very much.
 
 Now let’s listen to the dialogue, this time at a normal speed.
 
@@ -6778,7 +6778,7 @@ Wanda says, “Wow, that’s really big.” She’s referri ng to the changing t
 
 In the United States – in most states, perhaps in a ll states – you must put a baby or a small child in a car seat. You can’t just hold  the baby in your arms, for example. That’s against the law. The idea is, of co urse, to protect the baby or the small child should there be an accident. There are two kinds of car seats mentioned here. One is for “infants” (infants) and one is for “toddlers” (toddlers). An “infant” is a small baby, a very young baby. A “ toddler” is a young child, usually one who has already learned how to walk. Th ose are the most dangerous kind.
 
-So, there are car seats for infants. There are bigg er car seats for toddlers. Enrique also gives Wanda a “booster (booster) seat. ” A booster seat is a special seat – or small chair, I guess you could think of i t as – that is used to keep a child, an older child, safe in a car by lifting his  or her body high enough so that the seat belt crosses the body at the appropriate h eight. A “seat belt” is a special piece of material, a strap, that you put over your body to prevent your body from being thrown out of the car in case of an accident.
+So, there are car seats for infants. There are bigg er car seats for toddlers. Enrique also gives Wanda a “booster (booster) seat. ” A booster seat is a special seat – or small chair, I guess you could think of it as – that is used to keep a child, an older child, safe in a car by lifting his  or her body high enough so that the seat belt crosses the body at the appropriate h eight. A “seat belt” is a special piece of material, a strap, that you put over your body to prevent your body from being thrown out of the car in case of an accident.
 
 So, for older children who are too old for a car se at, there are booster seats that the older children can have underneath them. Wanda says, “That’s a lot of stuff” – that’s a lot of things. “Are you sure you want to  part with all of this?” “To part with” something is a two-word phrasal verb meaning to get rid of something, to give something away, especially something that migh t have some sort of emotional or sentimental value, something that you like a lot.
 
@@ -7860,7 +7860,7 @@ Luisa then asks, “And don’t you work at the amuseme nt park on the weekend?�
 
 Luisa asks if Max is still working at an amusement park on the weekends. He says “I do half the year,” meaning I do work there part of the year, “but it’s winter and the park only keeps a skeleton crew on during t hese months.” Max is saying that that the amusement park where he normally work s in the summertime only has a skeleton crew during the wintertime. The phra se “skeleton (skeleton) crew (crew)” refers to a very small number of workers – the minimum number of workers you can have at a place.
 
-If the business doesn’t have very many customers, i t might have very few employees, and we might call that a “skeleton crew”  if during busy times the company has more employees. This is the case with t he amusement park. It has a skeleton crew. The word “crew” just refers to a g roup of people. The word “skeleton” is normally used to describe the bones of your body or the bones of an animal.
+If the business doesn’t have very many customers, it might have very few employees, and we might call that a “skeleton crew”  if during busy times the company has more employees. This is the case with t he amusement park. It has a skeleton crew. The word “crew” just refers to a g roup of people. The word “skeleton” is normally used to describe the bones of your body or the bones of an animal.
 
 Max says, “In the meantime,” meaning during this wi nter season, “I’m working for a temp agency, which gives me short-term assignment s.” A “temp (temp) agency” is a company that finds people temporary jo bs. The word “temp” is short for temporary, meaning short-term – not permanent, not for a long time. There are, of course, many companies that find workers, f ind people to work for companies that just need workers for a short period  of time.
 
@@ -9224,7 +9224,7 @@ Vanessa says, “How can that be when I don’t know wh at any of these icons re
 
 Reza doesn’t really know either. He uses a common e xpression that we would have in informal conversation, which is “Search me. ” “Search me” is a phrase we use when you don’t have an answer for the question either. When someone says, “I don’t know how to do this. Do you?” And the person says, “Search me,” the person means that he doesn’t understand or he d oesn’t have the answer either.
 
-Reza says, “Here’s one of the tech guys now” (one of the IT guys is obviously entering the room) “You can ask him all your questi ons.” Vanessa says, “I only have one.” Reza says, “Only one?” meaning “You only  have one question?” Vanessa says, “Yes. Can he restore my old operating  system?” “To restore” (restore) means to return something to how it was b efore. “To restore a computer application” would be to bring it back to the way i t was before you changed it, or perhaps even before you accidentally erased it.
+Reza says, “Here’s one of the tech guys now” (one of the IT guys is obviously entering the room) “You can ask him all your questi ons.” Vanessa says, “I only have one.” Reza says, “Only one?” meaning “You only  have one question?” Vanessa says, “Yes. Can he restore my old operating  system?” “To restore” (restore) means to return something to how it was b efore. “To restore a computer application” would be to bring it back to the way it was before you changed it, or perhaps even before you accidentally erased it.
 
 Vanessa wants her old operating system back, and we  – which is all of us who deal with computers – know that sometimes new opera ting systems can be somewhat confusing because things are done differen tly.
 
@@ -9638,7 +9638,7 @@ Robin says, “Business has been slow for three years  running.” When we say �
 
 Robin says that “business has been slow for three y ears running,” meaning three years in a row – consecutively, one after the other . She says, “I can’t count on things to pick up anytime soon.” “To count on” some thing means to depend on something, to rely on something. “To pick up” here as a phrasal verb means to increase in speed or pace. In this case, it means t o be making more money. If business is picking up, you’re getting more busines s.
 
-Robin says, “I’m selling this business now before i t’s completely worthless.” If something is “worthless” (worthless), it means it h as no value. It is not worth any money. Andy says, “You should get a good price with  all that equipment and inventory.” Andy says Robin should get a good price , meaning that she’ll get a lot
+Robin says, “I’m selling this business now before it’s completely worthless.” If something is “worthless” (worthless), it means it h as no value. It is not worth any money. Andy says, “You should get a good price with  all that equipment and inventory.” Andy says Robin should get a good price , meaning that she’ll get a lot
 
 of money for her business. She has “equipment and i nventory” (inventory). “Inventory” refers to all of the things – the goods , the products – that a company has made or owns but hasn’t sold yet.
 
@@ -9654,7 +9654,7 @@ Robin wants to sweeten the pot in selling her busin ess by offering her consulti
 
 So, if you’re a restaurant, your suppliers would in clude people who sell you food that you then prepare to sell in your restaurant. “ To go over the books” (books) means to review the accounting records and financia l statements for a business.
 
-“The books” refers to the accounting system or acco unting information that used to be kept in a single book. Nowadays, of course, i t’s in a computer program for most businesses. Robin is going to introduce the ne w owners to her suppliers and clients – that is, customers – go over the book s with them, and help them set up or establish daily operations.
+“The books” refers to the accounting system or acco unting information that used to be kept in a single book. Nowadays, of course, it’s in a computer program for most businesses. Robin is going to introduce the ne w owners to her suppliers and clients – that is, customers – go over the book s with them, and help them set up or establish daily operations.
 
 Andy says, “That should give them a jump-start.” A “jump-start” is an early beginning, an opportunity to start something more q uickly than you might otherwise be able to do. Andy says, “With all that knowledge, you could start a new business on the other side of town and hope tha t business is better there.” But Robin says, “I couldn’t do that,” meaning she c ouldn’t start up a similar business in another part of the same city.
 
@@ -10782,7 +10782,7 @@ something that is very comfortable – often, again, something that costs a lot 
 
 Mandy says to Theo, “You’ve really outdone yourself .” “To outdo” (outdo) – one word – “yourself” is to do something better than an yone thought you could do, to do something better than you have done it before. W e might also define this verb as “to surpass expectations.”
 
-Theo says, “Thanks, but maybe we should be careful not to spill drinks on the seats.” “To spill” (spill) means to accidentally ca use a liquid to leave its container. So, for example, if you have a glass of water and y ou move your hand or arm too quickly, the water might spill out of the glass – i t might come out of the glass. Theo is warning Mandy not to spill drinks on the se ats of the car.
+Theo says, “Thanks, but maybe we should be careful not to spill drinks on the seats.” “To spill” (spill) means to accidentally ca use a liquid to leave its container. So, for example, if you have a glass of water and y ou move your hand or arm too quickly, the water might spill out of the glass – it might come out of the glass. Theo is warning Mandy not to spill drinks on the se ats of the car.
 
 Mandy says, “Everybody drinks and parties in the ba ck of a limo. Why else would they have a wet bar?” A “wet bar” is usually a smal l counter, a small piece of furniture that has a small sink in it, used to mix alcoholic drinks. Now remember, these kids are in high school, and of course they s houldn’t be drinking, legally, if they are in high school. Theo says, “Well we should n’t be drinking out of it,” meaning we shouldn’t be taking drinks out of this w et bar.
 

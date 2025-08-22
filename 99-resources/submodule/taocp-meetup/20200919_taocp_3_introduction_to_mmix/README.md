@@ -170,7 +170,7 @@ $ + number
 
 **Miguel Angel Iglesias** 2:57 PM<br>
 I mean it took me a second read to understand the Mx
- 
+
 
 **Michael Zalewski** 2:57 PM<br>
 Kind of. But if you are accessing a Tetra, then M[0] = M[1] = M[2] = M[3]
@@ -273,7 +273,7 @@ is the address
 oh, basically the first instruction says to put whatever is in M[0] to $4
 
 **Uri Segal** 3:48 PM<br>
-argv[0] is the name i think
+argv[0] is the name ithink
 
 **Uri Segal** 3:51 PM<br>
 address of the current instruction

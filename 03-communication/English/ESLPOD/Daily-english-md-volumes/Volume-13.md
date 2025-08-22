@@ -394,7 +394,7 @@ Becca says, “Hmm, maybe you shouldn’t be telling me  about your conquests”
 
 In fact, that’s what Jonah says in the next sentenc e. He says, “Chicks dig me.” The word “chick” (chick) is an informal word for a female, especially a young female. It is considered somewhat of a sexist term.  You probably do not want to use it in your own conversation. It’s also somewhat  of an older term that isn’t as common now as it was maybe 30 years ago – similarly  with the expression “to dig” someone. “To dig” (dig) someone means that you  are attracted romantically to that person.
 
-Jonah seems to think that women are attracted to hi m. That’s why he says, “Chicks dig me.” “Last week alone, I . . .” He begi ns to tell Becca something but Becca interrupts him. She says, “Really, I think I’ ll take a pass on the play-by- play.” “To take a pass (pass) on” something is to c hoose not to do something or not to receive something. Someone may offer you, I don’t know, a piece of pie, and you are trying to lose weight. So you say, “I t hink I’ll take a pass on the piece of pie, but thank you.” You are declining to have i t. You are choosing not to have it.
+Jonah seems to think that women are attracted to hi m. That’s why he says, “Chicks dig me.” “Last week alone, I . . .” He begi ns to tell Becca something but Becca interrupts him. She says, “Really, I think I’ ll take a pass on the play-by- play.” “To take a pass (pass) on” something is to c hoose not to do something or not to receive something. Someone may offer you, I don’t know, a piece of pie, and you are trying to lose weight. So you say, “I t hink I’ll take a pass on the piece of pie, but thank you.” You are declining to have it. You are choosing not to have it.
 
 Becca wants to “take a pass on the play-by-play.” “ Play-by-play” is a detailed description of what happens – or in this case, of w hat happened. “Play-by-play” is a phrase that comes from the world of sports, when you are watching or listening to a sporting event. The person who is announcing t he game, who is talking about the game, will usually tell you exactly what is happening. This is especially true if you are listening on the radio. In order to  understand what is happening in the game, the person who is announcing the game giv es you the “play-by-play” – exactly what is happening at every moment in the ga me.
 
@@ -642,7 +642,7 @@ when there’s a little bit of pink but not very much ; and finally, “well don
 
 Chris is suggesting cooking the steak to medium don eness. Ruth says, “No, I don’t want to take any chances” – that is, I don’t want to have any risks of getting sick. “I’d rather the steak is overcooked than unde rcooked.” She then looks at Chris’s steak and says, “Are you going to eat that? ” Chris says, “Yes. I like my steak juicy” – with lots of liquid that comes out of the steak.
 
-Ruth says, “But that’s raw!” (raw). Meat that is “r aw” is not cooked at all. That’s not the same as “rare,” where the meat is cooked bu t there’s still a lot of redness in the middle. Chris corrects Ruth and says, “No, i t’s cooked rare, not raw. I’ll cut into it so you can see that it’s cooked.” Ruth says , however, “It’s oozing red!” “To ooze” (ooze) is for liquid to slowly come out of so mething. In this case, the liquid is the blood from the meat that is coming out. Ruth  says, “That is definitely not cooked.”
+Ruth says, “But that’s raw!” (raw). Meat that is “r aw” is not cooked at all. That’s not the same as “rare,” where the meat is cooked bu t there’s still a lot of redness in the middle. Chris corrects Ruth and says, “No, it’s cooked rare, not raw. I’ll cut into it so you can see that it’s cooked.” Ruth says , however, “It’s oozing red!” “To ooze” (ooze) is for liquid to slowly come out of so mething. In this case, the liquid is the blood from the meat that is coming out. Ruth  says, “That is definitely not cooked.”
 
 Chris says, “I’ll prove it to you. I’ll eat this pi ece and live to tell about it.” The expression “to live to tell about” something means to do something dangerous and then be able to survive it – not to be killed b y that experience. Chris is making a joke here. He doesn’t really think that he  going to die by eating this piece of meat. So he’s sort of making fun of Ruth w ho thinks that it is unsafe, that it is dangerous for him to eat this meat that is co oked rare instead of well done. He is going to eat it and then “live to tell about it.”
 
@@ -910,7 +910,7 @@ Alisha: Hey, you’re back from your vacation. Where did you go? New York City? 
 
 Ramon: I decided to spend my vacation in Maddievill e.
 
-Alisha: Where is Maddieville? I’ve never heard of i t.
+Alisha: Where is Maddieville? I’ve never heard of it.
 
 Ramon: It’s a small town about a six-hour drive fro m here. I read about it being a throwback to the days of small shops and friendly n eighbors, with a charming old-fashioned main street. It was really nice.
 
@@ -976,7 +976,7 @@ Alisha: Hey, you’re back from your vacation. Where did you go? New York City? 
 
 Ramon: I decided to spend my vacation in Maddievill e.
 
-Alisha: Where is Maddieville? I’ve never heard of i t.
+Alisha: Where is Maddieville? I’ve never heard of it.
 
 Ramon: It’s a small town about a six-hour drive fro m here. I read about it being a throwback to the days of small shops and friendly n eighbors, with a charming old-fashioned main street. It was really nice.
 
@@ -1052,7 +1052,7 @@ made into” or “to be adapted into.” It just means t o be changed into some
 
 Ian says, “The new installment is coming out next m onth and I can’t wait.” The “new installment” (installment) is the new, in this  case, “movie.” The “new installment” is the new part or the new version of some television show, movie, or book series. “The new installment is coming out,” m eaning it will be released. You will be able to watch it next month.
 
-“The latest installment?” Ursula asks. “I thought i t was a trilogy.” A “trilogy” (trilogy) is a group of three related books, movies , or stories. The Lord of the Rings was a trilogy. There were three parts to it. There was The Fellowship of the Ring, The Two Towers, and The Return of the King. T hose three movies were part of The Lord of the Rings trilogy.
+“The latest installment?” Ursula asks. “I thought it was a trilogy.” A “trilogy” (trilogy) is a group of three related books, movies , or stories. The Lord of the Rings was a trilogy. There were three parts to it. There was The Fellowship of the Ring, The Two Towers, and The Return of the King. T hose three movies were part of The Lord of the Rings trilogy.
 
 Ursula is confused because she thought that the ser ies that Ian was watching with Aims Pond was a trilogy, and therefore there w ere no more installments to be released. Ian says, “No, the original film has s pawned four sequels and two prequels so far.” The verb “to spawn” (spawn) means  to produce or to generate. The verb is often used in cases like this when some thing produces or generates many different additional parts or additional insta llments. This original movie, according to Ian, “spawned four sequels and two pre quels.”
 
@@ -1298,7 +1298,7 @@ Petra says this website won’t accept her credit car d as “payment” – tha
 
 If you don’t pay them back, the bank will charge yo u interest. That’s what we call a “finance (finance) charge.” Some people have to p ay lots of money every month in “finance charges” because they don’t have enough money to pay for the loans that they took out that month from their cred it card company. We don’t usually call them “loans.” We call them “charges” ( charges). When you call them “charges,” people don’t think of them as loans anym ore. This is a very smart way that credit card companies get you to spend more mo ney.
 
-Anyway, Petra is angry because she hasn’t been able  to use either her credit card or her debit card. She says, “The debit card h as been rejected” (rejected). When your credit card is “rejected,” you are not al lowed to use it. Another word here would be “denied” (denied). If your credit car d is “denied,” you are not able to use it. The bank is saying, “No, you can’t use i t.” Ken says, “Why don’t you just write a check and mail it in?” A “check” (check) is  a small piece of paper that you can use to take money out of your bank account.
+Anyway, Petra is angry because she hasn’t been able  to use either her credit card or her debit card. She says, “The debit card h as been rejected” (rejected). When your credit card is “rejected,” you are not al lowed to use it. Another word here would be “denied” (denied). If your credit car d is “denied,” you are not able to use it. The bank is saying, “No, you can’t use it.” Ken says, “Why don’t you just write a check and mail it in?” A “check” (check) is  a small piece of paper that you can use to take money out of your bank account.
 
 Remember, a “debit card” is a way of electronically  taking money directly out of your bank account. A “check” is another way of taki ng money out of your bank account in order to give it to another person. The problem is that Petra doesn’t have any checks. This isn’t that unusual nowadays. Many people don’t have paper checks anymore because they pay for everythin g either with a credit card or a debit card or some other way of paying electro nically.
 
@@ -2818,7 +2818,7 @@ Celeste is surprised by this. She says, “Really?” T homas replies, “Yeah,�
 
 Thomas says that people told him, “advised” him, to  get his feet wet “by licensing a collection.” “To license” (license) something is to give someone permission to sell what you have made, which often includes the r ight to make something and sell it to someone else. A collection is similar to  a product line. It’s a group of products.
 
-Some people told Thomas that he should license his collection – he should give his products to another person and have them make i t and sell it. He wouldn’t make as much money that way, of course, but it woul d be less risky. It would not involve him as much, and therefore if things didn’t  work out well, he wouldn’t lose a lot of money. However, Thomas says he doesn’t wan t “to sell under someone else’s brand.”
+Some people told Thomas that he should license his collection – he should give his products to another person and have them make it and sell it. He wouldn’t make as much money that way, of course, but it woul d be less risky. It would not involve him as much, and therefore if things didn’t  work out well, he wouldn’t lose a lot of money. However, Thomas says he doesn’t wan t “to sell under someone else’s brand.”
 
 Celeste says, “I thought you started all this by do ing custom work.” “Custom” (custom) means “customized,” or designed to meet on e particular client or customer’s needs. If you buy a suit from a store an d put it on, take it home and wear it, you’re not buying a “custom suit.” That su it, that jacket, and pair of pants wasn’t made for you. But if you go to someone who m akes suits and measures them to your particular body to make sure that it f its you perfectly, then you would be getting a “custom-made suit.” Thomas began worki ng by doing “custom work” for individual people.
 
@@ -2914,7 +2914,7 @@ We begin our dialogue by hearing Joshua say, “Beat it and don’t come back!�
 
 Rosa asks, “What’s all the noise?” In other words, why is Joshua yelling. Joshua responds, “It’s the neighborhood kids,” meaning it’ s the children who live near our house. “All I want to do,” meaning the only thing I  want to do, “on this sunny afternoon is sit out on the porch and enjoy the day .” Joshua wants to sit on his “porch” (porch) and enjoy his day. A porch is an ar ea in front of a house, often made of either wood or cement, that doesn’t have an y walls around it, although it will often have something overhead – a “roof” (roof ) – to protect you from the rain and sun.
 
-Porches aren’t as common here in Los Angeles as the y are in other cities, especially with newer houses, but where I grew up i t was quite common in the houses of my neighborhood to see people on their po rches – for houses to have porches, in fact. Almost none of the houses in my n eighborhood here in L.A. have porches. They’re just not as common in the hou ses in this area, and I think they’re not as common in newer houses.
+Porches aren’t as common here in Los Angeles as the y are in other cities, especially with newer houses, but where I grew up it was quite common in the houses of my neighborhood to see people on their po rches – for houses to have porches, in fact. Almost none of the houses in my n eighborhood here in L.A. have porches. They’re just not as common in the hou ses in this area, and I think they’re not as common in newer houses.
 
 In any case, Joshua is mad about the neighborhood k ids. He says, “Those neighborhood kids keep coming around” – that is, th ey keep coming close to his house – “and making all kinds of noise.” Joshua the n yells at another one of the neighborhood children. He says, “Hey you, shoo!” “S hoo” (shoo) is another informal word used to tell someone to go away. It’s  sometimes used humorously, as in making a joke, but Joshua isn’t joking here.
 
@@ -4366,7 +4366,7 @@ Derrick thinks people “are trying to maintain the s tatus quo,” meaning they
 
 Liz says, “But if we don’t reach an agreement” – if  we don’t come to a consensus – “we’ll have to come back,” or return, “tomorrow a nd continue our discussions and deliberations.” “Deliberations” (deliberation) means usually a careful, slow, detailed consideration of something. We talk about a group of people who are deciding whether someone is guilty or innocent of a  crime – we call that group a “jury” (jury) – “deliberating” – that is, they’re m aking their decision carefully and slowly and by thinking and talking a lot about it.
 
-Derrick says, “You’re right! I can’t spend another day in this room. I’ve held out long enough.” “To hold out” is a two-word phrasal v erb meaning to continue to hold your position or to continue to have a certain  opinion even when the situation is difficult or the situation is dangerou s. “To hold out” means to stay where you are or to keep your opinion even though i t is difficult.
+Derrick says, “You’re right! I can’t spend another day in this room. I’ve held out long enough.” “To hold out” is a two-word phrasal v erb meaning to continue to hold your position or to continue to have a certain  opinion even when the situation is difficult or the situation is dangerou s. “To hold out” means to stay where you are or to keep your opinion even though it is difficult.
 
 Derrick says, “I’ve held out long enough.” Liz says , “What do you mean?” Derrick says, “The only way I’m getting out of here is to c hange sides!” “To change sides” (sides) means to change your opinion and join the o ther group – in this case, to join the group with whom you previously disagreed. So, Derrick is going to change his mind and change his vote so that the gro up is no longer deadlocked, so that they reach a consensus.
 
@@ -4814,7 +4814,7 @@ The term “gynecology” (gynecology) refers to the st udy of and practice of m
 
 He then says, “Welcome, Dr. Rodriguez,” and Dr. Rod riguez says, “Thanks for having me,” meaning thanks for inviting me to be on  this show, on this television program. Matt then says, “Tell us. As a gynecologis t, what one piece of advice” – what one thing – “would you give to women to help t hem stay healthy?” A “gynecologist” is a doctor who is specialized in gy necology, women’s medicine.
 
-Dr. Rodriguez answers Matt’s question by saying, “W ell, as part of their regular checkups, they should be getting a gynecological ex am.” A “checkup” (checkup) is when you go to the doctor to have the doctor loo k at you and make sure there is nothing wrong with you. A checkup is usually som ething you do every year or perhaps every two years. We’ll sometimes refer to i t as a “regular checkup,” meaning it’s scheduled even if you aren’t sick. You  go to the doctor and have the doctor examine you, look at you, make sure you’re o kay.
+Dr. Rodriguez answers Matt’s question by saying, “W ell, as part of their regular checkups, they should be getting a gynecological ex am.” A “checkup” (checkup) is when you go to the doctor to have the doctor loo k at you and make sure there is nothing wrong with you. A checkup is usually som ething you do every year or perhaps every two years. We’ll sometimes refer to it as a “regular checkup,” meaning it’s scheduled even if you aren’t sick. You  go to the doctor and have the doctor examine you, look at you, make sure you’re o kay.
 
 Dr. Rodriguez is recommending that women get regula r gynecological exams. Matt says, “This may surprise you, but I’ve never h ad one. Ha, ha!” He laughs. Of course, Matt is a man and men don’t get gynecologic al exams, though they do get other kinds of exams that women don’t, and we w on’t talk about those today. Dr. Rodriguez continues. She says, “When women come  in,” that is when they go to her office, “for an exam,” an examination or che ckup, “I check,” or look at, “several things. I do a breast exam to check for lu mps to detect breast cancer.”
 
@@ -5574,7 +5574,7 @@ Doris didn’t say she ordered a limo. She said she o rdered a car. Until recent
 
 people who don’t have a taxi license, who are just regular people who own cars, will give you a ride and you pay them for that ride .
 
-“It’s cheaper than a taxi,” Doris explains, which i t is. If you use one of these ridesharing services, you call them up or go on you r phone with an app and order a car to come and pick you up. Someone drives his o wn car, picks you up, and takes you to where you want to go. Doris says, “The re’s no meter and we pay a set price.” A “meter” (meter) here refers to a mach ine, a device, that calculates or figures out how much you have to pay your taxi driv er.
+“It’s cheaper than a taxi,” Doris explains, which it is. If you use one of these ridesharing services, you call them up or go on you r phone with an app and order a car to come and pick you up. Someone drives his o wn car, picks you up, and takes you to where you want to go. Doris says, “The re’s no meter and we pay a set price.” A “meter” (meter) here refers to a mach ine, a device, that calculates or figures out how much you have to pay your taxi driv er.
 
 Taxi drivers in most cities use meters. So, they tu rn the meter on when you get into the taxi and turn it off when you arrive at your destination, or the place you are going to. Then that machine tells both of you h ow much money you need to give to the taxi driver. But in a ridesharing servi ce, there is no meter. Instead, you pay a “set (set) price.” A “set price” is an amount  of money that doesn’t change depending on how far you go.
 
@@ -6254,7 +6254,7 @@ Kelly said, “It was for my mother,” meaning the fam ily secret or the shock,
 
 In fact, this expression is not used very often any more to refer to children who are born to parents who are not married, probably b ecause there are now a high percentage of children, at least in the U.S., who a re born to parents who are not married. So, it is no longer something that people keep secret. It is no longer something that people find embarrassing, and so we no longer use this expression as much as one did, say, when I was grow ing up or earlier.
 
-In any case, her mother “had a son out of wedlock w hen she was young and she gave the baby up for adoption” (adoption). “Adoptio n” is the process of bringing a child into your family as a son or daughter even th ough the child is not biologically related to you – that is, you did not have the child, or you did not participate in the making of the child. Let’s put i t that way. We usually talk about someone, a young woman in this case, “giving up the  baby” or “giving the baby up for adoption,” meaning the mother decides not to  keep the child but to have another family raise the child as its own.
+In any case, her mother “had a son out of wedlock w hen she was young and she gave the baby up for adoption” (adoption). “Adoptio n” is the process of bringing a child into your family as a son or daughter even th ough the child is not biologically related to you – that is, you did not have the child, or you did not participate in the making of the child. Let’s put it that way. We usually talk about someone, a young woman in this case, “giving up the  baby” or “giving the baby up for adoption,” meaning the mother decides not to  keep the child but to have another family raise the child as its own.
 
 Yoon then says, “Wow, that’s a bombshell” (bombshel l). A “bombshell” is some very surprising and shocking news, often a negative  piece of news. The word “bombshell” can also be used to describe a very att ractive looking woman. When I was growing up, people would sometimes use the ph rase about a beautiful actress or model, “a blonde bombshell.” “Blonde” me aning, of course, a light- yellow-colored hair. I don’t think we use the word “bombshell” in that sense as much anymore. Here it has nothing to do with a beau tiful woman; it has to do with a shocking, surprising piece of news.
 
@@ -7546,7 +7546,7 @@ means “is something that I would want more.” Luca wants some “mulled (mull
 
 Miranda says, “If only we had a snow cone machine.”  A “snow cone” (cone) is a paper cup that has small pieces of flavored ice, us ually ice that is chopped up in very small pieces and then has colored, sweetened l iquid poured over it, a kind of sugar that is poured over it. You’ll sometimes s ee snow cones sold at outdoor events during the summertime. Miranda thinks that t hey could make their own snow cones, but Luca wants instead a “hot toddy” (t oddy).
 
-A “hot toddy” is a hot drink made with some kind of  alcohol, such as rum or whiskey, added to hot water, honey or sugar, and pe rhaps some other kind of flavoring. Miranda says, “No way! Do you think the frozen yogurt store is still open at this hour?” “Frozen yogurt” (yogurt) is a d essert similar to ice cream, but it’s made with yogurt instead. Luca says, “You do k now that it’s the middle of winter, right?” “The middle of winter” means that i t is in one of the cold months, such as January, February, or March.
+A “hot toddy” is a hot drink made with some kind of  alcohol, such as rum or whiskey, added to hot water, honey or sugar, and pe rhaps some other kind of flavoring. Miranda says, “No way! Do you think the frozen yogurt store is still open at this hour?” “Frozen yogurt” (yogurt) is a d essert similar to ice cream, but it’s made with yogurt instead. Luca says, “You do k now that it’s the middle of winter, right?” “The middle of winter” means that it is in one of the cold months, such as January, February, or March.
 
 Miranda says, “I know, but I can’t help it. I need to cool off.” Miranda is hot for some reason, and therefore she needs “to cool off.”  She needs to lower her body temperature. Luca asks, “Hot flashes again?” A “hot  flash” (flash) is when you suddenly feel very hot even though the temperature in the room or outside has not changed. “Hot flashes” are something that happe ns sometimes to women who, when they get older, go through something call ed “menopause” (menopause). It’s a certain time of a woman’s life when her body’s hormones begin to change. I won’t explain it all here.
 
@@ -8686,7 +8686,7 @@ Young says, “That’s only one of the many problems. Keep listening and you’
 
 The “background” is what you hear in addition to the person talking on the audio. It’s the other noise in the room, or other noise th at is present in addition to the person talking, or perhaps the music that is being played. Young says, “Sometimes it” – meaning the static – “is so loud t hat it drowns out the other sounds.” “To drown (drown) out” is a two-word phras al verb meaning for the noise or the sound to be louder than something else  so that you can’t hear what you want to hear.
 
-If I’m talking to you and suddenly there’s a big mo torcycle that drives by and makes a lot of noise, if that noise is very loud, i t might drown me out. You won’t be able to hear me because the noise of the motorcy cle is too loud. My neighbor likes to sing to himself sometimes, very loudly, an d that sometimes drowns out my television that I am listening to, so I have to turn my television volume up, and then he sings louder, and then I turn my television  up even louder. You get the idea.
+If I’m talking to you and suddenly there’s a big mo torcycle that drives by and makes a lot of noise, if that noise is very loud, it might drown me out. You won’t be able to hear me because the noise of the motorcy cle is too loud. My neighbor likes to sing to himself sometimes, very loudly, an d that sometimes drowns out my television that I am listening to, so I have to turn my television volume up, and then he sings louder, and then I turn my television  up even louder. You get the idea.
 
 Silvia says, “Oh no, the voices are distorted, too. ” “To be distorted” (distorted) means to be difficult to hear or to understand, usu ally because there is some problem with the recording or because the device yo u are listening to has a problem. A voice that is “distorted” might be one t hat is suddenly very high or very low. This would be an example of a distorted v oice. That’s really bad distortion. I apologize for that.
 
@@ -8980,7 +8980,7 @@ Hugh says his girlfriend is moping and giving him “ the silent treatment.” O
 
 Gretchen asks, “What are you going to do to make up  for forgetting her birthday?” “To make up for” something is a phrasal verb meaning to do something nice for another person because you feel sorry for something you did – to try to improve a situation that is bad by doing something nice for the other person, especially when you did something wrong to that person.
 
-Hugh says, “I’m just going to wait it out and let i t blow over.” Hugh isn’t going to do anything, I guess, to make up for forgetting his  girlfriend’s birthday. Big mistake, Hugh. Hugh decides he’s going “to wait (wa it) it out (out).” “To wait it out” means to not do anything, hoping that the situ ation will get better. If you are at your house and it starts to rain and you want to  go somewhere but you think the rain will stop in a short amount of time, you w ill decide probably “to wait it out” – just to wait until the rain ends and then you wil l do what you wanted to do.
+Hugh says, “I’m just going to wait it out and let it blow over.” Hugh isn’t going to do anything, I guess, to make up for forgetting his  girlfriend’s birthday. Big mistake, Hugh. Hugh decides he’s going “to wait (wa it) it out (out).” “To wait it out” means to not do anything, hoping that the situ ation will get better. If you are at your house and it starts to rain and you want to  go somewhere but you think the rain will stop in a short amount of time, you w ill decide probably “to wait it out” – just to wait until the rain ends and then you wil l do what you wanted to do.
 
 Hugh is going to wait it out with his girlfriend, h oping that she will no longer be angry with him in the future. That’s what he means by the expression “to let it blow (blow) over.” “To let something blow over” mea ns to wait until things become better or wait until a problem solves itself . I’m not sure. I’m guessing the expression, however, comes from the idea of a storm , with the big clouds in the sky eventually blowing over, meaning they will even tually leave and things will be better when it comes to the weather.
 
@@ -9290,7 +9290,7 @@ Lupe: Why don’t I get you some hot tea? That always  helps me when I have a po
 
 Eiji: No, I just want to lie here quietly.
 
-Lupe: I know that when I have a tension headache, i t always eases the pain when someone massages my neck and shoulders. Would you like that?
+Lupe: I know that when I have a tension headache, it always eases the pain when someone massages my neck and shoulders. Would you like that?
 
 Eiji: No, I don’t think it’s a tension headache. It  came on suddenly.
 
@@ -9366,7 +9366,7 @@ Lupe: Why don’t I get you some hot tea? That always  helps me when I have a po
 
 Eiji: No, I just want to lie here quietly.
 
-Lupe: I know that when I have a tension headache, i t always eases the pain when someone massages my neck and shoulders. Would you like that?
+Lupe: I know that when I have a tension headache, it always eases the pain when someone massages my neck and shoulders. Would you like that?
 
 Eiji: No, I don’t think it’s a tension headache. It  came on suddenly.
 
@@ -9436,7 +9436,7 @@ Technically you’re not putting the wires into the s ocket. You’re putting so
 
 So, Ben is telling Nicola not to plug something int o a socket. He then says, “You’ll fry that old hair dryer.” The verb “to fry” (fry) h ere means to destroy something or ruin something, especially an electronic device, be cause of an inappropriate or improper amount of electricity used with it. Americ ans who travel to Europe, for example, have to be careful because most European c ountries use a different system of electricity. Here in the United States we  use 110 volts, and in many countries in Europe they use 220 volts.
 
-Well, some older electronic devices don’t work on b oth systems. My electric toothbrush, for example, got fried when I plugged i t in once when I was visiting Europe several years ago. It wasn’t one that you co uld use with the different voltage that was used in that country. So, that’s w hat we mean by “to fry” something. It means the electronic device stops wor king because it has the wrong amount of electricity or type going through i t. A “hair (hair) dryer (dryer)” does what it says it does. It dries your hair. I us ed to have a hair dryer.
+Well, some older electronic devices don’t work on b oth systems. My electric toothbrush, for example, got fried when I plugged it in once when I was visiting Europe several years ago. It wasn’t one that you co uld use with the different voltage that was used in that country. So, that’s w hat we mean by “to fry” something. It means the electronic device stops wor king because it has the wrong amount of electricity or type going through it. A “hair (hair) dryer (dryer)” does what it says it does. It dries your hair. I us ed to have a hair dryer.
 
 Nicola says, “I can’t, anyway,” meaning “I can’t pl ug in to this socket.” She says, “This plug has two prongs and that socket is design ed for three prongs.” A “prong” (prong) is one of those short pieces of met al that comes out of a plug that is used to connect the plug to the socket. In the U nited States, most sockets accept plugs that have two short, flat pieces of me tal. In many other countries the prongs are round, and therefore if you want to plug  something, say, from the United States into another socket in another countr y, you need what’s called an “adapter.”
 
@@ -9796,7 +9796,7 @@ Asta is not interested in all of these issues that Martin is. She says instead, 
 
 Martin says, “You don’t drive a car like the McQ for its storage capacity.” “Storage (storage) capacity (capacity)” is the amou nt of room in something, the amount of space you have to store or put something in. Martin is saying that a
 
-car like the McQ is not one you would buy because i t’s a car you can put a lot of things in. He says, “You drive it for speed.”
+car like the McQ is not one you would buy because it’s a car you can put a lot of things in. He says, “You drive it for speed.”
 
 Asta then says, “My cousin” – that is, the son or d aughter of my aunt or uncle – “doesn’t like it that much. He says it doesn’t have  enough legroom” (legroom). “Legroom” refers to the amount of space in front of  you for your legs. If you travel on an airplane, you know that many airplanes don’t have very much legroom, especially in the cheaper seats, the less expensive  seats, where I go on an airplane. There isn’t a lot of legroom. There isn’t  a lot of space for your legs, especially if you’re a tall person.
 
@@ -10762,7 +10762,7 @@ very tired,” and the person is saying that as a way  of insulting you, you mig
 
 Doris, in other words, is insulting Alan right back  by saying that there is a problem with his hair. She says, “Maybe you should do something different with your hair, like” – or such as – “wash it.” Doris’s saying that Alan hasn’t washed his hair, and so his hair doesn’t look very good ei ther. Alan responds by recognizing or acknowledging that Doris has insulte d him in a clever or funny way. He says, “Oh, burn.” “Burn” (burn) here means insult – words that you use to insult – but he’s using it in a funny way, to be  funny.
 
-He says, however, “That would have been a nice come back if it weren’t so dumb.” A “comeback” (comeback) is something you say  right after another person insults you or says something bad about you.  A “comeback” is supposed to be funny, or we would say “witty” (witty). “Witt y” is funny in an intelligent way, in a clever way. Alan doesn’t think that Doris’s in sult to him was very clever. It wasn’t a good comeback. That’s why he says, “That w ould have been a nice comeback if it weren’t so dumb.” He’s saying that i t was a dumb comeback.
+He says, however, “That would have been a nice come back if it weren’t so dumb.” A “comeback” (comeback) is something you say  right after another person insults you or says something bad about you.  A “comeback” is supposed to be funny, or we would say “witty” (witty). “Witt y” is funny in an intelligent way, in a clever way. Alan doesn’t think that Doris’s in sult to him was very clever. It wasn’t a good comeback. That’s why he says, “That w ould have been a nice comeback if it weren’t so dumb.” He’s saying that it was a dumb comeback.
 
 “Who taught you your one-liners?” A “one – liner” ( liner) is a joke that is only one, maybe two sentences long. Technically a “one-liner”  should just be one sentence, but it is often two or maybe even three s entences. Alan is saying that Doris isn’t very funny. He says, “Who taught you your one-liners? A friend?” Then he says, “Oh, I forgot. You don’t have any,” meanin g “You don’t have any friends” – which is, of course, another insult.
 

@@ -434,7 +434,7 @@ Jaloliddin says, “I think you have a flat tire.” Mi nisa says, “The left r
 
 So the “left rear tire” would be the tire in the ba ck of the car on the left hand side. Minisa says that the tire in the left rear “has a s low leak” (leak). A “leak” is when you have a small hole in something that has either air or liquid in it, that allows the air or liquid to escape, to go out of the conta iner. If a tire has a “slow leak,” as Minisa describes it, it means that air is slowly es caping from the tire, but not so fast that the tire becomes flat.
 
-Minisa says she just inflated the tire the last tim e she was at the gas station. “To inflate” (inflate) in this case means to put air in to something. If your tire is flat, you have to inflate it. You have to put more air into i t. We might also say “blow up” the tire. A “gas station” is a place where you buy gaso line for your car. Typically, gas stations also have air pumps, which are machines th at allow you to inflate a tire.
+Minisa says she just inflated the tire the last tim e she was at the gas station. “To inflate” (inflate) in this case means to put air in to something. If your tire is flat, you have to inflate it. You have to put more air into it. We might also say “blow up” the tire. A “gas station” is a place where you buy gaso line for your car. Typically, gas stations also have air pumps, which are machines th at allow you to inflate a tire.
 
 However, Jaloliddin says, “No, really, I think you need to pull off to the side of the road.” “To pull off to the side of the road” means to take your car and park it along the side of a road or a street so that you are not actually on the main part of the road or street. Minisa says, “We’re on a bus y freeway, but if you insist.” Minisa is pointing out that they’re on a freeway, w hich is a special road where people drive fast – at least, if they can.
 
@@ -564,7 +564,7 @@ Dad continues, “I guess people show grief in differ ent ways.” “Grief” (
 
 Dad says, “I’d like to think of her” – I’d like to imagine her – “as being in heaven and she’s gone to meet her maker.” “Heaven” (heaven ) in many religions is a place where God lives, where you go after you die o r where you may go after you die. According to the theologians in the rock group  the Bangles, “Heaven Is A Place on Earth,” but I don’t think many people beli eve that. The expression “gone to meet your maker” (maker) means that you have die d. It’s another way of saying someone has died and has gone on to meet God . God here being the maker of the world and of all things.
 
-Sarah says, “I don’t think there’s an afterlife for  animals, Dad.” An “afterlife” (afterlife) is a state that your soul is in after i t dies. It’s the idea that you have a soul or spirit that continues living on, or it coul d simply refer to whatever happens to you after you die, whatever continued existence you have. Sarah says, “It’s all just part of the circle of life.” The phrase “circl e of life” is sometimes used to talk about the natural processes of birth, life, and dea th.
+Sarah says, “I don’t think there’s an afterlife for  animals, Dad.” An “afterlife” (afterlife) is a state that your soul is in after it dies. It’s the idea that you have a soul or spirit that continues living on, or it coul d simply refer to whatever happens to you after you die, whatever continued existence you have. Sarah says, “It’s all just part of the circle of life.” The phrase “circl e of life” is sometimes used to talk about the natural processes of birth, life, and dea th.
 
 Dad says, “Okay, I thought we could have a funeral for her so we can pay our respects.” A “funeral” (funeral) is a ceremony that  you hold after someone dies, often intended to honor the person who has died – t o give friends and family a chance to talk about the person, perhaps, or rememb er the person. “To pay your respects” (respects) – notice it’s plural – means t o honor someone’s memory or to remember someone in a nice way by actually going  to his or her funeral.
 
@@ -742,7 +742,7 @@ Hassan: I have no idea what that chicken scratch sa ys.
 
 Lily: I think that’s a “T,” but maybe it’s an “F.”
 
-Hassan: Face it. Those scribbles are illegible. Why  don’t you take a photo of that and email it to her nurse? Maybe she can decipher i t for you.
+Hassan: Face it. Those scribbles are illegible. Why  don’t you take a photo of that and email it to her nurse? Maybe she can decipher it for you.
 
 Lily: I feel like if I just keep at it, I’ll be abl e to work it out.
 
@@ -770,7 +770,7 @@ impossible to read, usually because the handwriting  is very bad. Hassan says, �
 
 “To decipher” (decipher) means to be able to unders tand the meaning of something that has been written in another code or system or even language. “To decipher” something means to figure it out, to be able to understand it. Governments, for example, often communicate using s pecial secret codes that no one else can understand. These are codes, of cou rse, that the country’s enemies try to decipher, try to figure out.
 
-Hassan is referring to the doctor’s writing, not so me special secret code. He recommends getting the doctor’s nurse to decipher i t. Lily says, “I feel like if I just keep at it, I’ll be able to work it out.” A couple of common expressions there. The first one is “to keep at it.” “To keep at it” or “t o keep at” something means to continue to do it even though it is difficult or ch allenging. It’s the opposite of giving up. If you give up, you stop. You quit. If y ou continue working on it even though it’s difficult, we would say you are “keepin g at it.”
+Hassan is referring to the doctor’s writing, not so me special secret code. He recommends getting the doctor’s nurse to decipher it. Lily says, “I feel like if I just keep at it, I’ll be able to work it out.” A couple of common expressions there. The first one is “to keep at it.” “To keep at it” or “t o keep at” something means to continue to do it even though it is difficult or ch allenging. It’s the opposite of giving up. If you give up, you stop. You quit. If y ou continue working on it even though it’s difficult, we would say you are “keepin g at it.”
 
 Lily uses another very common expression: “to work something out.” “To work something out” is to find the answer to some questi on or solution to some problem that is very difficult, that is very challe nging. “To figure something out” is “to work it out.” “To work it out” usually involves  a very complicated problem. If, for example, you like to read detective fiction – n ovels about private investigators and police who investigate crimes – you might be so meone who likes to work out the solution, who tries to figure out who committed  the crime, who committed the murder.
 
@@ -800,7 +800,7 @@ Hassan: I have no idea what that chicken scratch sa ys.
 
 Lily: I think that’s a “T,” but maybe it’s an “F.”
 
-Hassan: Face it. Those scribbles are illegible. Why  don’t you take a photo of that and email it to her nurse? Maybe she can decipher i t for you.
+Hassan: Face it. Those scribbles are illegible. Why  don’t you take a photo of that and email it to her nurse? Maybe she can decipher it for you.
 
 Lily: I feel like if I just keep at it, I’ll be abl e to work it out.
 
@@ -1074,7 +1074,7 @@ Kay is saying that Edison’s imitations and impressi ons are going to be interp
 
 We all know that you can say something to someone t hat would make the person mad or happy depending on the tone. For example, if  you said to your girlfriend, “Oh, you’re crazy,” you say it in such a way that y ou’re kidding or joking and your girlfriend knows it. But if you say to your girlfri end, “You’re crazy,” your girlfriend will probably have a different reaction because you ’re using a different tone in your voice.
 
-Edison says, “It’s a simple parody of how she norma lly addresses the staff.” A “parody” (parody) is an imitation of a person, but usually involves some sort of exaggeration in order to be funny. Normally, we thi nk of this word “parody” as it relates to some performance on a television show or  in a movie where they’re making fun of something in a way that exaggerates i t.
+Edison says, “It’s a simple parody of how she norma lly addresses the staff.” A “parody” (parody) is an imitation of a person, but usually involves some sort of exaggeration in order to be funny. Normally, we thi nk of this word “parody” as it relates to some performance on a television show or  in a movie where they’re making fun of something in a way that exaggerates it.
 
 So, for example, if a politician normally scratches  his head when he talks, a parody of that perhaps would be a comedian who stan ds up and takes both hands and moves them up and down on the sides of hi s head in order to make fun of this politician. The comedian is exaggeratin g it. He’s trying to imitate the person in a way that would be funny. Parody doesn’t  involve just physical actions – it can also be the language you use.
 
@@ -1464,7 +1464,7 @@ I say that once I “turn on,” or start up, “my compu ter and look at my inb
 
 If you are at work and you like to watch cat videos  on YouTube, you might watch one of them and get sucked into watching 10 of them . It’s almost like you are addicted to that particular activity, so you keep d oing it even though you know you shouldn’t be doing that. You can also get sucke d into a “negative situation,” a situation that you don’t want to be a part of. That ’s really what I mean in saying that “I get sucked into reading and responding to e mails.” “Email,” of course, is short for “electronic mail,” and you probably know what that is if you’re listening to this podcast.
 
-I should explain, in the title of this episode, I s ay “reading and processing emails.” The verb “to process” means here to take care of. F or some reason that’s a word that we use in English when we’re talking about loo king at your email and deciding what you want to do with the emails. You m ight delete it – you might get rid of it – you might answer it, or you might put i t aside or do what a lot of people do, simply leave it in your inbox for several days until you finally decide to delete it.
+I should explain, in the title of this episode, I s ay “reading and processing emails.” The verb “to process” means here to take care of. F or some reason that’s a word that we use in English when we’re talking about loo king at your email and deciding what you want to do with the emails. You m ight delete it – you might get rid of it – you might answer it, or you might put it aside or do what a lot of people do, simply leave it in your inbox for several days until you finally decide to delete it.
 
 Some people have hundreds of inbox emails that they  say they’re going to get back to but never do. “To process your emails,” the n, means to look at them and to make a decision about what you’re going to do ab out them. I continue, “I have a personal email account and an email account for w ork. With my work email, I try to take an organized approach.” An “approach” i s the way that you do something, how you handle something.
 
@@ -1490,7 +1490,7 @@ I also say that I “spend a lot of time,” meaning I take a lot of time, “dr
 
  “When reading my personal email, I take my time.” T he expression “to take your time” means to go slowly, not to rush, not to hurry . “Yes,” I say, “I get the usual junk that slips through the spam filters and get em ails I keep meaning to unsubscribe from.” “Junk (junk) email” is email tha t is sent to you that you don’t want. We sometimes call that type of email “spam” ( spam).
 
-A “spam filter” (filter) is a function in your emai l program or your email service that stops those unwanted emails from getting into your inbox. Usually they go into a special folder called a “spam folder.” Somet imes there are emails that you actually want, that the spam filter puts in the spa m folder. Sometimes you need, therefore, to check your spam folder to make sure i t’s not putting things you want into the spam folder instead of your inbox. But usu ally, nowadays, the email programs are pretty good about identifying which em ails are spam and which are ones that you would want.
+A “spam filter” (filter) is a function in your emai l program or your email service that stops those unwanted emails from getting into your inbox. Usually they go into a special folder called a “spam folder.” Somet imes there are emails that you actually want, that the spam filter puts in the spa m folder. Sometimes you need, therefore, to check your spam folder to make sure it’s not putting things you want into the spam folder instead of your inbox. But usu ally, nowadays, the email programs are pretty good about identifying which em ails are spam and which are ones that you would want.
 
 I also talk about “unsubscribing” to newsletters. “ To unsubscribe” (unsubscribe) is to remove your name and email address from a compan y’s or organization’s email list. The opposite of “unsubscribe” is “subsc ribe,” which is to sign up, or to give your information to an organization or company , allowing that organization or company to send you emails about its activities.  “To unsubscribe” is the opposite. It means to get off of those lists, essen tially.
 
@@ -2388,7 +2388,7 @@ But Nathan doesn’t want her to go. He says, “The ni ght is young.” That ex
 
 Bethany wants to go home, but Nathan wants her to s tay. He says, “Let me get you a refill.” The verb “to refill” (refill) means to put more liquid in someone’s glass – in this case, to serve someone another alco holic drink. The noun “refill” refers to that liquid which goes into your glass. B ethany says, “No, I really shouldn’t have another drink. I had a neat drink af ter dinner and I’m still feeling the effects.”
 
-This phrase or term “a neat (neat) drink” is one us ed mostly by what we would call “bartenders” – people who work behind a bar se rving you alcohol in a bar or a pub. A “neat drink” is a drink that is only made of one kind of alcohol. It’s not mixed with anything. It’s not mixed with water or j uice or ice or anything else. So, for example, if you wanted just whisky, you could g et the bartender to give you a small glass of whisky. If it were a “neat drink,” i t wouldn’t have any ice in it.
+This phrase or term “a neat (neat) drink” is one us ed mostly by what we would call “bartenders” – people who work behind a bar se rving you alcohol in a bar or a pub. A “neat drink” is a drink that is only made of one kind of alcohol. It’s not mixed with anything. It’s not mixed with water or j uice or ice or anything else. So, for example, if you wanted just whisky, you could g et the bartender to give you a small glass of whisky. If it were a “neat drink,” it wouldn’t have any ice in it.
 
 Now, I don’t go to bars very much anymore, and to b e honest, I had never heard of this term “neat drink” before today. There’s a s imilar term that I think most Americans would be familiar with, which is “straigh t up.” A drink served “straight up” is also one in which there is no ice or other l iquids. However, the bartender makes the drink cold first by putting ice into it a nd then taking it out, basically. So, that’s the difference between a “neat drink” and a drink “straight up.”
 
@@ -2762,7 +2762,7 @@ Paul then explains the games, the contests they’re going to have. He says, “
 
 The most common collect-and-win promotion that I re member, growing up anyway, was bottle caps. Coca-Cola and other sodas often came in glass bottles, and on the top of the bottle would be a covering – what we would call a “cap” (cap). Sometimes stores would have a promotion in w hich if you brought in, say, 25 or 50 of these caps, you would get a prize. That ’s an example of a “collect- and-win.” You go out and collect something, and the n you win a prize for turning in all of those things to the company, to the store .
 
-This of course encourages you to go out and buy mor e things that would have these numbers. That’s how the company sells more of  these things. Paul continues, “People collect codes printed on our pro ducts.” A “code” (code) is a series of letters and/or numbers that are used for some specific purpose. In this case, the company puts these codes on things that i t sells, and you can collect them in order to get a prize.
+This of course encourages you to go out and buy mor e things that would have these numbers. That’s how the company sells more of  these things. Paul continues, “People collect codes printed on our pro ducts.” A “code” (code) is a series of letters and/or numbers that are used for some specific purpose. In this case, the company puts these codes on things that it sells, and you can collect them in order to get a prize.
 
 I just thought of another collect-and-win promotion  that uses codes: Starbucks, the coffee company, sells coffee in the stores. You  can buy their coffee to make Starbucks coffee at home. When you buy a package of  their coffee, often it has a little sticker on it, a little piece of paper, the back of which has a code on it. And if
 
@@ -2866,7 +2866,7 @@ The word “sensory” (sensory) relates to the five se nses: taste, touch, smel
 
 understand what I mean by that.) Moustafa continues , “I can see, hear, feel, and nearly taste this 3-D simulation.” Well, I doubt he  can feel anything although it’s possible.
 
-A “3-D simulation” is “three-dimensional” – “three- dimensional” refers to height, length, and width. Of course, it only seems as if i t were 3-D. The real world is 3- D. But when you watch a movie – even a movie with v irtual reality goggles – it isn’t actually in three dimensions. It just seems a s if it were. A “simulation” is a situation where you’re making something seem as if it were real even though it isn’t. Tatiana is confused. She says, “I don’t see how it can do that.”
+A “3-D simulation” is “three-dimensional” – “three- dimensional” refers to height, length, and width. Of course, it only seems as if it were 3-D. The real world is 3- D. But when you watch a movie – even a movie with v irtual reality goggles – it isn’t actually in three dimensions. It just seems a s if it were. A “simulation” is a situation where you’re making something seem as if it were real even though it isn’t. Tatiana is confused. She says, “I don’t see how it can do that.”
 
 Moustafa replies, “With the help of these goggles a nd headphones, this computer program re-creates what it’s like to actually be in  a particular place, at a particular time.” “Headphones” are things you put over your ea rs in order to hear music or some other sound that has been recorded. The verb “ to recreate” (recreate) means to copy how something happened or how somethi ng was done to give someone a similar experience.
 
@@ -3290,7 +3290,7 @@ Now, the reason that we give these vaccines to chil dren is most of these diseas
 
 Jenny isn’t so sure that she wants to have her daug hter getting these vaccines. She says, “But when I looked at the list, there wer e a few I didn’t recognize – diphtheria, hepatitis, and rubella. Who knows what our kids are getting?” Jenny
 
-mentions three other diseases that children might b e vaccinated against. “Diphtheria” (diphtheria) is a disease that makes i t difficult for a person to swallow. It often causes what we would call a “sore  (sore) throat.” If you have a sore throat, it’s difficult for you to swallow. “Di phtheria” often results in a fever as well.
+mentions three other diseases that children might b e vaccinated against. “Diphtheria” (diphtheria) is a disease that makes it difficult for a person to swallow. It often causes what we would call a “sore  (sore) throat.” If you have a sore throat, it’s difficult for you to swallow. “Di phtheria” often results in a fever as well.
 
 “Hepatitis” (hepatitis) is a disease that can damag e your liver. Your liver is a very important organ or part of your body. The third dis ease Jenny mentions is “rubella” (rubella). “Rubella,” when I was growing up, was called “German measles.” It’s a disease that also produces a red r ash or spot or area on your skin and produces a fever, much like measles does.
 
@@ -3306,7 +3306,7 @@ Jonas says if Jenny doesn’t get her children vaccin ated, she would be putting
 
 What does it mean “to bar” (bar) someone from somet hing? It means to prevent someone from being able to do something or from bei ng able to go somewhere. This is the verb “to bar.” It’s not related in mean ing to the noun “bar,” which is a place you go and have an alcoholic drink – what I’l l be doing right after I finish this recording. Well, no. I’m just kidding. It’s on ly 11 o’clock in the morning, a little early for me for going to a bar.
 
-Jenny says, “I call that irresponsible!” The school  is not going to allow children who don’t get these vaccines to study in the school , to attend school. Jenny thinks that’s irresponsible. “Irresponsible” means “not responsible.” It means not doing the things that you should do. Jenny thinks i t’s irresponsible of the school to bar children from attending because they haven’t  been vaccinated.
+Jenny says, “I call that irresponsible!” The school  is not going to allow children who don’t get these vaccines to study in the school , to attend school. Jenny thinks that’s irresponsible. “Irresponsible” means “not responsible.” It means not doing the things that you should do. Jenny thinks it’s irresponsible of the school to bar children from attending because they haven’t  been vaccinated.
 
 But Jonas thinks the exact opposite. He says, “That ’s exactly the word that came to my mind,” meaning that’s the same word that I th ought of when I thought about what you’re doing, Jenny, by not getting your child ren immunized.
 
@@ -4078,9 +4078,9 @@ This expression is not one that you would want to u se unless you knew the perso
 
 Continuing on, then, Carol says, “I wouldn’t put it  like that,” meaning I wouldn’t express it like that, “but breakdowns in communicat ion are inevitable and it’s always helpful to be able to trace their source.” A  “breakdown (breakdown) in communication” is when two people or two groups of people misunderstand each other – when the message that one group is trying t o communicate to the other is not understood correctly.
 
-Something that is “inevitable” (inevitable) is some thing that you cannot avoid, something that will happen even if you don’t want i t to happen or even if you try to prevent it from happening. Death is inevitable. You are all going to die, just like I am. It’s something you can’t avoid. There. Isn’t that a happy thought? Don’t you feel better now? You’re going to die.
+Something that is “inevitable” (inevitable) is some thing that you cannot avoid, something that will happen even if you don’t want it to happen or even if you try to prevent it from happening. Death is inevitable. You are all going to die, just like I am. It’s something you can’t avoid. There. Isn’t that a happy thought? Don’t you feel better now? You’re going to die.
 
-Anyway, Carol says, “It’s always helpful to be able  to trace (trace) their source.” “To trace” means to follow the path or development of something. In this case, really it means to identify the source, to find out  where the breakdown in communication took place. That’s why Carol thinks i t’s better to leave a paper
+Anyway, Carol says, “It’s always helpful to be able  to trace (trace) their source.” “To trace” means to follow the path or development of something. In this case, really it means to identify the source, to find out  where the breakdown in communication took place. That’s why Carol thinks it’s better to leave a paper
 
 trail. You can see when there is a miscommunication , where that happened. If you just talk to someone on the telephone, unless y ou are recording the conversation, you can’t figure out where the proble m was, perhaps.
 
@@ -5868,7 +5868,7 @@ Rashed: I need to inspect every part of this factor y. Please step aside.
 
 Kathy Lee: If you insist.
 
-Rashed: You have people working on this floor and i t’s not structurally sound, and certainly not intended for heavy manufacturing.  This attic was never meant for industrial use.
+Rashed: You have people working on this floor and it’s not structurally sound, and certainly not intended for heavy manufacturing.  This attic was never meant for industrial use.
 
 Kathy Lee: It’s only temporary . . .
 
@@ -5906,7 +5906,7 @@ Rashed, we’re guessing, walks up the stairs and see s this level, this floor, 
 
 The floor that Rashed is on is “not intended for he avy manufacturing.” “Manufacturing” comes from the verb “to manufacture ” (manufacture). “To manufacture” means to make something – again, to ma ke something physical, like a chair or a computer or a piece of clothing. “Manufacturing,” then, refers to the process of making something. “Heavy (heavy) man ufacturing” is making something that is very large, such as perhaps a car , or it could also refer to a large machine that is used to make something, and t he machine itself might be heavy and therefore require a building that is stro ng enough to hold it.
 
-Rashed says, “This attic was never meant for indust rial use.” Rashed and Kathy Lee are apparently in the attic of this building. A n “attic” (attic) is an area just below the roof of a building that is not normally u sed for anything, or perhaps is used only for storage, but in Kathy Lee’s factory i t’s being used to make things. That’s why Rashed says, “This attic was never meant  for,” or designed for, “industrial use” – that is, to be used to make thin gs, to be used as part of a factory.
+Rashed says, “This attic was never meant for indust rial use.” Rashed and Kathy Lee are apparently in the attic of this building. A n “attic” (attic) is an area just below the roof of a building that is not normally u sed for anything, or perhaps is used only for storage, but in Kathy Lee’s factory it’s being used to make things. That’s why Rashed says, “This attic was never meant  for,” or designed for, “industrial use” – that is, to be used to make thin gs, to be used as part of a factory.
 
 Kathy Lee insists, however, that “It’s only tempora ry,” meaning she’s only using this part of the building for a short period of tim e. Rashed then goes on to explain why this part of her factory is not safe. He says, “There are no fire escapes, fire extinguishers, or emergency exits.” Let’s start wit h that last term, “emergency exits.” An “exit” is a way to get out of the room o r a building. An “emergency exit” is a door or window you use to escape a building th at perhaps has a fire inside of it. It’s a way of getting out of a building or a ho use quickly.
 
@@ -5946,7 +5946,7 @@ Rashed: I need to inspect every part of this factor y. Please step aside.
 
 Kathy Lee: If you insist.
 
- Rashed: You have people working on this floor and i t’s not structurally sound, and certainly not intended for heavy manufacturing.  This attic was never meant for industrial use.
+ Rashed: You have people working on this floor and it’s not structurally sound, and certainly not intended for heavy manufacturing.  This attic was never meant for industrial use.
 
 Kathy Lee: It’s only temporary . . .
 
@@ -6522,7 +6522,7 @@ Suzanna: Good idea. If I have more than one, maybe I won’t care so much where 
 
 [end of dialogue]
 
-Suzanna begins our dialogue by asking Kenji, “Remin d me why we’re staying in this fleabag motel in the seedy part of town?” When  someone begins a question with “Remind me why” or “Remind me,” usually the pe rson is not very happy with the situation, or perhaps confused about something – something he doesn’t understand. For example, if you go to a movie and i t’s a really bad movie, a movie recommended by your friend, you may say to your friend, “Remind me why we’re watching this stupid movie?” You’re criti cizing, of course, your friend’s choice.
+Suzanna begins our dialogue by asking Kenji, “Remin d me why we’re staying in this fleabag motel in the seedy part of town?” When  someone begins a question with “Remind me why” or “Remind me,” usually the pe rson is not very happy with the situation, or perhaps confused about something – something he doesn’t understand. For example, if you go to a movie and it’s a really bad movie, a movie recommended by your friend, you may say to your friend, “Remind me why we’re watching this stupid movie?” You’re criti cizing, of course, your friend’s choice.
 
 That’s what Suzanna is doing here. She’s in effect criticizing Kenji for having them stay in this “fleabag motel.” A “motel” (motel ) is like a hotel but it’s usually smaller and less expensive. The “m,” I believe, ori ginally comes from “motor,” meaning it was a hotel that was designed for people  who were and are traveling by car. Usually a motel has doors that face out or that look out onto the parking lot where the cars are.
 
@@ -6642,7 +6642,7 @@ Alexei says. “At least you didn’t call him ‘Rabbi.’ ” A “rabbi” (r
 
 Mary says that she didn’t know she’d need a “crash course.” A “crash (crash) course” is a very short, usually what we might desc ribe as “intense,” period of studying about something or learning about somethin g, usually because you need to know something right away in order to do so mething or to perform some action.
 
-For example, if you get a new computer and the comp uter has software that you have never used before and you have to use it tomor row to do something, you may decide to take a “crash course” in how to use i t. You may decide to spend many hours tonight studying on how to use this part icular software. That would be an example of a “crash course” – when you have t o learn something very quickly.
+For example, if you get a new computer and the comp uter has software that you have never used before and you have to use it tomor row to do something, you may decide to take a “crash course” in how to use it. You may decide to spend many hours tonight studying on how to use this part icular software. That would be an example of a “crash course” – when you have t o learn something very quickly.
 
 “Religious leaders” refer to leaders of particular religions. “Religions” are systems of belief that usually talk about the meaning of li fe and the origins of life. I think most people know what religion is. Mary says that s he didn’t know she needed to take a crash course on identifying, or figuring out , religious leaders from their dress. “From their dress” means how they are dresse d. She means that she doesn’t know how to identify religious leaders just  looking at the way they are dressed because different religious leaders often d ress differently.
 
@@ -6864,11 +6864,11 @@ For example, if you’re a basketball player and you’ re scoring a lot of poin
 
 Back to the dialogue. Akim says, “You must have ver y sensitive taste buds.” “Taste buds” (buds) are those points on your tongue  and in the inside of your mouth that can sense the taste of food. We call tho se “taste buds.” Akim says,
 
-“This,” meaning this curry, “has a little kick to i t.” When we describe food as having “a little kick (kick) to it,” we mean it’s a  little bit spicy. It’s not very spicy.
+“This,” meaning this curry, “has a little kick to it.” When we describe food as having “a little kick (kick) to it,” we mean it’s a  little bit spicy. It’s not very spicy.
 
 Akim says, “The food is pungent and zesty, but it’s  not too spicy.” “Pungent” (pungent) means having a very strong smell or taste . “Zesty” (zesty) usually refers to food that has a slightly spicy flavor. It ’s mild but it’s a little bit spicy. Wendy says, jokingly perhaps, to Akim, “You must ha ve no taste buds at all if you think this is mild. My mouth needs to cool down  from all that heat. I need more water – now!” Wendy says that Akim must not ha ve any taste buds if he doesn’t think this food is spicy.
 
-She says, “My mouth needs to cool down from all tha t heat.” “To cool down” means to lower the temperature of something. Here i t just means to feel less of the burning sensation. “Heat” (heat), again, means here something that is caused by very spicy food. People often drink water after they eat spicy food thinking that that will cool down their mouth and make the sensat ion of the burning disappear. I’m not sure if that actually happens, but people d o it. I heard somewhere that if you put salt in your mouth, that will help with the  burning sensation. I don’t know. Don’t ask me. I’m not an expert.
+She says, “My mouth needs to cool down from all tha t heat.” “To cool down” means to lower the temperature of something. Here it just means to feel less of the burning sensation. “Heat” (heat), again, means here something that is caused by very spicy food. People often drink water after they eat spicy food thinking that that will cool down their mouth and make the sensat ion of the burning disappear. I’m not sure if that actually happens, but people d o it. I heard somewhere that if you put salt in your mouth, that will help with the  burning sensation. I don’t know. Don’t ask me. I’m not an expert.
 
 Anyway Akim tells Wendy not to “fill up on water” b ecause he’s made a special dessert. “To fill up on” something means to eat or drink a lot of something, so much so that you’re no longer hungry. If you are go ing to someone’s house for dinner and you have, say, a bag of Macadamia nuts ( which are my favorite kind of nuts, by the way, in case anyone’s looking for a  Christmas present to buy me), you don’t want to eat all of your bag of nuts. You don’t want to fill up on the macadamia nuts, because then you won’t be hungry for the dinner that you are going to go and eat, or are supposed to eat.
 
@@ -6966,7 +6966,7 @@ The phrasal verb “to wrestle (wrestle) with” someth ing means to debate or t
 
 “Ethics” relates to the application of those moral principles to perhaps specific situations, determining whether you should do somet hing or not do something. However, having said that, ethics could also refer to those same moral principles that people use to determine whether something is r ight or wrong, just or unjust.
 
-In modern American English, my guess is that many p eople would associate morality with a religious point of view and ethics with, not necessarily an areligious point of view, but one that may not be b ased on a religious belief system. But that’s a very general way of defining i t that not everyone may agree with. This is philosophy, after all. People disagre e about things like this.
+In modern American English, my guess is that many p eople would associate morality with a religious point of view and ethics with, not necessarily an areligious point of view, but one that may not be b ased on a religious belief system. But that’s a very general way of defining it that not everyone may agree with. This is philosophy, after all. People disagre e about things like this.
 
 Francis says, “It’s not always easy trying to do the right thing.” Rene says, “I can understand that but could you get me . . .” And the n Francis interrupts her and continues, “But then I think that perhaps the only thing that matters in life,” that’s important in life, “are esthetics and I should devo te my life to creating beauty.” Francis says perhaps the only thing important in li fe, that matters in life, are “esthetics” (esthetics). “Esthetics” refers to the study of beauty, of appreciating beauty in other things and in other people. Francis  thinks he should devote his life to creating beauty.
 
@@ -7394,7 +7394,7 @@ Albert: You mean an alternate spelling for “Michael ”? People don’t know h
 
 Celeste: Well, are there any names you do like?
 
-Albert: Albert Eckleman Junior has a nice ring to i t.
+Albert: Albert Eckleman Junior has a nice ring to it.
 
 Celeste: As you say, we have months to decide. Let’ s keep an open mind.
 
@@ -7484,7 +7484,7 @@ Albert: You mean an alternate spelling for “Michael ”? People don’t know h
 
 Celeste: Well, are there any names you do like?
 
-Albert: Albert Eckleman Junior has a nice ring to i t.
+Albert: Albert Eckleman Junior has a nice ring to it.
 
 Celeste: As you say, we have months to decide. Let’ s keep an open mind.
 
@@ -9896,13 +9896,13 @@ Well, Jon is apparently trying to take some food ou t of a trash container, whic
 
 “Tired” (tired) usually means the same as sleepy – of not having a lot of energy. But “tired vegetables” would refer to older vegetab les that start to look like they aren’t very fresh, that you may not want to eat the m. But Jon says it’s okay to eat
 
-tired vegetables – vegetables that are older. He al so says it’s okay to eat “bruised (bruised) fruit.” If fruit is “bruised,” i t has small dark spots on the skin and is usually soft in those particular spots, those ar eas. If you have a banana that’s bruised, it will often be black because of the brui se, and it will be soft when you touch it.
+tired vegetables – vegetables that are older. He al so says it’s okay to eat “bruised (bruised) fruit.” If fruit is “bruised,” it has small dark spots on the skin and is usually soft in those particular spots, those ar eas. If you have a banana that’s bruised, it will often be black because of the brui se, and it will be soft when you touch it.
 
 Jon says it’s okay to eat bruised fruit. Marta says , “Fine, but not once they’ve been discarded.” She’s saying maybe it’s okay to ea t tired vegetables and bruised fruit, but not once they have been “discard ed” (discarded). “To discard” means to throw something away – to put something, i n this case, in the garbage container. She then tells Jon, “Stay out of my tras h,” meaning don’t go looking in my trash container and taking things out of it. “To  stay out of” someplace means not to go there or not to go in there.
 
 Jon then asks her, “What are you going to do with t his graying meat?” “Graying” (graying) comes from the color “gray” (gray). Meat can turn gray when it gets old, and it’s usually a sign you don’t want to eat it. T hat’s why Marta says, “I was going to throw that out, too.” She was going to get  rid of the graying meat. But Jon says, “I’ll take it. I’m sure I can make someth ing edible with it.” “Edible” (edible) means able to be eaten, something you can eat without getting sick.
 
-Jon thinks he can take this graying meat, this old meat, and make something out of it, cook something that would allow him to eat i t. I’m not so sure. Neither is Marta. She says, “You can’t be serious,” meaning yo u must be joking. “I’m all for,” meaning I’m in favor of, “doing my part.” “To  do your part” means to help in a group effort or to do your fair share of the work.
+Jon thinks he can take this graying meat, this old meat, and make something out of it, cook something that would allow him to eat it. I’m not so sure. Neither is Marta. She says, “You can’t be serious,” meaning yo u must be joking. “I’m all for,” meaning I’m in favor of, “doing my part.” “To  do your part” means to help in a group effort or to do your fair share of the work.
 
 If someone says, “I want to do my part,” that perso n wants to help the group do something. Not everything, but what that person thi nks would be his responsibility or his part of the work that needs t o be done. Marta wants to do her part to stop wasting food. But she says, “I draw the line at eating spoiled meat.” The expression “to draw (draw) the line” means to i ndicate that you will not do anything beyond a certain point. You are indicating  the limits of something. You are saying how much you will accept and what you wo n’t accept.
 
@@ -10188,7 +10188,7 @@ This is English as a Second Language Podcast episod e 1,196. I’m your host, Dr
 
 Go to ESLPod.com and become a member of ESL Podcast . When you do, you can download the Learning Guide for this episode on  our website. We also have additional courses in Business English and Daily En glish that I think you will enjoy. And like us on Facebook, if you haven’t alre ady. Go to facebook.com/eslpod.
 
-This dialogue is about making sure you have your fa cts correct, as well as numbers, that are part of your report or whatever i t is you are working on. Let’s get started.
+This dialogue is about making sure you have your fa cts correct, as well as numbers, that are part of your report or whatever it is you are working on. Let’s get started.
 
 [start of dialogue]
 

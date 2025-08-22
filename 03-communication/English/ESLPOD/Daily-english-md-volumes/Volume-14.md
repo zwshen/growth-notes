@@ -50,9 +50,9 @@ Winnie then says, “Unbelievable.” Something that is  “unbelievable” coul
 
 Winnie that her parents “get on her case all the ti me,” meaning constantly. They’re always criticizing her or telling her what she is doing wrong. Finn says the same thing happens to him. Poor Finn. Finn says , “Yeah! My mom is always nagging me to do my homework.” “To nag” is similar to “to get on your case,” however, “to nag” usually has the meaning of to be reminding someone all the time about something he is supposed to do.
 
-A wife may “nag” her husband to do the dishes. If t he husband doesn’t do them when she asks him to do them, she may say, “Could y ou please do the dishes now,” and then 10 minutes later, “When are you goin g to do the dishes?” and then 20 minutes later, “How come you haven’t done t he dishes yet?” That would be “to nag.” Of course, a husband can nag a wife as  well, though he won’t remain her husband very long if he does.
+A wife may “nag” her husband to do the dishes. If the husband doesn’t do them when she asks him to do them, she may say, “Could y ou please do the dishes now,” and then 10 minutes later, “When are you goin g to do the dishes?” and then 20 minutes later, “How come you haven’t done the dishes yet?” That would be “to nag.” Of course, a husband can nag a wife as  well, though he won’t remain her husband very long if he does.
 
-In any case, Finn is complaining about his mother n agging him to do his “homework” – that is, the work that he is supposed to do from the classes he takes at school. Finn says his mother nags him to d o his homework and then complains that he spends too much time by himself i n his room.
+In any case, Finn is complaining about his mother n agging him to do his “homework” – that is, the work that he is supposed to do from the classes he takes at school. Finn says his mother nags him to d o his homework and then complains that he spends too much time by himself in his room.
 
 Finn says his mother “complains.” “To complain” (co mplain) means to show that you are unhappy about something, to say what you do n’t like about a certain person or a certain thing or a situation. Finn’s mo ther complains that Finn spends too much time by himself in his room rather than be ing with his family, although she also tells him he is supposed to do his homewor k. So, he’s a little confused and I understand that.
 
@@ -60,7 +60,7 @@ Winnie says, “At least your parents don’t tell you what you can wear. My mom
 
 verb meaning to select. She then tries to be funny by saying, “What am I, five?” meaning “Does she think I’m five years old and I ne ed for her to pick out my clothing?”
 
-Finn says, “My parents are worse. They’re always co mparing me to my smarter brothers.” “To compare” means to show how two diffe rent things are similar, although we would sometimes use this also to mean t o show how they are different. Some people use a different verb, “to co ntrast” (contrast), to mean to show how two things are different. “To compare” wou ld mean to show how they are similar, but in conversational English, we ofte n use “to compare” to mean either to show how things are the same or how they are different.
+Finn says, “My parents are worse. They’re always co mparing me to my smarter brothers.” “To compare” means to show how two diffe rent things are similar, although we would sometimes use this also to mean to show how they are different. Some people use a different verb, “to co ntrast” (contrast), to mean to show how two things are different. “To compare” wou ld mean to show how they are similar, but in conversational English, we ofte n use “to compare” to mean either to show how things are the same or how they are different.
 
 Finn’s parents compare him to his more intelligent or “smarter” brothers. “I’m a huge disappointment to them,” he says. “To be a dis appointment” means to not do as well as someone hopes that you will do, or to  not be as smart, in this case, as your parents hoped that you would be. Many of us  are disappointments to our parents, I’m sure, just as our parents were probabl y disappointments to their parents.
 
@@ -70,7 +70,7 @@ Winnie says, “My parents are never satisfied either .” “To be satisfied”
 
 Finn says, “At least your parents don’t embarrass y ou by fighting all the time, even in public.” Notice that several times in this dialogue, our characters say “at least.” This is often used as a way of introducing a statement that will be even worse than the situation that you just described. F or example, someone may say, “I’m really tired and I have to work all day.” Some one else will say, “Well, at least you get to go home to a nice house when you’re done  working. I have to work all day and I have to go visit my mother-in-law when I’ m done working.” He’s saying that his situation is even worse than your bad situ ation.
 
- Finn says that his situation is worse than Winnie’s  because his parents “embarrass” him. “To embarrass” (embarrass) means t o make another person feel strange or ashamed or self-conscious. People o ften talk about “being embarrassed,” meaning that they feel strange becaus e they’re in a situation where perhaps they are shown to be unusual or uncom fortable. Finn’s parents embarrass him by fighting, by disagreeing, “even in  public,” meaning when other people they don’t know are around or are present in  the same room.
+ Finn says that his situation is worse than Winnie’s  because his parents “embarrass” him. “To embarrass” (embarrass) means to make another person feel strange or ashamed or self-conscious. People o ften talk about “being embarrassed,” meaning that they feel strange becaus e they’re in a situation where perhaps they are shown to be unusual or uncom fortable. Finn’s parents embarrass him by fighting, by disagreeing, “even in  public,” meaning when other people they don’t know are around or are present in  the same room.
 
 Winnie says, “We have such hard lives,” meaning we have very difficult lives. “Nobody understands us.” Finn says, “I know. Nobody  in history,” meaning no one ever before this time, “has ever suffered as mu ch as we have.” “To suffer” (suffer) means to experience some pain, either phys ical or in this case emotional. Winnie and Finn, like many teenagers, believe that their lives are the most difficult lives anyone has ever had to live.
 
@@ -114,7 +114,7 @@ Welcome to English as a Second Language Podcast num ber 1,303 – Disputing an I
 
 This is English as a Second Language Podcast episod e 1,303. I’m your host, Dr. Jeff McQuillan, coming to you from the Center for E ducational Development in beautiful Los Angeles, California.
 
-Go to ESLPod.com for more information about us. Thi s episode is a dialogue between Regina and Bob about a problem with Bob’s b ill – the indication of how much he should pay a certain company. Let’s get sta rted.
+Go to ESLPod.com for more information about us. This episode is a dialogue between Regina and Bob about a problem with Bob’s b ill – the indication of how much he should pay a certain company. Let’s get sta rted.
 
 [start of dialogue]
 
@@ -172,7 +172,7 @@ Bob says, “Look, I just want to get this sorted out .” “To sort (sort) out
 
 wants to sort out this problem. Why? Because he doe sn’t want his service with this company, whatever this company does for him, “ to be disconnected.”
 
-It sounds like Horizon is a phone company, no relat ion to an actual phone company here in the United States called “Verizon.”  No relation at all. The service that Bob gets, we’re guessing his telephone  service, “may get disconnected.” “To disconnect” (disconnect) means t o stop providing service to someone. We usually use this verb “to connect” and the opposite, “to disconnect,” when we’re talking about telephone ser vice. If your telephone service gets “disconnected,” you no longer have it.  The company will no longer provide you that service.
+It sounds like Horizon is a phone company, no relat ion to an actual phone company here in the United States called “Verizon.”  No relation at all. The service that Bob gets, we’re guessing his telephone  service, “may get disconnected.” “To disconnect” (disconnect) means to stop providing service to someone. We usually use this verb “to connect” and the opposite, “to disconnect,” when we’re talking about telephone ser vice. If your telephone service gets “disconnected,” you no longer have it.  The company will no longer provide you that service.
 
 Regina says, “I understand. Your bill may reflect c hanges you made to your usage plan, such as upgrading to a more expensive p lan.” Regina is saying that, in effect, Bob is wrong. She says that perhaps the bill, that has a much higher cost than Bob says it should, just “reflects change s” he’s made to his usage plan. “To reflect” (reflect) means to show or to indicate  or to result from. Regina is saying that perhaps Bob made changes to his “usage (usage) plan.”
 
@@ -186,7 +186,7 @@ Every month, most people are allotted a certain num ber of minutes or a certain 
 
 your phone by the phone company. They give you a ce rtain amount that you can use. Bob complains, however, that he has not gone o ver his limit – the maximum amount that he can use. “Can my case be escalated s o that I can speak with a supervisor?” he asks.
 
-When you are talking to a company, usually the firs t person you talk to works for the company but may not have a lot of power to chan ge things, especially if you are disputing your bill. That’s why Bob asks for hi s “case,” meaning his problem, “to be escalated” (escalated). “To escalate” nowada ys means to have your complaint given to someone with more authority or m ore power in the company.
+When you are talking to a company, usually the firs t person you talk to works for the company but may not have a lot of power to chan ge things, especially if you are disputing your bill. That’s why Bob asks for his “case,” meaning his problem, “to be escalated” (escalated). “To escalate” nowada ys means to have your complaint given to someone with more authority or m ore power in the company.
 
 I don’t remember this verb when I was growing up to  be used in this case, but nowadays, especially when a lot of what we call “cu stomer service” – where a company takes care of problems for customers or cli ents – is done over the telephone, we now have this verb of “escalating a p roblem” – making someone responsible for it who has more power than the firs t person you talk to in a company.
 
@@ -268,9 +268,9 @@ Gina: I’ll remember that the next time I speak to a  group of 10-year-olds!
 
 [end of dialogue]
 
-Gina begins our dialogue by saying to Mark, “I woul d like to begin by expressing my gratitude to all the people who have helped me a long the way.” “To express” (express) your thoughts, or feelings, or emotions i s to show them or display them, or perhaps do something to let someone know w hat your thoughts or feelings are. The term “gratitude” (gratitude) mean s a feeling of thankfulness, of being happy that something good has happened to you  and specifically being thankful to another person or perhaps a situation t hat has given you these good things.
+Gina begins our dialogue by saying to Mark, “I woul d like to begin by expressing my gratitude to all the people who have helped me a long the way.” “To express” (express) your thoughts, or feelings, or emotions is to show them or display them, or perhaps do something to let someone know w hat your thoughts or feelings are. The term “gratitude” (gratitude) mean s a feeling of thankfulness, of being happy that something good has happened to you  and specifically being thankful to another person or perhaps a situation t hat has given you these good things.
 
-Nowadays people talk about “gratitude” as being thi s feeling of thankfulness or this idea of thanking someone for the good things t hat have happened to them. Logically, you have to be thankful to someone, but many people talk about gratitude in a, I guess you might say, “impersonal sense,” or a way that doesn’t necessarily imply a specific person giving them cer tain things. People say, “I am grateful for this” or “I am grateful for that.” “Gr ateful” (grateful) means being thankful for something. We often don’t say to whom we are grateful.
+Nowadays people talk about “gratitude” as being this feeling of thankfulness or this idea of thanking someone for the good things t hat have happened to them. Logically, you have to be thankful to someone, but many people talk about gratitude in a, I guess you might say, “impersonal sense,” or a way that doesn’t necessarily imply a specific person giving them cer tain things. People say, “I am grateful for this” or “I am grateful for that.” “Gr ateful” (grateful) means being thankful for something. We often don’t say to whom we are grateful.
 
 In any case, Gina is expressing her gratitude to a certain group of people. She’s actually thanking the people who have helped her “a long the way.” “Along the way” is an expression meaning over a period of time , or as you are trying to reach a certain goal or a certain point in your lif e. Mark interrupts Gina, who it seems is practicing a speech – a talk that she’s go ing to be giving to a group of people. He says, “You’re not going to start your sp eech with that boring opening, are you?”
 
@@ -300,7 +300,7 @@ It’s an informal expression, “to give props to.” Yo u’ll sometimes hear 
 
 Mark also says that Gina should just “give a shout- out to the people who have helped.” That’s another informal expression you wil l sometimes hear younger people use. A “shout- out” means I’m saying “hello”  to. A “shout (shout) – out (out)” is an informal expression, to be sure. “To g ive a shout out” is the expression, actually.
 
-Mark says that then Gina should jump off the stage and walk through the audience “to high-five everybody.” “To high (high) – five (five)” someone is to put your hand up as they put their hand up, their arm i n the air, and you hit each other’s hand. You hit their hand, or his hand or he r hand, as a way of showing excitement or as a way, in this case, of thanking t he people. Mark is suggesting a very unusual, informal way of thanking people.
+Mark says that then Gina should jump off the stage and walk through the audience “to high-five everybody.” “To high (high) – five (five)” someone is to put your hand up as they put their hand up, their arm in the air, and you hit each other’s hand. You hit their hand, or his hand or he r hand, as a way of showing excitement or as a way, in this case, of thanking the people. Mark is suggesting a very unusual, informal way of thanking people.
 
 Gina says, “I’ll remember that,” meaning I will thi nk of your advice, “the next time I speak to a group of 10-year-olds!” Gina is sort of making a joke here. She’s saying that what Mark is suggesting is more appropr iate for giving a speech to a
 
@@ -360,7 +360,7 @@ Lucy: Stop! Listen, what I want to express is a fon d farewell and optimism for 
 
 Jeff: Ah, okay! Then you should say: Tomorrow is the first day of the rest of my life! I’m off to bigger and better things! I’m blow ing this pop stand!
 
-Lucy: No, no, no. That’s not right at all. I want t o end with some meaningful parting words, something sincere, something from my  heart.
+Lucy: No, no, no. That’s not right at all. I want to end with some meaningful parting words, something sincere, something from my  heart.
 
 Jeff: Like, “May the force be with you”?
 
@@ -404,7 +404,7 @@ Lucy begins our dialogue by saying, “I don’t know h ow to say goodbye.” I 
 
 Another much more informal way of saying goodbye is  “I am outta here.” “I am outta (outta) here” is something of an abbreviated way of saying, “I am out of here.” “To be out of here” is a way of saying “I’m leaving quickly,” often because I no longer want to be here, though that isn’t always  the case. If someone says,
 
-“I’m outta here,” he may be saying, “This is a bad situation and I no longer want to be here.” Said in a different context, perhaps i n a different way, it just means goodbye. If you are, for example, talking to a frie nd and you look at your clock and you realize you have to get home now, you say, “Well, I’m outta here. I gotta get home.” I have to return to my house.
+“I’m outta here,” he may be saying, “This is a bad situation and I no longer want to be here.” Said in a different context, perhaps in a different way, it just means goodbye. If you are, for example, talking to a frie nd and you look at your clock and you realize you have to get home now, you say, “Well, I’m outta here. I gotta get home.” I have to return to my house.
 
 The next two expressions that I use are from songs,  really, and they are expressions of saying goodbye or of leaving from a couple of different popular songs. One of them is “I’m leaving on a jet (jet) p lane.” This comes from an old song called, appropriately enough, “I’m Leaving on a Jet Plane.” It was a song sung by the folk group back in the 1960s, Peter, Pa ul, and Mary.
 
@@ -464,7 +464,7 @@ Lucy: Stop! Listen, what I want to express is a fon d farewell and optimism for 
 
 Jeff: Ah, okay! Then you should say: Tomorrow is the first day of the rest of my life! I’m off to bigger and better things! I’m blow ing this pop stand!
 
-Lucy: No, no, no. That’s not right at all. I want t o end with some meaningful parting words, something sincere, something from my  heart.
+Lucy: No, no, no. That’s not right at all. I want to end with some meaningful parting words, something sincere, something from my  heart.
 
 Jeff: Like, “May the force be with you”?
 

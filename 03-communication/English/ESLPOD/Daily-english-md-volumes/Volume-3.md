@@ -1886,7 +1886,7 @@ Ho, ho, ho!  Merry Christmas!
 
 This is English as a Second Language Podcast  number 228.  I'm your host, Dr. Jeff McQuillan, coming to you from beautiful Los Angeles, California.  I want to thank Santa Claus for coming on our program today and wishing us all a Merry Christmas and Happy Holidays to everyone on this Christmas holida y edition of ESL Podcast.
 
-Remember to visit our website and give yourself a Christmas/Chanukah holiday gift by becoming a member of ESL Podcast.  If you do that, your present will be a Learning Guide for each episode of this podcast that includes all of t he vocabulary, definitions, cultural notes, additional definitions that we don't talk about on the podcast, as well as a complete transcript of each episode.
+Remember to visit our website and give yourself a Christmas/Chanukah holiday gift by becoming a member of ESL Podcast.  If you do that, your present will be a Learning Guide for each episode of this podcast that includes all of the vocabulary, definitions, cultural notes, additional definitions that we don't talk about on the podcast, as well as a complete transcript of each episode.
 
 Our topic today is called “A Christmas Feast.”  Let's get started.
 
@@ -2018,7 +2018,7 @@ Our podcast today is called “Irritating Co -workers.”  To irritate, “ir ri
 
 Our story begins by Pete saying that since their office had been reorganized - since they had changed the company and who was working with whom - now he has to share “an office with Isabel.  We’ve be en getting on each other’s nerves,” Pete says.  To get on someone's nerves, “nerves,” means the same as to irritate someone.  It's another way of saying that you are bothering or annoying someone.  To annoy, “annoy,” is similar to irritate.  So, you're get ting on my nerves - or that person is getting on his nerves.
 
-Pete says, “Hey, Isabel, can you cut that out?”  To cut something out means to stop it.  It's an informal expression, usually something that would be considered impolite or rude.  If you say t o a child, “Cut that out,” you're telling the child to stop doing what they're doing.  So, it's not a nice thing to say, not something you would want to say to your co -workers - the people you work with.
+Pete says, “Hey, Isabel, can you cut that out?”  To cut something out means to stop it.  It's an informal expression, usually something that would be considered impolite or rude.  If you say to a child, “Cut that out,” you're telling the child to stop doing what they're doing.  So, it's not a nice thing to say, not something you would want to say to your co -workers - the people you work with.
 
 Isabel says, “Cut what out?  I’m not doing anything .”  And Pete says, “You’re tapping your pencil on the desk.”  To tap, “tap,” means to hit lightly.  Isabel is taking her pencil and she's hitting it on the desk several times.  Pete says that this is driving him crazy.  To drive someone crazy is, again, si milar to to get on someone's nerves; it means to annoy or to irritate.  There was also a song, I think in the 1980s, (Jeff sings) “She drives me crazy - ooh - ooh.”  When a woman drives you crazy, you mean you love her a lot - you are very excited to be wi th her.  It means something very different than the normal meaning, which is when someone drives you crazy, they bother you - they annoy you.  Unless it's a beautiful woman, in that case, it would be a good thing!
 
@@ -2028,7 +2028,7 @@ These m aterials are copyrighted by the Center for Educational Development (2006
 
 Isabel says, “You’ve got to be kidding me!”  This, again, is an informal expression, which means you must be joking - I can't believe I'm hearing what you are telling me or you cannot be serious - this is wrong - you've got to be kidding me.  Not something you would say to your boss; maybe something you could say to a friend.  It means that you don't believe the other pers on.
 
-Isabel says, “You’re complaining about me talking on the phone when your friend Deepak stops by ten times a day to shoot the breeze?”  Isabel is saying how can you complain about me when your friend is always here talking to you.  To shoot, “shoot,” t he breeze, “breeze,” means to gossip - to talk, usually not about anything very serious, to have a relaxed conversation.
+Isabel says, “You’re complaining about me talking on the phone when your friend Deepak stops by ten times a day to shoot the breeze?”  Isabel is saying how can you complain about me when your friend is always here talking to you.  To shoot, “shoot,” the breeze, “breeze,” means to gossip - to talk, usually not about anything very serious, to have a relaxed conversation.
 
 Isabel goes on to say, “I can't stand” Deepak - “I can't stand that guy.”  To not be able to stand someone or something means to not  be able to put up with or to tolerate someone or something - to be frustrated - to be tired of being bothered by that thing or that person.  If you say, “I can't stand my mother -in-law,” you mean I don't like her - I don't get along with her.  That's just  an example, of course!
 
@@ -2070,7 +2070,7 @@ Pete:  I don’t slurp my coffee.  And plus, how can you hear it when you’re s
 
 Isabel:  You’ve got to be kidding me!  You’re complaining about me talking on the phone when your friend Deepa k stops by ten times a day to shoot the breeze?  I can’t stand that guy.
 
-Pete:  It’s no skin off my nose if you don’t like Deepak.  Look, we have a lot of pent-up anger from working in these close quarters, and it’s probably okay to let off steam once i n a while.  But, it’s probably not a good idea to keep it up.  I’m willing to forgive and forget if you are.
+Pete:  It’s no skin off my nose if you don’t like Deepak.  Look, we have a lot of pent-up anger from working in these close quarters, and it’s probably okay to let off steam once in a while.  But, it’s probably not a good idea to keep it up.  I’m willing to forgive and forget if you are.
 
 Isabel:  Fine.  Let’s call a truce.  I’ll try to be more considerate and to keep the noise down.
 
@@ -2232,7 +2232,7 @@ He says, “I work in an office wh ere there are a lot of attractive women.” A
 
 Liam then starts talking to Debra, he says, “Hi, Debra.  How’s it going?”   She says, “Okay.”  What about you - “How about you?”   Liam says he's “doing okay.” He says he's “going to an art show” on Saturday.  An art show would be a show looking at pictures or paintings.  Of course, Liam is trying to impress Debra - make Debra think that he is a very cultured person.
 
-He asks Debra if she would like to come with him, and Debra says, “Geez, I’m pretty busy this weekend.”  This is what the women always used t o tell me when I asked them out on a date!  The expression geez, “geez,” is one we use to express surprise, or perhaps confusion.  Well, Debra is perhaps a little surprised and she says that she's “busy this weekend.”
+He asks Debra if she would like to come with him, and Debra says, “Geez, I’m pretty busy this weekend.”  This is what the women always used to tell me when I asked them out on a date!  The expression geez, “geez,” is one we use to express surprise, or perhaps confusion.  Well, Debra is perhaps a little surprised and she says that she's “busy this weekend.”
 
 Then Liam, who, of course as a player , tries to get women to date him, goes on to say, “That’s too bad.  How about going for a drink after work today?”  To go for a drink means to go have an alcoholic beverage or a soda, maybe a beer, with someone in a bar.   And Debra says, “Well, I don’t kno w,” and Liam starts to try to convince her; he says, “Oh, come on.  It’ll be fun and we can try that new place down the street.”
 
@@ -2296,7 +2296,7 @@ Monica:  Hi.
 
 Liam:  I’ve just moved to this area and was wondering if you could recommend a good restaurant around here.
 
-Monica:  That depends on what kind of food you like.  There’s a good Italian restaurant on Elm Street, and th ere’s a good Thai place on Lyndon Avenue.
+Monica:  That depends on what kind of food you like.  There’s a good Italian restaurant on Elm Street, and there’s a good Thai place on Lyndon Avenue.
 
 Liam:  Which one do you prefer?
 
@@ -2509,7 +2509,7 @@ The clerk says no, but he says it in a polite way, he says, “I’m afraid not.
 
 He says, “You can take a taxi or a bus,” that the c ity has, “a very good bus system.”  The bus, “bus,” system is the system of p ublic transportation in a city that uses buses.  You can have a subway system; you  can have a bus system. Both these are ways of getting around the city.
 
-“The other option,” the clerk says, “is to take a t our.  There are several tour companies that have day tours leaving from this hot el.”  These are companies that come with their own bus and pick you up at you r hotel and take you to the important sights in the city.  A day, “day,” tour i s usually a short tour - four, five, maybe eight or nine hours that you go with a group of other tourists, and you
+“The other option,” the clerk says, “is to take a t our.  There are several tour companies that have day tours leaving from this hot el.”  These are companies that come with their own bus and pick you up at you r hotel and take you to the important sights in the city.  A day, “day,” tour is usually a short tour - four, five, maybe eight or nine hours that you go with a group of other tourists, and you
 
 have a person that explains all the different place s you are going, we would call that person a tour guide.
 

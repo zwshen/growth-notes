@@ -1,0 +1,234 @@
+% literate-doc-template.nw
+% A reusable noweb template for turning embedded C modules into literate documentation.
+% Replace sections marked with TODO or <> with your project-specific content.
+
+@ % Prose starts here. Use normal paragraphs and reference code chunks by <<chunkname>>.
+
+Title: <<project-name>> — short 1-line motivation
+Author: <<your-name>>
+Date: <<YYYY-MM-DD>>
+
+This document is a literate source for the module "<<module-name>>".  Use `notangle` to extract the implementation and `noweave` to produce TeX/HTML documentation.
+
+% -----------------------------------------------------------------------------
+% 1. Overview
+% -----------------------------------------------------------------------------
+
+The purpose of this module is: <<one-sentence summary of what it does and why>>.
+
+Constraints / target environment:
+- Target MCU: <<MCU model>>
+- Clock: <<clock speed>>
+- Memory constraints: <<RAM / Flash budgets>>
+- Toolchain: <<gcc-arm-none-eabi / clang / other>>
+
+Usage scenarios (short examples):
+1. <<scenario 1: e.g. boot, init sensor, read value>>
+2. <<scenario 2>>
+
+% -----------------------------------------------------------------------------
+% 2. API & Contracts
+% -----------------------------------------------------------------------------
+
+Below are the public APIs, presented with their contracts.
+
+<<api.h>>=
+#ifndef <<MODULE_UPPER>>_H
+#define <<MODULE_UPPER>>_H
+
+#include <stdint.h>
+#include <stdbool.h>
+
+/* Initialize the module. Must be called once before any other calls. */
+int <<module_prefix>>_init(void);
+
+/* Read data into buffer. Precondition: buf != NULL and len >= MIN_LEN. */
+int <<module_prefix>>_read(uint8_t *buf, unsigned len);
+
+/* Shutdown / put into low-power mode. */
+void <<module_prefix>>_shutdown(void);
+
+#endif /* <<MODULE_UPPER>>_H */
+@
+
+For each function above, state explicitly:
+- Pre-conditions
+- Post-conditions
+- Error codes and meaning
+- Timing constraints (if any)
+
+Example (for <<module_prefix>>_read):
+- pre: buffer != NULL, len >= 8
+- post: return 0 on success, buffer filled with len bytes
+- errors: -1 = timeout, -2 = hardware fault
+- worst-case time: 2 ms per byte (approx.)
+
+% -----------------------------------------------------------------------------
+% 3. Minimal usage example
+% -----------------------------------------------------------------------------
+
+A minimal example demonstrating initialization, usage, and shutdown.
+
+<<example_main.c>>=
+#include "<<module_name>>.h"
+#include <stdio.h>
+
+int main(void) {
+  if (<<module_prefix>>_init() != 0) {
+    printf("init fail\n");
+    return -1;
+  }
+
+  uint8_t buf[16];
+  if (<<module_prefix>>_read(buf, sizeof(buf)) == 0) {
+    /* handle data */
+  }
+
+  <<module_prefix>>_shutdown();
+  return 0;
+}
+@
+
+% -----------------------------------------------------------------------------
+% 4. Design narrative (motivation, alternatives, trade-offs)
+% -----------------------------------------------------------------------------
+
+Describe the design choices succinctly. Use bullet points for alternatives and why they were rejected.
+
+- Decision: <<e.g. use interrupt-driven RX instead of polling>>
+  - Reason: <<timing / power / CPU usage>>
+  - Alternative: <<polling>> — rejected because <<reason>>
+
+% -----------------------------------------------------------------------------
+% 5. Implementation (named chunks)
+% -----------------------------------------------------------------------------
+
+Below the code is arranged in named chunks. The chunk names are referenced from the prose above.
+
+<<module:includes>>=
+#include "<<module_name>>.h"
+#include <string.h>
+#include <stdio.h>
+@
+
+<<module:defs>>=
+#define <<MODULE_UPPER>>_MIN_LEN 8
+#define <<MODULE_UPPER>>_TIMEOUT_MS 100
+
+/* internal state */
+static bool initialized = false;
+@
+
+<<module:init>>=
+int <<module_prefix>>_init(void) {
+  if (initialized) return 0;
+  /* TODO: hardware init: clocks, gpio, uart/i2c setup */
+  initialized = true;
+  return 0;
+}
+@
+
+<<module:read>>=
+int <<module_prefix>>_read(uint8_t *buf, unsigned len) {
+  if (!initialized) return -3; /* not initialized */
+  if (!buf || len < <<MODULE_UPPER>>_MIN_LEN) return -4; /* bad args */
+
+  /* TODO: implement concrete read, e.g. polling or interrupt-driven */
+  for (unsigned i = 0; i < len; ++i) {
+    /* read byte into buf[i]; emulate blocking behaviour */
+    buf[i] = 0; /* placeholder */
+  }
+  return 0;
+}
+@
+
+<<module:shutdown>>=
+void <<module_prefix>>_shutdown(void) {
+  if (!initialized) return;
+  /* TODO: power down hardware, disable clocks */
+  initialized = false;
+}
+@
+
+% -----------------------------------------------------------------------------
+% 6. Testing and validation
+% -----------------------------------------------------------------------------
+
+List test cases, expected results, and include the test harness code chunk.
+
+Test cases:
+1. init success -> expect return 0
+2. read with insufficient buffer -> expect error -4
+3. read after init -> expect 0 and valid data
+
+<<test_harness.c>>=
+#include "<<module_name>>.h"
+#include <assert.h>
+#include <stdio.h>
+
+int main(void) {
+  assert(<<module_prefix>>_init() == 0);
+  uint8_t small[4];
+  assert(<<module_prefix>>_read(small, sizeof(small)) == -4);
+
+  uint8_t buf[16];
+  int r = <<module_prefix>>_read(buf, sizeof(buf));
+  printf("read returned %d\n", r);
+  /* further asserts depend on implementation */
+  <<module_prefix>>_shutdown();
+  return 0;
+}
+@
+
+% -----------------------------------------------------------------------------
+% 7. Build & tangling instructions
+% -----------------------------------------------------------------------------
+
+Tangling (extract .c/.h):
+- To extract source files: `notangle literate-doc-template.nw > tangled.c` or use named chunk extraction.
+- To weave into TeX: `noweave literate-doc-template.nw > doc.tex` and then `pdflatex doc.tex`.
+
+Recommended Makefile snippet (append to project Makefile):
+
+<<Makefile.snip>>=
+# Tangle step: generate implementation and examples
+tangle:
+	notangle literate-doc-template.nw > src/<<module_name>>.c
+	notangle -index -noerrors -output=include/<<module_name>>.h literate-doc-template.nw
+
+weave:
+	noweave literate-doc-template.nw > docs/<<module_name>>.tex
+	pdflatex -output-directory=docs docs/<<module_name>>.tex || true
+
+.PHONY: tangle weave
+@
+
+% -----------------------------------------------------------------------------
+% 8. CI checklist & PR expectations
+% -----------------------------------------------------------------------------
+
+When opening a PR that changes implementation:
+- Ensure the literate source is updated (not only the generated .c/.h)
+- CI must run tangle -> build -> unit test (green)
+- Include a brief changelog entry in the doc's "TODO / changelog" section
+
+% -----------------------------------------------------------------------------
+% 9. TODOs and future improvements
+% -----------------------------------------------------------------------------
+
+- Add DMA support for high throughput
+- Add QEMU-based integration smoke test
+- Expand tests to include edge-case timing tests
+
+% -----------------------------------------------------------------------------
+% 10. Appendices (register map, timing diagrams, statechart)
+% -----------------------------------------------------------------------------
+
+Append hardware register maps, simple ASCII statecharts, and timing budgets here so the document is self-contained.
+
+<<appendix:regmap>>=
+/* Example register map (fill with actual addresses) */
+#define HW_REG_CTRL (*(volatile uint32_t*)0x40000000)
+@
+
+% End of literate-doc-template.nw

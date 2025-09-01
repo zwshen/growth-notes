@@ -31,6 +31,12 @@
 - **embedded-system/**: 嵌入式系統
 - **algorithms/**: 演算法與競程訓練 (含 ACM)
 
+Literate Programming（可執行文件化開發）
+
+- 讀我：`02-technical-skills/literate_doc_plan.md`（心法與實作流程：分層、契約、tangle→build→test）
+- 模板：`02-technical-skills/literate-doc-template.nw`（noweb 模板，直接複製改名即可）
+- 提示：模板內含「Build & tangling instructions」與可加入 Makefile 的片段；Windows 可在 WSL 內安裝 noweb/TeX 執行 tangle/weave。
+
 ### 03-communication/ 溝通表達
 
 語言學習與寫作技能
@@ -131,4 +137,4 @@
 
 *「知識投資的回報最豐厚。」* - 班傑明·富蘭克林
 
-最後更新：2025年8月20日
+最後更新：2025年9月1日

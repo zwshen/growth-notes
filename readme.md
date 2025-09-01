@@ -35,6 +35,7 @@ Literate Programming（可執行文件化開發）
 
 - 讀我：`02-technical-skills/literate_doc_plan.md`（心法與實作流程：分層、契約、tangle→build→test）
 - 模板：`02-technical-skills/literate-doc-template.nw`（noweb 模板，直接複製改名即可）
+- 訓練計畫：`02-technical-skills/literate_doc_writing_skill_plan.md`（英文寫作 × Literate Doc 能力精進：技能拆解與 12 週實作路線）
 - 提示：模板內含「Build & tangling instructions」與可加入 Makefile 的片段；Windows 可在 WSL 內安裝 noweb/TeX 執行 tangle/weave。
 
 ### 03-communication/ 溝通表達

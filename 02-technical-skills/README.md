@@ -36,6 +36,7 @@
 
 - `literate_doc_plan.md`：實作心法與落地流程（如何分層、寫契約、tangle→build→test）。
 - `literate-doc-template.nw`：noweb 模板，可直接複製改名後使用。
+- `literate_doc_reference_books.md`：經典參考書與精讀實作路線（Knuth《Literate Programming》、`TeX: The Program`、`METAFONT: The Program`；含 12 個月精讀與任務計畫）。
 
 ### 快速開始（Windows）
 

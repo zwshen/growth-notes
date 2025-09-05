@@ -34,6 +34,9 @@
 - **04-reading-materials/**: 豐富的閱讀資源和理論指導。
 - **05-progress-tracking/**: 學習進度管理和改進工具。
 - **Daily-english-md/**: 包含1,300+個ESL播客轉錄的每日英語學習材料。
+- **eslinput/**: 英語作為第二語言的綜合輸入材料。
+  - **reading_analysis_checklist.md**: 閱讀分析清單，用於指導綜合輸入學習。
+  - **Sapiens/c01_analysis.md**: 《人類簡史》第一章的ESL詳細分析（含中文解讀）。
 
 ### 04-wisdom-philosophy/ 智慧哲學
 

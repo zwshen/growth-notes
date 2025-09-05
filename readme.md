@@ -1,126 +1,20 @@
-# 學習筆記專案
+# 學習筆記專案 (Growth Notes)
 
-涵蓋電腦科學、個人發展與技能習得的綜合學習筆記、資源與專案收集。
+本專案為個人的綜合學習筆記，涵蓋電腦科學、個人發展與技能習得。
 
 ## 專案概覽
 
-本專案作為個人知識庫，採用自我發展導向的架構設計，按照學習的邏輯順序組織內容。從基礎能力建立開始，逐步發展技術技能、溝通能力，最終形成智慧與哲學思考。
+本專案作為一個個人知識庫，系統性地記錄了在不同領域的學習歷程與反思。
 
-## 目錄架構
-
-### 01-foundations/ 基礎能力
-
-建立學習與思考的核心能力
-
-- **learning-methods/**: 學習方法論與技巧
-  - 進步本完全指南：紮實記錄學習突破的系統化方法
-  - 超速學習與學習科學相關書籍筆記
-  - 學習思維導圖
-- **note-taking/**: 筆記方法與知識管理
-- **xiaolai/**: 李笑來寫作、學習方法論
-- **deliberate-practice-patterns.md**: 刻意練習模式研究
-- **go-from-18k-to-1d.md**: 圍棋學習專案 (18k→1d)
-- **Learning-principles.md**: 學習原則
-- **高效學習 - 模仿分解鞏固精通.md**: 高效學習方法
-
-### 02-technical-skills/ 技術技能
-
-程式設計與電腦科學領域
-
-- **computer-science/**: 電腦科學基礎理論 (含 Nand2tetris)
-- **embedded-system/**: 嵌入式系統
-- **algorithms/**: 演算法與競程訓練 (含 ACM)
-
-Literate Programming（可執行文件化開發）
-
-- 讀我：`02-technical-skills/literate_doc_plan.md`（心法與實作流程：分層、契約、tangle→build→test）
-- 模板：`02-technical-skills/literate-doc-template.nw`（noweb 模板，直接複製改名即可）
-- 訓練計畫：`02-technical-skills/literate_doc_writing_skill_plan.md`（英文寫作 × Literate Doc 能力精進：技能拆解與 12 週實作路線）
-- 提示：模板內含「Build & tangling instructions」與可加入 Makefile 的片段；Windows 可在 WSL 內安裝 noweb/TeX 執行 tangle/weave。
-
-### 03-communication/ 溝通表達
-
-語言學習與寫作技能
-
-- **English/**: 英語學習資源與方法
-- **writing/**: 寫作技巧與表達能力
-- **哈利波特系列英文閱讀中的 i+1 原則示例.pdf**: i+1 原則示例
-- **英語自學系列：掌握可理解輸入的秘訣.pdf**: 可理解輸入法
-- **Sufficient, Compelling, Comprehensible Input_ A Self-Study English Guide.pdf**: A Self-Study English Guide
-
-### 04-wisdom-philosophy/ 智慧哲學
-
-投資智慧與人生哲學
-
-- **mental-models/**: 心智模型與思考框架 (含查理蒙格模型)
-- **investment-wisdom/**: 查理蒙格、華倫巴菲特投資哲學
-- **decision-making/**: 決策科學與人生智慧
-
-### 99-resources/ 資源庫
-
-外部參考資料與第三方資源
-
-- **flomo/**: 每日思考與學習記錄 (反思日誌)
-- **sgf/**: 圍棋棋譜收藏
-- **submodule/**: Git 子模組資源
-  - Donald Knuth 作品收藏
-  - TAOCP 讀書會資料
-- **Notes-book-Lost-in-Thought.md**: "Lost in Thought" 讀書筆記
-
-## 學習發展路徑
-
-### 第一階段：基礎建立 (01-foundations)
-
-建立高效學習的方法論，培養清晰的思考框架
-
-- 掌握學習科學原理與超速學習法
-- 建立有效的筆記系統與知識管理
-- 建立進步本系統，紮實記錄每個學習突破
-- 透過刻意練習模式提升技能
-- 實踐圍棋等具體技能的學習歷程
-
-### 第二階段：技能發展 (02-technical-skills)
-
-發展核心技術能力
-
-- 深入理解電腦科學基礎理論
-- 培養程式設計思維與實作能力
-- 提升演算法思考與問題解決能力
-
-### 第三階段：溝通表達 (03-communication)
-
-提升跨領域溝通能力
-
-- 精進英語聽說讀寫能力
-- 培養清晰有力的寫作技巧
-- 增強跨文化溝通技能
-
-### 第四階段：智慧昇華 (04-wisdom-philosophy)
-
-培養長期思維與人生智慧
-
-- 學習心智模型與思考框架，避免認知偏誤
-- 學習投資大師的決策智慧
-- 建立正確的價值觀與人生哲學
-- 提升重大決策的判斷力
-
-### 持續實踐與反思
-
-- **資源整合** (99): 持續收集優質學習資源與反思記錄
-- **每日思考** (flomo): 從經驗中萃取智慧
-- **實際應用**: 將理論轉化為實際能力
-
-## 學習進度
-
-本專案代表跨多個領域持續學習與知識累積的歷程。每個目錄包含不同完成階段的資料，反映學習的迭代本質。
+詳細的專案結構、學習路徑與內容導覽，請參閱 [**GEMINI.md**](GEMINI.md)。
 
 ## 參與貢獻
 
 這主要是個人學習專案，但如果您發現任何錯誤或有改進建議，歡迎：
 
-1. 開啟 issue 進行討論
-2. 提交 pull request 進行修正
-3. 分享可能有價值的額外資源
+1.  開啟 issue 進行討論
+2.  提交 pull request 進行修正
+3.  分享可能有價值的額外資源
 
 ## 授權
 
@@ -130,12 +24,10 @@ Literate Programming（可執行文件化開發）
 
 特別感謝：
 
-- 所有被引用作品的作者與教育者
-- 線上學習社群與平台
-- 開源社群提供的工具與資源
+-   所有被引用作品的作者與教育者
+-   線上學習社群與平台
+-   開源社群提供的工具與資源
 
 ---
 
 *「知識投資的回報最豐厚。」* - 班傑明·富蘭克林
-
-最後更新：2025年9月1日

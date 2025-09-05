@@ -202,7 +202,7 @@ This document provides a detailed analysis of the first chapter of "Sapiens: A B
 
 ### Paragraph 11
 
-**Original Text:** "On the island of Java, in Indonesia, lived *Homo soloensis*, ‘Man from the Solo Valley’, who was suited to life in the tropics. On <a id="page7"/>another Indonesian island – the small island of Flores – archaic humans underwent a process of dwarfing. Humans first reached Flores when the sea level was exceptionally low, and the island was easily accessible from the mainland. When the seas rose again, some people were trapped on the island, which was poor in resources. Big people, who need a lot of food, died first. Smaller fellows survived much better. Over the generations, the people of Flores became dwarves. This unique species, known by scientists as *Homo floresiensis*, reached a maximum height of only one metre and weighed no more than twenty-five kilograms. They were nevertheless able to produce stone tools, and even managed occasionally to hunt down some of the island’s elephants – though, to be fair, the elephants were a dwarf species as well."
+**Original Text:** "On the island of Java, in Indonesia, lived *Homo soloensis*, ‘Man from the Solo Valley’, who was suited to life in the tropics. On another Indonesian island – the small island of Flores – archaic humans underwent a process of dwarfing. Humans first reached Flores when the sea level was exceptionally low, and the island was easily accessible from the mainland. When the seas rose again, some people were trapped on the island, which was poor in resources. Big people, who need a lot of food, died first. Smaller fellows survived much better. Over the generations, the people of Flores became dwarves. This unique species, known by scientists as *Homo floresiensis*, reached a maximum height of only one metre and weighed no more than twenty-five kilograms. They were nevertheless able to produce stone tools, and even managed occasionally to hunt down some of the island’s elephants – though, to be fair, the elephants were a dwarf species as well."
 
 **Paragraph Summary:** This paragraph introduces *Homo soloensis* and *Homo floresiensis*, explaining how the latter evolved into a dwarf species due to limited resources on Flores Island.
 **段落大意:** 這段話介紹了梭羅人和佛羅勒斯人，解釋了後者由於佛羅勒斯島資源有限而演變成矮人種。
@@ -236,7 +236,7 @@ This document provides a detailed analysis of the first chapter of "Sapiens: A B
 
 ### Paragraph 12
 
-**Original Text:** "In 2010 another lost sibling was rescued from oblivion, when scientists excavating the Denisova Cave in Siberia discovered a fossilised finger bone. Genetic analysis proved that the finger belonged to a previously unknown human species, which was named *Homo denisova*. Who knows how many lost relatives of ours are waiting to be <a id="page8"/>discovered in other caves, on other islands, and in other climes."
+**Original Text:** "In 2010 another lost sibling was rescued from oblivion, when scientists excavating the Denisova Cave in Siberia discovered a fossilised finger bone. Genetic analysis proved that the finger belonged to a previously unknown human species, which was named *Homo denisova*. Who knows how many lost relatives of ours are waiting to be discovered in other caves, on other islands, and in other climes."
 
 **Paragraph Summary:** This paragraph describes the discovery of *Homo denisova* through genetic analysis of a fossilized finger bone, highlighting the ongoing potential for discovering more human relatives.
 **段落大意:** 這段話描述了通過對化石指骨的基因分析發現丹尼索瓦人，強調了發現更多人類親屬的持續可能性。
@@ -445,7 +445,7 @@ This document provides a detailed analysis of the first chapter of "Sapiens: A B
 
 ### Paragraph 20
 
-**Original Text:** "Another singular human trait is that we walk upright on two legs. Standing up, it’s easier to scan the savannah for game or enemies, and arms that are unnecessary for locomotion are freed for other purposes, like throwing stones or signalling. The more things these hands could do, the more successful their owners were, so evolutionary pressure brought about an increasing concentration of nerves and finely tuned muscles in the palms and fingers. As a result, humans can perform very intricate tasks with their hands. In particular, they can produce and use sophisticated tools. The first evidence for tool <a id="page10"/>production dates from about 2.5 million years ago, and the manufacture and use of tools are the criteria by which archaeologists recognise ancient humans."
+**Original Text:** "Another singular human trait is that we walk upright on two legs. Standing up, it’s easier to scan the savannah for game or enemies, and arms that are unnecessary for locomotion are freed for other purposes, like throwing stones or signalling. The more things these hands could do, the more successful their owners were, so evolutionary pressure brought about an increasing concentration of nerves and finely tuned muscles in the palms and fingers. As a result, humans can perform very intricate tasks with their hands. In particular, they can produce and use sophisticated tools. The first evidence for tool production dates from about 2.5 million years ago, and the manufacture and use of tools are the criteria by which archaeologists recognise ancient humans."
 
 **Paragraph Summary:** This paragraph discusses the advantages of bipedalism, such as improved scanning and freeing up hands for tool use, and how this led to the development of sophisticated tools, a key marker for archaeologists.
 **段落大意:** 這段話討論了兩足步行的優勢，例如改善了視野和解放了雙手用於使用工具，以及這如何導致了複雜工具的發展，這是考古學家的一個關鍵標誌。
@@ -659,7 +659,7 @@ This document provides a detailed analysis of the first chapter of "Sapiens: A B
 
 ### Paragraph 38
 
-**Original Text:** "The advent of cooking enabled humans to eat more kinds of food, to devote less time to eating, and to make do with smaller teeth and shorter intestines. Some scholars believe there is a direct link between the advent of cooking, the shortening of the human <a id="page13"/>intestinal track, and the growth of the human brain. Since long intestines and large brains are both massive energy consumers, it’s hard to have both. By shortening the intestines and decreasing their energy consumption, cooking inadvertently opened the way to the jumbo brains of Neanderthals and Sapiens."
+**Original Text:** "The advent of cooking enabled humans to eat more kinds of food, to devote less time to eating, and to make do with smaller teeth and shorter intestines. Some scholars believe there is a direct link between the advent of cooking, the shortening of the human intestinal track, and the growth of the human brain. Since long intestines and large brains are both massive energy consumers, it’s hard to have both. By shortening the intestines and decreasing their energy consumption, cooking inadvertently opened the way to the jumbo brains of Neanderthals and Sapiens."
 
 **Paragraph Summary:** This paragraph explains how cooking led to a more diverse diet, reduced eating time, and physical adaptations like smaller teeth and shorter intestines, which in turn freed up energy for brain development in Neanderthals and Sapiens.
 **段落大意:** 這段話解釋了烹飪如何導致飲食多樣化、進食時間減少以及牙齒變小、腸道變短等身體適應，進而為尼安德特人和智人的大腦發展釋放了能量。
@@ -761,7 +761,7 @@ This document provides a detailed analysis of the first chapter of "Sapiens: A B
 
 ### Paragraph 42
 
-**Original Text:** "Our own species, *Homo sapiens*, was already present on the world stage, but so far it was just minding its own business in a corner of Africa. We don’t know exactly where and when animals that can be classified as *Homo sapiens* first evolved from some earlier type of <a id="page14"/>humans, but most scientists agree that by 150,000 years ago, East Africa was populated by Sapiens that looked just like us. If one of them turned up in a modern morgue, the local pathologist would notice nothing peculiar. Thanks to the blessings of fire, they had smaller teeth and jaws than their ancestors, whereas they had massive brains, equal in size to ours."
+**Original Text:** "Our own species, *Homo sapiens*, was already present on the world stage, but so far it was just minding its own business in a corner of Africa. We don’t know exactly where and when animals that can be classified as *Homo sapiens* first evolved from some earlier type of humans, but most scientists agree that by 150,000 years ago, East Africa was populated by Sapiens that looked just like us. If one of them turned up in a modern morgue, the local pathologist would notice nothing peculiar. Thanks to the blessings of fire, they had smaller teeth and jaws than their ancestors, whereas they had massive brains, equal in size to ours."
 
 **Paragraph Summary:** This paragraph states that *Homo sapiens* originated in East Africa around 150,000 years ago, looking much like modern humans, and highlights the physical changes (smaller teeth, larger brains) influenced by fire.
 **段落大意:** 這段話指出智人約在15萬年前起源於東非，外觀與現代人類非常相似，並強調了受火影響的身體變化（牙齒變小，大腦變大）。
@@ -939,7 +939,7 @@ This document provides a detailed analysis of the first chapter of "Sapiens: A B
 
 ### Paragraph 49
 
-**Original Text:** "In recent decades the Replacement Theory has been the common wisdom in the field. It had firmer archaeological backing, and was more politically correct (scientists had no desire to open up the Pandora’s box of racism by claiming significant genetic diversity among <a id="page16"/>modern human populations). But that ended in 2010, when the publication of the Neanderthal genome, showing interbreeding, stunned the scientific community."
+**Original Text:** "In recent decades the Replacement Theory has been the common wisdom in the field. It had firmer archaeological backing, and was more politically correct (scientists had no desire to open up the Pandora’s box of racism by claiming significant genetic diversity among modern human populations). But that ended in 2010, when the publication of the Neanderthal genome, showing interbreeding, stunned the scientific community."
 
 **Paragraph Summary:** This paragraph explains that the Replacement Theory was widely accepted until 2010, when the publication of the Neanderthal genome, showing interbreeding, stunned the scientific community.
 **段落大意:** 這段話解釋了替代理論曾被廣泛接受，直到2010年尼安德特人基因組的發表，顯示存在雜交，震驚了科學界。
@@ -1107,7 +1107,7 @@ This document provides a detailed analysis of the first chapter of "Sapiens: A B
 
 ### Paragraph 55
 
-**Original Text:** "Another possibility is that competition for resources flared up <a id="page18"/>into violence and genocide. Tolerance is not a Sapiens trademark. In modern times, a small difference in skin colour, dialect or religion has been enough to prompt one group of Sapiens to set about exterminating another group. Would ancient Sapiens have been more tolerant towards an entirely different human species? It may well be that when Sapiens encountered Neanderthals, the result was the first and most significant ethnic-cleansing campaign in history."
+**Original Text:** "Another possibility is that competition for resources flared up into violence and genocide. Tolerance is not a Sapiens trademark. In modern times, a small difference in skin colour, dialect or religion has been enough to prompt one group of Sapiens to set about exterminating another group. Would ancient Sapiens have been more tolerant towards an entirely different human species? It may well be that when Sapiens encountered Neanderthals, the result was the first and most significant ethnic-cleansing campaign in history."
 
 **Paragraph Summary:** This paragraph presents a more aggressive possibility for the disappearance of other human species: direct violence and genocide by *Homo sapiens*, citing Sapiens' historical intolerance towards differences.
 **段落大意:** 這段話提出了其他人類物種消失的一個更具侵略性的可能性：智人的直接暴力和種族滅絕，理由是智人歷史上對差異的不寬容。
@@ -1199,7 +1199,7 @@ This document provides a detailed analysis of the first chapter of "Sapiens: A B
 
 ### Paragraph 58
 
-**Original Text:** "Whether Sapiens are to blame or not, no sooner had they arrived at a new location than the native population became extinct. The last remains of *Homo soloensis* are dated to about 50,000 years ago. *Homo <a id="page19"/>denisova* disappeared shortly thereafter. Neanderthals made their exit roughly 30,000 years ago. The last dwarf-like humans vanished from Flores Island about 12,000 years ago. They left behind some bones, stone tools, a few genes in our DNA and a lot of unanswered questions. They also left behind us, *Homo sapiens*, the last human species."
+**Original Text:** "Whether Sapiens are to blame or not, no sooner had they arrived at a new location than the native population became extinct. The last remains of *Homo soloensis* are dated to about 50,000 years ago. *Homo denisova* disappeared shortly thereafter. Neanderthals made their exit roughly 30,000 years ago. The last dwarf-like humans vanished from Flores Island about 12,000 years ago. They left behind some bones, stone tools, a few genes in our DNA and a lot of unanswered questions. They also left behind us, *Homo sapiens*, the last human species."
 
 **Paragraph Summary:** This paragraph summarizes the rapid extinction of other human species following the arrival of *Homo sapiens* in new territories, leaving *Homo sapiens* as the sole surviving human species.
 **段落大意:** 這段話總結了智人抵達新領土後其他人類物種的迅速滅絕，使得智人成為唯一倖存的人類物種。
